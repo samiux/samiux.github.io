@@ -17,6 +17,6 @@ Make it simple.  We are specialized in Information Security. Our slogans are ```
 
 | Menu              | Description  |
 |-------------------|--------------|
-|[Home](/)          | Home Page    |
+|[Home](/README.md) | Home Page    |
 |[About](/about.md) | Who am I?    |
 
