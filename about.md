@@ -5,7 +5,9 @@ Samiux is an Information Security Enthusiast.  He is OSCE, OSCP and OSWP.  He is
 His slogan are :
 
 ```While you do not know attack, how can you know about defense? (未知攻,焉知防?)```
+
 ```Think like a criminal and act as professional```
+
 ```Not only try harder but also try smarter!```
 
 He has some active projects about information security, some of them are :
@@ -33,19 +35,19 @@ His skills are :
 
 He can be reached at :
 
-- [Samiux's Blog] (https://samiux.blogspot.com)
-- [InfoSec Ninjas] (https://samiux.github.io) 
+- [Samiux's Blog](https://samiux.blogspot.com)
+- [InfoSec Ninjas](https://samiux.github.io) 
 - IRC - freenode #infosec-ninjas
 
 ## **Reference**
 
-The following certificates are issued by [Offensive Security] (https://www.offensive-security.com)
+The following certificates are issued by [Offensive Security](https://www.offensive-security.com)
 
-- [OSCE - Offensive Security Certified Expert] (https://www.offensive-security.com/ctp-osce/)
-- [OSCP - Offensive Security Certified Professional] (https://www.offensive-security.com/pwk-oscp/)
-- [OSWP - Offensive Security Wireless Professional] (https://www.offensive-security.com/wifu-oswp/)
+- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)
+- [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
+- [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)
 
-[Offensive Security - Try Harder! with song) (https://www.offensive-security.com/offsec/say-try-harder/)
+[Offensive Security - Try Harder! with song)(https://www.offensive-security.com/offsec/say-try-harder/)
 
 ## **Hack The Box**
 
@@ -53,8 +55,8 @@ Ranking (Points will be removed when boxes are retired.  Process to next rank wi
 
 Noob (0%) -> Script Kiddie (5%) -> Hacker (20%) -> Pro Hacker (45%) -> Elite Hacker (70%) -> Guru (90%) -> Omniscient (100%)
 
-[Hack The Box] (https://www.hackthebox.eu) Member since Nov 1, 2018 but not active since the end of the year of 2018.  His current rank is Hacker.  Rank and points will be updated between 0800 and 0900 hours GMT+8 daily.
+[Hack The Box](https://www.hackthebox.eu) Member since Nov 1, 2018 but not active since the end of the year of 2018.  His current rank is Hacker.  Rank and points will be updated between 0800 and 0900 hours GMT+8 daily.
 
-[Hack The Box] !(https://www.hackthebox.eu/badge/image/78863)
+![Hack The Box](https://www.hackthebox.eu/badge/image/78863)
 
 Participants are not allowed to release any writeup or spoiler to the public when the boxes are not retired and they are still active.
