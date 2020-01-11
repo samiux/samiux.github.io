@@ -1,3 +1,5 @@
+|[Home](/README.md)|[About](/about.md)|
+
 # **Who am I?**
 
 Samiux is an Information Security Enthusiast.  He is OSCE, OSCP and OSWP.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.<br>
@@ -59,8 +61,4 @@ Noob (0%) -> Script Kiddie (5%) -> **Hacker (20%)** -> Pro Hacker (45%) -> Elite
 
 Participants are not allowed to release any writeup or spoiler to the public when the boxes are not retired and they are still active.
 
-| Menu              | Description  |
-|-------------------|--------------|
-|[Home](/README.md) | Home Page    |
-|[About](/about.md) | Who am I?    |
-
+|[Home](/README.md)|[About](/about.md)|
