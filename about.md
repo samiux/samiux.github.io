@@ -25,13 +25,13 @@ Forked from others :
 His skills are :
 
 - Penetration Testing
-- Linux Exploit Development
+- Exploit Development
 - Intrusion Detection and Prevention System
 - Ubuntu Linux Setup and Hardening
 - Kali Linux Setup
 - Bash Programming
 - Python Programming
-- GoLang Programming
+- GoLang Programming (coming soon)
 
 He can be reached at :
 
@@ -53,9 +53,9 @@ The following certificates are issued by [Offensive Security](https://www.offens
 
 Ranking (Points will be removed when boxes are retired.  Process to next rank will be decreased.  However, rank will be remained unchange.)
 
-Noob (0%) -> Script Kiddie (5%) -> Hacker (20%) -> Pro Hacker (45%) -> Elite Hacker (70%) -> Guru (90%) -> Omniscient (100%)
+Noob (0%) -> Script Kiddie (5%) -> **Hacker (20%)** -> Pro Hacker (45%) -> Elite Hacker (70%) -> Guru (90%) -> Omniscient (100%)
 
-[Hack The Box](https://www.hackthebox.eu) Member since Nov 1, 2018 but not active since the end of the year of 2018.  His current rank is Hacker.  Rank and points will be updated between 0800 and 0900 hours GMT+8 daily.
+[Hack The Box](https://www.hackthebox.eu) Member on Nov 1, 2018 but not active since the end of the year of 2018.  His current rank is Hacker.  Rank and points will be updated between 0800 and 0900 hours GMT+8 daily.
 
 ![Hack The Box](https://www.hackthebox.eu/badge/image/78863)
 
