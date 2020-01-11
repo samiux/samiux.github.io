@@ -12,9 +12,6 @@ A [ninja](https://en.wikipedia.org/wiki/Ninja) (忍者) or shinobi (忍び) was 
 
 Make it simple.  We are specialized in Information Security. Our slogans are ```Think like a criminal and act as a professional``` and ```While you do not know attack, how can you know about defense? (未知攻,焉知防?)``` as well as ```Not only try harder but also try smarter!```.
 
-
-
-
 | Menu              | Description  |
 |-------------------|--------------|
 |[Home](/README.md) | Home Page    |
