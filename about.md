@@ -47,7 +47,7 @@ The following certificates are issued by [Offensive Security](https://www.offens
 - [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 - [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)
 
-[Offensive Security - Try Harder! with song)(https://www.offensive-security.com/offsec/say-try-harder/)
+[Offensive Security - Try Harder! with song](https://www.offensive-security.com/offsec/say-try-harder/)
 
 ## **Hack The Box**
 
