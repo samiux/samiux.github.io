@@ -16,10 +16,6 @@ This forked Shodan Eye is released under GPLv3 by Samiux.
 sudo apt install python3-shodan git
 
 git clone https://github.com/samiux/shodan-eye
-
-cd shodan-eye
-
-python3 shodan_eye.py
 ```
 
 ## Change Log
@@ -36,5 +32,13 @@ Released on OCT 05, 2019 GMT+8
 ### Version 1.2.0b (Stable, Latest)  
 Released on OCT 10, 2019 GMT+8  
 [+] Minor modification  
+
+## Usage
+
+```bash
+cd shodan-eye
+
+python3 shodan_eye.py
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
