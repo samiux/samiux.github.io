@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **Articles**
 
@@ -16,4 +16,4 @@
 - [中國香港網絡罪行硏究](/cyber-law-hk.md)
 - [白帽子乎？!](/laws2019_1.md)
 
-|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
