@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+
 # **知彼知己 (資安編)**
 
 孫子兵法有云 :「知彼知己，百戰不殆；不知彼而知己，一勝一負；不知彼，不知己，每戰必殆。」  孫子兵法又云 :「兵者，詭道也。故能而示
@@ -27,3 +29,5 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/知彼知己-資安編-修訂二版.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
