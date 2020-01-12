@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **知彼知己 (資安編)**
 
@@ -29,4 +29,4 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/知彼知己-資安編-修訂二版.pdf">Download PDF</a>.</p>
 </object>
 
-|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
