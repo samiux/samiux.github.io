@@ -20,8 +20,8 @@ He has some active projects about information security, some of them are :
 
 Forked from others :
 
-- Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration
-- Shodan Eye - Security Search Engine
+- [Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration](/sandcastle)
+- [Shodan Eye - Security Search Engine](/shodan-eye)
 
 His skills are :
 
