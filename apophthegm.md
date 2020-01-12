@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **Apophthegm**
 
@@ -42,4 +42,4 @@
 
 ```不知不可为而为之，愚人也；知其不可为而不为，贤人也；知其不可为而为之，圣人也。``` -- 孟子
 
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
