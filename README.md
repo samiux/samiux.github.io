@@ -1,5 +1,5 @@
 
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # InfoSec Ninjas 资安忍者
 
@@ -15,5 +15,5 @@ A [ninja](https://en.wikipedia.org/wiki/Ninja) (忍者) or shinobi (忍び) was 
 
 Make it simple.  We are specialized in Information Security. Our slogans are ```Think like a criminal and act as a professional``` and ```While you do not know attack, how can you know about defense? (未知攻,焉知防?)``` as well as ```Not only try harder but also try smarter!```.
 
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
