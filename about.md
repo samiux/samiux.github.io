@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **Who am I?**
 
@@ -61,4 +61,5 @@ Noob (0%) -> Script Kiddie (5%) -> **Hacker (20%)** -> Pro Hacker (45%) -> Elite
 
 Participants are not allowed to release any writeup or spoiler to the public when the boxes are not retired and they are still active.
 
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
