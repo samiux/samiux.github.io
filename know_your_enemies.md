@@ -18,11 +18,11 @@
 
 ```sha256sum d8f86c145bd85501de0ba6f4937906f25453fcaa88419c10e145d31addaa7588  知彼知己-資安編-修訂二版.pdf```
 
-如遇缺字或缺標點情況，請下載閱讀。</b><br>
+如遇缺字或缺標點情況，請下載閱讀。
 
 下載 : [知彼知己-資安編-修訂二版.pdf](/pdf/知彼知己-資安編-修訂二版.pdf)
 
-<object data="/pdf/知彼知己-資安編-修訂二版.pdf"> type="application/pdf" width="900px" height="700px">
+<object data="/pdf/知彼知己-資安編-修訂二版.pdf" type="application/pdf" width="900px" height="700px">
     <embed src="/pdf/武裝自己-資安編-修訂五版.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/知彼知己-資安編-修訂二版.pdf">Download PDF</a>.</p>
     </embed>
