@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **武裝自己 (資安編)**
 
@@ -27,4 +27,4 @@
     </embed>
 </object>
 
-|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
