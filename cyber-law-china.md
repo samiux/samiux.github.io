@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **中華人民共和國網絡安全法精選**
 
@@ -73,4 +73,4 @@ Samiux
 OSCE  OSCP  OSWP  
 二零一九年三月十九日，中國香港  
 
-|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
