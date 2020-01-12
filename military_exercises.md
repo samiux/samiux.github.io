@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+
 # **軍事演習 (資安編)**
 
 軍事演習時，我軍會有分紅隊​ ​(Red​​ Team)​ 及藍隊​ (Blue​ Team)​ 。紅隊是作出攻擊隊伍，而藍隊就是防守隊伍。紅隊被要求在特定的時間和規定下，令藍隊的防守崩潰來達致任務成功，而藍隊就要極力阻止紅隊的攻擊成功，目的是同時測試其軍事單位的攻擊及防守能力。
@@ -28,3 +30,5 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/軍事演習-資安編-修訂二版.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
