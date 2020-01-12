@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+
 # **中華人民共和國網絡安全法精選**
 
 二零一六年十一月七日通過，並於二零一七年六月一日施行的「中華人民共和國網絡安全法」(下稱「網絡安全法」)，一共有七十九條，涵蓋範圍甚廣，由國家至人民，由商業到關鍵基礎設施，由我國至國際都有講述。
@@ -70,3 +72,5 @@
 Samiux  
 OSCE  OSCP  OSWP  
 二零一九年三月十九日，中國香港  
+
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
