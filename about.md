@@ -1,4 +1,4 @@
-|[Home](/README.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
 
 # **Who am I?**
 
@@ -33,7 +33,7 @@ His skills are :
 - Kali Linux Setup
 - Bash Programming
 - Python Programming
-- GoLang Programming (coming soon)
+- GoLang Programming
 
 He can be reached at :
 
@@ -61,4 +61,4 @@ Noob (0%) -> Script Kiddie (5%) -> **Hacker (20%)** -> Pro Hacker (45%) -> Elite
 
 Participants are not allowed to release any writeup or spoiler to the public when the boxes are not retired and they are still active.
 
-|[Home](/README.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
