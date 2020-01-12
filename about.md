@@ -29,7 +29,6 @@ His skills are :
 - Exploit Development
 - Intrusion Detection and Prevention System
 - Ubuntu Linux Setup and Hardening
-- Kali Linux Setup
 - Bash Programming
 - Python Programming
 - GoLang Programming
