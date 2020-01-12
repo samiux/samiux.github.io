@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # **Apophthegm**
 
 ```The miracle isn't that I finished. ... The miracle is that I had the courage to start.``` -- John "The Penguin" Bingham
@@ -39,3 +41,5 @@
 ```Keep It Simple, Stupid!```
 
 ```不知不可为而为之，愚人也；知其不可为而不为，贤人也；知其不可为而为之，圣人也。``` -- 孟子
+
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
