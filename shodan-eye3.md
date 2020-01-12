@@ -8,7 +8,7 @@ Samiux modified it to Python 3.7.x and enhanced some features as well as some mi
 
 This forked Shodan Eye 3 is released under GPLv3 by Samiux.
 
-[![](http://img.youtube.com/vi/LxCkiu3d4gU/0.jpg)](http://www.youtube.com/watch?v=LxCkiu3d4gU "")
+[![](http://img.youtube.com/vi/LxCkiu3d4gU/0.jpg)](http://www.youtube.com/watch?v=LxCkiu3d4gU)
 
 ## Download
 
