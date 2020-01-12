@@ -22,9 +22,8 @@
 下載 : [武裝自己-資安編-修訂五版.pdf](/pdf/武裝自己-資安編-修訂五版.pdf)
 
 <object data="/pdf/武裝自己-資安編-修訂五版.pdf" type="application/pdf" width="900px" height="700px">
-    <embed src="/pdf/武裝自己-資安編-修訂五版.pdf">
+    <embed src="/pdf/武裝自己-資安編-修訂五版.pdf"></embed>
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/武裝自己-資安編-修訂五版.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
 |[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
