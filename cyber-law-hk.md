@@ -1,4 +1,4 @@
-|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # **中國香港網絡罪行硏究**
 
@@ -36,4 +36,4 @@ OSCE  OSCP  OSWP
 香港法例第二百章 刑事罪行條例 第五十九及六十節  
 香港法例第二百章 刑事罪行條例 第一六一節  
 
-|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+|[Home](/README.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
