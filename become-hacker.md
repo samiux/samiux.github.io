@@ -1,4 +1,5 @@
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 
 # **如何成為黑客 (入門篇)**
 
@@ -70,4 +71,5 @@ Samiux
 OSCE  OSCP  OSWP  
 寫於二零一九年一月九日，中國香港
 
-|[Home](/README.md)|[Projects](/projects)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
