@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
+
 # **武裝自己 (資安編)**
 
 網絡在設計時並沒有考慮到安全問題，因為在初期的時候，它是在一個非常信任和安全的環境下運作。後來網絡開放給所有人使用，就形成了現在的互聯網，加上網絡使用技術愈來愈複雜，電腦程式設計在邏輯上或編程上的錯誤時有發生，安全問題就隨之而來。那些程式設計漏洞經常被非常聰明和技術優秀的惡意黑客 (所謂駭客) 所利用來取得利益或名譽，網絡攻擊相繼發生，所以在本質上互聯網是不安全的。
@@ -24,3 +26,5 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/武裝自己-資安編-修訂五版.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+|[Home](/README.md)|[Articles](/articles.md)|[About](/about.md)|
