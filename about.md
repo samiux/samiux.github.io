@@ -22,7 +22,6 @@ Forked from others :
 
 - Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration
 - Shodan Eye - Security Search Engine
-- WAIDPS - Wireless Auditing, Intrusion Detection and Prevention System
 
 His skills are :
 
