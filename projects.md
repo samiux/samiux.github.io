@@ -2,14 +2,17 @@
 
 # **Projects**
 
-## Active
+## Offensive
 
-- [Crossisants](https://github.com/samiux/croissants/README.md)
-- [Longjie](https://github.com/samiux/longjie/README.md)
-- 
+- [Chameleon 变色龙 - Website IP Address Seeker]()
+- [Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration]()
+- [Shodan Eye - Security Search Engine]()
 
-## Forked
+## Defensive
 
-- [Shodan-eye](https://github.com/samiux/shodan-eye/README.md)
+- [Croissants 牛角面包 - Intrusion Detection and Prevention System]()
+- [Longjing 龙井 - Deep Learning Driven Web Application Firewall]()
+
+
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
