@@ -35,8 +35,8 @@
 
 網絡上有很多的實習的平台，有的是在綫上進行，有的是在綫下進行。有的需要付費的，但大多數都是免費的。以下是一些比較知名的平台：
 
-(一) [Hack The Box](https://www.hackthebox.eu/) (綫上，付費或免費，要求有一定的基本能力方可注册)；
-(二) [VulnHub](https://www.vulnhub.com/) (綫下，免費)。
+(一) [Hack The Box](https://www.hackthebox.eu/) (綫上，付費或免費，要求有一定的基本能力方可注册)；  
+(二) [VulnHub](https://www.vulnhub.com/) (綫下，免費)。  
 
 網上有很多黑客技術的演練，大多是文章或視頻。比較知名的視頻為 IppSec 的 YouTube 視頻。
 
@@ -49,15 +49,15 @@
 
 比較知名的賞金獵人平台：
 
-(一) [HackerOne](https://www.hackerone.com/)；
-(二) [BugCrowd](https://www.bugcrowd.com/)。
+(一) [HackerOne](https://www.hackerone.com/)；  
+(二) [BugCrowd](https://www.bugcrowd.com/)。  
 
 至於認證方面，在中國香港可以考到的認證，而且在香港具有知名度的有：
 
-(一) [OSCP](https://www.offensive-security.com/pwk-oscp/) (在廿三小時四十五分內完成，是實戰型試題；在家裏應試，但會被監察)；
-(二) [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) (在四小時內完成，是選擇題試題)；
-(三) [CEH (Practical)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh-practical/) (在六小時內完成，是實戰型試題)；
-(四) [CISSP](https://www.isc2.org/Certifications/CISSP) (在三小時內完成，是選擇題試題)。
+(一) [OSCP](https://www.offensive-security.com/pwk-oscp/) (在廿三小時四十五分內完成，是實戰型試題；在家裏應試，但會被監察)；  
+(二) [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) (在四小時內完成，是選擇題試題)；  
+(三) [CEH (Practical)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh-practical/) (在六小時內完成，是實戰型試題)；  
+(四) [CISSP](https://www.isc2.org/Certifications/CISSP) (在三小時內完成，是選擇題試題)。  
 
 OSCP 和 CEH 是滲透測試的範疇，而 CISSP 是資訊科技安全管理的範疇。
 
