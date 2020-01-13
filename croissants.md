@@ -182,6 +182,7 @@ If you want to modify some rules, you can edit the "modify.conf" of suricata-upd
 
 ```bash
 sudo nano /etc/suricata/modify.conf
+```
 
 After updated the configuration files, you should run the following command to make the changes effective.
 
