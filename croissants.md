@@ -50,7 +50,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 ### Hardware
 
 - Multi-Core Intel / AMD x86 CPU (at least Intel ATOM D2550)  
-- 8GB DDR4 RAM or more (Croissants use at least 4GB RAM)  
+- 16GB DDR4 RAM or more (Croissants use at least 4GB RAM)  
 - 240GB hard drive or more  
 - 3 Network Interface Cards/Ports (Network Based only)  
 - 1 Network Interface Card/Port (Host Based only)  
