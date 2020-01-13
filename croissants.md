@@ -72,9 +72,9 @@ __Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbp
 
 ### 1.0 Installation Guide
 
-#### 1.1 Download and Install</u><br>
+#### 1.1 Download and Install
 
-##### 1.1.1 Network Based</u><br>
+##### 1.1.1 Network Based
 
 ```bash
 sudo apt install git
