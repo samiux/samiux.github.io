@@ -16,14 +16,14 @@ Not only try harder but also try smarter!
 
 He has some active projects about information security, some of them are :
 
-- [Chameleon 变色龙 - Website IP Address Seeker](/chameleon)
-- [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants)
-- [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing)
+- [Chameleon 变色龙 - Website IP Address Seeker](/chameleon.md)
+- [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
+- [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 Forked from others :
 
-- [Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration](/sandcastle)
-- [Shodan Eye - Security Search Engine](/shodan-eye)
+- [Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration](/sandcastle.md)
+- [Shodan Eye - Security Search Engine](/shodan-eye.md)
 
 His skills are :
 
