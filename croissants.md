@@ -43,7 +43,7 @@ Croissants is an Open Source Project which is released under GPLv3 License and i
 
 Please keep in mind that Croissants is available FREE OF CHARGE.
 
-### Croissants is designed and developed by Samiux since 2012.
+__Croissants is designed and developed by Samiux since 2012.__
 
 ## MINIMUM REQUIREMENTS
 
@@ -56,7 +56,7 @@ Please keep in mind that Croissants is available FREE OF CHARGE.
 - 1 Network Interface Card/Port (Host Based only)  
 - CPU with AVX2 or better (at least SSSE3)  
 
-#### Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbps connection (home usage).
+__Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbps connection (home usage).__
 
 ### Software
 
