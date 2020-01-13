@@ -6,17 +6,19 @@ Samiux is an Information Security Enthusiast.  He is OSCE, OSCP and OSWP.  He is
 
 His slogan are :
 
-```While you do not know attack, how can you know about defense? (未知攻,焉知防?)```
+```
+While you do not know attack, how can you know about defense? (未知攻,焉知防?)
 
-```Think like a criminal and act as professional```
+Think like a criminal and act as professional
 
-```Not only try harder but also try smarter!```
+Not only try harder but also try smarter!
+```
 
 He has some active projects about information security, some of them are :
 
-- Chameleon 变色龙 - Website IP Address Seeker
-- Croissants 牛角面包 - Intrusion Detection and Prevention System
-- Longjing 龙井 - Deep Learning Driven Web Application Firewall
+- [Chameleon 变色龙 - Website IP Address Seeker](/chameleon)
+- [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants)
+- [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing)
 
 Forked from others :
 
