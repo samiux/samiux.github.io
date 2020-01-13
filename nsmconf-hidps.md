@@ -7,7 +7,7 @@
 **EXT_IP :** The external IP address of the network, usually it is called "real" IP address.
 
 
-## Suricata configure file related :
+### Suricata configure file related :
 
 If you have a very powerful CPU and more than 8GB memory, you can set higher values.
 
