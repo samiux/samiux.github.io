@@ -22,7 +22,7 @@ sudo apt install git
 git clone https://github.com/samiux/chameleon
 ```
 
-## Changelog</b><br>
+## Changelog
 
 ### Version 0.0.1
 Released on FEB 22, 2015 GMT+8  
