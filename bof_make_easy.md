@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|https://samiux.github.io/become-hacker.html
+
 # **Basic Buffer Overflow Exploit Make Easy**
 
 According to [Wiki](https://en.wikipedia.org/wiki/Buffer_overflow), a buffer overflow, or buffer overrun, is an anomaly where a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory locations. 
@@ -400,4 +402,6 @@ The EIP address is ```0xffffd32c```.
 Samiux  
 OSCE OSCP OSWP  
 May 9, 2019, Hong Kong, China  
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
