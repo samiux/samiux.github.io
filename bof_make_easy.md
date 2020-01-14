@@ -231,14 +231,14 @@ gs             0x63                0x63
 (gdb)
 ```
 
-We use the tool namely ```pattern_offset.rb``` to find out the offset.  The offset is 42 for this case.
+We use the tool namely ```pattern_offset.rb``` to find out the offset.  The offset is ```42``` for this case.
 
 ```bash
 /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -q 41346241
 [*] Exact match at offset 42
 ```
 
-According to the source code, we know that there are 3 functions, they are main, inSecure and hacker.  Our aim here is to run hidden function ```hacker```.  So, we need to find out the address of the function of hacker.
+According to the source code, we know that there are 3 functions, they are main, inSecure and hacker.  Our aim here is to run hidden function ```hacker```.  So, we need to find out the address of the function of ```hacker```.
 
 ```bash
 (gdb) info functions
