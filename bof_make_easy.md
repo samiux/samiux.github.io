@@ -60,8 +60,6 @@ wget https://www.trapkit.de/tools/checksec.sh
 Since the file is in Windows DOS format, we need to change it to be Unix format and executable :
 
 ```bash
-sudo apt install dos2unix
-
 dos2unix checksec.sh
 
 chmod +x checksec.sh
