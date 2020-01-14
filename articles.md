@@ -2,7 +2,7 @@
 
 # **Articles**
 
-### PDFs
+### ebooks
 
 - [武裝自己 (資安編)](/armour_yourself.md)
 - [知彼知己 (資安編)](/know_your_enemies.md)
@@ -15,5 +15,9 @@
 - [中華人民共和國網絡安全法精選](/cyber-law-china.md)
 - [中國香港網絡罪行硏究](/cyber-law-hk.md)
 - [白帽子乎？!](/laws2019_1.md)
+
+### Tutorials
+
+- [Basic Buffer Overflow Exploit Make Easy](/bof_make_easy.md)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
