@@ -31,7 +31,7 @@ int main()
 }
 ```
 
-The "hacker" function is never be called from the program.  Our aim is to run it as a result.
+The ```hacker``` function is never be called from the program.  Our aim is to run it as a result.
 
 To compile the source to an executable :
 
