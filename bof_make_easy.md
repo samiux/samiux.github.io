@@ -20,7 +20,7 @@ void inSecure()
 {
         char name[30];
         printf("What is your name?\n");
-        gets(name);Basic Buffer Overflow Exploit Make Easy
+        gets(name);
         printf("Hey %s, you're harmless, aren't you?\n", name);
 }
  
