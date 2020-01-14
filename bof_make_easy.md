@@ -300,9 +300,9 @@ We find out that the address of function hacker is ```0x565561b9```.
 
 Now, the payload will be as the following :
 
-42's "A" and (the address of hacker function)
+42's ```A``` and (the address of hacker function)
 
-The PoC Python code "poc.py" :
+The PoC Python code ```poc.py``` :
 
 ```python
 import struct
