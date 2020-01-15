@@ -10,7 +10,7 @@ Toddler's Bottle is one of the CTF games at pwnable.kr website.  I am going to d
 
 [Exploit Server](http://pwnable.kr:9000)
 
-The source code of the bof binary is provided.  I examine the source code and found out that we are going to replace the "key" from "0xdeadbeef" to "0xcafebabe".  The "overflowme" variable is 32 characters long.  No matter what you entered in the "overflowme" variable, the "key" is not changed as it is hard coded.  It is a buffer overflow challenge.  However, we are not going to take control of the return address this time.
+The source code of the bof binary is provided.  I examine the source code and found out that we are going to replace the key from ```0xdeadbeef``` to ```0xcafebabe```.  The ```overflowme``` variable is 32 characters long.  No matter what you entered in the ```overflowme``` variable, the key is not changed as it is hard coded.  It is a buffer overflow challenge.  However, we are not going to take control of the return address this time.
 
 ```c
 #include <stdio.h>
@@ -33,7 +33,7 @@ int main(int argc, char* argv[]){
 }
 ```
 
-Load the gdb with PEDA and check with "checksec".  It is confirmed that the NX is enabled with another restrictions.
+Load the gdb with PEDA and check with ```checksec```.  It is confirmed that the NX is enabled with another restrictions.
 
 ```bash
 gdb -q ./bof
