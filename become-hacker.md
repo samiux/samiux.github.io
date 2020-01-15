@@ -71,5 +71,9 @@ Samiux
 OSCE  OSCP  OSWP  
 寫於二零一九年一月九日，中國香港
 
+### Reference
+
+[![](https://img.youtube.com/vi/1Gti2emO-uk/0.jpg)](https://www.youtube.com/watch?v=1Gti2emO-uk "Why Companies Like Google And Facebook Pay Hackers Millions")
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
