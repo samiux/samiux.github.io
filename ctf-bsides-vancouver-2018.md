@@ -2,8 +2,8 @@
 
 # **BSides Vancouver 2018**
 
-Capture the Flag : BSides Vancouver 2018 (Workshop)
-Difficulty : Beginner
+Capture the Flag : BSides Vancouver 2018 (Workshop)  
+Difficulty : Beginner  
 
 BSides Vancouver 2018 (Workshop) is a Boot2root challenge aim to create a safe environment where you can perform real-world penetration testing on an (intentionally) vulnerable target.
 
