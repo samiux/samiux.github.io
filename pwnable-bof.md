@@ -4,11 +4,11 @@
 
 Toddler's Bottle is one of the CTF games at pwnable.kr website.  I am going to do the game is namely bof.  There are already many writeups in the internet.  However, I am going to explain what I learnt from this game.
 
-[Website](http://pwnable.kr/play.php) (Select bof)
-[Source Code](http://pwnable.kr/bin/bof.c)
-[Binary](http://pwnable.kr/bin/bof)
+[Website](http://pwnable.kr/play.php) (Select bof)  
+[Source Code](http://pwnable.kr/bin/bof.c)  
+[Binary](http://pwnable.kr/bin/bof)  
 
-[Exploit Server](pwnable.kr:9000)
+[Exploit Server](http://pwnable.kr:9000)
 
 The source code of the bof binary is provided.  I examine the source code and found out that we are going to replace the "key" from "0xdeadbeef" to "0xcafebabe".  The "overflowme" variable is 32 characters long.  No matter what you entered in the "overflowme" variable, the "key" is not changed as it is hard coded.  It is a buffer overflow challenge.  However, we are not going to take control of the return address this time.
 
