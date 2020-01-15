@@ -56,9 +56,11 @@ Not only try harder but also try smarter! -- Samiux
 ```
 If the plan doesn't work change the plan but never the goal.
 ```
-```Keep It Simple, Stupid!
 ```
-```不知不可为而为之，愚人也；知其不可为而不为，贤人也；知其不可为而为之，圣人也。 -- 孟子
+Keep It Simple, Stupid!
+```
+```
+不知不可为而为之，愚人也；知其不可为而不为，贤人也；知其不可为而为之，圣人也。 -- 孟子
 ```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
