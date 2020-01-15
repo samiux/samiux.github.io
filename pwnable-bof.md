@@ -223,7 +223,7 @@ daddy, I just pwned a buFFer :)
 
 The flag is :
 ```
-<b>daddy, I just pwned a buFFer :)
+daddy, I just pwned a buFFer :)
 ```
 
 [![](https://img.youtube.com/vi/SKZa5eLuO90/0.jpg)](https://www.youtube.com/watch?v=w1T9B9bixjA)
