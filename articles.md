@@ -17,12 +17,13 @@
 - [白帽子乎？!](/laws2019_1.md)
 
 ### Tutorials
-
+ctf-basicpentestingv2.md
 - [Basic Buffer Overflow Exploit Make Easy](/bof_make_easy.md)
 
 ### CTFs
 
 - [Toddler's Bottle - bof](/pwnable-bof.md)
 - [BSides Vancouver 2018](/ctf-bsides-vancouver-2018.md)
+- [Basic Pentesting : 2](/ctf-basicpentestingv2.md)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
