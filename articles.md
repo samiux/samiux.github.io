@@ -17,7 +17,7 @@
 - [白帽子乎？!](/laws2019_1.md)
 
 ### Tutorials
-ctf-basicpentestingv2.md
+
 - [Basic Buffer Overflow Exploit Make Easy](/bof_make_easy.md)
 
 ### CTFs
