@@ -39,5 +39,6 @@ The following is the penetration testing report of the vulnerable virtual machin
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/seattle-report-compressed.pdDownload PDF</a>.</p>
 </object>  
 
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
