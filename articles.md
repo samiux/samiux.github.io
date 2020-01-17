@@ -19,6 +19,7 @@
 ### Tutorials
 
 - [Basic Buffer Overflow Exploit Make Easy](/bof_make_easy.md)
+- [Seattle Sounds](/lab-seattle.md)
 
 ### CTFs
 
