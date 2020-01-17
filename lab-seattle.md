@@ -36,7 +36,7 @@ The following is the penetration testing report of the vulnerable virtual machin
 
 <object data="/pdf/seattle-report-compressed.pdf" type="application/pdf" width="900px" height="700px">
     <embed src="/pdf/seattle-report-compressed.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/seattle-report-compressed.pd>Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/seattle-report-compressed.pd">Download PDF</a>.</p>
 </object>  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
