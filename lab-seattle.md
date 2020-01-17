@@ -7,14 +7,14 @@ Difficulty : Beginner/Moderate
 
 Seattle Sounds web application is a virtual machine and it is vulnerable by design. The author of this virtual machine is HollyGraceful who is a female penetration tester. The virtual machine is designed for beginner and/or Moderate. This web application has the following vulnerabilities :
 
-SQL Injection  
-Reflected and Stored Cross-Site Scripting  
-Insecure Direct-Object Reference  
-Username Enumeration  
-Path Traversal  
-Exposed phpinfo()  
-Exposed Administrative Interface  
-Weak Admin Credentials  
+- SQL Injection  
+- Reflected and Stored Cross-Site Scripting  
+- Insecure Direct-Object Reference  
+- Username Enumeration  
+- Path Traversal  
+- Exposed phpinfo()  
+- Exposed Administrative Interface  
+- Weak Admin Credentials  
 
 You can download it at [VulnHub](https://www.vulnhub.com/entry/seattle-v03,145/) (File size : 579 MB)
 
