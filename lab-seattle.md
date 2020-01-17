@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-Vulnerable Machine - Seattle Sounds
+# **Vulnerable Machine - Seattle Sounds**
 
 Vulnerable VM : Seattle v0.3  
 Difficulty : Beginner/Moderate  
