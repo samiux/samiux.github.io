@@ -1,6 +1,18 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+<details><summary>MENU</summary>
+<p>
+
+[Home](/README.md)
+[Projects](/projects.md)
+[Articles](/articles.md)
+[Apophthegm](/apophthegm.md)
+[About](/about.md)
+
+</p>
+</details>
+
 # InfoSec Ninjas 资安忍者
 
 ## **What is InfoSec?**
