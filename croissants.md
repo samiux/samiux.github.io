@@ -205,6 +205,21 @@ sudo nano /etc/croissants/conf.d/nsm.conf
 
 sudo /etc/croissants/conf.d/auto_config
 ```
+#### 2.8 Suricata Performance
+
+To check the performance of suricata :
+
+```bash
+sudo apt install linux-tools-generic
+```
+
+Then run :
+
+``` bash
+sudo perf top -p $(pidof suricata)
+```
+
+The item(s) that in red colour may be in issue.
 
 ### 3.0 Hall of Fame
 
