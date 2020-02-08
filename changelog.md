@@ -216,9 +216,12 @@ Release date : 2019-09-26 - GMT+8
 Release date : 2019-11-12 - GMT+8  
 [+] Upgrade to Hyperscan 5.2.1  
 
-### Version - 3.1.14 [Stable, Latest]
+### Version - 3.1.14  
 Release date : 2019-12-14 - GMT+8  
 [+] Upgrade to Suricata 4.1.6  
 [+] Fix netdata compile error  
 
+### Version - 5.0.1.0 [Stable, Latest]  
+Release date : 2020-02-09 - GMT+8  
+[+] Upgrade to Suricata 5.0.1  
 
