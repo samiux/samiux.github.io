@@ -122,7 +122,21 @@ __Make sure you edit ```nsm.conf``` before running ```nsm_install```__
 
 The definition of nsm.conf is [here](/nsmconf-hidps).
 
-#### 1.2 ChangeLog
+#### 1.2 Post Installation
+
+You are required to update the rules.  However, you should wait until the Suricata is starting up completely.  You may wait for about 15 minutes for the start up.  Or see ```<Notice> - rule reload complete``` at the end of the following command.
+ 
+```bash
+sudo tail -f /var/log/suricata/suricata.log
+```
+
+Then run :
+
+```bash
+sudo nsm_rules_update
+```
+
+#### 1.3 ChangeLog
 
 [Croissants ChangeLog](/changelog)
 
