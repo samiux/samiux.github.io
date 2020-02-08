@@ -224,4 +224,4 @@ Release date : 2019-12-14 - GMT+8
 ### Version - 5.0.1.0 [Stable, Latest]  
 Release date : 2020-02-09 - GMT+8  
 [+] Upgrade to Suricata 5.0.1  
-
+[+] Some improvements and fixes  
