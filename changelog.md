@@ -221,7 +221,11 @@ Release date : 2019-12-14 - GMT+8
 [+] Upgrade to Suricata 4.1.6  
 [+] Fix netdata compile error  
 
-### Version - 5.0.1.0 [Stable, Latest]  
+### Version - 5.0.1.0  
 Release date : 2020-02-09 - GMT+8  
 [+] Upgrade to Suricata 5.0.1  
+[+] Some improvements and fixes  
+
+### Version - 5.0.1.1 [Stable, Latest]  
+Release date : 2020-02-11 - GMT+8  
 [+] Some improvements and fixes  
