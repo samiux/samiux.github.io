@@ -227,5 +227,5 @@ Release date : 2020-02-09 - GMT+8
 [+] Some improvements and fixes  
 
 ### Version - 5.0.1.1 [Stable, Latest]  
-Release date : 2020-02-11 - GMT+8  
+Release date : 2020-02-12 - GMT+8  
 [+] Some improvements and fixes  
