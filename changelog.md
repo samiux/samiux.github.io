@@ -226,6 +226,11 @@ Release date : 2020-02-09 - GMT+8
 [+] Upgrade to Suricata 5.0.1  
 [+] Some improvements and fixes  
 
-### Version - 5.0.1.1 [Stable, Latest]  
+### Version - 5.0.1.1  
 Release date : 2020-02-12 - GMT+8  
 [+] Some improvements and fixes  
+
+### Version - 5.0.1.2 [Stable, Latest]  
+Release date : 2020-02-14 - GMT+8  
+[+] Use Suricata PPA and stock Hyperscan4 instead  
+
