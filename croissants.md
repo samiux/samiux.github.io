@@ -83,9 +83,11 @@ git clone https://github.com/samiux/croissants
 
 cd croissants
 
-cp * ~
+sudo -sH
 
-cd ~/
+cp * /root
+
+cd /root
 
 nano nsm.conf
 
@@ -107,9 +109,11 @@ git clone https://github.com/samiux/croissants-hidps
 
 cd croissants-hidps
 
-cp * ~/
+sudo -sH
 
-cd ~/
+cp * /root
+
+cd /root
 
 nano nsm.conf
 
