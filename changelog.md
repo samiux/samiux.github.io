@@ -238,3 +238,4 @@ Release date : 2020-02-14 - GMT+8
 Release date : 2020-02-16 - GMT+8  
 [+] Code clean up for Ubuntu Suricata PPA   
 [+] Supports Ubuntu 20.04 LTS Server  
+[+] Some improvements and fixes  
