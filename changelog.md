@@ -232,7 +232,7 @@ Release date : 2020-02-12 - GMT+8
 
 ### Version - 5.0.1.2  
 Release date : 2020-02-14 - GMT+8  
-[+] Use Suricata PPA and stock Hyperscan4 instead  
+[+] Use Suricata PPA and stock Hyperscan instead  
 
 ### Version - 5.0.1.3 [Stable, Latest]  
 Release date : 2020-02-16 - GMT+8  
