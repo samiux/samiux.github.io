@@ -73,7 +73,7 @@ Samiux
 OSCE  OSCP  OSWP  
 寫於二零一九年一月九日，中國香港
 
-**註一 ：[We found 6 critical PayPal vulnerabilities – and PayPal punished us for it]**(https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)
+**註一 ：**[We found 6 critical PayPal vulnerabilities – and PayPal punished us for it](https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)
 
 ### Reference
 
