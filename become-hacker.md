@@ -53,6 +53,8 @@
 (一) [HackerOne](https://www.hackerone.com/)；  
 (二) [BugCrowd](https://www.bugcrowd.com/)。  
 
+```（雖然如此，但我並不會參與懸賞計劃或活動，見註一）```
+
 至於認證方面，在中國香港可以考到的認證，而且在香港具有知名度的有：
 
 (一) [OSCP](https://www.offensive-security.com/pwk-oscp/) (在廿三小時四十五分內完成，是實戰型試題；在家裏應試，但會被監察)；  
@@ -70,6 +72,8 @@ OSCP 和 CEH 是滲透測試的範疇，而 CISSP 是資訊科技安全管理的
 Samiux  
 OSCE  OSCP  OSWP  
 寫於二零一九年一月九日，中國香港
+
+**註一 ：[We found 6 critical PayPal vulnerabilities – and PayPal punished us for it]**(https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)
 
 ### Reference
 
