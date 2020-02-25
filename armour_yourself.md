@@ -16,7 +16,7 @@
 森美力 (Samiux) (網名)  
 寫於二零一七年五月十七日，中國香港
 
-```**註：現在已經不再安全了！**[PayPal accounts abused en-masse for unauthorized payments](https://www.zdnet.com/article/paypal-accounts-are-getting-abused-en-masse-for-unauthorized-payments/)```
+```註：現在 PayPal 已經不再安全了！[PayPal accounts abused en-masse for unauthorized payments](https://www.zdnet.com/article/paypal-accounts-are-getting-abused-en-masse-for-unauthorized-payments/)```
 
 ```sha256sum 84f26f59e964395a76a3c3638c2dd7077019ca7b41fb19413700ceb9d0526730  武裝自己-資安編-修訂五版.pdf```
 
