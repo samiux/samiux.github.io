@@ -158,7 +158,7 @@ After a search on ```/home/love/Desktop```, I find the ```user.txt``` key.
 
 Back to the ```finally.sh``` and ```write.sh```.  After a search, I find ```/etc/crontab``` which runs ```finally.sh``` on every 5 minutes.  However, I cannot see the file namely ```gateway``` at ```/tmp``` after 5 minutes or so.
 
-After thinking for a while, I make up my mind to replace the ```write.sh``` with my own ```write.sh```.  I prepare the ```write.sh``` at ```/var/www/html``` of my Kali box and then starts the Apache2 web server.
+After thinking for a while, I make up my mind to replace the ```write.sh``` with my own copy.  I prepare the ```write.sh``` at ```/var/www/html``` of my Kali box and then starts the Apache2 web server.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-012.png)  
 
