@@ -176,8 +176,8 @@ Root is dancing!
 
 This Capture The Flag (CTF) is based on a realistic vulnerability.  To get the ```root.txt``` is however a little bit tricky.  Anyway, it is a very good box to play with.  Recommended.
 
-Samiux
-OSCE  OSCP  OSWP
-Mar 10, 2020, Hong Kong, China
+Samiux  
+OSCE  OSCP  OSWP  
+Mar 10, 2020, Hong Kong, China  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
