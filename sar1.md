@@ -86,17 +86,17 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 
 Open the ```Firefox``` to browse on the ```10.0.2.18```.  Then browse ```robots.txt``` also.
 
-[](https://github.com/samiux/images/blob/master/sar1/sar-001.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-001.png)  
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-002.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-002.png)  
 
 The ```robots.txt``` shows ```sar2HTML```.  Browse to it and it shows sar2html application.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-003.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-003.png)  
 
 Conduct a ```searchsploit``` on Kali box.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-004.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-004.png)  
 
 The content of the result is :
 
@@ -118,15 +118,15 @@ output will appear bottom side of the scroll screen.
 
 Click on ```NEW``` on the left hand side and it shows the url is ```http://10.0.2.18/sar2HTML/index.php?plot=NEW```.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-005.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-005.png)  
 
 Test it with ```;id``` and found it can execute command ```id```.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-006.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-006.png)  
 
 After several tries and errors, it is confirmed that ```python3``` and ```bash``` are installed on the box.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-007.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-007.png)  
 
 ## **Reverse shell and user.txt**
 
@@ -142,17 +142,17 @@ And run the listener at another terminal.
 nc -lvp 4444
 ```
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-008.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-008.png)  
 
 I found out that ```finally.sh``` and ```write.sh``` at ```/var/www/html``` of the box.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-009.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-009.png)  
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-010.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-010.png)  
 
 After a search on ```/home/love/Desktop```, I found the ```user.txt``` key.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-011.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-011.png)  
 
 ## **Reverse shell and root.txt**
 
@@ -160,15 +160,15 @@ Back to the ```finally.sh``` and ```write.sh```.  After a search, I found ```/et
 
 After thinking of a while, I decided to replace the ```write.sh``` with my own ```write.sh```.  I prepared the ```write.sh``` at ```/var/www/html``` of my Kali box and then starts the Apache2.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-012.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-012.png)  
 
 Download my own copy of ```write.sh``` to the box and makes it executable.  Prepare another listener at port 7777 on Kali.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-013.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-013.png)  
 
 After 5 minutes or so, I got the reverse shell and the ```root.txt``` is found on ```/root```.
 
-[](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-014.png)  
+![](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-014.png)  
 
 Root is dancing!
 
