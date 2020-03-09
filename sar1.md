@@ -86,7 +86,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 
 Open the ```Firefox``` to browse on the ```10.0.2.18```.  Then browse ```robots.txt``` also.
 
-[sar-001](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-001.png)  
+[](https://github.com/samiux/images/blob/master/sar1/sar-001.png)  
 
 [](https://raw.githubusercontent.com/samiux/images/master/sar1/sar-002.png)  
 
