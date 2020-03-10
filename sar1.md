@@ -11,6 +11,8 @@ DHCP     : Enabled
 
 Since the ```netdiscover``` is not working properly at my Kali 2020.1, I use ```nmap``` instead to get the IP address of the Sar:1 box which is on ```10.0.2.18```.  My Kali box is on ```10.0.2.24```.
 
+You can fix ```netdiscover``` in this [way](https://samiux.blogspot.com/2020/03/howto-fix-netdiscover-not-working.html).
+
 ```bash
 samiux@kali:~$ nmap 10.0.2.0/24
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-03-09 22:17 HKT
