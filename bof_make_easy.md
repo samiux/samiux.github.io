@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# **Basic Buffer Overflow Exploit Make Easy**
+# **Basic Buffer Overflow Exploit Made Easy**
 
 According to [Wiki](https://en.wikipedia.org/wiki/Buffer_overflow), a buffer overflow, or buffer overrun, is an anomaly where a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory locations. 
 
