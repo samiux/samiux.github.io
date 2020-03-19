@@ -2,7 +2,7 @@
 
 # **PMKID Attack on Wifi5 Access Point**
 
-The [author of Hashcat (aka atom)](https://hashcat.net/forum/thread-7717.html) finds a way to obtain the WPA/WP2-PSK (Pre-shared key) password from Wifi5 and below Access Points (APs) without client involved.  That is 4-way handshake is no longer required.
+The [author of Hashcat (aka atom)](https://hashcat.net/forum/thread-7717.html) finds a way to obtain the WPA/WP2-PSK (Pre-shared key) password from Wifi5 Access Points (APs) without client involved.  That is 4-way handshake is no longer required.
 
 However, this method does not work on [TP-Link Deco X20](https://www.tp-link.com/hk/home-networking/deco/deco-x20/?utm_medium=select-local) Mesh Wifi Router (Wifi6 with WPA3).  All known attack methods has been tried on the Deco X20 but failed including PMKID attack (tested on March 19, 2020).  I think this method cannot be working on Wifi6 with WPA3 for other brand names too.
 
