@@ -4,7 +4,7 @@
 
 # **Wireless Auditing, Intrusion Detection and Prevention System**
 
-```Please be informed that when Wifi6 and WPA3 are in action, this tool is no longer effective!```
+```Please be informed that when Wifi6 and WPA3 are in action, this tool is no longer effective!  This project is discontinued!```
 
 ## INTRODUCTION
 
