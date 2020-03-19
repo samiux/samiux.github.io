@@ -28,7 +28,7 @@ sudo iw dev wlan0 set type monitor
 sudo airodump-ng wlan0 --channel 1-200
 ```
 
-The target AP should be Wifi5 (and below) with WPA/WPA2.  Once you get the mac address of the target AP, you need to remove all the ":" from the address.  From ```00:0a:95:9d:68:16``` to ```000a959d6816``` and save to a file namely ```ap.txt```.
+The target AP should be Wifi5 (and below) with WPA/WPA2.  Once you get the mac address of the target AP, you need to remove all the ":" from the address.  For example, from ```00:0a:95:9d:68:16``` to ```000a959d6816``` and save to a file namely ```ap.txt```.
 
 To make sure the target AP is in the range of the attack.  CTRL-c to quit.
 
