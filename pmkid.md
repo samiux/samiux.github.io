@@ -33,7 +33,7 @@ The target AP should be Wifi5 and below and with WPA/WPA2.  Once you get the mac
 To make sure the target AP is in the range of the attack.  CTRL-c to quit.
 
 ```bash
-sudo hcxdumptool -o hash.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --do_rcascan
+sudo hcxdumptool -o ap.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --do_rcascan
 ```
 
 When every thing is ready, we can scan the PMKID now.
