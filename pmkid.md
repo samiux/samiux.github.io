@@ -42,7 +42,7 @@ When every thing is ready, we can scan the PMKID now.
 sudo hcxdumptool -o ap.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --enable_status=3 -c 36
 ```
 
-When you see ```[FOUND PMKID]```, you can quit it with CTRL-c.
+When you see ```[FOUND PMKID]``` or/and ```[FOUND PMKID CLIENT-LESS]```, you can quit it with CTRL-c.
 
 To obtain the PMKID from ap.pcapng.
 
