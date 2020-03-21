@@ -73,6 +73,7 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 Samiux  
 OSCE  OSCP  OSWP  
 March 19, 2020, Hong Kong, China  
+Updated on March 21, 2020, Hong Kong, China  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
