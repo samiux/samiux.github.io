@@ -8,8 +8,8 @@ However, this method does not work on [TP-Link Deco X20](https://www.tp-link.com
 
 ### Hardware
 
-- [TP-Link Archer T4UHP AC1300 USB Adapter](https://www.tp-link.com/us/home-networking/usb-adapter/archer-t4uhp/)
-
+- [TP-Link Archer T4UHP AC1300 USB Adapter](https://www.tp-link.com/us/home-networking/usb-adapter/archer-t4uhp/)  
+- All tested clients are in AC mode with WPA2  
 
 The attack will be carry out on Kali Linux 2020.1a and you are required to install the following packages.
 
