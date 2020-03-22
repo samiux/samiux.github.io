@@ -73,8 +73,8 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 
 ### Prevention
 
-- Purchase a modern wifi router, such as Wifi6 router with WPA3; or  
-- WPA/WPA2 password should be secured enough  
+- Purchase a modern wifi router (**or** when your router is vulnerable to KR00K attack), such as Wifi6 router with WPA3; or  
+- WPA/WPA2 password should be secured enough (when your router is not vulnerable to KR00K attack)  
 
 ### Q&A
 
