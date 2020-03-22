@@ -78,7 +78,7 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 
 ### Q&A
 
-- Which wifi router is vulnerable to KR00K attack?
+- Which wifi router is vulnerable to KR00K attack?  
 All the Wifi5 (IEEE 802.11n) routers with Broadcom chipset are vulnerable to KR00K attack.  
 
 - What do you mean secured password?  
