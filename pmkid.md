@@ -78,6 +78,9 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 
 ### Q&A
 
+- Which wifi router is vulnerable to KR00K attack?
+All the Wifi5 (IEEE 802.11n) routers with Broadcom chipset are vulnerable to KR00K attack.  
+
 - What do you mean secured password?  
 It should be a very long (longer than 16 characters) and mixed cases (uppercase and lowercase) as well as including printable symbols.  Meanwhile, the password should not be predictable and it should not be found in any dictionary.  It should be better that the password is meaningless.
 
