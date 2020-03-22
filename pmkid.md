@@ -87,6 +87,9 @@ It should be a very long (longer than 16 characters) and mixed cases (uppercase 
 - What do you mean dictionary?  
 It includes general dictionaries, such as Oxford Dictionary and hackers' dictionaries (password lists), such as ```rockyou.txt```. 
 
+- Do you recommend to set **insecured** WPA3 password on Wifi6 router?  
+Not recommended.  
+
 Samiux  
 OSCE  OSCP  OSWP  
 March 19, 2020, Hong Kong, China  
