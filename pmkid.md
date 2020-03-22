@@ -73,7 +73,7 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 
 ### Prevention
 
-- Purchase a modern wifi router, such as Wifi6 router with WPA3; or/and  
+- Purchase a modern wifi router, such as Wifi6 router with WPA3; or  
 - WPA/WPA2 password should be secured enough  
 
 ### Q&A
