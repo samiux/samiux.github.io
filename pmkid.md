@@ -79,7 +79,7 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 ### Q&A
 
 - What do you mean secured password?  
-It should be a very long (longer than 16 characters) and mixed cases (uppercase and lowercase) as well as including printable symbols.  Meanwhile, the password should not be predictable and it should not be found in any dictionary.
+It should be a very long (longer than 16 characters) and mixed cases (uppercase and lowercase) as well as including printable symbols.  Meanwhile, the password should not be predictable and it should not be found in any dictionary.  It should be better that the password is meaningless.
 
 - What do you mean dictionary?  
 It includes general dictionaries, such as Oxford Dictionary and hackers' dictionaries (password lists), such as ```rockyou.txt```. 
