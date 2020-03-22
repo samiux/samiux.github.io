@@ -71,10 +71,23 @@ sudo hashcat -m 16800 hashtocrack /usr/share/wordlist/rockyou.txt --show
 
 * You can use ```--force``` to override the issue of hashcat when necessary.
 
+### Prevention
+
+- Purchase a modern wifi router, such as Wifi6 router with WPA3; or/and  
+- WPA/WPA2 password should be secured enough  
+
+### Q&A
+
+- **What do you mean secured password?  
+It should be a very long (longer than 16 characters) and mixed cases (uppercase and lowercase) as well as including printable symbols.  Meanwhile, the password should not be predictable and it should not be found in any dictionary.
+
+- **What do you mean dictionary?  
+It includes general dictionaries, such as Oxford Dictionary and hackers' dictionaries (password lists), such as ```rockyou.txt```. 
+
 Samiux  
 OSCE  OSCP  OSWP  
 March 19, 2020, Hong Kong, China  
-Updated on March 21, 2020, Hong Kong, China  
+Updated on March 21 & 22, 2020, Hong Kong, China  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
