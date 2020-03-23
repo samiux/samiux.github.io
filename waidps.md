@@ -68,8 +68,11 @@ It is well tested on Parrot Security OS 4.0.1. Other penetration testing Linux d
 ### Version 1.0 R.6i (2017-12-23)  
 [+] Fix unicode SSID crash on handshake is captured on Python 3 script  
 
-### Version 1.0 R.6j (2018-05-28) [Stable]  
+### Version 1.0 R.6j (2018-05-28)  
 [+] Fix for Aircrack-NG 1.2  
+
+### Version 1.0 R.6k (2020-03-23) [Stable]  
+[+] Fix channel for 5GHz  
 
 ## FILE DESCRIPTION
 
