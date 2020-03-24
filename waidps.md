@@ -89,7 +89,7 @@ git clone https://github.com/samiux/waidps
 
 cd waidps
 
-sudo python3 waidps.py
+sudo python3 waidps.py -i wlan0
 ```
 
 Follow the instruction on screen to install the required files.  It will then run the program directly.
