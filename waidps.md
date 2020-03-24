@@ -76,8 +76,7 @@ It is well tested on Parrot Security OS 4.0.1. Other penetration testing Linux d
 
 ## FILE DESCRIPTION
 
-waidps_2.4GHz.py - Python 3 script for Aircrack-NG 1.2 (2.4GHz only)  
-waidps_5GHz.py - Python 3 script for Aircrack-NG 1.2 (5GHz only)  
+waidps.py - Python 3 script for Aircrack-NG 1.2 (2.4GHz & 5GHz)  
 
 ## INSTALLATION
 
@@ -90,17 +89,7 @@ git clone https://github.com/samiux/waidps
 
 cd waidps
 
-sudo python3 waidps_2.4GHz.py
-
-(sudo ./2.4)
-```
-
-or
-
-```bash
-sudo python3 waidps_5GHz.py
-
-(sudo ./5)
+sudo python3 waidps.py
 ```
 
 Follow the instruction on screen to install the required files.  It will then run the program directly.
@@ -121,7 +110,7 @@ sudo cp ~/waidps/*.py /root/.SYWorks/WAIDPS/
 - Wireless card or dongle can be in Monitor mode  
 - Wireless card or dongle driver can Packet Injection  
 - Wireless card or dongle driver should be supported by Linux  
-- Targets wireless signal better not below than 20% ( or -80 dbm)  
+- Targets wireless signal better not more than -70 dbm  
 - Attacker and target should be in the same mode  
 - At least one client is associated  
 
