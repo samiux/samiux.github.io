@@ -4,7 +4,7 @@
 
 # **Wireless Auditing, Intrusion Detection and Prevention System**
 
-```Please be informed that when Wifi6 and WPA3 are in action, this tool is no longer effective!  This project is discontinued!```
+```Please be informed that when Wifi6 and WPA3 are in action, this tool is no longer effective!  Meanwhile, most up-to-date Wifi5 router is not vulnerable to deauthentication any more.  Therefore, this project is discontinued due to useless!```
 
 ## INTRODUCTION
 
