@@ -1,4 +1,6 @@
-《手帶 app 有幾安全？》一文之閱後感
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
+## **《手帶 app 有幾安全？》一文之閱後感**
 
 [手帶 app 有幾安全？](https://tecky.io/zh_Hant/%E6%89%8B%E5%B8%B6app%E6%9C%89%E5%B9%BE%E5%AE%89%E5%85%A8%EF%BC%9F/)
 
@@ -22,4 +24,4 @@ Samiux
 OSCE  OSCP  OSWP  
 二零二零年三月廿八日，中國香港  
 
-	
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
