@@ -24,4 +24,6 @@ Samiux
 OSCE  OSCP  OSWP  
 二零二零年三月廿八日，中國香港  
 
+[資科辦澄清](https://www.ogcio.gov.hk/tc/news/press_releases/2020/03/pr_20200327.html)
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
