@@ -29,7 +29,7 @@ OSCE  OSCP  OSWP
 
 ## 補充（二零二零年四月四日）：
 
-該文作者的網站［tecky.io](https://tecky.io) 及另外一個副域名 [code.tecky.io](https://code.tecky.io) 存在被攻擊或入侵的風險。而副域名網頁又太過倚賴雲端網頁防火牆 (WAF)。這進一步引證該文作者並不是資安人員或成熟的網站開發者。
+該文作者的網站 [tecky.io](https://tecky.io) 及另外一個副域名 [code.tecky.io](https://code.tecky.io) 存在被攻擊或入侵的風險。而副域名網頁又太過倚賴雲端網頁防火牆 (WAF)。這進一步引證該文作者並不是資安人員或成熟的網站開發者。
 
 
 
