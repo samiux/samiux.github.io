@@ -65,5 +65,8 @@ Keep It Simple, Stupid!
 ```
 Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life.  -- thaddeus e. grugq
 ```
+```
+When learn more, you will find out that you are a noob only. (学无止境)  -- Samiux
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
