@@ -115,7 +115,7 @@ Released on OCT 02, 2019 GMT+8
 [+] Bug fix  
 
 ### Version 0.0.19
-Released on OCT 03, 2019 GMT+8
+Released on OCT 03, 2019 GMT+8  
 [+] Python 3 bug fix  
 
 ### Version 0.0.20 (Stable, Latest)  
