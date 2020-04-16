@@ -1,4 +1,6 @@
-「好心做壞事」？
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
+# **「好心做壞事」？**
 
 事源谷歌（Google）領頭在其瀏覽器中實施如果網站並非使用加密證書（TLS）的話，就會被標示為不安全。這措施看似沒有不良後果，但其實隱藏了很大的危機。
 
@@ -13,3 +15,5 @@
 Samiux
 OSCE  OSCP  OSWP
 二零二零年四月十七日，中國香港
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
