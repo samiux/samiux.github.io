@@ -30,5 +30,6 @@
 - [BSides Vancouver 2018](/ctf-bsides-vancouver-2018.md)
 - [Basic Pentesting : 2](/ctf-basicpentestingv2.md)
 - [Sar : 1](/sar1.md)
+- [October : 1](/october1.md)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
