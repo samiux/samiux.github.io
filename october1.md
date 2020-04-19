@@ -58,7 +58,7 @@ Log in with username ```admin``` and password ```adminadmin2```.
 
 The version is ```build 465``` and it is the current version as at the time of this writing.  The is no known vulnerability found so far.
 
-After reading the documentation of the ```October CMS```, it is suspected that it is desgined to run ```JavaScript``` by default.  Let's confirm it!
+After reading the documentation of the [October CMS](https://octobercms.com/docs/cms/pages#life-cycle-response), it is suspected that it is desgined to run ```JavaScript``` by default.  Let's confirm it!
 
 ```html
 <html>
