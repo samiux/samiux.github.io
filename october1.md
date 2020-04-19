@@ -40,7 +40,7 @@ Inspect the source code of port 8080 and find ```mynote.txt``` on the page.  Let
 
 ![](https://raw.githubusercontent.com/samiux/images/master/october/006.png)
 
-We need to find out the admin page of the port 80 by gobuster.  We need to set the threads to 5 or errors may be shown.
+We need to find out the admin page of the port 80 by gobuster and set the threads to 5 or errors may be shown.
 
 ```bash
 sudo gobuster dir -u http://10.0.2.31 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,html,txt -t5
@@ -116,7 +116,7 @@ We then go to the /root and display the ```proof.txt```.  Bingo!  Root is dancin
 
 ### Final thought
 
-This is a typical Capture The Flag (CTF) game, however, it does not use the vulnerability to exploit it.  It is very a interesting box indeed!
+This is a typical Capture The Flag (CTF) game, however, it does not use the vulnerability to exploit it.  It is a very interesting box indeed!
 
 Samiux  
 OSCE  OSCP  OSWP  
