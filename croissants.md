@@ -310,7 +310,7 @@ Nil
 
 ### 7.0 See Also
 
-N/A
+- [How to upgrade Ubuntu 18.04.x to Ubuntu 20.04 on Croissants](/upgrade-2004.md)
 
 ### 8.0 Presentation
 
