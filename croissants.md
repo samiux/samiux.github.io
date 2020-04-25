@@ -60,8 +60,8 @@ __Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbp
 
 ### Software
 
-- Ubuntu Server 18.04.4 LTS (64-bit)  
-- Ubuntu Server 20.04 LTS (64-bit) **(Recommended)**  
+- Ubuntu Server 18.04.4 LTS (64-bit) (End Of Life on April 2023)  
+- Ubuntu Server 20.04 LTS (64-bit) (End of Life on April 2025) **(Recommended)**  
 
 ## MAIN COMPONENTS
 
