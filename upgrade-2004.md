@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # **How to upgrade Ubuntu 18.04.x to Ubuntu 20.04 on Croissants**
 
 Ubuntu 20.04 is released on April 23, 2020.  It is recommended to upgrade to Ubuntu 20.04.  You can upgrade Ubuntu 18.04.x to 20.04 on Croissants.
@@ -39,3 +41,8 @@ sudo pip3 install --upgrade suricata-update
 
 Reconnect the ```monitoring cable``` back to the original position.  Reboot the box again.
 
+Samiux  
+OSCE  OSCP  OSWP  
+April 25, 2020, Hong Kong, China  
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
