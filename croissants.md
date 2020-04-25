@@ -61,13 +61,13 @@ __Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbp
 ### Software
 
 - Ubuntu Server 18.04.4 LTS (64-bit)  
-- Ubuntu Server 20.04 LTS (64-bit)
+- Ubuntu Server 20.04 LTS (64-bit) **(Recommended)**  
 
 ## MAIN COMPONENTS
 
 - Suricata 5.0.2  
 - Hyperscan 4.7.0 (Ubuntu 18.04.4)  
-- Hyperscan 5.2.1 (Ubuntu 20.04)  
+- Hyperscan 5.2.1 (Ubuntu 20.04) **(Recommended)**   
 - netdata (Network Based only)  
 
 ## DOCUMENTATION
