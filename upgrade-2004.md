@@ -6,6 +6,8 @@ Connect the ```monitoring cable``` to the internet instead of switch.  That mean
 
 Do not remote access to the Croissants.  Carrying out the following procedure directly to the Croissants instead of SSH.  If not, you may experience hanging at the end of the upgrade.
 
+**WARNING : Upgrade may fail and you may need to re-install Ubuntu 20.04 and Croissants when failed!!**
+
 ```bash
 sudo nano /etc/apt/sources.list.d/oisf-ubuntu-suricata-stable-bionic.list
 ```
