@@ -2,7 +2,9 @@
 
 # **How to upgrade Ubuntu 18.04.x to Ubuntu 20.04 on Croissants**
 
-Ubuntu 20.04 is released on April 23, 2020.  It is recommended to upgrade to Ubuntu 20.04.  You can upgrade Ubuntu 18.04.x to 20.04 on Croissants.
+Ubuntu 20.04 LTS is released on April 23, 2020.  It is recommended to upgrade to Ubuntu 20.04 LTS.  You can upgrade Ubuntu 18.04.x to 20.04 on Croissants.
+
+Ubuntu 18.04.x LTS will be End Of Life on April 2023 while Ubuntu 20.04 LTS will be End Of Life on April 2025.  Meanwhile, Ubuntu 20.04 LTS is faster and generate lesser heat due to newer Linux kernel.
 
 Connect the ```monitoring cable``` to the internet instead of switch.  That means the Croissants is connected to the internet directly.  To make sure you are connected to the internet, you can ```ping google.com -c1``` to confirm.
 
