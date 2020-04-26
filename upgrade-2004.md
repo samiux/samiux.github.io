@@ -38,7 +38,7 @@ Remove ```# ``` from ```# deb ``` and replace ```bionic``` with ```focal``` when
 sudo update_ubuntu
 sudo apt remove libhyperscan4
 sudo apt install --reinstall suricata 
-sudo apt install ifupdown
+sudo apt install ifupdown python3-pip
 sudo pip3 install --upgrade suricata-update
 ```
 
