@@ -9,7 +9,7 @@
 
 ### Suricata configure file related :
 
-If you have a very powerful CPU and more than 8GB memory, you can set higher values.
+If you have a very powerful CPU and at least 16GB memory, you can set higher values.
 
 **MAX_PENDING_PACKETS :** The maximum pending packets for Suricata.  The minimum value is "1024" and the maximum value is "65534".  The larger value the more amount of memory used.  The default value is "1024".  The default value is suit for 8GB memory of the system.  The higher the value the higher the CPU loading.
 
