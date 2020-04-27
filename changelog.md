@@ -234,8 +234,13 @@ Release date : 2020-02-12 - GMT+8
 Release date : 2020-02-14 - GMT+8  
 [+] Use Suricata PPA and stock Hyperscan instead  
 
-### Version - 5.0.1.3 [Stable, Latest]  
+### Version - 5.0.1.3  
 Release date : 2020-02-16 - GMT+8  
 [+] Code clean up for Ubuntu Suricata PPA   
 [+] Supports Ubuntu 20.04 LTS Server  
 [+] Some improvements and fixes  
+
+### Version - 5.0.1.4 [Stable, Latest]  
+Release date : 2020-04-27 - GMT+8  
+[+] Some improvements and fixes for Ubuntu 20.04 LTS  
+[+] Some improvements and fixes for Suricata 5.0.2  
