@@ -240,7 +240,11 @@ Release date : 2020-02-16 - GMT+8
 [+] Supports Ubuntu 20.04 LTS Server  
 [+] Some improvements and fixes  
 
-### Version - 5.0.2.0 [Stable, Latest]  
+### Version - 5.0.2.0  
 Release date : 2020-04-27 - GMT+8  
 [+] Some improvements and fixes for Ubuntu 20.04 LTS  
 [+] Some improvements and fixes for Suricata 5.0.2  
+
+### Version - 5.0.2.1 [Stable, Latest]  
+Release date : 2020-04-28 - GMT+8  
+[+] Some improvements and performance tuning  
