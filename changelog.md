@@ -245,6 +245,11 @@ Release date : 2020-04-27 - GMT+8
 [+] Some improvements and fixes for Ubuntu 20.04 LTS  
 [+] Some improvements and fixes for Suricata 5.0.2  
 
-### Version - 5.0.2.1 [Stable, Latest]  
+### Version - 5.0.2.1  
 Release date : 2020-04-28 - GMT+8  
 [+] Some improvements and performance tuning  
+
+### Version - 5.0.3.0 [Stable, Latest]  
+Release date : 2020-04-29 - GMT+8  
+[+] Upgrade to Suricata version 5.0.3  
+[+] Add advertising servers rule  
