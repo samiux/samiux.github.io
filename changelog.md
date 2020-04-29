@@ -249,7 +249,6 @@ Release date : 2020-04-27 - GMT+8
 Release date : 2020-04-28 - GMT+8  
 [+] Some improvements and performance tuning  
 
-### Version - 5.0.3.0 [Stable, Latest]  
+### Version - 5.0.2.2 [Stable, Latest]  
 Release date : 2020-04-29 - GMT+8  
-[+] Upgrade to Suricata version 5.0.3  
-[+] Add advertising servers rule  
+[+] Add blocks advertising servers rule  
