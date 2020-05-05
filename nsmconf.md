@@ -28,11 +28,3 @@ If you have a very powerful CPU and at least 16GB memory, you can set higher val
 
 **DETECT_PROFILE :** The detect profile for Suricata, it can be "low", "medium" and "high".  The higher the profile, the higher CPU loading.  The default value is "medium".  The higher the value the higher memory usage.  The default value is suit for 8GB memory of the system.
 
-
-### CPU Affinity related :
-
-**MANAGEMENT_CPU :** The CPU for management purpose.  If 4 threadings, the value is "0,2".  It is the default value.
-
-**RECEIVE_CPU :** The CPU for receive purpose.  If 4 threadings, the value is "1,3".  It is the default value.
-
-
