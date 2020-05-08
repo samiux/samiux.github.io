@@ -339,7 +339,7 @@ cd /home/alice/script
 touch test
 ```
 
-We go to ```/back/backup``` directory and found some interesting stuff there.  We found the final flag ```FLAG3```.  
+We go to ```/back/backup``` directory and found some interesting stuff there.  The ```backup``` is empty in the beginning.  We found the final flag ```FLAG3``` there.  Game Over!    
 
 ```bash
 www-data@broken:/back$ cd /back 
