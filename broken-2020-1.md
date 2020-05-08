@@ -373,7 +373,7 @@ www-data@broken:/back/backup$
 
 ## Final thought
 
-This is another typical Capture The Flag (CTF) game.  It is testing your basic Linux skill, hacking skill and python as well as bash scripting skill.  There is no public exploitation to be used.  It is a very interesting box.  Recommended!
+This is a typical Capture The Flag (CTF) game.  It is testing your basic Linux skill, hacking skill and python as well as bash scripting skill.  There is no public exploitation to be used.  It is a very interesting box.  Recommended!
 
 Samiux  
 OSCE  OSCP  OSWP  
