@@ -164,7 +164,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 samiux@kali:~$ 
 ```
 
-A new directory ```/cms/cc``` is shown.  Go to that directory and a new page is shown.  
+A new directory ```/cms/cc``` is shown.  Go to that directory and a new page is displayed.  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/007.png)
 
