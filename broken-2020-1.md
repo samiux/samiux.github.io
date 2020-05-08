@@ -221,7 +221,7 @@ python3 -m http.server 4444
 nc -lvp 5555
 ```
 
-![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/013png)  
+![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/013.png)  
 
 We got the workable reverse shell.  Then go to ```/home/alice``` and we found the ```FLAG2```.  
 
