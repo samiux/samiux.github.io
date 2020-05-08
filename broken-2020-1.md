@@ -332,7 +332,7 @@ www-data@broken:/back$
 
 According to ```check.py```, we know that if there are more than 2 files in the ```/home/alice/script``` directory, ```hack.sh``` will be ran.  Meanwhile, the cron job will be running on one minute interval.
 
-An empty file is created on ```/home/alice/script``` directory and wait for one minute to see what it will happen.  
+An empty file is created on ```/home/alice/script``` directory and wait for one minute to see what will be happened.  
 
 ```bash
 cd /home/alice/script
