@@ -172,7 +172,7 @@ Try to enter ```127.0.0.1``` and port ```80``` to the page and you will see the 
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/009.png)  
 
-After thinking for while, why not try to enter my Kali's IP address?
+After thinking for a while, why not try to enter my Kali's IP address?
 
 ```bash
 nc -lvp 4444
