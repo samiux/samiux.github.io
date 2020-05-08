@@ -91,6 +91,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 ===============================================================
 samiux@kali:~$ 
 ```
+Go to ```http://10.0.2.27/cms``` and an Installation page is displayed.  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/002.png)  
 
