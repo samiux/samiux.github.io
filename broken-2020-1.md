@@ -339,7 +339,9 @@ cd /home/alice/script
 touch test
 ```
 
-We go to ```/back/backup``` directory and found some interesting stuff there.  We found a flag ```FLAG3``` there.  Thinking that it is the last flag.    
+We go to ```/back/backup``` directory and found some interesting stuff there.  We found a flag ```FLAG3``` there.  Thinking that it is the last flag. 
+
+* When I re-do the box again and find out that ```FLAG3``` is already at /back/backup directory.
 
 ```bash
 www-data@broken:/back$ cd /back 
@@ -413,7 +415,7 @@ echo "/root" > path.txt
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/024.png)  
 
-Then go to ```/home/alice/backup/root``` and we get the last flag.  
+Then go to ```/home/alice/backup/root``` and we get the last flag.  The direcotry ```/home/alice/backup``` is not there before doing the previous steps (path.txt with /root).  
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/025.png)  
 
@@ -426,5 +428,6 @@ This is a typical Capture The Flag (CTF) game.  It is testing your basic Linux s
 Samiux  
 OSCE  OSCP  OSWP  
 May 9, 2020, Hong Kong, China  
+Updated on May 9, 2020, Hong Kong, China  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
