@@ -196,6 +196,8 @@ samiux@kali:~$
 
 From the result, the exploit requires to access ```4f367c82884fdafb83166308839e37a4.sh``` at my Kali box.  Then setup a web server at my Kali box and set ```4f367c82884fdafb83166308839e37a4.sh``` to run ```ls -la```.
 
+* (Update) The file name ```4f367c82884fdafb83166308839e37a4.sh``` will be different on every box.  
+
 ```bash
 python3 -m http.server 4444
 ```
@@ -341,7 +343,7 @@ touch test
 
 We go to ```/back/backup``` directory and found some interesting stuff there.  We found a flag ```FLAG3``` there.  Thinking that it is the last flag. 
 
-* When I re-do the box again and find out that ```FLAG3``` is already at /back/backup directory.
+* (Updated) When I re-do the box again and find out that ```FLAG3``` is already at /back/backup directory.  That mean, the empty ```test``` file approach is useless.   
 
 ```bash
 www-data@broken:/back$ cd /back 
