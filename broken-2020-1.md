@@ -207,7 +207,7 @@ ls -la
 
 ![](https://raw.githubusercontent.com/samiux/images/master/broken-2020-1/011.png)  
 
-It works as expected.  Try to use bash to run the reverse shell but it does not work properly.  The bash is at ```/usr/bin/bash```.  Then change to Python to launch a reverse shell.
+It works as expected.  Try to use bash to run the reverse shell but it does not work properly.  The bash is at ```/usr/bin/bash```.  Then change to Python to port a reverse shell.
 
 ```bash
 nano 4f367c82884fdafb83166308839e37a4.sh
