@@ -343,7 +343,7 @@ touch test
 
 We go to ```/back/backup``` directory and found some interesting stuff there.  We found a flag ```FLAG3``` there.  Thinking that it is the last flag. 
 
-* (Updated) When I re-do the box again and find out that ```FLAG3``` is already at /back/backup directory.  That mean, the empty ```test``` file approach is useless.   
+* (Updated) When I re-do the box again and find out that ```FLAG3``` is already at /back/backup directory.  That mean, the empty ```test``` file approach may be useless.   
 
 ```bash
 www-data@broken:/back$ cd /back 
