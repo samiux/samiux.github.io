@@ -174,7 +174,7 @@ sudo systemctl restart suricata
 
 You can check the suricata.log at ```/var/log/suricata/suricata.log```. Please allow about 15 minutes for Suricata fully starting.
 
-## 4.0 To-D0-List
+## 4.0 To-Do-List
 
 Nil
 
