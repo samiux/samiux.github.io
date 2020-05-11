@@ -8,12 +8,12 @@ Since laptop is a mobile device, the rules for Shumai should be as few as possib
 
 # FEATURES
 
-- Blocks known malicious activities
-- Compatible with Bittorrent and 4K video streaming
-- Ultra-low latency for demanding online games
-- Compatible with Ubuntu Desktop 20.04 LTS
-- No subscription fee
-- Plug, Play and Forget!
+- Blocks known malicious activities  
+- Compatible with Bittorrent and 4K video streaming  
+- Ultra-low latency for demanding online games  
+- Compatible with Ubuntu Desktop 20.04 LTS  
+- No subscription fee  
+- Plug, Play and Forget!  
 
 # LICENSE
 
