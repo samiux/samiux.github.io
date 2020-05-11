@@ -72,7 +72,7 @@ The definition of nsm.conf is [here](https://samiux.github.io/nsmconf-hidps).
 
 ### 1.2 ChangeLog
 
-[Shumai ChangeLog](https://samiux.github.io/shumai-changelog)
+[Shumai ChangeLog](https://samiux.github.io/changelog)
 
 ## 2.0 Useer Guide
 
