@@ -156,6 +156,14 @@ Then run :
 sudo perf top -p $(pidof suricata)
 ```
 
+### 2.8 Logs Clean Up
+
+To delete related log files :
+
+```bash
+sudo nsm_cleanlogs
+```
+
 The item(s) that in red colour may be in issue.
 
 ## 3.0 Troubleshooting
