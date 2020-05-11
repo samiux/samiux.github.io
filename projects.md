@@ -13,7 +13,7 @@
 
 - [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
-
+- [Shumai 烧卖 - Intrusion Detection and Prevention System](/shumai.md)
 
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
