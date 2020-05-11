@@ -47,6 +47,8 @@ Please keep in mind that Shumai is available 	FREE OF CHARGE.
 ### 1.1 Download and Install
 
 ```bash
+sudo apt install git net-tools
+
 sudo -i
 
 cd /root
@@ -164,6 +166,14 @@ To delete related log files :
 
 ```bash
 sudo nsm_cleanlogs
+```
+
+### 2.9 Automatically Update
+
+To update Shumai :
+
+```bash
+sudo /etc/croissants/conf.d/auto_update
 ```
 
 ## 3.0 Troubleshooting
