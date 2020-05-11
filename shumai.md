@@ -4,7 +4,7 @@
 
 When your laptop is connecting to the internet directly, it opens to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our tasty Shumai is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market, Shumai is available free of charge that everyone can afford.  It is ideal for home, Small Office Home Office (SOHO) and Small Medium Business (SMB).
 
-Since laptop is a mobile device, the rules for Shumai should be as few as possible in order to reduce the loading time.  Therefore, the rules are custom made for the purpose amd provides necessary protection to the laptop.
+Since laptop is a mobile device, the rules for Shumai should be as few as possible in order to reduce the loading time.  Therefore, the rules are custom made for the purpose and provides necessary protection to the laptop.
 
 # FEATURES
 
