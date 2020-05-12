@@ -6,7 +6,7 @@ When your laptop is connecting to the internet directly, it opens to the public 
 
 Since laptop is a mobile device, the rules for Shumai should be as few as possible in order to reduce the loading time.  Therefore, the rules are custom made for the purpose and provides necessary protection to the laptop.
 
-# FEATURES
+## FEATURES
 
 - Blocks known malicious activities  
 - Compatible with Bittorrent and 4K video streaming  
@@ -15,15 +15,15 @@ Since laptop is a mobile device, the rules for Shumai should be as few as possib
 - No subscription fee  
 - Plug, Play and Forget!  
 
-# LICENSE
+## LICENSE
 
 Shumai is an Open Source Project which is released under GPLv3 License and it is developed by Samiux.
 
 Please keep in mind that Shumai is available 	FREE OF CHARGE.
 
-# MINIMUM REQUIREMENTS
+## MINIMUM REQUIREMENTS
 
-## Hardware
+### Hardware
 
 - Multi-Core Intel / AMD x86 CPU  
 - 8GB DDR4 RAM or more  
@@ -31,20 +31,20 @@ Please keep in mind that Shumai is available 	FREE OF CHARGE.
 - 1 Network Interface Card/Port   
 - CPU with AVX2 or better (at least SSSE3)  
 
-## Software
+### Software
 
 - Ubuntu Desktop 20.04 LTS (64-bit) (End of Life on April 2025)
 
-# MAIN COMPONENTS
+## MAIN COMPONENTS
 
 - Suricata 5.0.3  
 - Hyperscan 5.2.1 (Ubuntu 20.04)  
 
-# DOCUMENTATION
+## DOCUMENTATION
 
-## 1.0 Installation Guide
+### 1.0 Installation Guide
 
-### 1.1 Download and Install
+#### 1.1 Download and Install
 
 ```bash
 sudo apt install git net-tools
@@ -72,13 +72,13 @@ chmod +x nsm_install
 
 The definition of nsm.conf is [here](https://samiux.github.io/nsmconf-hidps).
 
-### 1.2 ChangeLog
+#### 1.2 ChangeLog
 
 [Shumai ChangeLog](https://samiux.github.io/changelog)
 
-## 2.0 Useer Guide
+### 2.0 Useer Guide
 
-### 2.1 Glances
+#### 2.1 Glances
 
 Text mode monitoring tool for the performance of Shumai.
 
@@ -86,7 +86,7 @@ Text mode monitoring tool for the performance of Shumai.
 glances
 ```
 
-### 2.2 Suricata Health Check
+#### 2.2 Suricata Health Check
 
 ```bash
 sudo tail -f /var/log/suricata/stats.log | grep drop
@@ -94,7 +94,7 @@ sudo tail -f /var/log/suricata/stats.log | grep drop
 
 Press ```CTRL+c``` to exit.
 
-### 2.3 Suricata Event Log
+#### 2.3 Suricata Event Log
 
 ```bash
 sudo tail -f /var/log/suricata/fast.log
@@ -102,7 +102,7 @@ sudo tail -f /var/log/suricata/fast.log
 
 Press ```CTRL+c``` to exit.
 
-### 2.4 Rules Management
+#### 2.4 Rules Management
 
 If you want to disable some rules as they are false positive, you can edit the “disable.conf” of suricata-update.
 
@@ -128,13 +128,13 @@ After updated the configuration files, you should run the following command to m
 sudo nsm_rules_update
 ```
 
-### 2.5 Ubuntu Update
+#### 2.5 Ubuntu Update
 
 ```bash
 sudo update_ubuntu
 ```
 
-### 2.6 Auto Configuration
+#### 2.6 Auto Configuration
 
 Whenever you changed the nsm.conf file, you need to run the following command in order to make it effective.
 
@@ -144,7 +144,7 @@ sudo nano /etc/croissants/conf.d/nsm.conf
 sudo /etc/croissants/conf.d/auto_config
 ```
 
-### 2.7 Suricata Performance
+#### 2.7 Suricata Performance
 
 To check the performance of suricata :
 
@@ -160,7 +160,7 @@ sudo perf top -p $(pidof suricata)
 
 The item(s) that in red colour may be in issue.
 
-### 2.8 Logs Clean Up
+#### 2.8 Logs Clean Up
 
 To delete related log files :
 
@@ -168,7 +168,7 @@ To delete related log files :
 sudo nsm_cleanlogs
 ```
 
-### 2.9 Automatically Update
+#### 2.9 Automatically Update
 
 To update Shumai :
 
@@ -176,7 +176,7 @@ To update Shumai :
 sudo /etc/croissants/conf.d/auto_update
 ```
 
-## 3.0 Troubleshooting
+### 3.0 Troubleshooting
 
 If you cannot access internet when you are behind the Shumai, Suricata may be down unexpectedly. You can check if it is running or not by the following command :
 
@@ -192,11 +192,11 @@ sudo systemctl restart suricata
 
 You can check the suricata.log at ```/var/log/suricata/suricata.log```. Please allow about 15 minutes for Suricata fully starting.
 
-## 4.0 To-Do-List
+### 4.0 To-Do-List
 
 Nil
 
-## 5.0 See Also
+### 5.0 See Also
 
 Nil
 
