@@ -32,9 +32,10 @@ His skills are :
 - Exploit Development
 - Intrusion Detection and Prevention System
 - Ubuntu Linux Setup and Hardening
-- Bash Programming
-- Python Programming
-- GoLang Programming
+- Bash Script Programming
+- Python Script Programming
+- LUA Script Programming  
+- Machine Learning with Python and LUA  
 
 He can be reached at :
 
