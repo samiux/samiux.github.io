@@ -34,8 +34,8 @@ His skills are :
 - Ubuntu Linux Setup and Hardening
 - Bash Script Programming
 - Python Script Programming
-- LUA Script Programming  
-- Machine Learning with Python and LUA  
+- Lua Script Programming  
+- Machine Learning with Python and Lua  
 
 He can be reached at :
 
