@@ -13,6 +13,7 @@
 - [憲法及《基本法》全文](/basic_law.md)
 - [如何成為黑客 (入門篇)](/become-hacker.md)
 - [如何成為黑客 (進階篇)](/become-hacker_1.md)
+- [深入解读《中华人民共和国网络安全法》](http://gdee.gd.gov.cn/wlaq/content/post_2717276.html)
 - [中華人民共和國網絡安全法精選](/cyber-law-china.md)
 - [中華人民共和國网络安全审查办法](https://mp.weixin.qq.com/s/ysFmyM9XRdLnygEgEi7ERQ)
 - [中國香港網絡罪行硏究](/cyber-law-hk.md)
