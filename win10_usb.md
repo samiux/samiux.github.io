@@ -4,7 +4,7 @@
 
 [![](https://img.youtube.com/vi/WNc8GOps6TY/0.jpg)](https://www.youtube.com/watch?v=WNc8GOps6TY)
 
-First of all, we need to download Windows 10 ISO from [Mirosoft](https://www.microsoft.com/en-us/software-download/windows10ISO) in Ubuntu 20.04 LTS.
+First of all, we need to download Windows 10 ISO from [Microsoft](https://www.microsoft.com/en-us/software-download/windows10ISO) in Ubuntu 20.04 LTS.
 
 We are required to install wimtools by the command.
 
