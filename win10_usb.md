@@ -30,7 +30,7 @@ wimlib-imagex split install.wim install.swm 2000
 wimlib-imagex optimize install.wim
 ```
 
-It is recommended to copy all the files from the ISO to another directory, namely ```splitted```.  Make sure to delete the original install.wim under ```sources``` directory before copying all the files to the USB drive from ```splitted``` directory.
+It is recommended to copy all the files from the ISO to another directory, namely ```splitted```.  Make sure to delete the original ```install.wim``` under ```sources``` directory before copying all the files to the USB drive from ```splitted``` directory.
 
 When finished, your USB drive can be bootable to BIOS and UEFI computers.
 
