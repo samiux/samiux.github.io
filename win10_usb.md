@@ -6,13 +6,13 @@
 
 First of all, we need to download Windows 10 ISO from [Microsoft](https://www.microsoft.com/en-us/software-download/windows10ISO) in Ubuntu 20.04 LTS.
 
-We are required to install wimtools by the command.
+We are required to install ```wimtools``` by the following command.
 
 ```bash
 sudo apt install wimtools
 ```
 
-Create GPT for the USB drive and format it in FAT32.  Make sure to set the partition as MBR and BIOS Bootable at ```Disks``` (Gnome Disk Utility).
+Create ```GPT``` for the USB drive and format it in ```FAT32```.  Make sure to set the partition as ```MBR``` and ```BIOS Bootable``` at ```Disks``` (Gnome Disk Utility).
 
 Since ```install.wim``` under ```sources``` directory at Windows 10 2004 ISO is greater than 4GB, we need to split the ```install.wim``` into smaller size files or optimize the size of the file.
 
