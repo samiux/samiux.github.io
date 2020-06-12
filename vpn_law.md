@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# 切勿以身試法
+# 切勿以身試法 (虛擬私人網絡編)
 
 相信有很多朋友都有使用虛擬私人網絡 (VPN) 的經驗，而且大家都相信虛擬私人網絡服務提供者的宣稱，例如並沒有保存任何網絡活動的紀錄。
 
