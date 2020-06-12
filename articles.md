@@ -21,6 +21,7 @@
 - [《手帶 app 有幾安全？》一文之閱後感](/is_xss_1.md)
 - [「好心做壞事」？](/good_thing.md)
 - [切勿以身試法 (虛擬私人網絡編)](/vpn_law.md)
+- [切勿以身试法 （Tails OS 篇）](/tails_law.md)
 
 ### Tutorials
 
