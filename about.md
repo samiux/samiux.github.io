@@ -35,7 +35,7 @@ His skills are :
 - Bash Script Programming
 - Python Script Programming
 - Lua Script Programming  
-- Machine Learning with Python and Lua  
+- GoLang Programming 
 
 He can be reached at :
 
