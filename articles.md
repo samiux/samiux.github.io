@@ -11,6 +11,7 @@
 ### Text
 
 - [憲法及《基本法》全文](/basic_law.md)  
+- [国安法懒人包](https://samiux.blogspot.com/2020/07/blog-post.html)  
 
 - [如何成為黑客 (入門篇)](/become-hacker.md)
 - [如何成為黑客 (進階篇)](/become-hacker_1.md)
