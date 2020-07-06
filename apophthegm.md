@@ -60,7 +60,7 @@ If the plan doesn't work change the plan but never the goal.
 Keep It Simple, Stupid!
 ```
 ```
-不知不可为而为之，愚人也；知其不可为而不为，贤人也；知其不可为而为之，圣人也。 -- 孟子
+君子有所为有所不为, 知其可为而为之，知其不可为而不为，是谓君子为与不为之道也！不知不可为而为之，愚人也；知其不可为而不为，贤人也；知其不可为而为之，圣人也。 -- 孟子
 ```
 ```
 Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life.  -- thaddeus e. grugq
