@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # 盧永雄對民主派初選的看法
 
 ## 一場意圖推翻政府的顛覆活動 -- 盧永雄  
@@ -71,3 +73,4 @@
 
 [「公職人員行為失當」就是非法手段](https://www.bastillepost.com/hongkong/article/6781359-%E3%80%8C%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%A1%8C%E7%82%BA%E5%A4%B1%E7%95%B6%E3%80%8D%E5%B0%B1%E6%98%AF%E9%9D%9E%E6%B3%95%E6%89%8B%E6%AE%B5)  
 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
