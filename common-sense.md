@@ -9,4 +9,6 @@
 
 - [特朗普密令曝光：美中情局CIA正对全球发起进攻型网络打击！ -- 国际安全智库](https://www.freebuf.com/news/243708.html)  
 
+- [2020-07-15 時事觀察 第1節 -- 霍詠強：戰爭會是中美關係的未來嗎？](https://www.youtube.com/watch?v=n-Iowe6e_VU)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
