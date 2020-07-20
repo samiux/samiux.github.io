@@ -11,4 +11,8 @@
 
 - [2020-07-15 時事觀察 第1節 -- 霍詠強：戰爭會是中美關係的未來嗎？](https://www.youtube.com/watch?v=n-Iowe6e_VU)  
 
+- [新疆和香港爆疫 內地專家張文宏比較兩地防疫策略 -- Ariel](https://www.bastillepost.com/hongkong/article/6802266-%E6%96%B0%E7%96%86%E5%92%8C%E9%A6%99%E6%B8%AF%E7%88%86%E7%96%AB-%E5%85%A7%E5%9C%B0%E5%B0%88%E5%AE%B6%E5%BC%B5%E6%96%87%E5%AE%8F%E6%AF%94%E8%BC%83%E5%85%A9%E5%9C%B0%E9%98%B2%E7%96%AB%E7%AD%96%E7%95%A5)  
+
+- [想限聚3星期、3個月抑或3年？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/6809834-%E6%83%B3%E9%99%90%E8%81%9A3%E6%98%9F%E6%9C%9F%E3%80%813%E5%80%8B%E6%9C%88%E6%8A%91%E6%88%963%E5%B9%B4%EF%BC%9F)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
