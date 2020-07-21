@@ -15,4 +15,8 @@
 
 - [想限聚3星期、3個月抑或3年？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/6809834-%E6%83%B3%E9%99%90%E8%81%9A3%E6%98%9F%E6%9C%9F%E3%80%813%E5%80%8B%E6%9C%88%E6%8A%91%E6%88%963%E5%B9%B4%EF%BC%9F)  
 
+- [《刺針》發表兩項新冠疫苗試驗結果 美國媒體僅提英國牛津疫苗 無講中國做得更好 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6815349-%E3%80%8A%E5%88%BA%E9%87%9D%E3%80%8B%E7%99%BC%E8%A1%A8%E5%85%A9%E9%A0%85%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A9%A6%E9%A9%97%E7%B5%90%E6%9E%9C-%E7%BE%8E%E5%9C%8B%E5%AA%92%E9%AB%94%E5%83%85%E6%8F%90)  
+
+- [英國拒絕華為5G，從此衰落150年？ -- 深藍](https://www.bastillepost.com/hongkong/article/6815093-%E8%8B%B1%E5%9C%8B%E6%8B%92%E7%B5%95%E8%8F%AF%E7%82%BA5g%EF%BC%8C%E5%BE%9E%E6%AD%A4%E8%A1%B0%E8%90%BD150%E5%B9%B4%EF%BC%9F)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
