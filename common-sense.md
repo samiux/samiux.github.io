@@ -19,4 +19,12 @@
 
 - [英國拒絕華為5G，從此衰落150年？ -- 深藍](https://www.bastillepost.com/hongkong/article/6815093-%E8%8B%B1%E5%9C%8B%E6%8B%92%E7%B5%95%E8%8F%AF%E7%82%BA5g%EF%BC%8C%E5%BE%9E%E6%AD%A4%E8%A1%B0%E8%90%BD150%E5%B9%B4%EF%BC%9F)  
 
+- [美政府要求中國72小時內關閉駐休士頓總領館 胡錫進：「這是一個瘋狂的行動!」-- 毛拍手](https://www.google.com/search?client=ubuntu&hs=w5E&channel=fs&ei=_Q8YX9ncNaremAXIooiQBA&q=bastillepost.com+6818694&oq=bastillepost.com+6818694&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQIyBQgAEM0CMgUIABDNAjIFCAAQzQI6BQghEKABUK_ZA1ijngRgpaEEaANwAHgAgAGPAYgB8gaSAQQxMC4ymAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiZz47QzuDqAhUqL6YKHUgRAkIQ4dUDCAs&uact=5)  
+
+- [印度5G橫空出世，自稱「華為殺手」，劇本由美國泡製 -- 深藍](https://www.bastillepost.com/hongkong/article/6820905-%E5%8D%B0%E5%BA%A65g%E6%A9%AB%E7%A9%BA%E5%87%BA%E4%B8%96%EF%BC%8C%E8%87%AA%E7%A8%B1%E3%80%8C%E8%8F%AF%E7%82%BA%E6%AE%BA%E6%89%8B%E3%80%8D%EF%BC%8C%E5%8A%87%E6%9C%AC%E7%94%B1%E7%BE%8E%E5%9C%8B%E6%B3%A1)  
+
+- [讀智者之言 信理性之光 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6816253-%e8%ae%80%e6%99%ba%e8%80%85%e4%b9%8b%e8%a8%80-%e4%bf%a1%e7%90%86%e6%80%a7%e4%b9%8b%e5%85%89)  
+
+- [中、美、英3個疫苖團隊領跑前列 全部進入第3期測試 料年底面世 -- deepthroat](https://www.bastillepost.com/hongkong/article/6818694-%e4%b8%ad%e3%80%81%e7%be%8e%e3%80%81%e8%8b%b13%e5%80%8b%e7%96%ab%e8%8b%96%e5%9c%98%e9%9a%8a%e9%a0%98%e8%b7%91%e5%89%8d%e5%88%97-%e5%85%a8%e9%83%a8%e9%80%b2%e5%85%a5%e7%ac%ac3%e6%9c%9f%e6%b8%ac)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
