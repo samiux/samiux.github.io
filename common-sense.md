@@ -27,4 +27,6 @@
 
 - [中、美、英3個疫苖團隊領跑前列 全部進入第3期測試 料年底面世 -- deepthroat](https://www.bastillepost.com/hongkong/article/6818694-%e4%b8%ad%e3%80%81%e7%be%8e%e3%80%81%e8%8b%b13%e5%80%8b%e7%96%ab%e8%8b%96%e5%9c%98%e9%9a%8a%e9%a0%98%e8%b7%91%e5%89%8d%e5%88%97-%e5%85%a8%e9%83%a8%e9%80%b2%e5%85%a5%e7%ac%ac3%e6%9c%9f%e6%b8%ac)  
 
+- [一個充斥著謊言和死亡的國度 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6822180-%e4%b8%80%e5%80%8b%e5%85%85%e6%96%a5%e8%91%97%e8%ac%8a%e8%a8%80%e5%92%8c%e6%ad%bb%e4%ba%a1%e7%9a%84%e5%9c%8b%e5%ba%a6)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
