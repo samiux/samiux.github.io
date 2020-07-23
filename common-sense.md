@@ -35,4 +35,6 @@
 
 - [2020-07-22 時事觀察 第2節--霍詠強：白宮政府好戰分子當道？](https://www.youtube.com/watch?v=G4lny342NHI&feature=emb_logo)  
 
+- [平反元朗黑夜 Debunking Yuen Long Nightmare 721](https://www.youtube.com/watch?v=98JZlfcINoA)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
