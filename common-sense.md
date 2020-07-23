@@ -29,4 +29,10 @@
 
 - [一個充斥著謊言和死亡的國度 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6822180-%e4%b8%80%e5%80%8b%e5%85%85%e6%96%a5%e8%91%97%e8%ac%8a%e8%a8%80%e5%92%8c%e6%ad%bb%e4%ba%a1%e7%9a%84%e5%9c%8b%e5%ba%a6)  
 
+- [第66期：从疫情防控失败到反种族主义示威，为何美国出现这么多问题？听张维为和李波解读美国多重危机引起的西方反思 ​​​​|《这就是中国》CHINA NOW EP66【东方卫视官方频道】](https://www.youtube.com/watch?v=5qOYdj5-O0g)  
+
+- [2020-07-22 時事觀察 第1節--霍詠強：打倒了共產黨、中國就垮了？](https://www.youtube.com/watch?v=CDdWX-Z_gac&feature=emb_logo)  
+
+- [2020-07-22 時事觀察 第2節--霍詠強：白宮政府好戰分子當道？](https://www.youtube.com/watch?v=G4lny342NHI&feature=emb_logo)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
