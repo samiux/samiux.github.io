@@ -31,9 +31,9 @@
 
 - [ 视频 -- 第66期：从疫情防控失败到反种族主义示威，为何美国出现这么多问题？-《这就是中国》CHINA NOW EP66【东方卫视官方频道】](https://www.youtube.com/watch?v=5qOYdj5-O0g)  
 
-- [ 音频 -- 2020-07-22 時事觀察 第1節--霍詠強：打倒了共產黨、中國就垮了？](https://www.youtube.com/watch?v=CDdWX-Z_gac&feature=emb_logo)  
+- [ 音频 -- 2020-07-22 時事觀察 第1節 -- 霍詠強：打倒了共產黨、中國就垮了？](https://www.youtube.com/watch?v=CDdWX-Z_gac&feature=emb_logo)  
 
-- [ 音频 -- 2020-07-22 時事觀察 第2節--霍詠強：白宮政府好戰分子當道？](https://www.youtube.com/watch?v=G4lny342NHI&feature=emb_logo)  
+- [ 音频 -- 2020-07-22 時事觀察 第2節 -- 霍詠強：白宮政府好戰分子當道？](https://www.youtube.com/watch?v=G4lny342NHI&feature=emb_logo)  
 
 - [ 视频 -- 平反元朗黑夜 Debunking Yuen Long Nightmare 721](https://www.youtube.com/watch?v=98JZlfcINoA)  
 
