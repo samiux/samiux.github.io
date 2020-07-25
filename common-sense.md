@@ -39,4 +39,6 @@
 
 - [要麼不做，要麼做絕 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6836635-%E8%A6%81%E9%BA%BC%E4%B8%8D%E5%81%9A%EF%BC%8C%E8%A6%81%E9%BA%BC%E5%81%9A%E7%B5%95)  
 
+- [「天問一號」啟示錄︰中國有人比馬斯克更狂 -- 深藍](https://www.bastillepost.com/hongkong/article/6835343-%e3%80%8c%e5%a4%a9%e5%95%8f%e4%b8%80%e8%99%9f%e3%80%8d%e5%95%9f%e7%a4%ba%e9%8c%84%ef%b8%b0%e4%b8%ad%e5%9c%8b%e6%9c%89%e4%ba%ba%e6%af%94%e9%a6%ac%e6%96%af%e5%85%8b%e6%9b%b4%e7%8b%82)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
