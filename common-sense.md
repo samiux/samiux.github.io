@@ -37,4 +37,6 @@
 
 - [ 视频 -- 平反元朗黑夜 Debunking Yuen Long Nightmare 721](https://www.youtube.com/watch?v=98JZlfcINoA)  
 
+- [要麼不做，要麼做絕 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6836635-%E8%A6%81%E9%BA%BC%E4%B8%8D%E5%81%9A%EF%BC%8C%E8%A6%81%E9%BA%BC%E5%81%9A%E7%B5%95)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
