@@ -55,4 +55,10 @@
 
 - [ 视频 -- 我的警察爸爸—前世情人的內心剖白｜沖出黎講](https://samiux.blogspot.com/2020/07/blog-post_25.html)  
 
+- [航空联合立体出击 驻港部队就是这么帅！| 威虎堂](https://www.youtube.com/watch?v=xqXnDsAFaRU)  
+
+- [枪王争霸！驻港部队狙击手集训 3秒记忆射击 | 威虎堂](https://www.youtube.com/watch?v=SoPrUBCHXH0)  
+
+- ["明星"防雷车首度大接触 中国制造有何独特魅力？20200520 | 军迷行天下](https://www.youtube.com/watch?v=FBDJY_Ku62A)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
