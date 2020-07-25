@@ -51,4 +51,8 @@
 
 - [ Video --《Starry Night》 -- 香港警察 Hong Kong Police](https://www.youtube.com/watch?v=5w69QySL6zM)  
 
+- [ 视频 --《暗夜星辰》(Starry Night) --  香港警察 Hong Kong Police](https://samiux.blogspot.com/2020/07/starry-night-hong-kong-police.html)  
+
+- [ 视频 -- 我的警察爸爸—前世情人的內心剖白｜沖出黎講](https://samiux.blogspot.com/2020/07/blog-post_25.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
