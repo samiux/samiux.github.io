@@ -68,5 +68,8 @@ Give a man an 0day and he'll have access for a day, teach a man to phish and he'
 ```
 When learn more, you will find out that you are a noob only. (学无止境)  -- Samiux
 ```
+```
+教为战、练为战 -- 习近平
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
