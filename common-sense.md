@@ -41,4 +41,10 @@
 
 - [「天問一號」啟示錄︰中國有人比馬斯克更狂 -- 深藍](https://www.bastillepost.com/hongkong/article/6835343-%e3%80%8c%e5%a4%a9%e5%95%8f%e4%b8%80%e8%99%9f%e3%80%8d%e5%95%9f%e7%a4%ba%e9%8c%84%ef%b8%b0%e4%b8%ad%e5%9c%8b%e6%9c%89%e4%ba%ba%e6%af%94%e9%a6%ac%e6%96%af%e5%85%8b%e6%9b%b4%e7%8b%82)  
 
+- [考起AI機械人的IQ題 -- 黃秉華](https://www.bastillepost.com/hongkong/article/6839114-%e8%80%83%e8%b5%b7ai%e6%a9%9f%e6%a2%b0%e4%ba%ba%e7%9a%84iq%e9%a1%8c)  
+
+- [美國「抗疫英雄」福奇飽受威脅 感嘆：這是真正的美國嗎？ -- deepthroat](https://www.bastillepost.com/hongkong/article/6838615-%E7%BE%8E%E5%9C%8B%E3%80%8C%E6%8A%97%E7%96%AB%E8%8B%B1%E9%9B%84%E3%80%8D%E7%A6%8F%E5%A5%87%E9%A3%BD%E5%8F%97%E5%A8%81%E8%84%85-%E6%84%9F%E5%98%86%EF%BC%9A%E9%80%99%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84)  
+
+- [中國探測火星大計 一步追趕美國56年 「環繞、著陸、巡視探測」三大任務要一次完成 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6839135-%e4%b8%ad%e5%9c%8b%e6%8e%a2%e6%b8%ac%e7%81%ab%e6%98%9f%e5%a4%a7%e8%a8%88-%e4%b8%80%e6%ad%a5%e8%bf%bd%e8%b6%95%e7%be%8e%e5%9c%8b56%e5%b9%b4-%e3%80%8c%e7%92%b0%e7%b9%9e%e3%80%81%e8%91%97%e9%99%b8)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
