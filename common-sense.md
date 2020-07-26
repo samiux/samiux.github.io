@@ -75,4 +75,8 @@
 
 - [全球貿易結算 人幣份額升17.9% -- 大公文匯](https://www.tkww.hk/a/202007/26/AP5f1cd7c6e4b09687db34dccf.html)  
 
+- [中美另一重大磨擦點浮現 不理美國制裁 中國與伊朗與華達成25年合作大計 -- deepthroat](https://www.bastillepost.com/hongkong/article/6842212-%E4%B8%AD%E7%BE%8E%E5%8F%A6%E4%B8%80%E9%87%8D%E5%A4%A7%E7%A3%A8%E6%93%A6%E9%BB%9E%E6%B5%AE%E7%8F%BE-%E4%B8%8D%E7%90%86%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81-%E4%B8%AD%E5%9C%8B%E8%88%87%E4%BC%8A%E6%9C%97)  
+
+-- [水陸兩棲飛機「鯤龍」AG600海上首飛成功 -- 大公文匯](https://www.tkww.hk/a/202007/26/AP5f1cf954e4b09687db34e0c4.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
