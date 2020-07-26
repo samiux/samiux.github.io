@@ -73,4 +73,6 @@
 
 - [關閉成都領事館 中國自衛反擊戰迎頭痛擊 -- 大公文匯](https://www.tkww.hk/a/202007/25/AP5f1bf08de4b09687db34d052.html)  
 
+- [全球貿易結算 人幣份額升17.9% -- 大公文匯](https://www.tkww.hk/a/202007/26/AP5f1cd7c6e4b09687db34dccf.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
