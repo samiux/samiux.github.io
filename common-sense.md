@@ -61,4 +61,6 @@
 
 - [ 视频 -- "明星"防雷车首度大接触 中国制造有何独特魅力？20200520 -- 军迷行天下](https://www.youtube.com/watch?v=FBDJY_Ku62A)  
 
+- [「資源」3星組天眼 3D測繪破壟斷 -- 大公文匯](https://www.tkww.hk/a/202007/26/AP5f1cc8e0e4b09687db34db43.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
