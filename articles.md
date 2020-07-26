@@ -14,7 +14,7 @@
 
 - [国安法懒人包](https://samiux.blogspot.com/2020/07/blog-post.html)  
 
-- [【冼師傅講場】｜冼國林｜EP77｜反駁對港區國安法之惡意抹黑](https://www.youtube.com/watch?v=o1pHv0PIVQc)  
+- [ 视频 --【冼師傅講場】｜冼國林｜EP77｜反駁對港區國安法之惡意抹黑](https://www.youtube.com/watch?v=o1pHv0PIVQc)  
   
 - [盧永雄對民主派初選的看法](/hknsl-1.md)  
   
