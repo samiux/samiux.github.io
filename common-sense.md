@@ -63,4 +63,6 @@
 
 - [「資源」3星組天眼 3D測繪破壟斷 -- 大公文匯](https://www.tkww.hk/a/202007/26/AP5f1cc8e0e4b09687db34db43.html)  
 
+- [是夜郎自大還是政治上腦? -- 大公文匯](https://www.tkww.hk/a/202007/24/AP5f1ae4e8e4b09687db34bfed.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
