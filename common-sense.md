@@ -81,4 +81,6 @@
 
 - [ 视频 -- 【冼師傅講場】｜冼國林｜EP79｜司法不公，庸官誤港](https://www.youtube.com/watch?v=ecXS3U9KftI)  
 
+- [ 视频 -- 聲光伴讀《中國復甦快得出乎意料》-- 施永青](https://www.youtube.com/watch?v=2-EQYOwygd8&feature=emb_logo)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
