@@ -79,4 +79,6 @@
 
 - [水陸兩棲飛機「鯤龍」AG600海上首飛成功 -- 大公文匯](https://www.tkww.hk/a/202007/26/AP5f1cf954e4b09687db34e0c4.html)  
 
+- [ 视频 -- 【冼師傅講場】｜冼國林｜EP79｜司法不公，庸官誤港](https://www.youtube.com/watch?v=ecXS3U9KftI)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
