@@ -16,8 +16,8 @@
 
 一旦发现安装了恶意软件，应立即删除并考虑重置手机。
 
-Samiux 
-OSCE  OSCP  OSWP 
+Samiux   
+OSCE  OSCP  OSWP  
 二零二零年七月廿八日，中国香港   
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
