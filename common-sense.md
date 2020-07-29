@@ -83,6 +83,6 @@
 
 - [ 视频 -- 聲光伴讀《中國復甦快得出乎意料》-- 施永青](https://www.youtube.com/watch?v=2-EQYOwygd8&feature=emb_logo)  
 
-- [ Video -- 【Long Time No See, Wuhan】-- Post-Pandemic Wuhan Through the Lens of a Japanese Director](https://www.youtube.com/watch?v=N4ABOJ1y5iM)  
+- [ Video -- 【Long Time No See, Wuhan】-- Post-Pandemic Wuhan Through the Lens of a Japanese Director](https://samiux.blogspot.com/2020/07/long-time-no-see-wuhan-post-pandemic.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
