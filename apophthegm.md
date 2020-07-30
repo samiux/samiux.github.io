@@ -71,5 +71,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 教为战、练为战 -- 习近平
 ```
-
+```
+ 不要把世界让给你讨厌的人！-- 华为 
+ ```
+ 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
