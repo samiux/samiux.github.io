@@ -85,4 +85,6 @@
 
 - [ Video -- 【Long Time No See, Wuhan】-- Post-Pandemic Wuhan Through the Lens of a Japanese Director](https://samiux.blogspot.com/2020/07/long-time-no-see-wuhan-post-pandemic.html)  
 
+- [ 视频 -- 不要把世界让给你讨厌的人！-- 华为 ](https://samiux.blogspot.com/2020/07/blog-post_30.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
