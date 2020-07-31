@@ -18,6 +18,8 @@
   
 - [盧永雄對民主派初選的看法](/hknsl-1.md)  
   
+- [专题视听频道](/channels.md)  
+  
 - [一般常識文章結集](/common-sense.md)  
   
 - [如何成為黑客 (入門篇)](/become-hacker.md)
