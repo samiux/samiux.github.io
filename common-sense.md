@@ -95,4 +95,6 @@
 
 - [ 视频 -- 揭秘美军网络战部队：智商高达140 但存几大弱点 -- 威虎堂](https://www.youtube.com/watch?v=NMtTnxiI7Qc)  
 
+- [激進政治的相反結局 - 東歐民主經驗 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6875107-%e6%bf%80%e9%80%b2%e6%94%bf%e6%b2%bb%e7%9a%84%e7%9b%b8%e5%8f%8d%e7%b5%90%e5%b1%80-%e6%9d%b1%e6%ad%90%e6%b0%91%e4%b8%bb%e7%b6%93%e9%a9%97)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
