@@ -89,4 +89,6 @@
 
 - [【中科院控告 Intel 侵犯 FinFET 專利】申請禁售 Intel CPU !! 索賠至少 2 億人民幣 -- HKEPC](https://www.hkepc.com/19615/%E4%B8%AD%E7%A7%91%E9%99%A2%E6%8E%A7%E5%91%8A_Intel_%E4%BE%B5%E7%8A%AF_FinFET_%E5%B0%88%E5%88%A9_%E7%94%B3%E8%AB%8B%E7%A6%81%E5%94%AE_Intel_CPU__%E7%B4%A2%E8%B3%A0%E8%87%B3%E5%B0%91_2_%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3)  
 
+- [未經允許讀取好友名單 抖音微信讀書被裁定侵害個人信息 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6870789-%E6%8A%96%E9%9F%B3%E5%8F%8A%E5%BE%AE%E4%BF%A1%E8%AE%80%E6%9B%B8%E8%A2%AB%E5%88%A4%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B6%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF)   
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
