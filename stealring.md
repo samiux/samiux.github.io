@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# 切勿以身试法 （掩耳盗铃篇）
+# 切勿以身试法 (掩耳盗铃篇)
 
 我个人认为，在现在的互联网环境下要隐身「几乎」是没有可能的。
 
