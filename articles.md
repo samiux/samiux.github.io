@@ -33,8 +33,10 @@
 - [「好心做壞事」？](/good_thing.md)
 - [切勿以身試法 (虛擬私人網絡編)](/vpn_law.md)
 - [切勿以身试法 (Tails OS 篇)](/tails_law.md)
-- [切勿以身试法（加密通讯软件篇)](/encrochat.md)  
+- [切勿以身试法 (加密通讯软件篇)](/encrochat.md)
+- [切勿以身试法 (掩耳盗铃篇)](/stealring.md)
 - [智能手机资安](/smartphone.md)
+
 
 ### Tutorials
 
