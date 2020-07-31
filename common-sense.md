@@ -97,4 +97,6 @@
 
 - [激進政治的相反結局 - 東歐民主經驗 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6875107-%e6%bf%80%e9%80%b2%e6%94%bf%e6%b2%bb%e7%9a%84%e7%9b%b8%e5%8f%8d%e7%b5%90%e5%b1%80-%e6%9d%b1%e6%ad%90%e6%b0%91%e4%b8%bb%e7%b6%93%e9%a9%97)  
 
+- [馮檢基：民主派4個誤判　以為「攬炒」可令中央就範 -- 星島日報](https://std.stheadline.com/politics/article/1334060/%E6%94%BF%E6%B2%BB-%E6%96%B0%E8%81%9E-%E9%A6%AE%E6%AA%A2%E5%9F%BA-%E6%B0%91%E4%B8%BB%E6%B4%BE4%E5%80%8B%E8%AA%A4%E5%88%A4-%E4%BB%A5%E7%82%BA-%E6%94%AC%E7%82%92-%E5%8F%AF%E4%BB%A4%E4%B8%AD%E5%A4%AE%E5%B0%B1%E7%AF%84)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
