@@ -85,7 +85,7 @@
 
 - [ Video -- 【Long Time No See, Wuhan】-- Post-Pandemic Wuhan Through the Lens of a Japanese Director](https://samiux.blogspot.com/2020/07/long-time-no-see-wuhan-post-pandemic.html)  
 
-- [ 视频 -- 不要把世界让给你讨厌的人！-- 华为](https://samiux.blogspot.com/2020/07/blog-post_30.html)  
+- [ 视频 -- 不要把世界让给你讨厌的人！-- 抖音](https://samiux.blogspot.com/2020/07/blog-post_30.html)  
 
 - [【中科院控告 Intel 侵犯 FinFET 專利】申請禁售 Intel CPU !! 索賠至少 2 億人民幣 -- HKEPC](https://www.hkepc.com/19615/%E4%B8%AD%E7%A7%91%E9%99%A2%E6%8E%A7%E5%91%8A_Intel_%E4%BE%B5%E7%8A%AF_FinFET_%E5%B0%88%E5%88%A9_%E7%94%B3%E8%AB%8B%E7%A6%81%E5%94%AE_Intel_CPU__%E7%B4%A2%E8%B3%A0%E8%87%B3%E5%B0%91_2_%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3)  
 
