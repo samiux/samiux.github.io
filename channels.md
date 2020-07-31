@@ -4,14 +4,14 @@
 
 - [军迷天下](https://www.youtube.com/user/militarycntv)  
 - [CCTV挑战不可能官方频道](https://www.youtube.com/channel/UC3HLhJGcc_0Vse2UncGnxcQ)  
-- [中国东方卫视官方频道China DragonTV Official](ttps://www.youtube.com/channel/UCJ06BguWKS5GJsEue7u79PQ)  
+- [中国东方卫视官方频道China DragonTV Official](https://www.youtube.com/channel/UCJ06BguWKS5GJsEue7u79PQ)  
 - [厉害了我的国](https://www.youtube.com/channel/UC0zGScLEqQ_ggw23iIBIZoA)  
 - [Weibo Official Channel](https://www.youtube.com/channel/UCpU9eMYJE6o2CnqDmKF0g8A)  
 
 - [時事觀察](http://www.singtao.tv/main/category/newsreport/situation/)  
 - [大樹與木頭 ‧Y2K Channel](https://www.youtube.com/channel/UCFfLWSnUCblI4Lpsph7H1lA)  
 - [陳穎欣Joephy Chan](https://www.youtube.com/channel/UCvlBe-TQfjLFINSSYQt9Tjg)  
-- [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)
+- [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
 - [冼師傅講場](https://www.youtube.com/channel/UCFRBCHEqZNJ2Rb1IjrCC8Zw)    
 
 - [玛莎CN](https://www.youtube.com/channel/UCmSefgK3FoLgyIJ25kjJ83g)  
