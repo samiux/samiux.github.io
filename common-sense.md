@@ -91,4 +91,6 @@
 
 - [未經允許讀取好友名單 抖音微信讀書被裁定侵害個人信息 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6870789-%E6%8A%96%E9%9F%B3%E5%8F%8A%E5%BE%AE%E4%BF%A1%E8%AE%80%E6%9B%B8%E8%A2%AB%E5%88%A4%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B6%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF)   
 
+- [地盤工散播警察新屋嶺強姦假消息 連大學校長都呃埋！ -- 小鯊](https://www.bastillepost.com/hongkong/article/6873652-%e5%9c%b0%e7%9b%a4%e5%b7%a5%e6%95%a3%e6%92%ad%e8%ad%a6%e5%af%9f%e6%96%b0%e5%b1%8b%e5%b6%ba%e5%bc%b7%e5%a7%a6%e5%81%87%e6%b6%88%e6%81%af-%e9%80%a3%e5%a4%a7%e5%ad%b8%e6%a0%a1%e9%95%b7%e9%83%bd%e5%91%83)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
