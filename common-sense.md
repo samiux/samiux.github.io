@@ -99,4 +99,10 @@
 
 - [馮檢基：民主派4個誤判　以為「攬炒」可令中央就範 -- 星島日報](https://std.stheadline.com/politics/article/1334060/%E6%94%BF%E6%B2%BB-%E6%96%B0%E8%81%9E-%E9%A6%AE%E6%AA%A2%E5%9F%BA-%E6%B0%91%E4%B8%BB%E6%B4%BE4%E5%80%8B%E8%AA%A4%E5%88%A4-%E4%BB%A5%E7%82%BA-%E6%94%AC%E7%82%92-%E5%8F%AF%E4%BB%A4%E4%B8%AD%E5%A4%AE%E5%B0%B1%E7%AF%84)  
 
+- [美國第二季GDP跌32.9% 只是年化數字 千萬不要以為中國經濟好快超越美國! -- deepthroat](https://www.bastillepost.com/hongkong/article/6886675-%e7%be%8e%e5%9c%8b%e7%ac%ac%e4%ba%8c%e5%ad%a3gdp%e8%b7%8c32-9-%e5%8f%aa%e6%98%af%e5%b9%b4%e5%8c%96%e6%95%b8%e5%ad%97-%e5%8d%83%e8%90%ac%e4%b8%8d%e8%a6%81%e4%bb%a5%e7%82%ba%e4%b8%ad%e5%9c%8b%e7%b6%93)  
+
+- [CNN: 特朗普送給普京的最後一份厚禮？！ -- deepthroat](https://www.bastillepost.com/hongkong/article/6887195-cnn-%e7%89%b9%e6%9c%97%e6%99%ae%e9%80%81%e7%b5%a6%e6%99%ae%e4%ba%ac%e7%9a%84%e6%9c%80%e5%be%8c%e4%b8%80%e4%bb%bd%e5%8e%9a%e7%a6%ae%ef%bc%9f%ef%bc%81)  
+
+- [從5G到TikTok，美國無法面對中國科技 -- 深藍](https://www.bastillepost.com/hongkong/article/6887557-%e5%be%9e5g%e5%88%b0tiktok%ef%bc%8c%e7%be%8e%e5%9c%8b%e7%84%a1%e6%b3%95%e9%9d%a2%e5%b0%8d%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
