@@ -105,4 +105,6 @@
 
 - [從5G到TikTok，美國無法面對中國科技 -- 深藍](https://www.bastillepost.com/hongkong/article/6887557-%e5%be%9e5g%e5%88%b0tiktok%ef%bc%8c%e7%be%8e%e5%9c%8b%e7%84%a1%e6%b3%95%e9%9d%a2%e5%b0%8d%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80)  
 
+- [日本導演微博貼文惹關注 日本無錯 中國無錯 變成「世界第二大經濟體」就最錯 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6888970-%e6%97%a5%e6%9c%ac%e5%b0%8e%e6%bc%94%e5%be%ae%e5%8d%9a%e8%b2%bc%e6%96%87%e6%83%b9%e9%97%9c%e6%b3%a8-%e6%97%a5%e6%9c%ac%e7%84%a1%e9%8c%af-%e4%b8%ad%e5%9c%8b%e7%84%a1%e9%8c%af-%e8%ae%8a%e6%88%90)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
