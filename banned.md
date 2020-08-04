@@ -30,7 +30,7 @@ OSCE  OSCP  OSWP
 
 - [电脑广场 (HKEPC) Linux 玩家](https://www.hkepc.com/forum/forumdisplay.php?fid=24)  
 -  [有关连结 (一)](https://www.hkepc.com/forum/viewthread.php?fid=24&tid=2576241&extra=page%3D1)  
--  [有关连结 (二)](https://www.hkepc.com/forum/viewthread.php?fid=24&tid=2571154&extra=page%3D1)  
+-  [有关连结 (二)](https://www.hkepc.com/forum/viewthread.php?fid=24&tid=2571154&extra=page%3D1)
 -  [有关连结 (三)](https://www.hkepc.com/forum/viewthread.php?fid=24&tid=2575532&extra=page%3D1)  
 
 - [切勿以身试法 (虚拟私人网络篇)](https://samiux.github.io/vpn_law.html)
