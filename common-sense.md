@@ -111,4 +111,6 @@
 
 - [ 视频 -- 八一特約：致我認為最可愛的人們 -- 沖出黎講](https://www.youtube.com/watch?v=3yK0oMZpwoY) 
 
+- [特朗普荒天下之大謬 強搶民產仲要抽佣！ -- deepthroat](https://www.bastillepost.com/hongkong/article/6893179-%e7%89%b9%e6%9c%97%e6%99%ae%e8%8d%92%e5%a4%a9%e4%b8%8b%e4%b9%8b%e5%a4%a7%e8%ac%ac-%e5%bc%b7%e6%90%b6%e6%b0%91%e7%94%a2%e4%bb%b2%e8%a6%81%e6%8a%bd%e4%bd%a3%ef%bc%81)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
