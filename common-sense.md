@@ -107,4 +107,6 @@
 
 - [日本導演微博貼文惹關注 日本無錯 中國無錯 變成「世界第二大經濟體」就最錯 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6888970-%e6%97%a5%e6%9c%ac%e5%b0%8e%e6%bc%94%e5%be%ae%e5%8d%9a%e8%b2%bc%e6%96%87%e6%83%b9%e9%97%9c%e6%b3%a8-%e6%97%a5%e6%9c%ac%e7%84%a1%e9%8c%af-%e4%b8%ad%e5%9c%8b%e7%84%a1%e9%8c%af-%e8%ae%8a%e6%88%90)  
 
+- [人民大學教授講Tiktok事件 「我們都曾經迷信美國的制度優勢和經濟競爭力」-- 毛拍手](https://www.bastillepost.com/hongkong/article/6892023-%e4%ba%ba%e6%b0%91%e5%a4%a7%e5%ad%b8%e6%95%99%e6%8e%88%e8%ac%9btiktok%e4%ba%8b%e4%bb%b6-%e3%80%8c%e6%88%91%e5%80%91%e9%83%bd%e6%9b%be%e7%b6%93%e8%bf%b7%e4%bf%a1%e7%be%8e%e5%9c%8b%e7%9a%84%e5%88%b6)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
