@@ -109,6 +109,6 @@
 
 - [人民大學教授講Tiktok事件 「我們都曾經迷信美國的制度優勢和經濟競爭力」-- 毛拍手](https://www.bastillepost.com/hongkong/article/6892023-%e4%ba%ba%e6%b0%91%e5%a4%a7%e5%ad%b8%e6%95%99%e6%8e%88%e8%ac%9btiktok%e4%ba%8b%e4%bb%b6-%e3%80%8c%e6%88%91%e5%80%91%e9%83%bd%e6%9b%be%e7%b6%93%e8%bf%b7%e4%bf%a1%e7%be%8e%e5%9c%8b%e7%9a%84%e5%88%b6)  
 
-- [ 视频 -- 八一特約：致我認為最可愛的人們 -- 沖出黎講」-- 毛拍手](https://www.youtube.com/watch?v=3yK0oMZpwoY) 
+- [ 视频 -- 八一特約：致我認為最可愛的人們 -- 沖出黎講](https://www.youtube.com/watch?v=3yK0oMZpwoY) 
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
