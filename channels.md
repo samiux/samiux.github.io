@@ -44,6 +44,6 @@
 
 - [《暗夜星辰》(Starry Night) -- 香港警察 Hong Kong Police](https://samiux.blogspot.com/2020/07/starry-night-hong-kong-police.html)  
 
-- [八一建军节 2020-08-01 -《我们的节日》庆祝中国人民解放军建军93周年特别节目 - 军迷天下](https://samiux.blogspot.com/2020/08/2020-08-01-93.html)  
+- [八一建军节 2020-08-01 -《我们的节日》庆祝中国人民解放军建军93周年特别节目 -- 军迷天下](https://samiux.blogspot.com/2020/08/2020-08-01-93.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
