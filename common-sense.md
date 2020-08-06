@@ -120,4 +120,6 @@
 
 - [公民黨4人被DQ後 美駐港總領事突然親訪梁家傑 -- Ariel](https://www.bastillepost.com/hongkong/article/6895709-%e5%85%ac%e6%b0%91%e9%bb%a84%e4%ba%ba%e8%a2%abdq%e5%be%8c-%e7%be%8e%e9%a7%90%e6%b8%af%e7%b8%bd%e9%a0%98%e4%ba%8b%e7%aa%81%e7%84%b6%e8%a6%aa%e8%a8%aa%e6%a2%81%e5%ae%b6%e5%82%91)  
 
+- [內地醫生: 香港現在的核酸檢測 是一場一國兩制的較量 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6904998-%e5%85%a7%e5%9c%b0%e9%86%ab%e7%94%9f-%e9%a6%99%e6%b8%af%e7%8f%be%e5%9c%a8%e7%9a%84%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac-%e6%98%af%e4%b8%80%e5%a0%b4%e4%b8%80%e5%9c%8b%e5%85%a9%e5%88%b6%e7%9a%84)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
