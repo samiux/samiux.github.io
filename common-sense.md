@@ -124,4 +124,6 @@
 
 - [美軍偵察機距廣東不足60浬 面對挑釁中方保持克制 -- deepthroat](https://www.bastillepost.com/hongkong/article/6906543-%e7%be%8e%e8%bb%8d%e5%81%b5%e5%af%9f%e6%a9%9f%e8%b7%9d%e5%bb%a3%e6%9d%b1%e4%b8%8d%e8%b6%b360%e6%b5%ac-%e9%9d%a2%e5%b0%8d%e6%8c%91%e9%87%81%e4%b8%ad%e6%96%b9%e4%bf%9d%e6%8c%81%e5%85%8b%e5%88%b6)  
 
+- [TikTok啟示錄：此山是我開！ -- 大公文匯](https://www.tkww.hk/a/202008/06/AP5f2bc1e4e4b01ed76740320e.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
