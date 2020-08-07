@@ -126,4 +126,6 @@
 
 - [TikTok啟示錄：此山是我開！ -- 大公文匯](https://www.tkww.hk/a/202008/06/AP5f2bc1e4e4b01ed76740320e.html)  
 
+- [王毅訪問全文: 中國不是當年蘇聯 不會讓美國陰謀得逞進入新冷戰 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6908556-%e7%8e%8b%e6%af%85%e8%a8%aa%e5%95%8f%e5%85%a8%e6%96%87-%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%98%af%e7%95%b6%e5%b9%b4%e8%98%87%e8%81%af-%e4%b8%8d%e6%9c%83%e8%ae%93%e7%be%8e%e5%9c%8b%e9%99%b0%e8%ac%80)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
