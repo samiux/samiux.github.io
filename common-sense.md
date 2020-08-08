@@ -142,4 +142,9 @@
 
 - [一場背痛救了馬化騰 看看阿爾斯通的下場 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6915180-%e4%b8%80%e5%a0%b4%e8%83%8c%e7%97%9b%e6%95%91%e4%ba%86%e9%a6%ac%e5%8c%96%e9%a8%b0-%e7%9c%8b%e7%9c%8b%e9%98%bf%e7%88%be%e6%96%af%e9%80%9a%e7%9a%84%e4%b8%8b%e5%a0%b4)  
 
+- [ 视频 -- 实拍！空降兵某部近千人水上跳伞极罕见画面流出 -- 威虎堂](https://www.youtube.com/watch?v=GIglWq6WVQU)  
+
+- [ 视频 -- 特朗普要制裁TikTok！街访美国用户怎么看？ -- Jerry Kowal 我是郭杰瑞
+](https://www.youtube.com/watch?v=7DwzNcqYMUA)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
