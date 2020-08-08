@@ -48,4 +48,6 @@
 
 - [八一建军节 2020-08-01 -《我们的节日》庆祝中国人民解放军建军93周年特别节目 -- 军迷天下](https://samiux.blogspot.com/2020/08/2020-08-01-93.html)  
 
+- [纪录片《2019阅兵盛典》全景记录阅兵盛况 大国风采震撼来袭 -- 军迷天下](https://www.youtube.com/watch?v=RD7ft6Ll5Dw)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
