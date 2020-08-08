@@ -151,4 +151,6 @@
 
 - [ 视频 -- 譚新強：疫情加速中國超越美國；印銀紙撐GDP實為造假；不應排除美國國家隊入市可能性【經一拆局】-- 經濟一週 EDigest](https://www.youtube.com/watch?v=TjmQqdx6494)  
 
+- [字節跳動回應美政府行政令：將訴諸法院 -- 大公文匯](https://www.tkww.hk/a/202008/07/AP5f2d17b4e4b01ed76740557f.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
