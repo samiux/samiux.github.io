@@ -128,4 +128,8 @@
 
 - [王毅訪問全文: 中國不是當年蘇聯 不會讓美國陰謀得逞進入新冷戰 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6908556-%e7%8e%8b%e6%af%85%e8%a8%aa%e5%95%8f%e5%85%a8%e6%96%87-%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%98%af%e7%95%b6%e5%b9%b4%e8%98%87%e8%81%af-%e4%b8%8d%e6%9c%83%e8%ae%93%e7%be%8e%e5%9c%8b%e9%99%b0%e8%ac%80)  
 
+- [美國新冠死亡率，與科技危機齊升 -- 深藍](https://www.bastillepost.com/hongkong/article/6914065-%e7%be%8e%e5%9c%8b%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e7%8e%87%e8%88%87%e7%a7%91%e5%ad%b8%e5%8d%b1%e6%a9%9f%e9%bd%8a%e5%8d%87)  
+
+- [美國財政部制裁名單大爆中港官員私穩 地址身份證任睇 危及官員人身安全 -- Ariel](https://www.bastillepost.com/hongkong/article/6915880-%e7%be%8e%e5%9c%8b%e8%b2%a1%e6%94%bf%e9%83%a8%e5%88%b6%e8%a3%81%e5%90%8d%e5%96%ae%e5%a4%a7%e7%88%86%e4%b8%ad%e6%b8%af%e5%ae%98%e5%93%a1%e7%a7%81%e7%a9%a9-%e5%9c%b0%e5%9d%80%e8%ba%ab%e4%bb%bd%e8%ad%89)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
