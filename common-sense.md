@@ -134,4 +134,8 @@
 
 - [Capital One Fined $80 Million for 2019 Data Breach Affecting 106 Million Users -- The Hacker News](https://thehackernews.com/2020/08/capital-one-data-breach.html)  
 
+- [楊潔篪署名文章談中美關係 展示硬的更硬、軟的更軟態度 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6915253-%e6%a5%8a%e6%bd%94%e7%af%aa%e7%bd%b2%e5%90%8d%e6%96%87%e7%ab%a0%e8%ab%87%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82-%e5%b1%95%e7%a4%ba%e7%a1%ac%e7%9a%84%e6%9b%b4%e7%a1%ac%e3%80%81%e8%bb%9f%e7%9a%84%e6%9b%b4)  
+
+- [權威醫生解釋深喉唾液檢測失凖原因 「是是但但」自己做唔會凖 -- Ariel](https://www.bastillepost.com/hongkong/article/6914734-%e6%ac%8a%e5%a8%81%e9%86%ab%e7%94%9f%e8%a7%a3%e9%87%8b%e6%b7%b1%e5%96%89%e5%94%be%e6%b6%b2%e6%aa%a2%e6%b8%ac%e5%a4%b1%e5%87%96%e5%8e%9f%e5%9b%a0-%e3%80%8c%e6%98%af%e6%98%af%e4%bd%86%e4%bd%86%e3%80%8d)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
