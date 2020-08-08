@@ -138,4 +138,8 @@
 
 - [權威醫生解釋深喉唾液檢測失凖原因 「是是但但」自己做唔會凖 -- Ariel](https://www.bastillepost.com/hongkong/article/6914734-%e6%ac%8a%e5%a8%81%e9%86%ab%e7%94%9f%e8%a7%a3%e9%87%8b%e6%b7%b1%e5%96%89%e5%94%be%e6%b6%b2%e6%aa%a2%e6%b8%ac%e5%a4%b1%e5%87%96%e5%8e%9f%e5%9b%a0-%e3%80%8c%e6%98%af%e6%98%af%e4%bd%86%e4%bd%86%e3%80%8d)  
 
+- [人民日報俠客島：美國搞「清潔網絡」？蓬佩奧不記得斯諾登嗎？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/6918171-%e4%ba%ba%e6%b0%91%e6%97%a5%e5%a0%b1%e4%bf%a0%e5%ae%a2%e5%b3%b6%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%90%9e%e3%80%8c%e6%b8%85%e6%bd%94%e7%b6%b2%e7%b5%a1%e3%80%8d%ef%bc%9f%e8%93%ac%e4%bd%a9%e5%a5%a7%e4%b8%8d)  
+
+- [一場背痛救了馬化騰 看看阿爾斯通的下場 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6915180-%e4%b8%80%e5%a0%b4%e8%83%8c%e7%97%9b%e6%95%91%e4%ba%86%e9%a6%ac%e5%8c%96%e9%a8%b0-%e7%9c%8b%e7%9c%8b%e9%98%bf%e7%88%be%e6%96%af%e9%80%9a%e7%9a%84%e4%b8%8b%e5%a0%b4)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
