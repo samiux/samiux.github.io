@@ -24,6 +24,8 @@
 
 - [玛莎CN](https://www.youtube.com/channel/UCmSefgK3FoLgyIJ25kjJ83g)  
 
+- [Jerry Kowal 我是郭杰瑞](https://www.youtube.com/channel/UCfIbForcbE83cxm8MScOTlQ)  
+
 - [Where's Poppy](https://www.youtube.com/channel/UCAy4rN2oe57nR-NJzkm3qvw)  
 
 - [This is China](https://samiux.blogspot.com/2016/09/video-this-is-china.html)  
