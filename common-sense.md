@@ -132,4 +132,6 @@
 
 - [美國財政部制裁名單大爆中港官員私穩 地址身份證任睇 危及官員人身安全 -- Ariel](https://www.bastillepost.com/hongkong/article/6915880-%e7%be%8e%e5%9c%8b%e8%b2%a1%e6%94%bf%e9%83%a8%e5%88%b6%e8%a3%81%e5%90%8d%e5%96%ae%e5%a4%a7%e7%88%86%e4%b8%ad%e6%b8%af%e5%ae%98%e5%93%a1%e7%a7%81%e7%a9%a9-%e5%9c%b0%e5%9d%80%e8%ba%ab%e4%bb%bd%e8%ad%89)  
 
+- [Capital One Fined $80 Million for 2019 Data Breach Affecting 106 Million Users -- The Hacker News](https://thehackernews.com/2020/08/capital-one-data-breach.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
