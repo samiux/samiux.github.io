@@ -147,4 +147,8 @@
 - [ 视频 -- 特朗普要制裁TikTok！街访美国用户怎么看？ -- Jerry Kowal 我是郭杰瑞
 ](https://www.youtube.com/watch?v=7DwzNcqYMUA)  
 
+- [ 视频 -- 一片拆穿禁令陰謀，有片揭露特朗普禁抖音為私怨！為何禁微信，不禁騰訊？白宮急補鑊！特朗普轉性虛心請教被討厭原因，一人一留言告訴侵侵 2020.08.08 -- 陳穎欣Joephy Chan](https://www.youtube.com/watch?v=5hcv8J2_2R8)  
+
+- [ 视频 -- 譚新強：疫情加速中國超越美國；印銀紙撐GDP實為造假；不應排除美國國家隊入市可能性【經一拆局】-- 經濟一週 EDigest](https://www.youtube.com/watch?v=TjmQqdx6494)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
