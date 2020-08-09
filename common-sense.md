@@ -159,4 +159,10 @@
 
 - [南泥湾精神 (自力更生、艰苦奋斗) -- 共产党员网](http://www.12371.cn/special/zgjs/nnwjs/)  
 
+- [ 视频 -- 中国解放军及各军种训练视频/Chinese PLA Training/Tik Tok China --  林廷廷](https://www.youtube.com/watch?v=H06kvkv43j8)  
+
+- [ 视频 -- 《中国武警》 20190602 雪豹突击（上集）-- CCTV军事](https://www.youtube.com/watch?v=3EJfPcp-M-U)  
+
+- [ 视频 -- 《中国武警》 20190609 雪豹突击（下集）-- CCTV军事](https://www.youtube.com/watch?v=O3SjvOsWVFo)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
