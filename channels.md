@@ -61,4 +61,6 @@
 
 - [纪录片《2019阅兵盛典》全景记录阅兵盛况 大国风采震撼来袭 -- 军迷天下](https://www.youtube.com/watch?v=RD7ft6Ll5Dw)  
 
+- [蓬佩奥：我们撒谎、欺骗、偷窃 --  Ms Hej](https://www.youtube.com/watch?v=DKGU6ENYFA4)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
