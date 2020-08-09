@@ -157,4 +157,6 @@
 
 - [芯片斷供中國 美國高通怕每年失80億美元生意 華為啓動「南泥灣項目」去美國化自救 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6923019-%e8%8a%af%e7%89%87%e6%96%b7%e4%be%9b%e4%b8%ad%e5%9c%8b-%e7%be%8e%e5%9c%8b%e9%ab%98%e9%80%9a%e6%80%95%e6%af%8f%e5%b9%b4%e5%a4%b180%e5%84%84%e7%be%8e%e5%85%83%e7%94%9f%e6%84%8f-%e8%8f%af%e7%82%ba)  
 
+- [南泥湾精神 (自力更生、艰苦奋斗) -- 共产党员网](http://www.12371.cn/special/zgjs/nnwjs/)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
