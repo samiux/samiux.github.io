@@ -153,7 +153,7 @@
 
 - [字節跳動回應美政府行政令：將訴諸法院 -- 大公文匯](https://www.tkww.hk/a/202008/07/AP5f2d17b4e4b01ed76740557f.html)  
 
-- [小小圆球竟能抵挡猛烈炮火？揭秘坦克战车的“护心符” 20200707 -- 军事科技](https://www.youtube.com/watch?v=qvGdgcjDVXk)  
+- [ 视频 -- 小小圆球竟能抵挡猛烈炮火？揭秘坦克战车的“护心符” 20200707 -- 军事科技](https://www.youtube.com/watch?v=qvGdgcjDVXk)  
 
 - [芯片斷供中國 美國高通怕每年失80億美元生意 華為啓動「南泥灣項目」去美國化自救 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6923019-%e8%8a%af%e7%89%87%e6%96%b7%e4%be%9b%e4%b8%ad%e5%9c%8b-%e7%be%8e%e5%9c%8b%e9%ab%98%e9%80%9a%e6%80%95%e6%af%8f%e5%b9%b4%e5%a4%b180%e5%84%84%e7%be%8e%e5%85%83%e7%94%9f%e6%84%8f-%e8%8f%af%e7%82%ba)  
 
