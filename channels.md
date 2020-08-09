@@ -6,6 +6,17 @@
 
 - [CCTV挑战不可能官方频道](https://www.youtube.com/channel/UC3HLhJGcc_0Vse2UncGnxcQ)  
 
+- [MrOldMajor](https://www.youtube.com/channel/UCA3l6zrqo85jdxOlj9xVveg)  
+
+- [Ms Hej](https://www.youtube.com/channel/UCvH_kUmAVDP3gyOcfybyqug)  
+
+- [I Am a Soldier [我是一个兵] - Chinese military march --  MrOldMajor](https://www.youtube.com/watch?v=nZmwW3ddkAY)  
+
+- [假如战争在明天 中国人不喜欢战争 但绝不惧怕战争 -- Ms Hej](https://www.youtube.com/watch?v=fDPKNLI6f34)  
+
+- ["I am a soldier" PLA Band Army memorial concert 90th Anniversary --  Orekhov Efim
+](https://www.youtube.com/watch?v=vRNw3PfKO_A)  
+
 - [中国东方卫视官方频道China DragonTV Official](https://www.youtube.com/channel/UCJ06BguWKS5GJsEue7u79PQ)  
 
 - [厉害了我的国](https://www.youtube.com/channel/UC0zGScLEqQ_ggw23iIBIZoA)  
