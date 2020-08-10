@@ -167,4 +167,12 @@
 
 - [ 视频 -- 第68期：5G为何会成为“新基建”的排头兵？ 听张维为教授和项立刚老师谈谈中国“新基建” ​​​​-《这就是中国》CHINA NOW EP68 20200803 -- 东方卫视官方频道](https://www.youtube.com/watch?v=vNIuu_iuKYc)  
 
+- [惊曝！一家美国公司从全球数亿用户的500多个应用程序中窃取数据 -- FreeBuf](https://www.freebuf.com/news/246107.html)  
+
+- [ Video -- U.S. Government Contractor Embedded Software in Apps to Track Phones -- The Wall Street Journal](https://www.wsj.com/articles/u-s-government-contractor-embedded-software-in-apps-to-track-phones-11596808801)  
+
+- [Report: Hundreds of apps have hidden tracking software used by the government -- Android Authority](https://www.androidauthority.com/government-tracking-apps-1145989/)  
+
+- [A U.S. government contractor embedded tracking software in the apps of millions of smartphone users -- iMore](https://www.imore.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
