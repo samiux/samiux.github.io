@@ -183,4 +183,6 @@
 
 - [謙遜要看對象 對付美國還是普京那套更管用 -- 大公文匯](https://www.tkww.hk/a/202008/10/AP5f312369e4b01ed76740d023.html)  
 
+- [美霸凌自毀長城 恐引爆美元危機 -- 大公文匯](https://www.tkww.hk/a/202008/10/AP5f3134e0e4b01ed76740d400.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
