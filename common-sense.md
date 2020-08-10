@@ -175,4 +175,6 @@
 
 - [A U.S. government contractor embedded tracking software in the apps of millions of smartphone users -- iMore](https://www.imore.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)  
 
+- [定點清除高價值目標 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6929969-%e5%ae%9a%e9%bb%9e%e6%b8%85%e9%99%a4%e9%ab%98%e5%83%b9%e5%80%bc%e7%9b%ae%e6%a8%99)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
