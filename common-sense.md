@@ -181,4 +181,6 @@
 
 - [從進出口數字看中美角力形勢 -- 施永青](https://hkgpao.com/articles/1014684)  
 
+- [謙遜要看對象 對付美國還是普京那套更管用 -- 大公文匯](https://www.tkww.hk/a/202008/10/AP5f312369e4b01ed76740d023.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
