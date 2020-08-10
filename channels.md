@@ -63,4 +63,6 @@
 
 - [蓬佩奥：我们撒谎、欺骗、偷窃 --  Ms Hej](https://www.youtube.com/watch?v=DKGU6ENYFA4)  
 
+- [武汉日记 -- Weibo Official Channel](https://samiux.blogspot.com/2020/08/weibo-official-channel.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
