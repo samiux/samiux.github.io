@@ -165,4 +165,6 @@
 
 - [ 视频 -- 《中国武警》 20190609 雪豹突击（下集）-- CCTV军事](https://www.youtube.com/watch?v=O3SjvOsWVFo)  
 
+- [ 视频 -- 第68期：5G为何会成为“新基建”的排头兵？ 听张维为教授和项立刚老师谈谈中国“新基建” ​​​​-《这就是中国》CHINA NOW EP68 20200803 -- 东方卫视官方频道](https://www.youtube.com/watch?v=vNIuu_iuKYc)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
