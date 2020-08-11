@@ -205,4 +205,6 @@
 
 - [ 视频 -- 乌克兰玛莎：留学中国9个月，除了会中文外，我到底能学到什么？ -- 玛莎CN](https://www.youtube.com/watch?v=TFInVGEKRgA)  
 
+- [ 视频 -- 第69期：面对严峻复杂的国际疫情和世界经济形势，如何以中国标准来看待自己和世界？ 听张维为和寒竹分享变局中的中国策​​​​​​​​​​​​ -《这就是中国》CHINA NOW EP69 -- 东方卫视官方频道](https://www.youtube.com/watch?v=MZ0prtjD8oA)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
