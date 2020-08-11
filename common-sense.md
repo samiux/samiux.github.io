@@ -185,4 +185,12 @@
 
 - [美霸凌自毀長城 恐引爆美元危機 -- 大公文匯](https://www.tkww.hk/a/202008/10/AP5f3134e0e4b01ed76740d400.html)  
 
+- [中方宣佈制裁的11名美方人士是誰？ 很多是「黃之鋒的朋友們」和他們打交道小心犯法 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6933272-%e4%b8%ad%e6%96%b9%e5%ae%a3%e4%bd%88%e5%88%b6%e8%a3%81%e7%9a%8411%e5%90%8d%e7%be%8e%e6%96%b9%e4%ba%ba%e5%a3%ab%e6%98%af%e8%aa%b0%ef%bc%9f-%e5%be%88%e5%a4%9a%e6%98%af%e3%80%8c%e9%bb%83%e4%b9%8b)  
+
+- [憑科技贏國運，不信，就玩多一舗！ -- 深藍](https://www.bastillepost.com/hongkong/article/6934691-%e6%86%91%e7%a7%91%e6%8a%80%e8%b4%8f%e5%9c%8b%e9%81%8b%ef%bc%8c%e4%b8%8d%e4%bf%a1%ef%bc%8c%e5%b0%b1%e7%8e%a9%e5%a4%9a%e4%b8%80%e8%88%97%ef%bc%81)  
+
+- [中國會向美國「示弱」直到11月美大選結束？ 中方：不希望衝突對抗，但也必將堅定捍衛主權 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6933976-%e4%b8%ad%e5%9c%8b%e6%9c%83%e5%90%91%e7%be%8e%e5%9c%8b%e3%80%8c%e7%a4%ba%e5%bc%b1%e3%80%8d%e7%9b%b4%e5%88%b011%e6%9c%88%e7%be%8e%e5%a4%a7%e9%81%b8%e7%b5%90%e6%9d%9f%ef%bc%9f-%e4%b8%ad%e6%96%b9)  
+
+- [打臉美國! 正當話Tiktok不安全之際 美軍背景公司被爆在500多款apps中植入跟蹤軟體 -- deepthroat](https://www.bastillepost.com/hongkong/article/6933814-%e6%89%93%e8%87%89%e7%be%8e%e5%9c%8b-%e6%ad%a3%e7%95%b6%e8%a9%b1tiktok%e4%b8%8d%e5%ae%89%e5%85%a8%e4%b9%8b%e9%9a%9b-%e7%be%8e%e8%bb%8d%e8%83%8c%e6%99%af%e5%85%ac%e5%8f%b8%e8%a2%ab%e7%88%86%e5%9c%a850)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
