@@ -193,4 +193,16 @@
 
 - [打臉美國! 正當話Tiktok不安全之際 美軍背景公司被爆在500多款apps中植入跟蹤軟體 -- deepthroat](https://www.bastillepost.com/hongkong/article/6933814-%e6%89%93%e8%87%89%e7%be%8e%e5%9c%8b-%e6%ad%a3%e7%95%b6%e8%a9%b1tiktok%e4%b8%8d%e5%ae%89%e5%85%a8%e4%b9%8b%e9%9a%9b-%e7%be%8e%e8%bb%8d%e8%83%8c%e6%99%af%e5%85%ac%e5%8f%b8%e8%a2%ab%e7%88%86%e5%9c%a850)  
 
+- [ 音频 -- 2020-08-10 時事觀察 第1節 -- 余非：談中國外交之進退、新冷戰挑得起嗎？──分析王毅最新講話](https://www.youtube.com/watch?v=ByWFvYCfPPU&feature=emb_logo)  
+
+- [ 王毅就当前中美关系接受新华社专访 -- 新华社](http://www.gov.cn/guowuyuan/2020-08/06/content_5532729.htm)  
+
+- [ 音频 -- 2020-08-10 時事觀察 第2節 -- 余非：用令自己健康提升的方式去關心時事，以Tik Tok為例](https://www.youtube.com/watch?v=2_nrx1Q6Few&feature=emb_logo)  
+
+- [ 视频 -- 【沈逸大佬谈TIK TOK被收购】完整版，君子以直报怨 -- 沈逸](https://www.bilibili.com/video/BV1MK411n7Cb?from=seopage)  
+
+- [ 视频 -- 赢了！华为再传惊天喜讯！中国“芯”成功登顶第一！美、日被吓傻：绝不可能！万万没想到中国这么牛！-- 龙之声](https://www.youtube.com/watch?v=dIFff4YT7R8)  
+
+- [ 视频 -- 乌克兰玛莎：留学中国9个月，除了会中文外，我到底能学到什么？ -- 玛莎CN](https://www.youtube.com/watch?v=TFInVGEKRgA)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
