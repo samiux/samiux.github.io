@@ -207,4 +207,8 @@
 
 - [ 视频 -- 第69期：面对严峻复杂的国际疫情和世界经济形势，如何以中国标准来看待自己和世界？ 听张维为和寒竹分享变局中的中国策​​​​​​​​​​​​ -《这就是中国》CHINA NOW EP69 -- 东方卫视官方频道](https://www.youtube.com/watch?v=MZ0prtjD8oA)  
 
+- [俄媒：普京宣布首個新冠疫苗註冊 -- 大公文匯](https://www.tkww.hk/a/202008/11/AP5f326a8de4b01ed76741059e.html)  
+
+- [世衞：6種疫苗進入三期試驗3種來自中國 -- 大公文匯](https://www.tkww.hk/a/202008/10/AP5f314cf1e4b01ed76740d874.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
