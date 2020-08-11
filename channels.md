@@ -39,6 +39,8 @@
 
 - [Where's Poppy](https://www.youtube.com/channel/UCAy4rN2oe57nR-NJzkm3qvw)  
 
+- [柏格醫生中文](https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw)  
+
 - [This is China](https://samiux.blogspot.com/2016/09/video-this-is-china.html)  
 
 - [國家是甚麼？](https://samiux.blogspot.com/2018/06/blog-post_14.html)  
