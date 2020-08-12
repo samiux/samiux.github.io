@@ -211,4 +211,16 @@
 
 - [世衞：6種疫苗進入三期試驗3種來自中國 -- 大公文匯](https://www.tkww.hk/a/202008/10/AP5f314cf1e4b01ed76740d874.html)  
 
+- [大起底 ! 美國前特赦組織老外 竟然假扮成香港華人草根自由作家 -- deepthroat](https://www.bastillepost.com/hongkong/article/6940441-%e5%a4%a7%e8%b5%b7%e5%ba%95-%e7%be%8e%e5%9c%8b%e5%89%8d%e7%89%b9%e8%b5%a6%e7%b5%84%e7%b9%94%e8%80%81%e5%a4%96-%e7%ab%9f%e7%84%b6%e5%81%87%e6%89%ae%e6%88%90%e9%a6%99%e6%b8%af%e8%8f%af%e4%ba%ba)  
+
+- [「深圳李嘉誠」搞廉航打入本地航空業！國泰「壟斷」將被打破? -- Ariel](https://www.bastillepost.com/hongkong/article/6938629-%e3%80%8c%e6%b7%b1%e5%9c%b3%e6%9d%8e%e5%98%89%e8%aa%a0%e3%80%8d%e6%90%9e%e5%bb%89%e8%88%aa%e6%89%93%e5%85%a5%e6%9c%ac%e5%9c%b0%e8%88%aa%e7%a9%ba%e6%a5%ad%ef%bc%81%e5%9c%8b%e6%b3%b0%e3%80%8c%e5%a3%9f)  
+
+- [中國品牌推首款千元 5G 手機 Coolpad X10 採用國產處理器 -- ezone](https://ezone.ulifestyle.com.hk/article/2721538/%E4%B8%AD%E5%9C%8B%E5%93%81%E7%89%8C%E6%8E%A8%E9%A6%96%E6%AC%BE%E5%8D%83%E5%85%83%205G%20%E6%89%8B%E6%A9%9F%20Coolpad%20X10%20%20%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2%E8%99%95%E7%90%86%E5%99%A8)  
+
+- [【新冠肺炎】電飯煲可以消毒 N95 口罩？ 乾蒸 50 分鐘可殺滅冠狀病毒 -- ezone](https://ezone.ulifestyle.com.hk/article/2720965/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E9%9B%BB%E9%A3%AF%E7%85%B2%E5%8F%AF%E4%BB%A5%E6%B6%88%E6%AF%92%20N95%20%E5%8F%A3%E7%BD%A9%EF%BC%9F%20%E4%B9%BE%E8%92%B8%2050%20%E5%88%86%E9%90%98%E5%8F%AF%E6%AE%BA%E6%BB%85%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92)  
+
+- [Huawei 成立製造屏幕驅動晶片部門 正式進軍屏幕界 - ezone](https://ezone.ulifestyle.com.hk/article/2721930/Huawei%20%E6%88%90%E7%AB%8B%E8%A3%BD%E9%80%A0%E5%B1%8F%E5%B9%95%E9%A9%85%E5%8B%95%E6%99%B6%E7%89%87%E9%83%A8%E9%96%80%20%20%E6%AD%A3%E5%BC%8F%E9%80%B2%E8%BB%8D%E5%B1%8F%E5%B9%95%E7%95%8C)  
+
+- [習近平簽署主席令 授予鍾南山等4人國家勛章、國家榮譽稱號 -- 大公文匯](https://www.tkww.hk/a/202008/11/AP5f32711ee4b01ed7674106da.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
