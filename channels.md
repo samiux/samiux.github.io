@@ -2,6 +2,10 @@
 
 # 专题视听频道  
 
+- [广东音乐之声](https://www.qingting.fm/radios/1260/)  
+
+- [CCTV-7 国防军事](https://tv.cctv.com/live/cctv7/)  
+
 - [军迷天下](https://www.youtube.com/user/militarycntv)  
 
 - [CCTV挑战不可能官方频道](https://www.youtube.com/channel/UC3HLhJGcc_0Vse2UncGnxcQ)  
