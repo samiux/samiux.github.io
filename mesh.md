@@ -2,7 +2,7 @@
 
 # 零死角无线网络
 
-早于二零二零年三月中旬，我对中国产的 [TP-Link Deco X20 Home Mesh](https://www.tp-link.com/hk/home-networking/deco/deco-x20/?utm_medium=select-local) (三件装) 进行无线网络 (Wifi) 方面的信息安全测试。其规格为 Wifi6 和设有最新的 WPA3 加密制式，属于 IEEE 802.11 ax 规格。其[测试结果](https://samiux.github.io/pmkid.html) 令人非常满意，这个无线路由器其价格大概在二千多港元左右，比起国外很多同类型产品更显得价廉物美。
+早于二零二零年三月中旬，我对中国产的 [TP-Link Deco X20 Home Mesh](https://www.tp-link.com/hk/home-networking/deco/deco-x20/?utm_medium=select-local) (三件装) 进行无线网络 (Wifi) 方面的信息安全测试。其规格为 Wifi6 和设有最新的 WPA3 加密制式，属于 IEEE 802.11 ax 规格。其[测试结果](https://samiux.github.io/pmkid.html)令人非常满意，这个无线路由器其价格大概在二千多港元左右，比起国外很多同类型产品更显得价廉物美。
 
 它具有路由器模式 (Router mode) 和无线接入点模式 (Access Point mode) 两种。只有设定为路由器模式才具有家长监护、防毒和流量管理 (QoS) 以确保更安全的线上体验。其防毒更具有入侵防御系统、隔离受感染设备和封锁恶意网站等功能，此等功能是在启动后三年内完全免费，而且更有每月报告以供参考。再加上其能够接驳高达一百五十个设备，足够一般家居使用。
 
