@@ -12,6 +12,8 @@
 
 - [憲法及《基本法》全文](/basic_law.md)  
 
+- [电子版香港法例](https://www.elegislation.gov.hk/)  
+
 - [ 视频 -- 国安法懒人包](https://samiux.blogspot.com/2020/07/blog-post.html)  
 
 - [ 视频 --【冼師傅講場】｜冼國林｜EP77｜反駁對港區國安法之惡意抹黑](https://www.youtube.com/watch?v=o1pHv0PIVQc)  
