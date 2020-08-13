@@ -223,4 +223,12 @@
 
 - [習近平簽署主席令 授予鍾南山等4人國家勛章、國家榮譽稱號 -- 大公文匯](https://www.tkww.hk/a/202008/11/AP5f32711ee4b01ed7674106da.html)  
 
+- [華盛頓郵報：對抗中國 對美而言將是一場災難 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f356129e4b01ed76741953a.html)  
+
+- [特朗普危言聳聽：我若敗選中國將擁有美國 -- 大公文匯](https://www.tkww.hk/a/202008/12/AP5f33ba01e4b01ed76741443b.html)  
+
+- [鍾南山團隊研發咽拭子機械人 採樣不遜人工 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f3536a6e4b01ed767418ec7.html)  
+
+- [學者：對等報復選擇有限 中國應慎防落入「特朗普陷阱」 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f34d55de4b01ed767417b94.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
