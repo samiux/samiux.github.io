@@ -239,5 +239,6 @@
 
 - [ 视频 -- 踢爆「我要攬炒」團隊：「攬炒巴」真身曝光！國安四罪瓣瓣齊 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f351a09e4b01ed76741894d.html)  
 
+- [ 视频 -- 2020-08-12 時事觀察 第2節 -- 霍詠強：這個世界不需要一個什麼國家來主導！ -- 霍詠強](https://www.youtube.com/watch?v=sQQNUMpEiFI&feature=emb_logo)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
