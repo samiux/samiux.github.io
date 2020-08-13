@@ -231,6 +231,13 @@
 
 - [學者：對等報復選擇有限 中國應慎防落入「特朗普陷阱」 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f34d55de4b01ed767417b94.html)  
 
+- [ 视频 -- 【疫情周報】全民免費檢測 斬斷疫情隱性傳播鏈 -- 大公文匯](https://www.tkww.hk/a/202008/07/AP5f2d4754e4b01ed767405c10.html)  
+
 - [ 视频 -- 動畫｜全民檢測在即 取樣方法你要知 -- 大公文匯](https://www.tkww.hk/a/202008/11/AP5f327596e4b01ed7674108d3.html)  
+
+- [ 视频 -- 街訪 | 港全民核酸檢測 市民點睇？ -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f3546d3e4b01ed7674191d8.html)  
+
+- [ 视频 -- 踢爆「我要攬炒」團隊：「攬炒巴」真身曝光！國安四罪瓣瓣齊 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f351a09e4b01ed76741894d.html)  
+
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
