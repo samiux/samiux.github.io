@@ -231,4 +231,6 @@
 
 - [學者：對等報復選擇有限 中國應慎防落入「特朗普陷阱」 -- 大公文匯](https://www.tkww.hk/a/202008/13/AP5f34d55de4b01ed767417b94.html)  
 
+- [ 视频 -- 動畫｜全民檢測在即 取樣方法你要知 -- 大公文匯](https://www.tkww.hk/a/202008/11/AP5f327596e4b01ed7674108d3.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
