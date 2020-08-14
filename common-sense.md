@@ -241,4 +241,6 @@
 
 - [ 视频 -- 2020-08-12 時事觀察 第2節 -- 霍詠強：這個世界不需要一個什麼國家來主導！ -- 霍詠強](https://www.youtube.com/watch?v=sQQNUMpEiFI&feature=emb_logo)  
 
+- [美國的虛擬國運 香港的飄移優勢 -- 深藍](https://www.bastillepost.com/hongkong/article/6953438-%e7%be%8e%e5%9c%8b%e7%9a%84%e8%99%9b%e6%93%ac%e5%9c%8b%e9%81%8b-%e9%a6%99%e6%b8%af%e7%9a%84%e9%a3%84%e7%a7%bb%e5%84%aa%e5%8b%a2)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
