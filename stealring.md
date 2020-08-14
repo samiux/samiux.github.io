@@ -21,15 +21,12 @@ OSCE  OSCP  OSWP
 ## 参考：
 
 - [黑客大舉入侵130個Twitter帳號失守 美議員憂影響11月大選 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6794000-130%e5%80%8btwitter%e5%b8%b3%e8%99%9f%e9%81%ad%e9%bb%91%e5%ae%a2%e8%a5%b2%e6%93%8a-%e7%be%8e%e5%9c%8b%e8%ad%b0%e5%93%a1%e6%86%82%e5%bd%b1%e9%9f%bf11%e6%9c%88%e5%a4%a7%e9%81%b8)  
-
 - [Twitter名人帳號遭入侵事件 《紐時》成功訪問參與行動的年輕黑客 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6798918-twitter%e5%a4%9a%e5%80%8b%e5%90%8d%e4%ba%ba%e5%b8%b3%e8%99%9f%e9%81%ad%e5%85%a5%e4%be%b5-%e3%80%8a%e7%b4%90%e6%99%82%e3%80%8b%e6%8c%87%e6%98%af%e5%b9%b4%e8%bc%95%e9%bb%91%e5%ae%a2%e7%84%a1%e9%97%9c)  
-
 - [黑客攻擊Twitter案 美國起訴3人包括17歲青年 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6877523-%E9%BB%91%E5%AE%A2%E8%A5%B2%E6%93%8Atwitter%E6%A1%88-%E7%BE%8E%E5%9C%8B%E8%B5%B7%E8%A8%B43%E4%BA%BA%E5%8C%85%E6%8B%AC17%E6%AD%B2%E4%BD%9B%E5%B7%9E%E9%9D%92%E5%B9%B4)  
-
 - [加州检察部门起诉三人 涉上月入侵政客及名人 Twitter 帐户 -- 无线新闻](http://news.tvb.com/world/5f254069335d19587c98cc96/%E5%8A%A0%E5%B7%9E%E6%AA%A2%E5%AF%9F%E9%83%A8%E9%96%80%E8%B5%B7%E8%A8%B4%E4%B8%89%E4%BA%BA-%E6%B6%89%E4%B8%8A%E6%9C%88%E5%85%A5%E4%BE%B5%E6%94%BF%E5%AE%A2%E5%8F%8A%E5%90%8D%E4%BA%BATwitter%E5%B8%B3%E6%88%B6)  
-
 - [17-Year-Old 'Mastermind', 2 Others Behind the Biggest Twitter Hack Arrested -- The Hacker News](https://thehackernews.com/2020/07/twitter-hacker-arrested.html)  
 
 - [曾多次在網上討論區上載警方內部文件　26歲警總文職人員被捕 -- on.cc東網](https://hk.on.cc/hk/bkn/cnt/news/20200814/bkn-20200814224053227-0814_00822_001.html)  (嫌疑人是任职系统分析/程序编制主任，估计他可能会使用虚拟私人网络 (VPN) 等设备来犯案。)  
+- [涉多次上載警內部通告到連登討論區　警務處IT文職男被捕 -- 明報新聞網](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20200814/s00001/1597416940155/%E6%B6%89%E5%A4%9A%E6%AC%A1%E4%B8%8A%E8%BC%89%E8%AD%A6%E5%85%A7%E9%83%A8%E9%80%9A%E5%91%8A%E5%88%B0%E9%80%A3%E7%99%BB%E8%A8%8E%E8%AB%96%E5%8D%80-%E8%AD%A6%E5%8B%99%E8%99%95it%E6%96%87%E8%81%B7%E7%94%B7%E8%A2%AB%E6%8D%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
