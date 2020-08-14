@@ -33,7 +33,6 @@ OSCE  OSCP  OSWP
 
 - [17-Year-Old 'Mastermind', 2 Others Behind the Biggest Twitter Hack Arrested -- The Hacker News](https://thehackernews.com/2020/07/twitter-hacker-arrested.html)  
 
-嫌疑人是任职系统分析/程序编制主任，估计他会使用虚拟私人网络 (VPN) 等设备犯案。
-- [曾多次在網上討論區上載警方內部文件　26歲警總文職人員被捕 -- on.cc東網](https://hk.on.cc/hk/bkn/cnt/news/20200814/bkn-20200814224053227-0814_00822_001.html)  
+- [曾多次在網上討論區上載警方內部文件　26歲警總文職人員被捕 -- on.cc東網](https://hk.on.cc/hk/bkn/cnt/news/20200814/bkn-20200814224053227-0814_00822_001.html)  嫌疑人是任职系统分析/程序编制主任，估计他会使用虚拟私人网络 (VPN) 等设备犯案。  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
