@@ -250,4 +250,6 @@
 - [《紐時》被逐離華記者自白：中國不是納粹德國，儘管有些人聲稱它是 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6957549-%e3%80%8a%e7%b4%90%e6%99%82%e3%80%8b%e8%a2%ab%e9%80%90%e9%9b%a2%e8%8f%af%e8%a8%98%e8%80%85%e8%87%aa%e7%99%bd%ef%bc%9a%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%98%af%e7%b4%8d%e7%b2%b9%e5%be%b7%e5%9c%8b%ef%bc%8c
 )  
 
+- [特朗普的IQ，特朗普父親的EQ，確實優越過人 -- 黃秉華](https://www.bastillepost.com/hongkong/article/6957894-%e7%89%b9%e6%9c%97%e6%99%ae%e7%9a%84iq%ef%bc%8c%e7%89%b9%e6%9c%97%e6%99%ae%e7%88%b6%e8%a6%aa%e7%9a%84eq%ef%bc%8c%e7%a2%ba%e5%af%a6%e5%84%aa%e8%b6%8a%e9%81%8e%e4%ba%ba)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
