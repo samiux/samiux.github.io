@@ -245,4 +245,9 @@
 
 - [美軍機偽裝成「客機」對華抵近偵察 專家：極危險 會把客機裹挾進軍事對抗 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6950949-%e7%be%8e%e8%bb%8d%e6%a9%9f%e5%81%bd%e8%a3%9d%e6%88%90%e3%80%8c%e5%ae%a2%e6%a9%9f%e3%80%8d%e5%b0%8d%e8%8f%af%e6%8a%b5%e8%bf%91%e5%81%b5%e5%af%9f-%e5%b0%88%e5%ae%b6%ef%bc%9a%e6%a5%b5%e5%8d%b1%e9%9a%aa)  
 
+- [一年籌5300萬 金主浮出水面 -- 大公文匯](https://mp.weixin.qq.com/s/q8giDNpsqK-Z0WF7OWk81g)  
+
+- [《紐時》被逐離華記者自白：中國不是納粹德國，儘管有些人聲稱它是 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6957549-%e3%80%8a%e7%b4%90%e6%99%82%e3%80%8b%e8%a2%ab%e9%80%90%e9%9b%a2%e8%8f%af%e8%a8%98%e8%80%85%e8%87%aa%e7%99%bd%ef%bc%9a%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%98%af%e7%b4%8d%e7%b2%b9%e5%be%b7%e5%9c%8b%ef%bc%8c
+)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
