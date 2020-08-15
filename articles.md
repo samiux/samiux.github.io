@@ -20,6 +20,8 @@
   
 - [盧永雄對民主派初選的看法](/hknsl-1.md)  
   
+- [一年籌5300萬 金主浮出水面 -- 大公文匯](https://mp.weixin.qq.com/s/q8giDNpsqK-Z0WF7OWk81g)  
+
 - [专题视听频道](/channels.md)  
   
 - [一般常識文章結集](/common-sense.md)  
