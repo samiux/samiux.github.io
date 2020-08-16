@@ -252,4 +252,6 @@
 
 - [特朗普的IQ，特朗普父親的EQ，確實優越過人 -- 黃秉華](https://www.bastillepost.com/hongkong/article/6957894-%e7%89%b9%e6%9c%97%e6%99%ae%e7%9a%84iq%ef%bc%8c%e7%89%b9%e6%9c%97%e6%99%ae%e7%88%b6%e8%a6%aa%e7%9a%84eq%ef%bc%8c%e7%a2%ba%e5%af%a6%e5%84%aa%e8%b6%8a%e9%81%8e%e4%ba%ba)  
 
+- [美國前上將推演出大陸最具體攻台計劃 明年1月進攻 3日攻克台灣 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6960942-%e7%be%8e%e5%9c%8b%e5%89%8d%e4%b8%8a%e5%b0%87%e6%8e%a8%e6%bc%94%e5%87%ba%e5%a4%a7%e9%99%b8%e6%9c%80%e5%85%b7%e9%ab%94%e6%94%bb%e5%8f%b0%e8%a8%88%e5%8a%83-%e6%98%8e%e5%b9%b41%e6%9c%88%e9%80%b2%e6%94%bb)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
