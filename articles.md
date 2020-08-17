@@ -19,7 +19,9 @@
 - [ 视频 --【冼師傅講場】｜冼國林｜EP77｜反駁對港區國安法之惡意抹黑](https://www.youtube.com/watch?v=o1pHv0PIVQc)  
   
 - [盧永雄對民主派初選的看法](/hknsl-1.md)  
-  
+
+- [出手就是六億 境外注資辦報的神秘人身份兜不住了 -- 大公文匯](https://mp.weixin.qq.com/s/zoi7DLwWMR9dKX1LHU_JOA)  
+
 - [一年籌5300萬 金主浮出水面 -- 大公文匯](https://mp.weixin.qq.com/s/q8giDNpsqK-Z0WF7OWk81g)  
 
 - [肥佬黎花30萬就回家了？專家：有機會內地送審  -- 大公文匯](https://mp.weixin.qq.com/s/c7Yo2TKZVgliArTUKf2zMw)  
