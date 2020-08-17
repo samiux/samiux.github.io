@@ -22,6 +22,8 @@
 
 - [出手就是六億 境外注資辦報的神秘人身份兜不住了 -- 大公文匯](https://mp.weixin.qq.com/s/zoi7DLwWMR9dKX1LHU_JOA)  
 
+- [ 视频 -- 披露過他曾被人以千萬元利誘辦「反中」報章的親身經歷 -- 王亨之](https://www.youtube.com/watch?v=JscAIzo3mTA)  
+
 - [一年籌5300萬 金主浮出水面 -- 大公文匯](https://mp.weixin.qq.com/s/q8giDNpsqK-Z0WF7OWk81g)  
 
 - [肥佬黎花30萬就回家了？專家：有機會內地送審  -- 大公文匯](https://mp.weixin.qq.com/s/c7Yo2TKZVgliArTUKf2zMw)  
