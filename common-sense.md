@@ -254,6 +254,10 @@
 
 - [美國前上將推演出大陸最具體攻台計劃 明年1月進攻 3日攻克台灣 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6960942-%e7%be%8e%e5%9c%8b%e5%89%8d%e4%b8%8a%e5%b0%87%e6%8e%a8%e6%bc%94%e5%87%ba%e5%a4%a7%e9%99%b8%e6%9c%80%e5%85%b7%e9%ab%94%e6%94%bb%e5%8f%b0%e8%a8%88%e5%8a%83-%e6%98%8e%e5%b9%b41%e6%9c%88%e9%80%b2%e6%94%bb)  
 
+- [出手就是六億 境外注資辦報的神秘人身份兜不住了 -- 大公文匯](https://mp.weixin.qq.com/s/zoi7DLwWMR9dKX1LHU_JOA)  
+
+- [ 视频 -- 披露過他曾被人以千萬元利誘辦「反中」報章的親身經歷 -- 王亨之](https://www.youtube.com/watch?v=JscAIzo3mTA)  
+
 - [人民幣數字貨幣試點全面推進 快速國際化 脫離美國結算系統 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6965239-%e4%ba%ba%e6%b0%91%e5%b9%a3%e6%95%b8%e5%ad%97%e8%b2%a8%e5%b9%a3%e8%a9%a6%e9%bb%9e%e5%85%a8%e9%9d%a2%e6%8e%a8%e9%80%b2-%e5%bf%ab%e9%80%9f%e5%9c%8b%e9%9a%9b%e5%8c%96-%e8%84%ab%e9%9b%a2%e7%be%8e%e5%9c%8b)  
 
 - [中國「絕代雙嬌」 阿里、騰訊殺到埋身 -- 深藍](https://www.bastillepost.com/hongkong/article/6967269-%e4%b8%ad%e5%9c%8b%e3%80%8c%e7%b5%95%e4%bb%a3%e9%9b%99%e5%ac%8c%e3%80%8d-%e9%98%bf%e9%87%8c%e3%80%81%e9%a8%b0%e8%a8%8a%e6%ae%ba%e5%88%b0%e5%9f%8b%e8%ba%ab)  
