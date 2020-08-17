@@ -48,6 +48,7 @@
 - [智能手机资安](/smartphone.md)
 - [灭声](/banned.md)  
 - [零死角无线网络](/mesh.md)  
+- [给所有中国人！](/life.md)  
 
 ### Tutorials
 
