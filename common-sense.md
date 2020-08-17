@@ -254,4 +254,6 @@
 
 - [美國前上將推演出大陸最具體攻台計劃 明年1月進攻 3日攻克台灣 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6960942-%e7%be%8e%e5%9c%8b%e5%89%8d%e4%b8%8a%e5%b0%87%e6%8e%a8%e6%bc%94%e5%87%ba%e5%a4%a7%e9%99%b8%e6%9c%80%e5%85%b7%e9%ab%94%e6%94%bb%e5%8f%b0%e8%a8%88%e5%8a%83-%e6%98%8e%e5%b9%b41%e6%9c%88%e9%80%b2%e6%94%bb)  
 
+- [人民幣數字貨幣試點全面推進 快速國際化 脫離美國結算系統 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6965239-%e4%ba%ba%e6%b0%91%e5%b9%a3%e6%95%b8%e5%ad%97%e8%b2%a8%e5%b9%a3%e8%a9%a6%e9%bb%9e%e5%85%a8%e9%9d%a2%e6%8e%a8%e9%80%b2-%e5%bf%ab%e9%80%9f%e5%9c%8b%e9%9a%9b%e5%8c%96-%e8%84%ab%e9%9b%a2%e7%be%8e%e5%9c%8b)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
