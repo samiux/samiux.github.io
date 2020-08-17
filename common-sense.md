@@ -264,4 +264,6 @@
 
 - [如果中國5分鐘後將遭遇核打擊…. 中國導彈演習 發射車快速移動馬上還擊 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6967803-%e5%a6%82%e6%9e%9c%e4%b8%ad%e5%9c%8b5%e5%88%86%e9%90%98%e5%be%8c%e5%b0%87%e9%81%ad%e9%81%87%e6%a0%b8%e6%89%93%e6%93%8a-%e4%b8%ad%e5%9c%8b%e5%b0%8e%e5%bd%88%e6%bc%94%e7%bf%92-%e7%99%bc)  
 
+- [ 视频 -- 8大强军利器重磅登场！海陆空三军战力全面公开！「国防科工」 20200807 -- 军迷天下](https://www.youtube.com/watch?v=Lu6NcfQevwY)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
