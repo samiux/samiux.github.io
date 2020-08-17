@@ -266,4 +266,8 @@
 
 - [ 视频 -- 8大强军利器重磅登场！海陆空三军战力全面公开！「国防科工」 20200807 -- 军迷天下](https://www.youtube.com/watch?v=Lu6NcfQevwY)  
 
+- [中美避不開「修昔底德陷阱」嗎？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/6969254-%e4%b8%ad%e7%be%8e%e9%81%bf%e4%b8%8d%e9%96%8b%e3%80%8c%e4%bf%ae%e6%98%94%e5%ba%95%e5%be%b7%e9%99%b7%e9%98%b1%e3%80%8d%e5%97%8e%ef%bc%9f)  
+
+- [中國駐休斯敦總領事館獲集體三等功 -- 大公文匯](https://www.tkww.hk/a/202008/17/AP5f3a81cbe4b01ed76742678a.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
