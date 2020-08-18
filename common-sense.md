@@ -267,6 +267,8 @@
 
 - [中美避不開「修昔底德陷阱」嗎？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/6969254-%e4%b8%ad%e7%be%8e%e9%81%bf%e4%b8%8d%e9%96%8b%e3%80%8c%e4%bf%ae%e6%98%94%e5%ba%95%e5%be%b7%e9%99%b7%e9%98%b1%e3%80%8d%e5%97%8e%ef%bc%9f)  
 
+- [中國要走出第三條路 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6974801-%e4%b8%ad%e5%9c%8b%e8%a6%81%e8%b5%b0%e5%87%ba%e7%ac%ac%e4%b8%89%e6%a2%9d%e8%b7%af)  
+
 - [中國駐休斯敦總領事館獲集體三等功 -- 大公文匯](https://www.tkww.hk/a/202008/17/AP5f3a81cbe4b01ed76742678a.html)  
 
 - [ 音频 -- 2020-08-17 時事觀察 第1節 -- 余非：華為的芯片有著落了嗎？──整理一下混亂的訊息](https://www.youtube.com/watch?time_continue=1038&v=e4IC_tDyq-c&feature=emb_logo)  
