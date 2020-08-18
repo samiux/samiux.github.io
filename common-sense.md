@@ -275,4 +275,6 @@
 
 - [ 音频 -- 2020-08-17 時事觀察 第2節 -- 余非：中國提倡「制止餐飲浪費行為」是因為出現糧食荒？](https://www.youtube.com/watch?time_continue=382&v=s8IxeG8qn64&feature=emb_logo)  
 
+- [書商自願送審 高中通識書刪公民抗命等字眼 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6970856-%E6%9B%B8%E5%95%86%E3%80%8C%E8%87%AA%E9%A1%98%E9%80%81%E5%AF%A9%E3%80%8D-%E9%AB%98%E4%B8%AD%E9%80%9A%E8%AD%98%E6%9B%B8%E5%88%AA%E5%85%AC%E6%B0%91%E6%8A%97%E5%91%BD)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
