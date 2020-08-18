@@ -277,4 +277,6 @@
 
 - [書商自願送審 高中通識書刪公民抗命等字眼 -- 巴士的報](https://www.bastillepost.com/hongkong/article/6970856-%E6%9B%B8%E5%95%86%E3%80%8C%E8%87%AA%E9%A1%98%E9%80%81%E5%AF%A9%E3%80%8D-%E9%AB%98%E4%B8%AD%E9%80%9A%E8%AD%98%E6%9B%B8%E5%88%AA%E5%85%AC%E6%B0%91%E6%8A%97%E5%91%BD)  
 
+- [ 视频 -- 【冼師傅講場】EP81 -- 大學法律教程曲解《中英聯合聲明》，必須糾正 -- 冼國林](https://www.youtube.com/watch?v=f5fcx5flei8)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
