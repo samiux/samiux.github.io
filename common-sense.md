@@ -2,7 +2,6 @@
 
 # 一般常識文章結集
 
-
 - [中國科技如何佔美國便宜？ -- 深藍](https://www.bastillepost.com/hongkong/article/6793384-%E4%B8%AD%E5%9C%8B%E7%A7%91%E6%8A%80%E5%A6%82%E4%BD%95%E4%BD%94%E7%BE%8E%E5%9C%8B%E4%BE%BF%E5%AE%9C%EF%BC%9F)  
 
 - [中美終需一戰 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6795470-%E4%B8%AD%E7%BE%8E%E7%B5%82%E9%9C%80%E4%B8%80%E6%88%B0)  
@@ -269,5 +268,9 @@
 - [中美避不開「修昔底德陷阱」嗎？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/6969254-%e4%b8%ad%e7%be%8e%e9%81%bf%e4%b8%8d%e9%96%8b%e3%80%8c%e4%bf%ae%e6%98%94%e5%ba%95%e5%be%b7%e9%99%b7%e9%98%b1%e3%80%8d%e5%97%8e%ef%bc%9f)  
 
 - [中國駐休斯敦總領事館獲集體三等功 -- 大公文匯](https://www.tkww.hk/a/202008/17/AP5f3a81cbe4b01ed76742678a.html)  
+
+- [ 音频 -- 2020-08-17 時事觀察 第1節 -- 余非：華為的芯片有著落了嗎？──整理一下混亂的訊息](https://www.youtube.com/watch?time_continue=1038&v=e4IC_tDyq-c&feature=emb_logo)  
+
+- [ 音频 -- 2020-08-17 時事觀察 第2節 --余非：中國提倡「制止餐飲浪費行為」是因為出現糧食荒？](https://www.youtube.com/watch?time_continue=382&v=s8IxeG8qn64&feature=emb_logo)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
