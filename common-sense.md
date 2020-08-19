@@ -283,4 +283,6 @@
 
 - [ 视频 -- 拒绝新冷战：美国跟中国断交我也不会感到惊讶 -- GuanchaNews观察者网](https://www.youtube.com/watch?v=HtIzfjktmms&feature=emb_logo)  
 
+- [中國缺一塊芯片，美國欠三餐溫飽，何必呢！ -- 深藍](https://www.bastillepost.com/hongkong/article/6980670-%e4%b8%ad%e5%9c%8b%e7%bc%ba%e4%b8%80%e5%a1%8a%e8%8a%af%e7%89%87%ef%bc%8c%e7%be%8e%e5%9c%8b%e6%ac%a0%e4%b8%89%e9%a4%90%e6%ba%ab%e9%a3%bd%ef%bc%8c%e4%bd%95%e5%bf%85%e5%91%a2%ef%bc%81)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
