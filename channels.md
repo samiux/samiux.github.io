@@ -23,6 +23,8 @@
 
 - [中国东方卫视官方频道China DragonTV Official](https://www.youtube.com/channel/UCJ06BguWKS5GJsEue7u79PQ)  
 
+- [GuanchaNews观察者网](https://www.youtube.com/channel/UCJncdiH3BQUBgCroBmhsUhQ)  
+
 - [厉害了我的国](https://www.youtube.com/channel/UC0zGScLEqQ_ggw23iIBIZoA)  
 
 - [Weibo Official Channel](https://www.youtube.com/channel/UCpU9eMYJE6o2CnqDmKF0g8A)  
