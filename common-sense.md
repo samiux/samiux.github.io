@@ -285,4 +285,6 @@
 
 - [中國缺一塊芯片，美國欠三餐溫飽，何必呢！ -- 深藍](https://www.bastillepost.com/hongkong/article/6980670-%e4%b8%ad%e5%9c%8b%e7%bc%ba%e4%b8%80%e5%a1%8a%e8%8a%af%e7%89%87%ef%bc%8c%e7%be%8e%e5%9c%8b%e6%ac%a0%e4%b8%89%e9%a4%90%e6%ba%ab%e9%a3%bd%ef%bc%8c%e4%bd%95%e5%bf%85%e5%91%a2%ef%bc%81)  
 
+- [一個泛民元老的故事 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6981694-%e4%b8%80%e5%80%8b%e6%b3%9b%e6%b0%91%e5%85%83%e8%80%81%e7%9a%84%e6%95%85%e4%ba%8b)  
+ 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
