@@ -281,4 +281,6 @@
 
 - [劍橋學者指中美新冷戰源於美國 中國成為世界第一不可阻擋 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6978272-%e5%8a%8d%e6%a9%8b%e5%ad%b8%e8%80%85%e6%8c%87%e4%b8%ad%e7%be%8e%e6%96%b0%e5%86%b7%e6%88%b0%e6%ba%90%e6%96%bc%e7%be%8e%e5%9c%8b-%e4%b8%ad%e5%9c%8b%e6%88%90%e7%82%ba%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80)  
 
+- [ 视频 -- 拒绝新冷战：美国跟中国断交我也不会感到惊讶 -- GuanchaNews观察者网](https://www.youtube.com/watch?v=HtIzfjktmms&feature=emb_logo)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
