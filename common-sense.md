@@ -291,4 +291,14 @@
 
 - [全世界最擔心之事發生！印度新冠病毒大規模變異 有73個變種 -- deepthroat](https://www.bastillepost.com/hongkong/article/6985960-%e5%85%a8%e4%b8%96%e7%95%8c%e6%9c%80%e6%93%94%e5%bf%83%e4%b9%8b%e4%ba%8b%e7%99%bc%e7%94%9f%ef%bc%81%e5%8d%b0%e5%ba%a6%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e5%a4%a7%e8%a6%8f%e6%a8%a1%e8%ae%8a%e7%95%b0)  
 
+- [兩條公式看通中國模式，美國是時候拋棄幻想 -- 深藍](https://www.bastillepost.com/hongkong/article/6987992-%e5%85%a9%e6%a2%9d%e5%85%ac%e5%bc%8f%e7%9c%8b%e9%80%9a%e4%b8%ad%e5%9c%8b%e6%a8%a1%e5%bc%8f%ef%bc%8c%e7%be%8e%e5%9c%8b%e6%98%af%e6%99%82%e5%80%99%e6%8b%8b%e6%a3%84%e5%b9%bb%e6%83%b3)  
+
+- [全世界最擔心之事發生！印度新冠病毒大規模變異 有73個變種 -- deepthroat](https://www.bastillepost.com/hongkong/article/6985960-%e5%85%a8%e4%b8%96%e7%95%8c%e6%9c%80%e6%93%94%e5%bf%83%e4%b9%8b%e4%ba%8b%e7%99%bc%e7%94%9f%ef%bc%81%e5%8d%b0%e5%ba%a6%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e5%a4%a7%e8%a6%8f%e6%a8%a1%e8%ae%8a%e7%95%b0)  
+
+- [中國要防美帝打金融戰? 人行黨委書記: 堅定不移打好防範化解金融風險攻堅戰 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6985608-%e4%b8%ad%e5%9c%8b%e8%a6%81%e9%98%b2%e7%be%8e%e5%b8%9d%e6%89%93%e9%87%91%e8%9e%8d%e6%88%b0-%e4%ba%ba%e8%a1%8c%e9%bb%a8%e5%a7%94%e6%9b%b8%e8%a8%98-%e5%a0%85%e5%ae%9a%e4%b8%8d%e7%a7%bb%e6%89%93)  
+
+- [向特朗普推介用夾竹桃苷治新冠的人 CNN靈魂拷問: 「你晚上睡得著嗎? 」 -- deepthroat](https://www.bastillepost.com/hongkong/article/6987134-%e5%90%91%e7%89%b9%e6%9c%97%e6%99%ae%e6%8e%a8%e4%bb%8b%e7%94%a8%e5%a4%be%e7%ab%b9%e6%a1%83%e8%8b%b7%e6%b2%bb%e6%96%b0%e5%86%a0%e7%9a%84%e4%ba%ba-cnn%e9%9d%88%e9%ad%82%e6%8b%b7%e5%95%8f-%e3%80%8c)  
+
+- [鱷魚之淚與長春之圍 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6988820-%e9%b1%b7%e9%ad%9a%e4%b9%8b%e6%b7%9a%e8%88%87%e9%95%b7%e6%98%a5%e4%b9%8b%e5%9c%8d)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
