@@ -286,5 +286,9 @@
 - [中國缺一塊芯片，美國欠三餐溫飽，何必呢！ -- 深藍](https://www.bastillepost.com/hongkong/article/6980670-%e4%b8%ad%e5%9c%8b%e7%bc%ba%e4%b8%80%e5%a1%8a%e8%8a%af%e7%89%87%ef%bc%8c%e7%be%8e%e5%9c%8b%e6%ac%a0%e4%b8%89%e9%a4%90%e6%ba%ab%e9%a3%bd%ef%bc%8c%e4%bd%95%e5%bf%85%e5%91%a2%ef%bc%81)  
 
 - [一個泛民元老的故事 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6981694-%e4%b8%80%e5%80%8b%e6%b3%9b%e6%b0%91%e5%85%83%e8%80%81%e7%9a%84%e6%95%85%e4%ba%8b)  
- 
+
+- [中國要防美帝打金融戰? 人行黨委書記: 堅定不移打好防範化解金融風險攻堅戰 -- 毛拍手](https://www.bastillepost.com/hongkong/article/6985608-%e4%b8%ad%e5%9c%8b%e8%a6%81%e9%98%b2%e7%be%8e%e5%b8%9d%e6%89%93%e9%87%91%e8%9e%8d%e6%88%b0-%e4%ba%ba%e8%a1%8c%e9%bb%a8%e5%a7%94%e6%9b%b8%e8%a8%98-%e5%a0%85%e5%ae%9a%e4%b8%8d%e7%a7%bb%e6%89%93)  
+
+- [全世界最擔心之事發生！印度新冠病毒大規模變異 有73個變種 -- deepthroat](https://www.bastillepost.com/hongkong/article/6985960-%e5%85%a8%e4%b8%96%e7%95%8c%e6%9c%80%e6%93%94%e5%bf%83%e4%b9%8b%e4%ba%8b%e7%99%bc%e7%94%9f%ef%bc%81%e5%8d%b0%e5%ba%a6%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e5%a4%a7%e8%a6%8f%e6%a8%a1%e8%ae%8a%e7%95%b0)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
