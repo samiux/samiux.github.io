@@ -17,6 +17,8 @@
 - [ 视频 -- 国安法懒人包](https://samiux.blogspot.com/2020/07/blog-post.html)  
 
 - [ 视频 --【冼師傅講場】｜冼國林｜EP77｜反駁對港區國安法之惡意抹黑](https://www.youtube.com/watch?v=o1pHv0PIVQc)  
+
+- [北京健康碼實測：掃碼通過僅用2秒 -- 大公文匯](https://www.tkww.hk/a/202008/20/AP5f3e755be4b01ed76743145d.html)  
   
 - [盧永雄對民主派初選的看法](/hknsl-1.md)  
 
