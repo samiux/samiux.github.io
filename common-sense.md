@@ -301,4 +301,6 @@
 
 - [鱷魚之淚與長春之圍 -- 盧永雄](https://www.bastillepost.com/hongkong/article/6988820-%e9%b1%b7%e9%ad%9a%e4%b9%8b%e6%b7%9a%e8%88%87%e9%95%b7%e6%98%a5%e4%b9%8b%e5%9c%8d)  
 
+- [《經濟學人》：中國強人領袖正塑造「新型國家資本主義」，不要低估它 -- deepthroat](https://www.bastillepost.com/hongkong/article/6992535-%e3%80%8a%e7%b6%93%e6%bf%9f%e5%ad%b8%e4%ba%ba%e3%80%8b%ef%bc%9a%e4%b8%ad%e5%9c%8b%e5%bc%b7%e4%ba%ba%e9%a0%98%e8%a2%96%e6%ad%a3%e5%a1%91%e9%80%a0%e3%80%8c%e6%96%b0%e5%9e%8b%e5%9c%8b%e5%ae%b6%e8%b3%87)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
