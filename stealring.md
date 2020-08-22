@@ -29,4 +29,6 @@ OSCE  OSCP  OSWP
 - [曾多次在網上討論區上載警方內部文件　26歲警總文職人員被捕 -- on.cc東網](https://hk.on.cc/hk/bkn/cnt/news/20200814/bkn-20200814224053227-0814_00822_001.html)  (嫌疑人是任职系统分析/程序编制主任，估计他可能会使用虚拟私人网络 (VPN) 等设备来犯案。)  
 - [涉多次上載警內部通告到連登討論區　警務處IT文職男被捕 -- 明報新聞網](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20200814/s00001/1597416940155/%E6%B6%89%E5%A4%9A%E6%AC%A1%E4%B8%8A%E8%BC%89%E8%AD%A6%E5%85%A7%E9%83%A8%E9%80%9A%E5%91%8A%E5%88%B0%E9%80%A3%E7%99%BB%E8%A8%8E%E8%AB%96%E5%8D%80-%E8%AD%A6%E5%8B%99%E8%99%95it%E6%96%87%E8%81%B7%E7%94%B7%E8%A2%AB%E6%8D%95)  
 
+- [入境處女公務員起底200警 非法供料「老豆搵仔」今提堂 -- 大公文匯](https://www.tkww.hk/a/202008/22/AP5f406511e4b01ed767435807.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
