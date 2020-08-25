@@ -307,4 +307,6 @@
 
 - [內地專家張文宏：如果香港「再感染」個案成立 和疫苖保護力有關 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7012376-%e5%85%a7%e5%9c%b0%e5%b0%88%e5%ae%b6%e5%bc%b5%e6%96%87%e5%ae%8f%ef%bc%9a%e5%a6%82%e6%9e%9c%e9%a6%99%e6%b8%af%e3%80%8c%e5%86%8d%e6%84%9f%e6%9f%93%e3%80%8d%e5%80%8b%e6%a1%88%e6%88%90%e7%ab%8b-%e5%92%8c)  
 
+- [ 视频 -- 糧食也有戰爭？和你生活息息相關，你絕不能錯過的影片！ -- 沖出黎講](https://www.youtube.com/watch?v=sCvi5gsMYDI)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
