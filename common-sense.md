@@ -303,4 +303,6 @@
 
 - [《經濟學人》：中國強人領袖正塑造「新型國家資本主義」，不要低估它 -- deepthroat](https://www.bastillepost.com/hongkong/article/6992535-%e3%80%8a%e7%b6%93%e6%bf%9f%e5%ad%b8%e4%ba%ba%e3%80%8b%ef%bc%9a%e4%b8%ad%e5%9c%8b%e5%bc%b7%e4%ba%ba%e9%a0%98%e8%a2%96%e6%ad%a3%e5%a1%91%e9%80%a0%e3%80%8c%e6%96%b0%e5%9e%8b%e5%9c%8b%e5%ae%b6%e8%b3%87)  
 
+- [蓬佩奧「反華」演講的26個無腦谎言 新華社一 一揭露！ -- 大公文匯](https://www.tkww.hk/a/202008/25/AP5f444215e4b01ed76743f081.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
