@@ -75,4 +75,6 @@
 
 - [糧食也有戰爭？和你生活息息相關，你絕不能錯過的影片！ -- 沖出黎講](https://www.youtube.com/watch?v=sCvi5gsMYDI)  
 
+- [【中華‧了解多一點】突破封鎖的大國重器 － 北斗衛星導航系統 -- 周天慧](https://hkgpao.com/articles/1015111)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
