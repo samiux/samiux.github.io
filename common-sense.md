@@ -313,4 +313,6 @@
 
 - [在中南海開的這場座談會，透露了哪些風向？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7017097-%e5%9c%a8%e4%b8%ad%e5%8d%97%e6%b5%b7%e9%96%8b%e7%9a%84%e9%80%99%e5%a0%b4%e5%ba%a7%e8%ab%87%e6%9c%83%ef%bc%8c%e9%80%8f%e9%9c%b2%e4%ba%86%e5%93%aa%e4%ba%9b%e9%a2%a8%e5%90%91%ef%bc%9f)  
 
+- [ 视频 -- 數學模型模擬 兩分半告訴你為何普檢是最佳防控方案 -- 大公文匯](https://www.tkww.hk/a/202008/26/AP5f4639bce4b01ed767445090.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
