@@ -315,4 +315,6 @@
 
 - [ 视频 -- 數學模型模擬 兩分半告訴你為何普檢是最佳防控方案 -- 大公文匯](https://www.tkww.hk/a/202008/26/AP5f4639bce4b01ed767445090.html)  
 
+- [「航母殺手」射向南海 傳遞出4點信號！ -- 大公文匯](https://www.tkww.hk/a/202008/27/AP5f47a84fe4b01ed767449291.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
