@@ -31,6 +31,7 @@ OSCE  OSCP  OSWP
 
 - [入境處女公務員起底200警 非法供料「老豆搵仔」今提堂 -- 大公文匯](https://www.tkww.hk/a/202008/22/AP5f406511e4b01ed767435807.html)  
 - [賣1200人資料 「起底王」被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7030703-%e8%b3%a31200%e4%ba%ba%e8%b3%87%e6%96%99-%e3%80%8c%e8%b5%b7%e5%ba%95%e7%8e%8b%e3%80%8d%e8%a2%ab%e6%8d%95)  
+- [涉受指使查1200個車牌起底 五旬漢違私隱例被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7029364-%e6%b6%89%e5%8f%97%e6%8c%87%e4%bd%bf%e6%9f%a51200%e5%80%8b%e8%bb%8a%e7%89%8c%e8%b3%87%e6%96%99%e8%b5%b7%e5%ba%95-%e4%ba%94%e6%97%ac%e6%bc%a2%e8%a2%ab%e6%8d%95)  
 - [警拘TG群組管理人 涉煽惑他人作出刑毀 -- 大公文匯](https://www.tkww.hk/a/202008/28/AP5f48bc2ae4b01ed76744c79a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
