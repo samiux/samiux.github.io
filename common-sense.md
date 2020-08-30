@@ -317,4 +317,6 @@
 
 - [「航母殺手」射向南海 傳遞出4點信號！ -- 大公文匯](https://www.tkww.hk/a/202008/27/AP5f47a84fe4b01ed767449291.html)  
 
+- [ 视频 -- 2020-08-26 時事觀察 第2節 -- 霍詠強：傳染病專家是怎樣變成「磚家」的？ -- 霍詠強](https://www.youtube.com/watch?v=QyVzlswhQQY&feature=emb_logo)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
