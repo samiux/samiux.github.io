@@ -321,4 +321,10 @@
 
 - [《2020，中國與美國終須一戰》作者: 過了今年美國根本打不贏中國啊! -- 毛拍手](https://www.bastillepost.com/hongkong/article/7041953-%e3%80%8a2020%ef%bc%8c%e4%b8%ad%e5%9c%8b%e8%88%87%e7%be%8e%e5%9c%8b%e7%b5%82%e9%a0%88%e4%b8%80%e6%88%b0%e3%80%8b%e4%bd%9c%e8%80%85-%e9%81%8e%e4%ba%86%e4%bb%8a%e5%b9%b4%e7%be%8e%e5%9c%8b%e6%a0%b9)  
 
+- [為何中國宣布試射了2枝導彈，而美國卻公布是4枝呢? -- deepthroat](https://www.bastillepost.com/hongkong/article/7046377-%e7%82%ba%e4%bd%95%e4%b8%ad%e5%9c%8b%e5%ae%a3%e5%b8%83%e8%a9%a6%e5%b0%84%e4%ba%862%e6%9e%9d%e5%b0%8e%e5%bd%88%ef%bc%8c%e8%80%8c%e7%be%8e%e5%9c%8b%e5%8d%bb%e5%85%ac%e5%b8%83%e6%98%af4%e6%9e%9d%e5%91%a2)  
+
+- [內地熱傳一封馬來西亞人的信 中國從不侵略其他國家 中國正在復興 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7045951-%e5%85%a7%e5%9c%b0%e7%86%b1%e5%82%b3%e4%b8%80%e5%b0%81%e9%a6%ac%e4%be%86%e8%a5%bf%e4%ba%9e%e4%ba%ba%e7%9a%84%e4%bf%a1-%e4%b8%ad%e5%9c%8b%e5%be%9e%e4%b8%8d%e4%be%b5%e7%95%a5%e5%85%b6%e4%bb%96%e5%9c%8b)  
+
+- [阿爺最後一刻出招阻止TikTok跪低賤賣 中國保障知識產權的時候到了! -- 毛拍手](https://www.bastillepost.com/hongkong/article/7046808-%e9%98%bf%e7%88%ba%e6%9c%80%e5%be%8c%e4%b8%80%e5%88%bb%e5%87%ba%e6%8b%9b%e9%98%bb%e6%ad%a2tiktok%e8%b7%aa%e4%bd%8e%e8%b3%a4%e8%b3%a3-%e4%b8%ad%e5%9c%8b%e4%bf%9d%e9%9a%9c%e7%9f%a5%e8%ad%98%e7%94%a2)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
