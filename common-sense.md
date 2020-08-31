@@ -317,6 +317,8 @@
 
 - [「航母殺手」射向南海 傳遞出4點信號！ -- 大公文匯](https://www.tkww.hk/a/202008/27/AP5f47a84fe4b01ed767449291.html)  
 
-- [ 视频 -- 2020-08-26 時事觀察 第2節 -- 霍詠強：傳染病專家是怎樣變成「磚家」的？ -- 霍詠強](https://www.youtube.com/watch?v=QyVzlswhQQY&feature=emb_logo)  
+- [ 音频 -- 2020-08-26 時事觀察 第2節 -- 霍詠強：傳染病專家是怎樣變成「磚家」的？ -- 霍詠強](https://www.youtube.com/watch?v=QyVzlswhQQY&feature=emb_logo)  
+
+- [《2020，中國與美國終須一戰》作者: 過了今年美國根本打不贏中國啊! -- 毛拍手](https://www.bastillepost.com/hongkong/article/7041953-%e3%80%8a2020%ef%bc%8c%e4%b8%ad%e5%9c%8b%e8%88%87%e7%be%8e%e5%9c%8b%e7%b5%82%e9%a0%88%e4%b8%80%e6%88%b0%e3%80%8b%e4%bd%9c%e8%80%85-%e9%81%8e%e4%ba%86%e4%bb%8a%e5%b9%b4%e7%be%8e%e5%9c%8b%e6%a0%b9)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
