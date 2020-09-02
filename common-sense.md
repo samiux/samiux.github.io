@@ -331,4 +331,6 @@
 
 - [北京應樂見特朗普連任 -- 施永青](https://hkgpao.com/articles/1015320)  
 
+- [解放軍亮劍！航母演訓力度升級 -- 大公文匯](https://mp.weixin.qq.com/s/nFw_u2fAPbftAlzlmpxGHg)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
