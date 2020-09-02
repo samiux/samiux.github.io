@@ -329,4 +329,6 @@
 
 - [神秘「俄國兵團」 助華為與美國競爭 -- 深藍](https://www.bastillepost.com/hongkong/article/7061675-%e7%a5%9e%e7%a7%98%e3%80%8c%e4%bf%84%e5%9c%8b%e5%85%b5%e5%9c%98%e3%80%8d-%e5%8a%a9%e8%8f%af%e7%82%ba%e8%88%87%e7%be%8e%e5%9c%8b%e7%ab%b6%e7%88%ad)  
 
+- [北京應樂見特朗普連任 -- 施永青](https://hkgpao.com/articles/1015320)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
