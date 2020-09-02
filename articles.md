@@ -32,6 +32,8 @@
 
 - [肥佬黎花30萬就回家了？專家：有機會內地送審  -- 大公文匯](https://mp.weixin.qq.com/s/c7Yo2TKZVgliArTUKf2zMw)  
 
+- [英國模式已經不是「三權分立」 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7063519-%e8%8b%b1%e5%9c%8b%e6%a8%a1%e5%bc%8f%e5%b7%b2%e7%b6%93%e4%b8%8d%e6%98%af%e3%80%8c%e4%b8%89%e6%ac%8a%e5%88%86%e7%ab%8b%e3%80%8d)  
+
 - [专题视听频道](/channels.md)  
   
 - [一般常識文章結集](/common-sense.md)  
