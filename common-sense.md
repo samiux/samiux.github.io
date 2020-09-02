@@ -327,4 +327,6 @@
 
 - [阿爺最後一刻出招阻止TikTok跪低賤賣 中國保障知識產權的時候到了! -- 毛拍手](https://www.bastillepost.com/hongkong/article/7046808-%e9%98%bf%e7%88%ba%e6%9c%80%e5%be%8c%e4%b8%80%e5%88%bb%e5%87%ba%e6%8b%9b%e9%98%bb%e6%ad%a2tiktok%e8%b7%aa%e4%bd%8e%e8%b3%a4%e8%b3%a3-%e4%b8%ad%e5%9c%8b%e4%bf%9d%e9%9a%9c%e7%9f%a5%e8%ad%98%e7%94%a2)  
 
+- [神秘「俄國兵團」 助華為與美國競爭 -- 深藍](https://www.bastillepost.com/hongkong/article/7061675-%e7%a5%9e%e7%a7%98%e3%80%8c%e4%bf%84%e5%9c%8b%e5%85%b5%e5%9c%98%e3%80%8d-%e5%8a%a9%e8%8f%af%e7%82%ba%e8%88%87%e7%be%8e%e5%9c%8b%e7%ab%b6%e7%88%ad)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
