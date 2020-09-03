@@ -8,7 +8,7 @@
 
 - [特朗普密令曝光：美中情局CIA正对全球发起进攻型网络打击！ -- 国际安全智库](https://www.freebuf.com/news/243708.html)  
 
-- [音频 -- 2020-07-15 時事觀察 第1節 -- 霍詠強：戰爭會是中美關係的未來嗎？](https://www.youtube.com/watch?v=n-Iowe6e_VU)  
+- [ 音频 -- 2020-07-15 時事觀察 第1節 -- 霍詠強：戰爭會是中美關係的未來嗎？](https://www.youtube.com/watch?v=n-Iowe6e_VU)  
 
 - [新疆和香港爆疫 內地專家張文宏比較兩地防疫策略 -- Ariel](https://www.bastillepost.com/hongkong/article/6802266-%E6%96%B0%E7%96%86%E5%92%8C%E9%A6%99%E6%B8%AF%E7%88%86%E7%96%AB-%E5%85%A7%E5%9C%B0%E5%B0%88%E5%AE%B6%E5%BC%B5%E6%96%87%E5%AE%8F%E6%AF%94%E8%BC%83%E5%85%A9%E5%9C%B0%E9%98%B2%E7%96%AB%E7%AD%96%E7%95%A5)  
 
@@ -332,5 +332,7 @@
 - [北京應樂見特朗普連任 -- 施永青](https://hkgpao.com/articles/1015320)  
 
 - [解放軍亮劍！航母演訓力度升級 -- 大公文匯](https://mp.weixin.qq.com/s/nFw_u2fAPbftAlzlmpxGHg)  
+
+- [ 音频 -- 2020-09-02 時事觀察 第1節 -- 霍詠強：美國誤判中國對戰爭的態度、後果堪虞！](https://www.youtube.com/watch?time_continue=635&v=bhOMdGhqkvU&feature=emb_logo)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
