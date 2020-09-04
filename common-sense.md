@@ -337,4 +337,6 @@
 
 - [《同心戰「疫」》紀錄片 展現中國戰「疫」的制度優勢 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7074799-%e3%80%8a%e5%90%8c%e5%bf%83%e6%88%b0%e3%80%8c%e7%96%ab%e3%80%8d%e3%80%8b%e7%b4%80%e9%8c%84%e7%89%87-%e5%b1%95%e7%8f%be%e4%b8%ad%e5%9c%8b%e6%88%b0%e3%80%8c%e7%96%ab%e3%80%8d%e7%9a%84%e5%88%b6%e5%ba%a6)  
 
+- [檢測亂杯葛 封關偽命題 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7076363-%e6%aa%a2%e6%b8%ac%e4%ba%82%e6%9d%af%e8%91%9b-%e5%b0%81%e9%97%9c%e5%81%bd%e5%91%bd%e9%a1%8c)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
