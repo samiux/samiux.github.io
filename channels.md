@@ -29,6 +29,8 @@
 
 - [Weibo Official Channel](https://www.youtube.com/channel/UCpU9eMYJE6o2CnqDmKF0g8A)  
 
+- [中文频道](https://www.youtube.com/channel/UCRTGWdUUzPelVPTLKd5OhQA)  
+
 - [時事觀察](http://www.singtao.tv/main/category/newsreport/situation/)  
 
 - [大樹與木頭 ‧Y2K Channel](https://www.youtube.com/channel/UCFfLWSnUCblI4Lpsph7H1lA)  
