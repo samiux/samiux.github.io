@@ -34,5 +34,6 @@ OSCE  OSCP  OSWP
 - [涉受指使查1200個車牌起底 五旬漢違私隱例被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7029364-%e6%b6%89%e5%8f%97%e6%8c%87%e4%bd%bf%e6%9f%a51200%e5%80%8b%e8%bb%8a%e7%89%8c%e8%b3%87%e6%96%99%e8%b5%b7%e5%ba%95-%e4%ba%94%e6%97%ac%e6%bc%a2%e8%a2%ab%e6%8d%95)  
 - [警拘TG群組管理人 涉煽惑他人作出刑毀 -- 大公文匯](https://www.tkww.hk/a/202008/28/AP5f48bc2ae4b01ed76744c79a.html)  
 - [Telegram“黑暴大台”频道管理员被捕 -- 大公报](http://www.takungpao.com/news/232109/2020/0828/491369.html)  
+- [涉網上唆使示威及殺警 資科辦女公務員被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7076368-%e8%b3%87%e7%a7%91%e8%be%a6%e5%a5%b3%e5%85%ac%e5%8b%99%e5%93%a1%e8%a2%ab%e6%8d%95-%e6%b6%89%e7%b6%b2%e4%b8%8a%e5%94%86%e4%bd%bf%e7%a4%ba%e5%a8%81%e5%8f%8a%e9%96%8b%e5%b1%b1%e5%88%80%e6%ae%ba%e8%ad%a6)  嫌疑人是任职政府资讯科技总监办公室二级系统分析及程序编制主任，估计他可能会使用虚拟私人网络 (VPN) 等设备来犯案。)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
