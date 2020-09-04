@@ -79,4 +79,6 @@
 
 - [【中華‧了解多一點】突破封鎖的大國重器 － 北斗衛星導航系統 -- 周天慧](https://hkgpao.com/articles/1015111)  
 
+- [10位“空中猎人”巅峰之战！ 精英狙击手挑战空中狙击 争夺“狙击挑战王” 20200830 |《挑战不可能》第五季](https://www.youtube.com/watch?v=ZuayIXXgN8w)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
