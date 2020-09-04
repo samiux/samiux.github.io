@@ -81,4 +81,6 @@
 
 - [10位“空中猎人”巅峰之战！ 精英狙击手挑战空中狙击 争夺“狙击挑战王” 20200830 --《挑战不可能》第五季](https://www.youtube.com/watch?v=ZuayIXXgN8w)  
 
+- [纪录片《同心战“疫”》](https://samiux.blogspot.com/2020/09/blog-post.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
