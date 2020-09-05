@@ -339,4 +339,6 @@
 
 - [檢測亂杯葛 封關偽命題 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7076363-%e6%aa%a2%e6%b8%ac%e4%ba%82%e6%9d%af%e8%91%9b-%e5%b0%81%e9%97%9c%e5%81%bd%e5%91%bd%e9%a1%8c)  
 
+- [华为云鲲鹏云手机上线公测：每台手机每月99元 -- cnBeta](https://www.cnbeta.com/articles/tech/1023399.htm)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
