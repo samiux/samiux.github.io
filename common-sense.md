@@ -66,6 +66,10 @@
 
 - [BNO不再是旅遊證件之後 -- 大公文匯](https://www.tkww.hk/a/202007/24/AP5f1a6fc8e4b09687db34b704.html)  
 
+- [盧永雄對民主派初選的看法](/hknsl-1.md)  
+
+- [ 视频 -- 披露過他曾被人以千萬元利誘辦「反中」報章的親身經歷 -- 王亨之](https://www.youtube.com/watch?v=JscAIzo3mTA)  
+
 - [ 视频 -- 明目張膽的操控 -- 屈穎妍講你知](https://www.tkww.hk/a/202007/16/AP5f103f08e4b08d787e9a94d1.html)  
 
 - [戀戀不捨的假髮 -- 妍之有理](https://www.tkww.hk/a/202007/25/AP5f1b9d8de4b09687db34ca34.html)  
