@@ -345,4 +345,6 @@
 
 - [华为云鲲鹏云手机上线公测：每台手机每月99元 -- cnBeta](https://www.cnbeta.com/articles/tech/1023399.htm)  
 
+- [中國6種新冠疫苗競跑 多國藥疫苗訂單超過5億劑 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7086859-%e4%b8%ad%e5%9c%8b6%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e7%ab%b6%e8%b7%91-%e5%a4%9a%e5%9c%8b%e8%97%a5%e7%96%ab%e8%8b%97%e8%a8%82%e5%96%ae%e8%b6%85%e9%81%8e5%e5%84%84%e5%8a%91)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
