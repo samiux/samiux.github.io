@@ -347,4 +347,6 @@
 
 - [中國6種新冠疫苗競跑 多國藥疫苗訂單超過5億劑 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7086859-%e4%b8%ad%e5%9c%8b6%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e7%ab%b6%e8%b7%91-%e5%a4%9a%e5%9c%8b%e8%97%a5%e7%96%ab%e8%8b%97%e8%a8%82%e5%96%ae%e8%b6%85%e9%81%8e5%e5%84%84%e5%8a%91)  
 
+- [中芯國際「黑」了，美國禁制陸續有來 -- 深藍](https://www.bastillepost.com/hongkong/article/7088605-%e4%b8%ad%e8%8a%af%e5%9c%8b%e9%9a%9b%e3%80%8c%e9%bb%91%e3%80%8d%e4%ba%86%ef%bc%8c%e7%be%8e%e5%9c%8b%e7%a6%81%e5%88%b6%e9%99%b8%e7%ba%8c%e6%9c%89%e4%be%86)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
