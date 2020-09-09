@@ -351,4 +351,18 @@
 
 - [澳洲孕婦在facebook出貼子煽動反封鎖 澳警察馬上登門拘捕 香港真係濕濕碎 -- deepthroat](https://www.bastillepost.com/hongkong/article/7088739-%e6%be%b3%e6%b4%b2%e5%ad%95%e5%a9%a6%e5%9c%a8facebook%e5%87%ba%e8%b2%bc%e5%ad%90%e7%85%bd%e5%8b%95%e5%8f%8d%e5%b0%81%e9%8e%96-%e6%be%b3%e8%ad%a6%e5%af%9f%e9%a6%ac%e4%b8%8a%e7%99%bb%e9%96%80%e6%8b%98)  
 
+- [5種疫苖路徑和有利弊 牛津測試出事 「腺病毒載體」疫苖曝露問題 -- deepthroat](https://www.bastillepost.com/hongkong/article/7101109-5%e7%a8%ae%e7%96%ab%e8%8b%96%e8%b7%af%e5%be%91%e5%92%8c%e6%9c%89%e5%88%a9%e5%bc%8a-%e7%89%9b%e6%b4%a5%e6%b8%ac%e8%a9%a6%e5%87%ba%e4%ba%8b-%e3%80%8c%e8%85%ba%e7%97%85%e6%af%92%e8%bc%89%e9%ab%94)  
+
+- [ 视频 -- 【冼師傅講場】｜冼國林｜EP85｜法官是否涉嫌集體妨礙司法公正， 馬道立應該盡快澄清， 國安公署應該介入](https://www.youtube.com/watch?v=bm1sHP7Kq5w)  
+
+- [ 视频 -- 【冼師傅講場】｜冼國林｜EP86｜馬道立應該進一步公開7月3號會議內容以釋除大眾疑慮增加司法機構透明度](https://www.youtube.com/watch?v=yLjZKQLF-P0)  
+
+- [ 视频 -- 【冼師傅講場】｜冼國林｜EP87｜司法黑洞，越揭越黑](https://www.youtube.com/watch?v=XcpmeVXY0dU)  
+
+- [7·3講座到底講咩？司法機構請交代 -- 大公文匯](https://mp.weixin.qq.com/s/6SSZ-1mMtFujOMx9FPitFA)  
+
+- [匿名信風波 | 法律界促司法機構交代7·3講座 -- 大公文匯](https://www.tkww.hk/a/202009/09/AP5f5823b6e4b07e8336361aff.html)  
+
+- [法官是否涉嫌集體妨礙司法公正？ -- Samiux's Blog](https://samiux.blogspot.com/2020/09/blog-post_9.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
