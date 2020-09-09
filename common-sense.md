@@ -367,4 +367,6 @@
 
 - [法官是否涉嫌集體妨礙司法公正？ -- Samiux's Blog](https://samiux.blogspot.com/2020/09/blog-post_9.html)  
 
+- [梁振英：不認同社會不可監察法官審案及量刑的説法 -- 大公文匯](https://www.tkww.hk/a/202009/09/AP5f588bace4b07e8336364106.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
