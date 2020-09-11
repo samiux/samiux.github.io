@@ -33,5 +33,6 @@ OSCE  OSCP  OSWP
 - [警拘TG群組管理人 涉煽惑他人作出刑毀 -- 大公文匯](https://www.tkww.hk/a/202008/28/AP5f48bc2ae4b01ed76744c79a.html)  
 - [Telegram“黑暴大台”频道管理员被捕 -- 大公报](http://www.takungpao.com/news/232109/2020/0828/491369.html)  
 - [涉網上唆使示威及殺警 資科辦女公務員被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7076368-%e8%b3%87%e7%a7%91%e8%be%a6%e5%a5%b3%e5%85%ac%e5%8b%99%e5%93%a1%e8%a2%ab%e6%8d%95-%e6%b6%89%e7%b6%b2%e4%b8%8a%e5%94%86%e4%bd%bf%e7%a4%ba%e5%a8%81%e5%8f%8a%e9%96%8b%e5%b1%b1%e5%88%80%e6%ae%ba%e8%ad%a6)  (嫌疑人是任职政府资讯科技总监办公室二级系统分析及程序编制主任，估计她可能会使用虚拟私人网络 (VPN) 等设备来犯案。)  
+- [涉煽動參與未經批准集結 21歲TG頻道管理員被捕 --  星島日報](https://std.stheadline.com/realtime/article/1370475/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%B6%89%E7%85%BD%E5%8B%95%E5%8F%83%E8%88%87%E6%9C%AA%E7%B6%93%E6%89%B9%E5%87%86%E9%9B%86%E7%B5%90-21%E6%AD%B2TG%E9%A0%BB%E9%81%93%E7%AE%A1%E7%90%86%E5%93%A1%E8%A2%AB%E6%8D%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
