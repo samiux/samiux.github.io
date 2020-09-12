@@ -1,1 +1,48 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
+# 专题视听频道  
+
+- [广东音乐之声](https://www.qingting.fm/radios/1260/)  
+- [CCTV中国中央电视台](https://www.youtube.com/user/zhongguohaogequ)  
+- [CCTV纪录](https://www.youtube.com/channel/UCAYkj2Fz9EvAe2fGJEGMXnQ)  
+- [CCTV-7 国防军事](https://tv.cctv.com/live/cctv7/)  
+- [军迷天下](https://www.youtube.com/user/militarycntv)  
+- [CCTV挑战不可能官方频道](https://www.youtube.com/channel/UC3HLhJGcc_0Vse2UncGnxcQ)  
+- [MrOldMajor](https://www.youtube.com/channel/UCA3l6zrqo85jdxOlj9xVveg)  
+- [Ms Hej](https://www.youtube.com/channel/UCvH_kUmAVDP3gyOcfybyqug)  
+- [I Am a Soldier [我是一个兵] - Chinese military march --  MrOldMajor](https://www.youtube.com/watch?v=nZmwW3ddkAY)  
+- [假如战争在明天 中国人不喜欢战争 但绝不惧怕战争 -- Ms Hej](https://www.youtube.com/watch?v=fDPKNLI6f34)  
+- ["I am a soldier" PLA Band Army memorial concert 90th Anniversary --  Orekhov Efim
+](https://www.youtube.com/watch?v=vRNw3PfKO_A)  
+- [中国东方卫视官方频道China DragonTV Official](https://www.youtube.com/channel/UCJ06BguWKS5GJsEue7u79PQ)  
+- [GuanchaNews观察者网](https://www.youtube.com/channel/UCJncdiH3BQUBgCroBmhsUhQ)  
+- [厉害了我的国](https://www.youtube.com/channel/UC0zGScLEqQ_ggw23iIBIZoA)  
+- [Weibo Official Channel](https://www.youtube.com/channel/UCpU9eMYJE6o2CnqDmKF0g8A)  
+- [中文频道](https://www.youtube.com/channel/UCRTGWdUUzPelVPTLKd5OhQA)  
+- [時事觀察](http://www.singtao.tv/main/category/newsreport/situation/)  
+- [大樹與木頭 ‧Y2K Channel](https://www.youtube.com/channel/UCFfLWSnUCblI4Lpsph7H1lA)  
+- [陳穎欣Joephy Chan](https://www.youtube.com/channel/UCvlBe-TQfjLFINSSYQt9Tjg)  
+- [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
+- [冼師傅講場](https://www.youtube.com/channel/UCFRBCHEqZNJ2Rb1IjrCC8Zw)  
+- [玛莎CN](https://www.youtube.com/channel/UCmSefgK3FoLgyIJ25kjJ83g)  
+- [Where's Poppy](https://www.youtube.com/channel/UCAy4rN2oe57nR-NJzkm3qvw)  
+- [This is China](https://samiux.blogspot.com/2016/09/video-this-is-china.html)  
+- [國家是甚麼？](https://samiux.blogspot.com/2018/06/blog-post_14.html)  
+- [人物專訪：新加坡外交專家 馬凱碩](https://samiux.blogspot.com/2018/08/blog-post_13.html)  
+- [【Long Time No See, Wuhan】 - Post-Pandemic Wuhan Through the Lens of a Japanese Director](https://samiux.blogspot.com/2020/07/long-time-no-see-wuhan-post-pandemic.html)  
+- [ 不要把世界让给你讨厌的人！-- 华为 ](https://samiux.blogspot.com/2020/07/blog-post_30.html)  
+- [馬恩國解讀認識基本法系列](https://samiux.blogspot.com/2018/08/blog-post_1.html)  
+- [See The Clear Picture (青紅皂白　清楚明白)](https://samiux.blogspot.com/2020/01/so-called-peaceful-demands-changed-to.html)  
+- [《另一个香港》](https://samiux.blogspot.com/2020/05/blog-post_18.html)  
+- [《暗夜星辰》(Starry Night) -- 香港警察 Hong Kong Police](https://samiux.blogspot.com/2020/07/starry-night-hong-kong-police.html)  
+- [八一建军节 2020-08-01 -《我们的节日》庆祝中国人民解放军建军93周年特别节目 -- 军迷天下](https://samiux.blogspot.com/2020/08/2020-08-01-93.html)  
+- [纪录片《2019阅兵盛典》全景记录阅兵盛况 大国风采震撼来袭 -- 军迷天下](https://www.youtube.com/watch?v=RD7ft6Ll5Dw)  
+- [蓬佩奥：我们撒谎、欺骗、偷窃 --  Ms Hej](https://www.youtube.com/watch?v=DKGU6ENYFA4)  
+- [武汉日记 -- Weibo Official Channel](https://samiux.blogspot.com/2020/08/weibo-official-channel.html)  
+- [糧食也有戰爭？和你生活息息相關，你絕不能錯過的影片！ -- 沖出黎講](https://www.youtube.com/watch?v=sCvi5gsMYDI)  
+- [【中華‧了解多一點】突破封鎖的大國重器 － 北斗衛星導航系統 -- 周天慧](https://hkgpao.com/articles/1015111)  
+- [10位“空中猎人”巅峰之战！ 精英狙击手挑战空中狙击 争夺“狙击挑战王” 20200830 --《挑战不可能》第五季](https://www.youtube.com/watch?v=ZuayIXXgN8w)  
+- [纪录片《同心战“疫”》](https://samiux.blogspot.com/2020/09/blog-post.html)  
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
