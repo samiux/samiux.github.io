@@ -199,5 +199,6 @@
 - [填補國內空白 本源量子向全球用戶開放真實量子計算服務 -- 大公文匯](https://www.tkww.hk/a/202009/12/AP5f5c917ee4b07e8336376367.html)  
 - [習近平發表重要講話 五個「絕不答應」擲地有聲！ -- 大公文匯](https://www.tkww.hk/a/202009/03/AP5f510e86e4b07e8336346fe2.html)  
 - [加州山火為何今年特別嚴重？ 英媒爆料又係特朗普闖的禍 -- deepthroat](https://www.bastillepost.com/hongkong/article/7128710-%e5%8a%a0%e5%b7%9e%e5%b1%b1%e7%81%ab%e7%82%ba%e4%bd%95%e4%bb%8a%e5%b9%b4%e7%89%b9%e5%88%a5%e5%9a%b4%e9%87%8d%ef%bc%9f-%e8%8b%b1%e5%aa%92%e7%88%86%e6%96%99%e5%8f%88%e4%bf%82%e7%89%b9%e6%9c%97%e6%99%ae)  
+- [我的「中國芯」 一文看懂華為芯片斷供 「卡頸」 是中國芯片業涅槃的開端 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7141484-%e6%88%91%e7%9a%84%e3%80%8c%e4%b8%ad%e5%9c%8b%e8%8a%af%e3%80%8d-%e4%b8%80%e6%96%87%e7%9c%8b%e6%87%82%e8%8f%af%e7%82%ba%e8%8a%af%e7%89%87%e6%96%b7%e4%be%9b-%e3%80%8c%e5%8d%a1%e9%a0%b8%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
