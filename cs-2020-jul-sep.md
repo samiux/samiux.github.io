@@ -201,5 +201,6 @@
 - [加州山火為何今年特別嚴重？ 英媒爆料又係特朗普闖的禍 -- deepthroat](https://www.bastillepost.com/hongkong/article/7128710-%e5%8a%a0%e5%b7%9e%e5%b1%b1%e7%81%ab%e7%82%ba%e4%bd%95%e4%bb%8a%e5%b9%b4%e7%89%b9%e5%88%a5%e5%9a%b4%e9%87%8d%ef%bc%9f-%e8%8b%b1%e5%aa%92%e7%88%86%e6%96%99%e5%8f%88%e4%bf%82%e7%89%b9%e6%9c%97%e6%99%ae)  
 - [我的「中國芯」 一文看懂華為芯片斷供 「卡頸」 是中國芯片業涅槃的開端 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7141484-%e6%88%91%e7%9a%84%e3%80%8c%e4%b8%ad%e5%9c%8b%e8%8a%af%e3%80%8d-%e4%b8%80%e6%96%87%e7%9c%8b%e6%87%82%e8%8f%af%e7%82%ba%e8%8a%af%e7%89%87%e6%96%b7%e4%be%9b-%e3%80%8c%e5%8d%a1%e9%a0%b8%e3%80%8d)  
 - [特朗普聲大夾惡只是「無牙老虎」 TikTok美國公司換個形式再做生意 -- deepthroat](https://www.bastillepost.com/hongkong/article/7144418-%e7%89%b9%e6%9c%97%e6%99%ae%e8%81%b2%e5%a4%a7%e5%a4%be%e6%83%a1%e5%8f%aa%e6%98%af%e3%80%8c%e7%84%a1%e7%89%99%e8%80%81%e8%99%8e%e3%80%8d-tiktok%e7%be%8e%e5%9c%8b%e5%85%ac%e5%8f%b8%e6%8f%9b%e5%80%8b)  
+- [隨風潛入夜 潤物細無聲 ----致內地援港人員的信 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7144277-%e9%9a%a8%e9%a2%a8%e6%bd%9b%e5%85%a5%e5%a4%9c-%e6%bd%a4%e7%89%a9%e7%b4%b0%e7%84%a1%e8%81%b2-%e8%87%b4%e5%85%a7%e5%9c%b0%e6%8f%b4%e6%b8%af%e4%ba%ba%e5%93%a1%e7%9a%84%e4%bf%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
