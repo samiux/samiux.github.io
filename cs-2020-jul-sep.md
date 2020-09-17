@@ -205,5 +205,7 @@
 - [Tor 0day Finding IP Addresses -- The Hacker Factor Blog](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)  
 - [特朗普曾要求WTO將美列為發展中國家，遭拒後威脅：「那我就退群」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7147116-%e7%89%b9%e6%9c%97%e6%99%ae%e6%9b%be%e8%a6%81%e6%b1%82wto%e5%b0%87%e7%be%8e%e5%88%97%e7%82%ba%e7%99%bc%e5%b1%95%e4%b8%ad%e5%9c%8b%e5%ae%b6%ef%bc%8c%e9%81%ad%e6%8b%92%e5%be%8c%e5%a8%81%e8%84%85)  
 - [惠譽：中國經濟完全恢復到疫情前水平，令人震驚！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7147655-%e6%83%a0%e8%ad%bd%ef%bc%9a%e4%b8%ad%e5%9c%8b%e7%b6%93%e6%bf%9f%e5%ae%8c%e5%85%a8%e6%81%a2%e5%be%a9%e5%88%b0%e7%96%ab%e6%83%85%e5%89%8d%e6%b0%b4%e5%b9%b3%ef%bc%8c%e4%bb%a4%e4%ba%ba%e9%9c%87%e9%a9%9a)  
+- [普通人最快什麼時候能打新冠疫苗？中疾控專家披露最快11月可打 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7149491-%e6%99%ae%e9%80%9a%e4%ba%ba%e6%9c%80%e5%bf%ab%e4%bb%80%e9%ba%bc%e6%99%82%e5%80%99%e8%83%bd%e6%89%93%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%ef%bc%9f%e4%b8%ad%e7%96%be%e6%8e%a7%e5%b0%88%e5%ae%b6%e6%8a%ab)  
+- [TikTok甲骨文「聯婚」，顯現中美權力平衡 -- 深藍](https://www.bastillepost.com/hongkong/article/7149470-tiktok%e7%94%b2%e9%aa%a8%e6%96%87%e3%80%8c%e8%81%af%e5%a9%9a%e3%80%8d%ef%bc%8c%e9%a1%af%e7%8f%be%e4%b8%ad%e7%be%8e%e6%ac%8a%e5%8a%9b%e5%b9%b3%e8%a1%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
