@@ -203,5 +203,6 @@
 - [特朗普聲大夾惡只是「無牙老虎」 TikTok美國公司換個形式再做生意 -- deepthroat](https://www.bastillepost.com/hongkong/article/7144418-%e7%89%b9%e6%9c%97%e6%99%ae%e8%81%b2%e5%a4%a7%e5%a4%be%e6%83%a1%e5%8f%aa%e6%98%af%e3%80%8c%e7%84%a1%e7%89%99%e8%80%81%e8%99%8e%e3%80%8d-tiktok%e7%be%8e%e5%9c%8b%e5%85%ac%e5%8f%b8%e6%8f%9b%e5%80%8b)  
 - [隨風潛入夜 潤物細無聲 ----致內地援港人員的信 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7144277-%e9%9a%a8%e9%a2%a8%e6%bd%9b%e5%85%a5%e5%a4%9c-%e6%bd%a4%e7%89%a9%e7%b4%b0%e7%84%a1%e8%81%b2-%e8%87%b4%e5%85%a7%e5%9c%b0%e6%8f%b4%e6%b8%af%e4%ba%ba%e5%93%a1%e7%9a%84%e4%bf%a1)  
 - [Tor 0day Finding IP Addresses -- The Hacker Factor Blog](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)  
+- [特朗普曾要求WTO將美列為發展中國家，遭拒後威脅：「那我就退群」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7147116-%e7%89%b9%e6%9c%97%e6%99%ae%e6%9b%be%e8%a6%81%e6%b1%82wto%e5%b0%87%e7%be%8e%e5%88%97%e7%82%ba%e7%99%bc%e5%b1%95%e4%b8%ad%e5%9c%8b%e5%ae%b6%ef%bc%8c%e9%81%ad%e6%8b%92%e5%be%8c%e5%a8%81%e8%84%85)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
