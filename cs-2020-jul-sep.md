@@ -209,5 +209,6 @@
 - [TikTok甲骨文「聯婚」，顯現中美權力平衡 -- 深藍](https://www.bastillepost.com/hongkong/article/7149470-tiktok%e7%94%b2%e9%aa%a8%e6%96%87%e3%80%8c%e8%81%af%e5%a9%9a%e3%80%8d%ef%bc%8c%e9%a1%af%e7%8f%be%e4%b8%ad%e7%be%8e%e6%ac%8a%e5%8a%9b%e5%b9%b3%e8%a1%a1)  
 - [中國科技「報復式」爆發︰1000倍、100萬倍超速 -- 深藍](https://www.bastillepost.com/hongkong/article/7155781-%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80%e3%80%8c%e5%a0%b1%e5%be%a9%e5%bc%8f%e3%80%8d%e7%88%86%e7%99%bc%ef%b8%b01000%e5%80%8d%e3%80%81100%e8%90%ac%e5%80%8d%e8%b6%85%e9%80%9f)  
 - [央行貨政委委員馬駿：中國第4季GDP將増長6% 但美元未必持續走弱 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7160191-%e5%a4%ae%e8%a1%8c%e8%b2%a8%e6%94%bf%e5%a7%94%e5%a7%94%e5%93%a1%e9%a6%ac%e9%a7%bf%ef%bc%9a%e4%b8%ad%e5%9c%8b%e7%ac%ac4%e5%ad%a3gdp%e5%b0%87%e5%a2%97%e9%95%b76-%e4%bd%86%e7%be%8e%e5%85%83%e6%9c%aa)  
+- [海洋二號C星升空  6小時可完成全球8成海面風場監測 -- 大公文匯](https://www.tkww.hk/a/202009/21/AP5f684c94e4b0079b9dd3fa36.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
