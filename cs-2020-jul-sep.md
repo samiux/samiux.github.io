@@ -210,5 +210,7 @@
 - [中國科技「報復式」爆發︰1000倍、100萬倍超速 -- 深藍](https://www.bastillepost.com/hongkong/article/7155781-%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80%e3%80%8c%e5%a0%b1%e5%be%a9%e5%bc%8f%e3%80%8d%e7%88%86%e7%99%bc%ef%b8%b01000%e5%80%8d%e3%80%81100%e8%90%ac%e5%80%8d%e8%b6%85%e9%80%9f)  
 - [央行貨政委委員馬駿：中國第4季GDP將増長6% 但美元未必持續走弱 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7160191-%e5%a4%ae%e8%a1%8c%e8%b2%a8%e6%94%bf%e5%a7%94%e5%a7%94%e5%93%a1%e9%a6%ac%e9%a7%bf%ef%bc%9a%e4%b8%ad%e5%9c%8b%e7%ac%ac4%e5%ad%a3gdp%e5%b0%87%e5%a2%97%e9%95%b76-%e4%bd%86%e7%be%8e%e5%85%83%e6%9c%aa)  
 - [海洋二號C星升空  6小時可完成全球8成海面風場監測 -- 大公文匯](https://www.tkww.hk/a/202009/21/AP5f684c94e4b0079b9dd3fa36.html)  
+- [黑暴用政府資源反政府 法律界呼籲這樣改 -- 大公文匯](https://mp.weixin.qq.com/s/1w1slZUHmIXrRtKLZsKfYg)  
+- [阿里巴巴「無影」破美國IT霸權 -- 深藍](https://www.bastillepost.com/hongkong/article/7170806-%e9%98%bf%e9%87%8c%e3%80%8c%e7%84%a1%e5%bd%b1%e3%80%8d%e7%a0%b4%e7%be%8e%e5%9c%8bit%e6%8a%80%e8%a1%93%e5%9f%ba%e7%a4%8e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
