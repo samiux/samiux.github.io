@@ -217,5 +217,6 @@
 - [** 现时美国航空母舰的实力尽显 -- Samiux's Blog](https://samiux.blogspot.com/2020/09/blog-post_25.html)  
 - [中國疫苗對多地病毒起效 -- 大公文匯](https://www.tkww.hk/a/202009/25/AP5f6d18c2e4b057813e0a87ac.html)  
 - [國防部：不惜一切代價挫敗「台獨」 -- 大公文匯](https://www.tkww.hk/a/202009/25/AP5f6d6db1e4b057813e0a972b.html)  
+- [** 中国国防概况 2020 -- Samiux's Blog](https://samiux.blogspot.com/2020/09/2020.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
