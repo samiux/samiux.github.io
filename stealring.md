@@ -37,5 +37,6 @@ OSCE  OSCP  OSWP
 - [無綫證一名員工被捕 疑涉網上滋擾恐嚇廣告客戶 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7136902-%e7%84%a1%e7%b6%ab%e8%ad%89%e4%b8%80%e5%90%8d%e5%93%a1%e5%b7%a5%e8%a2%ab%e6%8d%95-%e7%96%91%e6%b6%89%e7%b6%b2%e4%b8%8a%e6%bb%8b%e6%93%be%e6%81%90%e5%9a%87%e5%bb%a3%e5%91%8a%e5%ae%a2%e6%88%b6?current_cat=3)  
 - [Tor 0day Finding IP Addresses -- The Hacker Factor Blog](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)  
 - [婚攝助理偷拍警夫婦 起底威嚇「性侵警嫂」-- 大公文匯](https://www.tkww.hk/a/202009/17/AP5f62ab1ce4b0eab60baaebd5.html)  
+- [涉TG煽動他人參與10.1等非法集結及縱火　3男被捕包括2學生 -- 東方日報網頁](https://hk.on.cc/hk/bkn/cnt/news/20200929/bkn-20200929165726234-0929_00822_001.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
