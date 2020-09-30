@@ -220,5 +220,6 @@
 - [** 中国国防概况 2020 -- Samiux's Blog](https://samiux.blogspot.com/2020/09/2020.html)  
 - [台美建交蔡政府為何「踩煞車」？學者爆美國態度令台灣心寒 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7223618-%e5%8f%b0%e7%be%8e%e5%bb%ba%e4%ba%a4%e8%94%a1%e6%94%bf%e5%ba%9c%e7%82%ba%e4%bd%95%e3%80%8c%e8%b8%a9%e7%85%9e%e8%bb%8a%e3%80%8d%ef%bc%9f%e5%ad%b8%e8%80%85%e7%88%86%e7%be%8e%e5%9c%8b%e6%85%8b%e5%ba%a6)  
 - [中國買家撤資近200億！美國商廈估值暴跌27％ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7222251-%e4%b8%ad%e5%9c%8b%e8%b2%b7%e5%ae%b6%e6%92%a4%e8%b3%87%e8%bf%91200%e5%84%84%ef%bc%81%e7%be%8e%e5%9c%8b%e5%95%86%e5%bb%88%e4%bc%b0%e5%80%bc%e6%9a%b4%e8%b7%8c27%ef%bc%85)  
+- [駱惠寧：該堅持的不妥協，該承擔的不迴避，該推動的不鬆手，香港才能解除黑暴攬炒的捆綁 -- Ariel](https://www.bastillepost.com/hongkong/article/7224510-%e9%a7%b1%e6%83%a0%e5%af%a7%ef%bc%9a%e8%a9%b2%e5%a0%85%e6%8c%81%e7%9a%84%e4%b8%8d%e5%a6%a5%e5%8d%94%ef%bc%8c%e8%a9%b2%e6%89%bf%e6%93%94%e7%9a%84%e4%b8%8d%e8%bf%b4%e9%81%bf%ef%bc%8c%e8%a9%b2%e6%8e%a8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
