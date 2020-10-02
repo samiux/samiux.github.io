@@ -26,45 +26,45 @@
 
 如果阁下的系统可以将恶意网址等列入黑名单的话，只需要将 [.]co 及 [.]xyz 的域名列入黑名单就可以了。
 
-恶意网站和网络地址一览表 ：
-www[.]pidwxl[.]co
-sdfsys[.]xyz
-cnokla[.]xyz
-thoughtminuteschool1[.]live
-thoughtminuteschool2[.]live
-thoughtminuteschool3[.]live
-thoughtminuteschool4[.]live
-thoughtminuteschool5[.]live
-thoughtminuteschool6[.]live
-thoughtminuteschool7[.]live
-thoughtminuteschool8[.]live
-thoughtminuteschool9[.]live
-thoughtminuteschool10[.]live
-thoughtminuteschool11[.]live
-thoughtminuteschool12[.]live
-thoughtminuteschool13[.]live
-thoughtminuteschool14[.]live
-thoughtminuteschool15[.]live
-surpriseseparatemy1[.]live
-surpriseseparatemy2[.]live
-surpriseseparatemy3[.]live
-surpriseseparatemy4[.]live
-surpriseseparatemy5[.]live
-surpriseseparatemy6[.]live
-surpriseseparatemy7[.]live
-surpriseseparatemy8[.]live
-surpriseseparatemy9[.]live
-surpriseseparatemy10[.]live
-surpriseseparatemy11[.]live
-surpriseseparatemy12[.]live
-surpriseseparatemy13[.]live
-surpriseseparatemy14[.]live
-surpriseseparatemy15[.]live
-mobile-global-apps-storage[.]life
-139[.]180[.]144[.]155
+恶意网站和网络地址一览表 ：  
+www[.]pidwxl[.]co  
+sdfsys[.]xyz  
+cnokla[.]xyz  
+thoughtminuteschool1[.]live  
+thoughtminuteschool2[.]live  
+thoughtminuteschool3[.]live  
+thoughtminuteschool4[.]live  
+thoughtminuteschool5[.]live  
+thoughtminuteschool6[.]live  
+thoughtminuteschool7[.]live  
+thoughtminuteschool8[.]live  
+thoughtminuteschool9[.]live  
+thoughtminuteschool10[.]live  
+thoughtminuteschool11[.]live  
+thoughtminuteschool12[.]live  
+thoughtminuteschool13[.]live  
+thoughtminuteschool14[.]live  
+thoughtminuteschool15[.]live  
+surpriseseparatemy1[.]live  
+surpriseseparatemy2[.]live  
+surpriseseparatemy3[.]live  
+surpriseseparatemy4[.]live  
+surpriseseparatemy5[.]live  
+surpriseseparatemy6[.]live  
+surpriseseparatemy7[.]live  
+surpriseseparatemy8[.]live  
+surpriseseparatemy9[.]live  
+surpriseseparatemy10[.]live  
+surpriseseparatemy11[.]live  
+surpriseseparatemy12[.]live  
+surpriseseparatemy13[.]live  
+surpriseseparatemy14[.]live  
+surpriseseparatemy15[.]live  
+mobile-global-apps-storage[.]life  
+139[.]180[.]144[.]155  
 
-Samiux
-OSCE  OSCP  OSWP
-二零二零年十月二日，中国香港
+Samiux  
+OSCE  OSCP  OSWP  
+二零二零年十月二日，中国香港  
 	
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
