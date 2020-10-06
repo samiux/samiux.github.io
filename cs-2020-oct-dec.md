@@ -7,5 +7,7 @@
 - [徐澤：大灣區發展的關鍵是工作機制 打通各要素首務是人 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7251567-%e5%be%90%e6%be%a4%ef%bc%9a%e5%a4%a7%e7%81%a3%e5%8d%80%e7%99%bc%e5%b1%95%e7%9a%84%e9%97%9c%e9%8d%b5%e6%98%af%e5%b7%a5%e4%bd%9c%e6%a9%9f%e5%88%b6-%e6%89%93%e9%80%9a%e5%90%84%e8%a6%81%e7%b4%a0%e9%a6%96)  
 - [中國代表26國發表聲明：反對美歐單邊強制措施 -- 大公文匯](https://www.tkww.hk/a/202010/06/AP5f7c13e0e4b057813e0c8889.html)  
 - [中國為什麼因諾貝爾獎而失落？ -- 深藍](https://www.bastillepost.com/hongkong/article/7254286-%e4%b8%ad%e5%9c%8b%e7%82%ba%e4%bb%80%e9%ba%bc%e5%9b%a0%e8%ab%be%e8%b2%9d%e7%88%be%e7%8d%8e%e8%80%8c%e5%a4%b1%e8%90%bd%ef%bc%9f)  
+- [特朗普火速出院以後……  -- 香港文匯網](https://mp.weixin.qq.com/s/SuRIAD3MQ-5aCoKVd6jkFg)  
+- [以言會友 | 對話香港知性才女及菲律賓學霸:愛國教育真的是「洗腦」嗎？ -- 香港文匯網](https://www.wenweipo.com/a/202010/06/AP5f7c61a1e4b04dd69b399f0c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
