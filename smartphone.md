@@ -20,4 +20,8 @@ Samiux
 OSCE  OSCP  OSWP  
 二零二零年七月廿八日，中国香港   
 
+## 参考：
+
+- [支付宝或微信绑定了银行卡，建议手机别保存这张“照片”！](https://mp.weixin.qq.com/s?__biz=Mzg5MzA4MjY5NQ==&mid=2247532485&idx=3&sn=88e9831c394b94f40c66e658b19dbd97&chksm=c03672edf741fbfb3467f02841793f2516dde29c38d3fdf06a3029b06afa1607b80212f519cd#rd)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
