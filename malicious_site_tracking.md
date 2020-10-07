@@ -4,7 +4,7 @@
 
 中秋国庆双节当日，友人传来一段信息和一幅画片，说其朋友传给他的。内容是有关「家居警察内联网」(POINT From Home) 的恶意网站连结，我当时随便看了一下，不以为然。其后查看我自家的防御入侵系统，看见了一条阻挡警告 (Blocking Alert)，是由我的家人点击的有关类似折扣优惠的连结，而其内容竟然和我友人的连结所得的一模一样。因此引发我的好奇心和职业病，决定来一次恶意网站大追蹤。
 
-当时的连结是 www[.]pidwxl[.]co 会跳转到以下网站 sdfsys[.]xyz，cnokla[.]xyz 及 thoughtminuteschool1[.]live 至 thoughtminuteschool15[.]live (任何其中之一)，或 surpriseseparatemy1[.]live 至 surpriseseparatemy15[.]live (任何其中之一)，相信其是存有恶意程式 (代码)，其代码是用 JavaScript 编写的。初步得知其会截取受害人曾经登入过的网站的 Cookie 及 Session ID，从而可以冒认受害人的身份登入该等网站。所截获的 Cookie 及 Session ID 相信将会转到 [.]xyz 或 [.]live 结尾的网站来给黑客查看和利用。其后再跳转到 mobile-global-apps-storage[.]life，最后会跳转到 Google Play 网站。
+当时的连结是 www[.]pidwxl[.]co 会跳转到以下网站 sdfsys[.]xyz，cnokla[.]xyz 及 thoughtminuteschool1[.]live 至 thoughtminuteschool15[.]live (任何其中之一)，或 surpriseseparatemy1[.]live 至 surpriseseparatemy15[.]live (任何其中之一)，相信其是存有恶意程式 (代码)，其代码是用 JavaScript 编写的。初步得知其会截取受害人曾经登入过的网站的 Cookie 及 Session ID，又或者是 Keylogger，从而可以冒认受害人的身份登入该等网站。所截获的 Cookie 及 Session ID 相信将会转到 [.]xyz 或 [.]live 结尾的网站来给黑客查看和利用。其后再跳转到 mobile-global-apps-storage[.]life，最后会跳转到 Google Play 网站。
 
 随着其恶意的意图被发现及被广传，其 [.]live 结尾的网站是会随时变更的，现在只发现两组吧了。
 
