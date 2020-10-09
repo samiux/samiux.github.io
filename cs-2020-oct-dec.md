@@ -8,7 +8,7 @@
 - [中國代表26國發表聲明：反對美歐單邊強制措施 -- 大公文匯](https://www.tkww.hk/a/202010/06/AP5f7c13e0e4b057813e0c8889.html)  
 - [中國為什麼因諾貝爾獎而失落？ -- 深藍](https://www.bastillepost.com/hongkong/article/7254286-%e4%b8%ad%e5%9c%8b%e7%82%ba%e4%bb%80%e9%ba%bc%e5%9b%a0%e8%ab%be%e8%b2%9d%e7%88%be%e7%8d%8e%e8%80%8c%e5%a4%b1%e8%90%bd%ef%bc%9f)  
 - [特朗普火速出院以後……  -- 香港文匯網](https://mp.weixin.qq.com/s/SuRIAD3MQ-5aCoKVd6jkFg)  
-- [以言會友 | 對話香港知性才女及菲律賓學霸:愛國教育真的是「洗腦」嗎？ -- 香港文匯網](https://www.wenweipo.com/a/202010/06/AP5f7c61a1e4b04dd69b399f0c.html)  
+- [以言會友 - 對話香港知性才女及菲律賓學霸:愛國教育真的是「洗腦」嗎？ -- 香港文匯網](https://www.wenweipo.com/a/202010/06/AP5f7c61a1e4b04dd69b399f0c.html)  
 - [78%美國人歸咎美國政府 是造成冠狀病毒流行元凶 -- deepthroat](https://www.bastillepost.com/hongkong/article/7258674-78%e7%be%8e%e5%9c%8b%e4%ba%ba%e6%ad%b8%e5%92%8e%e7%be%8e%e5%9c%8b%e6%94%bf%e5%ba%9c-%e6%98%af%e9%80%a0%e6%88%90%e5%86%a0%e7%8b%80%e7%97%85%e6%af%92%e6%b5%81%e8%a1%8c%e5%85%83%e5%87%b6)  
 - [一場新冠抗疫，盡見世界涼熱 -- 深藍](https://www.bastillepost.com/hongkong/article/7258758-%e4%b8%80%e5%a0%b4%e6%96%b0%e5%86%a0%e6%8a%97%e7%96%ab%ef%bc%8c%e7%9b%a1%e8%a6%8b%e4%b8%96%e7%95%8c%e6%b6%bc%e7%86%b1)  
 - [震懾「台獨」 解放軍機艦巡航2700次 -- 大公文匯](https://www.tkww.hk/a/202010/08/AP5f7e83f8e4b057813e0cc835.html)  
