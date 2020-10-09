@@ -27,7 +27,7 @@
 恶意网站和网络地址一览表 ：  
 www[.]pidwxl[.]co  
 sdfsys[.]xyz  
-cnokla[.]xyz  
+www[.]cnokla[.]xyz  
 thoughtminuteschool1[.]live  
 thoughtminuteschool2[.]live  
 thoughtminuteschool3[.]live  
@@ -64,5 +64,10 @@ mobile-global-apps-storage[.]life
 Samiux  
 OSCE  OSCP  OSWP  
 二零二零年十月二日，中国香港  
-	
+
+## 更新：
+
+### 二零二零年十月九日   零九時卅十分  
+- 新增了 noisesoftnumeral1.live 至 noisesoftnumeral15.live 网站，而其是介乎 2020-10-8 2311 至 2316 时注册，其拥有人的资料是隐藏的。  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
