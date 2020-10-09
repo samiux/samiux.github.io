@@ -20,5 +20,7 @@
 - [節後開門紅 中國股匯齊升 人民幣罕見補漲1000點子！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7271319-%e7%af%80%e5%be%8c%e9%96%8b%e9%96%80%e7%b4%85-%e4%b8%ad%e5%9c%8b%e8%82%a1%e5%8c%af%e9%bd%8a%e5%8d%87-%e4%ba%ba%e6%b0%91%e5%b9%a3%e7%bd%95%e8%a6%8b%e8%a3%9c%e6%bc%b21000%e9%bb%9e%e5%ad%90%ef%bc%81)  
 - [人民幣漲幅平穩，而美元有望跌至新低！ -- 巴士的報](https://www.bastillepost.com/hongkong/article/7224459-%e4%ba%ba%e6%b0%91%e5%b9%a3%e6%bc%b2%e5%b9%85%e5%b9%b3%e7%a9%a9%ef%bc%8c%e8%80%8c%e7%be%8e%e5%85%83%e6%9c%89%e6%9c%9b%e8%b7%8c%e8%87%b3%e6%96%b0%e4%bd%8e%ef%bc%81)  
 - [識睇要睇留言 內媒報香港成為最慘旅遊城市 惹起大迴響 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7265430-%e8%ad%98%e7%9d%87%e8%a6%81%e7%9d%87%e7%95%99%e8%a8%80-%e5%85%a7%e5%aa%92%e5%a0%b1%e9%a6%99%e6%b8%af%e6%88%90%e7%82%ba%e6%9c%80%e6%85%98%e6%97%85%e9%81%8a%e5%9f%8e%e5%b8%82-%e6%83%b9%e8%b5%b7%e5%a4%a7)  
+- [BNO的鬼主意 -- 大公文匯](https://www.tkww.hk/a/202010/09/AP5f7fabf2e4b057813e0ce45c.html)  
+- [攬炒污名健康碼 四大謊言全篤爆 -- 大公文匯](https://www.tkww.hk/a/202009/18/AP5f6400eee4b0eab60bab1417.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
