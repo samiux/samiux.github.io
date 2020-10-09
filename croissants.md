@@ -64,7 +64,7 @@ __Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbp
 
 ## MAIN COMPONENTS
 
-- Suricata 5.0.3  
+- Suricata 6.0.0  
 - Hyperscan 5.2.1 (Ubuntu 20.04)  
 - netdata (Network Based only)  
 
