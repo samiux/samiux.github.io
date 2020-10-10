@@ -22,5 +22,6 @@
 - [識睇要睇留言 內媒報香港成為最慘旅遊城市 惹起大迴響 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7265430-%e8%ad%98%e7%9d%87%e8%a6%81%e7%9d%87%e7%95%99%e8%a8%80-%e5%85%a7%e5%aa%92%e5%a0%b1%e9%a6%99%e6%b8%af%e6%88%90%e7%82%ba%e6%9c%80%e6%85%98%e6%97%85%e9%81%8a%e5%9f%8e%e5%b8%82-%e6%83%b9%e8%b5%b7%e5%a4%a7)  
 - [BNO的鬼主意 -- 大公文匯](https://www.tkww.hk/a/202010/09/AP5f7fabf2e4b057813e0ce45c.html)  
 - [攬炒污名健康碼 四大謊言全篤爆 -- 大公文匯](https://www.tkww.hk/a/202009/18/AP5f6400eee4b0eab60bab1417.html)  
+- [耿爽:美國在國際安全領域倒行逆施的十個事實 -- 文匯報](https://www.wenweipo.com/a/202010/10/AP5f812ecfe4b01eeef25c3d4c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
