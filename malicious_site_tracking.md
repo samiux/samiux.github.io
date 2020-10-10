@@ -85,13 +85,13 @@ OSCE  OSCP  OSWP
   5[.]189[.]217[.]31  
   5[.]189[.]217[.]8  
 - 网站 mobile-global-apps-storages[.]life 的网络地址为 185[.]50[.]248[.]98。
-- 网站的浏览次序是：
-  http://www[.]pidwxl[.]co  
-  http://www[.]cnokla[.]xyz  
-  http://sdfsys[.]xyz  
-  http://sdfsys[.]xyz/media/mainstream/pixel[.]html  
-  https://noisesoftnumeral[1-15][.]live  
-  https://mobile-global-apps-storages[.]life  
-  https://play[.]google[.]com  
+- 网站的浏览次序是：  
+  http[://]www[.]pidwxl[.]co  
+  http[://]www[.]cnokla[.]xyz  
+  http[://]sdfsys[.]xyz  
+  http[://]sdfsys[.]xyz/media/mainstream/pixel[.]html  
+  https[://]noisesoftnumeral[1-15][.]live  
+  https[://]mobile-global-apps-storages[.]life  
+  https[://]play[.]google[.]com  
   
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
