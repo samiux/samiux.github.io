@@ -67,7 +67,31 @@ OSCE  OSCP  OSWP
 
 ## 更新：
 
-### 二零二零年十月九日   零九時卅十分  
+### 二零二零年十月九日   零九時卅分  
 - 新增了 noisesoftnumeral1.live 至 noisesoftnumeral15.live 网站，而其是介乎 2020-10-8 2311 至 2316 时注册，其拥有人的资料是隐藏的。  
 
+### 二零二零年十月十日   零九時正
+
+- 网站 thoughtminuteschool1[.]live 至 thoughtminuteschool15[.]live 和 surpriseseparatemy1[.]live 至 surpriseseparatey15[.]live 已经被取消了，取而代之是 noisesoftnumeral1[.]live 至 noisesoftnumeral15[.]live。  
+- 网站 noisesoftnumeral1[.]live 至 noisesoftnumeral15[.]live 的网络地址为：  
+  45[.]150[.]206[.]251  
+  5[.]189[.]217[.]20  
+  5[.]189[.]217[.]21  
+  5[.]189[.]217[.]22  
+  5[.]189[.]217[.]23  
+  5[.]189[.]217[.]26  
+  5[.]189[.]217[.]28  
+  5[.]189[.]217[.]30  
+  5[.]189[.]217[.]31  
+  5[.]189[.]217[.]8  
+- 网站 mobile-global-apps-storages[.]life 的网络地址为 185[.]50[.]248[.]98。
+- 网站的浏览次序是：
+  http://www[.]pidwxl[.]co  
+  http://www[.]cnokla[.]xyz  
+  http://sdfsys[.]xyz  
+  http://sdfsys[.]xyz/media/mainstream/pixel[.]html  
+  https://noisesoftnumeral[1-15][.]live  
+  https://mobile-global-apps-storages[.]life  
+  https://play[.]google[.]com  
+  
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
