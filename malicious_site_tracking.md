@@ -84,7 +84,7 @@ OSCE  OSCP  OSWP
   5[.]189[.]217[.]30  
   5[.]189[.]217[.]31  
   5[.]189[.]217[.]8  
-- 网站 mobile-global-apps-storages[.]life 的网络地址为 185[.]50[.]248[.]98。
+- 网站 mobile-global-apps-storages[.]life 的网络地址更改为 185[.]50[.]248[.]98。
 - 网站的浏览次序是：  
   http[://]www[.]pidwxl[.]co  
   http[://]www[.]cnokla[.]xyz  
