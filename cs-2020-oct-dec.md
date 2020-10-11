@@ -23,5 +23,6 @@
 - [BNO的鬼主意 -- 大公文匯](https://www.tkww.hk/a/202010/09/AP5f7fabf2e4b057813e0ce45c.html)  
 - [攬炒污名健康碼 四大謊言全篤爆 -- 大公文匯](https://www.tkww.hk/a/202009/18/AP5f6400eee4b0eab60bab1417.html)  
 - [耿爽:美國在國際安全領域倒行逆施的十個事實 -- 文匯報](https://www.wenweipo.com/a/202010/10/AP5f812ecfe4b01eeef25c3d4c.html)  
+- [中國留學生原來出國前可以免費打新冠疫苗 香港幾時有得打？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7279222-%e4%b8%ad%e5%9c%8b%e7%95%99%e5%ad%b8%e7%94%9f%e5%8e%9f%e4%be%86%e5%87%ba%e5%9c%8b%e5%89%8d%e5%8f%af%e4%bb%a5%e5%85%8d%e8%b2%bb%e6%89%93%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97-%e9%a6%99%e6%b8%af%e5%b9%be)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
