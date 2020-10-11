@@ -94,7 +94,7 @@ OSCE  OSCP  OSWP
   https[://]mobile-global-apps-storages[.]life  
   https[://]play[.]google[.]com  
   
-  ### 二零二零年十月十一日  十八时卅分
+### 二零二零年十月十一日  十八时卅分
 
 - [.]live 网站域名又转变了，我建议将 5[.]189[.]217[.]0/24 、45[.]150[.]206[.]251 、www[.]pidwxl[.]co 、sdfsys[.]xyz 、www[.]cnokla[.]xyz 、185[.]50[.]248[.]98 直接封锁掉了！  
   
