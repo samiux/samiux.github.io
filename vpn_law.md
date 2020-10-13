@@ -21,6 +21,6 @@ OSCE  OSCP  OSWP
 
 - [號稱零 log 香港 VPN　洩 2,000 萬用戶資料任人睇](https://www.pcmarket.com.hk/%e8%99%9f%e7%a8%b1%e9%9b%b6log%e9%a6%99%e6%b8%afvpn-%e6%b4%a92000%e8%90%ac%e7%94%a8%e6%88%b6%e8%b3%87%e6%96%99%e4%bb%bb%e4%ba%ba%e7%9d%87/)
 - [Report: No-Log VPNs Exposed Users’ Logs and Personal Details for All to See](https://www.vpnmentor.com/blog/report-free-vpns-leak/)
-
+- [Hackers used VPN flaws to access US govt elections support systems --  Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-used-vpn-flaws-to-access-us-govt-elections-support-systems/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
