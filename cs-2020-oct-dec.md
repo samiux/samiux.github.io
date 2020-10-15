@@ -27,5 +27,6 @@
 - [深圳成功有DIET 香港還有什麼 ? -- 盧永雄](https://www.bastillepost.com/hongkong/article/7284963-%e6%b7%b1%e5%9c%b3%e6%88%90%e5%8a%9f%e6%9c%89diet-%e9%a6%99%e6%b8%af%e9%82%84%e6%9c%89%e4%bb%80%e9%ba%bc)  
 - [深圳先行示範區方案出爐 11大要點速看 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7283142-%e6%b7%b1%e5%9c%b3%e5%85%88%e8%a1%8c%e7%a4%ba%e7%af%84%e5%8d%80%e6%96%b9%e6%a1%88%e5%87%ba%e7%88%90-11%e5%a4%a7%e8%a6%81%e9%bb%9e%e9%80%9f%e7%9c%8b)  
 - [黃金周拉開了香港與內地的落差 -- 周春玲](https://www.bastillepost.com/hongkong/article/7285679-%e9%bb%83%e9%87%91%e5%91%a8%e6%8b%89%e9%96%8b%e4%ba%86%e9%a6%99%e6%b8%af%e8%88%87%e5%85%a7%e5%9c%b0%e7%9a%84%e8%90%bd%e5%b7%ae)  
+- [【特區40年】數字人民幣露出水面 央行的解畫明白多一些 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7297025-%e3%80%90%e7%89%b9%e5%8d%8040%e5%b9%b4%e3%80%91%e6%95%b8%e5%ad%97%e4%ba%ba%e6%b0%91%e5%b9%a3%e9%9c%b2%e5%87%ba%e6%b0%b4%e9%9d%a2-%e5%a4%ae%e8%a1%8c%e7%9a%84%e8%a7%a3%e7%95%ab%e6%98%8e%e7%99%bd)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
