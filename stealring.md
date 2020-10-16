@@ -42,5 +42,6 @@ OSCE  OSCP  OSWP
 - [警再拘2男 涉煽惑他人參與10.1非法集結 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7225730-%e8%ad%a6%e5%86%8d%e6%8b%982%e4%ba%ba-%e6%b6%89%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e5%8f%83%e8%88%87%e5%8d%81%e4%b8%80%e9%9d%9e%e6%b3%95%e9%9b%86%e7%b5%90)  
 - [Russian Who Hacked LinkedIn, Dropbox Sentenced to 7 Years in Prison -- The Hacker News](https://thehackernews.com/2020/10/russian-linkedin-hacker.html)  
 - [涉起底公布警員親友資料 電訊公司職員4罪成還押候判 --  星島日報](https://std.stheadline.com/realtime/article/1393348/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%B6%89%E8%B5%B7%E5%BA%95%E5%85%AC%E5%B8%83%E8%AD%A6%E5%93%A1%E8%A6%AA%E5%8F%8B%E8%B3%87%E6%96%99-%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E8%81%B7%E5%93%A14%E7%BD%AA%E6%88%90%E9%82%84%E6%8A%BC%E5%80%99%E5%88%A4)  
+- [警檢逾600段兒童色情片 拘補習社負責人病人助理等6人 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7311352-%e8%ad%a6%e6%96%b9%e6%8b%986%e7%94%b7%e6%b6%89%e8%a3%9c%e7%bf%92%e7%a4%be%e8%b2%a0%e8%b2%ac%e4%ba%ba%e7%97%85%e4%ba%ba%e5%8a%a9%e7%90%86-%e6%aa%a2%e9%80%be600%e6%ae%b5%e5%85%92%e7%ab%a5%e8%89%b2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
