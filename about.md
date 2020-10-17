@@ -2,7 +2,7 @@
 
 # **Who am I?**
 
-Samiux is an Information Security Enthusiast.  He is OSCE, OSCP and OSWP.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.<br>
+Samiux is an Information Security Enthusiast.  He is OSCP, OSWP and OSCE.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.<br>
 
 His slogan are :
 
@@ -64,6 +64,11 @@ Noob (0%) -> Script Kiddie (5%) -> **Hacker (20%)** -> Pro Hacker (45%) -> Elite
 ![](https://www.hackthebox.eu/badge/image/78863)
 
 Participants are not allowed to release any writeup or spoiler to the public when the boxes are not retired and they are still active.
+
+### Reference
+
+- [New Developments: Retiring CTP and Introducing New Courses](https://www.offensive-security.com/offsec/retiring-ctp-intro-new-courses/)  
+- [OSCE（Offensive Security Certified Expert）考证全攻略](https://www.mdeditor.tw/pl/2XS1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
