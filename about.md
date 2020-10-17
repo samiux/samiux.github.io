@@ -49,7 +49,7 @@ The following certificates are issued by [Offensive Security](https://www.offens
 
 - [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)  
 - [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)  
-- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/) Retired on Oct 15, 2020 but the title can be kept  
+- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)      Retired on Oct 15, 2020 but the title can be kept  
 
 [Offensive Security - Try Harder! with song](https://www.offensive-security.com/offsec/say-try-harder/)
 
@@ -68,7 +68,7 @@ Participants are not allowed to release any writeup or spoiler to the public whe
 ### See Also
 
 - [New Developments: Retiring CTP and Introducing New Courses](https://www.offensive-security.com/offsec/retiring-ctp-intro-new-courses/)  
-- [OSCE（Offensive Security Certified Expert）考证全攻略](https://www.mdeditor.tw/pl/2XS1)  
+- [OSCE（Offensive Security Certified Expert）考证全攻略](https://www.freebuf.com/news/206041.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
