@@ -47,9 +47,9 @@ He can be reached at :
 
 The following certificates are issued by [Offensive Security](https://www.offensive-security.com)
 
-- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)
-- [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
-- [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)
+- [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)  
+- [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)  
+- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/) Retired on Oct 15, 2020 but the title can be kept  
 
 [Offensive Security - Try Harder! with song](https://www.offensive-security.com/offsec/say-try-harder/)
 
