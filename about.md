@@ -65,7 +65,7 @@ Noob (0%) -> Script Kiddie (5%) -> **Hacker (20%)** -> Pro Hacker (45%) -> Elite
 
 Participants are not allowed to release any writeup or spoiler to the public when the boxes are not retired and they are still active.
 
-### Reference
+### See Also
 
 - [New Developments: Retiring CTP and Introducing New Courses](https://www.offensive-security.com/offsec/retiring-ctp-intro-new-courses/)  
 - [OSCE（Offensive Security Certified Expert）考证全攻略](https://www.mdeditor.tw/pl/2XS1)  
