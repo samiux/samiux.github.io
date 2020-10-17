@@ -35,5 +35,6 @@
 - [數字人民幣與元世祖忽必烈 -- 深藍](https://www.bastillepost.com/hongkong/article/7311216-%e6%95%b8%e5%ad%97%e4%ba%ba%e6%b0%91%e5%b9%a3%e8%88%87%e5%85%83%e4%b8%96%e7%a5%96%e5%bf%bd%e5%bf%85%e7%83%88)  
 - [說深圳，也說諾貝爾經濟學獎 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7316357-%e8%aa%aa%e6%b7%b1%e5%9c%b3%ef%bc%8c%e4%b9%9f%e8%aa%aa%e8%ab%be%e8%b2%9d%e7%88%be%e7%b6%93%e6%bf%9f%e5%ad%b8%e7%8d%8e)  
 - [美國現階段的沮喪 -- 深藍](https://www.bastillepost.com/hongkong/article/7298081-%e7%be%8e%e5%9c%8b%e7%8f%be%e9%9a%8e%e6%ae%b5%e7%9a%84%e6%b2%ae%e5%96%aa)  
+- [《前海城市新中心全球宣傳片》 -- 香港文匯報](https://www.wenweipo.com/a/202010/16/AP5f893bede4b00e3df3e78ffb.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
