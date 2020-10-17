@@ -34,5 +34,6 @@
 - [鄭永年：深圳抓住「超級全球化」的機會 香港卻為「認同政治」所苦 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7315398-%e9%84%ad%e6%b0%b8%e5%b9%b4%ef%bc%9a%e6%b7%b1%e5%9c%b3%e6%8a%93%e4%bd%8f%e3%80%8c%e8%b6%85%e7%b4%9a%e5%85%a8%e7%90%83%e5%8c%96%e3%80%8d%e7%9a%84%e6%a9%9f%e6%9c%83-%e9%a6%99%e6%b8%af%e5%8d%bb%e7%82%ba)  
 - [數字人民幣與元世祖忽必烈 -- 深藍](https://www.bastillepost.com/hongkong/article/7311216-%e6%95%b8%e5%ad%97%e4%ba%ba%e6%b0%91%e5%b9%a3%e8%88%87%e5%85%83%e4%b8%96%e7%a5%96%e5%bf%bd%e5%bf%85%e7%83%88)  
 - [說深圳，也說諾貝爾經濟學獎 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7316357-%e8%aa%aa%e6%b7%b1%e5%9c%b3%ef%bc%8c%e4%b9%9f%e8%aa%aa%e8%ab%be%e8%b2%9d%e7%88%be%e7%b6%93%e6%bf%9f%e5%ad%b8%e7%8d%8e)  
+- [美國現階段的沮喪 -- 深藍](https://www.bastillepost.com/hongkong/article/7298081-%e7%be%8e%e5%9c%8b%e7%8f%be%e9%9a%8e%e6%ae%b5%e7%9a%84%e6%b2%ae%e5%96%aa)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
