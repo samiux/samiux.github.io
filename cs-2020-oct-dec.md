@@ -32,5 +32,7 @@
 - [解放軍閩粵海域登陸演練 -- 大公文匯](https://www.tkww.hk/a/202010/12/AP5f83bbe1e4b057813e0d5899.html)  
 - [人民日報「勿謂言之不預也」文章 熱過iPhone12 央視再播海軍陸戰隊搶灘短片 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7310620-%e4%ba%ba%e6%b0%91%e6%97%a5%e5%a0%b1%e3%80%8c%e5%8b%bf%e8%ac%82%e8%a8%80%e4%b9%8b%e4%b8%8d%e9%a0%90%e4%b9%9f%e3%80%8d%e6%96%87%e7%ab%a0-%e7%86%b1%e9%81%8eiphone12-%e5%a4%ae%e8%a6%96%e5%86%8d%e6%92%ad)  
 - [鄭永年：深圳抓住「超級全球化」的機會 香港卻為「認同政治」所苦 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7315398-%e9%84%ad%e6%b0%b8%e5%b9%b4%ef%bc%9a%e6%b7%b1%e5%9c%b3%e6%8a%93%e4%bd%8f%e3%80%8c%e8%b6%85%e7%b4%9a%e5%85%a8%e7%90%83%e5%8c%96%e3%80%8d%e7%9a%84%e6%a9%9f%e6%9c%83-%e9%a6%99%e6%b8%af%e5%8d%bb%e7%82%ba)  
+- [數字人民幣與元世祖忽必烈 -- 深藍](https://www.bastillepost.com/hongkong/article/7311216-%e6%95%b8%e5%ad%97%e4%ba%ba%e6%b0%91%e5%b9%a3%e8%88%87%e5%85%83%e4%b8%96%e7%a5%96%e5%bf%bd%e5%bf%85%e7%83%88)  
+- [說深圳，也說諾貝爾經濟學獎 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7316357-%e8%aa%aa%e6%b7%b1%e5%9c%b3%ef%bc%8c%e4%b9%9f%e8%aa%aa%e8%ab%be%e8%b2%9d%e7%88%be%e7%b6%93%e6%bf%9f%e5%ad%b8%e7%8d%8e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
