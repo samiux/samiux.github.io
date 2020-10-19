@@ -5,6 +5,7 @@
 - [广东音乐之声](https://www.qingting.fm/radios/1260/)  
 - [CCTV中国中央电视台](https://www.youtube.com/user/zhongguohaogequ)  
 - [CCTV纪录](https://www.youtube.com/channel/UCAYkj2Fz9EvAe2fGJEGMXnQ)  
+- [CCTV国防军事频道](https://tv.cctv.com/cctv7/index.shtml)  
 - [CCTV-7 国防军事](https://tv.cctv.com/live/cctv7/)  
 - [军迷天下](https://www.youtube.com/user/militarycntv)  
 - [CCTV挑战不可能官方频道](https://www.youtube.com/channel/UC3HLhJGcc_0Vse2UncGnxcQ)  
