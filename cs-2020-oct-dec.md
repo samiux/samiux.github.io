@@ -36,5 +36,8 @@
 - [說深圳，也說諾貝爾經濟學獎 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7316357-%e8%aa%aa%e6%b7%b1%e5%9c%b3%ef%bc%8c%e4%b9%9f%e8%aa%aa%e8%ab%be%e8%b2%9d%e7%88%be%e7%b6%93%e6%bf%9f%e5%ad%b8%e7%8d%8e)  
 - [美國現階段的沮喪 -- 深藍](https://www.bastillepost.com/hongkong/article/7298081-%e7%be%8e%e5%9c%8b%e7%8f%be%e9%9a%8e%e6%ae%b5%e7%9a%84%e6%b2%ae%e5%96%aa)  
 - [《前海城市新中心全球宣傳片》 -- 香港文匯報](https://www.wenweipo.com/a/202010/16/AP5f893bede4b00e3df3e78ffb.html)  
+- [軍情匯|台媒炒作陸東南沿海部署東風-17 -- 大公文匯](https://www.tkww.hk/a/202010/19/AP5f8cf56be4b058f22fe9a0de.html)  
+- [全域「海上蛟龍」 三棲立體奪島 -- 大公文匯](https://www.tkww.hk/a/202010/19/AP5f8cf355e4b058f22fe9a016.html)  
+- [大量印度訂單轉到中國 紡織業久違火爆！業內：20年沒遇到過 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7323007-%e5%a4%a7%e9%87%8f%e5%8d%b0%e5%ba%a6%e8%a8%82%e5%96%ae%e8%bd%89%e5%88%b0%e4%b8%ad%e5%9c%8b-%e7%b4%a1%e7%b9%94%e6%a5%ad%e4%b9%85%e9%81%95%e7%81%ab%e7%88%86%ef%bc%81%e6%a5%ad%e5%85%a7%ef%bc%9a20)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
