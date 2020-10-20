@@ -42,5 +42,6 @@
 - [馬雲「新零售」概念成現實 阿里巴巴增持高鑫 未來世界5大新趨勢逐一出現 -- 尚風](https://www.bastillepost.com/hongkong/article/7324769-%e9%a6%ac%e9%9b%b2%e3%80%8c%e6%96%b0%e9%9b%b6%e5%94%ae%e3%80%8d%e6%a6%82%e5%bf%b5%e6%88%90%e7%8f%be%e5%af%a6-%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e5%a2%9e%e6%8c%81%e9%ab%98%e9%91%ab-%e6%9c%aa%e4%be%86)  
 - [集結號︰中美量子科技戰打響 -- 深藍](https://www.bastillepost.com/hongkong/article/7324635-%e9%9b%86%e7%b5%90%e8%99%9f%ef%b8%b0%e4%b8%ad%e7%be%8e%e9%87%8f%e5%ad%90%e7%a7%91%e6%8a%80%e6%88%b0%e6%89%93%e9%9f%bf)  
 - [中國第三季度GDP增4.9% 第4季將會提速 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7324831-%e4%b8%ad%e5%9c%8b%e7%ac%ac%e4%b8%89%e5%ad%a3%e5%ba%a6gdp%e5%a2%9e4-9-%e7%ac%ac4%e5%ad%a3%e5%b0%87%e6%9c%83%e6%8f%90%e9%80%9f)  
+- [IMF數據：按「購買力平價」 中國超越美國 成世界最大經濟體 -- deepthroat](https://www.bastillepost.com/hongkong/article/7329365-imf%e6%95%b8%e6%93%9a%ef%bc%9a%e6%8c%89%e3%80%8c%e8%b3%bc%e8%b2%b7%e5%8a%9b%e5%b9%b3%e5%83%b9%e3%80%8d-%e4%b8%ad%e5%9c%8b%e8%b6%85%e8%b6%8a%e7%be%8e%e5%9c%8b-%e6%88%90%e4%b8%96%e7%95%8c%e6%9c%80)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
