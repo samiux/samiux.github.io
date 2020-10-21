@@ -45,5 +45,9 @@
 - [IMF數據：按「購買力平價」 中國超越美國 成世界最大經濟體 -- deepthroat](https://www.bastillepost.com/hongkong/article/7329365-imf%e6%95%b8%e6%93%9a%ef%bc%9a%e6%8c%89%e3%80%8c%e8%b3%bc%e8%b2%b7%e5%8a%9b%e5%b9%b3%e5%83%b9%e3%80%8d-%e4%b8%ad%e5%9c%8b%e8%b6%85%e8%b6%8a%e7%be%8e%e5%9c%8b-%e6%88%90%e4%b8%96%e7%95%8c%e6%9c%80)  
 - [「中國GDP增速轉正」Twitter上瘋傳 美網民大罵︰「特朗普讓中國再次偉大！」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7329764-%e3%80%8c%e4%b8%ad%e5%9c%8bgdp%e5%a2%9e%e9%80%9f%e8%bd%89%e6%ad%a3%e3%80%8dtwitter%e4%b8%8a%e7%98%8b%e5%82%b3-%e7%be%8e%e7%b6%b2%e6%b0%91%e5%a4%a7%e7%bd%b5%ef%bc%9a%e3%80%8c%e7%89%b9%e6%9c%97%e6%99%ae)  
 - [駱惠寧︰香港融入國家發展大局並非「內地化」 提醒機不可失時不再來 -- Ariel](https://www.bastillepost.com/hongkong/article/7333411-%e9%a7%b1%e6%83%a0%e5%af%a7%ef%bc%9a%e9%a6%99%e6%b8%af%e8%9e%8d%e5%85%a5%e5%9c%8b%e5%ae%b6%e7%99%bc%e5%b1%95%e5%a4%a7%e5%b1%80%e4%b8%a6%e9%9d%9e%e3%80%8c%e5%85%a7%e5%9c%b0%e5%8c%96%e3%80%8d-%e6%8f%90)  
+- [美國要不惜一切代價，擊敗中國 -- 深藍](https://www.bastillepost.com/hongkong/article/7337049-%e7%be%8e%e5%9c%8b%e8%a6%81%e4%b8%8d%e6%83%9c%e4%b8%80%e5%88%87%e4%bb%a3%e5%83%b9%ef%bc%8c%e6%93%8a%e6%95%97%e4%b8%ad%e5%9c%8b)  
+- [人民幣年底前再升3至4% 4大因素支持人仔匯價 -- 尚風](https://www.bastillepost.com/hongkong/article/7336816-%e4%ba%ba%e6%b0%91%e5%b9%a3%e5%b9%b4%e5%ba%95%e5%89%8d%e5%86%8d%e5%8d%873%e8%87%b34-4%e5%a4%a7%e5%9b%a0%e7%b4%a0%e6%94%af%e6%8c%81%e4%ba%ba%e4%bb%94%e5%8c%af%e5%83%b9)  
+- [劉鶴：中國經濟出現新趨勢 堅持全面對外開放 -- 大公文匯](https://www.tkww.hk/a/202010/21/AP5f8ff0e4e4b073c5ef86d11a.html)  
+- [美國將在月球建4G網絡 -- 大公文匯](https://www.tkww.hk/a/202010/21/AP5f8f9a13e4b073c5ef86c61d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
