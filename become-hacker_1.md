@@ -20,6 +20,10 @@ Samiux
 OSCE  OSCP  OSWP  
 寫於二零一九年八月廿八日，中國香港  
 
+## 更多资讯：
+
+- [Penetration Testing and Low-Cost Freelancing -- sophron](https://sophron.github.io/lowcost-freelancing-pentest/)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 
