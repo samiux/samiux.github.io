@@ -49,5 +49,8 @@
 - [人民幣年底前再升3至4% 4大因素支持人仔匯價 -- 尚風](https://www.bastillepost.com/hongkong/article/7336816-%e4%ba%ba%e6%b0%91%e5%b9%a3%e5%b9%b4%e5%ba%95%e5%89%8d%e5%86%8d%e5%8d%873%e8%87%b34-4%e5%a4%a7%e5%9b%a0%e7%b4%a0%e6%94%af%e6%8c%81%e4%ba%ba%e4%bb%94%e5%8c%af%e5%83%b9)  
 - [劉鶴：中國經濟出現新趨勢 堅持全面對外開放 -- 大公文匯](https://www.tkww.hk/a/202010/21/AP5f8ff0e4e4b073c5ef86d11a.html)  
 - [美國將在月球建4G網絡 -- 大公文匯](https://www.tkww.hk/a/202010/21/AP5f8f9a13e4b073c5ef86c61d.html)  
+- [內地出台惠港政策 港澳律師考核後可北上大灣區執業 -- 大公文匯](https://www.tkww.hk/a/202010/22/AP5f917536e4b073c5ef86ff21.html)  
+- [俄羅斯授予斯諾登永久居留權 -- 大公文匯](https://www.tkww.hk/a/202010/22/AP5f917eade4b073c5ef870031.html)  
+- [《世界是平的》作者弗里曼： 新冠沒有成為中國的切爾諾貝利，卻成了美國的滑鐵盧 -- deepthroat](https://www.bastillepost.com/hongkong/article/7343356-%e3%80%8a%e4%b8%96%e7%95%8c%e6%98%af%e5%b9%b3%e7%9a%84%e3%80%8b%e4%bd%9c%e8%80%85%e5%bc%97%e9%87%8c%e6%9b%bc%ef%bc%9a-%e6%96%b0%e5%86%a0%e6%b2%92%e6%9c%89%e6%88%90%e7%82%ba%e4%b8%ad%e5%9c%8b%e7%9a%84)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
