@@ -46,6 +46,7 @@
 - [纪录片《同心战“疫”》](https://samiux.blogspot.com/2020/09/blog-post.html)  
 - [纪录片《大数据时代》](https://samiux.blogspot.com/2020/09/blog-post_12.html)  
 - [纪录片《超级工程Ⅲ》](https://samiux.blogspot.com/2020/09/blog-post_5.html)  
+- [《北斗》-- 全景式介绍中国北斗卫星导航系统](https://samiux.blogspot.com/2020/10/blog-post_66.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
