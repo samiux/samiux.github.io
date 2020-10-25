@@ -53,5 +53,9 @@
 - [俄羅斯授予斯諾登永久居留權 -- 大公文匯](https://www.tkww.hk/a/202010/22/AP5f917eade4b073c5ef870031.html)  
 - [《世界是平的》作者弗里曼： 新冠沒有成為中國的切爾諾貝利，卻成了美國的滑鐵盧 -- deepthroat](https://www.bastillepost.com/hongkong/article/7343356-%e3%80%8a%e4%b8%96%e7%95%8c%e6%98%af%e5%b9%b3%e7%9a%84%e3%80%8b%e4%bd%9c%e8%80%85%e5%bc%97%e9%87%8c%e6%9b%bc%ef%bc%9a-%e6%96%b0%e5%86%a0%e6%b2%92%e6%9c%89%e6%88%90%e7%82%ba%e4%b8%ad%e5%9c%8b%e7%9a%84)  
 - [疫下深圳灣口岸過關指南 -- 大公文匯](https://www.tkww.hk/a/202010/23/AP5f9245a1e4b073c5ef871650.html)  
+- [港珠澳大橋建海上搜救中心 完善安全預警機制 -- 大公文匯](https://www.tkww.hk/a/202010/25/AP5f953b80e4b073c5ef876876.html)  
+- [李奇微：中國人不搜俘虜口袋 -- 大公文匯](https://www.tkww.hk/a/202010/25/AP5f95068ee4b073c5ef876121.html)  
+- [超5000萬農民脫貧 收入年均增幅30.2% -- 大公文匯](https://www.tkww.hk/a/202010/25/AP5f94c3dfe4b073c5ef875690.html)  
+- [全球最大對沖基金老闆: 不要對中國崛起視而不見 偏見令人盲目 錯失太多機會 -- deepthroat](https://www.bastillepost.com/hongkong/article/7357510-%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e5%b0%8d%e6%b2%96%e5%9f%ba%e9%87%91%e8%80%81%e9%97%86-%e4%b8%8d%e8%a6%81%e5%b0%8d%e4%b8%ad%e5%9c%8b%e5%b4%9b%e8%b5%b7%e8%a6%96%e8%80%8c%e4%b8%8d%e8%a6%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
