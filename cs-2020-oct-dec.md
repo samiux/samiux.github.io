@@ -67,5 +67,6 @@
 - [如果特朗普輸掉大選...... -- 大公文匯](https://mp.weixin.qq.com/s/xl4CyfuJfWUBHd2GCN_1hQ)  
 - [雪崩了 我們還不知道嗎? -- 盧永雄](https://www.bastillepost.com/hongkong/article/7363062-%e9%9b%aa%e5%b4%a9%e4%ba%86-%e6%88%91%e5%80%91%e9%82%84%e4%b8%8d%e7%9f%a5%e9%81%93%e5%97%8e)  
 - [調查報道 - 潘曉穎母疑受「黃師」操弄情緒失控 -- 大公文匯](https://www.tkww.hk/a/202010/27/AP5f976db6e4b073c5ef87a51b.html)  
+- [當各大民調都估拜登勝出時 聽聽特朗普當選的10理由 -- deepthroat](https://www.bastillepost.com/hongkong/article/7367149-%e7%95%b6%e5%90%84%e5%a4%a7%e6%b0%91%e8%aa%bf%e9%83%bd%e4%bc%b0%e6%8b%9c%e7%99%bb%e5%8b%9d%e5%87%ba%e6%99%82-%e8%81%bd%e8%81%bd%e7%89%b9%e6%9c%97%e6%99%ae%e7%95%b6%e9%81%b8%e7%9a%8410%e7%90%86)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
