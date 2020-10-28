@@ -68,5 +68,6 @@
 - [雪崩了 我們還不知道嗎? -- 盧永雄](https://www.bastillepost.com/hongkong/article/7363062-%e9%9b%aa%e5%b4%a9%e4%ba%86-%e6%88%91%e5%80%91%e9%82%84%e4%b8%8d%e7%9f%a5%e9%81%93%e5%97%8e)  
 - [調查報道 - 潘曉穎母疑受「黃師」操弄情緒失控 -- 大公文匯](https://www.tkww.hk/a/202010/27/AP5f976db6e4b073c5ef87a51b.html)  
 - [當各大民調都估拜登勝出時 聽聽特朗普當選的10理由 -- deepthroat](https://www.bastillepost.com/hongkong/article/7367149-%e7%95%b6%e5%90%84%e5%a4%a7%e6%b0%91%e8%aa%bf%e9%83%bd%e4%bc%b0%e6%8b%9c%e7%99%bb%e5%8b%9d%e5%87%ba%e6%99%82-%e8%81%bd%e8%81%bd%e7%89%b9%e6%9c%97%e6%99%ae%e7%95%b6%e9%81%b8%e7%9a%8410%e7%90%86)  
+- [揭新疆喀什發現百多宗無症狀者的來龍去脈 可見內地有效控制疫情背後：全民檢測科學追蹤 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7372106-%e6%8f%ad%e6%96%b0%e7%96%86%e5%96%80%e4%bb%80%e7%99%bc%e7%8f%be%e7%99%be%e5%a4%9a%e5%ae%97%e7%84%a1%e7%97%87%e7%8b%80%e8%80%85%e7%9a%84%e4%be%86%e9%be%8d%e5%8e%bb%e8%84%88-%e5%8f%af%e8%a6%8b%e5%85%a7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
