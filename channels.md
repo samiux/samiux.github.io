@@ -21,6 +21,7 @@
 - [Weibo Official Channel](https://www.youtube.com/channel/UCpU9eMYJE6o2CnqDmKF0g8A)  
 - [中文频道](https://www.youtube.com/channel/UCRTGWdUUzPelVPTLKd5OhQA)  
 - [時事觀察](http://www.singtao.tv/main/category/newsreport/situation/)  
+- [有聲專欄 -- Speakout 港人講地](https://www.youtube.com/playlist?list=PL50ryNxlMBN5kwOJ_DvTeNXhBrQRbm9N6)  
 - [大樹與木頭 ‧Y2K Channel](https://www.youtube.com/channel/UCFfLWSnUCblI4Lpsph7H1lA)  
 - [陳穎欣Joephy Chan](https://www.youtube.com/channel/UCvlBe-TQfjLFINSSYQt9Tjg)  
 - [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
