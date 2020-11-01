@@ -27,6 +27,7 @@
 - [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
 - [冼師傅講場](https://www.youtube.com/channel/UCFRBCHEqZNJ2Rb1IjrCC8Zw)  
 - [玛莎CN](https://www.youtube.com/channel/UCmSefgK3FoLgyIJ25kjJ83g)  
+- [简珍妮Jen Tomski ](https://www.youtube.com/channel/UCl8bWkHJc6v4S8FIqNHWQOQ)  
 - [Where's Poppy](https://www.youtube.com/channel/UCAy4rN2oe57nR-NJzkm3qvw)  
 - [This is China](https://samiux.blogspot.com/2016/09/video-this-is-china.html)  
 - [國家是甚麼？](https://samiux.blogspot.com/2018/06/blog-post_14.html)  
