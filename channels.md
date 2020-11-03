@@ -49,6 +49,7 @@
 - [纪录片《大数据时代》](https://samiux.blogspot.com/2020/09/blog-post_12.html)  
 - [纪录片《超级工程Ⅲ》](https://samiux.blogspot.com/2020/09/blog-post_5.html)  
 - [纪录片《北斗》-- 全景式介绍中国北斗卫星导航系统](https://samiux.blogspot.com/2020/10/blog-post_66.html)  
+- [第78期：张维为、范勇鹏分析美国产生“宪政危机”的背景和原因，以及本届总统大选对美国整个政治格局会带来的影响 --《这就是中国》CHINA NOW EP78 20201102【东方卫视官方频道】](https://samiux.blogspot.com/2020/11/78-china-now-ep78-20201102.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
