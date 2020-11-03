@@ -74,5 +74,6 @@
 - [2019全球法律與秩序指數公佈：中國位列第3 -- deepthroat](https://www.bastillepost.com/hongkong/article/7378748-2019%e5%85%a8%e7%90%83%e6%b3%95%e5%be%8b%e8%88%87%e7%a7%a9%e5%ba%8f%e6%8c%87%e6%95%b8%e5%85%ac%e4%bd%88%ef%bc%9a%e4%b8%ad%e5%9c%8b%e4%bd%8d%e5%88%97%e7%ac%ac3)  
 - [內地紡織業大爆發！貨車排隊3小時等裝貨！印度恐怕要倒退5年 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7378483-%e5%85%a7%e5%9c%b0%e7%b4%a1%e7%b9%94%e6%a5%ad%e5%a4%a7%e7%88%86%e7%99%bc%ef%bc%81%e8%b2%a8%e8%bb%8a%e6%8e%92%e9%9a%8a3%e5%b0%8f%e6%99%82%e7%ad%89%e8%a3%9d%e8%b2%a8%ef%bc%81%e5%8d%b0%e5%ba%a6%e6%81%90)  
 - [美國自己搞的是間接選舉，為何要求香港有「真普選」？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7407404-%e7%be%8e%e5%9c%8b%e8%87%aa%e5%b7%b1%e6%90%9e%e7%9a%84%e6%98%af%e9%96%93%e6%8e%a5%e9%81%b8%e8%88%89%ef%bc%8c%e7%82%ba%e4%bd%95%e8%a6%81%e6%b1%82%e9%a6%99%e6%b8%af%e6%9c%89%e3%80%8c%e7%9c%9f%e6%99%ae)  
+- [第78期：张维为、范勇鹏分析美国产生“宪政危机”的背景和原因，以及本届总统大选对美国整个政治格局会带来的影响 --《这就是中国》CHINA NOW EP78 20201102【东方卫视官方频道】](https://samiux.blogspot.com/2020/11/78-china-now-ep78-20201102.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
