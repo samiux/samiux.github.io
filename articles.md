@@ -55,4 +55,9 @@
 - [It's October : 1](/october1.md)
 - [Broken-2020 : 1](/broken-2020-1.md)
 
+### Extra
+
+- [华为天际通 -- 华为官网](https://consumer.huawei.com/cn/mobileservices/skytone/)  
+- [华为天际通](http://skytone.vmall.com/index.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
