@@ -76,5 +76,6 @@
 - [美國自己搞的是間接選舉，為何要求香港有「真普選」？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7407404-%e7%be%8e%e5%9c%8b%e8%87%aa%e5%b7%b1%e6%90%9e%e7%9a%84%e6%98%af%e9%96%93%e6%8e%a5%e9%81%b8%e8%88%89%ef%bc%8c%e7%82%ba%e4%bd%95%e8%a6%81%e6%b1%82%e9%a6%99%e6%b8%af%e6%9c%89%e3%80%8c%e7%9c%9f%e6%99%ae)  
 - [第78期：张维为、范勇鹏分析美国产生“宪政危机”的背景和原因，以及本届总统大选对美国整个政治格局会带来的影响 --《这就是中国》CHINA NOW EP78 20201102【东方卫视官方频道】](https://samiux.blogspot.com/2020/11/78-china-now-ep78-20201102.html)  
 - [深圳地鐵全自動運行試驗中心開工 -- 大公文匯](https://www.tkww.hk/a/202011/04/AP5fa29d1ce4b024217fcc5169.html)  
+- [時事觀察 -- 2020-11-04 -- 霍詠強](https://samiux.blogspot.com/2020/11/2020-11-04.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
