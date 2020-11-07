@@ -78,5 +78,7 @@
 - [深圳地鐵全自動運行試驗中心開工 -- 大公文匯](https://www.tkww.hk/a/202011/04/AP5fa29d1ce4b024217fcc5169.html)  
 - [時事觀察 -- 2020-11-04 -- 霍詠強](https://samiux.blogspot.com/2020/11/2020-11-04.html)  
 - [全球首顆 國產6G試驗衛星升空 -- 大公文匯](https://www.tkww.hk/a/202011/07/AP5fa5f112e4b024217fccd545.html)  
+- [面对华为起诉 美国16个政府部门集体失声 -- 大公网](http://www.takungpao.com/news/232111/2020/1106/517433.html)  
+- [SpaceX为美国太空部队成功发射全球定位卫星GPSIII -- 大公网](http://www.takungpao.com/news/232112/2020/1106/517399.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
