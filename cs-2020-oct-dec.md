@@ -77,5 +77,6 @@
 - [第78期：张维为、范勇鹏分析美国产生“宪政危机”的背景和原因，以及本届总统大选对美国整个政治格局会带来的影响 --《这就是中国》CHINA NOW EP78 20201102【东方卫视官方频道】](https://samiux.blogspot.com/2020/11/78-china-now-ep78-20201102.html)  
 - [深圳地鐵全自動運行試驗中心開工 -- 大公文匯](https://www.tkww.hk/a/202011/04/AP5fa29d1ce4b024217fcc5169.html)  
 - [時事觀察 -- 2020-11-04 -- 霍詠強](https://samiux.blogspot.com/2020/11/2020-11-04.html)  
+- [全球首顆 國產6G試驗衛星升空 -- 大公文匯](https://www.tkww.hk/a/202011/07/AP5fa5f112e4b024217fccd545.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
