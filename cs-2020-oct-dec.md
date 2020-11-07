@@ -81,5 +81,6 @@
 - [面对华为起诉 美国16个政府部门集体失声 -- 大公网](http://www.takungpao.com/news/232111/2020/1106/517433.html)  
 - [SpaceX为美国太空部队成功发射全球定位卫星GPSIII -- 大公网](http://www.takungpao.com/news/232112/2020/1106/517399.html)  
 - [就在美國選舉後亂到一團糟之際 中澳關係冰封 中國暫停7種澳洲商品進口 -- deepthroat](https://www.bastillepost.com/hongkong/article/7428833-%e5%b0%b1%e5%9c%a8%e7%be%8e%e5%9c%8b%e9%81%b8%e8%88%89%e5%be%8c%e4%ba%82%e5%88%b0%e4%b8%80%e5%9c%98%e7%b3%9f%e4%b9%8b%e9%9a%9b-%e4%b8%ad%e6%be%b3%e9%97%9c%e4%bf%82%e5%86%b0%e5%b0%81-%e4%b8%ad)  
+- [中方譴責美方撤銷「東伊運」恐怖組織定性 -- 大公文匯](https://www.tkww.hk/a/202011/06/AP5fa54b61e4b024217fccc4f0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
