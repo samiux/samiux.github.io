@@ -84,5 +84,6 @@
 - [中方譴責美方撤銷「東伊運」恐怖組織定性 -- 大公文匯](https://www.tkww.hk/a/202011/06/AP5fa54b61e4b024217fccc4f0.html)  
 - [國藥集團：內地5.6萬人接種新冠疫苗出國零感染 -- 大公文匯](https://www.tkww.hk/a/202011/07/AP5fa6426de4b024217fcce6af.html)  
 - [李蘭娟院士：中國不會再發生新冠疫情大流行 -- 大公文匯](https://www.tkww.hk/a/202011/07/AP5fa67f05e4b024217fccef5d.html)  
+- [印度成功發射一箭十星 -- 大公文匯](https://www.tkww.hk/a/202011/07/AP5fa6963ee4b024217fccf289.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
