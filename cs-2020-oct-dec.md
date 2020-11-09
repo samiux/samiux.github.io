@@ -92,5 +92,6 @@
 - [美國大選與你何干？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7439078-%e7%be%8e%e5%9c%8b%e5%a4%a7%e9%81%b8%e8%88%87%e4%bd%a0%e4%bd%95%e5%b9%b2%ef%bc%9f)  
 - [輝瑞稱疫苗有效率達九成 94人接種後仍染疫 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94a91e4b0d9f0c12a01db.html)  
 - [可享2000元免費額度 居粵香港患者積極預約 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94c45e4b0d9f0c12a022b.html)  
+- [Windows 10, iOS, Chrome, Firefox and Others Hacked at Tianfu Cup Competition -- The Hacker News](https://thehackernews.com/2020/11/windows-10-ios-chrome-firefox-and.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
