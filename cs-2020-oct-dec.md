@@ -90,5 +90,7 @@
 - [港難清零 健康碼推行條件或放寬 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa895c6e4b0d9f0c129dd4f.html)  
 - [意大利日增確診逼近4萬例 皮埃蒙特大區請求中國援助 -- deepthroat](https://www.bastillepost.com/hongkong/article/7436619-%e6%84%8f%e5%a4%a7%e5%88%a9%e6%97%a5%e5%a2%9e%e7%a2%ba%e8%a8%ba%e9%80%bc%e8%bf%914%e8%90%ac%e4%be%8b-%e7%9a%ae%e5%9f%83%e8%92%99%e7%89%b9%e5%a4%a7%e5%8d%80%e8%ab%8b%e6%b1%82%e4%b8%ad%e5%9c%8b%e6%8f%b4)  
 - [美國大選與你何干？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7439078-%e7%be%8e%e5%9c%8b%e5%a4%a7%e9%81%b8%e8%88%87%e4%bd%a0%e4%bd%95%e5%b9%b2%ef%bc%9f)  
+- [輝瑞稱疫苗有效率達九成 94人接種後仍染疫 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94a91e4b0d9f0c12a01db.html)  
+- [可享2000元免費額度 居粵香港患者積極預約 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94c45e4b0d9f0c12a022b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
