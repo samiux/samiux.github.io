@@ -102,5 +102,7 @@
 - [反對派在十字路口上 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7446379-%e5%8f%8d%e5%b0%8d%e6%b4%be%e5%9c%a8%e5%8d%81%e5%ad%97%e8%b7%af%e5%8f%a3%e4%b8%8a)  
 - [港府宣佈4議員即時喪失議員資格 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7450365-%e6%b8%af%e5%ba%9c%e5%ae%a3%e4%bd%884%e8%ad%b0%e5%93%a1%e5%8d%b3%e6%99%82%e5%96%aa%e5%a4%b1%e8%ad%b0%e5%93%a1%e8%b3%87%e6%a0%bc)  
 - [栗戰書:定DQ框架 是完善一國兩制體系重要立法 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7450563-%e5%ae%9adq%e6%a1%86%e6%9e%b6-%e6%98%af%e5%ae%8c%e5%96%84%e4%b8%80%e5%9c%8b%e5%85%a9%e5%88%b6%e9%ab%94%e7%b3%bb%e7%9a%84%e9%87%8d%e8%a6%81%e7%ab%8b%e6%b3%95)  
+- [「總辭」自揭攬炒真面目 -- 大公文匯](https://www.tkww.hk/a/202011/11/AP5fab818ce4b0d9f0c12a6432.html)  
+- [5G 體驗不似預期 南韓 56 萬用戶賠錢轉回 4G 網絡 -- PCM](https://www.pcmarket.com.hk/5g-experience-falls-short-of-expectations-in-south-korea-as-560000-users-lose-money-to-switch-back-to-4g-network/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
