@@ -94,5 +94,13 @@
 - [可享2000元免費額度 居粵香港患者積極預約 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94c45e4b0d9f0c12a022b.html)  
 - [Windows 10, iOS, Chrome, Firefox and Others Hacked at Tianfu Cup Competition -- The Hacker News](https://thehackernews.com/2020/11/windows-10-ios-chrome-firefox-and.html)  
 - [華為棄車保帥過苦日子 剝離低端品牌「榮耀」 集中力量推「鴻蒙」系統 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7448661-%e8%8f%af%e7%82%ba%e6%a3%84%e8%bb%8a%e4%bf%9d%e5%b8%a5%e9%81%8e%e8%8b%a6%e6%97%a5%e5%ad%90-%e5%89%9d%e9%9b%a2%e4%bd%8e%e7%ab%af%e5%93%81%e7%89%8c%e3%80%8c%e6%a6%ae%e8%80%80%e3%80%8d-%e9%9b%86%e4%b8%ad)  
+- [任正非︰中國芯片唔聲唔聲，嚇你一驚！ -- 深藍](https://www.bastillepost.com/hongkong/article/7450599-%e4%bb%bb%e6%ad%a3%e9%9d%9e%ef%b8%b0%e4%b8%ad%e5%9c%8b%e8%8a%af%e7%89%87%e5%94%94%e8%81%b2%e5%94%94%e8%81%b2%ef%bc%8c%e5%9a%87%e4%bd%a0%e4%b8%80%e9%a9%9a%ef%bc%81)  
+- [美國輝瑞的疫苗宣布成功 真正的難題其實在後面 怎樣大規模在零下80度運送? -- deepthroat](https://www.bastillepost.com/hongkong/article/7449793-%e7%be%8e%e5%9c%8b%e8%bc%9d%e7%91%9e%e7%9a%84%e7%96%ab%e8%8b%97%e5%ae%a3%e5%b8%83%e6%88%90%e5%8a%9f-%e7%9c%9f%e6%ad%a3%e7%9a%84%e9%9b%a3%e9%a1%8c%e5%85%b6%e5%af%a6%e5%9c%a8%e5%be%8c%e9%9d%a2-%e6%80%8e)  
+- [蓬佩奧一身蟻 卸任後還要面對調查 -- deepthroat](https://www.bastillepost.com/hongkong/article/7451026-%e8%93%ac%e4%bd%a9%e5%a5%a7%e4%b8%80%e8%ba%ab%e8%9f%bb-%e5%8d%b8%e4%bb%bb%e5%be%8c%e9%82%84%e8%a6%81%e9%9d%a2%e5%b0%8d%e8%aa%bf%e6%9f%a5)  
+- [人大決定內有玄機 香港人不是例外 明確行政主導約束力強 -- Ariel](https://www.bastillepost.com/hongkong/article/7451148-%e4%ba%ba%e5%a4%a7%e6%b1%ba%e5%ae%9a%e5%85%a7%e6%9c%89%e7%8e%84%e6%a9%9f-%e9%a6%99%e6%b8%af%e4%ba%ba%e4%b8%8d%e6%98%af%e4%be%8b%e5%a4%96-%e6%98%8e%e7%a2%ba%e8%a1%8c%e6%94%bf%e4%b8%bb%e5%b0%8e%e7%b4%84)  
+- [人大決定以憲法條文為基礎 危害國家榮譽和利益或被DQ -- Ariel](https://www.bastillepost.com/hongkong/article/7450545-%e4%ba%ba%e5%a4%a7%e6%b1%ba%e5%ae%9a%e4%bb%a5%e6%86%b2%e6%b3%95%e6%a2%9d%e6%96%87%e7%82%ba%e5%9f%ba%e7%a4%8e-%e5%8d%b1%e5%ae%b3%e5%9c%8b%e5%ae%b6%e6%a6%ae%e8%ad%bd%e5%92%8c%e5%88%a9%e7%9b%8a%e6%88%96)  
+- [反對派在十字路口上 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7446379-%e5%8f%8d%e5%b0%8d%e6%b4%be%e5%9c%a8%e5%8d%81%e5%ad%97%e8%b7%af%e5%8f%a3%e4%b8%8a)  
+- [港府宣佈4議員即時喪失議員資格 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7450365-%e6%b8%af%e5%ba%9c%e5%ae%a3%e4%bd%884%e8%ad%b0%e5%93%a1%e5%8d%b3%e6%99%82%e5%96%aa%e5%a4%b1%e8%ad%b0%e5%93%a1%e8%b3%87%e6%a0%bc)  
+- [栗戰書:定DQ框架 是完善一國兩制體系重要立法 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7450563-%e5%ae%9adq%e6%a1%86%e6%9e%b6-%e6%98%af%e5%ae%8c%e5%96%84%e4%b8%80%e5%9c%8b%e5%85%a9%e5%88%b6%e9%ab%94%e7%b3%bb%e7%9a%84%e9%87%8d%e8%a6%81%e7%ab%8b%e6%b3%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
