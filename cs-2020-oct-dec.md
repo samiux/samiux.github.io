@@ -93,5 +93,6 @@
 - [輝瑞稱疫苗有效率達九成 94人接種後仍染疫 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94a91e4b0d9f0c12a01db.html)  
 - [可享2000元免費額度 居粵香港患者積極預約 -- 大公文匯](https://www.tkww.hk/a/202011/09/AP5fa94c45e4b0d9f0c12a022b.html)  
 - [Windows 10, iOS, Chrome, Firefox and Others Hacked at Tianfu Cup Competition -- The Hacker News](https://thehackernews.com/2020/11/windows-10-ios-chrome-firefox-and.html)  
+- [華為棄車保帥過苦日子 剝離低端品牌「榮耀」 集中力量推「鴻蒙」系統 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7448661-%e8%8f%af%e7%82%ba%e6%a3%84%e8%bb%8a%e4%bf%9d%e5%b8%a5%e9%81%8e%e8%8b%a6%e6%97%a5%e5%ad%90-%e5%89%9d%e9%9b%a2%e4%bd%8e%e7%ab%af%e5%93%81%e7%89%8c%e3%80%8c%e6%a6%ae%e8%80%80%e3%80%8d-%e9%9b%86%e4%b8%ad)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
