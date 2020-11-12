@@ -123,5 +123,8 @@
 - [15名攬炒派議員遞信　許智峯即日離職 -- 大公文匯](https://www.tkww.hk/a/202011/12/AP5fad0f13e4b0d9f0c12aa9fc.html)  
 - [接種者指輝瑞新冠疫苗副作用如「嚴重宿醉」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7458049-%e6%8e%a5%e7%a8%ae%e8%80%85%e7%88%86%e6%96%99%e6%8c%87%e8%bc%9d%e7%91%9e%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e4%b8%8d%e8%89%af%e5%8f%8d%e6%87%89%e5%a6%82%e3%80%8c%e5%9a%b4%e9%87%8d%e5%ae%bf%e9%86%89)  
 - [輝瑞疫苗成效顯著帶動股價急升 高層大手沽出獲利 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7458849-%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%97%e6%88%90%e6%95%88%e9%a1%af%e8%91%97%e8%82%a1%e5%83%b9%e6%80%a5%e5%8d%87-%e9%ab%98%e5%b1%a4%e5%a4%a7%e6%89%8b%e6%b2%bd%e5%87%ba%e8%82%a1%e7%a5%a8%e7%8d%b2%e5%88%a9)  
+- [五中全會《建議》輔導讀本：確保一旦有事上得去打得贏 -- 大公文匯](https://www.tkww.hk/a/202011/12/AP5fad278fe4b0d9f0c12aaee5.html)  
+- [【翠袖乾坤】不一樣的學習  -- 文匯網](https://www.wenweipo.com/a/202011/12/AP5fac4b26e4b0fede7f7ad4ea.html)  
+- [拜登称钓鱼岛为《美日安保条约》第五条适用对象 -- 大公网](http://www.takungpao.com/news/232111/2020/1112/519818.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
