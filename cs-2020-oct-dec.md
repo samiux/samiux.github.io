@@ -126,5 +126,7 @@
 - [五中全會《建議》輔導讀本：確保一旦有事上得去打得贏 -- 大公文匯](https://www.tkww.hk/a/202011/12/AP5fad278fe4b0d9f0c12aaee5.html)  
 - [【翠袖乾坤】不一樣的學習  -- 文匯網](https://www.wenweipo.com/a/202011/12/AP5fac4b26e4b0fede7f7ad4ea.html)  
 - [拜登称钓鱼岛为《美日安保条约》第五条适用对象 -- 大公网](http://www.takungpao.com/news/232111/2020/1112/519818.html)  
+- [** 國產視覺AI芯片 新算法破美封禁 -- 大公文匯](https://www.tkww.hk/a/202011/13/AP5fae1d40e4b0d9f0c12ad4c2.html)  
+- [中央軍委印發《中國人民解放軍聯合作戰綱要（試行）》 -- 大公文匯](https://www.tkww.hk/a/202011/13/AP5fae0a3ae4b0d9f0c12ad116.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
