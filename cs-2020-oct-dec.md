@@ -134,5 +134,6 @@
 - [** 鍾南山：國產疫苗功效媲美輝瑞 -- 大公文匯](https://www.tkww.hk/a/202011/17/AP5fb31701e4b0b79eff2e77d2.html)  
 - [华为声明感谢与祝福：整体出售荣耀业务，艰难时刻产业链自救 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_10019528)  
 - [IP's not to scan! -- Reddit](https://www.reddit.com/r/blackhat/comments/jv6av3/ips_not_to_scan/)  
+- [中國成功首發6G衞星 用全新「太赫茲」超高速傳送技術 2030年人體全面數字化 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7482749-%e4%b8%ad%e5%9c%8b%e6%88%90%e5%8a%9f%e9%a6%96%e7%99%bc6g%e8%a1%9e%e6%98%9f-%e7%94%a8%e5%85%a8%e6%96%b0%e3%80%8c%e5%a4%aa%e8%b5%ab%e8%8c%b2%e3%80%8d%e8%b6%85%e9%ab%98%e9%80%9f%e5%82%b3%e9%80%81)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
