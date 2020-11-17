@@ -137,5 +137,6 @@
 - [中國成功首發6G衞星 用全新「太赫茲」超高速傳送技術 2030年人體全面數字化 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7482749-%e4%b8%ad%e5%9c%8b%e6%88%90%e5%8a%9f%e9%a6%96%e7%99%bc6g%e8%a1%9e%e6%98%9f-%e7%94%a8%e5%85%a8%e6%96%b0%e3%80%8c%e5%a4%aa%e8%b5%ab%e8%8c%b2%e3%80%8d%e8%b6%85%e9%ab%98%e9%80%9f%e5%82%b3%e9%80%81)  
 - [** 意大利官方證去年9月新冠病毒已於境內傳播 -- 大公文匯](https://www.tkww.hk/a/202011/17/AP5fb35fabe4b0b79eff2e8d6c.html)  
 - [美國不穩定 地球很危險 特朗普敗選後想過炸伊朗核設施 -- deepthroat](https://www.bastillepost.com/hongkong/article/7483253-%e7%be%8e%e5%9c%8b%e4%b8%8d%e7%a9%a9%e5%ae%9a-%e5%9c%b0%e7%90%83%e5%be%88%e5%8d%b1%e9%9a%aa-%e7%89%b9%e6%9c%97%e6%99%ae%e6%95%97%e9%81%b8%e5%be%8c%e6%83%b3%e9%81%8e%e7%82%b8%e4%bc%8a%e6%9c%97)  
+- [廣東建11萬座5G基站 居全國第一 -- 大公文匯](https://www.tkww.hk/a/202011/17/AP5fb354a6e4b0b79eff2e8abf.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
