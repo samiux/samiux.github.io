@@ -133,5 +133,6 @@
 - [華為新一代信息技術應用創新中心落地珠海 -- 大公文匯](https://www.tkww.hk/a/202011/16/AP5fb21318e4b0b79eff2e4a3b.html)  
 - [** 鍾南山：國產疫苗功效媲美輝瑞 -- 大公文匯](https://www.tkww.hk/a/202011/17/AP5fb31701e4b0b79eff2e77d2.html)  
 - [华为声明感谢与祝福：整体出售荣耀业务，艰难时刻产业链自救 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_10019528)  
+- [IP's not to scan! -- Reddit](https://www.reddit.com/r/blackhat/comments/jv6av3/ips_not_to_scan/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
