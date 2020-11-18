@@ -141,5 +141,10 @@
 - [** 張曉明：愛國愛港者治港 反中亂港者出局 -- 大公文匯](https://www.tkww.hk/a/202011/17/AP5fb32d9fe4b0b79eff2e7fdd.html)  
 - [** 改革 改革 改革 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7485635-%e6%94%b9%e9%9d%a9-%e6%94%b9%e9%9d%a9-%e6%94%b9%e9%9d%a9)  
 - [** 中澳关系为何急剧下滑？赵立坚举了三例 -- 大公网](http://www.takungpao.com/news/232108/2020/1117/521678.html)  
+- [RCEP簽署後 有3個原因 令15個成員國仍向印度拋橄欖枝 -- deepthroat](https://www.bastillepost.com/hongkong/article/7488030-rcep%e7%b0%bd%e7%bd%b2%e5%be%8c-%e6%9c%893%e5%80%8b%e5%8e%9f%e5%9b%a0-%e4%bb%a415%e5%80%8b%e6%88%90%e5%93%a1%e5%9c%8b%e4%bb%8d%e5%90%91%e5%8d%b0%e5%ba%a6%e6%8b%8b%e6%a9%84%e6%ac%96%e6%9e%9d)  
+- [97歲的基辛格力勸拜登：需迅速恢復美中溝通渠道，否則世界將陷入堪比一戰的災難 -- deepthroat](https://www.bastillepost.com/hongkong/article/7488780-97%e6%ad%b2%e7%9a%84%e5%9f%ba%e8%be%9b%e6%a0%bc%e5%8a%9b%e5%8b%b8%e6%8b%9c%e7%99%bb%ef%bc%9a%e9%9c%80%e8%bf%85%e9%80%9f%e6%81%a2%e5%be%a9%e7%be%8e%e4%b8%ad%e6%ba%9d%e9%80%9a%e6%b8%a0%e9%81%93%ef%bc%8c)  
+- [科技君王論︰中國不君子，美國莫仁慈 -- 深藍](https://www.bastillepost.com/hongkong/article/7489700-%e7%a7%91%e6%8a%80%e5%90%9b%e7%8e%8b%e8%ab%96%ef%b8%b0%e4%b8%ad%e5%9c%8b%e4%b8%8d%e5%90%9b%e5%ad%90%ef%bc%8c%e7%be%8e%e5%9c%8b%e8%8e%ab%e4%bb%81%e6%85%88)  
+- [上午送完喪 下午又墜機 台戰機連F16都出事 去年又買了66架點算好？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7490983-%e4%b8%8a%e5%8d%88%e9%80%81%e5%ae%8c%e5%96%aa-%e4%b8%8b%e5%8d%88%e5%8f%88%e5%a2%9c%e6%a9%9f-%e5%8f%b0%e6%88%b0%e6%a9%9f%e9%80%a3f16%e9%83%bd%e5%87%ba%e4%ba%8b-%e5%8e%bb%e5%b9%b4%e5%8f%88%e8%b2%b7)  
+- [** 中銀推「開戶易」服務 香港手機號碼直接申請內地戶口 - ezone](https://ezone.ulifestyle.com.hk/article/2799374/%E4%B8%AD%E9%8A%80%E6%8E%A8%E3%80%8C%E9%96%8B%E6%88%B6%E6%98%93%E3%80%8D%E6%9C%8D%E5%8B%99%20%E9%A6%99%E6%B8%AF%E6%89%8B%E6%A9%9F%E8%99%9F%E7%A2%BC%E7%9B%B4%E6%8E%A5%E7%94%B3%E8%AB%8B%E5%85%A7%E5%9C%B0%E6%88%B6%E5%8F%A3)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
