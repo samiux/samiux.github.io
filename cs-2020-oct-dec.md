@@ -149,5 +149,7 @@
 - [新時代到來 清除叛國者 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7491817-%e6%96%b0%e6%99%82%e4%bb%a3%e5%88%b0%e4%be%86-%e6%b8%85%e9%99%a4%e5%8f%9b%e5%9c%8b%e8%80%85)  
 - [** 國產疫苗四周內誘導免疫反應 -- 大公文匯](https://www.tkww.hk/a/202011/19/AP5fb5b7dde4b0b79eff2efd9b.html)  
 - [** 四款中國疫苗確認有效 有一項優勢領先美國疫苗 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7493837-%e5%9b%9b%e6%ac%be%e4%b8%ad%e5%9c%8b%e7%96%ab%e8%8b%97%e7%a2%ba%e8%aa%8d%e6%9c%89%e6%95%88-%e6%9c%89%e4%b8%80%e9%a0%85%e5%84%aa%e5%8b%a2%e9%a0%98%e5%85%88%e7%be%8e%e5%9c%8b%e7%96%ab%e8%8b%97)  
+- [英媒稱已在7國患者身上發現水貂變種新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202011/19/AP5fb64707e4b0b79eff2f245b.html)  
+- [美國精英 盲目反華 鬥爭不會停 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7497877-%e7%be%8e%e5%9c%8b%e7%b2%be%e8%8b%b1-%e7%9b%b2%e7%9b%ae%e5%8f%8d%e8%8f%af-%e9%ac%a5%e7%88%ad%e4%b8%8d%e6%9c%83%e5%81%9c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
