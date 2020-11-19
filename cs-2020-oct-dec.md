@@ -147,5 +147,7 @@
 - [上午送完喪 下午又墜機 台戰機連F16都出事 去年又買了66架點算好？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7490983-%e4%b8%8a%e5%8d%88%e9%80%81%e5%ae%8c%e5%96%aa-%e4%b8%8b%e5%8d%88%e5%8f%88%e5%a2%9c%e6%a9%9f-%e5%8f%b0%e6%88%b0%e6%a9%9f%e9%80%a3f16%e9%83%bd%e5%87%ba%e4%ba%8b-%e5%8e%bb%e5%b9%b4%e5%8f%88%e8%b2%b7)  
 - [** 中銀推「開戶易」服務 香港手機號碼直接申請內地戶口 - ezone](https://ezone.ulifestyle.com.hk/article/2799374/%E4%B8%AD%E9%8A%80%E6%8E%A8%E3%80%8C%E9%96%8B%E6%88%B6%E6%98%93%E3%80%8D%E6%9C%8D%E5%8B%99%20%E9%A6%99%E6%B8%AF%E6%89%8B%E6%A9%9F%E8%99%9F%E7%A2%BC%E7%9B%B4%E6%8E%A5%E7%94%B3%E8%AB%8B%E5%85%A7%E5%9C%B0%E6%88%B6%E5%8F%A3)  
 - [新時代到來 清除叛國者 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7491817-%e6%96%b0%e6%99%82%e4%bb%a3%e5%88%b0%e4%be%86-%e6%b8%85%e9%99%a4%e5%8f%9b%e5%9c%8b%e8%80%85)  
+- [國產疫苗四周內誘導免疫反應 -- 大公文匯](https://www.tkww.hk/a/202011/19/AP5fb5b7dde4b0b79eff2efd9b.html)  
+- [四款中國疫苗確認有效 有一項優勢領先美國疫苗 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7493837-%e5%9b%9b%e6%ac%be%e4%b8%ad%e5%9c%8b%e7%96%ab%e8%8b%97%e7%a2%ba%e8%aa%8d%e6%9c%89%e6%95%88-%e6%9c%89%e4%b8%80%e9%a0%85%e5%84%aa%e5%8b%a2%e9%a0%98%e5%85%88%e7%be%8e%e5%9c%8b%e7%96%ab%e8%8b%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
