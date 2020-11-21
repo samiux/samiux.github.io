@@ -158,5 +158,6 @@
 - [美國堂堂大國 醫院N95口罩要重用8-10次 拜登被抗疫護士說哭了 -- deepthroat](https://www.bastillepost.com/hongkong/article/7506093-%e7%be%8e%e5%9c%8b%e5%a0%82%e5%a0%82%e5%a4%a7%e5%9c%8b-%e9%86%ab%e9%99%a2n95%e5%8f%a3%e7%bd%a9%e8%a6%81%e9%87%8d%e7%94%a88-10%e6%ac%a1-%e6%8b%9c%e7%99%bb%e8%a2%ab%e6%8a%97%e7%96%ab%e8%ad%b7%e5%a3%ab)  
 - [警校結業會操 鄧炳強引《論語》勉畢業學員要智仁勇 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb88f1fe4b0dc0c29f6f6ae.html)  
 - [台軍機頻墜 印證「以武拒統」是死路 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb86d67e4b0dc0c29f6eabe.html)  
+- [** 來論 - 戳穿美國遏制中國的兩大策略圖謀 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb8c5cae4b0dc0c29f702a2.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
