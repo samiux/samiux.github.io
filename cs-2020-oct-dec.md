@@ -156,5 +156,7 @@
 - [英國或發現「零號病人」：一男子稱去年9月感染 遠早於中國12月首例 -- deepthroat](https://www.bastillepost.com/hongkong/article/7500506-%e8%8b%b1%e5%9c%8b%e6%88%96%e7%99%bc%e7%8f%be%e3%80%8c%e9%9b%b6%e8%99%9f%e7%97%85%e4%ba%ba%e3%80%8d%ef%bc%9a%e4%b8%80%e7%94%b7%e5%ad%90%e7%a8%b1%e5%8e%bb%e5%b9%b49%e6%9c%88%e6%84%9f%e6%9f%93)  
 - [「72小時內擊沈所有中國船隻！」說這狠話的人 有可能成為美國新防長！ -- deepthroat](https://www.bastillepost.com/hongkong/article/7506074-%e3%80%8c72%e5%b0%8f%e6%99%82%e5%85%a7%e6%93%8a%e6%b2%88%e6%89%80%e6%9c%89%e4%b8%ad%e5%9c%8b%e8%88%b9%e9%9a%bb%ef%bc%81%e3%80%8d%e8%aa%aa%e9%80%99%e7%8b%a0%e8%a9%b1%e7%9a%84%e4%ba%ba-%e6%9c%89)  
 - [美國堂堂大國 醫院N95口罩要重用8-10次 拜登被抗疫護士說哭了 -- deepthroat](https://www.bastillepost.com/hongkong/article/7506093-%e7%be%8e%e5%9c%8b%e5%a0%82%e5%a0%82%e5%a4%a7%e5%9c%8b-%e9%86%ab%e9%99%a2n95%e5%8f%a3%e7%bd%a9%e8%a6%81%e9%87%8d%e7%94%a88-10%e6%ac%a1-%e6%8b%9c%e7%99%bb%e8%a2%ab%e6%8a%97%e7%96%ab%e8%ad%b7%e5%a3%ab)  
+- [警校結業會操 鄧炳強引《論語》勉畢業學員要智仁勇 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb88f1fe4b0dc0c29f6f6ae.html)  
+- [台軍機頻墜 印證「以武拒統」是死路 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb86d67e4b0dc0c29f6eabe.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
