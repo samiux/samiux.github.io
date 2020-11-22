@@ -159,5 +159,8 @@
 - [警校結業會操 鄧炳強引《論語》勉畢業學員要智仁勇 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb88f1fe4b0dc0c29f6f6ae.html)  
 - [台軍機頻墜 印證「以武拒統」是死路 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb86d67e4b0dc0c29f6eabe.html)  
 - [** 來論 - 戳穿美國遏制中國的兩大策略圖謀 -- 大公文匯](https://www.tkww.hk/a/202011/21/AP5fb8c5cae4b0dc0c29f702a2.html)  
+- [曾經是美國主場的CPTPP，中國如今積極要加入，日本如何接招？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7510440-%e6%9b%be%e7%b6%93%e6%98%af%e7%be%8e%e5%9c%8b%e4%b8%bb%e5%a0%b4%e7%9a%84cptpp%ef%bc%8c%e4%b8%ad%e5%9c%8b%e5%a6%82%e4%bb%8a%e7%a9%8d%e6%a5%b5%e8%a6%81%e5%8a%a0%e5%85%a5%ef%bc%8c%e6%97%a5%e6%9c%ac)  
+- [澳洲媒體：中國不完美，但又有哪國是完美的呢？ -- deepthroat](https://www.bastillepost.com/hongkong/article/7510537-%e6%be%b3%e6%b4%b2%e5%aa%92%e9%ab%94%ef%bc%9a%e4%b8%ad%e5%9c%8b%e4%b8%8d%e5%ae%8c%e7%be%8e%ef%bc%8c%e4%bd%86%e5%8f%88%e6%9c%89%e5%93%aa%e5%9c%8b%e6%98%af%e5%ae%8c%e7%be%8e%e7%9a%84%e5%91%a2%ef%bc%9f)  
+- [法擬禁惡意發布警員容貌 違者將面臨監柰禁罰款 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7510653-%e6%b3%95%e6%93%ac%e7%a6%81%e6%83%a1%e6%84%8f%e7%99%bc%e5%b8%83%e8%ad%a6%e5%93%a1%e5%ae%b9%e8%b2%8c-%e9%81%95%e8%80%85%e5%b0%87%e9%9d%a2%e8%87%a8%e7%9b%a3%e6%9f%b0%e7%a6%81%e7%bd%b0%e6%ac%be?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
