@@ -166,5 +166,6 @@
 - [閆麗夢造謠新冠是「中共生化武器」 原來是郭文貴和班農一手炮製 -- deepthroat](https://www.bastillepost.com/hongkong/article/7515479-%e9%96%86%e9%ba%97%e5%a4%a2%e9%80%a0%e8%ac%a0%e6%96%b0%e5%86%a0%e6%98%af%e3%80%8c%e4%b8%ad%e5%85%b1%e7%94%9f%e5%8c%96%e6%ad%a6%e5%99%a8%e3%80%8d-%e5%8e%9f%e4%be%86%e6%98%af%e9%83%ad%e6%96%87%e8%b2%b4)  
 - [台灣望RCEP之門不可入 高雄將成為台灣的「鐵鏽區」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7515891-%e5%8f%b0%e7%81%a3%e6%9c%9brcep%e4%b9%8b%e9%96%80%e4%b8%8d%e5%8f%af%e5%85%a5-%e9%ab%98%e9%9b%84%e5%b0%87%e6%88%90%e7%82%ba%e5%8f%b0%e7%81%a3%e7%9a%84%e3%80%8c%e9%90%b5%e9%8f%bd%e5%8d%80%e3%80%8d)  
 - [華為汽車開出賽道，打亂美國極限施壓 -- 深藍](https://www.bastillepost.com/hongkong/article/7517794-%e8%8f%af%e7%82%ba%e6%b1%bd%e8%bb%8a%e9%96%8b%e5%87%ba%e8%b3%bd%e9%81%93%ef%bc%8c%e6%89%93%e4%ba%82%e7%be%8e%e5%9c%8b%e6%a5%b5%e9%99%90%e6%96%bd%e5%a3%93)  
+- [無限輪迴vs一刀了斷 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7517980-%e7%84%a1%e9%99%90%e8%bc%aa%e8%bf%b4vs%e4%b8%80%e5%88%80%e4%ba%86%e6%96%b7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
