@@ -165,5 +165,6 @@
 - [特朗普開始密謀捲土重來 美媒披露其三個「未來計劃」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7514058-%e7%89%b9%e6%9c%97%e6%99%ae%e9%96%8b%e5%a7%8b%e5%af%86%e8%ac%80%e6%8d%b2%e5%9c%9f%e9%87%8d%e4%be%86-%e7%be%8e%e5%aa%92%e6%8a%ab%e9%9c%b2%e5%85%b6%e4%b8%89%e5%80%8b%e3%80%8c%e6%9c%aa%e4%be%86%e8%a8%88)  
 - [閆麗夢造謠新冠是「中共生化武器」 原來是郭文貴和班農一手炮製 -- deepthroat](https://www.bastillepost.com/hongkong/article/7515479-%e9%96%86%e9%ba%97%e5%a4%a2%e9%80%a0%e8%ac%a0%e6%96%b0%e5%86%a0%e6%98%af%e3%80%8c%e4%b8%ad%e5%85%b1%e7%94%9f%e5%8c%96%e6%ad%a6%e5%99%a8%e3%80%8d-%e5%8e%9f%e4%be%86%e6%98%af%e9%83%ad%e6%96%87%e8%b2%b4)  
 - [台灣望RCEP之門不可入 高雄將成為台灣的「鐵鏽區」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7515891-%e5%8f%b0%e7%81%a3%e6%9c%9brcep%e4%b9%8b%e9%96%80%e4%b8%8d%e5%8f%af%e5%85%a5-%e9%ab%98%e9%9b%84%e5%b0%87%e6%88%90%e7%82%ba%e5%8f%b0%e7%81%a3%e7%9a%84%e3%80%8c%e9%90%b5%e9%8f%bd%e5%8d%80%e3%80%8d)  
+- [華為汽車開出賽道，打亂美國極限施壓 -- 深藍](https://www.bastillepost.com/hongkong/article/7517794-%e8%8f%af%e7%82%ba%e6%b1%bd%e8%bb%8a%e9%96%8b%e5%87%ba%e8%b3%bd%e9%81%93%ef%bc%8c%e6%89%93%e4%ba%82%e7%be%8e%e5%9c%8b%e6%a5%b5%e9%99%90%e6%96%bd%e5%a3%93)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
