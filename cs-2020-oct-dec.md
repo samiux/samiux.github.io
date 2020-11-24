@@ -168,5 +168,6 @@
 - [華為汽車開出賽道，打亂美國極限施壓 -- 深藍](https://www.bastillepost.com/hongkong/article/7517794-%e8%8f%af%e7%82%ba%e6%b1%bd%e8%bb%8a%e9%96%8b%e5%87%ba%e8%b3%bd%e9%81%93%ef%bc%8c%e6%89%93%e4%ba%82%e7%be%8e%e5%9c%8b%e6%a5%b5%e9%99%90%e6%96%bd%e5%a3%93)  
 - [無限輪迴vs一刀了斷 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7517980-%e7%84%a1%e9%99%90%e8%bc%aa%e8%bf%b4vs%e4%b8%80%e5%88%80%e4%ba%86%e6%96%b7)  
 - [央視網評 - 自詡的「民主燈塔」正在成為全世界的笑話 -- 大公文匯](https://www.tkww.hk/a/202011/23/AP5fbbbb61e4b082e3823908f4.html)  
+- [** 內地網友在港拍片 爆香港「低能防疫」 -- Ariel](https://www.bastillepost.com/hongkong/article/7521157-%e5%85%a7%e5%9c%b0%e7%b6%b2%e5%8f%8b%e5%9c%a8%e6%b8%af%e6%8b%8d%e7%89%87-%e7%88%86%e9%a6%99%e6%b8%af%e3%80%8c%e4%bd%8e%e8%83%bd%e9%98%b2%e7%96%ab%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
