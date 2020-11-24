@@ -169,5 +169,7 @@
 - [無限輪迴vs一刀了斷 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7517980-%e7%84%a1%e9%99%90%e8%bc%aa%e8%bf%b4vs%e4%b8%80%e5%88%80%e4%ba%86%e6%96%b7)  
 - [央視網評 - 自詡的「民主燈塔」正在成為全世界的笑話 -- 大公文匯](https://www.tkww.hk/a/202011/23/AP5fbbbb61e4b082e3823908f4.html)  
 - [** 內地網友在港拍片 爆香港「低能防疫」 -- Ariel](https://www.bastillepost.com/hongkong/article/7521157-%e5%85%a7%e5%9c%b0%e7%b6%b2%e5%8f%8b%e5%9c%a8%e6%b8%af%e6%8b%8d%e7%89%87-%e7%88%86%e9%a6%99%e6%b8%af%e3%80%8c%e4%bd%8e%e8%83%bd%e9%98%b2%e7%96%ab%e3%80%8d)  
+- [反對派錯估中央，有人承擔責任嗎？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7524416-%e5%8f%8d%e5%b0%8d%e6%b4%be%e9%8c%af%e4%bc%b0%e4%b8%ad%e5%a4%ae%ef%bc%8c%e6%9c%89%e4%ba%ba%e6%89%bf%e6%93%94%e8%b2%ac%e4%bb%bb%e5%97%8e%ef%bc%9f)  
+- [美國太空失落十年，中國一次過追一萬年 -- 深藍](https://www.bastillepost.com/hongkong/article/7523015-%e7%be%8e%e5%9c%8b%e5%a4%aa%e7%a9%ba%e5%a4%b1%e8%90%bd%e5%8d%81%e5%b9%b4%ef%bc%8c%e4%b8%ad%e5%9c%8b%e4%b8%80%e6%ac%a1%e9%81%8e%e8%bf%bd%e4%b8%80%e8%90%ac%e5%b9%b4)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
