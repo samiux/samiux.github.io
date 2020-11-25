@@ -173,5 +173,6 @@
 - [美國太空失落十年，中國一次過追一萬年 -- 深藍](https://www.bastillepost.com/hongkong/article/7523015-%e7%be%8e%e5%9c%8b%e5%a4%aa%e7%a9%ba%e5%a4%b1%e8%90%bd%e5%8d%81%e5%b9%b4%ef%bc%8c%e4%b8%ad%e5%9c%8b%e4%b8%80%e6%ac%a1%e9%81%8e%e8%bf%bd%e4%b8%80%e8%90%ac%e5%b9%b4)  
 - [到如今 特朗普政府還想搞「反制中國聯盟」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7527180-%e5%88%b0%e5%a6%82%e4%bb%8a-%e7%89%b9%e6%9c%97%e6%99%ae%e6%94%bf%e5%ba%9c%e9%82%84%e6%83%b3%e6%90%9e%e3%80%8c%e5%8f%8d%e5%88%b6%e4%b8%ad%e5%9c%8b%e8%81%af%e7%9b%9f%e3%80%8d)  
 - [抗疫金田一：天津錯怪了德國豬手 原來病毒來自另一個國家的豬頭... -- 毛拍手](https://www.bastillepost.com/hongkong/article/7526523-%e6%8a%97%e7%96%ab%e9%87%91%e7%94%b0%e4%b8%80%ef%bc%9a%e5%a4%a9%e6%b4%a5%e9%8c%af%e6%80%aa%e4%ba%86%e5%be%b7%e5%9c%8b%e8%b1%ac%e6%89%8b-%e5%8e%9f%e4%be%86%e7%97%85%e6%af%92%e4%be%86%e8%87%aa%e5%8f%a6)  
+- [** 行政長官2020年施政報告全文——砥礪前行 重新出發 -- 大公文匯](https://www.tkww.hk/a/202011/25/AP5fbe14b6e4b082e382397ce0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
