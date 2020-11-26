@@ -38,6 +38,7 @@
 - [零死角无线网络](/mesh.md)  
 - [给所有中国人！](/life.md)  
 - [恶意网站追蹤记](/malicious_site_tracking.md)  
+- [谈「安心出行」应用程式的短板](/leavehomesafe.md)  
 
 ### Tutorials
 
