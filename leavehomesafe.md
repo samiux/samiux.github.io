@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # 谈「安心出行」应用程式的短板
 
 于二零二零年十一月十六日可供自愿下载和使用的 [「安心出行」](https://www.leavehomesafe.gov.hk/) 应用程式具有多项短板。
@@ -19,3 +21,5 @@
 Samiux  
 OSCP  OSWP  OSCE  
 二零二零年十一月廿七日，中国香港  
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
