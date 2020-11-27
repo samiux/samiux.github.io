@@ -184,5 +184,8 @@
 - [** 幻想中的國際化美夢要醒了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7538376-%e5%b9%bb%e6%83%b3%e4%b8%ad%e7%9a%84%e5%9c%8b%e9%9a%9b%e5%8c%96%e7%be%8e%e5%a4%a2%e8%a6%81%e9%86%92%e4%ba%86)  
 - [幻想中的國際化美夢要醒了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7538376-%e5%b9%bb%e6%83%b3%e4%b8%ad%e7%9a%84%e5%9c%8b%e9%9a%9b%e5%8c%96%e7%be%8e%e5%a4%a2%e8%a6%81%e9%86%92%e4%ba%86)  
 - [「碌 Facebook」已 Out？轉用熱門 MeWe 7 大理由 --ezone](https://ezone.ulifestyle.com.hk/article/2814120/%E3%80%8C%E7%A2%8C%20Facebook%E3%80%8D%E5%B7%B2%20Out%EF%BC%9F%E8%BD%89%E7%94%A8%E7%86%B1%E9%96%80%20MeWe%207%20%E5%A4%A7%E7%90%86%E7%94%B1)  
+- [** 鍾南山：可供大範圍使用的「好疫苗」還需兩三年 -- 大公文匯](https://www.tkww.hk/a/202011/27/AP5fc08de4e4b082e38239f2d9.html)  
+- [英疫苗涉隱瞞失誤　90%有效性存疑 -- 大公文匯](https://www.tkww.hk/a/202011/27/AP5fc04cd4e4b082e38239e385.html)  
+- [徹底改變暴力叛變者的培訓基地 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7544709-%e5%be%b9%e5%ba%95%e6%94%b9%e8%ae%8a%e6%9a%b4%e5%8a%9b%e5%8f%9b%e8%ae%8a%e8%80%85%e7%9a%84%e5%9f%b9%e8%a8%93%e5%9f%ba%e5%9c%b0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
