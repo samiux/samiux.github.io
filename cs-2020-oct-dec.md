@@ -182,5 +182,7 @@
 - [「長毛案」終審勝訴的3重含意 -- 小鯊](https://www.bastillepost.com/hongkong/article/7541395-%e3%80%8c%e9%95%b7%e6%af%9b%e6%a1%88%e3%80%8d%e7%b5%82%e5%af%a9%e5%8b%9d%e8%a8%b4%e7%9a%843%e9%87%8d%e5%90%ab%e6%84%8f)  
 - [民調權威踢爆香港民研「香港市民代表組群」好可疑 -- 小鯊](https://www.bastillepost.com/hongkong/article/7541950-%e6%b0%91%e8%aa%bf%e6%ac%8a%e5%a8%81%e8%b8%a2%e7%88%86%e9%a6%99%e6%b8%af%e6%b0%91%e7%a0%94%e3%80%8c%e9%a6%99%e6%b8%af%e5%b8%82%e6%b0%91%e4%bb%a3%e8%a1%a8%e7%b5%84%e7%be%a4%e3%80%8d%e5%a5%bd%e5%8f%af)  
 - [** 幻想中的國際化美夢要醒了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7538376-%e5%b9%bb%e6%83%b3%e4%b8%ad%e7%9a%84%e5%9c%8b%e9%9a%9b%e5%8c%96%e7%be%8e%e5%a4%a2%e8%a6%81%e9%86%92%e4%ba%86)  
+- [幻想中的國際化美夢要醒了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7538376-%e5%b9%bb%e6%83%b3%e4%b8%ad%e7%9a%84%e5%9c%8b%e9%9a%9b%e5%8c%96%e7%be%8e%e5%a4%a2%e8%a6%81%e9%86%92%e4%ba%86)  
+- [「碌 Facebook」已 Out？轉用熱門 MeWe 7 大理由 --ezone](https://ezone.ulifestyle.com.hk/article/2814120/%E3%80%8C%E7%A2%8C%20Facebook%E3%80%8D%E5%B7%B2%20Out%EF%BC%9F%E8%BD%89%E7%94%A8%E7%86%B1%E9%96%80%20MeWe%207%20%E5%A4%A7%E7%90%86%E7%94%B1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
