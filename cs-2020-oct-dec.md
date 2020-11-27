@@ -181,5 +181,6 @@
 - [中國的棺材釘已釘在澳洲貨上 53艘煤炭船「擋在中國之外」澳總理終於改口了… -- 毛拍手](https://www.bastillepost.com/hongkong/article/7541426-%e4%b8%ad%e5%9c%8b%e7%9a%84%e6%a3%ba%e6%9d%90%e9%87%98%e5%b7%b2%e9%87%98%e5%9c%a8%e6%be%b3%e6%b4%b2%e8%b2%a8%e4%b8%8a-53%e8%89%98%e7%85%a4%e7%82%ad%e8%88%b9%e3%80%8c%e6%93%8b%e5%9c%a8%e4%b8%ad)  
 - [「長毛案」終審勝訴的3重含意 -- 小鯊](https://www.bastillepost.com/hongkong/article/7541395-%e3%80%8c%e9%95%b7%e6%af%9b%e6%a1%88%e3%80%8d%e7%b5%82%e5%af%a9%e5%8b%9d%e8%a8%b4%e7%9a%843%e9%87%8d%e5%90%ab%e6%84%8f)  
 - [民調權威踢爆香港民研「香港市民代表組群」好可疑 -- 小鯊](https://www.bastillepost.com/hongkong/article/7541950-%e6%b0%91%e8%aa%bf%e6%ac%8a%e5%a8%81%e8%b8%a2%e7%88%86%e9%a6%99%e6%b8%af%e6%b0%91%e7%a0%94%e3%80%8c%e9%a6%99%e6%b8%af%e5%b8%82%e6%b0%91%e4%bb%a3%e8%a1%a8%e7%b5%84%e7%be%a4%e3%80%8d%e5%a5%bd%e5%8f%af)  
+- [** 幻想中的國際化美夢要醒了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7538376-%e5%b9%bb%e6%83%b3%e4%b8%ad%e7%9a%84%e5%9c%8b%e9%9a%9b%e5%8c%96%e7%be%8e%e5%a4%a2%e8%a6%81%e9%86%92%e4%ba%86)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
