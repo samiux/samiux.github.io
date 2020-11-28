@@ -190,5 +190,6 @@
 - [美國又退一群 全球軍控再受挫 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc1c2a1e4b00f02330c2fd0.html)  
 - [德黑蘭爆發抗議活動：「向美國開戰!」 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc1e334e4b00f02330c368d.html)  
 - [** 中國抗疫果斷 「混檢」跑贏病毒 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc19227e4b00f02330c2105.html)  
+- [中纪委网站：任正非这段送别的话为何感人 -- 澎湃](http://www.thepaper.cn/newsDetail_forward_10179867)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
