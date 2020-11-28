@@ -189,5 +189,6 @@
 - [徹底改變暴力叛變者的培訓基地 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7544709-%e5%be%b9%e5%ba%95%e6%94%b9%e8%ae%8a%e6%9a%b4%e5%8a%9b%e5%8f%9b%e8%ae%8a%e8%80%85%e7%9a%84%e5%9f%b9%e8%a8%93%e5%9f%ba%e5%9c%b0)  
 - [美國又退一群 全球軍控再受挫 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc1c2a1e4b00f02330c2fd0.html)  
 - [德黑蘭爆發抗議活動：「向美國開戰!」 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc1e334e4b00f02330c368d.html)  
+- [** 中國抗疫果斷 「混檢」跑贏病毒 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc19227e4b00f02330c2105.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
