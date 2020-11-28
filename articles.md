@@ -39,6 +39,7 @@
 - [给所有中国人！](/life.md)  
 - [恶意网站追蹤记](/malicious_site_tracking.md)  
 - [谈「安心出行」应用程式的短板](/leavehomesafe.md)  
+- [KB-VULN 系列推介](/kb-vuln.md)  
 
 ### Tutorials
 
