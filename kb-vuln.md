@@ -8,7 +8,7 @@ VulnHub 的 [KB-VULN 系列](https://www.vulnhub.com/series/kb-vuln,358/) 是由
 
 它们分别要获得两支旗，user.txt 和 root.txt。这三个机器的题目非常经典和有趣，每个机器大概需时半小时左右，有些情况是不止一种方法可以去完成的。
 
-希望大家喜欢我的推介！Think Out Of The Box！Hack The Plant！
+希望大家喜欢我的推介！Think Out Of The Box！Hack The Planet！
 
 Samiux  
 OSCP  OSWP  OSCE  
