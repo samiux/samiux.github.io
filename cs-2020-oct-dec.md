@@ -194,5 +194,6 @@
 - [張文宏：未發現新冠患者有嚴重後遺症 -- 大公文匯](https://www.tkww.hk/a/202011/28/AP5fc23a2fe4b00f02330c4546.html)  
 - [創造10909米中國載人深潛新紀錄 奮鬥者號凱旋 習近平函賀 -- 大公文匯](https://www.tkww.hk/a/202011/29/AP5fc2eba8e4b00f02330c5857.html)  
 - [利物浦市全民檢測有半數人口參與 英國寄希望在全英檢測 -- deepthroat](https://www.bastillepost.com/hongkong/article/7548453-%e5%88%a9%e7%89%a9%e6%b5%a6%e5%b8%82%e5%85%a8%e6%b0%91%e6%aa%a2%e6%b8%ac%e6%9c%89%e5%8d%8a%e6%95%b8%e4%ba%ba%e5%8f%a3%e5%8f%83%e8%88%87-%e8%8b%b1%e5%9c%8b%e5%af%84%e5%b8%8c%e6%9c%9b%e5%9c%a8%e5%85%a8)  
+- [中國「混採」跑贏病毒 日檢百萬人冠全球  -- 大公文匯](https://mp.weixin.qq.com/s/dysjv7QryUmltBLPk_c0AA)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
