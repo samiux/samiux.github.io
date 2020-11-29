@@ -195,5 +195,8 @@
 - [創造10909米中國載人深潛新紀錄 奮鬥者號凱旋 習近平函賀 -- 大公文匯](https://www.tkww.hk/a/202011/29/AP5fc2eba8e4b00f02330c5857.html)  
 - [利物浦市全民檢測有半數人口參與 英國寄希望在全英檢測 -- deepthroat](https://www.bastillepost.com/hongkong/article/7548453-%e5%88%a9%e7%89%a9%e6%b5%a6%e5%b8%82%e5%85%a8%e6%b0%91%e6%aa%a2%e6%b8%ac%e6%9c%89%e5%8d%8a%e6%95%b8%e4%ba%ba%e5%8f%a3%e5%8f%83%e8%88%87-%e8%8b%b1%e5%9c%8b%e5%af%84%e5%b8%8c%e6%9c%9b%e5%9c%a8%e5%85%a8)  
 - [中國「混採」跑贏病毒 日檢百萬人冠全球  -- 大公文匯](https://mp.weixin.qq.com/s/dysjv7QryUmltBLPk_c0AA)  
+- [港府：內地疫苗可獲准在港使用 必要時會緊急立法 -- 大公文匯](https://www.tkww.hk/a/202011/27/AP5fc1163ae4b00f02330c17ce.html)  
+- [** 新冠滅活疫苗注射8個月後仍有抗體 65萬人緊急使用無一例不良反應 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7550603-%e6%96%b0%e5%86%a0%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97%e6%b3%a8%e5%b0%848%e5%80%8b%e6%9c%88%e5%be%8c%e4%bb%8d%e6%9c%89%e6%8a%97%e9%ab%94-65%e8%90%ac%e4%ba%ba%e7%b7%8a%e6%80%a5%e4%bd%bf%e7%94%a8)  
+- [調查：近九成受訪者愿接種內地研發疫苗 -- 大公文匯](https://www.tkww.hk/a/202011/29/AP5fc32975e4b00f02330c691b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
