@@ -29,5 +29,6 @@ OSCP  OSWP  OSCE
 - [副政府科技總監回應《安心出行》App 誤解 -- ezone](https://ezone.ulifestyle.com.hk/article/2804465/%E5%89%AF%E6%94%BF%E5%BA%9C%E7%A7%91%E6%8A%80%E7%B8%BD%E7%9B%A3%E5%9B%9E%E6%87%89%E3%80%8A%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E3%80%8BApp%20%E8%AA%A4%E8%A7%A3)  
 - [薛永恒：23萬人已下載「安心出行」程式 -- 大公文匯](https://www.tkww.hk/a/202011/27/AP5fc0780fe4b082e38239edaa.html)  
 - [創科局薛永恒：《安心出行》App 下載量逾 20 萬 -- ezone](https://ezone.ulifestyle.com.hk/article/2813386/%E5%89%B5%E7%A7%91%E5%B1%80%E8%96%9B%E6%B0%B8%E6%81%92%EF%BC%9A%E3%80%8A%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E3%80%8BApp%20%E4%B8%8B%E8%BC%89%E9%87%8F%E9%80%BE%2020%20%E8%90%AC)  
+- [【短片】【有聲專欄】屈穎妍：抗疫迷宮 ](https://samiux.blogspot.com/2020/11/blog-post_17.html) 
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
