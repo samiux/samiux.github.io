@@ -200,5 +200,9 @@
 - [調查：近九成受訪者愿接種內地研發疫苗 -- 大公文匯](https://www.tkww.hk/a/202011/29/AP5fc32975e4b00f02330c691b.html)  
 - [香港輸出新冠個案去惠州 內地無輸港個案 免檢通關難上難 -- Ariel](https://www.bastillepost.com/hongkong/article/7556088-%e9%a6%99%e6%b8%af%e8%bc%b8%e5%87%ba%e6%96%b0%e5%86%a0%e5%80%8b%e6%a1%88%e5%8e%bb%e6%83%a0%e5%b7%9e-%e5%85%a7%e5%9c%b0%e7%84%a1%e8%bc%b8%e6%b8%af%e5%80%8b%e6%a1%88-%e5%85%8d%e6%aa%a2%e9%80%9a)  
 - [新冠病毒或會經母嬰傳播？ 確診孕婦誕帶抗體嬰 -- 大公文匯](https://www.tkww.hk/a/202011/29/AP5fc37883e4b00f02330c7db7.html)  
+- [約400名港澳老年人在大灣區內地城市養老 -- 大公文匯](https://www.tkww.hk/a/202011/30/AP5fc4e1c9e4b00f02330cbd6f.html)  
+- [深圳調查「代持炒房」 違規將嚴肅處理 -- 大公文匯](https://www.tkww.hk/a/202011/30/AP5fc50285e4b00f02330cc2b4.html)  
+- [輝瑞安排運送首批新冠疫苗 美疾控中心倡優先為兩類人接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7547427-%e8%bc%9d%e7%91%9e%e5%ae%89%e6%8e%92%e9%81%8b%e9%80%81%e9%a6%96%e6%89%b9%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97-%e7%be%8e%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e5%80%a1%e5%84%aa%e5%85%88%e7%82%ba%e5%85%a9)  
+- [莫德納新冠疫苗有效率達94% 擬向美歐申請緊急使用授權 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7559567-%e8%8e%ab%e5%be%b7%e7%b4%8d%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%9c%89%e6%95%88%e7%8e%87%e9%81%9494-%e6%93%ac%e5%90%91%e7%be%8e%e6%ad%90%e7%94%b3%e8%ab%8b%e7%b7%8a%e6%80%a5%e4%bd%bf%e7%94%a8?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
