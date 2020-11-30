@@ -204,5 +204,9 @@
 - [深圳調查「代持炒房」 違規將嚴肅處理 -- 大公文匯](https://www.tkww.hk/a/202011/30/AP5fc50285e4b00f02330cc2b4.html)  
 - [輝瑞安排運送首批新冠疫苗 美疾控中心倡優先為兩類人接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7547427-%e8%bc%9d%e7%91%9e%e5%ae%89%e6%8e%92%e9%81%8b%e9%80%81%e9%a6%96%e6%89%b9%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97-%e7%be%8e%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e5%80%a1%e5%84%aa%e5%85%88%e7%82%ba%e5%85%a9)  
 - [莫德納新冠疫苗有效率達94% 擬向美歐申請緊急使用授權 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7559567-%e8%8e%ab%e5%be%b7%e7%b4%8d%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%9c%89%e6%95%88%e7%8e%87%e9%81%9494-%e6%93%ac%e5%90%91%e7%be%8e%e6%ad%90%e7%94%b3%e8%ab%8b%e7%b7%8a%e6%80%a5%e4%bd%bf%e7%94%a8?current_cat=6)  
+- [中国漫画讽刺澳军真实暴行，澳总理气炸 -- 观察者](https://www.guancha.cn/internation/2020_11_30_573034.shtml)  
+- [【外交部】澳大利亚军人的行径违背人类良知 赵立坚用严厉语气表示强烈谴责 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=vY3sp89kaFE)  
+- [** ASPI paid for 'intellectual credibility' in anti-China policies -- CGTN](https://news.cgtn.com/news/2020-11-06/ASPI-paid-for-intellectual-credibility-in-anti-China-policies-Vct6aQuEyk/index.html)  
+- [【外交部】澳媒自曝：澳机构收“金主”美国务院大笔金钱用来反华！中方回应 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=T6A1Qz43LC0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
