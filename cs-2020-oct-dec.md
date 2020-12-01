@@ -211,5 +211,6 @@
 - [不是武漢！全球99.5%新冠病毒源自意大利 -- 大公文匯](https://www.tkww.hk/a/202012/01/AP5fc58cf3e4b00f02330cd1c9.html)  
 - [澳洲爆阿富汗殘殺平民大醜聞 卻遷怒於中國一幅諷剌畫要求道歉 -- deepthroat](https://www.bastillepost.com/hongkong/article/7561991-%e6%be%b3%e6%b4%b2%e7%88%86%e9%98%bf%e5%af%8c%e6%b1%97%e6%ae%98%e6%ae%ba%e5%b9%b3%e6%b0%91%e5%a4%a7%e9%86%9c%e8%81%9e-%e5%8d%bb%e9%81%b7%e6%80%92%e6%96%bc%e4%b8%ad%e5%9c%8b%e4%b8%80%e5%b9%85%e8%ab%b7)  
 - [美疾控中心：美國可能早於中國出現新冠病例 -- 大公文匯](https://www.tkww.hk/a/202012/01/AP5fc5eac2e4b00f02330cea71.html)  
+- [熱點追蹤|拜登對華政策10選項 條條都是餿主意 -- 大公文匯](https://www.tkww.hk/a/202012/01/AP5fc62775e4b00f02330cf5f6.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
