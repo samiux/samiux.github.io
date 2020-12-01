@@ -208,5 +208,7 @@
 - [【外交部】澳大利亚军人的行径违背人类良知 赵立坚用严厉语气表示强烈谴责 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=vY3sp89kaFE)  
 - [** ASPI paid for 'intellectual credibility' in anti-China policies -- CGTN](https://news.cgtn.com/news/2020-11-06/ASPI-paid-for-intellectual-credibility-in-anti-China-policies-Vct6aQuEyk/index.html)  
 - [【外交部】澳媒自曝：澳机构收“金主”美国务院大笔金钱用来反华！中方回应 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=T6A1Qz43LC0)  
+- [不是武漢！全球99.5%新冠病毒源自意大利 -- 大公文匯](https://www.tkww.hk/a/202012/01/AP5fc58cf3e4b00f02330cd1c9.html)  
+- [澳洲爆阿富汗殘殺平民大醜聞 卻遷怒於中國一幅諷剌畫要求道歉 -- deepthroat](https://www.bastillepost.com/hongkong/article/7561991-%e6%be%b3%e6%b4%b2%e7%88%86%e9%98%bf%e5%af%8c%e6%b1%97%e6%ae%98%e6%ae%ba%e5%b9%b3%e6%b0%91%e5%a4%a7%e9%86%9c%e8%81%9e-%e5%8d%bb%e9%81%b7%e6%80%92%e6%96%bc%e4%b8%ad%e5%9c%8b%e4%b8%80%e5%b9%85%e8%ab%b7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
