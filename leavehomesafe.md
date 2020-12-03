@@ -30,5 +30,6 @@ OSCP  OSWP  OSCE
 - [薛永恒：23萬人已下載「安心出行」程式 -- 大公文匯](https://www.tkww.hk/a/202011/27/AP5fc0780fe4b082e38239edaa.html)  
 - [創科局薛永恒：《安心出行》App 下載量逾 20 萬 -- ezone](https://ezone.ulifestyle.com.hk/article/2813386/%E5%89%B5%E7%A7%91%E5%B1%80%E8%96%9B%E6%B0%B8%E6%81%92%EF%BC%9A%E3%80%8A%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E3%80%8BApp%20%E4%B8%8B%E8%BC%89%E9%87%8F%E9%80%BE%2020%20%E8%90%AC)  
 - [【短片】【有聲專欄】屈穎妍：抗疫迷宮 ](https://samiux.blogspot.com/2020/11/blog-post_17.html) 
+- [安心出行推新功能用戶可自查行蹤　取消查看WiFi權限　強調無大台 -- HK01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/557311/%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E6%8E%A8%E6%96%B0%E5%8A%9F%E8%83%BD%E7%94%A8%E6%88%B6%E5%8F%AF%E8%87%AA%E6%9F%A5%E8%A1%8C%E8%B9%A4-%E5%8F%96%E6%B6%88%E6%9F%A5%E7%9C%8Bwifi%E6%AC%8A%E9%99%90-%E5%BC%B7%E8%AA%BF%E7%84%A1%E5%A4%A7%E5%8F%B0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
