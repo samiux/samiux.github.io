@@ -220,5 +220,6 @@
 - [你可以，我不可以，憑什麼說這是科學？ -- 深藍](https://www.bastillepost.com/hongkong/article/7569956-%e4%bd%a0%e5%8f%af%e4%bb%a5%ef%bc%8c%e6%88%91%e4%b8%8d%e5%8f%af%e4%bb%a5%ef%bc%8c%e6%86%91%e4%bb%80%e9%ba%bc%e8%aa%aa%e9%80%99%e6%98%af%e7%a7%91%e5%ad%b8%ef%bc%9f)  
 - [廣深港擬建多條高速通道　5G北斗促「數字交通」 -- 大公文匯](https://www.tkww.hk/a/202012/02/AP5fc76d3de4b004ac441a73f2.html)  
 - [** 妍之有理/本來，根本不會有跳舞群組\屈穎妍 -- 大公報](http://www.takungpao.com.hk/news/232109/2020/1202/527131.html)  
+- [** 習近平：我們如期完成了新時代脫貧攻堅目標任務 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc9237ce4b004ac441ad1ad.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
