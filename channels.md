@@ -53,6 +53,7 @@
 - [時事觀察 -- 2020-11-04 -- 霍詠強](https://samiux.blogspot.com/2020/11/2020-11-04.html)  
 - [內地網友在港拍片 爆香港「低能防疫」 -- Ariel](https://www.bastillepost.com/hongkong/article/7521157-%e5%85%a7%e5%9c%b0%e7%b6%b2%e5%8f%8b%e5%9c%a8%e6%b8%af%e6%8b%8d%e7%89%87-%e7%88%86%e9%a6%99%e6%b8%af%e3%80%8c%e4%bd%8e%e8%83%bd%e9%98%b2%e7%96%ab%e3%80%8d)  
 - [【环球叶问】放弃“对华接触”，也拒绝冷战，拜登政府对华政策竟然是这两个字 -- 东方卫视环球交叉点](https://samiux.blogspot.com/2020/12/blog-post_1.html)  
+- [妍之有理/本來，根本不會有跳舞群組\屈穎妍 -- 大公報](http://www.takungpao.com.hk/news/232109/2020/1202/527131.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
