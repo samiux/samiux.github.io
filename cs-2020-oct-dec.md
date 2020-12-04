@@ -225,5 +225,9 @@
 - [嫦娥五号完成月面自动采样封装 有效载荷工作正常 -- 大公网](http://www.takungpao.com/news/232108/2020/1203/527807.html)  
 - [嫦娥五號送月壤返航 實現中國首次地外天體起飛 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc97f92e4b004ac441adc56.html)  
 - [** 【环球叶问】放弃“对华接触”，也拒绝冷战，拜登政府对华政策竟然是这两个字 -- 东方卫视环球交叉点](https://samiux.blogspot.com/2020/12/blog-post_1.html)  
+- [供應鏈出問題　輝瑞2020年年底前可供應疫苗量減半 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc99bd7e4b004ac441ae591.html)  
+- [科技企善用供應鏈 　探出「新打法」 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc9c916e4b004ac441af192.html)  
+- [中美科技新較量︰大衛高柏飛VS阿里巴巴四十大盜 -- 深藍](https://www.bastillepost.com/hongkong/article/7584136-%e4%b8%ad%e7%be%8e%e7%a7%91%e6%8a%80%e6%96%b0%e8%bc%83%e9%87%8f%ef%b8%b0%e5%a4%a7%e8%a1%9b%e9%ab%98%e6%9f%8f%e9%a3%9bvs%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e5%9b%9b%e5%8d%81%e5%a4%a7%e7%9b%9c-2)  
+- [國運不隆 超級望遠鏡爆鏡 美國阿雷西博望遠鏡塌了，世界只剩下中國一隻「天眼」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7582249-%e5%9c%8b%e9%81%8b%e4%b8%8d%e9%9a%86-%e8%b6%85%e7%b4%9a%e6%9c%9b%e9%81%a0%e9%8f%a1%e7%88%86%e9%8f%a1-%e7%be%8e%e5%9c%8b%e9%98%bf%e9%9b%b7%e8%a5%bf%e5%8d%9a%e6%9c%9b%e9%81%a0%e9%8f%a1%e5%a1%8c%e4%ba%86)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
