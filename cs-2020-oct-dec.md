@@ -221,5 +221,9 @@
 - [廣深港擬建多條高速通道　5G北斗促「數字交通」 -- 大公文匯](https://www.tkww.hk/a/202012/02/AP5fc76d3de4b004ac441a73f2.html)  
 - [** 妍之有理/本來，根本不會有跳舞群組\屈穎妍 -- 大公報](http://www.takungpao.com.hk/news/232109/2020/1202/527131.html)  
 - [** 習近平：我們如期完成了新時代脫貧攻堅目標任務 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc9237ce4b004ac441ad1ad.html)  
+- [貴州最後9個貧困縣「出列」 彝族鄉遷入扶貧點建成「阿妹戚托小鎮」-- 文匯報](https://www.wenweipo.com/a/202012/03/AP5fc86549e4b0d6c5063b7369.html)  
+- [嫦娥五号完成月面自动采样封装 有效载荷工作正常 -- 大公网](http://www.takungpao.com/news/232108/2020/1203/527807.html)  
+- [嫦娥五號送月壤返航 實現中國首次地外天體起飛 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc97f92e4b004ac441adc56.html)  
+- [** 【环球叶问】放弃“对华接触”，也拒绝冷战，拜登政府对华政策竟然是这两个字 -- 东方卫视环球交叉点](https://samiux.blogspot.com/2020/12/blog-post_1.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
