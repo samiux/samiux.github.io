@@ -231,5 +231,6 @@
 - [國運不隆 超級望遠鏡爆鏡 美國阿雷西博望遠鏡塌了，世界只剩下中國一隻「天眼」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7582249-%e5%9c%8b%e9%81%8b%e4%b8%8d%e9%9a%86-%e8%b6%85%e7%b4%9a%e6%9c%9b%e9%81%a0%e9%8f%a1%e7%88%86%e9%8f%a1-%e7%be%8e%e5%9c%8b%e9%98%bf%e9%9b%b7%e8%a5%bf%e5%8d%9a%e6%9c%9b%e9%81%a0%e9%8f%a1%e5%a1%8c%e4%ba%86)  
 - [福奇：英國審批「輝瑞疫苗」太倉促　或削弱公眾信心 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fc98cd4e4b004ac441ae0ed.html)  
 - [** 中國新一代「人造太陽」裝置建成並實現首次放電 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fca19afe4b004ac441b02bc.html)  
+- [** 匯動的話 -「混採檢測」是怎麼回事?香港可以採用嗎? -- 文匯報](https://www.wenweipo.com/a/202012/04/AP5fc9f0e4e4b0d6c5063ba571.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
