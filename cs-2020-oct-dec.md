@@ -233,6 +233,8 @@
 - [** 中國新一代「人造太陽」裝置建成並實現首次放電 -- 大公文匯](https://www.tkww.hk/a/202012/04/AP5fca19afe4b004ac441b02bc.html)  
 - [** 匯動的話 -「混採檢測」是怎麼回事?香港可以採用嗎? -- 文匯報](https://www.wenweipo.com/a/202012/04/AP5fc9f0e4e4b0d6c5063ba571.html)  
 - [** 200秒完成6億年工作，中國量子計算機「九章」如何碾壓美國和日本的計算機？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7587596-200%e7%a7%92%e5%ae%8c%e6%88%906%e5%84%84%e5%b9%b4%e5%b7%a5%e4%bd%9c%ef%bc%8c%e4%b8%ad%e5%9c%8b%e9%87%8f%e5%ad%90%e8%a8%88%e7%ae%97%e6%a9%9f%e3%80%8c%e4%b9%9d%e7%ab%a0%e3%80%8d%e5%a6%82%e4%bd%95)  
+- [** 九章 (量子计算机) -- 维基百科](https://zh.wikipedia.org/wiki/%E4%B9%9D%E7%AB%A0_(%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA))  
+- [** 中國量子計算原型機“九章”算力有多強？一文解讀 -- 人民日報](http://scitech.people.com.cn/BIG5/n1/2020/1204/c1007-31955977.html)  
 - [英國創奇葩世界第一還在沾沾自喜 搶先批准美國疫苖被各國質疑 -- deepthroat](https://www.bastillepost.com/hongkong/article/7587510-%e8%8b%b1%e5%9c%8b%e5%89%b5%e5%a5%87%e8%91%a9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%e9%82%84%e5%9c%a8%e6%b2%be%e6%b2%be%e8%87%aa%e5%96%9c-%e6%90%b6%e5%85%88%e6%89%b9%e5%87%86%e7%be%8e%e5%9c%8b%e7%96%ab)  
 - [比AI更出色的英國網紅醫療專家 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7587342-%e6%af%94ai%e6%9b%b4%e5%87%ba%e8%89%b2%e7%9a%84%e8%8b%b1%e5%9c%8b%e7%b6%b2%e7%b4%85%e9%86%ab%e7%99%82%e5%b0%88%e5%ae%b6)  
 
