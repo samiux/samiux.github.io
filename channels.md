@@ -57,6 +57,7 @@
 - [200秒完成6億年工作，中國量子計算機「九章」如何碾壓美國和日本的計算機？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7587596-200%e7%a7%92%e5%ae%8c%e6%88%906%e5%84%84%e5%b9%b4%e5%b7%a5%e4%bd%9c%ef%bc%8c%e4%b8%ad%e5%9c%8b%e9%87%8f%e5%ad%90%e8%a8%88%e7%ae%97%e6%a9%9f%e3%80%8c%e4%b9%9d%e7%ab%a0%e3%80%8d%e5%a6%82%e4%bd%95)  
 - [九章 (量子计算机) -- 维基百科](https://zh.wikipedia.org/wiki/%E4%B9%9D%E7%AB%A0_(%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA))  
 - [中國量子計算原型機“九章”算力有多強？一文解讀 -- 人民日報](http://scitech.people.com.cn/BIG5/n1/2020/1204/c1007-31955977.html)  
+- [九章 （量子计算原型机） -- 百度百科](https://baike.baidu.com/item/%E4%B9%9D%E7%AB%A0/55232174)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
