@@ -236,6 +236,7 @@
 - [** 九章 (量子计算机) -- 维基百科](https://zh.wikipedia.org/wiki/%E4%B9%9D%E7%AB%A0_(%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA))  
 - [** 中國量子計算原型機“九章”算力有多強？一文解讀 -- 人民日報](http://scitech.people.com.cn/BIG5/n1/2020/1204/c1007-31955977.html)  
 - [** 九章 （量子计算原型机） -- 百度百科](https://baike.baidu.com/item/%E4%B9%9D%E7%AB%A0/55232174)  
+- [** 「九章」問鼎 確立中國在國際量子計算研究第一方陣地位 -- 大公文匯](https://www.tkww.hk/a/202012/06/AP5fcc5332e4b004ac441b5b88.html)  
 - [英國創奇葩世界第一還在沾沾自喜 搶先批准美國疫苖被各國質疑 -- deepthroat](https://www.bastillepost.com/hongkong/article/7587510-%e8%8b%b1%e5%9c%8b%e5%89%b5%e5%a5%87%e8%91%a9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%e9%82%84%e5%9c%a8%e6%b2%be%e6%b2%be%e8%87%aa%e5%96%9c-%e6%90%b6%e5%85%88%e6%89%b9%e5%87%86%e7%be%8e%e5%9c%8b%e7%96%ab)  
 - [比AI更出色的英國網紅醫療專家 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7587342-%e6%af%94ai%e6%9b%b4%e5%87%ba%e8%89%b2%e7%9a%84%e8%8b%b1%e5%9c%8b%e7%b6%b2%e7%b4%85%e9%86%ab%e7%99%82%e5%b0%88%e5%ae%b6)  
 
