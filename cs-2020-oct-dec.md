@@ -239,5 +239,11 @@
 - [** 「九章」問鼎 確立中國在國際量子計算研究第一方陣地位 -- 大公文匯](https://www.tkww.hk/a/202012/06/AP5fcc5332e4b004ac441b5b88.html)  
 - [英國創奇葩世界第一還在沾沾自喜 搶先批准美國疫苖被各國質疑 -- deepthroat](https://www.bastillepost.com/hongkong/article/7587510-%e8%8b%b1%e5%9c%8b%e5%89%b5%e5%a5%87%e8%91%a9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%e9%82%84%e5%9c%a8%e6%b2%be%e6%b2%be%e8%87%aa%e5%96%9c-%e6%90%b6%e5%85%88%e6%89%b9%e5%87%86%e7%be%8e%e5%9c%8b%e7%96%ab)  
 - [比AI更出色的英國網紅醫療專家 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7587342-%e6%af%94ai%e6%9b%b4%e5%87%ba%e8%89%b2%e7%9a%84%e8%8b%b1%e5%9c%8b%e7%b6%b2%e7%b4%85%e9%86%ab%e7%99%82%e5%b0%88%e5%ae%b6)  
+- [** 印度安得拉邦現「神秘疾病」　300人嘔吐昏倒入院 -- 大公文匯](https://www.tkww.hk/a/202012/07/AP5fcdb053e4b004ac441b9a6e.html)  
+- [** 中國科興生物首批120萬劑新冠疫苗運抵印尼 -- 大公文匯](https://www.tkww.hk/a/202012/07/AP5fcd9ff0e4b004ac441b94f4.html)  
+- [** 接種順序朝令夕改　英疫苗計劃大亂 -- 大公文匯](https://www.tkww.hk/a/202012/07/AP5fcd8259e4b004ac441b8cc0.html)  
+- [俄羅斯醫學專家總結 中國抗疫成功3大因素 「中國某個時候會大規模接種疫苖，並非常有組織迅速完成」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7595555-%e4%bf%84%e7%be%85%e6%96%af%e9%86%ab%e5%ad%b8%e5%b0%88%e5%ae%b6%e7%b8%bd%e7%b5%90-%e4%b8%ad%e5%9c%8b%e6%8a%97%e7%96%ab%e6%88%90%e5%8a%9f3%e5%a4%a7%e5%9b%a0%e7%b4%a0-%e3%80%8c%e4%b8%ad%e5%9c%8b)  
+- [中國：永不破裂的泡沫，有科學根據嗎？ -- 深藍](https://www.bastillepost.com/hongkong/article/7597001-%e4%b8%ad%e5%9c%8b%ef%bc%9a%e6%b0%b8%e4%b8%8d%e7%a0%b4%e8%a3%82%e7%9a%84%e6%b3%a1%e6%b2%ab%ef%bc%8c%e6%9c%89%e7%a7%91%e5%ad%b8%e6%a0%b9%e6%93%9a%e5%97%8e%ef%bc%9f)  
+- [病毒會分辨“兩制”嗎？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7597198-%e7%97%85%e6%af%92%e6%9c%83%e5%88%86%e8%be%a8%e5%85%a9%e5%88%b6%e5%97%8e%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
