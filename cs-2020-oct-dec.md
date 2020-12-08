@@ -251,5 +251,6 @@
 - [** 全球首款新冠滅活口罩發布　已獲港大認證 -- 文匯網](https://www.wenweipo.com/a/202012/08/AP5fcf405ee4b07eac20b9eccf.html)  
 - [** 血清學研究表明大多數人仍易感染新冠病毒 -- 文匯網](https://www.wenweipo.com/a/202012/08/AP5fcf0389e4b07eac20b9e486.html)  
 - [辉瑞疫苗副作用极大？美国护士接种后怀疑自己染新冠 -- 大公网](http://www.takungpao.com/news/232111/2020/1208/529609.html)  
+- [跳出抗疫的思維盒子 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7605118-%e8%b7%b3%e5%87%ba%e6%8a%97%e7%96%ab%e7%9a%84%e6%80%9d%e7%b6%ad%e7%9b%92%e5%ad%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
