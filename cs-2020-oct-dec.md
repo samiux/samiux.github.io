@@ -248,5 +248,8 @@
 - [許樹昌：不建議本港採購輝瑞新冠疫苗 -- 大公文匯](https://www.tkww.hk/a/202012/08/AP5fcee798e4b05fd5771f0df0.html)  
 - [《泰晤士報》評述：「只有傻瓜才會不看好中國」 2020 是中國之年 -- deepthroat](https://www.bastillepost.com/hongkong/article/7600926-%e3%80%8a%e6%b3%b0%e6%99%a4%e5%a3%ab%e5%a0%b1%e3%80%8b%e8%a9%95%e8%bf%b0%ef%bc%9a%e3%80%8c%e5%8f%aa%e6%9c%89%e5%82%bb%e7%93%9c%e6%89%8d%e6%9c%83%e4%b8%8d%e7%9c%8b%e5%a5%bd%e4%b8%ad%e5%9c%8b%e3%80%8d-2)  
 - [美眾議院通過《香港人民自由和選擇法案》 主要為示威者開移民之門 -- deepthroat](https://www.bastillepost.com/hongkong/article/7602832-%e7%be%8e%e7%9c%be%e8%ad%b0%e9%99%a2%e9%80%9a%e9%81%8e%e3%80%8a%e9%a6%99%e6%b8%af%e4%ba%ba%e6%b0%91%e8%87%aa%e7%94%b1%e5%92%8c%e9%81%b8%e6%93%87%e6%b3%95%e6%a1%88%e3%80%8b-%e4%b8%bb%e8%a6%81%e7%82%ba)  
+- [** 全球首款新冠滅活口罩發布　已獲港大認證 -- 文匯網](https://www.wenweipo.com/a/202012/08/AP5fcf405ee4b07eac20b9eccf.html)  
+- [** 血清學研究表明大多數人仍易感染新冠病毒 -- 文匯網](https://www.wenweipo.com/a/202012/08/AP5fcf0389e4b07eac20b9e486.html)  
+- [辉瑞疫苗副作用极大？美国护士接种后怀疑自己染新冠 -- 大公网](http://www.takungpao.com/news/232111/2020/1208/529609.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
