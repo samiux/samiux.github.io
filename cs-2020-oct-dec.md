@@ -245,5 +245,8 @@
 - [俄羅斯醫學專家總結 中國抗疫成功3大因素 「中國某個時候會大規模接種疫苖，並非常有組織迅速完成」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7595555-%e4%bf%84%e7%be%85%e6%96%af%e9%86%ab%e5%ad%b8%e5%b0%88%e5%ae%b6%e7%b8%bd%e7%b5%90-%e4%b8%ad%e5%9c%8b%e6%8a%97%e7%96%ab%e6%88%90%e5%8a%9f3%e5%a4%a7%e5%9b%a0%e7%b4%a0-%e3%80%8c%e4%b8%ad%e5%9c%8b)  
 - [中國：永不破裂的泡沫，有科學根據嗎？ -- 深藍](https://www.bastillepost.com/hongkong/article/7597001-%e4%b8%ad%e5%9c%8b%ef%bc%9a%e6%b0%b8%e4%b8%8d%e7%a0%b4%e8%a3%82%e7%9a%84%e6%b3%a1%e6%b2%ab%ef%bc%8c%e6%9c%89%e7%a7%91%e5%ad%b8%e6%a0%b9%e6%93%9a%e5%97%8e%ef%bc%9f)  
 - [病毒會分辨“兩制”嗎？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7597198-%e7%97%85%e6%af%92%e6%9c%83%e5%88%86%e8%be%a8%e5%85%a9%e5%88%b6%e5%97%8e%ef%bc%9f)  
+- [許樹昌：不建議本港採購輝瑞新冠疫苗 -- 大公文匯](https://www.tkww.hk/a/202012/08/AP5fcee798e4b05fd5771f0df0.html)  
+- [《泰晤士報》評述：「只有傻瓜才會不看好中國」 2020 是中國之年 -- deepthroat](https://www.bastillepost.com/hongkong/article/7600926-%e3%80%8a%e6%b3%b0%e6%99%a4%e5%a3%ab%e5%a0%b1%e3%80%8b%e8%a9%95%e8%bf%b0%ef%bc%9a%e3%80%8c%e5%8f%aa%e6%9c%89%e5%82%bb%e7%93%9c%e6%89%8d%e6%9c%83%e4%b8%8d%e7%9c%8b%e5%a5%bd%e4%b8%ad%e5%9c%8b%e3%80%8d-2)  
+- [美眾議院通過《香港人民自由和選擇法案》 主要為示威者開移民之門 -- deepthroat](https://www.bastillepost.com/hongkong/article/7602832-%e7%be%8e%e7%9c%be%e8%ad%b0%e9%99%a2%e9%80%9a%e9%81%8e%e3%80%8a%e9%a6%99%e6%b8%af%e4%ba%ba%e6%b0%91%e8%87%aa%e7%94%b1%e5%92%8c%e9%81%b8%e6%93%87%e6%b3%95%e6%a1%88%e3%80%8b-%e4%b8%bb%e8%a6%81%e7%82%ba)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
