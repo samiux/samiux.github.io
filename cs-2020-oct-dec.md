@@ -252,5 +252,6 @@
 - [** 血清學研究表明大多數人仍易感染新冠病毒 -- 文匯網](https://www.wenweipo.com/a/202012/08/AP5fcf0389e4b07eac20b9e486.html)  
 - [辉瑞疫苗副作用极大？美国护士接种后怀疑自己染新冠 -- 大公网](http://www.takungpao.com/news/232111/2020/1208/529609.html)  
 - [跳出抗疫的思維盒子 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7605118-%e8%b7%b3%e5%87%ba%e6%8a%97%e7%96%ab%e7%9a%84%e6%80%9d%e7%b6%ad%e7%9b%92%e5%ad%90)  
+- [** 內地專家張文宏預判全球疫情1到2年內都不會結束 在精準防疫下大型活動可以重啟 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7608367-%e5%85%a7%e5%9c%b0%e5%b0%88%e5%ae%b6%e5%bc%b5%e6%96%87%e5%ae%8f%e9%a0%90%e5%88%a4%e5%85%a8%e7%90%83%e7%96%ab%e6%83%851%e5%88%b02%e5%b9%b4%e5%85%a7%e9%83%bd%e4%b8%8d%e6%9c%83%e7%b5%90%e6%9d%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
