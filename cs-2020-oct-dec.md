@@ -265,5 +265,6 @@
 - [光纖通信業獨步全球　多國推中國方案 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd1944be4b01efc849da57e.html)  
 - [4人接種輝瑞新冠疫苗後面癱 英國衛生官員警告嚴重過敏者不宜接種 -- deepthroat](https://www.bastillepost.com/hongkong/article/7616593-4%e4%ba%ba%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9e%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%be%8c%e9%9d%a2%e7%99%b1-%e8%8b%b1%e5%9c%8b%e8%a1%9b%e7%94%9f%e5%ae%98%e5%93%a1%e8%ad%a6%e5%91%8a%e5%9a%b4)  
 - [中國沒有兜售虛假信息，只是西方自罹Infodemic -- 深藍](https://www.bastillepost.com/hongkong/article/7610387-%e4%b8%ad%e5%9c%8b%e6%b2%92%e6%9c%89%e5%85%9c%e5%94%ae%e8%99%9b%e5%81%87%e4%bf%a1%e6%81%af%ef%bc%8c%e5%8f%aa%e6%98%af%e8%a5%bf%e6%96%b9%e8%87%aa%e7%bd%b9infodemic)  
+- [** 數字貨幣未來實現跨境支付　逐漸融入全球支付體系 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd1a9d8e4b01efc849daae5.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
