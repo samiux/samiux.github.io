@@ -262,5 +262,6 @@
 - [國家統計局：2020年中國糧食生產增113億斤 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd1a151e4b01efc849da923.html)  
 - [教育部：義務教育輟學學生數由60萬降至831人 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd1a161e4b01efc849da924.html)  
 - [習近平同馬克龍通電話　就中法合作達八大共識 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd155c8e4b01efc849d91af.html)  
+- [光纖通信業獨步全球　多國推中國方案 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd1944be4b01efc849da57e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
