@@ -59,6 +59,7 @@
 - [中國量子計算原型機“九章”算力有多強？一文解讀 -- 人民日報](http://scitech.people.com.cn/BIG5/n1/2020/1204/c1007-31955977.html)  
 - [九章 （量子计算原型机） -- 百度百科](https://baike.baidu.com/item/%E4%B9%9D%E7%AB%A0/55232174)  
 - [「九章」問鼎 確立中國在國際量子計算研究第一方陣地位 -- 大公文匯](https://www.tkww.hk/a/202012/06/AP5fcc5332e4b004ac441b5b88.html)  
+- [18项App个人信息保护团体标准发布:按最小必要原则制定 -- 新浪科技](https://finance.sina.com.cn/tech/2020-12-09/doc-iiznctke5647730.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
