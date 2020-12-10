@@ -270,5 +270,6 @@
 - [** 從一個個案看到香港抗疫如何鬆散 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7618544-%e5%be%9e%e4%b8%80%e5%80%8b%e5%80%8b%e6%a1%88%e7%9c%8b%e5%88%b0%e9%a6%99%e6%b8%af%e6%8a%97%e7%96%ab%e5%a6%82%e4%bd%95%e9%ac%86%e6%95%a3)  
 - [經私家醫生轉介 一周測出130個陽性個案 3種社區採樣或檢測共604個確診 -- Ariel](https://www.bastillepost.com/hongkong/article/7618075-%e7%b6%93%e7%a7%81%e5%ae%b6%e9%86%ab%e7%94%9f%e8%bd%89%e4%bb%8b-%e4%b8%80%e5%91%a8%e6%b8%ac%e5%87%ba130%e5%80%8b%e9%99%bd%e6%80%a7%e5%80%8b%e6%a1%88-3%e7%a8%ae%e7%a4%be%e5%8d%80%e6%8e%a1%e6%a8%a3)  
 - [拜登︰「科技民主」勇破「科技獨裁」 -- 深藍](https://www.bastillepost.com/hongkong/article/7617746-%e6%8b%9c%e7%99%bb%ef%b8%b0%e3%80%8c%e7%a7%91%e6%8a%80%e6%b0%91%e4%b8%bb%e3%80%8d%e5%8b%87%e7%a0%b4%e3%80%8c%e7%a7%91%e6%8a%80%e7%8d%a8%e8%a3%81%e3%80%8d)  
+- [18项App个人信息保护团体标准发布:按最小必要原则制定 -- 新浪科技](https://finance.sina.com.cn/tech/2020-12-09/doc-iiznctke5647730.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
