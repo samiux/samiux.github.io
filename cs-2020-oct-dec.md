@@ -256,5 +256,8 @@
 - [** 香港確診破7000宗　第四波疫情有3大特徵 -- 大公文匯](https://www.tkww.hk/a/202012/09/AP5fd01146e4b01efc849d5400.html)  
 - [阿聯酋給予中國國葯集團新冠疫苗正式註冊 -- 大公文匯](https://www.tkww.hk/a/202012/09/AP5fd0db6ee4b01efc849d8676.html)  
 - [印度現不明原因疾病 多名患者復發癲癇再次入院 -- 大公文匯](https://www.tkww.hk/a/202012/09/AP5fd0d748e4b01efc849d85b6.html)  
+- [英2人接種輝端疫苗出現過敏 當局籲曾出現嚴重過敏者勿接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7612317-%e8%8b%b12%e4%ba%ba%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%ab%af%e7%96%ab%e8%8b%97%e9%81%8e%e6%95%8f-%e7%95%b6%e5%b1%80%e7%b1%b2%e6%9b%be%e5%87%ba%e7%8f%be%e5%9a%b4%e9%87%8d%e9%81%8e%e6%95%8f%e8%80%85%e5%8b%bf?current_cat=6)  
+- [英兩醫護接種輝瑞疫苗後現過敏反應 致敏原非來自疫苗本身 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7614868-%e8%8b%b1%e5%85%a9%e9%86%ab%e8%ad%b7%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%97%e5%be%8c%e7%8f%be%e9%81%8e%e6%95%8f%e5%8f%8d%e6%87%89-%e8%87%b4%e6%95%8f%e5%8e%9f%e9%9d%9e%e4%be%86%e8%87%aa?current_cat=6)  
+- [加國批准使用輝瑞BioNTech新冠疫苗 最快下周開始接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7614410-%e5%8a%a0%e5%9c%8b%e6%89%b9%e5%87%86%e4%bd%bf%e7%94%a8%e8%bc%9d%e7%91%9ebiontech%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97-%e6%9c%80%e5%bf%ab%e4%b8%8b%e5%91%a8%e9%96%8b%e5%a7%8b%e6%8e%a5%e7%a8%ae?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
