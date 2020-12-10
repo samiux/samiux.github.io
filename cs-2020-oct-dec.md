@@ -266,5 +266,9 @@
 - [4人接種輝瑞新冠疫苗後面癱 英國衛生官員警告嚴重過敏者不宜接種 -- deepthroat](https://www.bastillepost.com/hongkong/article/7616593-4%e4%ba%ba%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9e%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%be%8c%e9%9d%a2%e7%99%b1-%e8%8b%b1%e5%9c%8b%e8%a1%9b%e7%94%9f%e5%ae%98%e5%93%a1%e8%ad%a6%e5%91%8a%e5%9a%b4)  
 - [中國沒有兜售虛假信息，只是西方自罹Infodemic -- 深藍](https://www.bastillepost.com/hongkong/article/7610387-%e4%b8%ad%e5%9c%8b%e6%b2%92%e6%9c%89%e5%85%9c%e5%94%ae%e8%99%9b%e5%81%87%e4%bf%a1%e6%81%af%ef%bc%8c%e5%8f%aa%e6%98%af%e8%a5%bf%e6%96%b9%e8%87%aa%e7%bd%b9infodemic)  
 - [** 數字貨幣未來實現跨境支付　逐漸融入全球支付體系 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd1a9d8e4b01efc849daae5.html)  
+- [** 珠海首批新冠疫苗接種千人　受種者總體狀況良好 -- 大公文匯](https://www.tkww.hk/a/202012/10/AP5fd21813e4b01efc849dc1a0.html)  
+- [** 從一個個案看到香港抗疫如何鬆散 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7618544-%e5%be%9e%e4%b8%80%e5%80%8b%e5%80%8b%e6%a1%88%e7%9c%8b%e5%88%b0%e9%a6%99%e6%b8%af%e6%8a%97%e7%96%ab%e5%a6%82%e4%bd%95%e9%ac%86%e6%95%a3)  
+- [經私家醫生轉介 一周測出130個陽性個案 3種社區採樣或檢測共604個確診 -- Ariel](https://www.bastillepost.com/hongkong/article/7618075-%e7%b6%93%e7%a7%81%e5%ae%b6%e9%86%ab%e7%94%9f%e8%bd%89%e4%bb%8b-%e4%b8%80%e5%91%a8%e6%b8%ac%e5%87%ba130%e5%80%8b%e9%99%bd%e6%80%a7%e5%80%8b%e6%a1%88-3%e7%a8%ae%e7%a4%be%e5%8d%80%e6%8e%a1%e6%a8%a3)  
+- [拜登︰「科技民主」勇破「科技獨裁」 -- 深藍](https://www.bastillepost.com/hongkong/article/7617746-%e6%8b%9c%e7%99%bb%ef%b8%b0%e3%80%8c%e7%a7%91%e6%8a%80%e6%b0%91%e4%b8%bb%e3%80%8d%e5%8b%87%e7%a0%b4%e3%80%8c%e7%a7%91%e6%8a%80%e7%8d%a8%e8%a3%81%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
