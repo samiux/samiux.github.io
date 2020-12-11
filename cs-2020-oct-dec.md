@@ -283,5 +283,8 @@
 - [** 疫苗採購突破性發展 首批100萬劑最快明年1月到港 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7623161-%e6%9e%97%e9%84%ad%ef%bc%9a%e6%8e%a1%e8%b3%bc%e7%96%ab%e8%8b%97%e4%bb%8a%e6%97%a5%e6%9c%89%e7%aa%81%e7%a0%b4%e6%80%a7%e7%99%bc%e5%b1%95)  
 - [** 灣區推智能政務　港澳居民享跨境辦證 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd33a45e4b01efc849e0205.html)  
 - [** 特首：新冠疫苗採購進展迅速　百萬劑疫苗最快下月到港 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd32493e4b01efc849df547.html)  
+- [【國產疫苗 FAQ】科興「克爾來福」疫苗 1 月到港 存放溫度要求比輝瑞低？ -- ezone](https://ezone.ulifestyle.com.hk/article/2826449/%E3%80%90%E5%9C%8B%E7%94%A2%E7%96%AB%E8%8B%97%20FAQ%E3%80%91%E7%A7%91%E8%88%88%E3%80%8C%E5%85%8B%E7%88%BE%E4%BE%86%E7%A6%8F%E3%80%8D%E7%96%AB%E8%8B%97%201%20%E6%9C%88%E5%88%B0%E6%B8%AF%20%20%E5%AD%98%E6%94%BE%E6%BA%AB%E5%BA%A6%E8%A6%81%E6%B1%82%E6%AF%94%E8%BC%9D%E7%91%9E%E4%BD%8E%EF%BC%9F)  
+- [e＋車路事】湖北駕駛學校引入機械人教練車 教車師傅飯碗不保？ -- ezone](https://ezone.ulifestyle.com.hk/article/2826068/%E3%80%90e%EF%BC%8B%E8%BB%8A%E8%B7%AF%E4%BA%8B%E3%80%91%E6%B9%96%E5%8C%97%E9%A7%95%E9%A7%9B%E5%AD%B8%E6%A0%A1%E5%BC%95%E5%85%A5%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%95%99%E7%B7%B4%E8%BB%8A%20%E6%95%99%E8%BB%8A%E5%B8%AB%E5%82%85%E9%A3%AF%E7%A2%97%E4%B8%8D%E4%BF%9D%EF%BC%9F)  
+- [三大 Smart Octopus 對碰 Apple Pay．Huawei Pay．Samsung Pay 八達通決戰 -- ezone](https://ezone.ulifestyle.com.hk/article/2825979/%E4%B8%89%E5%A4%A7%20Smart%20Octopus%20%E5%B0%8D%E7%A2%B0%20%20Apple%20Pay%EF%BC%8EHuawei%20Pay%EF%BC%8ESamsung%20Pay%20%E5%85%AB%E9%81%94%E9%80%9A%E6%B1%BA%E6%88%B0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
