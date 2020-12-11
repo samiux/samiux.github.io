@@ -275,5 +275,8 @@
 - [國藥啟疫苗配送全國物流演練 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2c72be4b01efc849ddd73.html)  
 - [4國先後開綠燈　加拿大沙特批准輝瑞疫苗 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2bf4de4b01efc849dda0c.html)  
 - [外媒：加拿大購買量是其人口5倍 西方富國囤積疫苗遠超所需劑量 -- deepthroat](https://www.bastillepost.com/hongkong/article/7620874-%e5%a4%96%e5%aa%92%ef%bc%9a%e5%8a%a0%e6%8b%bf%e5%a4%a7%e8%b3%bc%e8%b2%b7%e9%87%8f%e6%98%af%e5%85%b6%e4%ba%ba%e5%8f%a35%e5%80%8d-%e8%a5%bf%e6%96%b9%e5%af%8c%e5%9c%8b%e5%9b%a4%e7%a9%8d%e7%96%ab%e8%8b%97)  
+- [意大利新冠溯源：男童去年11月感染新冠 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2c739e4b01efc849ddd93.html)  
+- [美國FDA批准使用輝瑞疫苗 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2d1d3e4b01efc849de09a.html)  
+- [中國疫苗剛到印尼，不到24小時就有人行動，這次是英國先出手 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7621136-%e4%b8%ad%e5%9c%8b%e7%96%ab%e8%8b%97%e5%89%9b%e5%88%b0%e5%8d%b0%e5%b0%bc%ef%bc%8c%e4%b8%8d%e5%88%b024%e5%b0%8f%e6%99%82%e5%b0%b1%e6%9c%89%e4%ba%ba%e8%a1%8c%e5%8b%95%ef%bc%8c%e9%80%99%e6%ac%a1%e6%98%af)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
