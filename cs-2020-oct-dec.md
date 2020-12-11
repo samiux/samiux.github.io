@@ -271,5 +271,9 @@
 - [經私家醫生轉介 一周測出130個陽性個案 3種社區採樣或檢測共604個確診 -- Ariel](https://www.bastillepost.com/hongkong/article/7618075-%e7%b6%93%e7%a7%81%e5%ae%b6%e9%86%ab%e7%94%9f%e8%bd%89%e4%bb%8b-%e4%b8%80%e5%91%a8%e6%b8%ac%e5%87%ba130%e5%80%8b%e9%99%bd%e6%80%a7%e5%80%8b%e6%a1%88-3%e7%a8%ae%e7%a4%be%e5%8d%80%e6%8e%a1%e6%a8%a3)  
 - [拜登︰「科技民主」勇破「科技獨裁」 -- 深藍](https://www.bastillepost.com/hongkong/article/7617746-%e6%8b%9c%e7%99%bb%ef%b8%b0%e3%80%8c%e7%a7%91%e6%8a%80%e6%b0%91%e4%b8%bb%e3%80%8d%e5%8b%87%e7%a0%b4%e3%80%8c%e7%a7%91%e6%8a%80%e7%8d%a8%e8%a3%81%e3%80%8d)  
 - [18项App个人信息保护团体标准发布:按最小必要原则制定 -- 新浪科技](https://finance.sina.com.cn/tech/2020-12-09/doc-iiznctke5647730.shtml)  
+- [賽昉科技發布性能領先的RISC-V天樞處理器內核 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2cea2e4b01efc849ddfb6.html)  
+- [國藥啟疫苗配送全國物流演練 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2c72be4b01efc849ddd73.html)  
+- [4國先後開綠燈　加拿大沙特批准輝瑞疫苗 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2bf4de4b01efc849dda0c.html)  
+- [外媒：加拿大購買量是其人口5倍 西方富國囤積疫苗遠超所需劑量 -- deepthroat](https://www.bastillepost.com/hongkong/article/7620874-%e5%a4%96%e5%aa%92%ef%bc%9a%e5%8a%a0%e6%8b%bf%e5%a4%a7%e8%b3%bc%e8%b2%b7%e9%87%8f%e6%98%af%e5%85%b6%e4%ba%ba%e5%8f%a35%e5%80%8d-%e8%a5%bf%e6%96%b9%e5%af%8c%e5%9c%8b%e5%9b%a4%e7%a9%8d%e7%96%ab%e8%8b%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
