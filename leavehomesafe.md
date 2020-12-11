@@ -29,7 +29,9 @@ OSCP  OSWP  OSCE
 - [副政府科技總監回應《安心出行》App 誤解 -- ezone](https://ezone.ulifestyle.com.hk/article/2804465/%E5%89%AF%E6%94%BF%E5%BA%9C%E7%A7%91%E6%8A%80%E7%B8%BD%E7%9B%A3%E5%9B%9E%E6%87%89%E3%80%8A%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E3%80%8BApp%20%E8%AA%A4%E8%A7%A3)  
 - [薛永恒：23萬人已下載「安心出行」程式 -- 大公文匯](https://www.tkww.hk/a/202011/27/AP5fc0780fe4b082e38239edaa.html)  
 - [創科局薛永恒：《安心出行》App 下載量逾 20 萬 -- ezone](https://ezone.ulifestyle.com.hk/article/2813386/%E5%89%B5%E7%A7%91%E5%B1%80%E8%96%9B%E6%B0%B8%E6%81%92%EF%BC%9A%E3%80%8A%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E3%80%8BApp%20%E4%B8%8B%E8%BC%89%E9%87%8F%E9%80%BE%2020%20%E8%90%AC)  
-- [【短片】【有聲專欄】屈穎妍：抗疫迷宮 ](https://samiux.blogspot.com/2020/11/blog-post_17.html) 
+- [【短片】【有聲專欄】屈穎妍：抗疫迷宮 ](https://samiux.blogspot.com/2020/11/blog-post_17.html)  
+- [內地網友在港拍片 爆香港「低能防疫」 -- Ariel](https://www.bastillepost.com/hongkong/article/7521157-%e5%85%a7%e5%9c%b0%e7%b6%b2%e5%8f%8b%e5%9c%a8%e6%b8%af%e6%8b%8d%e7%89%87-%e7%88%86%e9%a6%99%e6%b8%af%e3%80%8c%e4%bd%8e%e8%83%bd%e9%98%b2%e7%96%ab%e3%80%8d)  
+- [【短片】屈穎妍:原來，這叫隔離 ](https://samiux.blogspot.com/2020/12/blog-post_11.html)  
 - [安心出行推新功能用戶可自查行蹤　取消查看WiFi權限　強調無大台 -- HK01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/557311/%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C%E6%8E%A8%E6%96%B0%E5%8A%9F%E8%83%BD%E7%94%A8%E6%88%B6%E5%8F%AF%E8%87%AA%E6%9F%A5%E8%A1%8C%E8%B9%A4-%E5%8F%96%E6%B6%88%E6%9F%A5%E7%9C%8Bwifi%E6%AC%8A%E9%99%90-%E5%BC%B7%E8%AA%BF%E7%84%A1%E5%A4%A7%E5%8F%B0)  
 - [「安心出行」推出3個新功能 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7622464-%e3%80%8c%e5%ae%89%e5%bf%83%e5%87%ba%e8%a1%8c%e3%80%8d%e6%8e%a83%e6%96%b0%e5%8a%9f%e8%83%bd-%e8%b3%87%e7%a7%91%e8%be%a6%e6%8c%87%e6%97%a9%e5%89%8d%e5%b7%b2%e6%b8%9b%e5%b0%91%e7%a8%8b%e5%bc%8f%e6%89%80)  (1.1.0 版本)  (扫描器并不精准和敏感问题已于 1.0.5 版本解决了)  
 
