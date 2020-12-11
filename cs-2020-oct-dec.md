@@ -286,5 +286,6 @@
 - [【國產疫苗 FAQ】科興「克爾來福」疫苗 1 月到港 存放溫度要求比輝瑞低？ -- ezone](https://ezone.ulifestyle.com.hk/article/2826449/%E3%80%90%E5%9C%8B%E7%94%A2%E7%96%AB%E8%8B%97%20FAQ%E3%80%91%E7%A7%91%E8%88%88%E3%80%8C%E5%85%8B%E7%88%BE%E4%BE%86%E7%A6%8F%E3%80%8D%E7%96%AB%E8%8B%97%201%20%E6%9C%88%E5%88%B0%E6%B8%AF%20%20%E5%AD%98%E6%94%BE%E6%BA%AB%E5%BA%A6%E8%A6%81%E6%B1%82%E6%AF%94%E8%BC%9D%E7%91%9E%E4%BD%8E%EF%BC%9F)  
 - [e＋車路事】湖北駕駛學校引入機械人教練車 教車師傅飯碗不保？ -- ezone](https://ezone.ulifestyle.com.hk/article/2826068/%E3%80%90e%EF%BC%8B%E8%BB%8A%E8%B7%AF%E4%BA%8B%E3%80%91%E6%B9%96%E5%8C%97%E9%A7%95%E9%A7%9B%E5%AD%B8%E6%A0%A1%E5%BC%95%E5%85%A5%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%95%99%E7%B7%B4%E8%BB%8A%20%E6%95%99%E8%BB%8A%E5%B8%AB%E5%82%85%E9%A3%AF%E7%A2%97%E4%B8%8D%E4%BF%9D%EF%BC%9F)  
 - [三大 Smart Octopus 對碰 Apple Pay．Huawei Pay．Samsung Pay 八達通決戰 -- ezone](https://ezone.ulifestyle.com.hk/article/2825979/%E4%B8%89%E5%A4%A7%20Smart%20Octopus%20%E5%B0%8D%E7%A2%B0%20%20Apple%20Pay%EF%BC%8EHuawei%20Pay%EF%BC%8ESamsung%20Pay%20%E5%85%AB%E9%81%94%E9%80%9A%E6%B1%BA%E6%88%B0)  
+- [【短片】【有聲專欄】屈穎妍：局長，你想「防」誰？](https://samiux.blogspot.com/2020/12/blog-post_12.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
