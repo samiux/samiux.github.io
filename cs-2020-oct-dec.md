@@ -281,5 +281,7 @@
 - [香港公開大學宣布改名香港都會大學 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd2f4fce4b01efc849de865.html)  
 - [中國明確要求全國落實健康碼 一碼在手各省市通行 - ezone](https://ezone.ulifestyle.com.hk/article/2825947/%E4%B8%AD%E5%9C%8B%E6%98%8E%E7%A2%BA%E8%A6%81%E6%B1%82%E5%85%A8%E5%9C%8B%E8%90%BD%E5%AF%A6%E5%81%A5%E5%BA%B7%E7%A2%BC%20%20%E4%B8%80%E7%A2%BC%E5%9C%A8%E6%89%8B%E5%90%84%E7%9C%81%E5%B8%82%E9%80%9A%E8%A1%8C)  
 - [** 疫苗採購突破性發展 首批100萬劑最快明年1月到港 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7623161-%e6%9e%97%e9%84%ad%ef%bc%9a%e6%8e%a1%e8%b3%bc%e7%96%ab%e8%8b%97%e4%bb%8a%e6%97%a5%e6%9c%89%e7%aa%81%e7%a0%b4%e6%80%a7%e7%99%bc%e5%b1%95)  
+- [** 灣區推智能政務　港澳居民享跨境辦證 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd33a45e4b01efc849e0205.html)  
+- [** 特首：新冠疫苗採購進展迅速　百萬劑疫苗最快下月到港 -- 大公文匯](https://www.tkww.hk/a/202012/11/AP5fd32493e4b01efc849df547.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
