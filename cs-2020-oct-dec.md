@@ -287,5 +287,8 @@
 - [e＋車路事】湖北駕駛學校引入機械人教練車 教車師傅飯碗不保？ -- ezone](https://ezone.ulifestyle.com.hk/article/2826068/%E3%80%90e%EF%BC%8B%E8%BB%8A%E8%B7%AF%E4%BA%8B%E3%80%91%E6%B9%96%E5%8C%97%E9%A7%95%E9%A7%9B%E5%AD%B8%E6%A0%A1%E5%BC%95%E5%85%A5%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%95%99%E7%B7%B4%E8%BB%8A%20%E6%95%99%E8%BB%8A%E5%B8%AB%E5%82%85%E9%A3%AF%E7%A2%97%E4%B8%8D%E4%BF%9D%EF%BC%9F)  
 - [三大 Smart Octopus 對碰 Apple Pay．Huawei Pay．Samsung Pay 八達通決戰 -- ezone](https://ezone.ulifestyle.com.hk/article/2825979/%E4%B8%89%E5%A4%A7%20Smart%20Octopus%20%E5%B0%8D%E7%A2%B0%20%20Apple%20Pay%EF%BC%8EHuawei%20Pay%EF%BC%8ESamsung%20Pay%20%E5%85%AB%E9%81%94%E9%80%9A%E6%B1%BA%E6%88%B0)  
 - [【短片】【有聲專欄】屈穎妍：局長，你想「防」誰？](https://samiux.blogspot.com/2020/12/blog-post_12.html)  
+- [日本購1.2億劑牛津疫苗 阿斯利康將混合俄疫苗新試驗 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7626031-%e6%97%a5%e6%9c%ac%e8%b3%bc1-2%e5%84%84%e5%8a%91%e7%89%9b%e6%b4%a5%e7%96%ab%e8%8b%97-%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e5%b0%87%e6%b7%b7%e5%90%88%e4%bf%84%e7%96%ab%e8%8b%97%e6%96%b0%e8%a9%a6?current_cat=6)  
+- [南韓將迎來輝瑞疫苗 先備液態天然氣極寒倉庫 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7625889-%e5%8d%97%e9%9f%93%e5%b0%87%e8%bf%8e%e4%be%86%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%97-%e5%85%88%e5%82%99%e6%b6%b2%e6%85%8b%e5%a4%a9%e7%84%b6%e6%b0%a3%e6%a5%b5%e5%af%92%e5%80%89%e5%ba%ab?current_cat=6)  
+- [** 疫苗分別一覽 輝瑞防禦力較高阿斯利康價錢低 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7626007-%e3%80%90%e7%96%ab%e8%8b%97%e5%88%86%e5%88%a5%e4%b8%80%e5%b8%96%e7%9d%87%e3%80%91%e6%b8%af%e5%ba%9c%e9%a0%90%e8%a8%88%e4%b8%8b%e5%b9%b4%e5%a4%a7%e9%83%a8%e4%bb%bd%e5%b8%82%e6%b0%91%e5%ae%8c%e6%88%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
