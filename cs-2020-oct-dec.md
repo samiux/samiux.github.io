@@ -295,5 +295,9 @@
 - [美軍擬削反恐行動　轉抗中俄 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd42ba7e4b01efc849e31d2.html)  
 - [笑死人：美國居然制裁了中國一名派出所警員！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7627721-%e7%ac%91%e6%ad%bb%e4%ba%ba%ef%bc%9a%e7%be%8e%e5%9c%8b%e5%b1%85%e7%84%b6%e5%88%b6%e8%a3%81%e4%ba%86%e4%b8%ad%e5%9c%8b%e4%b8%80%e5%90%8d%e6%b4%be%e5%87%ba%e6%89%80%e8%ad%a6%e5%93%a1%ef%bc%81)  
 - [特首開記招講8大抗疫策略 第一招依法辦事 -- Ariel](https://www.bastillepost.com/hongkong/article/7626115-%e7%89%b9%e9%a6%96%e9%96%8b%e8%a8%98%e6%8b%9b%e8%ac%9b8%e5%a4%a7%e6%8a%97%e7%96%ab%e7%ad%96%e7%95%a5-%e7%ac%ac%e4%b8%80%e6%8b%9b%e4%be%9d%e6%b3%95%e8%be%a6%e4%ba%8b)  
+- [** 周伯展：國產疫苗採傳統方式製造更安全有效 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd484e6e4b01efc849e4c25.html)  
+- [輝瑞疫苗被美國授權緊急使用 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd46a69e4b01efc849e4574.html)  
+- [美國前財長保爾森：美交易所踢走中國公司有嚴重風險 驅趕對美元需求 -- deepthroat](https://www.bastillepost.com/hongkong/article/7628059-%e7%be%8e%e5%9c%8b%e5%89%8d%e8%b2%a1%e9%95%b7%e4%bf%9d%e7%88%be%e6%a3%ae%ef%bc%9a%e7%be%8e%e4%ba%a4%e6%98%93%e6%89%80%e8%b8%a2%e8%b5%b0%e4%b8%ad%e5%9c%8b%e5%85%ac%e5%8f%b8%e6%9c%89%e5%9a%b4%e9%87%8d)  
+- [科學很重要︰否則疫情不止，街坊不絕 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7628646-%e7%a7%91%e5%ad%b8%e5%be%88%e9%87%8d%e8%a6%81%ef%b8%b0%e5%90%a6%e5%89%87%e7%96%ab%e6%83%85%e4%b8%8d%e6%ad%a2%ef%bc%8c%e8%a1%97%e5%9d%8a%e4%b8%8d%e7%b5%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
