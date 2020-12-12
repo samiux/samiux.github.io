@@ -37,5 +37,6 @@ OSCP  OSWP  OSCE
 - [【短片】【有聲專欄】屈穎妍：局長，你想「防」誰？](https://samiux.blogspot.com/2020/12/blog-post_12.html)  
 - [身先士卒去打仗 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7625168-%e8%ba%ab%e5%85%88%e5%a3%ab%e5%8d%92%e5%8e%bb%e6%89%93%e4%bb%97)  
 - [抗疫需要「戰時」效率 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3fb5ae4b01efc849e2236.html)  
+- [【短片】【有聲專欄】原姿晴：缺乏打仗意志 怎能跑贏病毒](https://samiux.blogspot.com/2020/12/blog-post_15.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
