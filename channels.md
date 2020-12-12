@@ -61,6 +61,7 @@
 - [「九章」問鼎 確立中國在國際量子計算研究第一方陣地位 -- 大公文匯](https://www.tkww.hk/a/202012/06/AP5fcc5332e4b004ac441b5b88.html)  
 - [18项App个人信息保护团体标准发布:按最小必要原则制定 -- 新浪科技](https://finance.sina.com.cn/tech/2020-12-09/doc-iiznctke5647730.shtml)  
 - [习近平就贯彻总体国家安全观提出10点要求 -- 香港中联办](https://mp.weixin.qq.com/s/TE-vBYUYCSrL39blQpvORg)  
+- [講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
