@@ -299,5 +299,6 @@
 - [輝瑞疫苗被美國授權緊急使用 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd46a69e4b01efc849e4574.html)  
 - [美國前財長保爾森：美交易所踢走中國公司有嚴重風險 驅趕對美元需求 -- deepthroat](https://www.bastillepost.com/hongkong/article/7628059-%e7%be%8e%e5%9c%8b%e5%89%8d%e8%b2%a1%e9%95%b7%e4%bf%9d%e7%88%be%e6%a3%ae%ef%bc%9a%e7%be%8e%e4%ba%a4%e6%98%93%e6%89%80%e8%b8%a2%e8%b5%b0%e4%b8%ad%e5%9c%8b%e5%85%ac%e5%8f%b8%e6%9c%89%e5%9a%b4%e9%87%8d)  
 - [科學很重要︰否則疫情不止，街坊不絕 -- 黃秉華](https://www.bastillepost.com/hongkong/article/7628646-%e7%a7%91%e5%ad%b8%e5%be%88%e9%87%8d%e8%a6%81%ef%b8%b0%e5%90%a6%e5%89%87%e7%96%ab%e6%83%85%e4%b8%8d%e6%ad%a2%ef%bc%8c%e8%a1%97%e5%9d%8a%e4%b8%8d%e7%b5%95)  
+- [习近平就贯彻总体国家安全观提出10点要求 -- 香港中联办](https://mp.weixin.qq.com/s/TE-vBYUYCSrL39blQpvORg)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
