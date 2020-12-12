@@ -302,5 +302,6 @@
 - [** 习近平就贯彻总体国家安全观提出10点要求 -- 香港中联办](https://mp.weixin.qq.com/s/TE-vBYUYCSrL39blQpvORg)  
 - [** 講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
 - [** 抗疫需要「戰時」效率 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3fb5ae4b01efc849e2236.html)  
+- [【短片】【有聲專欄】原姿晴：缺乏打仗意志 怎能跑贏病毒](https://samiux.blogspot.com/2020/12/blog-post_15.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
