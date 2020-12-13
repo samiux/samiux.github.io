@@ -305,5 +305,6 @@
 - [【短片】【有聲專欄】原姿晴：缺乏打仗意志 怎能跑贏病毒](https://samiux.blogspot.com/2020/12/blog-post_15.html)  
 - [多國投信任票 中國疫苗加速出海 -- 大公文匯](https://www.tkww.hk/a/202012/13/AP5fd558f2e4b01efc849e67e0.html)  
 - [內地進口商推編碼系統 冷凍食品擁「身份證」 -- 大公文匯](https://www.tkww.hk/a/202012/13/AP5fd558ebe4b01efc849e67de.html)  
+- [mRNA疫苗從來不會由美國輝瑞供港 BioNTech在中國區已和復星合作 香港疫苗歐洲生產 -- Ariel](https://www.bastillepost.com/hongkong/article/7631470-mrna%e7%96%ab%e8%8b%97%e5%be%9e%e4%be%86%e4%b8%8d%e6%9c%83%e7%94%b1%e7%be%8e%e5%9c%8b%e8%bc%9d%e7%91%9e%e4%be%9b%e6%b8%af-biontech%e5%9c%a8%e4%b8%ad%e5%9c%8b%e5%8d%80%e5%b7%b2%e5%92%8c%e5%be%a9)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
