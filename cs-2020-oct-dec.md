@@ -303,5 +303,7 @@
 - [** 講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
 - [** 抗疫需要「戰時」效率 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3fb5ae4b01efc849e2236.html)  
 - [【短片】【有聲專欄】原姿晴：缺乏打仗意志 怎能跑贏病毒](https://samiux.blogspot.com/2020/12/blog-post_15.html)  
+- [多國投信任票 中國疫苗加速出海 -- 大公文匯](https://www.tkww.hk/a/202012/13/AP5fd558f2e4b01efc849e67e0.html)  
+- [內地進口商推編碼系統 冷凍食品擁「身份證」 -- 大公文匯](https://www.tkww.hk/a/202012/13/AP5fd558ebe4b01efc849e67de.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
