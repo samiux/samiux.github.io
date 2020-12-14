@@ -15,5 +15,6 @@
 [Huawei Pay 八达通](https://www.octopus.com.hk/tc/consumer/mobile-payment/huawei-pay/about/index.html)  
 [Huawei Pay 华为官网](https://consumer.huawei.com/hk/mobileservices/huawei-wallet/support-devices/)  
 [Huawei Pay 八達通正式啟動　新加虛擬或轉移實體八達通方法](https://unwire.hk/2020/12/09/octopus-joins-huawei-pay-and-currently-only-supports-adult-elder-octopus/life-tech/)  
+[常見問題 - 選用 Huawei Pay 八達通](https://www.octopus.com.hk/tc/consumer/customer-service/faq/huawei-pay/get.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
