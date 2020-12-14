@@ -8,7 +8,7 @@
 
 在设定华为支付八达通时，你需要最新版本的华为钱包 (Huawei Wallet) 和八达通软件 (Octopus App)。
 
-再者，在使用华为钱包内的银联卡支付时，建议向店员指明是「银联」非接触式支付 (payWave)，而并非 Visa payWave，因为店员大多会以为是 Visa payWave。
+再者，在使用华为钱包内的银联卡支付时，建议向店员指明是「银联」非接触式支付 (payWave)，而并非 Visa payWave，因为店员大多会以为是 Visa payWave 的。
 
 参考资料 ：
 
