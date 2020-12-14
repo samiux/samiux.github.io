@@ -38,5 +38,6 @@ OSCP  OSWP  OSCE
 - [身先士卒去打仗 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7625168-%e8%ba%ab%e5%85%88%e5%a3%ab%e5%8d%92%e5%8e%bb%e6%89%93%e4%bb%97)  
 - [抗疫需要「戰時」效率 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3fb5ae4b01efc849e2236.html)  
 - [【短片】【有聲專欄】原姿晴：缺乏打仗意志 怎能跑贏病毒](https://samiux.blogspot.com/2020/12/blog-post_15.html)  
+- [戰爭已經打響，香港指揮部在哪裏？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7636630-%e6%88%b0%e7%88%ad%e5%b7%b2%e7%b6%93%e6%89%93%e9%9f%bf%ef%bc%8c%e9%a6%99%e6%b8%af%e6%8c%87%e6%8f%ae%e9%83%a8%e5%9c%a8%e5%93%aa%e8%a3%8f%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
