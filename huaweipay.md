@@ -1,5 +1,7 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+# 华为支付八达通
+
 于二零二零年十二月九日智能八达通 (Smart Octopus) 登陆华为指定型号手机和指定银行的银联卡，将来会有更多银行和信用卡加入行列。
 
 华为支付八达通 (Huawei Pay Octopus) 与苹果支付八达通 (Apple Pay Octopus) 和三星支付八达通 (Samsung Pay Octopus) 一样都可以在近场通讯 (Near-Field Communication, NFC) 开启后及手机关机的情况下仍可以使用八达通。当然你的智能八达通要设定为主要装置 (default) 吧。 
