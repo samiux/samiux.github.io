@@ -6,7 +6,7 @@
 
 华为支付八达通 (Huawei Pay Octopus) 与苹果支付八达通 (Apple Pay Octopus) 和三星支付八达通 (Samsung Pay Octopus) 一样都可以在近场通讯 (Near-Field Communication, NFC) 开启后及手机关机的情况下仍可以使用八达通。当然你的智能八达通要设定为主要装置 (default) 吧。 
 
-在设定华为支付八达通时，你需要最新版本的华为钱包 (Huawei Wallet) 和八达通软件 (Octopus App)。
+在设定华为支付八达通时，你需要最新版本的华为钱包 (Huawei Wallet) 和八达通软件 (Octopus App)。转移实体卡时是有一些限制，例如停车场服务不能转移，详情请参阅在转移时的细节。
 
 再者，在使用华为钱包内的银联卡支付时，建议向店员指明是「银联」非接触式支付 (payWave)，而并非 Visa payWave，因为店员大多会以为是 Visa payWave 的。
 
