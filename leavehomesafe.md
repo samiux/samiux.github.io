@@ -40,5 +40,6 @@ OSCP  OSWP  OSCE
 - [【短片】【有聲專欄】原姿晴：缺乏打仗意志 怎能跑贏病毒](https://samiux.blogspot.com/2020/12/blog-post_15.html)  
 - [戰爭已經打響，香港指揮部在哪裏？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7636630-%e6%88%b0%e7%88%ad%e5%b7%b2%e7%b6%93%e6%89%93%e9%9f%bf%ef%bc%8c%e9%a6%99%e6%b8%af%e6%8c%87%e6%8f%ae%e9%83%a8%e5%9c%a8%e5%93%aa%e8%a3%8f%ef%bc%9f)  
 - [防控四大疏漏 窒礙疫情清零 -- 文匯報](https://www.wenweipo.com/a/202012/02/AP5fc6aa4de4b0a6733582b75d.html)  
+- [官媒出社論 批特區政府抗疫 指「打工心態」要不得 缺戰時思維 -- 小鯊](https://www.bastillepost.com/hongkong/article/7641648-%e5%ae%98%e5%aa%92%e5%87%ba%e7%a4%be%e8%ab%96-%e6%89%b9%e7%89%b9%e5%8d%80%e6%94%bf%e5%ba%9c%e6%8a%97%e7%96%ab-%e6%8c%87%e3%80%8c%e6%89%93%e5%b7%a5%e5%bf%83%e6%85%8b%e3%80%8d%e8%a6%81%e4%b8%8d%e5%be%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
