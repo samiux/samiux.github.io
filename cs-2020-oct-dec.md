@@ -316,5 +316,6 @@
 - [** 梁振英：收受黎智英黑金者必須公開申報 -- 大公文匯](https://www.tkww.hk/a/202012/14/AP5fd6ea5ae4b01efc849ec38f.html)  
 - [戰爭已經打響，香港指揮部在哪裏？ -- 周春玲](https://www.bastillepost.com/hongkong/article/7636630-%e6%88%b0%e7%88%ad%e5%b7%b2%e7%b6%93%e6%89%93%e9%9f%bf%ef%bc%8c%e9%a6%99%e6%b8%af%e6%8c%87%e6%8f%ae%e9%83%a8%e5%9c%a8%e5%93%aa%e8%a3%8f%ef%bc%9f)  
 - [防控四大疏漏 窒礙疫情清零 -- 文匯報](https://www.wenweipo.com/a/202012/02/AP5fc6aa4de4b0a6733582b75d.html)  
+- [** 政府有意志及能力，去打好接種疫苖大戰嗎？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7638168-%e6%94%bf%e5%ba%9c%e6%9c%89%e6%84%8f%e5%bf%97%e5%8f%8a%e8%83%bd%e5%8a%9b%ef%bc%8c%e5%8e%bb%e6%89%93%e5%a5%bd%e6%8e%a5%e7%a8%ae%e7%96%ab%e8%8b%96%e5%a4%a7%e6%88%b0%e5%97%8e%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
