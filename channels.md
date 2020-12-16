@@ -65,6 +65,10 @@
 - [講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
 - [12142020時事觀察 第1節 - 余非：買「敵國疫苗」？為何「無得揀」？-- 香港疫苗妙問與慎思](http://www.singtao.tv/main/newsreport/situation/12142020%e6%99%82%e4%ba%8b%e8%a7%80%e5%af%9f-%e7%ac%ac1%e7%af%80-%e4%bd%99%e9%9d%9e%ef%bc%9a%e8%b2%b7%e3%80%8c%e6%95%b5%e5%9c%8b%e7%96%ab%e8%8b%97%e3%80%8d%ef%bc%9f%e7%82%ba%e4%bd%95%e3%80%8c/)  
 - [12142020時事觀察 第2節 - 余非：淺說各國新冠疫苗的使用情況 -- 在審慎中冀盼希望](http://www.singtao.tv/main/newsreport/situation/12142020%e6%99%82%e4%ba%8b%e8%a7%80%e5%af%9f-%e7%ac%ac2%e7%af%80-%e4%bd%99%e9%9d%9e%ef%bc%9a%e6%b7%ba%e8%aa%aa%e5%90%84%e5%9c%8b%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e7%9a%84%e4%bd%bf%e7%94%a8/)  
+- [性能提升10倍，8英寸石墨烯晶圆亮相，两股闻风涨停 -- 腾讯新闻](https://new.qq.com/omn/20201207/20201207A076VC00.html)  
+- [China's carbon-based chip has made a major breakthrough! 8-inch graphene mono crystalline wafers! -- ZeroZeroMedia](https://www.youtube.com/watch?v=88zjAi9bwJQ)  
+- [20160731 对话 石墨烯是传奇还是传说？ --  CCTV财经](https://www.youtube.com/watch?v=PpuzLzbeBPc)  
+- [《透视新科技》 20200314 奇异的石墨烯 -- CCTV科教](https://www.youtube.com/watch?v=0_fT2N5eFgY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
