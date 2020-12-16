@@ -320,5 +320,7 @@
 - [** 官媒出社論 批特區政府抗疫 指「打工心態」要不得 缺戰時思維 -- 小鯊](https://www.bastillepost.com/hongkong/article/7641648-%e5%ae%98%e5%aa%92%e5%87%ba%e7%a4%be%e8%ab%96-%e6%89%b9%e7%89%b9%e5%8d%80%e6%94%bf%e5%ba%9c%e6%8a%97%e7%96%ab-%e6%8c%87%e3%80%8c%e6%89%93%e5%b7%a5%e5%bf%83%e6%85%8b%e3%80%8d%e8%a6%81%e4%b8%8d%e5%be%97)  
 - [細說中國「戰狼科技」與西方的「狼來了」 -- 深藍](https://www.bastillepost.com/hongkong/article/7641694-%e7%b4%b0%e8%aa%aa%e4%b8%ad%e5%9c%8b%e3%80%8c%e6%88%b0%e7%8b%bc%e7%a7%91%e6%8a%80%e3%80%8d%e8%88%87%e8%a5%bf%e6%96%b9%e7%9a%84%e3%80%8c%e7%8b%bc%e4%be%86%e4%ba%86%e3%80%8d)  
 - [** 打疫苗戰 重啟經濟 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7644188-%e6%89%93%e7%96%ab%e8%8b%97%e6%88%b0-%e9%87%8d%e5%95%9f%e7%b6%93%e6%bf%9f)  
+- [內地口罩平夾正　細菌過濾率99.9% -- 大公文匯](https://www.tkww.hk/a/202012/16/AP5fd94f3fe4b01efc849f2a16.html)  
+- [疫苗好不好　讓科學說話 -- 大公文匯](https://www.tkww.hk/a/202012/16/AP5fd94b6ce4b01efc849f290e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
