@@ -63,6 +63,8 @@
 - [18项App个人信息保护团体标准发布:按最小必要原则制定 -- 新浪科技](https://finance.sina.com.cn/tech/2020-12-09/doc-iiznctke5647730.shtml)  
 - [习近平就贯彻总体国家安全观提出10点要求 -- 香港中联办](https://mp.weixin.qq.com/s/TE-vBYUYCSrL39blQpvORg)  
 - [講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
+- [12142020時事觀察 第1節 - 余非：買「敵國疫苗」？為何「無得揀」？-- 香港疫苗妙問與慎思](http://www.singtao.tv/main/newsreport/situation/12142020%e6%99%82%e4%ba%8b%e8%a7%80%e5%af%9f-%e7%ac%ac1%e7%af%80-%e4%bd%99%e9%9d%9e%ef%bc%9a%e8%b2%b7%e3%80%8c%e6%95%b5%e5%9c%8b%e7%96%ab%e8%8b%97%e3%80%8d%ef%bc%9f%e7%82%ba%e4%bd%95%e3%80%8c/)  
+- [12142020時事觀察 第2節 - 余非：淺說各國新冠疫苗的使用情況 -- 在審慎中冀盼希望](http://www.singtao.tv/main/newsreport/situation/12142020%e6%99%82%e4%ba%8b%e8%a7%80%e5%af%9f-%e7%ac%ac2%e7%af%80-%e4%bd%99%e9%9d%9e%ef%bc%9a%e6%b7%ba%e8%aa%aa%e5%90%84%e5%9c%8b%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e7%9a%84%e4%bd%bf%e7%94%a8/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
