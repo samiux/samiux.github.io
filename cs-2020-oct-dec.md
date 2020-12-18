@@ -333,5 +333,7 @@
 - [** 接種輝瑞疫苗　美醫護過敏入ICU -- 大公文匯](https://www.tkww.hk/a/202012/18/AP5fdbeab7e4b01efc849fa71a.html)  
 - [世衞專家：疫苗不是萬能藥 -- 大公文匯](https://www.tkww.hk/a/202012/18/AP5fdbdceee4b01efc849fa470.html)  
 - [印度成功發射一顆通信衛星 -- 大公文匯](https://www.tkww.hk/a/202012/17/AP5fdb7bc0e4b01efc849f9def.html)  
+- [輝瑞疫苗再現嚴重過敏　接種者無敏感史 -- 大公文匯](https://www.tkww.hk/a/202012/18/AP5fdbfdd7e4b01efc849facda.html)  
+- [《華盛頓郵報》：特朗普對華政策是一場慘敗 -- 大公文匯](https://www.bastillepost.com/hongkong/article/7659085-%e3%80%8a%e8%8f%af%e7%9b%9b%e9%a0%93%e9%83%b5%e5%a0%b1%e3%80%8b%ef%bc%9a%e7%89%b9%e6%9c%97%e6%99%ae%e5%b0%8d%e8%8f%af%e6%94%bf%e7%ad%96%e6%98%af%e4%b8%80%e5%a0%b4%e6%85%98%e6%95%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
