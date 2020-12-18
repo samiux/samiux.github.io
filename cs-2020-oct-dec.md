@@ -330,5 +330,8 @@
 - [港大深圳醫院動物模擬手術中心啟用　真實還原手術現場 -- 大公文匯](https://www.tkww.hk/a/202012/17/AP5fdb1c95e4b01efc849f8e76.html)  
 - [中國崛起，西方衰落，你還不相信？ -- 深藍](https://www.bastillepost.com/hongkong/article/7654874-%e4%b8%ad%e5%9c%8b%e5%b4%9b%e8%b5%b7%ef%bc%8c%e8%a5%bf%e6%96%b9%e8%a1%b0%e8%90%bd%ef%bc%8c%e4%bd%a0%e9%82%84%e4%b8%8d%e7%9b%b8%e4%bf%a1%ef%bc%9f)  
 - [嫦娥五號攜帶月球土壤樣品成功著陸！一文讀懂你關心的6大問題 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7654458-%e5%ab%a6%e5%a8%a5%e4%ba%94%e8%99%9f%e6%94%9c%e5%b8%b6%e6%9c%88%e7%90%83%e5%9c%9f%e5%a3%a4%e6%a8%a3%e5%93%81%e6%88%90%e5%8a%9f%e8%91%97%e9%99%b8%ef%bc%81%e4%b8%80%e6%96%87%e8%ae%80%e6%87%82%e4%bd%a0)  
+- [** 接種輝瑞疫苗　美醫護過敏入ICU -- 大公文匯](https://www.tkww.hk/a/202012/18/AP5fdbeab7e4b01efc849fa71a.html)  
+- [世衞專家：疫苗不是萬能藥 -- 大公文匯](https://www.tkww.hk/a/202012/18/AP5fdbdceee4b01efc849fa470.html)  
+- [印度成功發射一顆通信衛星 -- 大公文匯](https://www.tkww.hk/a/202012/17/AP5fdb7bc0e4b01efc849f9def.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
