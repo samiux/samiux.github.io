@@ -338,5 +338,8 @@
 - [** 國產mRNA疫苗 毋須超低溫運送 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fdd55d3e4b01efc849ff51d.html)  
 - [** 華府網絡疑「被黑」　核安全局失守 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fdd6121e4b01efc849ff82a.html)  
 - [** 美國遭史無前例黑客攻擊？「危重級」攻擊停不了 國家安全顧問急急回國 -- deepthroat](https://www.bastillepost.com/hongkong/article/7665133-%e7%be%8e%e5%9c%8b%e9%81%ad%e5%8f%b2%e7%84%a1%e5%89%8d%e4%be%8b%e9%bb%91%e5%ae%a2%e6%94%bb%e6%93%8a%ef%bc%9f%e3%80%8c%e5%8d%b1%e9%87%8d%e7%b4%9a%e3%80%8d%e6%94%bb%e6%93%8a%e5%81%9c%e4%b8%8d%e4%ba%86)  
+- [** 鍾南山稱新冠病毒出現環境傳人 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fdd9df0e4b01efc84a00673.html)  
+- [** 全國新冠疫苗接種方案公布 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fdd8e1ee4b01efc84a003dc.html)  
+- [** 美國又一醫護人員接種輝瑞疫苗後現不良反應 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fddccd4e4b01efc84a01013.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
