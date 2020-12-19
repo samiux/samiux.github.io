@@ -69,6 +69,8 @@
 - [China's carbon-based chip has made a major breakthrough! 8-inch graphene mono crystalline wafers! -- ZeroZeroMedia](https://www.youtube.com/watch?v=88zjAi9bwJQ)  
 - [20160731 对话 石墨烯是传奇还是传说？ --  CCTV财经](https://www.youtube.com/watch?v=PpuzLzbeBPc)  
 - [《透视新科技》 20200314 奇异的石墨烯 -- CCTV科教](https://www.youtube.com/watch?v=0_fT2N5eFgY)  
+- [好書推介《文明型國家》](https://samiux.blogspot.com/2020/12/blog-post_19.html)  
+- [【短片】【有聲專欄】屈穎妍：瘟疫後的官場現形記](https://samiux.blogspot.com/2020/12/blog-post_31.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
