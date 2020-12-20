@@ -341,5 +341,9 @@
 - [** 鍾南山稱新冠病毒出現環境傳人 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fdd9df0e4b01efc84a00673.html)  
 - [** 全國新冠疫苗接種方案公布 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fdd8e1ee4b01efc84a003dc.html)  
 - [** 美國又一醫護人員接種輝瑞疫苗後現不良反應 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fddccd4e4b01efc84a01013.html)  
+- [** 美國五人接種輝瑞疫苗過敏 -- 大公文匯](https://www.tkww.hk/a/202012/20/AP5fdea803e4b01efc84a0336e.html)  
+- [** Moderna生產過濾問題　棄40萬劑疫苗 -- 大公文匯](https://www.tkww.hk/a/202012/20/AP5fdeaa24e4b01efc84a03415.html)  
+- [** 衞健委詳解國產疫苗接種及安全性等問題 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fddf110e4b01efc84a01cad.html)  
+- [** 一文讀懂BioNTech疫苖的效用與副作用 18100試驗者有8位仍然確診 但無一重症 -- deepthroat](https://www.bastillepost.com/hongkong/article/7669375-%e4%b8%80%e6%96%87%e8%ae%80%e6%87%82biontech%e7%96%ab%e8%8b%96%e7%9a%84%e6%95%88%e7%94%a8%e8%88%87%e5%89%af%e4%bd%9c%e7%94%a8-18100%e8%a9%a6%e9%a9%97%e8%80%85%e6%9c%898%e4%bd%8d%e4%bb%8d%e7%84%b6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
