@@ -346,5 +346,8 @@
 - [** 衞健委詳解國產疫苗接種及安全性等問題 -- 大公文匯](https://www.tkww.hk/a/202012/19/AP5fddf110e4b01efc84a01cad.html)  
 - [** 一文讀懂BioNTech疫苖的效用與副作用 18100試驗者有8位仍然確診 但無一重症 -- deepthroat](https://www.bastillepost.com/hongkong/article/7669375-%e4%b8%80%e6%96%87%e8%ae%80%e6%87%82biontech%e7%96%ab%e8%8b%96%e7%9a%84%e6%95%88%e7%94%a8%e8%88%87%e5%89%af%e4%bd%9c%e7%94%a8-18100%e8%a9%a6%e9%a9%97%e8%80%85%e6%9c%898%e4%bd%8d%e4%bb%8d%e7%84%b6)  
 - [** 國產疫苗即將普及全民 這些人群優先 -- 大公文匯](https://mp.weixin.qq.com/s/njSrbTFFgKz3jNWpx0gofg)  
+- [醫院藥劑師學會：科興疫苗技術最成熟 -- 大公文匯](https://www.tkww.hk/a/202012/21/AP5fdfe510e4b0421a353b63c5.html)  
+- [英衞生大臣：變種新冠病毒已失控 -- 大公文匯](https://www.tkww.hk/a/202012/20/AP5fdf588ee4b01efc84a05a9c.html)  
+- [全球恐慌　傳染率升70%　倫敦大逃亡　變種病毒恐襲港 -- 大公文匯](https://www.tkww.hk/a/202012/21/AP5fdfe1c8e4b0421a353b6276.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
