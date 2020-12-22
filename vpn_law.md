@@ -23,5 +23,6 @@ OSCE  OSCP  OSWP
 - [Report: No-Log VPNs Exposed Users’ Logs and Personal Details for All to See](https://www.vpnmentor.com/blog/report-free-vpns-leak/)
 - [Hackers used VPN flaws to access US govt elections support systems --  Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-used-vpn-flaws-to-access-us-govt-elections-support-systems/)  
 - [Hacker posts exploits for over 49,000 vulnerable Fortinet VPNs -- Bleeping Computer](https://www.bleepingcomputer.com/news/security/hacker-posts-exploits-for-over-49-000-vulnerable-fortinet-vpns/)  
+- [Cybercriminals' Favorite Bulletproof VPN Service Shuts Down In Global Action -- The Hacker News](https://thehackernews.com/2020/12/cybercriminals-favorite-bulletproof-vpn.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
