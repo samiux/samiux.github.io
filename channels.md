@@ -71,6 +71,7 @@
 - [《透视新科技》 20200314 奇异的石墨烯 -- CCTV科教](https://www.youtube.com/watch?v=0_fT2N5eFgY)  
 - [好書推介《文明型國家》](https://samiux.blogspot.com/2020/12/blog-post_19.html)  
 - [【短片】【有聲專欄】屈穎妍：瘟疫後的官場現形記](https://samiux.blogspot.com/2020/12/blog-post_31.html)  
+- [中國疫苗有多強？ -- 大公文匯](https://www.tkww.hk/a/202012/22/AP5fe195c6e4b0421a353bd761.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
