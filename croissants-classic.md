@@ -1,6 +1,8 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# **Croissants 牛角面包 - Intrusion Detection and Prevention System**
+# Croissants 牛角面包 - Intrusion Detection and Prevention System
+
+## ifupdown as default
 
 Networks and computers that are open to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our tasty Croissants is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Croissants is available free of charge that everyone can afford.  It is ideal for home, Small Office Home Office (SOHO) and Small Medium Business (SMB).
 
@@ -49,24 +51,22 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 ### Hardware
 
-- Multi-Core Intel / AMD x86 CPU (at least Intel ATOM D2550)  
+- Multi-Core Intel / AMD x86 CPU   
 - 16GB DDR4 RAM or more (Croissants use at least 4GB RAM)  
 - 240GB hard drive or more  
 - 3 Network Interface Cards/Ports (Network Based only)  
 - 1 Network Interface Card/Port (Host Based only)  
 - CPU with AVX2 or better (at least SSSE3)  
 
-__Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles up to 300Mbps connection (home usage).__
-
 ### Software
 
-- Ubuntu Server 20.04 LTS (64-bit) (End of Life on April 2025)  
+- Ubuntu Server 20.04.1 LTS (64-bit) (End of Life on April 2025)  
 
 ## MAIN COMPONENTS
 
 - Suricata 6.0.1  
 - Hyperscan 5.2.1 (Ubuntu 20.04)  
-- netdata (Network Based only)  
+- netdata   
 
 ## DOCUMENTATION
 
@@ -292,33 +292,12 @@ __Host Based__
 Internet --- Croissants (with application on it)
 ```
 
-#### Is there any commercial version?  
-No, commercial version is not available.  However, we have a NOT FOR SALE and NOT Open Source version, namely "Professional".  The following is the extra features for the "Professional" version :
-- Blocks nmap scanner  
-- Blocks masscan scanner  
-- Blocks Shodan scans  
-- Blocks Censys scans  
-- Blocks Zoomeye scans  
-
-Contact us for the demo.
-
 ### 6.0 To-Do-List
 
 Nil
 
 ### 7.0 See Also
 
-- [How to upgrade Ubuntu 18.04.x to Ubuntu 20.04 on Croissants](/upgrade-2004.md)
-
-### 8.0 Presentation
-
-```sha256sum 814e353abfa899aede7c6173a3dfd78b9aab0242258748f1e35073a87ff13f47  presentation-croissants.pdf```
-
-Download : [presentation-croissants.pdf](/pdf/presentation-croissants.pdf)
-
-<object data="/pdf/presentation-croissants.pdf" type="application/pdf" width="900px" height="700px">
-    <embed src="/pdf/presentation-croissants.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/presentation-croissants.pdf">Download PDF</a>.</p>
-</object>
+Nil
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
