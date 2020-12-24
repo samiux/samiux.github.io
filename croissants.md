@@ -58,8 +58,6 @@ __Croissants is designed and developed by Samiux since 2012.__
 - 1 Network Interface Card/Port (Host Based only)  
 - CPU with AVX2 or better (at least SSSE3)  
 
-__Remark : Intel ATOM D2550 CPU comes with SSSE3 and it can handles about 300Mbps connection (home usage).__
-
 ### Software
 
 - Ubuntu Server 20.04.1 LTS (64-bit)  
