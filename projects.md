@@ -11,7 +11,8 @@
 
 ## Defensive
 
-- [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
+- [Croissants 牛角面包 - Intrusion Detection and Prevention System (Modern)](/croissants.md)
+- [Croissants 牛角面包 - Intrusion Detection and Prevention System (Classic)](/croissants-classic.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 
