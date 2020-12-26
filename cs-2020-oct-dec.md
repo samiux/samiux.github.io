@@ -351,5 +351,6 @@
 - [全球恐慌　傳染率升70%　倫敦大逃亡　變種病毒恐襲港 -- 大公文匯](https://www.tkww.hk/a/202012/21/AP5fdfe1c8e4b0421a353b6276.html)  
 - [** 美國遭遇史上最嚴重黑客襲擊 目標是核武庫 特朗普刻意壓低嚴重性 胡亂指控中國 -- deepthroat](https://www.bastillepost.com/hongkong/article/7673353-%e7%be%8e%e5%9c%8b%e9%81%ad%e9%81%87%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%9a%b4%e9%87%8d%e9%bb%91%e5%ae%a2%e8%a5%b2%e6%93%8a-%e7%9b%ae%e6%a8%99%e6%98%af%e6%a0%b8%e6%ad%a6%e5%ba%ab-%e7%89%b9%e6%9c%97%e6%99%ae)  
 - [中國疫苗有多強？ -- 大公文匯](https://www.tkww.hk/a/202012/22/AP5fe195c6e4b0421a353bd761.html)  
+- [** BioNtech疫苗還需試驗 美國報告稱過敏反應超出預期](https://www.bastillepost.com/hongkong/article/7699876-biontech%e7%96%ab%e8%8b%97%e9%82%84%e9%9c%80%e8%a9%a6%e9%a9%97-%e7%be%8e%e5%9c%8b%e5%a0%b1%e5%91%8a%e7%a8%b1%e9%81%8e%e6%95%8f%e5%8f%8d%e6%87%89%e8%b6%85%e5%87%ba%e9%a0%90%e6%9c%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
