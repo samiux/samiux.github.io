@@ -165,6 +165,10 @@ glances
 Graphic mode monitoring tool for the performance of Croissants.
 
 ```bash
+sudo sed -i 's/127\.0\.0\.1/0\.0\.0\.0/' /etc/netdata/netdata.conf
+sudo systemctl restart netdata
+```
+```bash
 http://[monitoring_ip]:19999
 ```
 
