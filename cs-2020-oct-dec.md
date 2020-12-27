@@ -356,5 +356,6 @@
 - [** 牛津錯誤評估疫苗效力　稀釋劑量引造假質疑 -- 大公文匯](https://www.tkww.hk/a/202012/26/AP5fe6e6dbe4b0421a353d02eb.html)  
 - [** 美國首現莫德納嚴重過敏個案 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7c1dde4b0421a353d27d3.html)  
 - [英智庫料中國2028年超美成最大經濟體 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7da07e4b0421a353d2e7f.html)  
+- [英部分新冠患者現「嗅覺倒錯」　莫名聞到強烈氣味 -- 大公文匯](https://www.tkww.hk/a/202012/28/AP5fe8e796e4b0f092f4b3b3e0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
