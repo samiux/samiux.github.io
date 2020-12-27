@@ -354,5 +354,7 @@
 - [** BioNtech疫苗還需試驗 美國報告稱過敏反應超出預期 -- Ariel](https://www.bastillepost.com/hongkong/article/7699876-biontech%e7%96%ab%e8%8b%97%e9%82%84%e9%9c%80%e8%a9%a6%e9%a9%97-%e7%be%8e%e5%9c%8b%e5%a0%b1%e5%91%8a%e7%a8%b1%e9%81%8e%e6%95%8f%e5%8f%8d%e6%87%89%e8%b6%85%e5%87%ba%e9%a0%90%e6%9c%9f)  
 - [** 美國一醫生注射莫德納疫苗後出現嚴重過敏反應 -- 大公文匯](https://www.tkww.hk/a/202012/26/AP5fe6671fe4b0421a353cdb0b.html)  
 - [** 牛津錯誤評估疫苗效力　稀釋劑量引造假質疑 -- 大公文匯](https://www.tkww.hk/a/202012/26/AP5fe6e6dbe4b0421a353d02eb.html)  
+- [** 美國首現莫德納嚴重過敏個案 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7c1dde4b0421a353d27d3.html)  
+- [英智庫料中國2028年超美成最大經濟體 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7da07e4b0421a353d2e7f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
