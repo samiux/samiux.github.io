@@ -357,5 +357,6 @@
 - [** 美國首現莫德納嚴重過敏個案 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7c1dde4b0421a353d27d3.html)  
 - [英智庫料中國2028年超美成最大經濟體 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7da07e4b0421a353d2e7f.html)  
 - [英部分新冠患者現「嗅覺倒錯」　莫名聞到強烈氣味 -- 大公文匯](https://www.tkww.hk/a/202012/28/AP5fe8e796e4b0f092f4b3b3e0.html)  
+- [** 《人民日報新媒體》用漫畫形式 紀錄2020中國不平凡的一年 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7709271-%e3%80%8a%e4%ba%ba%e6%b0%91%e6%97%a5%e5%a0%b1%e6%96%b0%e5%aa%92%e9%ab%94%e3%80%8b%e7%94%a8%e6%bc%ab%e7%95%ab%e5%bd%a2%e5%bc%8f-%e7%b4%80%e9%8c%842020%e4%b8%ad%e5%9c%8b%e4%b8%8d%e5%b9%b3%e5%87%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
