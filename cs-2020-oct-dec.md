@@ -358,5 +358,8 @@
 - [英智庫料中國2028年超美成最大經濟體 -- 大公文匯](https://www.tkww.hk/a/202012/27/AP5fe7da07e4b0421a353d2e7f.html)  
 - [英部分新冠患者現「嗅覺倒錯」　莫名聞到強烈氣味 -- 大公文匯](https://www.tkww.hk/a/202012/28/AP5fe8e796e4b0f092f4b3b3e0.html)  
 - [** 《人民日報新媒體》用漫畫形式 紀錄2020中國不平凡的一年 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7709271-%e3%80%8a%e4%ba%ba%e6%b0%91%e6%97%a5%e5%a0%b1%e6%96%b0%e5%aa%92%e9%ab%94%e3%80%8b%e7%94%a8%e6%bc%ab%e7%95%ab%e5%bd%a2%e5%bc%8f-%e7%b4%80%e9%8c%842020%e4%b8%ad%e5%9c%8b%e4%b8%8d%e5%b9%b3%e5%87%a1)  
+- [「智方便」明早將啟用　疫情軌跡或可追蹤 -- 大公文匯](https://www.tkww.hk/a/202012/29/AP5feadfbae4b0f092f4b43564.html)  
+- [政府「智方便」平台 FAQ 周三起稅務易．續領車牌等一併上網搞定 -- ezone](https://ezone.ulifestyle.com.hk/article/2839803/%E6%94%BF%E5%BA%9C%E3%80%8C%E6%99%BA%E6%96%B9%E4%BE%BF%E3%80%8D%E5%B9%B3%E5%8F%B0%20FAQ%20%20%E5%91%A8%E4%B8%89%E8%B5%B7%E7%A8%85%E5%8B%99%E6%98%93%EF%BC%8E%E7%BA%8C%E9%A0%98%E8%BB%8A%E7%89%8C%E7%AD%89%E4%B8%80%E4%BD%B5%E4%B8%8A%E7%B6%B2%E6%90%9E%E5%AE%9A)  
+- [** 全球新冠疫苗大比拼 -- 大公文匯](https://www.tkww.hk/a/202012/29/AP5feadc2ae4b0f092f4b4346d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
