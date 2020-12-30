@@ -367,5 +367,7 @@
 - [** 鍾南山：多國證明中國疫苗安全有效 -- 大公文匯](https://www.tkww.hk/a/202012/30/AP5fec2891e4b0f092f4b4958e.html)  
 - [美媒：沒有任何疫苗能夠終結美國的無知 反疫苖運動興起 27%美國人表態不打疫苖 -- deepthroat](https://www.bastillepost.com/hongkong/article/7718523-%e7%be%8e%e5%aa%92%ef%bc%9a%e6%b2%92%e6%9c%89%e4%bb%bb%e4%bd%95%e7%96%ab%e8%8b%97%e8%83%bd%e5%a4%a0%e7%b5%82%e7%b5%90%e7%be%8e%e5%9c%8b%e7%9a%84%e7%84%a1%e7%9f%a5-%e5%8f%8d%e7%96%ab%e8%8b%96%e9%81%8b)  
 - [國安法立法後 市民對政治滿意度倍升 -- Ariel](https://www.bastillepost.com/hongkong/article/7720118-%e5%9c%8b%e5%ae%89%e6%b3%95%e7%ab%8b%e6%b3%95%e5%be%8c-%e5%b8%82%e6%b0%91%e5%b0%8d%e6%94%bf%e6%b2%bb%e6%bb%bf%e6%84%8f%e5%ba%a6%e5%80%8d%e5%8d%87)  
+- [** 加州有護士接種輝瑞疫苗8天後檢測呈陽性 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7722841-%e5%8a%a0%e5%b7%9e%e4%b8%80%e5%90%8d%e8%ad%b7%e5%a3%ab%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%978%e5%a4%a9%e5%be%8c-%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e6%aa%a2%e6%b8%ac%e5%91%88%e9%99%bd)  
+- [** 研究指新冠病毒有損精神健康 部分患者康復後出現幻覺 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7722869-%e7%a0%94%e7%a9%b6%e6%8c%87%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e6%9c%89%e6%90%8d%e7%b2%be%e7%a5%9e%e5%81%a5%e5%ba%b7-%e9%83%a8%e5%88%86%e6%82%a3%e8%80%85%e5%ba%b7%e5%be%a9%e5%be%8c%e5%87%ba%e7%8f%be)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
