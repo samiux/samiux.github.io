@@ -362,5 +362,6 @@
 - [政府「智方便」平台 FAQ 周三起稅務易．續領車牌等一併上網搞定 -- ezone](https://ezone.ulifestyle.com.hk/article/2839803/%E6%94%BF%E5%BA%9C%E3%80%8C%E6%99%BA%E6%96%B9%E4%BE%BF%E3%80%8D%E5%B9%B3%E5%8F%B0%20FAQ%20%20%E5%91%A8%E4%B8%89%E8%B5%B7%E7%A8%85%E5%8B%99%E6%98%93%EF%BC%8E%E7%BA%8C%E9%A0%98%E8%BB%8A%E7%89%8C%E7%AD%89%E4%B8%80%E4%BD%B5%E4%B8%8A%E7%B6%B2%E6%90%9E%E5%AE%9A)  
 - [** 全球新冠疫苗大比拼 -- 大公文匯](https://www.tkww.hk/a/202012/29/AP5feadc2ae4b0f092f4b4346d.html)  
 - [** 研究：新冠病毒或令患者出現精神病症狀 -- 大公文匯](https://www.tkww.hk/a/202012/29/AP5feae2a6e4b0f092f4b43772.html)  
+- [誤打5倍劑量疫苗　德接種再犯錯 -- 大公文匯](https://www.tkww.hk/a/202012/30/AP5febd54ce4b0f092f4b466af.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
