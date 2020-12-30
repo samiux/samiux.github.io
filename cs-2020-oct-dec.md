@@ -363,5 +363,9 @@
 - [** 全球新冠疫苗大比拼 -- 大公文匯](https://www.tkww.hk/a/202012/29/AP5feadc2ae4b0f092f4b4346d.html)  
 - [** 研究：新冠病毒或令患者出現精神病症狀 -- 大公文匯](https://www.tkww.hk/a/202012/29/AP5feae2a6e4b0f092f4b43772.html)  
 - [誤打5倍劑量疫苗　德接種再犯錯 -- 大公文匯](https://www.tkww.hk/a/202012/30/AP5febd54ce4b0f092f4b466af.html)  
+- [** 國藥疫苗三期數據公布　保護效力接近8成 -- 大公文匯](https://www.tkww.hk/a/202012/30/AP5fec1ffbe4b0f092f4b49308.html)  
+- [** 鍾南山：多國證明中國疫苗安全有效 -- 大公文匯](https://www.tkww.hk/a/202012/30/AP5fec2891e4b0f092f4b4958e.html)  
+- [美媒：沒有任何疫苗能夠終結美國的無知 反疫苖運動興起 27%美國人表態不打疫苖 -- deepthroat](https://www.bastillepost.com/hongkong/article/7718523-%e7%be%8e%e5%aa%92%ef%bc%9a%e6%b2%92%e6%9c%89%e4%bb%bb%e4%bd%95%e7%96%ab%e8%8b%97%e8%83%bd%e5%a4%a0%e7%b5%82%e7%b5%90%e7%be%8e%e5%9c%8b%e7%9a%84%e7%84%a1%e7%9f%a5-%e5%8f%8d%e7%96%ab%e8%8b%96%e9%81%8b)  
+- [國安法立法後 市民對政治滿意度倍升 -- Ariel](https://www.bastillepost.com/hongkong/article/7720118-%e5%9c%8b%e5%ae%89%e6%b3%95%e7%ab%8b%e6%b3%95%e5%be%8c-%e5%b8%82%e6%b0%91%e5%b0%8d%e6%94%bf%e6%b2%bb%e6%bb%bf%e6%84%8f%e5%ba%a6%e5%80%8d%e5%8d%87)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
