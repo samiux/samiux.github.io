@@ -369,5 +369,9 @@
 - [國安法立法後 市民對政治滿意度倍升 -- Ariel](https://www.bastillepost.com/hongkong/article/7720118-%e5%9c%8b%e5%ae%89%e6%b3%95%e7%ab%8b%e6%b3%95%e5%be%8c-%e5%b8%82%e6%b0%91%e5%b0%8d%e6%94%bf%e6%b2%bb%e6%bb%bf%e6%84%8f%e5%ba%a6%e5%80%8d%e5%8d%87)  
 - [** 加州有護士接種輝瑞疫苗8天後檢測呈陽性 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7722841-%e5%8a%a0%e5%b7%9e%e4%b8%80%e5%90%8d%e8%ad%b7%e5%a3%ab%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%978%e5%a4%a9%e5%be%8c-%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e6%aa%a2%e6%b8%ac%e5%91%88%e9%99%bd)  
 - [** 研究指新冠病毒有損精神健康 部分患者康復後出現幻覺 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7722869-%e7%a0%94%e7%a9%b6%e6%8c%87%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e6%9c%89%e6%90%8d%e7%b2%be%e7%a5%9e%e5%81%a5%e5%ba%b7-%e9%83%a8%e5%88%86%e6%82%a3%e8%80%85%e5%ba%b7%e5%be%a9%e5%be%8c%e5%87%ba%e7%8f%be)  
+- [獨家專訪 - 新冠康復者：染疫好大鑊 -- 大公文匯](https://www.tkww.hk/a/202012/31/AP5fed17e1e4b060b720341339.html)  
+- [國家衞健委：新冠病毒疫苗全民免費 -- 大公文匯](https://www.tkww.hk/a/202012/31/AP5fed5325e4b060b720342a09.html)  
+- [當天大呼「中國病毒」的英國政客 如今在一巴又一巴地摑自己 -- deepthroat](https://www.bastillepost.com/hongkong/article/7725790-%e7%95%b6%e5%a4%a9%e5%a4%a7%e5%91%bc%e3%80%8c%e4%b8%ad%e5%9c%8b%e7%97%85%e6%af%92%e3%80%8d%e7%9a%84%e8%8b%b1%e5%9c%8b%e6%94%bf%e5%ae%a2-%e5%a6%82%e4%bb%8a%e5%9c%a8%e4%b8%80%e5%b7%b4%e5%8f%88%e4%b8%80)  
+- [黑天鵝與灰犀牛 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7726380-%e9%bb%91%e5%a4%a9%e9%b5%9d%e8%88%87%e7%81%b0%e7%8a%80%e7%89%9b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
