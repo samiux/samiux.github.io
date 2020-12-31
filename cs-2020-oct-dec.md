@@ -373,5 +373,6 @@
 - [國家衞健委：新冠病毒疫苗全民免費 -- 大公文匯](https://www.tkww.hk/a/202012/31/AP5fed5325e4b060b720342a09.html)  
 - [當天大呼「中國病毒」的英國政客 如今在一巴又一巴地摑自己 -- deepthroat](https://www.bastillepost.com/hongkong/article/7725790-%e7%95%b6%e5%a4%a9%e5%a4%a7%e5%91%bc%e3%80%8c%e4%b8%ad%e5%9c%8b%e7%97%85%e6%af%92%e3%80%8d%e7%9a%84%e8%8b%b1%e5%9c%8b%e6%94%bf%e5%ae%a2-%e5%a6%82%e4%bb%8a%e5%9c%a8%e4%b8%80%e5%b7%b4%e5%8f%88%e4%b8%80)  
 - [黑天鵝與灰犀牛 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7726380-%e9%bb%91%e5%a4%a9%e9%b5%9d%e8%88%87%e7%81%b0%e7%8a%80%e7%89%9b)  
+- [【环球叶问】西方为什么要抹黑攻击中国共产党？他们到底在怕什么？](https://samiux.blogspot.com/2020/12/blog-post_20.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
