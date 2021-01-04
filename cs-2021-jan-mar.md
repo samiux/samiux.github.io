@@ -9,5 +9,6 @@
 - [到港疫苗料下月起五類地點接種 -- 大公文匯](https://www.tkww.hk/a/202101/03/AP5ff10de5e4b060b72034f238.html)  
 - [打破「十年規律」　國產疫苗十個月煉成 -- 大公文匯](https://www.tkww.hk/a/202101/03/AP5ff11060e4b060b72034f325.html)  
 - [巴基斯坦總理：巴政府想向中國學習發展模式以消除貧困 -- 大公文匯](https://www.tkww.hk/a/202101/03/AP5ff105b9e4b060b72034ef24.html)  
+- [** 北京2天接種7萬劑疫苗未見不良反應 -- 香港文匯報](https://www.wenweipo.com/a/202101/03/AP5ff189e2e4b0553aff37f121.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
