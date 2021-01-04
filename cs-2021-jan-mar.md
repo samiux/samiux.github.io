@@ -10,5 +10,8 @@
 - [打破「十年規律」　國產疫苗十個月煉成 -- 大公文匯](https://www.tkww.hk/a/202101/03/AP5ff11060e4b060b72034f325.html)  
 - [巴基斯坦總理：巴政府想向中國學習發展模式以消除貧困 -- 大公文匯](https://www.tkww.hk/a/202101/03/AP5ff105b9e4b060b72034ef24.html)  
 - [** 北京2天接種7萬劑疫苗未見不良反應 -- 香港文匯報](https://www.wenweipo.com/a/202101/03/AP5ff189e2e4b0553aff37f121.html)  
+- [** 意大利首現接種後感染病例 -- 大公文匯](https://www.tkww.hk/a/202101/04/AP5ff28d46e4b060b720354555.html)  
+- [** 澳門居民本月起「零出關」可辦珠海社保 -- 大公文匯](https://www.tkww.hk/a/202101/04/AP5ff2ebc7e4b060b7203561c4.html)  
+- [降低免疫反應 專家籲接種新冠疫苗前後避免喝酒 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7743845-%e9%99%8d%e4%bd%8e%e5%85%8d%e7%96%ab%e5%8f%8d%e6%87%89-%e5%b0%88%e5%ae%b6%e7%b1%b2%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%89%8d%e5%be%8c%e9%81%bf%e5%85%8d%e5%96%9d%e9%85%92?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
