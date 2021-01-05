@@ -14,5 +14,7 @@
 - [** 澳門居民本月起「零出關」可辦珠海社保 -- 大公文匯](https://www.tkww.hk/a/202101/04/AP5ff2ebc7e4b060b7203561c4.html)  
 - [降低免疫反應 專家籲接種新冠疫苗前後避免喝酒 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7743845-%e9%99%8d%e4%bd%8e%e5%85%8d%e7%96%ab%e5%8f%8d%e6%87%89-%e5%b0%88%e5%ae%b6%e7%b1%b2%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%89%8d%e5%be%8c%e9%81%bf%e5%85%8d%e5%96%9d%e9%85%92?current_cat=6)  
 - [西方接種疫苖正在體現「墨菲定律」？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7744053-%e8%a5%bf%e6%96%b9%e6%8e%a5%e7%a8%ae%e7%96%ab%e8%8b%96%e6%ad%a3%e5%9c%a8%e9%ab%94%e7%8f%be%e3%80%8c%e5%a2%a8%e8%8f%b2%e5%ae%9a%e5%be%8b%e3%80%8d%ef%bc%9f)  
+- [** 國產新冠疫苗每支都有「身份證」 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3af1ee4b060b720357c76.html)  
+- [特朗普施壓舞弊　佐州務卿錄音揭發 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3a2dee4b060b7203578b2.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
