@@ -16,5 +16,6 @@
 - [西方接種疫苖正在體現「墨菲定律」？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7744053-%e8%a5%bf%e6%96%b9%e6%8e%a5%e7%a8%ae%e7%96%ab%e8%8b%96%e6%ad%a3%e5%9c%a8%e9%ab%94%e7%8f%be%e3%80%8c%e5%a2%a8%e8%8f%b2%e5%ae%9a%e5%be%8b%e3%80%8d%ef%bc%9f)  
 - [** 國產新冠疫苗每支都有「身份證」 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3af1ee4b060b720357c76.html)  
 - [特朗普施壓舞弊　佐州務卿錄音揭發 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3a2dee4b060b7203578b2.html)  
+- [** 葡萄牙女醫護接種輝瑞疫苗48小時後死亡 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3e014e4b060b720358d2c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
