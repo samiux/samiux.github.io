@@ -17,5 +17,6 @@
 - [** 國產新冠疫苗每支都有「身份證」 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3af1ee4b060b720357c76.html)  
 - [特朗普施壓舞弊　佐州務卿錄音揭發 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3a2dee4b060b7203578b2.html)  
 - [** 葡萄牙女醫護接種輝瑞疫苗48小時後死亡 -- 大公文匯](https://www.tkww.hk/a/202101/05/AP5ff3e014e4b060b720358d2c.html)  
+- [中國疫苗搶手　中企速擴產能 -- 大公文匯](https://www.tkww.hk/a/202101/06/AP5ff50ddfe4b060b72035cb18.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
