@@ -30,5 +30,7 @@
 - [國家安全機關是怎樣一支隊伍? -- 大公文匯](https://www.tkww.hk/a/202101/07/AP5ff6a799e4b060b7203638dd.html)  
 - [** 國安法亮劍！](https://samiux.blogspot.com/2021/01/blog-post.html)
 - [【环球叶问】特朗普丢光的面子靠拜登捡回？警惕美国“阴阳脸”再打“中国牌” ](https://samiux.blogspot.com/2021/01/blog-post_7.html)  
+- [專家：變異新冠病毒毒性未增強　疫苗仍有效 -- 大公文匯](https://www.tkww.hk/a/202101/07/AP5ff6df6be4b060b72036466e.html)  
+- [从32厘米到4600公里！中国构建全球首个星地量子通信网 -- 大公网](http://www.takungpao.com/news/232108/2021/0107/539562.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
