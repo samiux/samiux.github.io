@@ -25,5 +25,7 @@
 - [警方拘捕53人理據全面睇 歹毒的計畫 長期的部署 -- Ariel](https://www.bastillepost.com/hongkong/article/7754488-%e8%ad%a6%e6%96%b9%e6%8b%98%e6%8d%9553%e4%ba%ba%e7%90%86%e6%93%9a%e5%85%a8%e9%9d%a2%e7%9d%87-%e6%ad%b9%e6%af%92%e7%9a%84%e8%a8%88%e7%95%ab-%e9%95%b7%e6%9c%9f%e7%9a%84%e9%83%a8%e7%bd%b2)  
 - [拆局：顛覆罪針對癱瘓政府顛覆政權 戴耀廷推動35+否決預算案成焦點 -- Ariel](https://www.bastillepost.com/hongkong/article/7753585-%e6%8b%86%e5%b1%80%ef%bc%9a%e9%a1%9b%e8%a6%86%e7%bd%aa%e9%87%9d%e5%b0%8d%e7%99%b1%e7%98%93%e6%94%bf%e5%ba%9c%e9%a1%9b%e8%a6%86%e6%94%bf%e6%ac%8a-%e6%88%b4%e8%80%80%e5%bb%b7%e6%8e%a8%e5%8b%9535)  
 - [攬炒真是無後果嗎？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7755646-%e6%94%ac%e7%82%92%e7%9c%9f%e6%98%af%e7%84%a1%e5%be%8c%e6%9e%9c%e5%97%8e%ef%bc%9f)  
+- [美國出現「美麗的風景線」 示威者闖入國會大樓 一名女子中槍身亡 -- deepthroat](https://www.bastillepost.com/hongkong/article/7757372-%e7%be%8e%e5%9c%8b%e5%87%ba%e7%8f%be%e3%80%8c%e7%be%8e%e9%ba%97%e7%9a%84%e9%a2%a8%e6%99%af%e7%b7%9a%e3%80%8d-%e7%a4%ba%e5%a8%81%e8%80%85%e9%97%96%e5%85%a5%e5%9c%8b%e6%9c%83%e5%a4%a7%e6%a8%93-%e4%b8%80)  
+- [特朗普錄影講話及煽動訊息被封殺 Twitter威脅永久取消其帳號 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7757531-%e7%89%b9%e6%9c%97%e6%99%ae%e9%8c%84%e5%bd%b1%e8%ac%9b%e8%a9%b1%e5%8f%8a%e7%85%bd%e5%8b%95%e8%a8%8a%e6%81%af%e8%a2%ab%e5%b0%81%e6%ae%ba-twitter%e5%a8%81%e8%84%85%e6%b0%b8%e4%b9%85%e5%8f%96%e6%b6%88?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
