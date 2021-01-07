@@ -74,6 +74,8 @@
 - [中國疫苗有多強？ -- 大公文匯](https://www.tkww.hk/a/202012/22/AP5fe195c6e4b0421a353bd761.html)  
 - [【环球叶问】西方为什么要抹黑攻击中国共产党？他们到底在怕什么？](https://samiux.blogspot.com/2020/12/blog-post_20.html)  
 - [國家安全機關是怎樣一支隊伍? -- 大公文匯](https://www.tkww.hk/a/202101/07/AP5ff6a799e4b060b7203638dd.html)  
+- [國安法亮劍！](https://samiux.blogspot.com/2021/01/blog-post.html)
+- [【环球叶问】特朗普丢光的面子靠拜登捡回？警惕美国“阴阳脸”再打“中国牌” ](https://samiux.blogspot.com/2021/01/blog-post_7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
