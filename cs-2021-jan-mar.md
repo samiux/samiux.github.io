@@ -28,5 +28,7 @@
 - [美國出現「美麗的風景線」 示威者闖入國會大樓 一名女子中槍身亡 -- deepthroat](https://www.bastillepost.com/hongkong/article/7757372-%e7%be%8e%e5%9c%8b%e5%87%ba%e7%8f%be%e3%80%8c%e7%be%8e%e9%ba%97%e7%9a%84%e9%a2%a8%e6%99%af%e7%b7%9a%e3%80%8d-%e7%a4%ba%e5%a8%81%e8%80%85%e9%97%96%e5%85%a5%e5%9c%8b%e6%9c%83%e5%a4%a7%e6%a8%93-%e4%b8%80)  
 - [特朗普錄影講話及煽動訊息被封殺 Twitter威脅永久取消其帳號 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7757531-%e7%89%b9%e6%9c%97%e6%99%ae%e9%8c%84%e5%bd%b1%e8%ac%9b%e8%a9%b1%e5%8f%8a%e7%85%bd%e5%8b%95%e8%a8%8a%e6%81%af%e8%a2%ab%e5%b0%81%e6%ae%ba-twitter%e5%a8%81%e8%84%85%e6%b0%b8%e4%b9%85%e5%8f%96%e6%b6%88?current_cat=6)  
 - [國家安全機關是怎樣一支隊伍? -- 大公文匯](https://www.tkww.hk/a/202101/07/AP5ff6a799e4b060b7203638dd.html)  
+- [** 國安法亮劍！](https://samiux.blogspot.com/2021/01/blog-post.html)
+- [【环球叶问】特朗普丢光的面子靠拜登捡回？警惕美国“阴阳脸”再打“中国牌” ](https://samiux.blogspot.com/2021/01/blog-post_7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
