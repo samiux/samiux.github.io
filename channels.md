@@ -77,6 +77,7 @@
 - [國安法亮劍！](https://samiux.blogspot.com/2021/01/blog-post.html)
 - [【环球叶问】特朗普丢光的面子靠拜登捡回？警惕美国“阴阳脸”再打“中国牌” ](https://samiux.blogspot.com/2021/01/blog-post_7.html)  
 - [从32厘米到4600公里！中国构建全球首个星地量子通信网 -- 大公网](http://www.takungpao.com/news/232108/2021/0107/539562.html)  
+- [冼師傅教路 - 提防攬炒派Plan B　選舉教育等問題亟待解決 -- 文匯網](https://www.wenweipo.com/a/202101/08/AP5ff82679e4b0553aff38b6e4.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
