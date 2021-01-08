@@ -32,5 +32,9 @@
 - [【环球叶问】特朗普丢光的面子靠拜登捡回？警惕美国“阴阳脸”再打“中国牌” ](https://samiux.blogspot.com/2021/01/blog-post_7.html)  
 - [專家：變異新冠病毒毒性未增強　疫苗仍有效 -- 大公文匯](https://www.tkww.hk/a/202101/07/AP5ff6df6be4b060b72036466e.html)  
 - [从32厘米到4600公里！中国构建全球首个星地量子通信网 -- 大公网](http://www.takungpao.com/news/232108/2021/0107/539562.html)  
+- [美疾控：辉瑞疫苗过敏反应比例为流感疫苗10倍 -- 大公网](http://www.takungpao.com/news/232111/2021/0108/539943.html)  
+- [中国疾控中心：不建议确诊及无症状感染者接种疫苗 -- 大公网](http://www.takungpao.com/news/232108/2021/0108/539932.html)  
+- [冼師傅教路 - 提防攬炒派Plan B　選舉教育等問題亟待解決 -- 文匯網](https://www.wenweipo.com/a/202101/08/AP5ff82679e4b0553aff38b6e4.html)  
+- [国药：国内已接种新冠灭活疫苗400多万剂次 未接到严重不良反应报告 -- 文匯網](http://www.takungpao.com/news/232108/2021/0108/539911.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
