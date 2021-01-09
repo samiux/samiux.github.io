@@ -36,5 +36,6 @@
 - [中国疾控中心：不建议确诊及无症状感染者接种疫苗 -- 大公网](http://www.takungpao.com/news/232108/2021/0108/539932.html)  
 - [冼師傅教路 - 提防攬炒派Plan B　選舉教育等問題亟待解決 -- 文匯網](https://www.wenweipo.com/a/202101/08/AP5ff82679e4b0553aff38b6e4.html)  
 - [国药：国内已接种新冠灭活疫苗400多万剂次 未接到严重不良反应报告 -- 文匯網](http://www.takungpao.com/news/232108/2021/0108/539911.html)  
+- [中國累計新冠疫苗接種900多萬劑次　費用由醫保和財政負擔 -- 大公文匯](https://www.tkww.hk/a/202101/09/AP5ff920f4e4b060b72036b94d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
