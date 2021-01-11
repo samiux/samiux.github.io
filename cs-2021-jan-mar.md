@@ -38,5 +38,6 @@
 - [国药：国内已接种新冠灭活疫苗400多万剂次 未接到严重不良反应报告 -- 文匯網](http://www.takungpao.com/news/232108/2021/0108/539911.html)  
 - [中國累計新冠疫苗接種900多萬劑次　費用由醫保和財政負擔 -- 大公文匯](https://www.tkww.hk/a/202101/09/AP5ff920f4e4b060b72036b94d.html)  
 - [商務部重磅反制美國無理制裁打壓 -- 大公文匯](https://www.tkww.hk/a/202101/09/AP5ff942dbe4b060b72036c221.html)  
+- [** 《法治中國建設規劃》專門論及香港 「防範外部勢力干預香港事務」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7779541-%e3%80%8a%e6%b3%95%e6%b2%bb%e4%b8%ad%e5%9c%8b%e5%bb%ba%e8%a8%ad%e8%a6%8f%e5%8a%83%e3%80%8b%e5%b0%88%e9%96%80%e8%ab%96%e5%8f%8a%e9%a6%99%e6%b8%af-%e3%80%8c%e9%98%b2%e7%af%84%e5%a4%96%e9%83%a8%e5%8b%a2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
