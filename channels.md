@@ -78,6 +78,7 @@
 - [【环球叶问】特朗普丢光的面子靠拜登捡回？警惕美国“阴阳脸”再打“中国牌” ](https://samiux.blogspot.com/2021/01/blog-post_7.html)  
 - [从32厘米到4600公里！中国构建全球首个星地量子通信网 -- 大公网](http://www.takungpao.com/news/232108/2021/0107/539562.html)  
 - [冼師傅教路 - 提防攬炒派Plan B　選舉教育等問題亟待解決 -- 文匯網](https://www.wenweipo.com/a/202101/08/AP5ff82679e4b0553aff38b6e4.html)  
+- [紐約時報記者講出真心話 選舉暴亂的基因深植美國人 -- deepthroat](https://www.bastillepost.com/hongkong/article/7781101-%e7%b4%90%e7%b4%84%e6%99%82%e5%a0%b1%e8%a8%98%e8%80%85%e8%ac%9b%e5%87%ba%e7%9c%9f%e5%bf%83%e8%a9%b1-%e9%81%b8%e8%88%89%e6%9a%b4%e4%ba%82%e7%9a%84%e5%9f%ba%e5%9b%a0%e6%b7%b1%e6%a4%8d%e7%be%8e%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
