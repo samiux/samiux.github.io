@@ -41,5 +41,7 @@
 - [** 《法治中國建設規劃》專門論及香港 「防範外部勢力干預香港事務」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7779541-%e3%80%8a%e6%b3%95%e6%b2%bb%e4%b8%ad%e5%9c%8b%e5%bb%ba%e8%a8%ad%e8%a6%8f%e5%8a%83%e3%80%8b%e5%b0%88%e9%96%80%e8%ab%96%e5%8f%8a%e9%a6%99%e6%b8%af-%e3%80%8c%e9%98%b2%e7%af%84%e5%a4%96%e9%83%a8%e5%8b%a2)  
 - [** 紐約時報記者講出真心話 選舉暴亂的基因深植美國人 -- deepthroat](https://www.bastillepost.com/hongkong/article/7781101-%e7%b4%90%e7%b4%84%e6%99%82%e5%a0%b1%e8%a8%98%e8%80%85%e8%ac%9b%e5%87%ba%e7%9c%9f%e5%bf%83%e8%a9%b1-%e9%81%b8%e8%88%89%e6%9a%b4%e4%ba%82%e7%9a%84%e5%9f%ba%e5%9b%a0%e6%b7%b1%e6%a4%8d%e7%be%8e%e5%9c%8b)  
 - [不要再存有幻想了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7781994-%e4%b8%8d%e8%a6%81%e5%86%8d%e5%ad%98%e6%9c%89%e5%b9%bb%e6%83%b3%e4%ba%86)  
+- [** 中國首揭新冠逝者器官病變圖 -- 大公文匯](https://www.tkww.hk/a/202101/12/AP5ffcee33e4b060b7203771a0.html)  
+- [** 政法委：推進香港國安法　反滲透顛覆 -- 大公文匯](https://www.tkww.hk/a/202101/12/AP5ffd024ee4b060b720377881.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
