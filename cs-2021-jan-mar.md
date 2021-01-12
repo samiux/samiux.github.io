@@ -43,5 +43,6 @@
 - [不要再存有幻想了 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7781994-%e4%b8%8d%e8%a6%81%e5%86%8d%e5%ad%98%e6%9c%89%e5%b9%bb%e6%83%b3%e4%ba%86)  
 - [** 中國首揭新冠逝者器官病變圖 -- 大公文匯](https://www.tkww.hk/a/202101/12/AP5ffcee33e4b060b7203771a0.html)  
 - [** 政法委：推進香港國安法　反滲透顛覆 -- 大公文匯](https://www.tkww.hk/a/202101/12/AP5ffd024ee4b060b720377881.html)  
+- [** 研究發現意大利一女子於前年11月已感染新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202101/12/AP5ffd1999e4b060b720377e95.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
