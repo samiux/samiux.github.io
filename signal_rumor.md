@@ -12,9 +12,9 @@ Signal 由 2018 年开始，她的运营是依靠捐款和非牟利机构 Signal
 
 除了 Signal 外，我们还有很多通讯软件，当中包括 Telegram，WeChat (微信通讯)，SnapChat，Discord，Tox，Element，Threema，Skype， Google Hangouts，Viber，LINE，KaKao Talk，Wire，Kik，Kontalk，IM+，Voxer，Slack，HighSide，FortKnoxster 等等。只要你们当中的朋友圈一同使用就可以达到互相联络的目的了。在选择时当然要仔细看清楚当中的条款了。
 
-Samiux
-OSCP  OSWP  OSCE
-二零二一年一月十六日，中国香港
+Samiux  
+OSCP  OSWP  OSCE  
+二零二一年一月十六日，中国香港  
 
 ## 以下的连结均为可以从网上搜寻有关 Signal 的资料 ：
 
