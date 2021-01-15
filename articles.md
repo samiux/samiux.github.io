@@ -41,6 +41,7 @@
 - [谈「安心出行」应用程式的短板](/leavehomesafe.md)  
 - [KB-VULN 系列推介](/kb-vuln.md)  
 - [华为支付八达通](/huaweipay.md)
+- [谈谈 Signal 的流言](/signal_rumor.md)
 
 ### Tutorials
 
