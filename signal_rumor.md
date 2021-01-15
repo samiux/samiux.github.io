@@ -10,7 +10,7 @@ Signal 由 2018 年开始，她的运营是依靠捐款和非牟利机构 Signal
 
 我并不是护短，也不是亲美，只是想说说我的感受吧了，我是一项开源软件项目的开发者，我并未曾接受过任何资助，但这个项目仍然运行畅顺多年。所以希望大家能够用清晰的头脑去分析一下网上流传的资讯，当中并不排除有抺黑的情况。
 
-除了 Signal 外，我们还有很多通讯软件，当中包括 Telegram，WeChat (微信通讯)，SnapChat，Discord，Tox，Element，Threema，Skype， Google Hangouts，Viber，LINE，KaKao Talk，Wire，Kik，Kontalk，IM+，Voxer，Slack，HighSide，FortKnoxster 等等。只要你们当中的朋友圈一同使用就可以达到互相联络的目的了。在选择时当然要仔细看清楚当中的条款了。
+除了 Signal 外，我们还有很多通讯软件，当中包括 Telegram，WeChat (微信通讯)，SnapChat，Discord，Tox，Element，Threema，Skype， Google Hangouts，Viber，LINE，KaKao Talk，Wire，Kik，Kontalk，IM+，Voxer，Slack，HighSide，FortKnoxster 等等。只要你们当中的朋友圈一同使用同一款的通讯软件就可以达到互相联络的目的了。在选择时当然要仔细看清楚当中的条款了。
 
 Samiux  
 OSCP  OSWP  OSCE  
