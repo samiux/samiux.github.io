@@ -47,5 +47,9 @@
 - [** 內地高校揭示新冠病毒逃逸人體免疫系統識別機制 -- 大公文匯](https://www.tkww.hk/a/202101/15/AP6000fbf1e4b060b7203843cb.html)  
 - [中國展示決心---不能把兩岸統一問題留給下一代 軍機軍艦繞台巡航常態化 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7804465-%e4%b8%ad%e5%9c%8b%e5%b1%95%e7%a4%ba%e6%b1%ba%e5%bf%83-%e4%b8%8d%e8%83%bd%e6%8a%8a%e5%85%a9%e5%b2%b8%e7%b5%b1%e4%b8%80%e5%95%8f%e9%a1%8c%e7%95%99%e7%b5%a6%e4%b8%8b%e4%b8%80%e4%bb%a3-%e8%bb%8d)  
 - [英國脫歐帶來的購物災難 外國人在機場不再可以退稅 歐洲買英國貨額外付重稅 -- deepthroat](https://www.bastillepost.com/hongkong/article/7804364-%e8%8b%b1%e5%9c%8b%e8%84%ab%e6%ad%90%e5%b8%b6%e4%be%86%e7%9a%84%e8%b3%bc%e7%89%a9%e7%81%bd%e9%9b%a3-%e5%a4%96%e5%9c%8b%e4%ba%ba%e5%9c%a8%e6%a9%9f%e5%a0%b4%e4%b8%8d%e5%86%8d%e5%8f%af%e4%bb%a5%e9%80%80)  
+- [** 國藥新冠疫苗　3至17歲可接種 -- 大公文匯](https://www.tkww.hk/a/202101/16/AP60022dc8e4b060b720387620.html)  
+- [挪威23名老人接種輝瑞BioNTech疫苗後死亡 專家指原屬治療性疫苖 年老體弱的人要慎用 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7808783-%e6%8c%aa%e5%a8%8123%e5%90%8d%e8%80%81%e4%ba%ba%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9ebiontech%e7%96%ab%e8%8b%97%e5%be%8c%e6%ad%bb%e4%ba%a1-%e5%b0%88%e5%ae%b6%e6%8c%87%e5%8e%9f%e5%b1%ac%e6%b2%bb%e7%99%82)  
+- [** 国药集团中国生物董事长杨晓明详解疫苗接种焦点问题 -- 大公网](http://www.takungpao.com/news/232108/2021/0115/542222.html)  
+- [** AMD 發布流動版 Ryzen 5000H 系列！Zen 3 架構‧最高 8 核心！ -- ezone](https://ezone.ulifestyle.com.hk/article/2854101/AMD%20%E7%99%BC%E5%B8%83%E6%B5%81%E5%8B%95%E7%89%88%20Ryzen%205000H%20%E7%B3%BB%E5%88%97%EF%BC%81Zen%203%20%E6%9E%B6%E6%A7%8B%E2%80%A7%E6%9C%80%E9%AB%98%208%20%E6%A0%B8%E5%BF%83%EF%BC%81)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
