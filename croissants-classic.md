@@ -1,6 +1,7 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # Croissants 牛角面包 - Intrusion Detection and Prevention System
+## DISCONTINUED
 
 ## ifupdown as default
 
