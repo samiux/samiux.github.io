@@ -51,5 +51,9 @@
 - [挪威23名老人接種輝瑞BioNTech疫苗後死亡 專家指原屬治療性疫苖 年老體弱的人要慎用 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7808783-%e6%8c%aa%e5%a8%8123%e5%90%8d%e8%80%81%e4%ba%ba%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9ebiontech%e7%96%ab%e8%8b%97%e5%be%8c%e6%ad%bb%e4%ba%a1-%e5%b0%88%e5%ae%b6%e6%8c%87%e5%8e%9f%e5%b1%ac%e6%b2%bb%e7%99%82)  
 - [** 国药集团中国生物董事长杨晓明详解疫苗接种焦点问题 -- 大公网](http://www.takungpao.com/news/232108/2021/0115/542222.html)  
 - [** AMD 發布流動版 Ryzen 5000H 系列！Zen 3 架構‧最高 8 核心！ -- ezone](https://ezone.ulifestyle.com.hk/article/2854101/AMD%20%E7%99%BC%E5%B8%83%E6%B5%81%E5%8B%95%E7%89%88%20Ryzen%205000H%20%E7%B3%BB%E5%88%97%EF%BC%81Zen%203%20%E6%9E%B6%E6%A7%8B%E2%80%A7%E6%9C%80%E9%AB%98%208%20%E6%A0%B8%E5%BF%83%EF%BC%81)  
+- [** 以色列至少13人接種輝瑞疫苗後面癱 -- 大公文匯](https://www.tkww.hk/a/202101/17/AP6003d86ae4b060b72038cbd4.html)  
+- [** 挪威29老人接種輝瑞疫苗後死亡　衞生部門：對年長者風險大 -- 大公文匯](https://www.tkww.hk/a/202101/17/AP6003dd68e4b060b72038ccd8.html)  
+- [核酸檢測失靈了？石家莊有人6次檢測才顯示陽性，大連有人11次檢測才顯示陽性 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7813327-%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac%e5%a4%b1%e9%9d%88%e4%ba%86%ef%bc%9f%e7%9f%b3%e5%ae%b6%e8%8e%8a%e6%9c%89%e4%ba%ba6%e6%ac%a1%e6%aa%a2%e6%b8%ac%e6%89%8d%e9%a1%af%e7%a4%ba%e9%99%bd%e6%80%a7%ef%bc%8c)  
+- [挪威23個老人打疫苗後去世 輝瑞突宣佈推遲歐盟疫苗發貨量 -- deepthroat](https://www.bastillepost.com/hongkong/article/7812911-%e6%8c%aa%e5%a8%8123%e5%80%8b%e8%80%81%e4%ba%ba%e6%89%93%e7%96%ab%e8%8b%97%e5%be%8c%e5%8e%bb%e4%b8%96-%e8%bc%9d%e7%91%9e%e7%aa%81%e5%ae%a3%e4%bd%88%e6%8e%a8%e9%81%b2%e6%ad%90%e7%9b%9f%e7%96%ab)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
