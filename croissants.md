@@ -104,6 +104,7 @@ cd /root/idps
 
 cp -R lua/ /root
 cp -R rules/ /root
+cp * /root
 
 cd /root
 
