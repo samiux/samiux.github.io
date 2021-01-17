@@ -57,5 +57,6 @@
 - [挪威23個老人打疫苗後去世 輝瑞突宣佈推遲歐盟疫苗發貨量 -- deepthroat](https://www.bastillepost.com/hongkong/article/7812911-%e6%8c%aa%e5%a8%8123%e5%80%8b%e8%80%81%e4%ba%ba%e6%89%93%e7%96%ab%e8%8b%97%e5%be%8c%e5%8e%bb%e4%b8%96-%e8%bc%9d%e7%91%9e%e7%aa%81%e5%ae%a3%e4%bd%88%e6%8e%a8%e9%81%b2%e6%ad%90%e7%9b%9f%e7%96%ab)  
 - [探秘上海「未來醫院」　有了它分診準確率提升到95%！ -- 大公文匯](https://www.tkww.hk/a/202101/17/AP600415d1e4b060b72038d81e.html)  
 - [一圖 - 多國領導人機場親迎並帶頭接種中國疫苗 -- 大公文匯](https://www.tkww.hk/a/202101/17/AP600409e7e4b060b72038d580.html)  
+- [印度開打疫苗首日　首都51人現不良反應 -- 大公文匯](https://www.tkww.hk/a/202101/17/AP60042de1e4b060b72038dc18.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
