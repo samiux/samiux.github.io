@@ -63,5 +63,12 @@
 - [粵港澳大灣區推進綜合交通「一碼通」 -- 大公文匯](https://www.tkww.hk/a/202101/19/AP6006b693e4b07ecdffe9a017.html)  
 - [脫歐慘劇逐步上演！英國漁民：脫歐後賣向中國的海產比給歐盟鄰國還多 -- deepthroat](https://www.bastillepost.com/hongkong/article/7828586-%e8%84%ab%e6%ad%90%e6%85%98%e5%8a%87%e9%80%90%e6%ad%a5%e4%b8%8a%e6%bc%94%ef%bc%81%e8%8b%b1%e5%9c%8b%e6%bc%81%e6%b0%91%ef%bc%9a%e8%84%ab%e6%ad%90%e5%be%8c%e8%b3%a3%e5%90%91%e4%b8%ad%e5%9c%8b%e7%9a%84)  
 - [美國衰落論 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7832367-%e7%be%8e%e5%9c%8b%e8%a1%b0%e8%90%bd%e8%ab%96)  
+- [歐洲多國因疫苗交付量與輝瑞陷入爭執 -- 大公文匯](https://www.tkww.hk/a/202101/21/AP60095245e4b07ecdffea51f2.html)  
+- [不滿拜登上任　美國波特蘭市發生多起示威事件 -- 大公文匯](https://www.tkww.hk/a/202101/21/AP6009420be4b07ecdffea4ddb.html)  
+- [拜登上任首天先做的6件事 加拿大中招 對中國態度含糊 -- deepthroat](https://www.bastillepost.com/hongkong/article/7836519-%e6%8b%9c%e7%99%bb%e4%b8%8a%e4%bb%bb%e9%a6%96%e5%a4%a9%e5%85%88%e5%81%9a%e7%9a%846%e4%bb%b6%e4%ba%8b-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e4%b8%ad%e6%8b%9b-%e5%b0%8d%e4%b8%ad%e5%9c%8b%e6%85%8b%e5%ba%a6)  
+- [華為死咗未？嗯，在雲上了！ -- 深藍](https://www.bastillepost.com/hongkong/article/7836674-%e8%8f%af%e7%82%ba%e6%ad%bb%e5%92%97%e6%9c%aa%ef%bc%9f%e5%97%af%ef%bc%8c%e5%9c%a8%e9%9b%b2%e4%b8%8a%e4%ba%86%ef%bc%81)  
+- [出嚟行預咗要還 中方制裁蓬佩奧等 專家：為未來中美關係劃清底線 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7834403-%e5%87%ba%e5%9a%9f%e8%a1%8c%e9%a0%90%e5%92%97%e8%a6%81%e9%82%84-%e4%b8%ad%e6%96%b9%e5%88%b6%e8%a3%81%e8%93%ac%e4%bd%a9%e5%a5%a7%e7%ad%89-%e5%b0%88%e5%ae%b6%ef%bc%9a%e7%82%ba%e6%9c%aa%e4%be%86%e4%b8%ad)  
+- [美侯任國務卿：若中國對台動武將是「嚴重錯誤」 華春瑩：希望美方推動中美關係重回正軌 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7834794-%e7%be%8e%e4%be%af%e4%bb%bb%e5%9c%8b%e5%8b%99%e5%8d%bf%ef%bc%9a%e8%8b%a5%e4%b8%ad%e5%9c%8b%e5%b0%8d%e5%8f%b0%e5%8b%95%e6%ad%a6%e5%b0%87%e6%98%af%e3%80%8c%e5%9a%b4%e9%87%8d%e9%8c%af%e8%aa%a4%e3%80%8d)  
+- [普京送給拜登的見面禮 俄羅斯大建14艘核潛艇 徹底終結美國海軍霸權 -- deepthroat](https://www.bastillepost.com/hongkong/article/7834442-%e6%99%ae%e4%ba%ac%e9%80%81%e7%b5%a6%e6%8b%9c%e7%99%bb%e7%9a%84%e8%a6%8b%e9%9d%a2%e7%a6%ae-%e4%bf%84%e7%be%85%e6%96%af%e5%a4%a7%e5%bb%ba14%e8%89%98%e6%a0%b8%e6%bd%9b%e8%89%87-%e5%be%b9%e5%ba%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
