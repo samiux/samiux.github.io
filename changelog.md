@@ -2,9 +2,9 @@
 
 ### Version - 6.0.1.1 [Stable, Latest]  
 Release date : 2021-01-21 - GMT+8  
-[+] Add ja3 fingerprint and SSL blacklists rules
-[+] Add phishing and compromised hosts rules
-[+] Minor improvemets
+[+] Add ja3 fingerprint and SSL blacklists rules  
+[+] Add phishing and compromised hosts rules  
+[+] Minor improvemets  
 
 ### Version - 6.0.1.0 
 Release date : 2020-12-25 - GMT+8  
