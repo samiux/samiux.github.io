@@ -63,6 +63,7 @@
 - [粵港澳大灣區推進綜合交通「一碼通」 -- 大公文匯](https://www.tkww.hk/a/202101/19/AP6006b693e4b07ecdffe9a017.html)  
 - [脫歐慘劇逐步上演！英國漁民：脫歐後賣向中國的海產比給歐盟鄰國還多 -- deepthroat](https://www.bastillepost.com/hongkong/article/7828586-%e8%84%ab%e6%ad%90%e6%85%98%e5%8a%87%e9%80%90%e6%ad%a5%e4%b8%8a%e6%bc%94%ef%bc%81%e8%8b%b1%e5%9c%8b%e6%bc%81%e6%b0%91%ef%bc%9a%e8%84%ab%e6%ad%90%e5%be%8c%e8%b3%a3%e5%90%91%e4%b8%ad%e5%9c%8b%e7%9a%84)  
 - [美國衰落論 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7832367-%e7%be%8e%e5%9c%8b%e8%a1%b0%e8%90%bd%e8%ab%96)  
+- [美國衰落論2——巨債 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7844515-%e7%be%8e%e5%9c%8b%e8%a1%b0%e8%90%bd%e8%ab%962-%e5%b7%a8%e5%82%b5)  
 - [歐洲多國因疫苗交付量與輝瑞陷入爭執 -- 大公文匯](https://www.tkww.hk/a/202101/21/AP60095245e4b07ecdffea51f2.html)  
 - [不滿拜登上任　美國波特蘭市發生多起示威事件 -- 大公文匯](https://www.tkww.hk/a/202101/21/AP6009420be4b07ecdffea4ddb.html)  
 - [拜登上任首天先做的6件事 加拿大中招 對中國態度含糊 -- deepthroat](https://www.bastillepost.com/hongkong/article/7836519-%e6%8b%9c%e7%99%bb%e4%b8%8a%e4%bb%bb%e9%a6%96%e5%a4%a9%e5%85%88%e5%81%9a%e7%9a%846%e4%bb%b6%e4%ba%8b-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e4%b8%ad%e6%8b%9b-%e5%b0%8d%e4%b8%ad%e5%9c%8b%e6%85%8b%e5%ba%a6)  
