@@ -71,5 +71,7 @@
 - [美侯任國務卿：若中國對台動武將是「嚴重錯誤」 華春瑩：希望美方推動中美關係重回正軌 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7834794-%e7%be%8e%e4%be%af%e4%bb%bb%e5%9c%8b%e5%8b%99%e5%8d%bf%ef%bc%9a%e8%8b%a5%e4%b8%ad%e5%9c%8b%e5%b0%8d%e5%8f%b0%e5%8b%95%e6%ad%a6%e5%b0%87%e6%98%af%e3%80%8c%e5%9a%b4%e9%87%8d%e9%8c%af%e8%aa%a4%e3%80%8d)  
 - [普京送給拜登的見面禮 俄羅斯大建14艘核潛艇 徹底終結美國海軍霸權 -- deepthroat](https://www.bastillepost.com/hongkong/article/7834442-%e6%99%ae%e4%ba%ac%e9%80%81%e7%b5%a6%e6%8b%9c%e7%99%bb%e7%9a%84%e8%a6%8b%e9%9d%a2%e7%a6%ae-%e4%bf%84%e7%be%85%e6%96%af%e5%a4%a7%e5%bb%ba14%e8%89%98%e6%a0%b8%e6%bd%9b%e8%89%87-%e5%be%b9%e5%ba%95)  
 - [三問英國 為何有資格講良知？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7838719-%e4%b8%89%e5%95%8f%e8%8b%b1%e5%9c%8b-%e7%82%ba%e4%bd%95%e6%9c%89%e8%b3%87%e6%a0%bc%e8%ac%9b%e8%89%af%e7%9f%a5%ef%bc%9f)  
+- [輝瑞：BioNTech疫苗可殺英變種毒株 -- 大公文匯](https://www.tkww.hk/a/202101/22/AP600a3242e4b07ecdffea7d69.html)  
+- [** China COVID vaccine reports mixed results — what does that mean for the pandemic? -- nature](https://www.nature.com/articles/d41586-021-00094-z)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
