@@ -40,7 +40,7 @@ His skills are :
 He can be reached at :
 
 - [Samiux's Blog](https://samiux.blogspot.com)
-- [Cyber Security Ninjas](https://samiux.github.io) 
+- [CyberSecurity Ninjas](https://samiux.github.io) 
 - IRC - freenode #infosec-ninjas (SSL with Port 6697)
 
 ## **Reference**
