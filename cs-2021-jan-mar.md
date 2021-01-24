@@ -74,5 +74,6 @@
 - [三問英國 為何有資格講良知？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7838719-%e4%b8%89%e5%95%8f%e8%8b%b1%e5%9c%8b-%e7%82%ba%e4%bd%95%e6%9c%89%e8%b3%87%e6%a0%bc%e8%ac%9b%e8%89%af%e7%9f%a5%ef%bc%9f)  
 - [輝瑞：BioNTech疫苗可殺英變種毒株 -- 大公文匯](https://www.tkww.hk/a/202101/22/AP600a3242e4b07ecdffea7d69.html)  
 - [** China COVID vaccine reports mixed results — what does that mean for the pandemic? -- nature](https://www.nature.com/articles/d41586-021-00094-z)  
+- [CDC : Moderna疫苗嚴重過敏個案較輝瑞少 -- 大公文匯](https://www.tkww.hk/a/202101/24/AP600d301de4b07ecdffeb27d7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
