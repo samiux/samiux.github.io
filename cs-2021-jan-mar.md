@@ -77,5 +77,6 @@
 - [CDC : Moderna疫苗嚴重過敏個案較輝瑞少 -- 大公文匯](https://www.tkww.hk/a/202101/24/AP600d301de4b07ecdffeb27d7.html)  
 - [以色列速打疫苗見效　長者感染率跌６成 -- 大公文匯](https://www.tkww.hk/a/202101/25/AP600e2ab5e4b07ecdffeb5365.html)  
 - [** 廣東首推「鏈長制」　破造芯「卡脖子」 -- 大公文匯](https://www.tkww.hk/a/202101/25/AP600e22f2e4b07ecdffeb5069.html)  
+- [復星及BioNTech疫苖獲准使用 中文取名為「復必泰」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7858733-%e5%be%a9%e6%98%9f%e5%8f%8abiontech%e7%96%ab%e8%8b%96%e7%8d%b2%e5%87%86%e4%bd%bf%e7%94%a8-%e4%b8%ad%e6%96%87%e5%8f%96%e5%90%8d%e3%80%8c%e5%be%a9%e5%bf%85%e6%b3%b0%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
