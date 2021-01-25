@@ -76,5 +76,6 @@
 - [** China COVID vaccine reports mixed results — what does that mean for the pandemic? -- nature](https://www.nature.com/articles/d41586-021-00094-z)  
 - [CDC : Moderna疫苗嚴重過敏個案較輝瑞少 -- 大公文匯](https://www.tkww.hk/a/202101/24/AP600d301de4b07ecdffeb27d7.html)  
 - [以色列速打疫苗見效　長者感染率跌６成 -- 大公文匯](https://www.tkww.hk/a/202101/25/AP600e2ab5e4b07ecdffeb5365.html)  
+- [** 廣東首推「鏈長制」　破造芯「卡脖子」 -- 大公文匯](https://www.tkww.hk/a/202101/25/AP600e22f2e4b07ecdffeb5069.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
