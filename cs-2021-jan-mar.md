@@ -84,5 +84,6 @@
 - [** 專家解答 - 二次接種新冠疫苗注意事項](https://www.tkww.hk/a/202101/26/AP601018d2e4b07ecdffebc31a.html)  
 - [** 富可敵國 廣東GDP超過俄羅斯、韓國！ 中國經濟第一大省 連續32年全國第一 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7867608-%e5%af%8c%e5%8f%af%e6%95%b5%e5%9c%8b-%e5%bb%a3%e6%9d%b1gdp%e8%b6%85%e9%81%8e%e4%bf%84%e7%be%85%e6%96%af%e3%80%81%e9%9f%93%e5%9c%8b%ef%bc%81-%e4%b8%ad%e5%9c%8b%e7%b6%93%e6%bf%9f%e7%ac%ac%e4%b8%80)  
 - [巴西民粹總統也多謝中國 迅速批准出口新冠疫苗活性成分 -- deepthroat](https://www.bastillepost.com/hongkong/article/7867700-%e5%b7%b4%e8%a5%bf%e6%b0%91%e7%b2%b9%e7%b8%bd%e7%b5%b1%e4%b9%9f%e5%a4%9a%e8%ac%9d%e4%b8%ad%e5%9c%8b-%e8%bf%85%e9%80%9f%e6%89%b9%e5%87%86%e5%87%ba%e5%8f%a3%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%b4%bb)  
+- [莫高估拜登，蓋茲先至有料到 -- 深藍](https://www.bastillepost.com/hongkong/article/7869028-%e8%8e%ab%e9%ab%98%e4%bc%b0%e6%8b%9c%e7%99%bb%ef%bc%8c%e8%93%8b%e8%8c%b2%e5%85%88%e8%87%b3%e6%9c%89%e6%96%99%e5%88%b0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
