@@ -86,5 +86,10 @@
 - [巴西民粹總統也多謝中國 迅速批准出口新冠疫苗活性成分 -- deepthroat](https://www.bastillepost.com/hongkong/article/7867700-%e5%b7%b4%e8%a5%bf%e6%b0%91%e7%b2%b9%e7%b8%bd%e7%b5%b1%e4%b9%9f%e5%a4%9a%e8%ac%9d%e4%b8%ad%e5%9c%8b-%e8%bf%85%e9%80%9f%e6%89%b9%e5%87%86%e5%87%ba%e5%8f%a3%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%b4%bb)  
 - [莫高估拜登，蓋茲先至有料到 -- 深藍](https://www.bastillepost.com/hongkong/article/7869028-%e8%8e%ab%e9%ab%98%e4%bc%b0%e6%8b%9c%e7%99%bb%ef%bc%8c%e8%93%8b%e8%8c%b2%e5%85%88%e8%87%b3%e6%9c%89%e6%96%99%e5%88%b0)  
 - [牛奶公司中勒索軟件　疑導致宜家家居停業 -- PCM](https://www.pcmarket.com.hk/20210121-daily-farm-hitted-ransomware-forced-ikea-suspend-business/)  
+- [** 港府推新冠疫苗接種網站　方便市民了解最新資訊 -- 大公文匯](https://www.tkww.hk/a/202101/29/AP6013bdb8e4b0661d556b9b72.html)  
+- [** 外交部宣布本月31日起 不再承認BNO護照為有效證件 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7882144-%e5%a4%96%e4%ba%a4%e9%83%a8%ef%bc%9a1%e6%9c%8831%e6%97%a5%e8%b5%b7%e4%b8%ad%e6%96%b9%e4%b8%8d%e5%86%8d%e6%89%bf%e8%aa%8dbno%e8%ad%b7%e7%85%a7%e7%82%ba%e6%9c%89%e6%95%88%e8%ad%89%e4%bb%b6)  
+- [CY 引述評論CY的文章 張志剛解話CY講「協商」產生特首的話說給誰聽的 -- Ariel](https://www.bastillepost.com/hongkong/article/7880858-cy-%e5%bc%95%e8%bf%b0%e8%a9%95%e8%ab%96cy%e7%9a%84%e6%96%87%e7%ab%a0-%e5%bc%b5%e5%bf%97%e5%89%9b%e8%a7%a3%e8%a9%b1cy%e8%ac%9b%e3%80%8c%e5%8d%94%e5%95%86%e3%80%8d%e7%94%a2%e7%94%9f%e7%89%b9%e9%a6%96)  
+- [美國對蔡英文稱呼改變了 綠營又採取「我睇你唔到」的態度 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7880363-%e7%be%8e%e5%9c%8b%e5%b0%8d%e8%94%a1%e8%8b%b1%e6%96%87%e7%a8%b1%e5%91%bc%e6%94%b9%e8%ae%8a%e4%ba%86-%e7%b6%a0%e7%87%9f%e5%8f%88%e6%8e%a1%e5%8f%96%e3%80%8c%e6%88%91%e7%9d%87%e4%bd%a0%e5%94%94%e5%88%b0)  
+- [保安局：實名制為打擊罪案 香港啟用的電話卡才受規管 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7882315-%e4%bf%9d%e5%ae%89%e5%b1%80%ef%bc%9a%e5%af%a6%e5%90%8d%e5%88%b6%e7%82%ba%e6%89%93%e6%93%8a%e7%bd%aa%e6%a1%88-%e9%a6%99%e6%b8%af%e5%95%9f%e7%94%a8%e7%9a%84%e5%8d%a1%e6%89%8d%e5%8f%97%e8%a6%8f%e7%ae%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
