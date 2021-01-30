@@ -92,5 +92,7 @@
 - [CY 引述評論CY的文章 張志剛解話CY講「協商」產生特首的話說給誰聽的 -- Ariel](https://www.bastillepost.com/hongkong/article/7880858-cy-%e5%bc%95%e8%bf%b0%e8%a9%95%e8%ab%96cy%e7%9a%84%e6%96%87%e7%ab%a0-%e5%bc%b5%e5%bf%97%e5%89%9b%e8%a7%a3%e8%a9%b1cy%e8%ac%9b%e3%80%8c%e5%8d%94%e5%95%86%e3%80%8d%e7%94%a2%e7%94%9f%e7%89%b9%e9%a6%96)  
 - [美國對蔡英文稱呼改變了 綠營又採取「我睇你唔到」的態度 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7880363-%e7%be%8e%e5%9c%8b%e5%b0%8d%e8%94%a1%e8%8b%b1%e6%96%87%e7%a8%b1%e5%91%bc%e6%94%b9%e8%ae%8a%e4%ba%86-%e7%b6%a0%e7%87%9f%e5%8f%88%e6%8e%a1%e5%8f%96%e3%80%8c%e6%88%91%e7%9d%87%e4%bd%a0%e5%94%94%e5%88%b0)  
 - [保安局：實名制為打擊罪案 香港啟用的電話卡才受規管 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7882315-%e4%bf%9d%e5%ae%89%e5%b1%80%ef%bc%9a%e5%af%a6%e5%90%8d%e5%88%b6%e7%82%ba%e6%89%93%e6%93%8a%e7%bd%aa%e6%a1%88-%e9%a6%99%e6%b8%af%e5%95%9f%e7%94%a8%e7%9a%84%e5%8d%a1%e6%89%8d%e5%8f%97%e8%a6%8f%e7%ae%a1)  
+- [由不卑不亢到雖遠必誅 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7883562-%e7%94%b1%e4%b8%8d%e5%8d%91%e4%b8%8d%e4%ba%a2%e5%88%b0%e9%9b%96%e9%81%a0%e5%bf%85%e8%aa%85)  
+- [美國GDP跌慘！中國佔美總量超76％ 成百年第一國 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7886044-%e7%be%8e%e5%9c%8bgdp%e8%b7%8c%e6%85%98%ef%bc%81%e4%b8%ad%e5%9c%8b%e4%bd%94%e7%be%8e%e7%b8%bd%e9%87%8f%e8%b6%8576%ef%bc%85-%e6%88%90%e7%99%be%e5%b9%b4%e7%ac%ac%e4%b8%80%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
