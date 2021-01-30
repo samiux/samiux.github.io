@@ -94,5 +94,7 @@
 - [保安局：實名制為打擊罪案 香港啟用的電話卡才受規管 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7882315-%e4%bf%9d%e5%ae%89%e5%b1%80%ef%bc%9a%e5%af%a6%e5%90%8d%e5%88%b6%e7%82%ba%e6%89%93%e6%93%8a%e7%bd%aa%e6%a1%88-%e9%a6%99%e6%b8%af%e5%95%9f%e7%94%a8%e7%9a%84%e5%8d%a1%e6%89%8d%e5%8f%97%e8%a6%8f%e7%ae%a1)  
 - [由不卑不亢到雖遠必誅 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7883562-%e7%94%b1%e4%b8%8d%e5%8d%91%e4%b8%8d%e4%ba%a2%e5%88%b0%e9%9b%96%e9%81%a0%e5%bf%85%e8%aa%85)  
 - [美國GDP跌慘！中國佔美總量超76％ 成百年第一國 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7886044-%e7%be%8e%e5%9c%8bgdp%e8%b7%8c%e6%85%98%ef%bc%81%e4%b8%ad%e5%9c%8b%e4%bd%94%e7%be%8e%e7%b8%bd%e9%87%8f%e8%b6%8576%ef%bc%85-%e6%88%90%e7%99%be%e5%b9%b4%e7%ac%ac%e4%b8%80%e5%9c%8b)  
+- [** 真實的華爾街大對決：打不過，拔網線 -- 大公文匯](https://mp.weixin.qq.com/s/4XJSRI6F__Qh2f01FOcuIA)  
+- [** 遊戲驛站事件 曝露華爾街醜陋一面 散戶被暫停買入但機構投資者仍可買賣 -- 尚風](https://www.bastillepost.com/hongkong/article/7881940-%e9%81%8a%e6%88%b2%e9%a9%9b%e7%ab%99%e4%ba%8b%e4%bb%b6-%e6%9b%9d%e9%9c%b2%e8%8f%af%e7%88%be%e8%a1%97%e9%86%9c%e9%99%8b%e4%b8%80%e9%9d%a2-%e6%95%a3%e6%88%b6%e8%a2%ab%e6%9a%ab%e5%81%9c%e8%b2%b7%e8%b3%a3)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
