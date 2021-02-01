@@ -101,5 +101,6 @@
 - [** 四家美產疫苗對南非的變種毒株有效率大打折扣 -- 大公文匯](https://www.tkww.hk/a/202101/31/AP6015e74ae4b0661d556c111d.html)  
 - [** 美媒：美軍航母上周進入南海時 中國轟炸機曾模擬對其攻擊 -- deepthroat](https://www.bastillepost.com/hongkong/article/7890208-%e7%be%8e%e5%aa%92%ef%bc%9a%e7%be%8e%e8%bb%8d%e8%88%aa%e6%af%8d%e4%b8%8a%e5%91%a8%e9%80%b2%e5%85%a5%e5%8d%97%e6%b5%b7%e6%99%82-%e4%b8%ad%e5%9c%8b%e8%bd%9f%e7%82%b8%e6%a9%9f%e6%9b%be%e6%a8%a1%e6%93%ac)  
 - [雙座殲20　升級空戰指揮中樞 -- 大公文匯](https://www.tkww.hk/a/202102/01/AP60172e75e4b0661d556c5d98.html)  
+- [中國疾控中心：新冠疫苗接種量累計超2400萬劑次 -- 大公文匯](https://www.tkww.hk/a/202101/31/AP60167f37e4b0661d556c4481.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
