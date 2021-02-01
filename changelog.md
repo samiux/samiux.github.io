@@ -1,6 +1,10 @@
 # Croissants ChangeLog
 
-### Version - 6.0.1.1 [Stable, Latest]  
+### Version - 6.0.1.2 [Stable, Latest]  
+Release date : 2021-02-02 - GMT+8  
+[+] Performance tuning  
+
+### Version - 6.0.1.1  
 Release date : 2021-01-22 - GMT+8  
 [+] Add JA3 fingerprint and SSL blacklists rules  
 [+] Add phishing and compromised hosts rules  
