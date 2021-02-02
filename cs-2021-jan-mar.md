@@ -103,5 +103,6 @@
 - [雙座殲20　升級空戰指揮中樞 -- 大公文匯](https://www.tkww.hk/a/202102/01/AP60172e75e4b0661d556c5d98.html)  
 - [中國疾控中心：新冠疫苗接種量累計超2400萬劑次 -- 大公文匯](https://www.tkww.hk/a/202101/31/AP60167f37e4b0661d556c4481.html)  
 - [** 中國量子電腦「九章」　快過「富岳」100萬億倍 -- 大公文匯](https://www.tkww.hk/a/202102/01/AP60175404e4b0661d556c6a95.html)  
+- [** 西班牙一養老院70多人染疫　此前均已接種疫苗 -- 大公文匯](https://www.tkww.hk/a/202102/02/AP6018bd25e4b0661d556cc4a5.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
