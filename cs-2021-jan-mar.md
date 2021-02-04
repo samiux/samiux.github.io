@@ -108,5 +108,6 @@
 - [全球8款領跑疫苗全面盤點 鍾南山透露: 全球超過2000萬人接種過國藥和科興疫苗 -- deepthroat](https://www.bastillepost.com/hongkong/article/7908273-%e5%85%a8%e7%90%838%e6%ac%be%e9%a0%98%e8%b7%91%e7%96%ab%e8%8b%97%e5%85%a8%e9%9d%a2%e7%9b%a4%e9%bb%9e-%e9%8d%be%e5%8d%97%e5%b1%b1%e9%80%8f%e9%9c%b2-%e5%85%a8%e7%90%83%e8%b6%85%e9%81%8e2000%e8%90%ac)  
 - [那個國家滅絕了種族？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7911059-%e9%82%a3%e5%80%8b%e5%9c%8b%e5%ae%b6%e6%bb%85%e7%b5%95%e4%ba%86%e7%a8%ae%e6%97%8f%ef%bc%9f)  
 - [美國為什麼羨慕中國？因為你破壞，我創新 -- 深藍](https://www.bastillepost.com/hongkong/article/7910309-%e7%be%8e%e5%9c%8b%e7%82%ba%e4%bb%80%e9%ba%bc%e7%be%a8%e6%85%95%e4%b8%ad%e5%9c%8b%ef%bc%9f%e5%9b%a0%e7%82%ba%e4%bd%a0%e7%a0%b4%e5%a3%9e%ef%bc%8c%e6%88%91%e5%89%b5%e6%96%b0)  
+- [英變種病毒再突變　恐降疫苗藥效 -- 大公文匯](https://mp.weixin.qq.com/s/a2yHkVZgl7A-p9HVAF3Lfw)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
