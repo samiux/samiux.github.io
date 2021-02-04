@@ -1,6 +1,10 @@
 # Croissants ChangeLog
 
-### Version - 6.0.1.2 [Stable, Latest]  
+### Version - 6.0.1.3 [Stable, Latest]  
+Release date : 2021-02-04 - GMT+8  
+[+] Performance tuning  
+
+### Version - 6.0.1.2  
 Release date : 2021-02-02 - GMT+8  
 [+] Performance tuning  
 
