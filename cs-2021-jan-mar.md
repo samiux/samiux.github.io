@@ -110,5 +110,7 @@
 - [美國為什麼羨慕中國？因為你破壞，我創新 -- 深藍](https://www.bastillepost.com/hongkong/article/7910309-%e7%be%8e%e5%9c%8b%e7%82%ba%e4%bb%80%e9%ba%bc%e7%be%a8%e6%85%95%e4%b8%ad%e5%9c%8b%ef%bc%9f%e5%9b%a0%e7%82%ba%e4%bd%a0%e7%a0%b4%e5%a3%9e%ef%bc%8c%e6%88%91%e5%89%b5%e6%96%b0)  
 - [英變種病毒再突變　恐降疫苗藥效 -- 大公文匯](https://mp.weixin.qq.com/s/a2yHkVZgl7A-p9HVAF3Lfw)  
 - [廣東推進落實系列措施　進一步深化粵港合作 -- 大公文匯](https://www.tkww.hk/a/202102/03/AP601a73b3e4b0661d556d32e4.html)  
+- [科興公布60歲或以上臨床數據 指疫苗安全耐受性良好 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7915651-%e7%a7%91%e8%88%88%e5%85%ac%e5%b8%8360%e6%ad%b2%e6%88%96%e4%bb%a5%e4%b8%8a%e8%87%a8%e5%ba%8a%e6%95%b8%e6%93%9a-%e6%8c%87%e7%96%ab%e8%8b%97%e5%ae%89%e5%85%a8%e8%80%90%e5%8f%97%e6%80%a7%e8%89%af)  
+- [西班牙老人院爆疫　均曾接種首劑輝瑞疫苗 -- 大公文匯](https://www.tkww.hk/a/202102/04/AP601b5926e4b0661d556d65a5.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
