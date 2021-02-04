@@ -112,5 +112,8 @@
 - [廣東推進落實系列措施　進一步深化粵港合作 -- 大公文匯](https://www.tkww.hk/a/202102/03/AP601a73b3e4b0661d556d32e4.html)  
 - [科興公布60歲或以上臨床數據 指疫苗安全耐受性良好 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7915651-%e7%a7%91%e8%88%88%e5%85%ac%e5%b8%8360%e6%ad%b2%e6%88%96%e4%bb%a5%e4%b8%8a%e8%87%a8%e5%ba%8a%e6%95%b8%e6%93%9a-%e6%8c%87%e7%96%ab%e8%8b%97%e5%ae%89%e5%85%a8%e8%80%90%e5%8f%97%e6%80%a7%e8%89%af)  
 - [西班牙老人院爆疫　均曾接種首劑輝瑞疫苗 -- 大公文匯](https://www.tkww.hk/a/202102/04/AP601b5926e4b0661d556d65a5.html)  
+- [** 最高法：嚴重危害國家安全罪境外人士可缺席審判作出判決 -- 大公文匯](https://www.tkww.hk/a/202102/04/AP601bff1ce4b0661d556d8f9e.html)  
+- [** 《柳葉刀》子刊發布：科興疫苗老年組試驗具良好安全性和免疫原性 -- 大公文匯](https://www.tkww.hk/a/202102/04/AP601b93c0e4b0661d556d75ab.html)  
+- [國安法只是開始 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7917516-%e5%9c%8b%e5%ae%89%e6%b3%95%e5%8f%aa%e6%98%af%e9%96%8b%e5%a7%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
