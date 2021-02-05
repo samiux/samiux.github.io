@@ -124,5 +124,6 @@
 - [走出武漢P4病毒實驗室，世衛專家說「挺諷刺的……」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7919662-%e8%b5%b0%e5%87%ba%e6%ad%a6%e6%bc%a2p4%e7%97%85%e6%af%92%e5%af%a6%e9%a9%97%e5%ae%a4%ef%bc%8c%e4%b8%96%e8%a1%9b%e5%b0%88%e5%ae%b6%e8%aa%aa%e3%80%8c%e6%8c%ba%e8%ab%b7%e5%88%ba%e7%9a%84)  
 - [** 關於新疆的24個謊言與真相 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601cb3f3e4b0661d556db0b1.html)  
 - [** 全球驚現4000變種　英基因測序迎戰 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c9de0e4b0661d556da899.html)  
+- [** 國產新型爆炸物檢測儀上線　靈敏度1納克僅需2秒即檢出 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601d1279e4b0661d556dce7b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
