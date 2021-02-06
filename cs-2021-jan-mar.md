@@ -123,6 +123,7 @@
 - [英試驗混打輝瑞牛津疫苗　全球首例 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c9df9e4b0661d556da8ad.html)  
 - [走出武漢P4病毒實驗室，世衛專家說「挺諷刺的……」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7919662-%e8%b5%b0%e5%87%ba%e6%ad%a6%e6%bc%a2p4%e7%97%85%e6%af%92%e5%af%a6%e9%a9%97%e5%ae%a4%ef%bc%8c%e4%b8%96%e8%a1%9b%e5%b0%88%e5%ae%b6%e8%aa%aa%e3%80%8c%e6%8c%ba%e8%ab%b7%e5%88%ba%e7%9a%84)  
 - [** 關於新疆的24個謊言與真相 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601cb3f3e4b0661d556db0b1.html)  
+- [** 《維吾爾族假新聞的終結》 法國作家推新書講「真實的新疆」 -- deepthroat](https://www.bastillepost.com/hongkong/article/7926191-%e3%80%8a%e7%b6%ad%e5%90%be%e7%88%be%e6%97%8f%e5%81%87%e6%96%b0%e8%81%9e%e7%9a%84%e7%b5%82%e7%b5%90%e3%80%8b-%e6%b3%95%e5%9c%8b%e4%bd%9c%e5%ae%b6%e6%8e%a8%e6%96%b0%e6%9b%b8%e8%ac%9b%e3%80%8c%e7%9c%9f)  
 - [** 全球驚現4000變種　英基因測序迎戰 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c9de0e4b0661d556da899.html)  
 - [** 國產新型爆炸物檢測儀上線　靈敏度1納克僅需2秒即檢出 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601d1279e4b0661d556dce7b.html)  
 
