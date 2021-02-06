@@ -25,10 +25,10 @@
 
 If you have a very powerful CPU and at least 16GB memory, you can set higher values.
 
-**MAX_PENDING_PACKETS :** The maximum pending packets for Suricata.  The minimum value is "1024" and the maximum value is "65534".  The larger value the more amount of memory used.  The default value is "1024".  The default value is suit for 8GB memory of the system.  The higher the value the higher the CPU loading.
+**MAX_PENDING_PACKETS :** The maximum pending packets for Suricata.  The minimum value is "1024" and the maximum value is "65534".  The larger value the more amount of memory used.  The default value is "1024".  The default value is suit for 8GB memory of the system.  The higher the value the higher the CPU loading.  The recommended value for 16GB RAM is 65534.
 
 **RUN_MODE :** The run mode of Suricata, it is either "autofp" or "workers".  "autofp" is load balancing while "workers" is performance.  The default value is "workers".
 
-**DETECT_PROFILE :** The detect profile for Suricata, it can be "low", "medium" and "high".  The higher the profile, the higher CPU loading.  The default value is "high".  The higher the value the higher memory usage.  The default value is suit for 8GB memory of the system.
+**DETECT_PROFILE :** The detect profile for Suricata, it can be "low", "medium" and "high".  The higher the profile, the higher CPU loading.  The default value is "high".  The higher the value the higher memory usage.  The default value is suit for 16GB memory of the system.
 
 **RING_SIZE :** The default value is 2048.  However, it will consume a lot of RAM.  The default value is 2048.  The recommended value for 16GB RAM is 262136.  
