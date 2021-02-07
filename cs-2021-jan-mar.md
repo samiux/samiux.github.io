@@ -117,6 +117,7 @@
 - [國安法只是開始 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7917516-%e5%9c%8b%e5%ae%89%e6%b3%95%e5%8f%aa%e6%98%af%e9%96%8b%e5%a7%8b)  
 - [** 中國成功實施陸基中段反導攔截技術試驗 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c9cc6e4b0661d556da849.html)  
 - [** 專家：陸基中段反導攔截技術試驗成功　足見我國反導技術成熟 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c2395e4b0661d556d9516.html)  
+- [** 涨知识 - 为什么是中段拦截？解密反导拦截有多牛 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_11173727)  
 - [** 中國發佈反導彈攔截試驗 為何在此時公布的2種解讀 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7919657-%e4%b8%ad%e5%9c%8b%e7%99%bc%e4%bd%88%e5%8f%8d%e5%b0%8e%e5%bd%88%e6%94%94%e6%88%aa%e8%a9%a6%e9%a9%97-%e7%82%ba%e4%bd%95%e5%9c%a8%e6%ad%a4%e6%99%82%e5%85%ac%e5%b8%83%e7%9a%842%e7%a8%ae%e8%a7%a3%e8%ae%80)  
 - [內地疫苗接種逾三千萬劑次 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c96a6e4b0661d556da5f8.html)  
 - [科興疫苗對長者同樣安全有效 -- 大公文匯](https://www.tkww.hk/a/202102/05/AP601c969ae4b0661d556da5d9.html)  
