@@ -84,6 +84,7 @@
 - [健康飲食教室 - 許志忠教授 - 多倫多大學分子遺傳學系](https://samiux.blogspot.com/2021/01/blog-post_13.html)  
 - [2021年警隊最新宣傳片《守城》• 震撼上映 -- 大公文匯](https://www.tkww.hk/a/202101/24/AP600caee1e4b07ecdffeafcfc.html)  
 - [來點知識EP4 - BioNTech疫苗將到港　你會唔會打?輕鬆解構mRNA疫苗技術 -- 文匯網](https://www.wenweipo.com/a/202102/08/AP6021192ee4b04e1918c5b173.html)  
+- [我國首款量子計算機操作系統發布 -- 大公文匯](https://www.tkww.hk/a/202102/08/AP60214287e4b0661d556eac88.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
