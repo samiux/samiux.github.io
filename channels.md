@@ -85,6 +85,8 @@
 - [2021年警隊最新宣傳片《守城》• 震撼上映 -- 大公文匯](https://www.tkww.hk/a/202101/24/AP600caee1e4b07ecdffeafcfc.html)  
 - [來點知識EP4 - BioNTech疫苗將到港　你會唔會打?輕鬆解構mRNA疫苗技術 -- 文匯網](https://www.wenweipo.com/a/202102/08/AP6021192ee4b04e1918c5b173.html)  
 - [我國首款量子計算機操作系統發布 -- 大公文匯](https://www.tkww.hk/a/202102/08/AP60214287e4b0661d556eac88.html)  
+- [第90期：在中外抗疫、香港修例风波类似的事件中，美西方总有一套“双重标准”来区分自己和别的国家，张维为、范勇鹏聊聊西方无处不在的双重标准](https://samiux.blogspot.com/2021/01/90china-now-ep90.html)  
+- [第91期：比较中西方不同的人权观，听张维为教授剖析美国及其他西方国家虚伪的人权制度](https://samiux.blogspot.com/2021/02/91-china-now-ep91-20210201.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
