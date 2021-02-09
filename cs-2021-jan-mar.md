@@ -136,5 +136,6 @@
 - [** 中國第3隻領跑疫苗3期臨床試驗結果良好：保護效果74.8％ -- 毛拍手](https://www.bastillepost.com/hongkong/article/7939861-%e4%b8%ad%e5%9c%8b%e7%ac%ac3%e9%9a%bb%e9%a0%98%e8%b7%91%e7%96%ab%e8%8b%973%e6%9c%9f%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97%e7%b5%90%e6%9e%9c%e8%89%af%e5%a5%bd%ef%bc%9a%e4%bf%9d%e8%ad%b7%e6%95%88%e6%9e%9c)  
 - [美國的好運氣用完了 踢到中國這塊鐵板 美媒：比蘇聯更強的對手 -- deepthroat](https://www.bastillepost.com/hongkong/article/7940139-%e7%be%8e%e5%9c%8b%e7%9a%84%e5%a5%bd%e9%81%8b%e6%b0%a3%e7%94%a8%e5%ae%8c%e4%ba%86-%e8%b8%a2%e5%88%b0%e4%b8%ad%e5%9c%8b%e9%80%99%e5%a1%8a%e9%90%b5%e6%9d%bf-%e7%be%8e%e5%aa%92%ef%bc%9a%e6%af%94%e8%98%87)  
 - [換個角度 疫苖是要搶的 -- 盧永雄](https://www.bastillepost.com/hongkong/article/7937820-%e6%8f%9b%e5%80%8b%e8%a7%92%e5%ba%a6-%e7%96%ab%e8%8b%96%e6%98%af%e8%a6%81%e6%90%b6%e7%9a%84)  
+- [** 中國疫苗，總是快病毒一步 -- 大公文匯](https://mp.weixin.qq.com/s/xxsK6ETy_jCx4Kcxzt1ZIQ)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
