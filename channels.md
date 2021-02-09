@@ -88,6 +88,7 @@
 - [第90期：在中外抗疫、香港修例风波类似的事件中，美西方总有一套“双重标准”来区分自己和别的国家，张维为、范勇鹏聊聊西方无处不在的双重标准 --《这就是中国》CHINA NOW EP90【东方卫视官方频道】 ](https://samiux.blogspot.com/2021/01/90china-now-ep90.html)  
 - [第91期：比较中西方不同的人权观，听张维为教授剖析美国及其他西方国家虚伪的人权制度 --《这就是中国》CHINA NOW EP91 20210201【东方卫视官方频道】 ](https://samiux.blogspot.com/2021/02/91-china-now-ep91-20210201.html)  
 - [** 技術領先｜國產滅活技術 「多價」應對病毒突變 -- 大公文匯](https://www.tkww.hk/a/202102/09/AP6021d280e4b0661d556ebe37.html)  
+- [黎智英終審案確立國安法不能覆核 金牙大狀: 定超高保釋門檻 -- Ariel](https://www.bastillepost.com/hongkong/article/7943084-%e9%bb%8e%e6%99%ba%e8%8b%b1%e7%b5%82%e5%af%a9%e6%a1%88%e7%a2%ba%e7%ab%8b%e5%9c%8b%e5%ae%89%e6%b3%95%e4%b8%8d%e8%83%bd%e8%a6%86%e6%a0%b8-%e9%87%91%e7%89%99%e5%a4%a7%e7%8b%80-%e5%ae%9a%e8%b6%85)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
