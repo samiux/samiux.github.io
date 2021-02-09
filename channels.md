@@ -87,6 +87,7 @@
 - [我國首款量子計算機操作系統發布 -- 大公文匯](https://www.tkww.hk/a/202102/08/AP60214287e4b0661d556eac88.html)  
 - [第90期：在中外抗疫、香港修例风波类似的事件中，美西方总有一套“双重标准”来区分自己和别的国家，张维为、范勇鹏聊聊西方无处不在的双重标准 --《这就是中国》CHINA NOW EP90【东方卫视官方频道】 ](https://samiux.blogspot.com/2021/01/90china-now-ep90.html)  
 - [第91期：比较中西方不同的人权观，听张维为教授剖析美国及其他西方国家虚伪的人权制度 --《这就是中国》CHINA NOW EP91 20210201【东方卫视官方频道】 ](https://samiux.blogspot.com/2021/02/91-china-now-ep91-20210201.html)  
+- [** 技術領先｜國產滅活技術 「多價」應對病毒突變 -- 大公文匯](https://www.tkww.hk/a/202102/09/AP6021d280e4b0661d556ebe37.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
