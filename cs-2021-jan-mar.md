@@ -143,5 +143,6 @@
 - [鬥則兩傷　拜登：中美沒必要衝突 -- 大公文匯](https://www.tkww.hk/a/202102/09/AP6021ec47e4b0661d556ec7c8.html)  
 - [港交所搵老外任總裁 有人聲言要「浴火重生」 高人笑稱：香港靠北水請老外如何重生? -- 小鯊](https://www.bastillepost.com/hongkong/article/7944224-%e6%b8%af%e4%ba%a4%e6%89%80%e6%90%b5%e8%80%81%e5%a4%96%e4%bb%bb%e7%b8%bd%e8%a3%81-%e6%9c%89%e4%ba%ba%e8%81%b2%e8%a8%80%e8%a6%81%e3%80%8c%e6%b5%b4%e7%81%ab%e9%87%8d%e7%94%9f%e3%80%8d-%e9%ab%98%e4%ba%ba)  
 - [一個英國「二流政客」 為何可以當香港大律師公會主席？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7944022-%e4%b8%80%e5%80%8b%e8%8b%b1%e5%9c%8b%e3%80%8c%e4%ba%8c%e6%b5%81%e6%94%bf%e5%ae%a2%e3%80%8d-%e7%82%ba%e4%bd%95%e5%8f%af%e4%bb%a5%e7%95%b6%e9%a6%99%e6%b8%af%e5%a4%a7%e5%be%8b%e5%b8%ab%e5%85%ac%e6%9c%83)  
+- [** 科興疫苗全面睇 巴西有效率低 皆因三期臨床試驗對象全是醫務人員 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7946841-%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97%e5%85%a8%e9%9d%a2%e7%9d%87-%e5%b7%b4%e8%a5%bf%e6%9c%89%e6%95%88%e7%8e%87%e4%bd%8e-%e7%9a%86%e5%9b%a0%e4%b8%89%e6%9c%9f%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97%e5%b0%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
