@@ -145,5 +145,7 @@
 - [一個英國「二流政客」 為何可以當香港大律師公會主席？ -- 盧永雄](https://www.bastillepost.com/hongkong/article/7944022-%e4%b8%80%e5%80%8b%e8%8b%b1%e5%9c%8b%e3%80%8c%e4%ba%8c%e6%b5%81%e6%94%bf%e5%ae%a2%e3%80%8d-%e7%82%ba%e4%bd%95%e5%8f%af%e4%bb%a5%e7%95%b6%e9%a6%99%e6%b8%af%e5%a4%a7%e5%be%8b%e5%b8%ab%e5%85%ac%e6%9c%83)  
 - [** 科興疫苗全面睇 巴西有效率低 皆因三期臨床試驗對象全是醫務人員 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7946841-%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97%e5%85%a8%e9%9d%a2%e7%9d%87-%e5%b7%b4%e8%a5%bf%e6%9c%89%e6%95%88%e7%8e%87%e4%bd%8e-%e7%9a%86%e5%9b%a0%e4%b8%89%e6%9c%9f%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97%e5%b0%8d)  
 - [** 終審法院就黎智英保釋案判決書(判詞全文) -- 巴士的報](https://www.bastillepost.com/hongkong/article/7942917-%e7%b5%82%e5%af%a9%e6%b3%95%e9%99%a2%e5%b0%b1%e9%bb%8e%e6%99%ba%e8%8b%b1%e4%bf%9d%e9%87%8b%e6%a1%88%e5%88%a4%e6%b1%ba%e6%9b%b8%e5%88%a4%e8%a9%9e%e5%85%a8%e6%96%87)  
+- [新冠溯源：法國前年11月中已現感染 -- 大公文匯](https://www.tkww.hk/a/202102/11/AP6024de28e4b0661d556f62aa.html)  
+- [科學家在東南亞蝙蝠體內發現新冠相關的冠狀病毒 -- 大公文匯](https://www.tkww.hk/a/202102/10/AP602312fae4b0661d556f02ae.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
