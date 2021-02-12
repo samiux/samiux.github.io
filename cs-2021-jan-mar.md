@@ -147,5 +147,6 @@
 - [** 終審法院就黎智英保釋案判決書(判詞全文) -- 巴士的報](https://www.bastillepost.com/hongkong/article/7942917-%e7%b5%82%e5%af%a9%e6%b3%95%e9%99%a2%e5%b0%b1%e9%bb%8e%e6%99%ba%e8%8b%b1%e4%bf%9d%e9%87%8b%e6%a1%88%e5%88%a4%e6%b1%ba%e6%9b%b8%e5%88%a4%e8%a9%9e%e5%85%a8%e6%96%87)  
 - [新冠溯源：法國前年11月中已現感染 -- 大公文匯](https://www.tkww.hk/a/202102/11/AP6024de28e4b0661d556f62aa.html)  
 - [科學家在東南亞蝙蝠體內發現新冠相關的冠狀病毒 -- 大公文匯](https://www.tkww.hk/a/202102/10/AP602312fae4b0661d556f02ae.html)  
+- [** CNN做涉疆新闻，连新疆位置都标错 -- 观察者网](https://www.guancha.cn/internation/2021_02_12_581134.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
