@@ -31,4 +31,4 @@ If you have a very powerful CPU and at least 16GB memory, you can set higher val
 
 **DETECT_PROFILE :** The detect profile for Suricata, it can be "low", "medium" and "high".  The higher the profile, the higher CPU loading.  The default value is "high".  The higher the value the higher memory usage.  The default value is suit for 16GB memory of the system.
 
-**RING_SIZE :** The default value is 2048.  However, it will consume a lot of RAM.  The default value is 2048.  The recommended value for 16GB RAM is 262136.  
+**AF_RING_SIZE :** The default value is 2048.  However, it will consume a lot of RAM.  The default value is 2048.  The recommended value for 16GB RAM is 262136.  
