@@ -149,6 +149,7 @@
 - [科學家在東南亞蝙蝠體內發現新冠相關的冠狀病毒 -- 大公文匯](https://www.tkww.hk/a/202102/10/AP602312fae4b0661d556f02ae.html)  
 - [** CNN做涉疆新闻，连新疆位置都标错 -- 观察者网](https://www.guancha.cn/internation/2021_02_12_581134.shtml)  
 - [** 《紐約時報》文章話中國阻礙新冠病毒調查進程 被引述世衛專家闢謠：斷章取義，太無恥 -- deepthroat](https://www.bastillepost.com/hongkong/article/7963631-%e3%80%8a%e7%b4%90%e7%b4%84%e6%99%82%e5%a0%b1%e3%80%8b%e6%96%87%e7%ab%a0%e8%a9%b1%e4%b8%ad%e5%9c%8b%e9%98%bb%e7%a4%99%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e8%aa%bf%e6%9f%a5%e9%80%b2%e7%a8%8b-%e8%a2%ab)  
+- [** 紐時杜撰報道 世衞專家怒斥：這不是我在中國的經歷 -- 大公文匯](https://mp.weixin.qq.com/s/ZQCc7SPChgU84iDKArBpxw)  
 - [** 31省新增确诊7例：无本土，均为境外输入 -- 观察者](https://www.guancha.cn/politics/2021_02_14_581223.shtml)  
 - [** 中國第3隻疫苖快速殺上 康希諾只打一針就行！明顯優於美國同類疫苖 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7967015-%e4%b8%ad%e5%9c%8b%e7%ac%ac3%e9%9a%bb%e7%96%ab%e8%8b%96%e5%bf%ab%e9%80%9f%e6%ae%ba%e4%b8%8a-%e5%ba%b7%e5%b8%8c%e8%ab%be%e5%8f%aa%e6%89%93%e4%b8%80%e9%87%9d%e5%b0%b1%e8%a1%8c%ef%bc%81%e6%98%8e%e9%a1%af)  
 - [** 研究指美國去年已現變種病毒　傳播至逾30州 -- 大公文匯](https://www.tkww.hk/a/202102/15/AP6029f533e4b0661d55703927.html)  
