@@ -153,5 +153,6 @@
 - [** 31省新增确诊7例：无本土，均为境外输入 -- 观察者](https://www.guancha.cn/politics/2021_02_14_581223.shtml)  
 - [** 中國第3隻疫苖快速殺上 康希諾只打一針就行！明顯優於美國同類疫苖 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7967015-%e4%b8%ad%e5%9c%8b%e7%ac%ac3%e9%9a%bb%e7%96%ab%e8%8b%96%e5%bf%ab%e9%80%9f%e6%ae%ba%e4%b8%8a-%e5%ba%b7%e5%b8%8c%e8%ab%be%e5%8f%aa%e6%89%93%e4%b8%80%e9%87%9d%e5%b0%b1%e8%a1%8c%ef%bc%81%e6%98%8e%e9%a1%af)  
 - [** 研究指美國去年已現變種病毒　傳播至逾30州 -- 大公文匯](https://www.tkww.hk/a/202102/15/AP6029f533e4b0661d55703927.html)  
+- [張燕生：拜登依然會推進逆全球化 全球化下半場有3個危機 -- 毛拍手](https://www.bastillepost.com/hongkong/article/7972490-%e5%bc%b5%e7%87%95%e7%94%9f%ef%bc%9a%e6%8b%9c%e7%99%bb%e4%be%9d%e7%84%b6%e6%9c%83%e6%8e%a8%e9%80%b2%e9%80%86%e5%85%a8%e7%90%83%e5%8c%96-%e5%85%a8%e7%90%83%e5%8c%96%e4%b8%8b%e5%8d%8a%e5%a0%b4%e6%9c%89)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
