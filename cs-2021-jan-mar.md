@@ -160,5 +160,6 @@
 - [香港設20餘間接種中心　各中心僅負責一款疫苗 -- 大公文匯](https://www.tkww.hk/a/202102/17/AP602ca1a2e4b0661d5570badd.html)  
 - [泰國前副總理披尼：西方涉疆謊言「將不攻自破」 -- 大公文匯](https://www.tkww.hk/a/202102/17/AP602bfa12e4b0661d55709cab.html)  
 - [塞爾維亞總統向中國援助隊授勳 不知他們在香港有何待遇? -- 小鯊](https://www.bastillepost.com/hongkong/article/7976045-%e5%a1%9e%e7%88%be%e7%b6%ad%e4%ba%9e%e7%b8%bd%e7%b5%b1%e5%90%91%e4%b8%ad%e5%9c%8b%e6%8f%b4%e5%8a%a9%e9%9a%8a%e6%8e%88%e5%8b%b3-%e4%b8%8d%e7%9f%a5%e4%bb%96%e5%80%91%e5%9c%a8%e9%a6%99%e6%b8%af%e6%9c%89)  
+- [研究指輝瑞疫苗對南非變種病毒效力降低三分之二 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7985364-%e7%a0%94%e7%a9%b6%e6%8c%87%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%97%e5%b0%8d%e5%8d%97%e9%9d%9e%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e6%95%88%e5%8a%9b%e9%99%8d%e4%bd%8e%e4%b8%89%e5%88%86%e4%b9%8b%e4%ba%8c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
