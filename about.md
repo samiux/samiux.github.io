@@ -41,6 +41,8 @@ He can be reached at :
 
 - [Samiux's Blog](https://samiux.blogspot.com)
 - [CyberSecurity Ninjas](https://samiux.github.io) 
+- [Gitee](https://gitee.com/samiux)  
+- [GitHub](https://github.com/samiux)  
 - IRC - freenode #infosec-ninjas (SSL with Port 6697)
 
 ## **Reference**
