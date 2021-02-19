@@ -2,6 +2,7 @@
 
 # 专题视听频道  
 
+- [InsiderPhD -- YouTube](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)  
 - [广东音乐之声](https://www.qingting.fm/radios/1260/)  
 - [CCTV中国中央电视台](https://www.youtube.com/user/zhongguohaogequ)  
 - [CCTV纪录](https://www.youtube.com/channel/UCAYkj2Fz9EvAe2fGJEGMXnQ)  
