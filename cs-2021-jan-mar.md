@@ -173,5 +173,6 @@
 - [** 四名解放軍殉職 中印邊境衝突片段首次曝光 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7992021-%e5%9b%9b%e5%90%8d%e8%a7%a3%e6%94%be%e8%bb%8d%e6%ae%89%e8%81%b7-%e4%b8%ad%e5%8d%b0%e9%82%8a%e5%a2%83%e8%a1%9d%e7%aa%81%e7%89%87%e6%ae%b5%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89)  
 - [** 難擋南非變種病毒　輝瑞效用減逾六成 -- 大公文匯](https://www.tkww.hk/a/202102/19/AP602f0d59e4b0661d55713791.html)  
 - [** 「醫員陣線」抹黑安心碼阻抗疫 -- 文匯網](https://www.wenweipo.com/a/202102/20/AP603055a6e4b04e1918c768e2.html)  
+- [** 北京慢性病人群接種國產疫苗後無明顯不適 -- 大公文匯](https://www.tkww.hk/a/202102/20/AP60309b24e4b0661d55719115.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
