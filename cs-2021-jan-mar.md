@@ -177,5 +177,6 @@
 - [** 美媒：中共建黨百年 為何在國外大受詆毀 在國內深受歡迎? -- deepthroat](https://www.bastillepost.com/hongkong/article/7997465-%e7%be%8e%e5%aa%92%ef%bc%9a%e4%b8%ad%e5%85%b1%e5%bb%ba%e9%bb%a8%e7%99%be%e5%b9%b4-%e7%82%ba%e4%bd%95%e5%9c%a8%e5%9c%8b%e5%a4%96%e5%a4%a7%e5%8f%97%e8%a9%86%e6%af%80-%e5%9c%a8%e5%9c%8b%e5%85%a7%e6%b7%b1)  
 - [美媒：美方涉疆謊言以歪曲報告為依據 -- 大公文匯](https://www.tkww.hk/a/202102/21/AP60320dbde4b0661d5571d77e.html)  
 - [** 「海冰」極地馳騁　航母開路先鋒 -- 大公文匯](https://www.tkww.hk/a/202102/22/AP6032f840e4b0661d5571fad7.html)  
+- [“加密”和“破译”的永恒之战 -- 「军事科技 Military Technology」 | 军迷天下](https://samiux.blogspot.com/2021/02/military-technology.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
