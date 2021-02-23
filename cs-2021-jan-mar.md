@@ -178,5 +178,7 @@
 - [美媒：美方涉疆謊言以歪曲報告為依據 -- 大公文匯](https://www.tkww.hk/a/202102/21/AP60320dbde4b0661d5571d77e.html)  
 - [** 「海冰」極地馳騁　航母開路先鋒 -- 大公文匯](https://www.tkww.hk/a/202102/22/AP6032f840e4b0661d5571fad7.html)  
 - [“加密”和“破译”的永恒之战 -- 「军事科技 Military Technology」-- 军迷天下](https://samiux.blogspot.com/2021/02/military-technology.html)  
+- [愛國者治港 顛覆者出局 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8005303-%e6%84%9b%e5%9c%8b%e8%80%85%e6%b2%bb%e6%b8%af-%e9%a1%9b%e8%a6%86%e8%80%85%e5%87%ba%e5%b1%80)  
+- [一文讀懂夏寶龍涉港講話的重要表述 -- 靖海侯](https://www.bastillepost.com/hongkong/article/8005753-%e4%b8%80%e6%96%87%e8%ae%80%e6%87%82%e5%a4%8f%e5%af%b6%e9%be%8d%e6%b6%89%e6%b8%af%e8%ac%9b%e8%a9%b1%e7%9a%84%e9%87%8d%e8%a6%81%e8%a1%a8%e8%bf%b0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
