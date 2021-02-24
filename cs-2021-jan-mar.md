@@ -185,5 +185,7 @@
 - [** 曾國衛出招 議員任內可DQ 9宗罪成負面清單 -- Ariel](https://www.bastillepost.com/hongkong/article/8014246-%e6%9b%be%e5%9c%8b%e8%a1%9b%e5%87%ba%e6%8b%9b-%e8%ad%b0%e5%93%a1%e4%bb%bb%e5%85%a7%e5%8f%afdq-9%e5%ae%97%e7%bd%aa%e6%88%90%e8%b2%a0%e9%9d%a2%e6%b8%85%e5%96%ae)
 - [香港仔時評 - 疫苗預約「大塞車」不能接受 -- 大公文匯](https://www.tkww.hk/a/202102/24/AP6035b3b6e4b0661d5572a157.html)
 - [12港人持BNO移民　被英國遣返啦  -- 大公文匯](https://mp.weixin.qq.com/s/4ukIaYKme6oKWJIUw-Hthw)  
+- [康希諾Ad5-nCoV疫苗申請附條件上市獲受理 -- 大公文匯](https://www.tkww.hk/a/202102/24/AP6035ff90e4b0661d5572baa2.html)  
+- [【2021財政預算案】(全文) -- 巴士的報](https://www.bastillepost.com/hongkong/article/8014326-%e3%80%902021%e8%b2%a1%e6%94%bf%e9%a0%90%e7%ae%97%e6%a1%88%e3%80%91%e9%99%b3%e8%8c%82%e6%b3%a2%e7%99%bc%e8%a1%a82021%e8%87%b322%e5%b9%b4%e5%ba%a6%e3%80%8a%e8%b2%a1%e6%94%bf%e9%a0%90%e7%ae%97%e6%a1%88)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
