@@ -187,5 +187,7 @@
 - [12港人持BNO移民　被英國遣返啦  -- 大公文匯](https://mp.weixin.qq.com/s/4ukIaYKme6oKWJIUw-Hthw)  
 - [康希諾Ad5-nCoV疫苗申請附條件上市獲受理 -- 大公文匯](https://www.tkww.hk/a/202102/24/AP6035ff90e4b0661d5572baa2.html)  
 - [【2021財政預算案】(全文) -- 巴士的報](https://www.bastillepost.com/hongkong/article/8014326-%e3%80%902021%e8%b2%a1%e6%94%bf%e9%a0%90%e7%ae%97%e6%a1%88%e3%80%91%e9%99%b3%e8%8c%82%e6%b3%a2%e7%99%bc%e8%a1%a82021%e8%87%b322%e5%b9%b4%e5%ba%a6%e3%80%8a%e8%b2%a1%e6%94%bf%e9%a0%90%e7%ae%97%e6%a1%88)
+- [中國供世衞1000萬劑疫苗　惠及台灣地區 -- 大公文匯](https://www.tkww.hk/a/202102/25/AP6036edcce4b0661d5572e56e.html)  
+- [中美兩隻打一劑的新冠疫苗同時等候審批 康希諾疫苗上市申請 已獲中國藥監局受理 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8021361-%e4%b8%ad%e7%be%8e%e5%85%a9%e9%9a%bb%e6%89%93%e4%b8%80%e5%8a%91%e7%9a%84%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%90%8c%e6%99%82%e7%ad%89%e5%80%99%e5%af%a9%e6%89%b9-%e5%ba%b7%e5%b8%8c%e8%ab%be%e7%96%ab)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
