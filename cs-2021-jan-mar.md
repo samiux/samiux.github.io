@@ -192,5 +192,6 @@
 - [中美鬥爭，不再競爭，或50年不變 -- 中美鬥爭，不再競爭，或50年不變 -- 深藍](https://www.bastillepost.com/hongkong/article/8022960-%e4%b8%ad%e7%be%8e%e7%a7%91%e6%8a%80%e6%98%af%e9%ac%a5%e7%88%ad%ef%bc%8c%e4%b8%8d%e6%98%af%e7%ab%b6%e7%88%ad)  
 - [重磅微紀錄片《戰貧之路》：1億人口8年擺脫絕對貧困 -- 大公文匯](https://www.tkww.hk/a/202102/25/AP6037bfa3e4b0661d55732b99.html)  
 - [中方回應加方涉華八謬論 -- 大公文匯](https://www.tkww.hk/a/202102/27/AP6039d919e4b0661d5573ae9f.html)  
+- [輝瑞疫苗或對肥胖者效力減半 -- 大公文匯](https://www.tkww.hk/a/202103/01/AP603ca748e4b0661d55747a1b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
