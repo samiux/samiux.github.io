@@ -70,6 +70,7 @@ Participants are not allowed to release any writeup or spoiler to the public whe
 ### See Also
 
 - [New Developments: Retiring CTP and Introducing New Courses](https://www.offensive-security.com/offsec/retiring-ctp-intro-new-courses/)  
+- [CTP (Retired)](https://www.offensive-security.com/ctp-osce/)  
 - [OSCE（Offensive Security Certified Expert）考证全攻略](https://www.freebuf.com/news/206041.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
