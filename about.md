@@ -2,7 +2,7 @@
 
 # **Who am I?**
 
-Samiux is an Information Security Enthusiast.  He has been OSCP, OSWP and OSCE since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.<br>
+Samiux is an Information Security Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.  
 
 His slogan are :
 
@@ -49,9 +49,9 @@ He can be reached at :
 
 The following certificates are issued by [Offensive Security](https://www.offensive-security.com)
 
+- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)      Retired on Oct 15, 2020 but the title is still valid!  
 - [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)  
 - [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)  
-- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)      Retired on Oct 15, 2020 but the title is still valid!  
 
 [Offensive Security - Try Harder! with song](https://www.offensive-security.com/offsec/say-try-harder/)
 
