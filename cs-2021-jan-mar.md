@@ -193,5 +193,8 @@
 - [重磅微紀錄片《戰貧之路》：1億人口8年擺脫絕對貧困 -- 大公文匯](https://www.tkww.hk/a/202102/25/AP6037bfa3e4b0661d55732b99.html)  
 - [中方回應加方涉華八謬論 -- 大公文匯](https://www.tkww.hk/a/202102/27/AP6039d919e4b0661d5573ae9f.html)  
 - [輝瑞疫苗或對肥胖者效力減半 -- 大公文匯](https://www.tkww.hk/a/202103/01/AP603ca748e4b0661d55747a1b.html)  
+- [為何需要接種新冠疫苗？ -- 衞生署](https://www.bastillepost.com/hongkong/article/8029032-%e7%82%ba%e4%bd%95%e9%9c%80%e8%a6%81%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%ef%bc%9f)  
+- [美國興起科技文字獄，針對中國AI發展 -- 深藍](https://www.bastillepost.com/hongkong/article/8050868-%e7%be%8e%e5%9c%8b%e8%88%88%e8%b5%b7%e7%a7%91%e6%8a%80%e6%96%87%e5%ad%97%e7%8d%84%ef%bc%8c%e9%87%9d%e5%b0%8d%e4%b8%ad%e5%9c%8bai%e7%99%bc%e5%b1%95)  
+- [「肛拭子」驗病毒究意搞邊科？ 日本官員話有「精神痛苦」 請求不要對日本人實施肛拭子檢測 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8049360-%e3%80%8c%e8%82%9b%e6%8b%ad%e5%ad%90%e3%80%8d%e9%a9%97%e7%97%85%e6%af%92%e7%a9%b6%e6%84%8f%e6%90%9e%e9%82%8a%e7%a7%91%ef%bc%9f-%e6%97%a5%e6%9c%ac%e5%ae%98%e5%93%a1%e8%a9%b1%e6%9c%89%e3%80%8c%e7%b2%be)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
