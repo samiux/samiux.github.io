@@ -51,7 +51,7 @@ The following certificates are issued by [Offensive Security](https://www.offens
 
 - [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)  
 - [OSWP - Offensive Security Wireless Professional](https://www.offensive-security.com/wifu-oswp/)  
-- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)      Retired on Oct 15, 2020 but the title can be kept  
+- [OSCE - Offensive Security Certified Expert](https://www.offensive-security.com/ctp-osce/)      Retired on Oct 15, 2020 but the title is still valid!  
 
 [Offensive Security - Try Harder! with song](https://www.offensive-security.com/offsec/say-try-harder/)
 
