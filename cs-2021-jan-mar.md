@@ -197,5 +197,8 @@
 - [美國興起科技文字獄，針對中國AI發展 -- 深藍](https://www.bastillepost.com/hongkong/article/8050868-%e7%be%8e%e5%9c%8b%e8%88%88%e8%b5%b7%e7%a7%91%e6%8a%80%e6%96%87%e5%ad%97%e7%8d%84%ef%bc%8c%e9%87%9d%e5%b0%8d%e4%b8%ad%e5%9c%8bai%e7%99%bc%e5%b1%95)  
 - [「肛拭子」驗病毒究意搞邊科？ 日本官員話有「精神痛苦」 請求不要對日本人實施肛拭子檢測 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8049360-%e3%80%8c%e8%82%9b%e6%8b%ad%e5%ad%90%e3%80%8d%e9%a9%97%e7%97%85%e6%af%92%e7%a9%b6%e6%84%8f%e6%90%9e%e9%82%8a%e7%a7%91%ef%bc%9f-%e6%97%a5%e6%9c%ac%e5%ae%98%e5%93%a1%e8%a9%b1%e6%9c%89%e3%80%8c%e7%b2%be)  
 - [習近平：幹部要當「老百姓的官」　不要做官當老爺 -- 大公文匯](https://www.tkww.hk/a/202103/02/AP603d8718e4b0661d5574af6b.html)  
+- [風聲鶴唳 - 炒作「中國威脅」 美報告掀AI大戰 -- 大公文匯](https://www.tkww.hk/a/202103/03/AP603ee1c5e4b0661d55750be1.html)  
+- [台灣敢因為菠蘿去WTO告狀？ 先問問她過去兩年禁了多少大陸東西 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8053863-%e5%8f%b0%e7%81%a3%e6%95%a2%e5%9b%a0%e7%82%ba%e8%8f%a0%e8%98%bf%e5%8e%bbwto%e5%91%8a%e7%8b%80%ef%bc%9f-%e5%85%88%e5%95%8f%e5%95%8f%e5%a5%b9%e9%81%8e%e5%8e%bb%e5%85%a9%e5%b9%b4%e7%a6%81%e4%ba%86)  
+- [鍾南山對話福奇：至少要2至3年才能實現世界範圍內的群體免疫 福奇指美國1年後基本控制疫情 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8053662-%e9%8d%be%e5%8d%97%e5%b1%b1%e5%b0%8d%e8%a9%b1%e7%a6%8f%e5%a5%87%ef%bc%9a%e8%87%b3%e5%b0%91%e8%a6%812%e8%87%b33%e5%b9%b4%e6%89%8d%e8%83%bd%e5%af%a6%e7%8f%be%e4%b8%96%e7%95%8c%e7%af%84%e5%9c%8d%e5%85%a7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
