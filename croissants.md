@@ -51,7 +51,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 ### Hardware
 
-- Multi-Core Intel / AMD x86 CPU  
+- Multi-Core Intel / AMD x86 CPU (e.g. AMD R5-3350H, Intel i5-6500 for home usage)   
 - 16GB DDR4 RAM or more (Croissants use at least 4GB RAM)  
 - 240GB hard drive or more  
 - 3 Network Interface Cards/Ports (Network Based only)  
@@ -66,7 +66,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 ## MAIN COMPONENTS
 
-- Suricata 6.0.1  
+- Suricata 6.0.2  
 - Hyperscan 5.2.1 (Ubuntu 20.04)    
 - netdata  
 
