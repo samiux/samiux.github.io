@@ -85,5 +85,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 不要把世界让给你讨厌的人！-- 华为 
 ```
- 
+ ```
+成功者不是从来不犯错的人，而是犯错多也改得快的人。
+```
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
