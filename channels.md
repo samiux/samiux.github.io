@@ -99,6 +99,7 @@
 - [“加密”和“破译”的永恒之战 -- 「军事科技 Military Technology」-- 军迷天下](https://samiux.blogspot.com/2021/02/military-technology.html)  
 - [重磅微紀錄片《戰貧之路》：1億人口8年擺脫絕對貧困 -- 大公文匯](https://www.tkww.hk/a/202102/25/AP6037bfa3e4b0661d55732b99.html)  
 - [習近平：幹部要當「老百姓的官」　不要做官當老爺 -- 大公文匯](https://www.tkww.hk/a/202103/02/AP603d8718e4b0661d5574af6b.html)  
+- [《中国减贫密码》- China: Prescription for Poverty](https://samiux.blogspot.com/2021/03/china-prescription-for-poverty.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
