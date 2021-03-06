@@ -200,6 +200,13 @@ __Host based__
 http://127.0.0.1:19999
 ````
 
+__Since netdata is now on the cloud and the performance of it is dropped a lot for some countries.  If you encounter the performance problem, you may consider to disable it.__  
+
+```
+sudo systemctl disable netdata
+sudo systemctl stop netdata
+```
+
 #### 2.3 Suricata Health Check
 
 ```bash
