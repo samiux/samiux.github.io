@@ -221,5 +221,6 @@
 - [會不會有人扮演愛國者?梁振英說 -- 大公文匯](https://www.tkww.hk/a/202103/07/AP60442048e4b0661d557692bf.html)  
 - [一些失蹤的名字 -- 大公文匯](https://www.tkww.hk/a/202103/07/AP604413b1e4b0661d55768e1b.html)  
 - [王毅講到白直指美國打住民主旗號為世界製造麻煩 警告一中紅線不可越 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8078927-%e7%8e%8b%e6%af%85%e8%ac%9b%e5%88%b0%e7%99%bd%e7%9b%b4%e6%8c%87%e7%be%8e%e5%9c%8b%e6%89%93%e4%bd%8f%e6%b0%91%e4%b8%bb%e6%97%97%e8%99%9f%e7%82%ba%e4%b8%96%e7%95%8c%e8%a3%bd%e9%80%a0%e9%ba%bb%e7%85%a9)  
+- [印度採購華為通信設備︰價碼不大，打擊拜登極強 -- 深藍](https://www.bastillepost.com/hongkong/article/8083518-%e5%8d%b0%e5%ba%a6%e6%8e%a1%e8%b3%bc%e8%8f%af%e7%82%ba%e9%80%9a%e4%bf%a1%e8%a8%ad%e5%82%99%ef%b8%b0%e5%83%b9%e7%a2%bc%e4%b8%8d%e5%a4%a7%ef%bc%8c%e6%89%93%e6%93%8a%e7%be%8e%e5%9c%8b%e6%a5%b5%e5%bc%b7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
