@@ -223,5 +223,8 @@
 - [王毅講到白直指美國打住民主旗號為世界製造麻煩 警告一中紅線不可越 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8078927-%e7%8e%8b%e6%af%85%e8%ac%9b%e5%88%b0%e7%99%bd%e7%9b%b4%e6%8c%87%e7%be%8e%e5%9c%8b%e6%89%93%e4%bd%8f%e6%b0%91%e4%b8%bb%e6%97%97%e8%99%9f%e7%82%ba%e4%b8%96%e7%95%8c%e8%a3%bd%e9%80%a0%e9%ba%bb%e7%85%a9)  
 - [印度採購華為通信設備︰價碼不大，打擊拜登極強 -- 深藍](https://www.bastillepost.com/hongkong/article/8083518-%e5%8d%b0%e5%ba%a6%e6%8e%a1%e8%b3%bc%e8%8f%af%e7%82%ba%e9%80%9a%e4%bf%a1%e8%a8%ad%e5%82%99%ef%b8%b0%e5%83%b9%e7%a2%bc%e4%b8%8d%e5%a4%a7%ef%bc%8c%e6%89%93%e6%93%8a%e7%be%8e%e5%9c%8b%e6%a5%b5%e5%bc%b7)  
 - [外媒：拜登可能很快召集首次「四國峰會」，但印度近來態度變了 -- deepthroat](https://www.bastillepost.com/hongkong/article/8080657-%e5%a4%96%e5%aa%92%ef%bc%9a%e6%8b%9c%e7%99%bb%e5%8f%af%e8%83%bd%e5%be%88%e5%bf%ab%e5%8f%ac%e9%9b%86%e9%a6%96%e6%ac%a1%e3%80%8c%e5%9b%9b%e5%9c%8b%e5%b3%b0%e6%9c%83%e3%80%8d%ef%bc%8c%e4%bd%86%e5%8d%b0)  
+- [** 中國版「疫苗護照」上線　顯示疫苗接種情況 -- 大公文匯](https://www.tkww.hk/a/202103/09/AP6047107ee4b0661d55776531.html)  
+- [死亡+疫苗  沒有因果關係 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8090247-%e6%ad%bb%e4%ba%a1%e7%96%ab%e8%8b%97-%e6%b2%92%e6%9c%89%e5%9b%a0%e6%9e%9c%e9%97%9c%e4%bf%82)  
+- [中國平視世界，因世界是平的，誰有意見？ -- 深藍](https://www.bastillepost.com/hongkong/article/8090443-%e4%b8%ad%e5%9c%8b%e5%b9%b3%e8%a6%96%e4%b8%96%e7%95%8c%ef%bc%8c%e5%9b%a0%e4%b8%96%e7%95%8c%e6%98%af%e5%b9%b3%e7%9a%84%ef%bc%8c%e8%aa%b0%e6%9c%89%e6%84%8f%e8%a6%8b%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
