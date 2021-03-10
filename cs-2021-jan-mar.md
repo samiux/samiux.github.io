@@ -233,5 +233,6 @@
 - [78歲拜登痴呆得尷尬極了 想多謝但忘記了誰是國防部長？ -- deepthroat](https://www.bastillepost.com/hongkong/article/8092713-78%e6%ad%b2%e6%8b%9c%e7%99%bb%e7%97%b4%e5%91%86%e5%be%97%e5%b0%b7%e5%b0%ac%e6%a5%b5%e4%ba%86-%e6%83%b3%e5%a4%9a%e8%ac%9d%e4%bd%86%e5%bf%98%e8%a8%98%e4%ba%86%e8%aa%b0%e6%98%af%e5%9c%8b%e9%98%b2)  
 - [多國考慮啓用「疫苗護照」，專家：建議核酸檢測＋疫苗護照！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/8092625-%e5%a4%9a%e5%9c%8b%e8%80%83%e6%85%ae%e5%95%93%e7%94%a8%e3%80%8c%e7%96%ab%e8%8b%97%e8%ad%b7%e7%85%a7%e3%80%8d%ef%bc%8c%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%bb%ba%e8%ad%b0%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac)  
 - [中國科大：人工智能實時估算地震震源破裂面獲突破性進展 -- 大公文匯](https://www.tkww.hk/a/202103/10/AP60485f40e4b0661d5577b362.html)  
+- [** 要由有心有力的愛國者治港 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8096625-%e8%a6%81%e7%94%b1%e6%9c%89%e5%bf%83%e6%9c%89%e5%8a%9b%e7%9a%84%e6%84%9b%e5%9c%8b%e8%80%85%e6%b2%bb%e6%b8%af)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
