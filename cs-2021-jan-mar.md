@@ -240,5 +240,9 @@
 - [** 逾90國挺華支持中方涉港問題立場 -- 大公文匯](https://www.tkww.hk/a/202103/14/AP604d780ee4b0661d5578e947.html)  
 - [香港可借鏡 持有「疫苗護照」不受限聚令約束 以色列先試行 打了疫苗國內到處通行 -- deepthroat](https://www.bastillepost.com/hongkong/article/8115311-%e9%a6%99%e6%b8%af%e5%8f%af%e5%80%9f%e9%8f%a1-%e6%8c%81%e6%9c%89%e3%80%8c%e7%96%ab%e8%8b%97%e8%ad%b7%e7%85%a7%e3%80%8d%e4%b8%8d%e5%8f%97%e9%99%90%e8%81%9a%e4%bb%a4%e7%b4%84%e6%9d%9f-%e4%bb%a5%e8%89%b2)  
 - [【解读】“十四五”规划2035年目标涉及“网络安全”内容分析 -- 网络空间安全](https://mp.weixin.qq.com/s/U7M4rWi19jfBdNpEhstOsA)  
+- [** 北京新冠疫苗接種達1000萬劑　進返京將免核酸證明 -- 大公文匯](https://www.tkww.hk/a/202103/14/AP604e12a5e4b0661d55790d6a.html)  
+- [北京666萬人已接種滅活疫苗 逾300萬人完成兩劑接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8118020-%e5%8c%97%e4%ba%ac666%e8%90%ac%e4%ba%ba%e5%b7%b2%e6%8e%a5%e7%a8%ae%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97-%e9%80%be300%e8%90%ac%e4%ba%ba%e5%ae%8c%e6%88%90%e5%85%a9%e5%8a%91%e6%8e%a5%e7%a8%ae)  
+- [** 曝中芯国际14nm良率达95%追平台积电：订单已排至2022年 -- cnBeta](https://www.cnbeta.com/articles/tech/1099969.htm)  
+- [** 消息称中芯国际获14nm许可 国产半导体产能进一步提升 -- 新浪科技](https://finance.sina.com.cn/tech/2021-03-02/doc-ikftpnnz0518456.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
