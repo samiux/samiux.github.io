@@ -245,5 +245,6 @@
 - [** 曝中芯国际14nm良率达95%追平台积电：订单已排至2022年 -- cnBeta](https://www.cnbeta.com/articles/tech/1099969.htm)  
 - [** 消息称中芯国际获14nm许可 国产半导体产能进一步提升 -- 新浪科技](https://finance.sina.com.cn/tech/2021-03-02/doc-ikftpnnz0518456.shtml)  
 - [動畫 - 接種疫苗注意事項—復必泰篇 -- 文匯網](https://www.wenweipo.com/a/202103/13/AP604c659de4b04e1918cb30fd.html)  
+- [** 美脱口秀主持人犀利吐槽：美国已经输给了中国 -- 环球时报](https://news.sina.com.cn/w/2021-03-14/doc-ikknscsi3786409.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
