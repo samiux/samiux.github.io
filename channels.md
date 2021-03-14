@@ -101,6 +101,7 @@
 - [習近平：幹部要當「老百姓的官」　不要做官當老爺 -- 大公文匯](https://www.tkww.hk/a/202103/02/AP603d8718e4b0661d5574af6b.html)  
 - [《中国减贫密码》- China: Prescription for Poverty](https://samiux.blogspot.com/2021/03/china-prescription-for-poverty.html)  
 - [中國版「疫苗護照」上線　顯示疫苗接種情況 -- 大公文匯](https://www.tkww.hk/a/202103/09/AP6047107ee4b0661d55776531.html)  
+- [美脱口秀主持人犀利吐槽：美国已经输给了中国 -- 环球时报](https://news.sina.com.cn/w/2021-03-14/doc-ikknscsi3786409.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
