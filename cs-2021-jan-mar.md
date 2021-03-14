@@ -244,5 +244,6 @@
 - [北京666萬人已接種滅活疫苗 逾300萬人完成兩劑接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8118020-%e5%8c%97%e4%ba%ac666%e8%90%ac%e4%ba%ba%e5%b7%b2%e6%8e%a5%e7%a8%ae%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97-%e9%80%be300%e8%90%ac%e4%ba%ba%e5%ae%8c%e6%88%90%e5%85%a9%e5%8a%91%e6%8e%a5%e7%a8%ae)  
 - [** 曝中芯国际14nm良率达95%追平台积电：订单已排至2022年 -- cnBeta](https://www.cnbeta.com/articles/tech/1099969.htm)  
 - [** 消息称中芯国际获14nm许可 国产半导体产能进一步提升 -- 新浪科技](https://finance.sina.com.cn/tech/2021-03-02/doc-ikftpnnz0518456.shtml)  
+- [動畫 - 接種疫苗注意事項—復必泰篇 -- 文匯網](https://www.wenweipo.com/a/202103/13/AP604c659de4b04e1918cb30fd.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
