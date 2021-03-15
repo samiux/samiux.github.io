@@ -248,5 +248,6 @@
 - [** 美脱口秀主持人犀利吐槽：美国已经输给了中国 -- 环球时报](https://news.sina.com.cn/w/2021-03-14/doc-ikknscsi3786409.shtml)  
 - [歐盟部份國家暫停英國阿斯利康疫苗注射後 藥廠馬上限制出口反擊 -- deepthroat](https://www.bastillepost.com/hongkong/article/8120613-%e6%ad%90%e7%9b%9f%e9%83%a8%e4%bb%bd%e5%9c%8b%e5%ae%b6%e6%9a%ab%e5%81%9c%e8%8b%b1%e5%9c%8b%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e7%96%ab%e8%8b%97%e6%b3%a8%e5%b0%84%e5%be%8c-%e8%97%a5%e5%bb%a0%e9%a6%ac)  
 - [李顯龍：中國科興、國藥疫苗非常優秀 新加坡正研究使用科興疫苗 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8119795-%e6%9d%8e%e9%a1%af%e9%be%8d%ef%bc%9a%e4%b8%ad%e5%9c%8b%e7%a7%91%e8%88%88%e3%80%81%e5%9c%8b%e8%97%a5%e7%96%ab%e8%8b%97%e9%9d%9e%e5%b8%b8%e5%84%aa%e7%a7%80-%e6%96%b0%e5%8a%a0%e5%9d%a1%e6%ad%a3%e7%a0%94)  
+- [諷刺︰美國當仁不讓，要跟中國爭做老二 -- 深藍](https://www.bastillepost.com/hongkong/article/8123249-%e8%ab%b7%e5%88%ba%ef%b8%b0%e7%be%8e%e5%9c%8b%e7%95%b6%e4%bb%81%e4%b8%8d%e8%ae%93%ef%bc%8c%e8%a6%81%e8%b7%9f%e4%b8%ad%e5%9c%8b%e7%88%ad%e5%81%9a%e8%80%81%e4%ba%8c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
