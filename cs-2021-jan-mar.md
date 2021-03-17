@@ -253,5 +253,9 @@
 - [歐盟對付英國不手軟 阿斯利康玩減少供應 德、法、意和西4大國馬上停打 -- deepthroat](https://www.bastillepost.com/hongkong/article/8126425-%e6%ad%90%e7%9b%9f%e5%b0%8d%e4%bb%98%e8%8b%b1%e5%9c%8b%e4%b8%8d%e6%89%8b%e8%bb%9f-%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e7%8e%a9%e6%b8%9b%e5%b0%91%e4%be%9b%e6%87%89-%e5%be%b7%e3%80%81%e6%b3%95)  
 - [** 港澳單牌車自動識別系統橫琴率先啟用 -- 大公文匯](https://www.tkww.hk/a/202103/16/AP60504a70e4b0661d5579aa10.html)  
 - [** 美教授狠批「中國威脅論」 上萬美國網友點讚 -- 大公文匯](https://www.tkww.hk/a/202103/16/AP60506957e4b0661d5579b1da.html)  
+- [中國2020年在歐洲專利局申請數量創新高 -- 大公文匯](https://www.tkww.hk/a/202103/17/AP60513bf2e4b0661d5579d424.html)  
+- [華為將收5G專利費　護知識產權 -- 大公文匯](https://www.tkww.hk/a/202103/17/AP60514c86e4b0661d5579da7c.html)  
+- [** 國產芯片刻蝕設備獲新突破 -- 大公文匯](https://www.tkww.hk/a/202103/17/AP60514718e4b0661d5579d7c3.html)  
+- [新冠有解藥了？中國候選新藥在美啓動臨床1期試驗，靶向病毒主蛋白酶 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8131673-%e6%96%b0%e5%86%a0%e6%9c%89%e8%a7%a3%e8%97%a5%e4%ba%86%ef%bc%9f%e4%b8%ad%e5%9c%8b%e5%80%99%e9%81%b8%e6%96%b0%e8%97%a5%e5%9c%a8%e7%be%8e%e5%95%93%e5%8b%95%e8%87%a8%e5%ba%8a1%e6%9c%9f%e8%a9%a6%e9%a9%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
