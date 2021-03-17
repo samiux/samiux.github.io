@@ -257,5 +257,6 @@
 - [華為將收5G專利費　護知識產權 -- 大公文匯](https://www.tkww.hk/a/202103/17/AP60514c86e4b0661d5579da7c.html)  
 - [** 國產芯片刻蝕設備獲新突破 -- 大公文匯](https://www.tkww.hk/a/202103/17/AP60514718e4b0661d5579d7c3.html)  
 - [新冠有解藥了？中國候選新藥在美啓動臨床1期試驗，靶向病毒主蛋白酶 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8131673-%e6%96%b0%e5%86%a0%e6%9c%89%e8%a7%a3%e8%97%a5%e4%ba%86%ef%bc%9f%e4%b8%ad%e5%9c%8b%e5%80%99%e9%81%b8%e6%96%b0%e8%97%a5%e5%9c%a8%e7%be%8e%e5%95%93%e5%8b%95%e8%87%a8%e5%ba%8a1%e6%9c%9f%e8%a9%a6%e9%a9%97)  
+- [中國芯片製造設備可覆蓋28納米 -- 大公文匯](https://www.tkww.hk/a/202103/17/AP605197c2e4b0661d5579f5ec.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
