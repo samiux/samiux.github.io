@@ -102,6 +102,8 @@
 - [《中国减贫密码》- China: Prescription for Poverty](https://samiux.blogspot.com/2021/03/china-prescription-for-poverty.html)  
 - [中國版「疫苗護照」上線　顯示疫苗接種情況 -- 大公文匯](https://www.tkww.hk/a/202103/09/AP6047107ee4b0661d55776531.html)  
 - [美脱口秀主持人犀利吐槽：美国已经输给了中国 -- 环球时报](https://news.sina.com.cn/w/2021-03-14/doc-ikknscsi3786409.shtml)  
-
+- [《我们走在大路上》 -- CCTV](https://www.youtube.com/playlist?list=PL0eGJygpmOH4etI8oD97KYuYSVCVHhYqD)  
+- [后疫情时代中国的逆境生机 日本导演探访产值暴涨的企业](https://samiux.blogspot.com/2021/03/chinas-post-pandemic-era-winning.html)  
+- 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
