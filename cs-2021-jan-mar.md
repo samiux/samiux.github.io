@@ -262,5 +262,6 @@
 - [** 挪威學者: 阿斯利康疫苗引發與血小板蛋交叉反應 引起血凝結 -- deepthroat](https://www.bastillepost.com/hongkong/article/8140552-%e6%8c%aa%e5%a8%81%e5%ad%b8%e8%80%85-%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e7%96%ab%e8%8b%97%e5%bc%95%e7%99%bc%e8%88%87%e8%a1%80%e5%b0%8f%e6%9d%bf%e8%9b%8b%e4%ba%a4%e5%8f%89%e5%8f%8d%e6%87%89)  
 - [歐洲打疫苗部署被批「成為笑柄」 買疫苗講價好失敗 -- deepthroat](https://www.bastillepost.com/hongkong/article/8139274-%e6%ad%90%e6%b4%b2%e6%89%93%e7%96%ab%e8%8b%97%e9%83%a8%e7%bd%b2%e8%a2%ab%e6%89%b9%e3%80%8c%e6%88%90%e7%82%ba%e7%ac%91%e6%9f%84%e3%80%8d-%e8%b2%b7%e7%96%ab%e8%8b%97%e8%ac%9b%e5%83%b9%e5%a5%bd%e5%a4%b1)  
 - [** 視頻論點 - 美國的「制裁」爛Gag -- 大公文匯](https://www.tkww.hk/a/202103/18/AP605326e8e4b0661d557a5bb6.html)  
- 
+- [** 揭露真相　新疆群眾將提告：BBC夥偽學者造謠 -- 大公文匯](https://www.tkww.hk/a/202103/19/AP6053f226e4b0661d557a8576.html)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
