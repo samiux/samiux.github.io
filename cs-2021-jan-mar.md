@@ -292,5 +292,6 @@
 - [** 廣州首家港澳子弟學校落地　擬今年9月開學 -- 大公文匯](https://www.tkww.hk/a/202103/21/AP60574125e4b0661d557b7442.html)  
 - [中美在聯合國再度交鋒　中方：美國癡迷製造涉疆謊言 -- 大公文匯](https://www.tkww.hk/a/202103/21/AP60571ec4e4b0661d557b6938.html)  
 - [內地老人將大規模接種疫苗　旅瓊「候鳥」踴躍報名 -- 大公文匯](https://www.tkww.hk/a/202103/21/AP60573cc5e4b0661d557b72bb.html)  
+- [中国第一次！嫦娥五号又创纪录了！ -- 大公网](http://www.takungpao.com/news/232108/2021/0319/564837.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
