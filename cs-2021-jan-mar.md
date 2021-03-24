@@ -307,5 +307,6 @@
 - [美國《新聞週刊》:拜登的強硬對華政策 給他的一些捐款大戶造成風險 -- deepthroat](https://www.bastillepost.com/hongkong/article/8169432-%e7%be%8e%e5%9c%8b%e3%80%8a%e6%96%b0%e8%81%9e%e9%80%b1%e5%88%8a%e3%80%8b%e6%8b%9c%e7%99%bb%e7%9a%84%e5%bc%b7%e7%a1%ac%e5%b0%8d%e8%8f%af%e6%94%bf%e7%ad%96-%e7%b5%a6%e4%bb%96%e7%9a%84%e4%b8%80)  
 - [中國正在加快疫苗接種 專家齊齊出來呼籲 鍾南山估計 到6月5.6億中國人完成接種 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8169466-%e4%b8%ad%e5%9c%8b%e6%ad%a3%e5%9c%a8%e5%8a%a0%e5%bf%ab%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae-%e5%b0%88%e5%ae%b6%e9%bd%8a%e9%bd%8a%e5%87%ba%e4%be%86%e5%91%bc%e7%b1%b2-%e9%8d%be%e5%8d%97%e5%b1%b1)  
 - [遭中國反制裁回擊後，法國表示「令人無法接受」：怎麼能反制裁呢？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/8170300-%e9%81%ad%e4%b8%ad%e5%9c%8b%e5%8f%8d%e5%88%b6%e8%a3%81%e5%9b%9e%e6%93%8a%e5%be%8c%ef%bc%8c%e6%b3%95%e5%9c%8b%e8%a1%a8%e7%a4%ba%e3%80%8c%e4%bb%a4%e4%ba%ba%e7%84%a1%e6%b3%95%e6%8e%a5%e5%8f%97%e3%80%8d)  
+- [盧寵茂談香港抗疫：若不願做檢測又周圍去 「這不是自由是自私」 -- 大公文匯](https://www.tkww.hk/a/202103/24/AP605b045ae4b0661d557c8f85.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
