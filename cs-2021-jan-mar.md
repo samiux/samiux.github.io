@@ -296,5 +296,8 @@
 - [敏感時刻，中方邀請俄羅斯外長訪華，美國最怕什麼呢？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/8157331-%e6%95%8f%e6%84%9f%e6%99%82%e5%88%bb%ef%bc%8c%e4%b8%ad%e6%96%b9%e9%82%80%e8%ab%8b%e4%bf%84%e7%be%85%e6%96%af%e5%a4%96%e9%95%b7%e8%a8%aa%e8%8f%af%ef%bc%8c%e7%be%8e%e5%9c%8b%e6%9c%80%e6%80%95%e4%bb%80)  
 - [《紐約時報》刊發觀點文章：「拜登先生，不要再對中國說硬話了」 -- deepthroat](https://www.bastillepost.com/hongkong/article/8158635-%e3%80%8a%e7%b4%90%e7%b4%84%e6%99%82%e5%a0%b1%e3%80%8b%e5%88%8a%e7%99%bc%e8%a7%80%e9%bb%9e%e6%96%87%e7%ab%a0%ef%bc%9a%e3%80%8c%e6%8b%9c%e7%99%bb%e5%85%88%e7%94%9f%ef%bc%8c%e4%b8%8d%e8%a6%81%e5%86%8d)  
 - [** 「港藥通」即將落地港大深圳醫院 -- 大公文匯](https://www.tkww.hk/a/202103/22/AP605852b2e4b0661d557bc040.html)  
+- [# 中美战略对话背后的重重玄机 -- 太行英雄  -- 花猫哥哥](http://taihangsummit.com/%e4%b8%ad%e7%be%8e%e6%88%98%e7%95%a5%e5%af%b9%e8%af%9d%e8%83%8c%e5%90%8e%e7%9a%84%e9%87%8d%e9%87%8d%e7%8e%84%e6%9c%ba/)  
+- [# 舊劇本加新配角 怎有叫座力 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8167211-%e8%88%8a%e5%8a%87%e6%9c%ac%e5%8a%a0%e6%96%b0%e9%85%8d%e8%a7%92-%e6%80%8e%e6%9c%89%e5%8f%ab%e5%ba%a7%e5%8a%9b)  
+- [# 全球化改進中國，中國改變全球秩序，美國非變不可 -- 深藍](https://www.bastillepost.com/hongkong/article/8167233-%e5%85%a8%e7%90%83%e5%8c%96%e6%94%b9%e9%80%b2%e4%b8%ad%e5%9c%8b%ef%bc%8c%e4%b8%ad%e5%9c%8b%e6%94%b9%e8%ae%8a%e5%85%a8%e7%90%83%e7%a7%a9%e5%ba%8f%ef%bc%8c%e7%be%8e%e5%9c%8b%e9%9d%9e%e8%ae%8a%e4%b8%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
