@@ -308,5 +308,9 @@
 - [中國正在加快疫苗接種 專家齊齊出來呼籲 鍾南山估計 到6月5.6億中國人完成接種 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8169466-%e4%b8%ad%e5%9c%8b%e6%ad%a3%e5%9c%a8%e5%8a%a0%e5%bf%ab%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae-%e5%b0%88%e5%ae%b6%e9%bd%8a%e9%bd%8a%e5%87%ba%e4%be%86%e5%91%bc%e7%b1%b2-%e9%8d%be%e5%8d%97%e5%b1%b1)  
 - [遭中國反制裁回擊後，法國表示「令人無法接受」：怎麼能反制裁呢？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/8170300-%e9%81%ad%e4%b8%ad%e5%9c%8b%e5%8f%8d%e5%88%b6%e8%a3%81%e5%9b%9e%e6%93%8a%e5%be%8c%ef%bc%8c%e6%b3%95%e5%9c%8b%e8%a1%a8%e7%a4%ba%e3%80%8c%e4%bb%a4%e4%ba%ba%e7%84%a1%e6%b3%95%e6%8e%a5%e5%8f%97%e3%80%8d)  
 - [盧寵茂談香港抗疫：若不願做檢測又周圍去 「這不是自由是自私」 -- 大公文匯](https://www.tkww.hk/a/202103/24/AP605b045ae4b0661d557c8f85.html)  
+- [** 新疆民工是「強逼勞動」？這份報告戳破西方謊言 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8177225-%e6%96%b0%e7%96%86%e6%b0%91%e5%b7%a5%e6%98%af%e3%80%8c%e5%bc%b7%e9%80%bc%e5%8b%9e%e5%8b%95%e3%80%8d%ef%bc%9f%e9%80%99%e4%bb%bd%e5%a0%b1%e5%91%8a%e6%88%b3%e7%a0%b4%e8%a5%bf%e6%96%b9%e8%ac%8a%e8%a8%80)  
+- [張文宏談國際上6至9月會重新開放 中國未來一個月要打2億劑 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8179378-%e5%bc%b5%e6%96%87%e5%ae%8f%e8%ab%87%e5%9c%8b%e9%9a%9b%e4%b8%8a6%e8%87%b39%e6%9c%88%e6%9c%83%e9%87%8d%e6%96%b0%e9%96%8b%e6%94%be-%e4%b8%ad%e5%9c%8b%e6%9c%aa%e4%be%86%e4%b8%80%e5%80%8b%e6%9c%88)  
+- [中國不要不尊重美國，你看，新疆棉又幫一大忙 -- 深藍](https://www.bastillepost.com/hongkong/article/8179608-%e4%b8%ad%e5%9c%8b%e4%b8%8d%e8%a6%81%e4%b8%8d%e5%b0%8a%e9%87%8d%e7%be%8e%e5%9c%8b%ef%bc%8c%e4%bd%a0%e7%9c%8b%ef%bc%8c%e6%96%b0%e7%96%86%e6%a3%89%e5%8f%88%e5%b9%ab%e4%b8%80%e5%a4%a7%e5%bf%99)  
+- [新疆「偽命題」 H&M中招 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8179656-%e6%96%b0%e7%96%86%e3%80%8c%e5%81%bd%e5%91%bd%e9%a1%8c%e3%80%8d-hm%e4%b8%ad%e6%8b%9b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
