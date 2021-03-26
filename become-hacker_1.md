@@ -23,6 +23,8 @@ OSCE  OSCP  OSWP
 ## 更多资讯：
 
 - [Penetration Testing and Low-Cost Freelancing -- sophron](https://sophron.github.io/lowcost-freelancing-pentest/)  
+- [Engineer reports data leak to nonprofit, hears from the police -- Bleeping Computer](https://www.bleepingcomputer.com/news/security/engineer-reports-data-leak-to-nonprofit-hears-from-the-police/)  
+- [刚上报数据泄露，律师和警察就找到了我 -- FreeBuf](https://www.freebuf.com/news/267689.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
