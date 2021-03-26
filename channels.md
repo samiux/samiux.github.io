@@ -2,7 +2,6 @@
 
 # 专题视听频道  
 
-- [InsiderPhD -- YouTube](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)  
 - [广东音乐之声](https://www.qingting.fm/radios/1260/)  
 - [CCTV中国中央电视台](https://www.youtube.com/user/zhongguohaogequ)  
 - [CCTV纪录](https://www.youtube.com/channel/UCAYkj2Fz9EvAe2fGJEGMXnQ)  
@@ -106,6 +105,7 @@
 - [后疫情时代中国的逆境生机 日本导演探访产值暴涨的企业](https://samiux.blogspot.com/2021/03/chinas-post-pandemic-era-winning.html)  
 - [中美战略对话背后的重重玄机 -- 太行英雄  -- 花猫哥哥](http://taihangsummit.com/%e4%b8%ad%e7%be%8e%e6%88%98%e7%95%a5%e5%af%b9%e8%af%9d%e8%83%8c%e5%90%8e%e7%9a%84%e9%87%8d%e9%87%8d%e7%8e%84%e6%9c%ba/)  
 - [太行英雄](http://taihangsummit.com/)  
+- [有片有真相！外交部記者會播視頻揭穿美涉疆圖謀 -- 大公文匯](https://www.tkww.hk/a/202103/26/AP605db578e4b0661d557d4d42.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
