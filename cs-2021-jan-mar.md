@@ -318,5 +318,6 @@
 - [專家說 -- 屈穎妍](https://hkgpao.com/articles/1020326)  
 - [全國首個5G智慧法院實驗室廣州啟用 -- 大公文匯](https://www.tkww.hk/a/202103/27/AP605f11a8e4b0661d557daa52.html)  
 - [美國單方面制裁伊朗 中國就和伊朗簽署「25年全面合作計劃」4000億美元投入建設 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8192929-%e7%be%8e%e5%9c%8b%e5%96%ae%e6%96%b9%e9%9d%a2%e5%88%b6%e8%a3%81%e4%bc%8a%e6%9c%97-%e4%b8%ad%e5%9c%8b%e5%b0%b1%e5%92%8c%e4%bc%8a%e6%9c%97%e7%b0%bd%e7%bd%b2%e3%80%8c25%e5%b9%b4%e5%85%a8%e9%9d%a2)  
+- [** 國藥集團：旗下疫苗對變種新冠病毒有良好中和作用 -- 大公文匯](https://www.tkww.hk/a/202103/28/AP60606bb8e4b0661d557e04c8.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
