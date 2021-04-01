@@ -108,6 +108,10 @@
 - [有片有真相！外交部記者會播視頻揭穿美涉疆圖謀 -- 大公文匯](https://www.tkww.hk/a/202103/26/AP605db578e4b0661d557d4d42.html)  
 - [專家說 -- 屈穎妍](https://hkgpao.com/articles/1020326)  
 - [深圳在全國率先面向香港居民開展數字人民幣跨境支付測試 -- 大公文匯](https://www.tkww.hk/a/202103/31/AP60644f28e4b0661d557f61c7.html)  
+- [Xinjiang Under Blue Skies - Theme Song of The War in the Shadows](https://www.youtube.com/watch?v=qrBuUt0Q2u0)  
+- [Documentary - Episode 1 -- Fighting Terrorism in Xinjiang](https://news.cgtn.com/news/2019-12-05/Fighting-terrorism-in-Xinjiang-MaNLLDtnfq/index.html)  
+- [Documentary - Episode 2 -- The Black Hand — ETIM and Terrorism in Xinjiang](https://news.cgtn.com/news/2019-12-07/The-black-hand-ETIM-and-terrorism-in-Xinjiang-MepKpOPAKA/index.html)  
+- [Documentary - Episode 3 -- Tianshan Still Standing — Memories of Fighting Terrorism in Xinjiang](https://news.cgtn.com/news/2020-06-19/CGTN-Exclusive-Memories-of-fighting-terrorism-in-Xinjiang-RqHhw388WA/index.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
