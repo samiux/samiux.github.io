@@ -15,7 +15,6 @@
 - [假如战争在明天 中国人不喜欢战争 但绝不惧怕战争 -- Ms Hej](https://www.youtube.com/watch?v=fDPKNLI6f34)  
 - ["I am a soldier" PLA Band Army memorial concert 90th Anniversary --  Orekhov Efim
 ](https://www.youtube.com/watch?v=vRNw3PfKO_A)  
-
 - [中国东方卫视官方频道China DragonTV Official](https://www.youtube.com/channel/UCJ06BguWKS5GJsEue7u79PQ)  
 - [GuanchaNews观察者网](https://www.youtube.com/channel/UCJncdiH3BQUBgCroBmhsUhQ)  
 - [厉害了我的国](https://www.youtube.com/channel/UC0zGScLEqQ_ggw23iIBIZoA)  
@@ -29,7 +28,6 @@
 - [陳穎欣Joephy Chan](https://www.youtube.com/channel/UCvlBe-TQfjLFINSSYQt9Tjg)  
 - [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
 - [冼師傅講場](https://www.youtube.com/channel/UCFRBCHEqZNJ2Rb1IjrCC8Zw)  
-
 - [玛莎CN](https://www.youtube.com/channel/UCmSefgK3FoLgyIJ25kjJ83g)  
 - [Where's Poppy](https://www.youtube.com/channel/UCAy4rN2oe57nR-NJzkm3qvw)  
 - [This is China](https://samiux.blogspot.com/2016/09/video-this-is-china.html)  
