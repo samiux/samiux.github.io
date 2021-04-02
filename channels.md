@@ -112,6 +112,7 @@
 - [Documentary - Episode 1 -- Fighting Terrorism in Xinjiang](https://news.cgtn.com/news/2019-12-05/Fighting-terrorism-in-Xinjiang-MaNLLDtnfq/index.html)  
 - [Documentary - Episode 2 -- The Black Hand — ETIM and Terrorism in Xinjiang](https://news.cgtn.com/news/2019-12-07/The-black-hand-ETIM-and-terrorism-in-Xinjiang-MepKpOPAKA/index.html)  
 - [Documentary - Episode 3 -- Tianshan Still Standing — Memories of Fighting Terrorism in Xinjiang](https://news.cgtn.com/news/2020-06-19/CGTN-Exclusive-Memories-of-fighting-terrorism-in-Xinjiang-RqHhw388WA/index.html)  
+- [Documentary - Episode 4 -- The War in the Shadows: Challenges of Fighting Terrorism in Xinjiang](https://news.cgtn.com/news/2021-04-02/The-war-in-the-shadows-Challenges-of-fighting-terrorism-in-Xinjiang-Z7AhMWRPy0/index.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
