@@ -24,5 +24,6 @@
 - [大馬外長對王毅話：「你是我大哥」引熱議 憶朱鎔基曾豪言「如失去亞洲朋友不加入世貿」 -- 微觀中國](https://www.bastillepost.com/hongkong/article/8234043-%e5%a4%a7%e9%a6%ac%e5%a4%96%e9%95%b7%e5%b0%8d%e7%8e%8b%e6%af%85%e8%a9%b1%ef%bc%9a%e3%80%8c%e4%bd%a0%e6%98%af%e6%88%91%e5%a4%a7%e5%93%a5%e3%80%8d%e5%bc%95%e7%86%b1%e8%ad%b0-%e6%86%b6%e6%9c%b1%e9%8e%94)  
 - [** 談中美關係 王毅：中方不認世上有高人一等國家 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8235554-%e8%ab%87%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82-%e7%8e%8b%e6%af%85%ef%bc%9a%e4%b8%ad%e6%96%b9%e4%b8%8d%e8%aa%8d%e5%8f%af%e4%b8%96%e4%b8%8a%e6%9c%89%e9%ab%98%e4%ba%ba%e4%b8%80%e7%ad%89%e7%9a%84%e5%9c%8b)  
 - [王毅強調中國不會搞「疫苗外交」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8235015-%e7%8e%8b%e6%af%85%e5%bc%b7%e8%aa%bf%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%9c%83%e6%90%9e%e3%80%8c%e7%96%ab%e8%8b%97%e5%a4%96%e4%ba%a4%e3%80%8d)  
+- [** 世界首款大麥高密度液相SNP芯片研發成功 -- 大公文匯](https://www.tkww.hk/a/202104/07/AP606d7003e4b0661d5581dfcb.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
