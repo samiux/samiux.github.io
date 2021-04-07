@@ -26,5 +26,6 @@
 - [王毅強調中國不會搞「疫苗外交」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8235015-%e7%8e%8b%e6%af%85%e5%bc%b7%e8%aa%bf%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%9c%83%e6%90%9e%e3%80%8c%e7%96%ab%e8%8b%97%e5%a4%96%e4%ba%a4%e3%80%8d)  
 - [** 世界首款大麥高密度液相SNP芯片研發成功 -- 大公文匯](https://www.tkww.hk/a/202104/07/AP606d7003e4b0661d5581dfcb.html)  
 - [** 专访田飞龙 - “忠诚的废物”只是善意鞭策　一国两制正在换个活法 -- 多维新闻](https://www.dwnews.com/%E9%A6%99%E6%B8%AF/60235622/%E4%B8%93%E8%AE%BF%E7%94%B0%E9%A3%9E%E9%BE%99%E5%BF%A0%E8%AF%9A%E7%9A%84%E5%BA%9F%E7%89%A9%E5%8F%AA%E6%98%AF%E5%96%84%E6%84%8F%E9%9E%AD%E7%AD%96%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E6%AD%A3%E5%9C%A8%E6%8D%A2%E4%B8%AA%E6%B4%BB%E6%B3%95)  
+- [** 还犹豫要不要打疫苗？看完这10个问答你就清楚了 -- 人民日报](https://wap.peopleapp.com/article/6172307/6075862)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
