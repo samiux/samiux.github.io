@@ -110,6 +110,7 @@
 - [深圳在全國率先面向香港居民開展數字人民幣跨境支付測試 -- 大公文匯](https://www.tkww.hk/a/202103/31/AP60644f28e4b0661d557f61c7.html)  
 - [[Documentary] The War in the Shadows - Fighting Terrorism in Xinjiang -- CGTN](https://samiux.blogspot.com/2021/04/documentary-war-in-shadows-fighting.html)  
 - [Why We Sleep? -- Lorey](https://samiux.blogspot.com/2021/04/37-20210402.html)  
+- [专访田飞龙 - “忠诚的废物”只是善意鞭策　一国两制正在换个活法 -- 多维新闻](https://www.dwnews.com/%E9%A6%99%E6%B8%AF/60235622/%E4%B8%93%E8%AE%BF%E7%94%B0%E9%A3%9E%E9%BE%99%E5%BF%A0%E8%AF%9A%E7%9A%84%E5%BA%9F%E7%89%A9%E5%8F%AA%E6%98%AF%E5%96%84%E6%84%8F%E9%9E%AD%E7%AD%96%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E6%AD%A3%E5%9C%A8%E6%8D%A2%E4%B8%AA%E6%B4%BB%E6%B3%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
