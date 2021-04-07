@@ -42,6 +42,7 @@
 - [KB-VULN 系列推介](/kb-vuln.md)  
 - [华为支付八达通](/huaweipay.md)
 - [谈谈 Signal 的流言](/signal_rumor.md)
+- [脸书泄露事件的非专业分析](/facebook_leak_1.md)
 
 ### Tutorials
 
