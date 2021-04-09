@@ -14,6 +14,7 @@
 - [臉書回應逾5億用戶信息遭洩露：系黑客於2019年抓取 -- 大公文匯](https://m.tkww.hk/s/202104/07/AP606d7dfae4b0661d5581e424.html)
 - [反诈骗协调中心 -- 香港警务处](https://www.adcc.gov.hk/zh-cn/home.php)  
 - [Top cybercrime gangs use targeted fake job offers to deploy stealthy backdoor --CSO](https://www.csoonline.com/article/3613878/top-cybercrime-gangs-use-targeted-fake-job-offers-to-deploy-stealthy-backdoor.html)  
+- [【齊齊漏同學會】 LinkedIn 約 5 億用戶資料被放到網上發售 -- PCM](https://www.pcmarket.com.hk/500-million-linkedin-accounts-data-being-sold-online/)  
 
 Samiux  
 OSCE  OSCP  OSWP  
