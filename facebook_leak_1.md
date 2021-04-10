@@ -15,6 +15,7 @@
 - [反诈骗协调中心 -- 香港警务处](https://www.adcc.gov.hk/zh-cn/home.php)  
 - [Top cybercrime gangs use targeted fake job offers to deploy stealthy backdoor --CSO](https://www.csoonline.com/article/3613878/top-cybercrime-gangs-use-targeted-fake-job-offers-to-deploy-stealthy-backdoor.html)  
 - [【齊齊漏同學會】 LinkedIn 約 5 億用戶資料被放到網上發售 -- PCM](https://www.pcmarket.com.hk/500-million-linkedin-accounts-data-being-sold-online/)  
+- [LinkedIn洩五億用戶資料　港人或中招 -- 大公文匯](https://www.tkww.hk/a/202104/10/AP6070fdeae4b0c6fb6f5d5ece.html)  
 
 Samiux  
 OSCE  OSCP  OSWP  
