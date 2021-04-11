@@ -16,6 +16,8 @@
 - [Top cybercrime gangs use targeted fake job offers to deploy stealthy backdoor --CSO](https://www.csoonline.com/article/3613878/top-cybercrime-gangs-use-targeted-fake-job-offers-to-deploy-stealthy-backdoor.html)  
 - [【齊齊漏同學會】 LinkedIn 約 5 億用戶資料被放到網上發售 -- PCM](https://www.pcmarket.com.hk/500-million-linkedin-accounts-data-being-sold-online/)  
 - [LinkedIn洩五億用戶資料　港人或中招 -- 大公文匯](https://www.tkww.hk/a/202104/10/AP6070fdeae4b0c6fb6f5d5ece.html)  
+- [語音社交平台Clubhouse 驚傳130萬用戶個人資料外洩 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8265854-clubhouse%e9%a9%9a%e5%82%b3130%e8%90%ac%e7%94%a8%e6%88%b6%e5%80%8b%e4%ba%ba%e8%b3%87%e6%96%99%e5%a4%96%e6%b4%a9)  
+- [【齊齊漏同學會】 130 萬 Clubhouse 用戶資料據報被洩 -- PCM](https://www.pcmarket.com.hk/over-a-million-clubhouse-user-data-leaked/)  
 
 Samiux  
 OSCE  OSCP  OSWP  
