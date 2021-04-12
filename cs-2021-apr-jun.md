@@ -37,5 +37,7 @@
 - [科興：未發現旗下疫苗存抗體依賴性增強效應 -- 大公文匯](https://www.tkww.hk/a/202104/11/AP6072bcffe4b0c6fb6f5de118.html)  
 - [研究：南非變種病毒能突破輝端疫苗防禦 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8267969-%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%8d%97%e9%9d%9e%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e8%83%bd%e7%aa%81%e7%a0%b4%e8%bc%9d%e7%ab%af%e7%96%ab%e8%8b%97%e9%98%b2%e7%a6%a6)  
 - [內地新冠疫苗已接種逾億劑 科興：沒發現疫苗抗體依賴性增強 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8267465-%e5%85%a7%e5%9c%b0%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%b7%b2%e6%8e%a5%e7%a8%ae%e9%80%be%e5%84%84%e5%8a%91-%e7%a7%91%e8%88%88%ef%bc%9a%e6%b2%92%e7%99%bc%e7%8f%be%e7%96%ab%e8%8b%97%e6%8a%97%e9%ab%94)  
+- [家長喜訊 - 廣州港澳子弟學校　無縫銜接港學制 -- 大公文匯](https://www.tkww.hk/a/202104/12/AP607386cde4b0c6fb6f5e0842.html)  
+- [狹路相逢 - 中國航母遇美艦 「帶刀侍衛」更高班 -- 大公文匯](https://www.tkww.hk/a/202104/12/AP607386f9e4b0c6fb6f5e08e7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
