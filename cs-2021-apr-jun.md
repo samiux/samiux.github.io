@@ -39,5 +39,6 @@
 - [內地新冠疫苗已接種逾億劑 科興：沒發現疫苗抗體依賴性增強 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8267465-%e5%85%a7%e5%9c%b0%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e5%b7%b2%e6%8e%a5%e7%a8%ae%e9%80%be%e5%84%84%e5%8a%91-%e7%a7%91%e8%88%88%ef%bc%9a%e6%b2%92%e7%99%bc%e7%8f%be%e7%96%ab%e8%8b%97%e6%8a%97%e9%ab%94)  
 - [家長喜訊 - 廣州港澳子弟學校　無縫銜接港學制 -- 大公文匯](https://www.tkww.hk/a/202104/12/AP607386cde4b0c6fb6f5e0842.html)  
 - [狹路相逢 - 中國航母遇美艦 「帶刀侍衛」更高班 -- 大公文匯](https://www.tkww.hk/a/202104/12/AP607386f9e4b0c6fb6f5e08e7.html)  
+- [** 巴西修正提升科興疫苗有效率 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074e0a8e4b0c6fb6f5e84ef.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
