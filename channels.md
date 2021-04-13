@@ -117,6 +117,7 @@
 - [央視推出特別節目《戰爭黑洞——美國製造的人權災難》 -- 大公文匯](https://www.tkww.hk/a/202104/09/AP607059b1e4b0c6fb6f5d3c9d.html)  
 - [战争黑洞-美国制造的人权灾难](https://www.youtube.com/watch?v=nMuo7p-a-EE)  
 - [巴西修正提升科興疫苗有效率 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074e0a8e4b0c6fb6f5e84ef.html)  
+- [巴西最終數據　科興對變種病毒有效 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074fbefe4b0c6fb6f5e9711.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
