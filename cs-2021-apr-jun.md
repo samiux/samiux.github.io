@@ -40,5 +40,6 @@
 - [家長喜訊 - 廣州港澳子弟學校　無縫銜接港學制 -- 大公文匯](https://www.tkww.hk/a/202104/12/AP607386cde4b0c6fb6f5e0842.html)  
 - [狹路相逢 - 中國航母遇美艦 「帶刀侍衛」更高班 -- 大公文匯](https://www.tkww.hk/a/202104/12/AP607386f9e4b0c6fb6f5e08e7.html)  
 - [** 巴西修正提升科興疫苗有效率 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074e0a8e4b0c6fb6f5e84ef.html)  
+- [** 巴西最終數據　科興對變種病毒有效 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074fbefe4b0c6fb6f5e9711.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
