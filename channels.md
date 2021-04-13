@@ -118,6 +118,8 @@
 - [战争黑洞-美国制造的人权灾难](https://www.youtube.com/watch?v=nMuo7p-a-EE)  
 - [巴西修正提升科興疫苗有效率 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074e0a8e4b0c6fb6f5e84ef.html)  
 - [巴西最終數據　科興對變種病毒有效 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074fbefe4b0c6fb6f5e9711.html)  
+- [深圳發布《跨境醫療措施》加快打通11個粵港澳醫療跨境「關口」 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP60758f9de4b0c6fb6f5edc16.html)  
+- [粵港澳大灣區推交通「一卡通」「一碼暢行」 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP60758b6ae4b0c6fb6f5edb2b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
