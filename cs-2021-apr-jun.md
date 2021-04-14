@@ -45,5 +45,6 @@
 - [深圳發布《跨境醫療措施》加快打通11個粵港澳醫療跨境「關口」 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP60758f9de4b0c6fb6f5edc16.html)  
 - [粵港澳大灣區推交通「一卡通」「一碼暢行」 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP60758b6ae4b0c6fb6f5edb2b.html)  
 - [港人一卡一碼走遍灣區 -- 大公文匯](https://mp.weixin.qq.com/s/-JS4we90eLCoHw9IzMH2XQ)  
+- [制裁不會令美國強大，只教中國更美好 -- 深藍](https://www.bastillepost.com/hongkong/article/8286613-%e5%88%b6%e8%a3%81%e4%b8%8d%e6%9c%83%e4%bb%a4%e7%be%8e%e5%9c%8b%e5%bc%b7%e5%a4%a7%ef%bc%8c%e5%8f%aa%e6%95%99%e4%b8%ad%e5%9c%8b%e6%9b%b4%e7%be%8e%e5%a5%bd)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
