@@ -51,5 +51,6 @@
 - [一次核事故讓他全身DNA破裂，最終看着自己的身體逐漸腐爛 -- 大公文匯](https://www.tkww.hk/a/202104/15/AP60779a2ee4b0c6fb6f5f68a0.html)  
 - [** 彭博引述澳洲專家為科興疫苗平反：「我會毫不猶豫接種科興」 最有價值是對重症的效力非常高 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8290189-%e5%bd%ad%e5%8d%9a%e5%bc%95%e8%bf%b0%e6%be%b3%e6%b4%b2%e5%b0%88%e5%ae%b6%e7%82%ba%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97%e5%b9%b3%e5%8f%8d%ef%bc%9a%e3%80%8c%e6%88%91%e6%9c%83%e6%af%ab%e4%b8%8d%e7%8c%b6)  
 - [丹麥官員記者會上突然暈倒瞓低 丹麥完全停用阿斯利康疫苗 -- deepthroat](https://www.bastillepost.com/hongkong/article/8289370-%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e5%9c%8b%e5%ae%b6-%e4%b8%b9%e9%ba%a5%e5%ae%8c%e5%85%a8%e5%81%9c%e6%ad%a2%e4%bd%bf%e7%94%a8%e8%8b%b1%e5%9c%8b%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e7%96%ab)  
+- [拜登芯片霸權︰對中國是happy problem，韓台是problem happen -- 深藍](https://www.bastillepost.com/hongkong/article/8293437-%e6%8b%9c%e7%99%bb%e8%8a%af%e7%89%87%e9%9c%b8%e6%ac%8a%ef%b8%b0%e5%b0%8d%e4%b8%ad%e5%9c%8b%e6%98%afhappy-problem%ef%bc%8c%e9%9f%93%e5%8f%b0%e6%98%afproblem-happen)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
