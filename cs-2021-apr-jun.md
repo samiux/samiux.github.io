@@ -54,5 +54,7 @@
 - [拜登芯片霸權︰對中國是happy problem，韓台是problem happen -- 深藍](https://www.bastillepost.com/hongkong/article/8293437-%e6%8b%9c%e7%99%bb%e8%8a%af%e7%89%87%e9%9c%b8%e6%ac%8a%ef%b8%b0%e5%b0%8d%e4%b8%ad%e5%9c%8b%e6%98%afhappy-problem%ef%bc%8c%e9%9f%93%e5%8f%b0%e6%98%afproblem-happen)  
 - [犀利吐槽　美脱口秀演员假借攻击中国讽刺美国[视频] -- 多维新闻](https://www.dwnews.com/%E5%85%A8%E7%90%83/60236732/%E7%8A%80%E5%88%A9%E5%90%90%E6%A7%BD%E7%BE%8E%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E5%81%87%E5%80%9F%E6%94%BB%E5%87%BB%E4%B8%AD%E5%9B%BD%E8%AE%BD%E5%88%BA%E7%BE%8E%E5%9B%BD%E8%A7%86%E9%A2%91)  
 - [** 吳秋北撰文批公務員制度：只問指引程序 不問施政成效 -- Ariel](https://www.bastillepost.com/hongkong/article/8294392-%e5%90%b3%e7%a7%8b%e5%8c%97%e6%92%b0%e6%96%87%e6%89%b9%e5%85%ac%e5%8b%99%e5%93%a1%e5%88%b6%e5%ba%a6%ef%bc%9a%e5%8f%aa%e5%95%8f%e6%8c%87%e5%bc%95%e7%a8%8b%e5%ba%8f-%e4%b8%8d%e5%95%8f%e6%96%bd%e6%94%bf)  
+- [輝瑞：已打兩針復必泰人士　或需補打第三針 -- 大公文匯](https://www.tkww.hk/a/202104/16/AP6078f400e4b0c6fb6f5fd9f7.html)  
+- [美國有5800人接種疫苗後感染新冠　74人死亡 -- 大公文匯](https://www.tkww.hk/a/202104/16/AP6078fd14e4b0c6fb6f5fdda5.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
