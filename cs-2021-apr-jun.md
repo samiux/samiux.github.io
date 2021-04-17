@@ -59,5 +59,7 @@
 - [中大發現新冠病毒抗體可經母體傳至胎兒 -- 大公文匯](https://www.tkww.hk/a/202104/16/AP60792375e4b0c6fb6f5fea58.html)  
 - [疫苗打唔打得？打邊款？這場新冠疫苗接種研討會話你知 -- Sebastian](https://www.bastillepost.com/hongkong/article/8301910-%e7%96%ab%e8%8b%97%e6%89%93%e5%94%94%e6%89%93%e5%be%97%ef%bc%9f%e6%89%93%e9%82%8a%e6%ac%be%ef%bc%9f%e9%80%99%e5%a0%b4%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e7%a0%94%e8%a8%8e%e6%9c%83)  
 - [** 智利研究顯示 科興疫苗有效率67%預防死亡率達80% -- 巴士的報](https://www.bastillepost.com/hongkong/article/8302453-%e6%99%ba%e5%88%a9%e7%a0%94%e7%a9%b6%e9%a1%af%e7%a4%ba-%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97%e6%9c%89%e6%95%88%e7%8e%8767%e9%a0%90%e9%98%b2%e6%ad%bb%e4%ba%a1%e7%8e%87%e9%81%9480)  
+- [巴西疫城全民打科興　確診減半「摑」卸責總統 -- 大公文匯](https://www.tkww.hk/a/202104/17/AP607a8c1ae4b0c6fb6f605eea.html)  
+- [匈牙利成功阻止歐盟就香港問題發聲明 又指就新疆制裁中國「毫無意義」 -- Ariel](https://www.bastillepost.com/hongkong/article/8301577-%e5%8c%88%e7%89%99%e5%88%a9%e6%88%90%e5%8a%9f%e9%98%bb%e6%ad%a2%e6%ad%90%e7%9b%9f%e5%b0%b1%e9%a6%99%e6%b8%af%e5%95%8f%e9%a1%8c%e7%99%bc%e8%81%b2%e6%98%8e-%e5%8f%88%e6%8c%87%e5%b0%b1%e6%96%b0%e7%96%86)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
