@@ -57,5 +57,6 @@
 - [輝瑞：已打兩針復必泰人士　或需補打第三針 -- 大公文匯](https://www.tkww.hk/a/202104/16/AP6078f400e4b0c6fb6f5fd9f7.html)  
 - [美國有5800人接種疫苗後感染新冠　74人死亡 -- 大公文匯](https://www.tkww.hk/a/202104/16/AP6078fd14e4b0c6fb6f5fdda5.html)  
 - [中大發現新冠病毒抗體可經母體傳至胎兒 -- 大公文匯](https://www.tkww.hk/a/202104/16/AP60792375e4b0c6fb6f5fea58.html)  
+- [疫苗打唔打得？打邊款？這場新冠疫苗接種研討會話你知 -- Sebastian](https://www.bastillepost.com/hongkong/article/8301910-%e7%96%ab%e8%8b%97%e6%89%93%e5%94%94%e6%89%93%e5%be%97%ef%bc%9f%e6%89%93%e9%82%8a%e6%ac%be%ef%bc%9f%e9%80%99%e5%a0%b4%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e7%a0%94%e8%a8%8e%e6%9c%83)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
