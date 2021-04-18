@@ -63,5 +63,6 @@
 - [匈牙利成功阻止歐盟就香港問題發聲明 又指就新疆制裁中國「毫無意義」 -- Ariel](https://www.bastillepost.com/hongkong/article/8301577-%e5%8c%88%e7%89%99%e5%88%a9%e6%88%90%e5%8a%9f%e9%98%bb%e6%ad%a2%e6%ad%90%e7%9b%9f%e5%b0%b1%e9%a6%99%e6%b8%af%e5%95%8f%e9%a1%8c%e7%99%bc%e8%81%b2%e6%98%8e-%e5%8f%88%e6%8c%87%e5%b0%b1%e6%96%b0%e7%96%86)  
 - [** 專家：兩針間隔56天內無損免疫效果 -- 大公文匯](https://www.tkww.hk/a/202104/18/AP607baac9e4b0c6fb6f60a6bb.html)  
 - [變種病毒肆虐印度　單日逾26萬確診 -- 大公文匯](https://www.tkww.hk/a/202104/18/AP607be29ee4b0c6fb6f60b8ec.html)  
+- [N501Y變種極速攻陷日本　足跡遍全球 -- 大公文匯](https://www.tkww.hk/a/202104/18/AP607ba2a6e4b0c6fb6f60a3e7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
