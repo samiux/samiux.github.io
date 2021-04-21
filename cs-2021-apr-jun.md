@@ -67,5 +67,7 @@
 - [八達通年底有望一卡通行 可於中港兩地公共交通工具使用 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8309327-%e5%85%ab%e9%81%94%e9%80%9a%e5%b9%b4%e5%ba%95%e6%9c%89%e6%9c%9b%e4%b8%80%e5%8d%a1%e9%80%9a%e8%a1%8c-%e5%8f%af%e6%96%bc%e4%b8%ad%e6%b8%af%e5%85%a9%e5%9c%b0%e5%85%ac%e5%85%b1%e4%ba%a4%e9%80%9a%e5%b7%a5)  
 - [美國經濟學教授痛斥BBC：「你們節目框架針對中國有點奇怪」 批忽視美國侵犯人權 -- deepthroat](https://www.bastillepost.com/hongkong/article/8309627-%e7%be%8e%e5%9c%8b%e7%b6%93%e6%bf%9f%e5%ad%b8%e6%95%99%e6%8e%88%e7%97%9b%e6%96%a5bbc%ef%bc%9a%e3%80%8c%e4%bd%a0%e5%80%91%e7%af%80%e7%9b%ae%e6%a1%86%e6%9e%b6%e9%87%9d%e5%b0%8d%e4%b8%ad%e5%9c%8b)  
 - [** 習近平：不能由個別國家的單邊主義給整個世界「帶節奏」 -- 大公文匯](https://www.tkww.hk/a/202104/20/AP607e70a8e4b0c6fb6f617d8f.html)  
+- [美國一手製造全球「科技赤字」，還要面不紅氣不喘 -- 深藍](https://www.bastillepost.com/hongkong/article/8325601-%e7%be%8e%e5%9c%8b%e4%b8%80%e6%89%8b%e8%a3%bd%e9%80%a0%e5%85%a8%e7%90%83%e3%80%8c%e7%a7%91%e6%8a%80%e8%b5%a4%e5%ad%97%e3%80%8d%ef%bc%8c%e9%82%84%e8%a6%81%e9%9d%a2%e4%b8%8d%e7%b4%85%e6%b0%a3%e4%b8%8d)  
+- [特朗普前經濟顧問：美國給民眾派錢 刺激的卻是中國經濟 -- deepthroat](https://www.bastillepost.com/hongkong/article/8323936-%e7%89%b9%e6%9c%97%e6%99%ae%e5%89%8d%e7%b6%93%e6%bf%9f%e9%a1%a7%e5%95%8f%ef%bc%9a%e7%be%8e%e5%9c%8b%e7%b5%a6%e6%b0%91%e7%9c%be%e6%b4%be%e9%8c%a2-%e5%88%ba%e6%bf%80%e7%9a%84%e5%8d%bb%e6%98%af%e4%b8%ad)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
