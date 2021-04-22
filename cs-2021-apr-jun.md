@@ -72,5 +72,6 @@
 - [美國霸權危害全球　多國專家反「新冷戰」 -- 大公文匯](https://www.tkww.hk/a/202104/21/AP607f714ae4b0c6fb6f61c5b7.html)  
 - [** GDP11.5萬億　來看粵港澳大灣區四年建設成績單 -- 大公文匯](https://www.tkww.hk/a/202104/21/AP60801d09e4b0c6fb6f620f73.html)  
 - [** 數字人民幣將替代支付寶、微信支付？專家有話說 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8331014-%e6%95%b8%e5%ad%97%e4%ba%ba%e6%b0%91%e5%b9%a3%e5%b0%87%e6%9b%bf%e4%bb%a3%e6%94%af%e4%bb%98%e5%af%b6%e3%80%81%e5%be%ae%e4%bf%a1%e6%94%af%e4%bb%98%ef%bc%9f%e5%b0%88%e5%ae%b6%e6%9c%89%e8%a9%b1%e8%aa%aa)  
+- [光子技術取代摩爾定律，科技茅躉王難施故技對中國 -- 深藍](https://www.bastillepost.com/hongkong/article/8332245-%e5%85%89%e5%ad%90%e6%8a%80%e8%a1%93%e5%8f%96%e4%bb%a3%e6%91%a9%e7%88%be%e5%ae%9a%e5%be%8b%ef%bc%8c%e7%a7%91%e6%8a%80%e8%8c%85%e8%ba%89%e7%8e%8b%e9%9b%a3%e6%96%bd%e6%95%85%e6%8a%80%e5%b0%8d%e4%b8%ad)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
