@@ -2,7 +2,7 @@
 
 # **Who am I?**
 
-Samiux is an Information Security Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.  
+Samiux is an CyperSecurity Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.  
 
 His slogan are :
 
