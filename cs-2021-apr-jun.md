@@ -71,5 +71,6 @@
 - [特朗普前經濟顧問：美國給民眾派錢 刺激的卻是中國經濟 -- deepthroat](https://www.bastillepost.com/hongkong/article/8323936-%e7%89%b9%e6%9c%97%e6%99%ae%e5%89%8d%e7%b6%93%e6%bf%9f%e9%a1%a7%e5%95%8f%ef%bc%9a%e7%be%8e%e5%9c%8b%e7%b5%a6%e6%b0%91%e7%9c%be%e6%b4%be%e9%8c%a2-%e5%88%ba%e6%bf%80%e7%9a%84%e5%8d%bb%e6%98%af%e4%b8%ad)  
 - [美國霸權危害全球　多國專家反「新冷戰」 -- 大公文匯](https://www.tkww.hk/a/202104/21/AP607f714ae4b0c6fb6f61c5b7.html)  
 - [** GDP11.5萬億　來看粵港澳大灣區四年建設成績單 -- 大公文匯](https://www.tkww.hk/a/202104/21/AP60801d09e4b0c6fb6f620f73.html)  
+- [** 數字人民幣將替代支付寶、微信支付？專家有話說 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8331014-%e6%95%b8%e5%ad%97%e4%ba%ba%e6%b0%91%e5%b9%a3%e5%b0%87%e6%9b%bf%e4%bb%a3%e6%94%af%e4%bb%98%e5%af%b6%e3%80%81%e5%be%ae%e4%bf%a1%e6%94%af%e4%bb%98%ef%bc%9f%e5%b0%88%e5%ae%b6%e6%9c%89%e8%a9%b1%e8%aa%aa)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
