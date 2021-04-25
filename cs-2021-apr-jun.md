@@ -77,5 +77,6 @@
 - [廣州與重慶上海地鐵實現「一碼通行」 -- 大公文匯](https://www.tkww.hk/a/202104/23/AP60827025e4b0c6fb6f62bebd.html)  
 - [新疆對美出口不跌反升 一季度同比翻倍 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8339085-%e6%96%b0%e7%96%86%e5%b0%8d%e7%be%8e%e5%87%ba%e5%8f%a3%e4%b8%8d%e8%b7%8c%e5%8f%8d%e5%8d%87-%e4%b8%80%e5%ad%a3%e5%ba%a6%e5%90%8c%e6%af%94%e7%bf%bb%e5%80%8d)  
 - [** 王毅: 「民主不是可口可樂，美國生產原漿，全世界一個味道」 提出對中美關係5點看法 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8340953-%e7%8e%8b%e6%af%85-%e3%80%8c%e6%b0%91%e4%b8%bb%e4%b8%8d%e6%98%af%e5%8f%af%e5%8f%a3%e5%8f%af%e6%a8%82%ef%bc%8c%e7%be%8e%e5%9c%8b%e7%94%9f%e7%94%a2%e5%8e%9f%e6%bc%bf%ef%bc%8c%e5%85%a8%e4%b8%96%e7%95%8c)  
+- [印度「雙突變」病毒流行　確診患者出現新症狀 -- 大公文匯](https://www.tkww.hk/a/202104/25/AP608524bde4b0c6fb6f638d1d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
