@@ -97,4 +97,8 @@ Samiux
 OSCE  OSCP  OSWP  
 二零二一年四月廿五日，中国香港  
 
+#### 相关：
+- [夺旗赛 (CTF) 入门 (二)](/ctf_noob_2.md)
+- [夺旗赛 (CTF) 入门 (三)](/ctf_noob_3.md)
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
