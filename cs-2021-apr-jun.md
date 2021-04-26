@@ -79,5 +79,9 @@
 - [** 王毅: 「民主不是可口可樂，美國生產原漿，全世界一個味道」 提出對中美關係5點看法 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8340953-%e7%8e%8b%e6%af%85-%e3%80%8c%e6%b0%91%e4%b8%bb%e4%b8%8d%e6%98%af%e5%8f%af%e5%8f%a3%e5%8f%af%e6%a8%82%ef%bc%8c%e7%be%8e%e5%9c%8b%e7%94%9f%e7%94%a2%e5%8e%9f%e6%bc%bf%ef%bc%8c%e5%85%a8%e4%b8%96%e7%95%8c)  
 - [印度「雙突變」病毒流行　確診患者出現新症狀 -- 大公文匯](https://www.tkww.hk/a/202104/25/AP608524bde4b0c6fb6f638d1d.html)  
 - [** 「給我三億美元　我來搞臭中國」 -- 大公文匯](https://www.tkww.hk/a/202104/25/AP6085060be4b0c6fb6f638387.html)  
+- [AI精準識別新冠高風險重症患者　預判病程進展精確到「天」 -- 大公文匯](https://www.tkww.hk/a/202104/26/AP608654dee4b0c6fb6f63fd4c.html)  
+- [一天下水6.5萬噸，等於5分之1法國海軍，中國造艦實力登世界前列 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8348626-%e4%b8%80%e5%a4%a9%e4%b8%8b%e6%b0%b46-5%e8%90%ac%e5%99%b8%ef%bc%8c%e7%ad%89%e6%96%bc5%e5%88%86%e4%b9%8b1%e6%b3%95%e5%9c%8b%e6%b5%b7%e8%bb%8d%ef%bc%8c%e4%b8%ad%e5%9c%8b%e9%80%a0%e8%89%a6%e5%af%a6)  
+- [以色列正調查 少數接種輝瑞疫苗有心肌炎 主要在年青男子發生 -- deepthroat](https://www.bastillepost.com/hongkong/article/8349186-%e4%bb%a5%e8%89%b2%e5%88%97%e6%ad%a3%e8%aa%bf%e6%9f%a5-%e5%b0%91%e6%95%b8%e6%8e%a5%e7%a8%ae%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%97%e6%9c%89%e5%bf%83%e8%82%8c%e7%82%8e-%e4%b8%bb%e8%a6%81%e5%9c%a8%e5%b9%b4)  
+- [張文宏分析印度疫情失控 印度B.1.617突變病毒株好厲害 已在20多個國家被驗出 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8349272-%e5%bc%b5%e6%96%87%e5%ae%8f%e5%88%86%e6%9e%90%e5%8d%b0%e5%ba%a6%e7%96%ab%e6%83%85%e5%a4%b1%e6%8e%a7-%e5%8d%b0%e5%ba%a6b-1-617%e9%9b%99%e7%aa%81%e8%ae%8a%e7%97%85%e6%af%92%e6%a0%aa%e5%a5%bd%e5%8e%b2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
