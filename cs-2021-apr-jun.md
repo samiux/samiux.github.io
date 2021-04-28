@@ -85,5 +85,7 @@
 - [張文宏分析印度疫情失控 印度B.1.617突變病毒株好厲害 已在20多個國家被驗出 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8349272-%e5%bc%b5%e6%96%87%e5%ae%8f%e5%88%86%e6%9e%90%e5%8d%b0%e5%ba%a6%e7%96%ab%e6%83%85%e5%a4%b1%e6%8e%a7-%e5%8d%b0%e5%ba%a6b-1-617%e9%9b%99%e7%aa%81%e8%ae%8a%e7%97%85%e6%af%92%e6%a0%aa%e5%a5%bd%e5%8e%b2)  
 - [美國害死印度，布林肯還說我們心連心！ -- 深藍](https://www.bastillepost.com/hongkong/article/8352579-%e7%be%8e%e5%9c%8b%e5%ae%b3%e6%ad%bb%e5%8d%b0%e5%ba%a6%ef%bc%8c%e5%b8%83%e6%9e%97%e8%82%af%e9%82%84%e8%aa%aa%e6%88%91%e5%80%91%e5%bf%83%e9%80%a3%e5%bf%83%ef%bc%81)  
 - [遠親不如近鄰 -- 大公文匯](https://mp.weixin.qq.com/s/JDz8Wwv_N0aMyxi0iYPUhA)  
+- [BioNTech：輝瑞疫苗保護率半年後減弱　或須補打第三針 -- 大公文匯](https://www.tkww.hk/a/202104/28/AP60896812e4b0c6fb6f6517d6.html)  
+- [科興新冠疫苗全球發貨總量逾3億劑 -- 大公文匯](https://www.tkww.hk/a/202104/28/AP60892a9fe4b0c6fb6f650033.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
