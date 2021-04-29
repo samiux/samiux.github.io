@@ -23,6 +23,7 @@
 - [Weibo Official Channel](https://www.youtube.com/channel/UCpU9eMYJE6o2CnqDmKF0g8A)  
 - [东方卫视环球交叉点](https://www.youtube.com/channel/UCG4kGP4ETdKzseQshMCCBKg)  
 - [CGTN](https://www.youtube.com/c/cgtn/featured)  
+- [Hezhimeng  竹内亮](https://www.youtube.com/channel/UCwHUYtwH5E41O6MiYoC19ng)  
 
 ## Hong Kong
 
