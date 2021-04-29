@@ -23,5 +23,8 @@ OSCE  OSCP  OSWP
 
 ## 参考 ：   
 - [餐飲業「ABCD」4運作模式 「疫苗氣泡」作基礎今起放寬防疫措施 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8367706-%E3%80%8C%E7%96%AB%E8%8B%97%E6%B0%A3%E6%B3%A1%E3%80%8D%E4%BD%9C%E5%9F%BA%E7%A4%8E-%E4%BB%8A%E8%B5%B7%E6%94%BE%E5%AF%AC%E7%A4%BE%E4%BA%A4%E8%B7%9D%E9%9B%A2%E6%8E%AA%E6%96%BD)   
+- [疫苗氣泡 - 餐飲處所的運作模式 -- 食環署](https://www.fehd.gov.hk/tc_chi/events/covid19/vaccine_bubble_FP.html)  
+- [疫苗氣泡 - 餐飲處所的運作模式 -- 食環署](https://www.fehd.gov.hk/tc_chi/events/covid19/vaccination_record_app.html)  
+- [為業界及公眾了解「疫苗氣泡」操作　食環署推專頁 -- 大公文匯](https://www.tkww.hk/a/202104/29/AP608aa5d8e4b0c6fb6f658888.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
