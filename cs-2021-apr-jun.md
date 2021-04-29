@@ -90,5 +90,6 @@
 - [政治重要人命何價? 美媒: 中國向印度提供抗疫援助而美國拖後腿，但新德里並不那麼熱衷 -- deepthroat](https://www.bastillepost.com/hongkong/article/8367791-%e6%94%bf%e6%b2%bb%e9%87%8d%e8%a6%81%e4%ba%ba%e5%91%bd%e4%bd%95%e5%83%b9-%e7%be%8e%e5%aa%92-%e4%b8%ad%e5%9c%8b%e5%90%91%e5%8d%b0%e5%ba%a6%e6%8f%90%e4%be%9b%e6%8a%97%e7%96%ab%e6%8f%b4%e5%8a%a9)  
 - [CMHK 大灣區服務計劃　一卡多號無縫連接內地、港澳 安心通行 -- PCM](https://www.pcmarket.com.hk/cmhk-%e5%a4%a7%e7%81%a3%e5%8d%80%e6%9c%8d%e5%8b%99%e8%a8%88%e5%8a%83%e3%80%80%e4%b8%80%e5%8d%a1%e5%a4%9a%e8%99%9f%e7%84%a1%e7%b8%ab%e9%80%a3%e6%8e%a5%e5%85%a7%e5%9c%b0%e3%80%81%e6%b8%af%e6%be%b3/)  
 - [立陶宛跑手打破兩項超馬世界紀錄！12 小時完成 170.309km -- ezone](https://ezone.ulifestyle.com.hk/article/2944813/%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%B7%91%E6%89%8B%E6%89%93%E7%A0%B4%E5%85%A9%E9%A0%85%E8%B6%85%E9%A6%AC%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84%EF%BC%8112%20%E5%B0%8F%E6%99%82%E5%AE%8C%E6%88%90%20170.309km)  
+- [美國專家: 中國055導彈驅逐艦全世界最先進 更勝美國馬斯廷號及伯克3型驅逐艦 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8370159-%e7%be%8e%e5%9c%8b%e5%b0%88%e5%ae%b6-%e4%b8%ad%e5%9c%8b055%e5%b0%8e%e5%bd%88%e9%a9%85%e9%80%90%e8%89%a6%e5%85%a8%e4%b8%96%e7%95%8c%e6%9c%80%e5%85%88%e9%80%b2-%e6%9b%b4%e5%8b%9d%e7%be%8e%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
