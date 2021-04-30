@@ -27,5 +27,7 @@ OSCE  OSCP  OSWP
 - [疫苗氣泡 - 餐飲處所的運作模式 -- 食環署](https://www.fehd.gov.hk/tc_chi/events/covid19/vaccination_record_app.html)  
 - [為業界及公眾了解「疫苗氣泡」操作　食環署推專頁 -- 大公文匯](https://www.tkww.hk/a/202104/29/AP608aa5d8e4b0c6fb6f658888.html)  
 - [政府推「針卡掃瞄」App 暫得 APK 檔供下載 科技界專家提醒：小心保管針卡 QR Code -- ezone](https://ezone.ulifestyle.com.hk/article/2945189/%E6%94%BF%E5%BA%9C%E6%8E%A8%E3%80%8C%E9%87%9D%E5%8D%A1%E6%8E%83%E7%9E%84%E3%80%8DApp%20%E6%9A%AB%E5%BE%97%20APK%20%E6%AA%94%E4%BE%9B%E4%B8%8B%E8%BC%89%20%20%E7%A7%91%E6%8A%80%E7%95%8C%E5%B0%88%E5%AE%B6%E6%8F%90%E9%86%92%EF%BC%9A%E5%B0%8F%E5%BF%83%E4%BF%9D%E7%AE%A1%E9%87%9D%E5%8D%A1%20QR%20Code)  
+- [電子針卡三不足待改善 -- 大公文匯](https://www.tkww.hk/a/202104/30/AP608b458ee4b0c6fb6f65a498.html)  
+- [有人用假「安心出行」 　或犯虛假文書罪 -- 大公文匯](https://www.tkww.hk/a/202104/30/AP608b4588e4b0c6fb6f65a497.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
