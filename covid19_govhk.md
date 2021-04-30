@@ -30,5 +30,6 @@ OSCE  OSCP  OSWP
 - [電子針卡三不足待改善 -- 大公文匯](https://www.tkww.hk/a/202104/30/AP608b458ee4b0c6fb6f65a498.html)  
 - [有人用假「安心出行」 　或犯虛假文書罪 -- 大公文匯](https://www.tkww.hk/a/202104/30/AP608b4588e4b0c6fb6f65a497.html)  
 - [疫苗氣泡生效 方見執行細節 飲食業斥「官僚」思維礙生意 有酒樓C區無人B區爆 -- 明報](https://m.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20210430/s00001/1619721274684/%e7%96%ab%e8%8b%97%e6%b0%a3%e6%b3%a1%e7%94%9f%e6%95%88-%e6%96%b9%e8%a6%8b%e5%9f%b7%e8%a1%8c%e7%b4%b0%e7%af%80-%e9%a3%b2%e9%a3%9f%e6%a5%ad%e6%96%a5%e3%80%8c%e5%ae%98%e5%83%9a%e3%80%8d%e6%80%9d%e7%b6%ad%e7%a4%99%e7%94%9f%e6%84%8f-%e6%9c%89%e9%85%92%e6%a8%93c%e5%8d%80%e7%84%a1%e4%ba%bab%e5%8d%80%e7%88%86)  
+- [劣評如潮 - 食肆四級制　實施首日現混亂 -- 大公文匯](https://www.tkww.hk/a/202104/30/AP608b46e0e4b0c6fb6f65a57e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
