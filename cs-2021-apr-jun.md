@@ -97,5 +97,6 @@
 - [波音CEO坐不住了：我們要促進中美對話！ -- deepthroat](https://www.bastillepost.com/hongkong/article/8376385-%e6%b3%a2%e9%9f%b3ceo%e5%9d%90%e4%b8%8d%e4%bd%8f%e4%ba%86%ef%bc%9a%e6%88%91%e5%80%91%e8%a6%81%e4%bf%83%e9%80%b2%e4%b8%ad%e7%be%8e%e5%b0%8d%e8%a9%b1%ef%bc%81)  
 - [美國與中國競爭，難過60年代登月 -- 深藍](https://www.bastillepost.com/hongkong/article/8378533-%e7%be%8e%e5%9c%8b%e8%88%87%e4%b8%ad%e5%9c%8b%e7%ab%b6%e7%88%ad%ef%bc%8c%e9%9b%a3%e9%81%8e60%e5%b9%b4%e4%bb%a3%e7%99%bb%e6%9c%88)  
 - [** 內地專家: 打疫苗後仍感染 不代表疫苗沒有作用 西安實例可以說明 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8380673-%e5%85%a7%e5%9c%b0%e5%b0%88%e5%ae%b6-%e6%89%93%e7%96%ab%e8%8b%97%e5%be%8c%e4%bb%8d%e6%84%9f%e6%9f%93-%e4%b8%8d%e4%bb%a3%e8%a1%a8%e7%96%ab%e8%8b%97%e6%b2%92%e6%9c%89%e4%bd%9c%e7%94%a8-%e8%a5%bf)  
+- [中國盡最大努力協助印度 兩國外長通電話 中方保證供應鏈和航班暢通 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8382634-%e4%b8%ad%e5%9c%8b%e7%9b%a1%e6%9c%80%e5%a4%a7%e5%8a%aa%e5%8a%9b%e5%8d%94%e5%8a%a9%e5%8d%b0%e5%ba%a6-%e5%85%a9%e5%9c%8b%e5%a4%96%e9%95%b7%e9%80%9a%e9%9b%bb%e8%a9%b1-%e4%b8%ad%e6%96%b9%e4%bf%9d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
