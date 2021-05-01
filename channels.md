@@ -143,6 +143,7 @@
 - [CMHK 大灣區服務計劃　一卡多號無縫連接內地、港澳 安心通行 -- PCM](https://www.pcmarket.com.hk/cmhk-%e5%a4%a7%e7%81%a3%e5%8d%80%e6%9c%8d%e5%8b%99%e8%a8%88%e5%8a%83%e3%80%80%e4%b8%80%e5%8d%a1%e5%a4%9a%e8%99%9f%e7%84%a1%e7%b8%ab%e9%80%a3%e6%8e%a5%e5%85%a7%e5%9c%b0%e3%80%81%e6%b8%af%e6%be%b3/)  
 - [立陶宛跑手打破兩項超馬世界紀錄！12 小時完成 170.309km -- ezone](https://ezone.ulifestyle.com.hk/article/2944813/%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%B7%91%E6%89%8B%E6%89%93%E7%A0%B4%E5%85%A9%E9%A0%85%E8%B6%85%E9%A6%AC%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84%EF%BC%8112%20%E5%B0%8F%E6%99%82%E5%AE%8C%E6%88%90%20170.309km)  
 - [怎样才能减肚子？营养专家提了四点建议 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_12415929)  
+- [新冠肺炎 - 六个你需要知道的变种病毒 -- 多维新闻](https://www.dwnews.com/%E5%85%A8%E7%90%83/60238092/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%85%AD%E4%B8%AA%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E5%8F%98%E7%A7%8D%E7%97%85%E6%AF%92)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
