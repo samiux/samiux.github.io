@@ -48,6 +48,14 @@ sudo systemctl start lkrg
 sudo systemctl restart lkrg
 ```
 
+## Status of LKRG
+
+```bash
+sudo sysctl -a | grep lkrg
+
+dmesg | grep lkrg
+```
+
 ## Known Issues
 
 - If Virtualbox is installed after the installation of LKRG, it is required to uninstall and reinstall LKRG; otherwises, Virtualbox will not working properly.  
