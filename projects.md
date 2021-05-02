@@ -12,7 +12,7 @@
 ## Defensive
 
 - [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
-- [LKRG - Linux Kernel Runtime Guard Install Script](https://github.com/samiux/lkrg)
+- [LKRG - Linux Kernel Runtime Guard Install Script](/lkrg.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 
