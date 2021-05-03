@@ -103,5 +103,7 @@
 - [印度死亡實錄--為了拯救父母，他苦苦掙扎48小時，最後 -- deepthroat](https://www.bastillepost.com/hongkong/article/8384361-%e5%8d%b0%e5%ba%a6%e6%ad%bb%e4%ba%a1%e5%af%a6%e9%8c%84-%e7%82%ba%e4%ba%86%e6%8b%af%e6%95%91%e7%88%b6%e6%af%8d%ef%bc%8c%e4%bb%96%e8%8b%a6%e8%8b%a6%e6%8e%99%e6%89%8e48%e5%b0%8f%e6%99%82%ef%bc%8c)  
 - [** 全國首創　粵澳跨境人民幣繳納社保服務上線 -- 大公文匯](https://www.tkww.hk/a/202105/02/AP608e8433e4b0c6fb6f66b949.html)  
 - [** 穗版「長者咭」　港人享同等待遇 -- 大公文匯](https://www.tkww.hk/a/202105/03/AP608f411fe4b0c6fb6f66e1a3.html)  
+- [美國贏得21世紀？大家聽到笑聲了 -- 深藍](https://www.bastillepost.com/hongkong/article/8392058-%e7%be%8e%e5%9c%8b%e8%b4%8f%e5%be%9721%e4%b8%96%e7%b4%80%ef%bc%9f%e5%a4%a7%e5%ae%b6%e8%81%bd%e5%88%b0%e7%ac%91%e8%81%b2%e4%ba%86)  
+- [尋找angel 的故事 選特首要選「愛國者」而非「開放者」 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8391559-%e5%b0%8b%e6%89%beangel-%e7%9a%84%e6%95%85%e4%ba%8b-%e9%81%b8%e7%89%b9%e9%a6%96%e8%a6%81%e9%81%b8%e3%80%8c%e6%84%9b%e5%9c%8b%e8%80%85%e3%80%8d%e8%80%8c%e9%9d%9e%e3%80%8c%e9%96%8b%e6%94%be%e8%80%85)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
