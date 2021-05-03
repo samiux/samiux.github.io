@@ -66,5 +66,6 @@ dmesg | grep lkrg
 - [LKRG - Linux Kernel Runtime Guard -- GitHub](https://github.com/openwall/lkrg)  
 - [Linux Kernel Runtime Guard -- LinuxReviews](https://linuxreviews.org/Linux_Kernel_Runtime_Guard)  
 - [Linux Kernel Runtime Guard 0.9.1 Is Released -- LinuxReviews](https://linuxreviews.org/Linux_Kernel_Runtime_Guard_0.9.1_Is_Released)  
+- [CONFidence 2018: Linux Kernel Runtime Guard (LKRG) under the hood (Adam "pi3" Zabrocki)](https://www.youtube.com/watch?v=tOiPM692DOM)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
