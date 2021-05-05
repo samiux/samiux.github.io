@@ -113,5 +113,7 @@
 - [英國學者：印度疫情大流行是場悲劇，它想成為「下一個中國」的希望是零 -- deepthroat](https://www.bastillepost.com/hongkong/article/8400620-%e8%8b%b1%e5%9c%8b%e5%ad%b8%e8%80%85%ef%bc%9a%e5%8d%b0%e5%ba%a6%e7%96%ab%e6%83%85%e5%a4%a7%e6%b5%81%e8%a1%8c%e6%98%af%e5%a0%b4%e6%82%b2%e5%8a%87%ef%bc%8c%e5%ae%83%e6%83%b3%e6%88%90%e7%82%ba%e3%80%8c)  
 - [今年首季美國針對亞裔的仇恨犯罪 再增加160% 阿里巴巴蔡崇信、雅虎楊致遠等人捐款 抗擊對亞裔仇恨 -- deepthroat](https://www.bastillepost.com/hongkong/article/8400316-%e4%bb%8a%e5%b9%b4%e9%a6%96%e5%ad%a3%e7%be%8e%e5%9c%8b%e9%87%9d%e5%b0%8d%e4%ba%9e%e8%a3%94%e7%9a%84%e4%bb%87%e6%81%a8%e7%8a%af%e7%bd%aa-%e5%86%8d%e5%a2%9e%e5%8a%a0160-%e9%98%bf%e9%87%8c%e5%b7%b4)  
 - [** 全國首條5G智慧半馬濱海跑道來了！香港跑友專程打卡體驗 -- 大公文匯](https://www.tkww.hk/a/202105/04/AP60913598e4b0c6fb6f679e38.html)  
+- [** 陶瓷護航電池安全　這位31歲中國科學家研儲能技術居世界前列 -- 大公文匯](https://www.tkww.hk/a/202105/05/AP609245b7e4b0c6fb6f67ef63.html)  
+- [** 美傳染病專家赴印度感染新冠去世　此前已注射兩針疫苗 -- 大公文匯](https://www.tkww.hk/a/202105/04/AP6091271ce4b0c6fb6f679a2a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
