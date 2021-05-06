@@ -117,5 +117,6 @@
 - [** 美傳染病專家赴印度感染新冠去世　此前已注射兩針疫苗 -- 大公文匯](https://www.tkww.hk/a/202105/04/AP6091271ce4b0c6fb6f679a2a.html)  
 - [** 印度病毒太毒 美國傳染病專家接齊兩針輝瑞疫苗後赴印度 感染新冠去世 -- deepthroat](https://www.bastillepost.com/hongkong/article/8401951-%e5%8d%b0%e5%ba%a6%e7%97%85%e6%af%92%e5%a4%aa%e6%af%92-%e7%be%8e%e5%9c%8b%e5%82%b3%e6%9f%93%e7%97%85%e5%b0%88%e5%ae%b6%e6%8e%a5%e9%bd%8a%e5%85%a9%e9%87%9d%e8%bc%9d%e7%91%9e%e7%96%ab%e8%8b%97%e5%be%8c)  
 - [** 美国今年3月贸易逆差达744亿美元，创历史新高 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_12533328)  
+- [美國想借G7搞香港 想弄出一個「香港之友」組織 -- Ariel](https://www.bastillepost.com/hongkong/article/8406242-%e7%be%8e%e5%9c%8b%e6%83%b3%e5%80%9fg7%e6%90%9e%e9%a6%99%e6%b8%af-%e6%83%b3%e5%bc%84%e5%87%ba%e4%b8%80%e5%80%8b%e3%80%8c%e9%a6%99%e6%b8%af%e4%b9%8b%e5%8f%8b%e3%80%8d%e7%b5%84%e7%b9%94)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
