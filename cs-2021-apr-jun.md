@@ -120,5 +120,6 @@
 - [美國想借G7搞香港 想弄出一個「香港之友」組織 -- Ariel](https://www.bastillepost.com/hongkong/article/8406242-%e7%be%8e%e5%9c%8b%e6%83%b3%e5%80%9fg7%e6%90%9e%e9%a6%99%e6%b8%af-%e6%83%b3%e5%bc%84%e5%87%ba%e4%b8%80%e5%80%8b%e3%80%8c%e9%a6%99%e6%b8%af%e4%b9%8b%e5%8f%8b%e3%80%8d%e7%b5%84%e7%b9%94)  
 - [港版微信錢包已涵蓋逾百萬內地商戶　包括交通酒店等類別 -- 大公文匯](https://www.tkww.hk/a/202105/06/AP6093a243e4b0c6fb6f6878ca.html)  
 - [「报复性」吃瘦肉，小心「报复性」长胖！ -- 于康](https://mp.weixin.qq.com/s/t2TuTOiYtXb5Iof9RHGDVw?)  
+- [** 中國政府支持度爆燈 升至98% ! 加拿大高校大規模調查發現的事實 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8409383-%e4%b8%ad%e5%9c%8b%e6%94%bf%e5%ba%9c%e6%94%af%e6%8c%81%e5%ba%a6%e7%88%86%e7%87%88-%e5%8d%87%e8%87%b398-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e9%ab%98%e6%a0%a1%e5%a4%a7%e8%a6%8f%e6%a8%a1%e8%aa%bf%e6%9f%a5)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
