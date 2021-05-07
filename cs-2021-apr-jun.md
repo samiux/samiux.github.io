@@ -128,5 +128,6 @@
 - [一個大陸男人坐橡皮艇去台灣「投奔自由」為何台灣沒有大肆宣傳還要認錯？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/8406737-%e4%b8%80%e5%80%8b%e5%a4%a7%e9%99%b8%e7%94%b7%e4%ba%ba%e5%9d%90%e6%a9%a1%e7%9a%ae%e8%89%87%e5%8e%bb%e5%8f%b0%e7%81%a3%e3%80%8c%e6%8a%95%e5%a5%94%e8%87%aa%e7%94%b1%e3%80%8d%e7%82%ba%e4%bd%95%e5%8f%b0)  
 - [美國「國有化」台積電，解決汽車芯片荒，咁都得？ -- 深藍](https://www.bastillepost.com/hongkong/article/8410750-%e7%be%8e%e5%9c%8b%e3%80%8c%e5%9c%8b%e6%9c%89%e5%8c%96%e3%80%8d%e5%8f%b0%e7%a9%8d%e9%9b%bb%ef%bc%8c%e8%a7%a3%e6%b1%ba%e6%b1%bd%e8%bb%8a%e8%8a%af%e7%89%87%e8%8d%92%ef%bc%8c%e5%92%81%e9%83%bd%e5%be%97)  
 - [研究：BioNTech對英國及南非變種病毒有效率達89.5%和75% -- 巴士的報](https://www.bastillepost.com/hongkong/article/8411101-%e7%a0%94%e7%a9%b6%e6%8c%87biontech%e5%b0%8d%e8%8b%b1%e5%9c%8b%e5%8f%8a%e5%8d%97%e9%9d%9e%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e6%9c%89%e6%95%88%e7%8e%87%e9%81%9489-5%e5%92%8c75)  
+- [德国拒绝美国放弃新冠疫苗专利的提议 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_12549185)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
