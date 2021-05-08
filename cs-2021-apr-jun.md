@@ -134,5 +134,6 @@
 - [美國，當我們是狗？台積電繼大陸留學生，也中槍。 -- 深藍](https://www.bastillepost.com/hongkong/article/8417545-%e7%be%8e%e5%9c%8b%ef%bc%8c%e7%95%b6%e6%88%91%e5%80%91%e6%98%af%e7%8b%97%ef%bc%9f%e5%8f%b0%e7%a9%8d%e9%9b%bb%e7%b9%bc%e5%a4%a7%e9%99%b8%e7%95%99%e5%ad%b8%e7%94%9f%ef%bc%8c%e4%b9%9f%e4%b8%ad%e6%a7%8d)  
 - [發改委出重手 無限期暫停中澳戰略對話 高人話手法罕見 未來鬥爭會更嚴峻 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8415813-%e7%99%bc%e6%94%b9%e5%a7%94%e5%87%ba%e9%87%8d%e6%89%8b-%e7%84%a1%e9%99%90%e6%9c%9f%e6%9a%ab%e5%81%9c%e4%b8%ad%e6%be%b3%e6%88%b0%e7%95%a5%e5%b0%8d%e8%a9%b1-%e9%ab%98%e4%ba%ba%e8%a9%b1%e6%89%8b%e6%b3%95)  
 - [新加坡醫院群集爆發案例顯示 已接種疫苗仍有可能感染 但無一重症不用吸氧 -- deepthroat](https://www.bastillepost.com/hongkong/article/8413726-%e6%96%b0%e5%8a%a0%e5%9d%a1%e9%86%ab%e9%99%a2%e7%be%a4%e9%9b%86%e7%88%86%e7%99%bc%e6%a1%88%e4%be%8b%e9%a1%af%e7%a4%ba-%e5%b7%b2%e6%8e%a5%e7%a8%ae%e7%96%ab%e8%8b%97%e4%bb%8d%e6%9c%89%e5%8f%af%e8%83%bd)  
+- [巴西小城市測試全民打科興疫苗 感染率大減75% -- 巴士的報](https://www.bastillepost.com/hongkong/article/8422409-%e5%b7%b4%e8%a5%bf%e5%b0%8f%e5%9f%8e%e5%b8%82%e6%b8%ac%e8%a9%a6%e5%85%a8%e6%b0%91%e6%8e%a5%e7%a8%ae%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97-%e6%84%9f%e6%9f%93%e7%8e%87%e5%a4%a7%e6%b8%9b%e4%b8%83%e6%88%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
