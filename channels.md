@@ -148,6 +148,8 @@
 - [穗版「長者咭」　港人享同等待遇 -- 大公文匯](https://www.tkww.hk/a/202105/03/AP608f411fe4b0c6fb6f66e1a3.html)  
 - [中國政府支持度爆燈 升至98% ! 加拿大高校大規模調查發現的事實 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8409383-%e4%b8%ad%e5%9c%8b%e6%94%bf%e5%ba%9c%e6%94%af%e6%8c%81%e5%ba%a6%e7%88%86%e7%87%88-%e5%8d%87%e8%87%b398-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e9%ab%98%e6%a0%a1%e5%a4%a7%e8%a6%8f%e6%a8%a1%e8%aa%bf%e6%9f%a5)  
 - [屈穎妍講你知 - 這是一場訊息戰 -- 大公文匯](https://www.tkww.hk/a/202105/09/AP6097ee57e4b0c6fb6f69eb35.html)  
+- [「祖沖之號」問世　量子技術領先全球 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP60987ac7e4b0c6fb6f6a07a9.html)  
+- [袁隆平超級雜交稻測產：「超優千號」平均畝產上千公斤 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP6099050fe4b0c6fb6f6a45b0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
