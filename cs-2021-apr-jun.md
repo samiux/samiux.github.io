@@ -138,5 +138,8 @@
 - [巴西小城市測試全民打科興疫苗 感染率大減75% -- 巴士的報](https://www.bastillepost.com/hongkong/article/8422409-%e5%b7%b4%e8%a5%bf%e5%b0%8f%e5%9f%8e%e5%b8%82%e6%b8%ac%e8%a9%a6%e5%85%a8%e6%b0%91%e6%8e%a5%e7%a8%ae%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97-%e6%84%9f%e6%9f%93%e7%8e%87%e5%a4%a7%e6%b8%9b%e4%b8%83%e6%88%90)  
 - [“通用”冠状病毒疫苗研究取得进展，有望对抗变异新冠病毒 -- 澎湃新闻](https://m.thepaper.cn/newsDetail_forward_12576303)  
 - [** 屈穎妍講你知 - 這是一場訊息戰 -- 大公文匯](https://www.tkww.hk/a/202105/09/AP6097ee57e4b0c6fb6f69eb35.html)  
+- [** 康復者：勿低估後遺症　及早打針 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP6098764fe4b0c6fb6f6a0597.html)  
+- [美國因為燃油管道公司被黑客入侵 宣佈進入緊急狀態 突顯美國基建的脆弱性 -- deepthroat](https://www.bastillepost.com/hongkong/article/8428568-%e7%be%8e%e5%9c%8b%e5%9b%a0%e7%82%ba%e7%87%83%e6%b2%b9%e7%ae%a1%e9%81%93%e5%85%ac%e5%8f%b8%e8%a2%ab%e9%bb%91%e5%ae%a2%e5%85%a5%e4%be%b5-%e5%ae%a3%e4%bd%88%e9%80%b2%e5%85%a5%e7%b7%8a%e6%80%a5%e7%8b%80)  
+- [世衛批准國藥疫苗原因全面睇 印度斷供 只能靠中國 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8427695-%e4%b8%96%e8%a1%9b%e6%89%b9%e5%87%86%e5%9c%8b%e8%97%a5%e5%8e%9f%e5%9b%a0%e5%85%a8%e9%9d%a2%e7%9d%87-%e5%8d%b0%e5%ba%a6%e6%96%b7%e4%be%9b-%e5%8f%aa%e8%83%bd%e9%9d%a0%e4%b8%ad%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
