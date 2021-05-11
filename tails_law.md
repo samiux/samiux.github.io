@@ -17,5 +17,6 @@ OSCE  OSCP  OSWP
 - [How Malicious Tor Relays are Exploiting Users in 2020 (Part I)](https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac)  
 - [Hackers steal Bitcoin through large-scale exploit on Tor: report -- Decrypt.co](https://decrypt.co/38359/hackers-stealing-bitcoin-tor-exploit) 
 - [Tor 0day Finding IP Addresses -- The Hacker Factor Blog](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)  
+- [Over 25% Of Tor Exit Relays Spied On Users' Dark Web Activities -- The Hacker News](https://thehackernews.com/2021/05/over-25-of-tor-exit-relays-are-spying.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
