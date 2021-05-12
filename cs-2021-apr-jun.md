@@ -151,5 +151,7 @@
 - [Is it still a good idea to require users to change their passwords? -- The Hacker News](https://thehackernews.com/2021/05/is-it-still-good-idea-to-require-users.html)  
 - [一瓶疫苗的誕生 -- 大公文匯](https://www.tkww.hk/a/202105/11/AP609a3b88e4b0c6fb6f6aa617.html)  
 - [歐洲議員：中國大部分「人類進步指標」都超越我們 -- 大公文匯](https://www.tkww.hk/a/202105/11/AP6099d715e4b0c6fb6f6a7993.html)  
+- [** 印尼研究：科興疫苗可百分百預防死亡 -- 大公文匯](https://www.tkww.hk/a/202105/12/AP609ba2a7e4b0c6fb6f6b216b.html)  
+- [美國前資深外交官傅立民警告：華盛頓正在打一場注定會輸的對華比賽 -- deepthroat](https://www.bastillepost.com/hongkong/article/8440527-%e7%be%8e%e5%9c%8b%e5%89%8d%e8%b3%87%e6%b7%b1%e5%a4%96%e4%ba%a4%e5%ae%98%e5%82%85%e7%ab%8b%e6%b0%91%e8%ad%a6%e5%91%8a%ef%bc%9a%e8%8f%af%e7%9b%9b%e9%a0%93%e6%ad%a3%e5%9c%a8%e6%89%93%e4%b8%80%e5%a0%b4)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
