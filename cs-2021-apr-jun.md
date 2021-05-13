@@ -156,5 +156,8 @@
 - [北上廣地鐵APP互聯　一碼通行 -- 大公文匯](https://www.tkww.hk/a/202105/13/AP609c7a12e4b0ba938668f1a4.html)  
 - [印尼醫護打科興　94%免感染 -- 大公文匯](https://www.tkww.hk/a/202105/13/AP609c6d13e4b0ba938668e9dc.html)  
 - [黑客攻擊事件影響持續　美國東南部現供油短缺 -- 大公文匯](https://www.tkww.hk/a/202105/13/AP609c9196e4b0ba938668fc22.html)  
+- [國藥集團董事長：國藥疫苗成全球使用最廣泛新冠疫苗 -- 大公文匯](https://www.tkww.hk/a/202105/13/AP609ceacde4b0ba9386691ebc.html)  
+- [美媒: 科興疫苗在現實世界「高度有效」 對印尼醫護保護率94% -- 毛拍手](https://www.bastillepost.com/hongkong/article/8450103-%e7%be%8e%e5%aa%92-%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97%e5%9c%a8%e7%8f%be%e5%af%a6%e4%b8%96%e7%95%8c%e3%80%8c%e9%ab%98%e5%ba%a6%e6%9c%89%e6%95%88%e3%80%8d-%e5%b0%8d%e5%8d%b0%e5%b0%bc%e9%86%ab)  
+- [中美競爭︰美國民主已經落後，科學技術也必輸無疑 -- 深藍](https://www.bastillepost.com/hongkong/article/8450794-%e4%b8%ad%e7%be%8e%e7%ab%b6%e7%88%ad%ef%b8%b0%e7%be%8e%e5%9c%8b%e6%b0%91%e4%b8%bb%e5%b7%b2%e7%b6%93%e8%90%bd%e5%be%8c%ef%bc%8c%e7%a7%91%e5%ad%b8%e6%8a%80%e8%a1%93%e4%b9%9f%e5%bf%85%e8%bc%b8%e7%84%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
