@@ -159,5 +159,7 @@
 - [國藥集團董事長：國藥疫苗成全球使用最廣泛新冠疫苗 -- 大公文匯](https://www.tkww.hk/a/202105/13/AP609ceacde4b0ba9386691ebc.html)  
 - [美媒: 科興疫苗在現實世界「高度有效」 對印尼醫護保護率94% -- 毛拍手](https://www.bastillepost.com/hongkong/article/8450103-%e7%be%8e%e5%aa%92-%e7%a7%91%e8%88%88%e7%96%ab%e8%8b%97%e5%9c%a8%e7%8f%be%e5%af%a6%e4%b8%96%e7%95%8c%e3%80%8c%e9%ab%98%e5%ba%a6%e6%9c%89%e6%95%88%e3%80%8d-%e5%b0%8d%e5%8d%b0%e5%b0%bc%e9%86%ab)  
 - [中美競爭︰美國民主已經落後，科學技術也必輸無疑 -- 深藍](https://www.bastillepost.com/hongkong/article/8450794-%e4%b8%ad%e7%be%8e%e7%ab%b6%e7%88%ad%ef%b8%b0%e7%be%8e%e5%9c%8b%e6%b0%91%e4%b8%bb%e5%b7%b2%e7%b6%93%e8%90%bd%e5%be%8c%ef%bc%8c%e7%a7%91%e5%ad%b8%e6%8a%80%e8%a1%93%e4%b9%9f%e5%bf%85%e8%bc%b8%e7%84%a1)  
+- [台積電被美國「國有化」，台灣牌也打完了！ -- 深藍](https://www.bastillepost.com/hongkong/article/8478426-%e5%8f%b0%e7%a9%8d%e9%9b%bb%e8%a2%ab%e7%be%8e%e5%9c%8b%e3%80%8c%e5%9c%8b%e6%9c%89%e5%8c%96%e3%80%8d%ef%bc%8c%e5%8f%b0%e7%81%a3%e7%89%8c%e4%b9%9f%e6%89%93%e5%ae%8c%e4%ba%86%ef%bc%81)  
+- [王毅聯合國安理會出招後 美國務卿口氣變硬：尚未看到以色列為炸加沙媒體大樓提供證據 -- deepthroat](https://www.bastillepost.com/hongkong/article/8475510-%e7%8e%8b%e6%af%85%e8%81%af%e5%90%88%e5%9c%8b%e5%ae%89%e7%90%86%e6%9c%83%e5%87%ba%e6%8b%9b%e5%be%8c-%e7%be%8e%e5%9c%8b%e5%8b%99%e5%8d%bf%e5%8f%a3%e6%b0%a3%e8%ae%8a%e7%a1%ac%ef%bc%9a%e5%b0%9a%e6%9c%aa)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
