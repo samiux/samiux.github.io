@@ -150,6 +150,7 @@
 - [屈穎妍講你知 - 這是一場訊息戰 -- 大公文匯](https://www.tkww.hk/a/202105/09/AP6097ee57e4b0c6fb6f69eb35.html)  
 - [「祖沖之號」問世　量子技術領先全球 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP60987ac7e4b0c6fb6f6a07a9.html)  
 - [袁隆平超級雜交稻測產：「超優千號」平均畝產上千公斤 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP6099050fe4b0c6fb6f6a45b0.html)  
+- [中疾控：我國現有的疫苗可應對印度變異株 -- 大公文匯](https://www.tkww.hk/a/202105/20/AP60a65f60e4b0ba93866c6dca.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
