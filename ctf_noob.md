@@ -28,8 +28,7 @@
 
 ### 基本工具可供利用 ：
 - Burp Suite
-- NMap
-- goBuster
+- GoBuster
 
 ### 涉猎渗透测试相关知识 ：
 - OWASP Top 10
@@ -44,7 +43,8 @@
 
 ### 基本工具可供利用 ：
 - GDB
-- IDA
+- Ghidra
+- Radare2
 
 ### 涉猎渗透测试相关知识 ：
 - 栈溢出 (Buffer Overflow)
