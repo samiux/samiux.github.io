@@ -164,5 +164,7 @@
 - [** 中疾控：我國現有的疫苗可應對印度變異株 -- 大公文匯](https://www.tkww.hk/a/202105/20/AP60a65f60e4b0ba93866c6dca.html)  
 - [** 罪證曝光！美僱港千名大學生　當暴亂「白老鼠」 -- 大公文匯](https://www.tkww.hk/a/202106/03/AP60b81a82e4b0c7e5bebf79c2.html)  
 - [** 屈穎妍講你知 - 撲克臉的官 -- 大公文匯](https://www.tkww.hk/a/202106/03/AP60b88054e4b0c7e5bebfb647.html)  
+- [** 陳薇：霧化吸入式新冠疫苗正在申請緊急使用 -- 大公文匯](https://www.tkww.hk/a/202106/04/AP60b9a1b4e4b0c7e5bec03f93.html)  
+- [內地正在申請緊急使用一款吸入式新冠疫苗 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8567864-%e5%85%a7%e5%9c%b0%e6%ad%a3%e5%9c%a8%e7%94%b3%e8%ab%8b%e7%b7%8a%e6%80%a5%e4%bd%bf%e7%94%a8%e4%b8%80%e6%ac%be%e5%90%b8%e5%85%a5%e5%bc%8f%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
