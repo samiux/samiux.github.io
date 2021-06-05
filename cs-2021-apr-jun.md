@@ -170,5 +170,8 @@
 - [美國發起對華全面競爭？請先重溫李光耀當年一段話 -- 深藍](https://www.bastillepost.com/hongkong/article/8572093-%e7%be%8e%e5%9c%8b%e7%99%bc%e8%b5%b7%e5%b0%8d%e8%8f%af%e5%85%a8%e9%9d%a2%e7%ab%b6%e7%88%ad%ef%bc%9f%e8%ab%8b%e5%85%88%e9%87%8d%e6%ba%ab%e6%9d%8e%e5%85%89%e8%80%80%e7%95%b6%e5%b9%b4%e4%b8%80%e6%ae%b5)  
 - [元首會晤前 普京插一刀 美國想聯俄制中 慘被抽水 -- deepthroat](https://www.bastillepost.com/hongkong/article/8571150-%e5%85%83%e9%a6%96%e6%9c%83%e6%99%a4%e5%89%8d-%e6%99%ae%e4%ba%ac%e6%8f%92%e4%b8%80%e5%88%80-%e7%be%8e%e5%9c%8b%e6%83%b3%e8%81%af%e4%bf%84%e5%88%b6%e4%b8%ad-%e6%85%98%e8%a2%ab%e6%8a%bd%e6%b0%b4)  
 - [中國部署重開國門 張文宏希望2022年做到 國家衛健委人士：可局部試點 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8568253-%e4%b8%ad%e5%9c%8b%e9%83%a8%e7%bd%b2%e9%87%8d%e9%96%8b%e5%9c%8b%e9%96%80-%e5%bc%b5%e6%96%87%e5%ae%8f%e5%b8%8c%e6%9c%9b2022%e5%b9%b4%e5%81%9a%e5%88%b0-%e5%9c%8b%e5%ae%b6%e8%a1%9b%e5%81%a5%e5%a7%94)  
+- [** 「吸一吸」疫苗　老幼咸宜更安全 -- 大公文匯](https://www.tkww.hk/a/202106/05/AP60bacb72e4b0c7e5bec0bece.html)  
+- [** 科興：已獲批疫苗緊急使用年齡擴大至3歲以上 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8573906-%e7%a7%91%e8%88%88%e6%8c%87%e5%b7%b2%e7%8d%b2%e6%89%b9%e7%96%ab%e8%8b%97%e7%b7%8a%e6%80%a5%e4%bd%bf%e7%94%a8%e5%b9%b4%e9%bd%a1%e6%93%b4%e5%a4%a7%e8%87%b33%e6%ad%b2%e4%bb%a5%e4%b8%8a)  
+- [華盛頓加碼制裁中企 《環球時報》:打不趴中國科技 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8574625-%e8%8f%af%e7%9b%9b%e9%a0%93%e5%8a%a0%e7%a2%bc%e5%88%b6%e8%a3%81%e4%b8%ad%e4%bc%81-%e3%80%8a%e7%92%b0%e7%90%83%e6%99%82%e5%a0%b1%e3%80%8b%e6%89%93%e4%b8%8d%e8%b6%b4%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
