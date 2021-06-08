@@ -178,5 +178,6 @@
 - [那個突然關閉的德特里克堡　究竟幹了什麼? -- 大公文匯](https://www.tkww.hk/a/202106/08/AP60bf5efde4b0c7e5bec27c0f.html)  
 - [美國情報機關「撒謊、欺騙、偷竊」的黑歷史揭秘 -- 大公文匯](https://www.tkww.hk/a/202106/08/AP60beceffe4b0c7e5bec23b11.html)  
 - [拜登幾時派員也來調查華為的「鴻蒙」？ -- 深藍](https://www.bastillepost.com/hongkong/article/8591766-%e6%8b%9c%e7%99%bb%e5%b9%be%e6%99%82%e6%b4%be%e5%93%a1%e4%b9%9f%e4%be%86%e8%aa%bf%e6%9f%a5%e8%8f%af%e7%82%ba%e7%9a%84%e3%80%8c%e9%b4%bb%e8%92%99%e3%80%8d%ef%bc%9f)  
+- [** 屈穎妍講你知 - 我們跟大屠殺擦身而過 -- 大公文匯](https://www.tkww.hk/a/202106/07/AP60bdf8d7e4b0c7e5bec1f89c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
