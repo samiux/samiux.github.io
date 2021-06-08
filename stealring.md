@@ -46,5 +46,6 @@ OSCE  OSCP  OSWP
 - [以網名「金正恩」籲圍新屋嶺 地盤工煽惑非法集結等2罪成 -- 巴士的報](https://www.bastillepost.com/hongkong/article/7326176-%e4%bb%a5%e7%b6%b2%e5%90%8d%e3%80%8c%e9%87%91%e6%ad%a3%e6%81%a9%e3%80%8d%e7%b1%b2%e5%9c%8d%e6%96%b0%e5%b1%8b%e5%b6%ba-%e5%9c%b0%e7%9b%a4%e5%b7%a5%e7%85%bd%e6%83%91%e9%9d%9e%e6%b3%95%e9%9b%86%e7%b5%90)  
 - [涉網上鼓吹衝警總殺管理層　50歲中年漢被捕 -- 大公文匯](https://www.tkww.hk/a/202012/08/AP5fcf0875e4b05fd5771f1762.html)  
 - [Over 25% Of Tor Exit Relays Spied On Users' Dark Web Activities -- The Hacker News](https://thehackernews.com/2021/05/over-25-of-tor-exit-relays-are-spying.html)  
+- [美國殖民管道公司遭黑客襲擊 司法部起回部分比特幣贖金 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8589435-%e7%be%8e%e5%9c%8b%e6%ae%96%e6%b0%91%e7%ae%a1%e9%81%93%e5%85%ac%e5%8f%b8%e9%81%ad%e9%bb%91%e5%ae%a2%e8%a5%b2%e6%93%8a-%e5%8f%b8%e6%b3%95%e9%83%a8%e8%b5%b7%e5%9b%9e%e9%83%a8%e5%88%86%e6%af%94%e7%89%b9?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
