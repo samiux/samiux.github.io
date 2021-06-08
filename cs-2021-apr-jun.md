@@ -175,5 +175,8 @@
 - [華盛頓加碼制裁中企 《環球時報》:打不趴中國科技 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8574625-%e8%8f%af%e7%9b%9b%e9%a0%93%e5%8a%a0%e7%a2%bc%e5%88%b6%e8%a3%81%e4%b8%ad%e4%bc%81-%e3%80%8a%e7%92%b0%e7%90%83%e6%99%82%e5%a0%b1%e3%80%8b%e6%89%93%e4%b8%8d%e8%b6%b4%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80)  
 - [** 鴻蒙︰習近平的「奔雷手」出場了 -- 深藍](https://www.bastillepost.com/hongkong/article/8585454-%e9%b4%bb%e8%92%99%ef%b8%b0%e7%bf%92%e8%bf%91%e5%b9%b3%e7%9a%84%e3%80%8c%e5%a5%94%e9%9b%b7%e6%89%8b%e3%80%8d%e5%87%ba%e5%a0%b4%e4%ba%86)  
 - [匈牙利兩個月內3次「一票否決」歐盟涉港聲明 匈牙利總理：投100次也是一樣 -- Ariel](https://www.bastillepost.com/hongkong/article/8589981-%e5%8c%88%e7%89%99%e5%88%a9%e5%85%a9%e5%80%8b%e6%9c%88%e5%85%a73%e6%ac%a1%e3%80%8c%e4%b8%80%e7%a5%a8%e5%90%a6%e6%b1%ba%e3%80%8d%e6%ad%90%e7%9b%9f%e6%b6%89%e6%b8%af%e8%81%b2%e6%98%8e-%e5%8c%88%e7%89%99)  
+- [那個突然關閉的德特里克堡　究竟幹了什麼? -- 大公文匯](https://www.tkww.hk/a/202106/08/AP60bf5efde4b0c7e5bec27c0f.html)  
+- [美國情報機關「撒謊、欺騙、偷竊」的黑歷史揭秘 -- 大公文匯](https://www.tkww.hk/a/202106/08/AP60beceffe4b0c7e5bec23b11.html)  
+- [拜登幾時派員也來調查華為的「鴻蒙」？ -- 深藍](https://www.bastillepost.com/hongkong/article/8591766-%e6%8b%9c%e7%99%bb%e5%b9%be%e6%99%82%e6%b4%be%e5%93%a1%e4%b9%9f%e4%be%86%e8%aa%bf%e6%9f%a5%e8%8f%af%e7%82%ba%e7%9a%84%e3%80%8c%e9%b4%bb%e8%92%99%e3%80%8d%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
