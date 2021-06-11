@@ -27,7 +27,7 @@
 - [夺旗赛 (CTF) 入门](/ctf_noob.md)
 - [夺旗赛 (CTF) 入门 (二)](/ctf_noob_2.md)
 - [夺旗赛 (CTF) 入门 (三)](/ctf_noob_3.md)
-- [Exploit Development (PWN) Resources](/pwn-resources)
+- [Exploit Development (PWN) Resources](/pwn-resources.md)
 - [深入解读《中华人民共和国网络安全法》](http://gdee.gd.gov.cn/wlaq/content/post_2717276.html)
 - [中華人民共和國網絡安全法精選](/cyber-law-china.md)
 - [中華人民共和國网络安全审查办法](https://mp.weixin.qq.com/s/ysFmyM9XRdLnygEgEi7ERQ)
