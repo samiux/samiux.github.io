@@ -12,8 +12,8 @@
 
 - [憲法及《基本法》全文](/basic_law.md)  
 - [电子版香港法例](https://www.elegislation.gov.hk/)  
-- [《反外國制裁法》生效 16條文確立採取反制行動機制 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8604531-%e3%80%8a%e5%8f%8d%e5%a4%96%e5%9c%8b%e5%88%b6%e8%a3%81%e6%b3%95%e3%80%8b%e5%85%b116%e6%a2%9d%e6%96%87-%e7%a2%ba%e7%ab%8b%e6%8e%a1%e5%8f%96%e5%8f%8d%e5%88%b6%e8%a1%8c%e5%8b%95%e6%a9%9f%e5%88%b6)  
-- [（附全文）最新！《数据安全法》表决通过，9月1日起施行 -- FreeBuf](https://www.freebuf.com/news/277111.html)  
+- [《反外國制裁法》-- 巴士的報](https://www.bastillepost.com/hongkong/article/8604531-%e3%80%8a%e5%8f%8d%e5%a4%96%e5%9c%8b%e5%88%b6%e8%a3%81%e6%b3%95%e3%80%8b%e5%85%b116%e6%a2%9d%e6%96%87-%e7%a2%ba%e7%ab%8b%e6%8e%a1%e5%8f%96%e5%8f%8d%e5%88%b6%e8%a1%8c%e5%8b%95%e6%a9%9f%e5%88%b6)  
+- [《数据安全法》-- FreeBuf](https://www.freebuf.com/news/277111.html)  
 
 ### Common Sense
 
