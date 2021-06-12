@@ -17,7 +17,7 @@ Furthermore, some CTF PWN challenges are all hardening features enabled.  You ne
 - [GNU Debugger (GDB)](https://www.gnu.org/software/gdb/)  
 - [GDB Enhanced Features (GEF)](https://github.com/hugsy/gef)  
 - [Ghidra](https://ghidra-sre.org/)  
-- [Radare2](https://github.com/radareorg/radare2)  
+- [Radare2](https://www.radare.org/n/)  
 - [pwntools](https://github.com/Gallopsled/pwntools)  
 
 ## Capture The Flag (CTF)
