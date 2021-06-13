@@ -28,6 +28,7 @@
 
 ## Hong Kong
 
+- [駱惠寧發表主旨演講：百年偉業的「香江篇章」（全片） -- 大公文匯](https://www.tkww.hk/a/202106/12/AP60c44d3fe4b0c7e5bec41c61.html)  
 - [時事觀察](http://www.singtao.tv/main/category/newsreport/situation/)  
 - [Sun Channel - 年輕企業家Lorey Chan主持《十分鐘 讀好書》中文字幕](https://www.youtube.com/channel/UCkx8tfePUl__VGvNDNOKqRw)  
 - [有聲專欄 -- Speakout 港人講地](https://www.youtube.com/playlist?list=PL50ryNxlMBN5kwOJ_DvTeNXhBrQRbm9N6)  
