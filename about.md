@@ -51,8 +51,7 @@ He can be reached at :
 
 His Capture The Flag (CTF) Jeopardy challenges are :  
 - Pwn (Lovin' it)    
-- RE (Like it)  
-- Web (Interested in)  
+- RE (Interested in it)  
 
 ## **Reference**
 
