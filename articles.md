@@ -73,5 +73,8 @@
 - [华为天际通 -- 华为官网](https://consumer.huawei.com/cn/mobileservices/skytone/)  
 - [华为天际通](http://skytone.vmall.com/index.html)  
 - [Universal Leet Converter](http://www.robertecker.com/hp/research/leet-converter.php?lang=en)  
+- [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
+- [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
