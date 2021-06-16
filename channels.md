@@ -154,6 +154,7 @@
 - [袁隆平超級雜交稻測產：「超優千號」平均畝產上千公斤 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP6099050fe4b0c6fb6f6a45b0.html)  
 - [中疾控：我國現有的疫苗可應對印度變異株 -- 大公文匯](https://www.tkww.hk/a/202105/20/AP60a65f60e4b0ba93866c6dca.html)  
 - [屈穎妍講你知 - 我們跟大屠殺擦身而過 -- 大公文匯](https://www.tkww.hk/a/202106/07/AP60bdf8d7e4b0c7e5bec1f89c.html)  
+- [最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
