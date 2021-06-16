@@ -185,5 +185,6 @@
 - [駱惠寧發言有3問 3個相關感受值得細味 -- Ariel](https://www.bastillepost.com/hongkong/article/8612938-%e9%a7%b1%e6%83%a0%e5%af%a7%e7%99%bc%e8%a8%80%e6%9c%893%e5%95%8f-3%e5%80%8b%e7%9b%b8%e9%97%9c%e6%84%9f%e5%8f%97%e5%80%bc%e5%be%97%e7%b4%b0%e5%91%b3)  
 - [免隔離！中國疫苗成多國通關「通行證」 -- 大公文匯](https://www.tkww.hk/a/202106/15/AP60c85c7ae4b0c7e5bec565a1.html)  
 - [** 獨家 - 西方資助香港暴力示威真相：「顏色革命、搜集數據、分析本地青年」-- 大公文匯](https://www.tkww.hk/a/202106/15/AP60c8775ae4b0c7e5bec57088.html)  
+- [** 最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
