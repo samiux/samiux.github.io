@@ -43,7 +43,6 @@ He can be reached at :
 - [CyberSecurity Ninjas](https://samiux.github.io) 
 - [Gitee](https://gitee.com/samiux)  
 - [GitHub](https://github.com/samiux)  
-- IRC - freenode #infosec-ninjas (SSL with Port 6697)
 - [ImaginaryCTF (Discord Server)](https://discord.gg/vReKWNxPuE)  
 - [picoCTF (Discord Server)](https://discord.gg/WQGdYaB)  
 - [GEF (Discord Server)](https://discord.gg/HCS8Hg7)  
