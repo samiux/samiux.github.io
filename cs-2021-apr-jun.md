@@ -186,5 +186,6 @@
 - [免隔離！中國疫苗成多國通關「通行證」 -- 大公文匯](https://www.tkww.hk/a/202106/15/AP60c85c7ae4b0c7e5bec565a1.html)  
 - [** 獨家 - 西方資助香港暴力示威真相：「顏色革命、搜集數據、分析本地青年」-- 大公文匯](https://www.tkww.hk/a/202106/15/AP60c8775ae4b0c7e5bec57088.html)  
 - [** 最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
+- [** 我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
