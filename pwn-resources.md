@@ -4,7 +4,7 @@
 
 You may have a lot of fun in exploit development for Executable and Linkable Format (ELF) binary in Linux.  There are several protection features for ELF binary, they are Relocation Read-Only (RELRO), Canary, No-eXecute (NX) and Position-Independent Executable (PIE).  They are hardening features for the ELF binary in order to prevent it from being exploited.  Once the ELF exploited, the attacker can port a shell that can access the system freely.  However, those features may be bypassed in certain situations.
 
-You should have knownledge in C, (or C++), Python and assemble programming languages for doing exploit development.  Meanwhile, you should also have knownledge in some tools, such as GNU Debugger (GDB), GDB Enhanced Features (GEF), Ghidra, Radare2 and PwnTools.
+You should have knownledge in C, (or C++), Python and assemble programming languages for doing exploit development.  Meanwhile, you should also have knownledge in some tools, such as GNU Debugger (GDB), pwndbg, Ghidra, Radare2 and PwnTools.
 
 You may very hard to find a career, job or post in exploit development in Hong Kong, China.  Therefore, only a few people in Hong Kong may be interested in this skill.  If you want to spend some time in this area, think it carefully!
 
@@ -15,7 +15,7 @@ Furthermore, some CTF PWN challenges are all hardening features enabled.  You ne
 ## Tools
 - [Ubuntu Desktop](https://ubuntu.com/download/desktop)  
 - [GNU Debugger (GDB)](https://www.gnu.org/software/gdb/)  
-- [GDB Enhanced Features (GEF)](https://github.com/hugsy/gef)  
+- [pwndbg](https://github.com/pwndbg/pwndbg)  
 - [Ghidra](https://ghidra-sre.org/)  
 - [Radare2](https://www.radare.org/n/)  
 - [pwntools](https://github.com/Gallopsled/pwntools)  
