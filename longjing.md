@@ -2,6 +2,8 @@
 
 # **Longjing 龙井 - Deep Learning Driven Web Application Firewall**
 
+## DISCONTINUED - Deprecated
+
 Longjing is Chinese green tea with a lot of antioxiants which can prevent you from getting cancer. Longjing Web Application Firewall (WAF) is deep learning driven by Python Scikit-Learn Library.  It is not designed for very high performance.  However, it is ideal for personal to small business web sites.
 
 Longjing WAF is designed for any web server and any web application to block malicious web traffic, such as SQL Injection.
