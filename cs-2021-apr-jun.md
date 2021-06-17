@@ -187,5 +187,6 @@
 - [** 獨家 - 西方資助香港暴力示威真相：「顏色革命、搜集數據、分析本地青年」-- 大公文匯](https://www.tkww.hk/a/202106/15/AP60c8775ae4b0c7e5bec57088.html)  
 - [** 最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
 - [** 我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
+- [** 加拿大移民局警告聯邦政府 「不要認為那些被指控的香港人是無辜的」 -- Ariel](https://www.bastillepost.com/hongkong/article/8637610-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e7%a7%bb%e6%b0%91%e5%b1%80%e8%ad%a6%e5%91%8a%e8%81%af%e9%82%a6%e6%94%bf%e5%ba%9c-%e3%80%8c%e4%b8%8d%e8%a6%81%e8%aa%8d%e7%82%ba%e9%82%a3%e4%ba%9b%e8%a2%ab%e6%8c%87%e6%8e%a7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
