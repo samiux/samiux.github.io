@@ -2,6 +2,8 @@
 
 # **Chameleon 变色龙 - Website IP Address Seeker**
 
+## DISCONTINUED - Deprecated
+
 ## Introduction
 
 Chameleon is designed for seeking IP address of a target website with a searchable string in a given IP range.
