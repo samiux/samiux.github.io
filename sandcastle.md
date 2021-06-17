@@ -2,6 +2,8 @@
 
 # **Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration**
 
+## DISCONTINUED - Deprecated
+
 ## What is Amazon S3?
 
 Amazon Simple Storage Service is storage for the Internet. It is designed to make web-scale computing easier for developers.
