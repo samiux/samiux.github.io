@@ -192,5 +192,6 @@
 - [【懶人包】$5000消費券登記手續及發放時間一帖睇 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8645360-%e3%80%90%e6%87%b6%e4%ba%ba%e5%8c%85%e3%80%915000%e6%b6%88%e8%b2%bb%e5%88%b8%e7%99%bb%e8%a8%98%e6%89%8b%e7%ba%8c%e5%8f%8a%e7%99%bc%e6%94%be%e6%99%82%e9%96%93%e4%b8%80%e5%b8%96%e7%9d%87)  
 - [消費券一石三鳥 力谷電子支付 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8646604-%e6%b6%88%e8%b2%bb%e5%88%b8%e4%b8%80%e7%9f%b3%e4%b8%89%e9%b3%a5-%e5%8a%9b%e8%b0%b7%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98)  
 - [財爺公佈消費券計劃詳情 登記及使用方法一文睇晒 -- Sebastian](https://www.bastillepost.com/hongkong/article/8645771-%e8%b2%a1%e7%88%ba%e5%85%ac%e4%bd%88%e6%b6%88%e8%b2%bb%e5%88%b8%e8%a8%88%e5%8a%83%e8%a9%b3%e6%83%85-%e7%99%bb%e8%a8%98%e5%8f%8a%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95%e4%b8%80%e6%96%87%e7%9d%87%e6%99%92)  
+- [電子消費券】僅八達通分 3 期收錢 登記八達通領消費券 8 大注意事項 -- ezone](https://ezone.ulifestyle.com.hk/article/2985719/%E3%80%90%E9%9B%BB%E5%AD%90%E6%B6%88%E8%B2%BB%E5%88%B8%E3%80%91%E5%83%85%E5%85%AB%E9%81%94%E9%80%9A%E5%88%86%203%20%E6%9C%9F%E6%94%B6%E9%8C%A2%20%E7%99%BB%E8%A8%98%E5%85%AB%E9%81%94%E9%80%9A%E9%A0%98%E6%B6%88%E8%B2%BB%E5%88%B8%208%20%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
