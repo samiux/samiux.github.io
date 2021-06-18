@@ -189,5 +189,8 @@
 - [** 我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
 - [** 加拿大移民局警告聯邦政府 「不要認為那些被指控的香港人是無辜的」 -- Ariel](https://www.bastillepost.com/hongkong/article/8637610-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e7%a7%bb%e6%b0%91%e5%b1%80%e8%ad%a6%e5%91%8a%e8%81%af%e9%82%a6%e6%94%bf%e5%ba%9c-%e3%80%8c%e4%b8%8d%e8%a6%81%e8%aa%8d%e7%82%ba%e9%82%a3%e4%ba%9b%e8%a2%ab%e6%8c%87%e6%8e%a7)  
 - [** 擇一事 專一業 遇一人 譯一生 -- 大公文匯](https://www.tkww.hk/a/202106/18/AP60cbea95e4b0c7e5bec6bc83.html)  
+- [【懶人包】$5000消費券登記手續及發放時間一帖睇 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8645360-%e3%80%90%e6%87%b6%e4%ba%ba%e5%8c%85%e3%80%915000%e6%b6%88%e8%b2%bb%e5%88%b8%e7%99%bb%e8%a8%98%e6%89%8b%e7%ba%8c%e5%8f%8a%e7%99%bc%e6%94%be%e6%99%82%e9%96%93%e4%b8%80%e5%b8%96%e7%9d%87)  
+- [消費券一石三鳥 力谷電子支付 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8646604-%e6%b6%88%e8%b2%bb%e5%88%b8%e4%b8%80%e7%9f%b3%e4%b8%89%e9%b3%a5-%e5%8a%9b%e8%b0%b7%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98)  
+- [財爺公佈消費券計劃詳情 登記及使用方法一文睇晒 -- Sebastian](https://www.bastillepost.com/hongkong/article/8645771-%e8%b2%a1%e7%88%ba%e5%85%ac%e4%bd%88%e6%b6%88%e8%b2%bb%e5%88%b8%e8%a8%88%e5%8a%83%e8%a9%b3%e6%83%85-%e7%99%bb%e8%a8%98%e5%8f%8a%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95%e4%b8%80%e6%96%87%e7%9d%87%e6%99%92)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
