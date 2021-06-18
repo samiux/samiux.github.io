@@ -156,6 +156,7 @@
 - [屈穎妍講你知 - 我們跟大屠殺擦身而過 -- 大公文匯](https://www.tkww.hk/a/202106/07/AP60bdf8d7e4b0c7e5bec1f89c.html)  
 - [最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
 - [我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
+- [擇一事 專一業 遇一人 譯一生 -- 大公文匯](https://www.tkww.hk/a/202106/18/AP60cbea95e4b0c7e5bec6bc83.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
