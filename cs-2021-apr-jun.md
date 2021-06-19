@@ -193,5 +193,9 @@
 - [消費券一石三鳥 力谷電子支付 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8646604-%e6%b6%88%e8%b2%bb%e5%88%b8%e4%b8%80%e7%9f%b3%e4%b8%89%e9%b3%a5-%e5%8a%9b%e8%b0%b7%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98)  
 - [財爺公佈消費券計劃詳情 登記及使用方法一文睇晒 -- Sebastian](https://www.bastillepost.com/hongkong/article/8645771-%e8%b2%a1%e7%88%ba%e5%85%ac%e4%bd%88%e6%b6%88%e8%b2%bb%e5%88%b8%e8%a8%88%e5%8a%83%e8%a9%b3%e6%83%85-%e7%99%bb%e8%a8%98%e5%8f%8a%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95%e4%b8%80%e6%96%87%e7%9d%87%e6%99%92)  
 - [【電子消費券】僅八達通分 3 期收錢 登記八達通領消費券 8 大注意事項 -- ezone](https://ezone.ulifestyle.com.hk/article/2985719/%E3%80%90%E9%9B%BB%E5%AD%90%E6%B6%88%E8%B2%BB%E5%88%B8%E3%80%91%E5%83%85%E5%85%AB%E9%81%94%E9%80%9A%E5%88%86%203%20%E6%9C%9F%E6%94%B6%E9%8C%A2%20%E7%99%BB%E8%A8%98%E5%85%AB%E9%81%94%E9%80%9A%E9%A0%98%E6%B6%88%E8%B2%BB%E5%88%B8%208%20%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)  
+- [《衛報》引多項研究　證新冠非人造 -- 大公文匯](https://www.tkww.hk/a/202106/19/AP60cd6d66e4b0c7e5bec74bc3.html)  
+- [世衞：Delta變種將成為全球主要毒株 -- 大公文匯](https://www.tkww.hk/a/202106/19/AP60cd4014e4b0c7e5bec73684.html)  
+- [「已逾80國，並不斷變異！」新冠Delta出現新變異 另外還有Lambda變種 -- deepthroat](https://www.bastillepost.com/hongkong/article/8648725-%e3%80%8c%e5%b7%b2%e9%80%be80%e5%9c%8b%ef%bc%8c%e4%b8%a6%e4%b8%8d%e6%96%b7%e8%ae%8a%e7%95%b0%ef%bc%81%e3%80%8d%e6%96%b0%e5%86%a0delta%e5%87%ba%e7%8f%be%e6%96%b0%e8%ae%8a%e7%95%b0-%e5%8f%a6%e5%a4%96)  
+- [美國政府監督組織揭露的數字令人吃驚 嚴重炒作「中國威脅」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8648904-%e7%be%8e%e5%9c%8b%e6%94%bf%e5%ba%9c%e7%9b%a3%e7%9d%a3%e7%b5%84%e7%b9%94%e6%8f%ad%e9%9c%b2%e7%9a%84%e6%95%b8%e5%ad%97%e4%bb%a4%e4%ba%ba%e5%90%83%e9%a9%9a-%e5%9a%b4%e9%87%8d%e7%82%92%e4%bd%9c%e3%80%8c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
