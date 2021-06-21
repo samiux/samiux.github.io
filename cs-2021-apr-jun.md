@@ -198,5 +198,7 @@
 - [「已逾80國，並不斷變異！」新冠Delta出現新變異 另外還有Lambda變種 -- deepthroat](https://www.bastillepost.com/hongkong/article/8648725-%e3%80%8c%e5%b7%b2%e9%80%be80%e5%9c%8b%ef%bc%8c%e4%b8%a6%e4%b8%8d%e6%96%b7%e8%ae%8a%e7%95%b0%ef%bc%81%e3%80%8d%e6%96%b0%e5%86%a0delta%e5%87%ba%e7%8f%be%e6%96%b0%e8%ae%8a%e7%95%b0-%e5%8f%a6%e5%a4%96)  
 - [美國政府監督組織揭露的數字令人吃驚 嚴重炒作「中國威脅」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8648904-%e7%be%8e%e5%9c%8b%e6%94%bf%e5%ba%9c%e7%9b%a3%e7%9d%a3%e7%b5%84%e7%b9%94%e6%8f%ad%e9%9c%b2%e7%9a%84%e6%95%b8%e5%ad%97%e4%bb%a4%e4%ba%ba%e5%90%83%e9%a9%9a-%e5%9a%b4%e9%87%8d%e7%82%92%e4%bd%9c%e3%80%8c)  
 - [** 電子消費券 -- gov.hk](https://www.consumptionvoucher.gov.hk/tc/index.html)  
+- [警方依法再封鎖兩播獨煽暴網站 -- 大公文匯](https://www.tkww.hk/a/202106/21/AP60cfe09ce4b0c7e5bec81707.html)  
+- [偽冒 Google 文件連結成網絡釣魚攻擊 按 Link 被偷 Google 帳戶資料 -- ezone](https://ezone.ulifestyle.com.hk/article/2986953/%E5%81%BD%E5%86%92%20Google%20%E6%96%87%E4%BB%B6%E9%80%A3%E7%B5%90%E6%88%90%E7%B6%B2%E7%B5%A1%E9%87%A3%E9%AD%9A%E6%94%BB%E6%93%8A%20%E6%8C%89%20Link%20%E8%A2%AB%E5%81%B7%20Google%20%E5%B8%B3%E6%88%B6%E8%B3%87%E6%96%99)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
