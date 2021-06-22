@@ -157,6 +157,9 @@
 - [最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
 - [我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
 - [擇一事 專一業 遇一人 譯一生 -- 大公文匯](https://www.tkww.hk/a/202106/18/AP60cbea95e4b0c7e5bec6bc83.html)  
+- [謝春濤：中國共產黨不會忘記文革教訓 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d19e21e4b0c7e5bec8fb58.html)  
+- [謝春濤：中國共產黨有六大特點 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d18ddae4b0c7e5bec8f4b0.html)  
+- [謝春濤：解決兩岸統一　主動權在大陸 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d19b80e4b0c7e5bec8fa2d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
