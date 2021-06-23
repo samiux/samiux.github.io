@@ -45,8 +45,8 @@ He can be reached at :
 - [GitHub](https://github.com/samiux)  
 - [ImaginaryCTF (Discord Server)](https://discord.gg/vReKWNxPuE)  
 - [picoCTF (Discord Server)](https://discord.gg/WQGdYaB)  
-- [GEF (Discord Server)](https://discord.gg/HCS8Hg7)  
 - [pwntools (Discord Server)](https://discord.gg/96VA2zvjCB)  
+- [pwndbg (Discord Server)](https://discord.gg/x47DssnGwm)  
 
 His Capture The Flag (CTF) Jeopardy challenges are :  
 - Pwn (Lovin' it)    
