@@ -17,6 +17,7 @@
 
 ### Common Sense
 
+- [党史学习教育官方网站](http://dangshi.people.com.cn/)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
