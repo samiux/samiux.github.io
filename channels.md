@@ -160,6 +160,7 @@
 - [謝春濤：中國共產黨不會忘記文革教訓 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d19e21e4b0c7e5bec8fb58.html)  
 - [謝春濤：中國共產黨有六大特點 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d18ddae4b0c7e5bec8f4b0.html)  
 - [謝春濤：解決兩岸統一　主動權在大陸 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d19b80e4b0c7e5bec8fa2d.html)  
+- [十分鐘讀好書 2021-06-18 #46 好書推介 《 中國贏了嗎？》 -- Lorey](https://samiux.blogspot.com/2021/06/2021-06-18-46.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
