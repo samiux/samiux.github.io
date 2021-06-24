@@ -78,5 +78,6 @@
 - [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
 - [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)  
+- [十分鐘讀好書 2021-06-18 #46 好書推介 《 中國贏了嗎？》 -- Lorey](https://samiux.blogspot.com/2021/06/2021-06-18-46.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
