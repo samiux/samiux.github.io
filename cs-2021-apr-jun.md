@@ -207,5 +207,6 @@
 - [李家超：香港已安全　惟仍面臨「三危險」 -- 大公文匯](https://www.tkww.hk/a/202106/23/AP60d2eed8e4b0c7e5bec99488.html)  
 - [** 蔓延全球的「Delta」變異新冠毒株 兩週內成為美國感染主流 卻被中國成功擋住了 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8668940-%e8%94%93%e5%bb%b6%e5%85%a8%e7%90%83%e7%9a%84%e3%80%8cdelta%e3%80%8d%e8%ae%8a%e7%95%b0%e6%96%b0%e5%86%a0%e6%af%92%e6%a0%aa-%e5%85%a9%e9%80%b1%e5%85%a7%e6%88%90%e7%82%ba%e7%be%8e%e5%9c%8b%e6%84%9f)  
 - [中共建黨百年你慌什麼？西方有說不出的話 -- 深藍](https://www.bastillepost.com/hongkong/article/8666690-%e4%b8%ad%e5%85%b1%e5%bb%ba%e9%bb%a8%e7%99%be%e5%b9%b4%e4%bd%a0%e6%85%8c%e4%bb%80%e9%ba%bc%ef%bc%9f%e8%a5%bf%e6%96%b9%e6%9c%89%e8%aa%aa%e4%b8%8d%e5%87%ba%e7%9a%84%e8%a9%b1)  
+- [講真，美國最大的威脅不是中國 -- deepthroat](https://www.bastillepost.com/hongkong/article/8675796-%e8%ac%9b%e7%9c%9f%ef%bc%8c%e7%be%8e%e5%9c%8b%e6%9c%80%e5%a4%a7%e7%9a%84%e5%a8%81%e8%84%85%e4%b8%8d%e6%98%af%e4%b8%ad%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
