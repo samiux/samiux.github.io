@@ -36,6 +36,7 @@
 - [陳穎欣Joephy Chan](https://www.youtube.com/channel/UCvlBe-TQfjLFINSSYQt9Tjg)  
 - [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
 - [冼師傅講場](https://www.youtube.com/channel/UCFRBCHEqZNJ2Rb1IjrCC8Zw)  
+- [【短片】【有聲專欄】屈穎妍:犒賞三軍與殺一儆百](https://samiux.blogspot.com/2021/06/blog-post_25.html)  
 
 ## Misc
 
@@ -161,6 +162,7 @@
 - [謝春濤：中國共產黨有六大特點 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d18ddae4b0c7e5bec8f4b0.html)  
 - [謝春濤：解決兩岸統一　主動權在大陸 -- 大公文匯](https://www.tkww.hk/a/202106/22/AP60d19b80e4b0c7e5bec8fa2d.html)  
 - [十分鐘讀好書 2021-06-18 #46 好書推介 《 中國贏了嗎？》 -- Lorey](https://samiux.blogspot.com/2021/06/2021-06-18-46.html)  
+- [【短片】【有聲專欄】屈穎妍:犒賞三軍與殺一儆百](https://samiux.blogspot.com/2021/06/blog-post_25.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
