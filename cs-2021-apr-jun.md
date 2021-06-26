@@ -220,5 +220,9 @@
 - [以色列恢復室內口罩令防Delta 11國爆「Delta+」 -- 大公文匯](https://www.tkww.hk/a/202106/26/AP60d67706e4b0c7e5becaf5be.html)  
 - [譚鐵牛：讓科學家精神閃耀香江（全文）-- 大公文匯](https://www.tkww.hk/a/202106/26/AP60d6a8f3e4b0c7e5becb1652.html)  
 - [鍾南山：香港、內地在7月有限通關 廣東今次對Delta防控用了5種新方法 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8688570-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e9%a6%99%e6%b8%af%e3%80%81%e5%85%a7%e5%9c%b0%e5%9c%a87%e6%9c%88%e6%9c%89%e9%99%90%e9%80%9a%e9%97%9c-%e5%bb%a3%e6%9d%b1%e4%bb%8a%e6%ac%a1%e5%b0%8ddelta%e9%98%b2)  
+- [美國接種不均　面臨Delta變種爆發 -- 大公文匯](https://www.tkww.hk/a/202106/25/AP60d52b32e4b0c7e5beca700c.html)  
+- [《蘋果》就只差這一步！ -- 黃秉華](https://www.bastillepost.com/hongkong/article/8690149-%e3%80%8a%e8%98%8b%e6%9e%9c%e3%80%8b%e5%b0%b1%e5%8f%aa%e5%b7%ae%e9%80%99%e4%b8%80%e6%ad%a5%ef%bc%81)  
+- [Delta蔓延至85個國家 世衛：最易傳播的變種病毒株 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8690337-delta%e8%94%93%e5%bb%b6%e8%87%b385%e5%80%8b%e5%9c%8b%e5%ae%b6-%e4%b8%96%e8%a1%9b%ef%bc%9a%e6%9c%80%e6%98%93%e5%82%b3%e6%92%ad%e7%9a%84%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e6%a0%aa)  
+- [中國内地 10 層大樓僅花 28 小時建好 -- ezone](https://ezone.ulifestyle.com.hk/article/2991508/%E4%B8%AD%E5%9C%8B%E5%86%85%E5%9C%B0%2010%20%E5%B1%A4%E5%A4%A7%E6%A8%93%E5%83%85%E8%8A%B1%2028%20%E5%B0%8F%E6%99%82%E5%BB%BA%E5%A5%BD)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
