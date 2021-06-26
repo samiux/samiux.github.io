@@ -70,11 +70,11 @@ Security Filter - security-filter-dns.cleanbrowsing.org
 
 在路由器的 DHCP 选项中设定 DNS，这亦是 CleanBrowsing 的产品：
 
-Family Filter - 185.228 168.168 和 185.228.169 168
+Family Filter - 185.228.168.168 和 185.228.169.168
 
 Adult Filter - 185.228.168.10 和 185.228.168.11
 
-Security Filter - 185.228.168.9 和 185 228 169.9
+Security Filter - 185.228.168.9 和 185.228.169.9
 
 ### 第三层
 
