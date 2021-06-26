@@ -224,5 +224,7 @@
 - [《蘋果》就只差這一步！ -- 黃秉華](https://www.bastillepost.com/hongkong/article/8690149-%e3%80%8a%e8%98%8b%e6%9e%9c%e3%80%8b%e5%b0%b1%e5%8f%aa%e5%b7%ae%e9%80%99%e4%b8%80%e6%ad%a5%ef%bc%81)  
 - [Delta蔓延至85個國家 世衛：最易傳播的變種病毒株 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8690337-delta%e8%94%93%e5%bb%b6%e8%87%b385%e5%80%8b%e5%9c%8b%e5%ae%b6-%e4%b8%96%e8%a1%9b%ef%bc%9a%e6%9c%80%e6%98%93%e5%82%b3%e6%92%ad%e7%9a%84%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e6%a0%aa)  
 - [中國内地 10 層大樓僅花 28 小時建好 -- ezone](https://ezone.ulifestyle.com.hk/article/2991508/%E4%B8%AD%E5%9C%8B%E5%86%85%E5%9C%B0%2010%20%E5%B1%A4%E5%A4%A7%E6%A8%93%E5%83%85%E8%8A%B1%2028%20%E5%B0%8F%E6%99%82%E5%BB%BA%E5%A5%BD)  
+- [** 中共二十大前　传刘鹤被委以重任领导一项“关键计划” -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60246653/%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%89%8D%E4%BC%A0%E5%88%98%E9%B9%A4%E8%A2%AB%E5%A7%94%E4%BB%A5%E9%87%8D%E4%BB%BB%E9%A2%86%E5%AF%BC%E4%B8%80%E9%A1%B9%E5%85%B3%E9%94%AE%E8%AE%A1%E5%88%92?_branch_match_id=937372024771247930)  
+- [** 64万亿！美国终于坐不住了！一场新风暴正在酝酿 -- 多维新闻](https://blog.dwnews.com/post-1437758.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
