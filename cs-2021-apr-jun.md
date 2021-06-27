@@ -231,5 +231,6 @@
 - [「戰狼」之後，西方又給中國貼新標籤：「那又怎麼說主義」 -- deepthroat](https://www.bastillepost.com/hongkong/article/8692901-%e3%80%8c%e6%88%b0%e7%8b%bc%e3%80%8d%e4%b9%8b%e5%be%8c%ef%bc%8c%e8%a5%bf%e6%96%b9%e5%8f%88%e7%b5%a6%e4%b8%ad%e5%9c%8b%e8%b2%bc%e6%96%b0%e6%a8%99%e7%b1%a4%ef%bc%9a%e3%80%8c%e9%82%a3%e5%8f%88%e6%80%8e)  
 - [Delta變異病毒太毒！廣東無接觸14秒就傳播 鍾南山總結變種病毒3大特點 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8692659-delta%e8%ae%8a%e7%95%b0%e7%97%85%e6%af%92%e5%a4%aa%e6%af%92%ef%bc%81%e5%bb%a3%e6%9d%b1%e7%84%a1%e6%8e%a5%e8%a7%b814%e7%a7%92%e5%b0%b1%e5%82%b3%e6%92%ad-%e9%8d%be%e5%8d%97%e5%b1%b1%e7%b8%bd%e7%b5%90)  
 - [** 世衞：Delta變種傳播快　未打針者易中招 -- 大公文匯](https://www.tkww.hk/a/202106/27/AP60d7d0a9e4b0c7e5becb78f0.html)  
+- [** 科兴击败变种病毒印尼医护返岗 数据戳破美媒谎言 -- 大公报](http://www.takungpao.com/news/232111/2021/0625/601333.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
