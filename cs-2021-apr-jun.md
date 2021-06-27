@@ -226,5 +226,9 @@
 - [中國内地 10 層大樓僅花 28 小時建好 -- ezone](https://ezone.ulifestyle.com.hk/article/2991508/%E4%B8%AD%E5%9C%8B%E5%86%85%E5%9C%B0%2010%20%E5%B1%A4%E5%A4%A7%E6%A8%93%E5%83%85%E8%8A%B1%2028%20%E5%B0%8F%E6%99%82%E5%BB%BA%E5%A5%BD)  
 - [** 中共二十大前　传刘鹤被委以重任领导一项“关键计划” -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60246653/%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%89%8D%E4%BC%A0%E5%88%98%E9%B9%A4%E8%A2%AB%E5%A7%94%E4%BB%A5%E9%87%8D%E4%BB%BB%E9%A2%86%E5%AF%BC%E4%B8%80%E9%A1%B9%E5%85%B3%E9%94%AE%E8%AE%A1%E5%88%92?_branch_match_id=937372024771247930)  
 - [** 64万亿！美国终于坐不住了！一场新风暴正在酝酿 -- 多维新闻](https://blog.dwnews.com/post-1437758.html)  
+- [世衞：Delta變種傳播快　未打針者易中招 -- 大公文匯](https://www.tkww.hk/a/202106/27/AP60d7d0a9e4b0c7e5becb78f0.html)  
+- [** 公務員退休金與《港區國安法》 -- 前華員會會長 黃河](https://www.bastillepost.com/hongkong/article/8688400-%e5%85%ac%e5%8b%99%e5%93%a1%e9%80%80%e4%bc%91%e9%87%91%e8%88%87%e3%80%8a%e6%b8%af%e5%8d%80%e5%9c%8b%e5%ae%89%e6%b3%95%e3%80%8b)  
+- [「戰狼」之後，西方又給中國貼新標籤：「那又怎麼說主義」 -- deepthroat](https://www.bastillepost.com/hongkong/article/8692901-%e3%80%8c%e6%88%b0%e7%8b%bc%e3%80%8d%e4%b9%8b%e5%be%8c%ef%bc%8c%e8%a5%bf%e6%96%b9%e5%8f%88%e7%b5%a6%e4%b8%ad%e5%9c%8b%e8%b2%bc%e6%96%b0%e6%a8%99%e7%b1%a4%ef%bc%9a%e3%80%8c%e9%82%a3%e5%8f%88%e6%80%8e)  
+- [Delta變異病毒太毒！廣東無接觸14秒就傳播 鍾南山總結變種病毒3大特點 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8692659-delta%e8%ae%8a%e7%95%b0%e7%97%85%e6%af%92%e5%a4%aa%e6%af%92%ef%bc%81%e5%bb%a3%e6%9d%b1%e7%84%a1%e6%8e%a5%e8%a7%b814%e7%a7%92%e5%b0%b1%e5%82%b3%e6%92%ad-%e9%8d%be%e5%8d%97%e5%b1%b1%e7%b8%bd%e7%b5%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
