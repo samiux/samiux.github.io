@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# **Who am I?**
+# Who am I?
 
 Samiux is a CyberSecurity Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab and Capture The Flag (CTF) challenges.  
 
@@ -14,10 +14,13 @@ Think like a criminal and act as professional
 Not only try harder but also try smarter!
 ```
 
-He has some active projects about information security, some of them are :
+He has some active projects about CyberSecurity, they are :
+
+- [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
+
+Some of his projects are now inactive, they are :
 
 - [Chameleon 变色龙 - Website IP Address Seeker](/chameleon.md)
-- [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 Forked from others :
@@ -50,7 +53,7 @@ He can be reached at :
 
 His Capture The Flag (CTF) Jeopardy challenges are :  
 - Pwn (Lovin' it)    
-- RE (Interested in it)  
+- Reverse (Interested in it)  
 
 ## **Reference**
 
