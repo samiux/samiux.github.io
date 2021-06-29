@@ -14,6 +14,9 @@
 任何人任何势力企图破坏中国人民的和平生活和发展权利、破坏中国人民同其他国家人民的交流合作、破坏人类和平与发展的崇高事业，中国人民都绝不答应！」 -- 习近平
 ```
 ```
+江山就是人民，人民就是江山。 -- 習近平
+```
+```
 The miracle isn't that I finished. ... The miracle is that I had the courage to start. -- John "The Penguin" Bingham
 ```
 ```
