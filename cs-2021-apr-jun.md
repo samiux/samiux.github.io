@@ -241,5 +241,6 @@
 - [劉兆佳專訪 詳述港人對中央認識四大誤區 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8709618-%e3%80%90%e5%b0%88%e8%a8%aa%e3%80%91%e5%8a%89%e5%85%86%e4%bd%b3%e8%a9%b3%e8%bf%b0%e6%b8%af%e4%ba%ba%e5%b0%8d%e4%b8%ad%e5%a4%ae%e8%aa%8d%e8%ad%98%e5%9b%9b%e5%a4%a7%e8%aa%a4%e5%8d%80)  
 - [** 意大利發佈新疆問題研究報告：美國以人權之名謀取地緣政治利益 -- deepthroat](https://www.bastillepost.com/hongkong/article/8710280-%e6%84%8f%e5%a4%a7%e5%88%a9%e7%99%bc%e4%bd%88%e6%96%b0%e7%96%86%e5%95%8f%e9%a1%8c%e7%a0%94%e7%a9%b6%e5%a0%b1%e5%91%8a%ef%bc%9a%e7%be%8e%e5%9c%8b%e4%bb%a5%e4%ba%ba%e6%ac%8a%e4%b9%8b%e5%90%8d%e8%ac%80)  
 - [【建黨百周年】陳曉峰 : 港人對內地多誤解  「冀開放思維明辨真假」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8707460-%e3%80%90%e5%bb%ba%e9%bb%a8%e7%99%be%e5%91%a8%e5%b9%b4%e3%80%91%e9%99%b3%e6%9b%89%e5%b3%b0-%e6%b8%af%e4%ba%ba%e5%b0%8d%e5%85%a7%e5%9c%b0%e5%a4%9a%e8%aa%a4%e8%a7%a3-%e3%80%8c%e5%86%80%e9%96%8b)  
+- [西方科學淪落，一半跟中國有關，另一半離不開美國 -- 深藍](https://www.bastillepost.com/hongkong/article/8713882-%e8%a5%bf%e6%96%b9%e7%a7%91%e5%ad%b8%e6%b7%aa%e8%90%bd%ef%bc%8c%e4%b8%80%e5%8d%8a%e8%b7%9f%e4%b8%ad%e5%9c%8b%e6%9c%89%e9%97%9c%ef%bc%8c%e5%8f%a6%e4%b8%80%e5%8d%8a%e9%9b%a2%e4%b8%8d%e9%96%8b%e7%be%8e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
