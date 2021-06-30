@@ -80,5 +80,7 @@
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
 - [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)  
 - [十分鐘讀好書 2021-06-18 #46 好書推介 《 中國贏了嗎？》 -- Lorey](https://samiux.blogspot.com/2021/06/2021-06-18-46.html)  
+- [《中国新型政党制度》白皮书（全文）](http://www.scio.gov.cn/m/zfbps/32832/Document/1707415/1707415.htm)  
+- [中国共产党尊重和保障人权的伟大实践](http://www.gov.cn/zhengce/2021-06/24/content_5620505.htm)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
