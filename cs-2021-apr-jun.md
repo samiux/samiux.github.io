@@ -239,5 +239,7 @@
 - [中國正式獲得消除瘧疾認證　世衞：了不起的壯舉 -- 大公文匯](https://www.tkww.hk/a/202106/30/AP60dbc166e4b0c7e5becce539.html)  
 - [3-17歲打科興　抗體陽轉率100% -- 大公文匯](https://www.tkww.hk/a/202106/30/AP60dbb0aee4b0c7e5beccdc2c.html)  
 - [劉兆佳專訪 詳述港人對中央認識四大誤區 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8709618-%e3%80%90%e5%b0%88%e8%a8%aa%e3%80%91%e5%8a%89%e5%85%86%e4%bd%b3%e8%a9%b3%e8%bf%b0%e6%b8%af%e4%ba%ba%e5%b0%8d%e4%b8%ad%e5%a4%ae%e8%aa%8d%e8%ad%98%e5%9b%9b%e5%a4%a7%e8%aa%a4%e5%8d%80)  
+- [** 意大利發佈新疆問題研究報告：美國以人權之名謀取地緣政治利益 -- deepthroat](https://www.bastillepost.com/hongkong/article/8710280-%e6%84%8f%e5%a4%a7%e5%88%a9%e7%99%bc%e4%bd%88%e6%96%b0%e7%96%86%e5%95%8f%e9%a1%8c%e7%a0%94%e7%a9%b6%e5%a0%b1%e5%91%8a%ef%bc%9a%e7%be%8e%e5%9c%8b%e4%bb%a5%e4%ba%ba%e6%ac%8a%e4%b9%8b%e5%90%8d%e8%ac%80)  
+- [【建黨百周年】陳曉峰 : 港人對內地多誤解  「冀開放思維明辨真假」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8707460-%e3%80%90%e5%bb%ba%e9%bb%a8%e7%99%be%e5%91%a8%e5%b9%b4%e3%80%91%e9%99%b3%e6%9b%89%e5%b3%b0-%e6%b8%af%e4%ba%ba%e5%b0%8d%e5%85%a7%e5%9c%b0%e5%a4%9a%e8%aa%a4%e8%a7%a3-%e3%80%8c%e5%86%80%e9%96%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
