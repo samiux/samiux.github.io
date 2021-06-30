@@ -236,5 +236,6 @@
 - [** 習近平：江山就是人民　人民就是江山 -- 大公文匯](https://www.tkww.hk/a/202106/29/AP60daa5f2e4b0c7e5becc8b09.html)  
 - [機密現車站　證英艦故意闖俄領海 -- 大公文匯](https://www.tkww.hk/a/202106/29/AP60da6e66e4b0c7e5becc68be.html)  
 - [** 解碼「ABCDE」：世界視角中的中國共產黨成功密碼 -- 文匯網](https://www.wenweipo.com/a/202106/29/AP60daefa7e4b08d3407c9d899.html)  
+- [中國正式獲得消除瘧疾認證　世衞：了不起的壯舉 -- 大公文匯](https://www.tkww.hk/a/202106/30/AP60dbc166e4b0c7e5becce539.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
