@@ -237,5 +237,7 @@
 - [機密現車站　證英艦故意闖俄領海 -- 大公文匯](https://www.tkww.hk/a/202106/29/AP60da6e66e4b0c7e5becc68be.html)  
 - [** 解碼「ABCDE」：世界視角中的中國共產黨成功密碼 -- 文匯網](https://www.wenweipo.com/a/202106/29/AP60daefa7e4b08d3407c9d899.html)  
 - [中國正式獲得消除瘧疾認證　世衞：了不起的壯舉 -- 大公文匯](https://www.tkww.hk/a/202106/30/AP60dbc166e4b0c7e5becce539.html)  
+- [3-17歲打科興　抗體陽轉率100% -- 大公文匯](https://www.tkww.hk/a/202106/30/AP60dbb0aee4b0c7e5beccdc2c.html)  
+- [劉兆佳專訪 詳述港人對中央認識四大誤區 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8709618-%e3%80%90%e5%b0%88%e8%a8%aa%e3%80%91%e5%8a%89%e5%85%86%e4%bd%b3%e8%a9%b3%e8%bf%b0%e6%b8%af%e4%ba%ba%e5%b0%8d%e4%b8%ad%e5%a4%ae%e8%aa%8d%e8%ad%98%e5%9b%9b%e5%a4%a7%e8%aa%a4%e5%8d%80)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
