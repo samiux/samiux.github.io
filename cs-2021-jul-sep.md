@@ -11,5 +11,6 @@
 - [盧永雄「巴士的點評」強國 強軍 強民，習主席總結中共9個「以史為鑑」，走上強國之路 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8721375-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e5%bc%b7%e5%9c%8b-%e5%bc%b7%e8%bb%8d-%e5%bc%b7%e6%b0%91%ef%bc%8c%e7%bf%92%e4%b8%bb%e5%b8%ad%e7%b8%bd)  
 - [歐盟啟用電子疫苗護照 愛爾蘭因網路攻擊需延遲 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8721055-%e6%ad%90%e8%81%af%e5%95%9f%e7%94%a8%e9%9b%bb%e5%ad%90%e7%96%ab%e8%8b%97%e8%ad%b7%e7%85%a7-%e6%84%9b%e7%88%be%e8%98%ad%e5%9b%a0%e7%b6%b2%e8%b7%af%e6%94%bb%e6%93%8a%e9%9c%80%e5%bb%b6%e9%81%b2)  
 - [廣州籌建「國際健康驛站」 5000獨立房間供入境者入住 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8720442-%e5%bb%a3%e5%b7%9e%e7%b1%8c%e5%bb%ba%e9%9a%94%e9%9b%a2%e7%87%9f-5000%e7%8d%a8%e7%ab%8b%e6%88%bf%e9%96%93%e4%be%9b%e5%85%a5%e5%a2%83%e8%80%85%e5%85%a5%e4%bd%8f)  
+- [英國《衛報》：中國共產黨成就毋庸置疑 -- 大公文匯](https://www.tkww.hk/a/202107/02/AP60de5993e4b0c7e5becdfcf1.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
