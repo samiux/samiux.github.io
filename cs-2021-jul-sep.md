@@ -12,5 +12,6 @@
 - [歐盟啟用電子疫苗護照 愛爾蘭因網路攻擊需延遲 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8721055-%e6%ad%90%e8%81%af%e5%95%9f%e7%94%a8%e9%9b%bb%e5%ad%90%e7%96%ab%e8%8b%97%e8%ad%b7%e7%85%a7-%e6%84%9b%e7%88%be%e8%98%ad%e5%9b%a0%e7%b6%b2%e8%b7%af%e6%94%bb%e6%93%8a%e9%9c%80%e5%bb%b6%e9%81%b2)  
 - [廣州籌建「國際健康驛站」 5000獨立房間供入境者入住 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8720442-%e5%bb%a3%e5%b7%9e%e7%b1%8c%e5%bb%ba%e9%9a%94%e9%9b%a2%e7%87%9f-5000%e7%8d%a8%e7%ab%8b%e6%88%bf%e9%96%93%e4%be%9b%e5%85%a5%e5%a2%83%e8%80%85%e5%85%a5%e4%bd%8f)  
 - [英國《衛報》：中國共產黨成就毋庸置疑 -- 大公文匯](https://www.tkww.hk/a/202107/02/AP60de5993e4b0c7e5becdfcf1.html)  
+- [** 欧盟开启疫苗通行证 可豁免强检及隔离通关 -- 大公报](http://www.takungpao.com/news/232111/2021/0702/604473.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
