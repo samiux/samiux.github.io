@@ -17,5 +17,6 @@
 - [維他奶爆公關巨災 恐襲員工「不幸逝世」通告 遭內地網民罵翻 -- Ariel](https://www.bastillepost.com/hongkong/article/8728489-%e7%b6%ad%e4%bb%96%e5%a5%b6%e7%88%86%e5%85%ac%e9%97%9c%e5%b7%a8%e7%81%bd-%e6%81%90%e8%a5%b2%e5%93%a1%e5%b7%a5%e3%80%8c%e4%b8%8d%e5%b9%b8%e9%80%9d%e4%b8%96%e3%80%8d%e9%80%9a%e5%91%8a-%e9%81%ad%e5%85%a7)  
 - [任正非給大家上一堂科普課，值得收藏 -- 黃秉華](https://www.bastillepost.com/hongkong/article/8729518-%e4%bb%bb%e6%ad%a3%e9%9d%9e%e7%b5%a6%e5%a4%a7%e5%ae%b6%e4%b8%8a%e4%b8%80%e5%a0%82%e7%a7%91%e6%99%ae%e8%aa%b2%ef%bc%8c%e5%80%bc%e5%be%97%e6%94%b6%e8%97%8f)  
 - [李家超指本土恐怖主義正滋生：悼念刺警兇手或違《國安法》 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8729828-%e6%9d%8e%e5%ae%b6%e8%b6%85%e6%8c%87%e6%82%bc%e5%bf%b5%e5%88%ba%e8%ad%a6%e5%85%87%e6%89%8b%e5%a6%82%e5%90%8c%e9%bc%93%e5%90%b9%e7%a0%b4%e5%a3%9e%e9%a6%99%e6%b8%af-%e6%88%96%e9%81%95%e3%80%8a%e5%9c%8b)  
+- [** 鍾南山：放心注射國產疫苗　對Delta變種病毒亦有效 -- 大公文匯](https://www.tkww.hk/a/202107/03/AP60e0878ce4b0c7e5becee70a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
