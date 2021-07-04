@@ -20,5 +20,6 @@
 - [** 鍾南山：放心注射國產疫苗　對Delta變種病毒亦有效 -- 大公文匯](https://www.tkww.hk/a/202107/03/AP60e0878ce4b0c7e5becee70a.html)  
 - [** 從零到一　神奇小子打造量子「神算」 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e0febde4b0c7e5becefe7a.html)  
 - [美國為找間諜而找間諜 「FBI每隔10小時就要立一個中國反間諜案」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8732794-%e7%be%8e%e5%9c%8b%e7%82%ba%e6%89%be%e9%96%93%e8%ab%9c%e8%80%8c%e6%89%be%e9%96%93%e8%ab%9c-%e3%80%8cfbi%e6%af%8f%e9%9a%9410%e5%b0%8f%e6%99%82%e5%b0%b1%e8%a6%81%e7%ab%8b%e4%b8%80%e5%80%8b%e4%b8%ad)  
+- [** 華為超級計算機再刷新世界紀錄 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e129afe4b0c7e5becf12e7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
