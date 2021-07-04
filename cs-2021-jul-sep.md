@@ -18,5 +18,7 @@
 - [任正非給大家上一堂科普課，值得收藏 -- 黃秉華](https://www.bastillepost.com/hongkong/article/8729518-%e4%bb%bb%e6%ad%a3%e9%9d%9e%e7%b5%a6%e5%a4%a7%e5%ae%b6%e4%b8%8a%e4%b8%80%e5%a0%82%e7%a7%91%e6%99%ae%e8%aa%b2%ef%bc%8c%e5%80%bc%e5%be%97%e6%94%b6%e8%97%8f)  
 - [李家超指本土恐怖主義正滋生：悼念刺警兇手或違《國安法》 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8729828-%e6%9d%8e%e5%ae%b6%e8%b6%85%e6%8c%87%e6%82%bc%e5%bf%b5%e5%88%ba%e8%ad%a6%e5%85%87%e6%89%8b%e5%a6%82%e5%90%8c%e9%bc%93%e5%90%b9%e7%a0%b4%e5%a3%9e%e9%a6%99%e6%b8%af-%e6%88%96%e9%81%95%e3%80%8a%e5%9c%8b)  
 - [** 鍾南山：放心注射國產疫苗　對Delta變種病毒亦有效 -- 大公文匯](https://www.tkww.hk/a/202107/03/AP60e0878ce4b0c7e5becee70a.html)  
+- [** 從零到一　神奇小子打造量子「神算」 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e0febde4b0c7e5becefe7a.html)  
+- [美國為找間諜而找間諜 「FBI每隔10小時就要立一個中國反間諜案」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8732794-%e7%be%8e%e5%9c%8b%e7%82%ba%e6%89%be%e9%96%93%e8%ab%9c%e8%80%8c%e6%89%be%e9%96%93%e8%ab%9c-%e3%80%8cfbi%e6%af%8f%e9%9a%9410%e5%b0%8f%e6%99%82%e5%b0%b1%e8%a6%81%e7%ab%8b%e4%b8%80%e5%80%8b%e4%b8%ad)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
