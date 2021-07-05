@@ -26,5 +26,7 @@
 - [** 重拳出擊 - 多國加強監管　嚴防網絡恐怖主義 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e0ffebe4b0c7e5becefeff.html)  
 - [** 美國支持恐怖份子要坐20年監 香港「悼念派」要小心 -- 小鯊](https://www.bastillepost.com/hongkong/article/8738052-%e7%be%8e%e5%9c%8b%e6%94%af%e6%8c%81%e6%81%90%e6%80%96%e4%bb%bd%e5%ad%90%e8%a6%81%e5%9d%9020%e5%b9%b4%e7%9b%a3-%e9%a6%99%e6%b8%af%e3%80%8c%e6%82%bc%e5%bf%b5%e6%b4%be%e3%80%8d%e8%a6%81%e5%b0%8f)  
 - [** 涉TG連登鼓吹殺警　煽暴兩青年落網 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2aaabe4b0c7e5becf9e78.html)  
+- [** 美化恐怖主義豈可縱容？ 在歐洲是刑事罪最高監禁7年 -- Ariel](https://www.bastillepost.com/hongkong/article/8741716-%e7%be%8e%e5%8c%96%e6%81%90%e6%80%96%e4%b8%bb%e7%be%a9%e8%b1%88%e5%8f%af%e7%b8%b1%e5%ae%b9%ef%bc%9f-%e5%9c%a8%e6%ad%90%e6%b4%b2%e6%98%af%e5%88%91%e4%ba%8b%e7%bd%aa%e6%9c%80%e9%ab%98%e7%9b%a3%e7%a6%817)  
+- [** 34歲男涉煽惑他人犯意圖傷人罪被捕 警方：言論提及「斬警察」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8741528-34%e6%ad%b2%e7%94%b7%e6%b6%89%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e7%8a%af%e6%84%8f%e5%9c%96%e5%82%b7%e4%ba%ba%e7%bd%aa%e8%a2%ab%e6%8d%95-%e8%ad%a6%e6%96%b9%ef%bc%9a%e8%a8%80%e8%ab%96%e6%8f%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
