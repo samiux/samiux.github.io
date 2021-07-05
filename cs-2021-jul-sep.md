@@ -30,5 +30,8 @@
 - [** 34歲男涉煽惑他人犯意圖傷人罪被捕 警方：言論提及「斬警察」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8741528-34%e6%ad%b2%e7%94%b7%e6%b6%89%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e7%8a%af%e6%84%8f%e5%9c%96%e5%82%b7%e4%ba%ba%e7%bd%aa%e8%a2%ab%e6%8d%95-%e8%ad%a6%e6%96%b9%ef%bc%9a%e8%a8%80%e8%ab%96%e6%8f%90)  
 - [** 李世默：中國共產黨正進行第三次自我革新 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2e918e4b0c7e5becfb75d.html)  
 - [** 數據是國家安全基石，著手整頓是正確，西方不敢不同意 -- 深藍](https://www.bastillepost.com/hongkong/article/8742191-%e6%95%b8%e6%93%9a%e6%98%af%e5%9c%8b%e5%ae%b6%e5%ae%89%e5%85%a8%e5%9f%ba%e7%9f%b3%ef%bc%8c%e8%91%97%e6%89%8b%e6%95%b4%e9%a0%93%e6%98%af%e6%ad%a3%e7%a2%ba%ef%bc%8c%e8%a5%bf%e6%96%b9%e4%b8%8d%e6%95%a2)  
+- [** 香港仔時評 - 系統一擠就癱　港網絡應用須追落後 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2488be4b0c7e5becf6e38.html)  
+- [港警擬建財務數據分析平台 打擊恐怖主義融資等罪 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e30d89e4b0c7e5becfc1d6.html)  
+- [鍾南山：中國研發疫苗困難，因為沒有病人了 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2b71ae4b0c7e5becfa4a0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
