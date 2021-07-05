@@ -25,5 +25,6 @@ OSCE  OSCP  OSWP
 - [Hacker posts exploits for over 49,000 vulnerable Fortinet VPNs -- Bleeping Computer](https://www.bleepingcomputer.com/news/security/hacker-posts-exploits-for-over-49-000-vulnerable-fortinet-vpns/)  
 - [Cybercriminals' Favorite Bulletproof VPN Service Shuts Down In Global Action -- The Hacker News](https://thehackernews.com/2020/12/cybercriminals-favorite-bulletproof-vpn.html)  
 - [涉TG連登鼓吹殺警　煽暴兩青年落網 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2aaabe4b0c7e5becf9e78.html)  
+- [34歲男涉煽惑他人犯意圖傷人罪被捕 警方：言論提及「斬警察」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8741528-34%e6%ad%b2%e7%94%b7%e6%b6%89%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e7%8a%af%e6%84%8f%e5%9c%96%e5%82%b7%e4%ba%ba%e7%bd%aa%e8%a2%ab%e6%8d%95-%e8%ad%a6%e6%96%b9%ef%bc%9a%e8%a8%80%e8%ab%96%e6%8f%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
