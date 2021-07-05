@@ -21,5 +21,9 @@
 - [** 從零到一　神奇小子打造量子「神算」 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e0febde4b0c7e5becefe7a.html)  
 - [美國為找間諜而找間諜 「FBI每隔10小時就要立一個中國反間諜案」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8732794-%e7%be%8e%e5%9c%8b%e7%82%ba%e6%89%be%e9%96%93%e8%ab%9c%e8%80%8c%e6%89%be%e9%96%93%e8%ab%9c-%e3%80%8cfbi%e6%af%8f%e9%9a%9410%e5%b0%8f%e6%99%82%e5%b0%b1%e8%a6%81%e7%ab%8b%e4%b8%80%e5%80%8b%e4%b8%ad)  
 - [** 華為超級計算機再刷新世界紀錄 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e129afe4b0c7e5becf12e7.html)  
+- [** 「悼念」恐怖分子　美漢重判20年 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2441fe4b0c7e5becf6bfb.html)  
+- [** 歐美多招「去極端化」　阻「思想毒藥」蔓延 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e27871e4b0c7e5becf8984.html)  
+- [** 重拳出擊 - 多國加強監管　嚴防網絡恐怖主義 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e0ffebe4b0c7e5becefeff.html)  
+- [** 美國支持恐怖份子要坐20年監 香港「悼念派」要小心 -- 小鯊](https://www.bastillepost.com/hongkong/article/8738052-%e7%be%8e%e5%9c%8b%e6%94%af%e6%8c%81%e6%81%90%e6%80%96%e4%bb%bd%e5%ad%90%e8%a6%81%e5%9d%9020%e5%b9%b4%e7%9b%a3-%e9%a6%99%e6%b8%af%e3%80%8c%e6%82%bc%e5%bf%b5%e6%b4%be%e3%80%8d%e8%a6%81%e5%b0%8f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
