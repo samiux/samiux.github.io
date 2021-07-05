@@ -24,5 +24,6 @@ OSCE  OSCP  OSWP
 - [Hackers used VPN flaws to access US govt elections support systems --  Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-used-vpn-flaws-to-access-us-govt-elections-support-systems/)  
 - [Hacker posts exploits for over 49,000 vulnerable Fortinet VPNs -- Bleeping Computer](https://www.bleepingcomputer.com/news/security/hacker-posts-exploits-for-over-49-000-vulnerable-fortinet-vpns/)  
 - [Cybercriminals' Favorite Bulletproof VPN Service Shuts Down In Global Action -- The Hacker News](https://thehackernews.com/2020/12/cybercriminals-favorite-bulletproof-vpn.html)  
+- [涉TG連登鼓吹殺警　煽暴兩青年落網 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2aaabe4b0c7e5becf9e78.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
