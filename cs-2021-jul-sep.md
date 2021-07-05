@@ -25,5 +25,6 @@
 - [** 歐美多招「去極端化」　阻「思想毒藥」蔓延 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e27871e4b0c7e5becf8984.html)  
 - [** 重拳出擊 - 多國加強監管　嚴防網絡恐怖主義 -- 大公文匯](https://www.tkww.hk/a/202107/04/AP60e0ffebe4b0c7e5becefeff.html)  
 - [** 美國支持恐怖份子要坐20年監 香港「悼念派」要小心 -- 小鯊](https://www.bastillepost.com/hongkong/article/8738052-%e7%be%8e%e5%9c%8b%e6%94%af%e6%8c%81%e6%81%90%e6%80%96%e4%bb%bd%e5%ad%90%e8%a6%81%e5%9d%9020%e5%b9%b4%e7%9b%a3-%e9%a6%99%e6%b8%af%e3%80%8c%e6%82%bc%e5%bf%b5%e6%b4%be%e3%80%8d%e8%a6%81%e5%b0%8f)  
+- [** 涉TG連登鼓吹殺警　煽暴兩青年落網 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2aaabe4b0c7e5becf9e78.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
