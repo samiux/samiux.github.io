@@ -35,5 +35,6 @@
 - [鍾南山：中國研發疫苗困難，因為沒有病人了 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2b71ae4b0c7e5becfa4a0.html)  
 - [** 煽斬警炸宿舍　連登仔落網 -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e3a826e4b0c7e5becfe78c.html)
 - [駐港國家安全公署署長 鄭雁雄發言全文 -- 大公文匯](https://www.bastillepost.com/hongkong/article/8742992-%e9%a7%90%e6%b8%af%e5%9c%8b%e5%ae%b6%e5%ae%89%e5%85%a8%e5%85%ac%e7%bd%b2%e7%bd%b2%e9%95%b7-%e9%84%ad%e9%9b%81%e9%9b%84%e7%99%bc%e8%a8%80%e5%85%a8%e6%96%87?current_cat=1)  
+- [前美國眾議院議長： 「美國政客都該去中國坐趟高鐵」 -- deepthroat](https://www.bastillepost.com/hongkong/article/8744480-%e5%89%8d%e7%be%8e%e5%9c%8b%e7%9c%be%e8%ad%b0%e9%99%a2%e8%ad%b0%e9%95%b7%ef%bc%9a-%e3%80%8c%e7%be%8e%e5%9c%8b%e6%94%bf%e5%ae%a2%e9%83%bd%e8%a9%b2%e5%8e%bb%e4%b8%ad%e5%9c%8b%e5%9d%90%e8%b6%9f%e9%ab%98)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
