@@ -38,5 +38,8 @@
 - [前美國眾議院議長： 「美國政客都該去中國坐趟高鐵」 -- deepthroat](https://www.bastillepost.com/hongkong/article/8744480-%e5%89%8d%e7%be%8e%e5%9c%8b%e7%9c%be%e8%ad%b0%e9%99%a2%e8%ad%b0%e9%95%b7%ef%bc%9a-%e3%80%8c%e7%be%8e%e5%9c%8b%e6%94%bf%e5%ae%a2%e9%83%bd%e8%a9%b2%e5%8e%bb%e4%b8%ad%e5%9c%8b%e5%9d%90%e8%b6%9f%e9%ab%98)  
 - [** 港獨組織「光城者」圖謀放炸彈恐襲 警國安處拘9人包括6中學生 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8745056-%e6%b8%af%e7%8d%a8%e7%b5%84%e7%b9%94%e3%80%8c%e5%85%89%e5%9f%8e%e8%80%85%e3%80%8d%e5%9c%96%e8%ac%80%e6%94%be%e7%82%b8%e5%bd%88%e6%81%90%e8%a5%b2-%e8%ad%a6%e5%9c%8b%e5%ae%89%e8%99%95%e6%8b%989%e4%ba%ba)  
 - [中國航天服打破美國技術壟斷 造價3000萬 靈感竟然來自小龍蝦 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8745165-%e4%b8%ad%e5%9c%8b%e8%88%aa%e5%a4%a9%e6%9c%8d%e6%89%93%e7%a0%b4%e7%be%8e%e5%9c%8b%e6%8a%80%e8%a1%93%e5%a3%9f%e6%96%b7-%e9%80%a0%e5%83%b93000%e8%90%ac-%e9%9d%88%e6%84%9f%e7%ab%9f%e7%84%b6%e4%be%86)  
+- [深圳明年起禁止APP強制使用人臉識別 -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e4063ae4b0c7e5bed01be2.html)  
+- [專家：滴滴手握國計民生數據　赴美上市存安全隱患 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e30be3e4b0c7e5becfc12d.html)  
+- [「過度收集使用用戶信息」的App， 犯了什麼事? -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e40194e4b0c7e5bed0197f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
