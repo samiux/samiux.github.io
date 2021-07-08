@@ -53,5 +53,7 @@
 - [德国女孩籲部分港青：勿輕信西媒！ -- 大公文匯](https://mp.weixin.qq.com/s/gu30ZjXzw80r1WkQMGuWJw)  
 - [巴西警方解釋偷手機賊不急於變賣 靠一個方法即得「寶藏」 -- ezone](https://ezone.ulifestyle.com.hk/article/3001199/%E5%B7%B4%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%A7%A3%E9%87%8B%E5%81%B7%E6%89%8B%E6%A9%9F%E8%B3%8A%E4%B8%8D%E6%80%A5%E6%96%BC%E8%AE%8A%E8%B3%A3%20%20%E9%9D%A0%E4%B8%80%E5%80%8B%E6%96%B9%E6%B3%95%E5%8D%B3%E5%BE%97%E3%80%8C%E5%AF%B6%E8%97%8F%E3%80%8D)  
 - [解放軍駐港部隊展覽中心建成 將逐步開放市民參觀 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8760875-%e8%a7%a3%e6%94%be%e8%bb%8d%e9%a7%90%e6%b8%af%e9%83%a8%e9%9a%8a%e5%b1%95%e8%a6%bd%e4%b8%ad%e5%bf%83%e5%bb%ba%e6%88%90-%e5%b0%87%e9%80%90%e6%ad%a5%e9%96%8b%e6%94%be%e5%b8%82%e6%b0%91%e5%8f%83%e8%a7%80)  
+- [國圖展出55種語言306種版本《共產黨宣言》 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e6dacae4b0c7e5bed117ea.html)  
+- [中山大學發表SCI論文　從細胞水準驗證電子煙減害潛力 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e6d88ee4b0c7e5bed1171c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
