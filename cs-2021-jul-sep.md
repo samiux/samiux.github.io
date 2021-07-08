@@ -50,10 +50,13 @@
 - [新加坡指統計疫苗接種不包括科興 討好美國藥廠？ -- deepthroat](https://www.bastillepost.com/hongkong/article/8758010-%e6%96%b0%e5%8a%a0%e5%9d%a1%e6%8c%87%e7%b5%b1%e8%a8%88%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e4%b8%8d%e5%8c%85%e6%8b%ac%e7%a7%91%e8%88%88-%e8%a8%8e%e5%a5%bd%e7%be%8e%e5%9c%8b%e8%97%a5%e5%bb%a0%ef%bc%9f)  
 - [24專家《刺針》再發文　駁新冠「實驗室洩漏說」 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e64a8ee4b0c7e5bed0d932.html)  
 - [鄧炳強：必依法處理法輪功 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e640c4e4b0c7e5bed0d1f8.html)  
-- [德国女孩籲部分港青：勿輕信西媒！ -- 大公文匯](https://mp.weixin.qq.com/s/gu30ZjXzw80r1WkQMGuWJw)  
+- [** 德国女孩籲部分港青：勿輕信西媒！ -- 大公文匯](https://mp.weixin.qq.com/s/gu30ZjXzw80r1WkQMGuWJw)  
 - [巴西警方解釋偷手機賊不急於變賣 靠一個方法即得「寶藏」 -- ezone](https://ezone.ulifestyle.com.hk/article/3001199/%E5%B7%B4%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%A7%A3%E9%87%8B%E5%81%B7%E6%89%8B%E6%A9%9F%E8%B3%8A%E4%B8%8D%E6%80%A5%E6%96%BC%E8%AE%8A%E8%B3%A3%20%20%E9%9D%A0%E4%B8%80%E5%80%8B%E6%96%B9%E6%B3%95%E5%8D%B3%E5%BE%97%E3%80%8C%E5%AF%B6%E8%97%8F%E3%80%8D)  
 - [解放軍駐港部隊展覽中心建成 將逐步開放市民參觀 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8760875-%e8%a7%a3%e6%94%be%e8%bb%8d%e9%a7%90%e6%b8%af%e9%83%a8%e9%9a%8a%e5%b1%95%e8%a6%bd%e4%b8%ad%e5%bf%83%e5%bb%ba%e6%88%90-%e5%b0%87%e9%80%90%e6%ad%a5%e9%96%8b%e6%94%be%e5%b8%82%e6%b0%91%e5%8f%83%e8%a7%80)  
 - [國圖展出55種語言306種版本《共產黨宣言》 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e6dacae4b0c7e5bed117ea.html)  
 - [中山大學發表SCI論文　從細胞水準驗證電子煙減害潛力 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e6d88ee4b0c7e5bed1171c.html)  
+- [羅兵咸永道研究：投入生產力局1元 會產生8.7元的支持GDP效益 -- Sebastian](https://www.bastillepost.com/hongkong/article/8762343-%e7%be%85%e5%85%b5%e5%92%b8%e6%b0%b8%e9%81%93%e7%a0%94%e7%a9%b6%ef%bc%9a%e6%8a%95%e5%85%a5%e7%94%9f%e7%94%a2%e5%8a%9b%e5%b1%801%e5%85%83-%e6%9c%83%e7%94%a2%e7%94%9f8-7%e5%85%83%e7%9a%84%e6%94%af)
+- [港特區護照好用度全球排第18 日本4連冠 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8761691-%e6%b8%af%e7%89%b9%e5%8d%80%e8%ad%b7%e7%85%a7%e5%a5%bd%e7%94%a8%e5%ba%a6%e5%85%a8%e7%90%83%e6%8e%92%e7%ac%ac18-%e6%97%a5%e6%9c%ac4%e9%80%a3%e5%86%a0)
+- [腦癱失活動能力僅3手指能動 蘇州男研發無障礙地圖助殘障人士出行 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8752036-%e8%85%a6%e7%99%b1%e5%a4%b1%e6%b4%bb%e5%8b%95%e8%83%bd%e5%8a%9b%e5%83%853%e6%89%8b%e6%8c%87%e8%83%bd%e5%8b%95-%e8%98%87%e5%b7%9e%e7%94%b7%e7%a0%94%e7%99%bc%e7%84%a1%e9%9a%9c%e7%a4%99%e5%9c%b0%e5%9c%96)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
