@@ -4,6 +4,7 @@
 
 ## China
 
+- [沒有共產黨就沒有新中國](https://samiux.blogspot.com/2021/07/without-communist-party-there-would-be.html)  
 - [解碼「ABCDE」：世界視角中的中國共產黨成功密碼 -- 文匯網](https://www.wenweipo.com/a/202106/29/AP60daefa7e4b08d3407c9d899.html)  
 - [广东音乐之声](https://www.qingting.fm/radios/1260/)  
 - [CCTV中国中央电视台](https://www.youtube.com/user/zhongguohaogequ)  
