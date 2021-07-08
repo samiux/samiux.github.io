@@ -44,7 +44,7 @@
 - [Exploit Development (PWN) Resources](/pwn-resources.md)
 - [给香港夺旗赛协会的一封公开信](/openletter2hkctf.md)  
 - [KB-VULN 系列推介](/kb-vuln.md)  
-- 
+
 #### CyberSecurity Laws
 
 - [深入解读《中华人民共和国网络安全法》](http://gdee.gd.gov.cn/wlaq/content/post_2717276.html)
