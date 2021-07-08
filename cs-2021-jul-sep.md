@@ -46,5 +46,9 @@
 - [** 習近平全球政黨峰會講話：實現民主不可能千篇一律（全文） -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e4617ae4b0c7e5bed03df8.html)  
 - [中國500餘名研究生遭美拒簽 中方回應 -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e44d32e4b0c7e5bed036e2.html)  
 - [廣州大戰Delta -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e64563e4b0c7e5bed0d518.html)  
+- [** 增交易透明度追蹤資金打擊洗錢 數碼港元便利營商 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8757626-%e3%80%90%e5%b0%88%e9%a1%8c%e3%80%91%e5%a2%9e%e4%ba%a4%e6%98%93%e9%80%8f%e6%98%8e%e5%ba%a6%e8%bf%bd%e8%b9%a4%e8%b3%87%e9%87%91%e6%89%93%e6%93%8a%e6%b4%97%e9%8c%a2-%e6%95%b8%e7%a2%bc%e6%b8%af%e5%85%83)  
+- [新加坡指統計疫苗接種不包括科興 討好美國藥廠？ -- deepthroat](https://www.bastillepost.com/hongkong/article/8758010-%e6%96%b0%e5%8a%a0%e5%9d%a1%e6%8c%87%e7%b5%b1%e8%a8%88%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e4%b8%8d%e5%8c%85%e6%8b%ac%e7%a7%91%e8%88%88-%e8%a8%8e%e5%a5%bd%e7%be%8e%e5%9c%8b%e8%97%a5%e5%bb%a0%ef%bc%9f)  
+- [24專家《刺針》再發文　駁新冠「實驗室洩漏說」 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e64a8ee4b0c7e5bed0d932.html)  
+- [鄧炳強：必依法處理法輪功 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e640c4e4b0c7e5bed0d1f8.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
