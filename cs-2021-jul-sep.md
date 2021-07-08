@@ -50,5 +50,7 @@
 - [新加坡指統計疫苗接種不包括科興 討好美國藥廠？ -- deepthroat](https://www.bastillepost.com/hongkong/article/8758010-%e6%96%b0%e5%8a%a0%e5%9d%a1%e6%8c%87%e7%b5%b1%e8%a8%88%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e4%b8%8d%e5%8c%85%e6%8b%ac%e7%a7%91%e8%88%88-%e8%a8%8e%e5%a5%bd%e7%be%8e%e5%9c%8b%e8%97%a5%e5%bb%a0%ef%bc%9f)  
 - [24專家《刺針》再發文　駁新冠「實驗室洩漏說」 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e64a8ee4b0c7e5bed0d932.html)  
 - [鄧炳強：必依法處理法輪功 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e640c4e4b0c7e5bed0d1f8.html)  
+- [德国女孩籲部分港青：勿輕信西媒！ -- 大公文匯](https://mp.weixin.qq.com/s/gu30ZjXzw80r1WkQMGuWJw)  
+- [巴西警方解釋偷手機賊不急於變賣 靠一個方法即得「寶藏」 -- ezone](https://ezone.ulifestyle.com.hk/article/3001199/%E5%B7%B4%E8%A5%BF%E8%AD%A6%E6%96%B9%E8%A7%A3%E9%87%8B%E5%81%B7%E6%89%8B%E6%A9%9F%E8%B3%8A%E4%B8%8D%E6%80%A5%E6%96%BC%E8%AE%8A%E8%B3%A3%20%20%E9%9D%A0%E4%B8%80%E5%80%8B%E6%96%B9%E6%B3%95%E5%8D%B3%E5%BE%97%E3%80%8C%E5%AF%B6%E8%97%8F%E3%80%8D)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
