@@ -45,5 +45,6 @@
 - [習近平：民主非少數國家專利 實現民主有多種方式 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8749292-%e7%bf%92%e8%bf%91%e5%b9%b3%ef%bc%9a%e6%b0%91%e4%b8%bb%e9%9d%9e%e5%b0%91%e6%95%b8%e5%9c%8b%e5%ae%b6%e5%b0%88%e5%88%a9-%e5%af%a6%e7%8f%be%e6%b0%91%e4%b8%bb%e6%9c%89%e5%a4%9a%e7%a8%ae%e6%96%b9%e5%bc%8f)  
 - [** 習近平全球政黨峰會講話：實現民主不可能千篇一律（全文） -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e4617ae4b0c7e5bed03df8.html)  
 - [中國500餘名研究生遭美拒簽 中方回應 -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e44d32e4b0c7e5bed036e2.html)  
+- [廣州大戰Delta -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e64563e4b0c7e5bed0d518.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
