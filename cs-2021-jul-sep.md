@@ -59,5 +59,7 @@
 - [港特區護照好用度全球排第18 日本4連冠 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8761691-%e6%b8%af%e7%89%b9%e5%8d%80%e8%ad%b7%e7%85%a7%e5%a5%bd%e7%94%a8%e5%ba%a6%e5%85%a8%e7%90%83%e6%8e%92%e7%ac%ac18-%e6%97%a5%e6%9c%ac4%e9%80%a3%e5%86%a0)
 - [腦癱失活動能力僅3手指能動 蘇州男研發無障礙地圖助殘障人士出行 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8752036-%e8%85%a6%e7%99%b1%e5%a4%b1%e6%b4%bb%e5%8b%95%e8%83%bd%e5%8a%9b%e5%83%853%e6%89%8b%e6%8c%87%e8%83%bd%e5%8b%95-%e8%98%87%e5%b7%9e%e7%94%b7%e7%a0%94%e7%99%bc%e7%84%a1%e9%9a%9c%e7%a4%99%e5%9c%b0%e5%9c%96)
 - [昨天這件「史無前例」的大事，信息量夠足 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e6e31ee4b0c7e5bed11b08.html)
+- [輝瑞稱接種其疫苗第三劑或可抵禦德爾塔毒株 -- 大公文匯](https://www.tkww.hk/a/202107/09/AP60e844ece4b0c7e5bed1b9d7.html)
+- [從土狼到戰狼︰中美繼科技之後，進入信息戰 -- 深藍](https://www.bastillepost.com/hongkong/article/8769866-%e5%be%9e%e5%9c%9f%e7%8b%bc%e5%88%b0%e6%88%b0%e7%8b%bc%ef%b8%b0%e4%b8%ad%e7%be%8e%e7%b9%bc%e7%a7%91%e6%8a%80%e4%b9%8b%e5%be%8c%ef%bc%8c%e9%80%b2%e5%85%a5%e4%bf%a1%e6%81%af%e6%88%b0)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
