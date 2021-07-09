@@ -20,7 +20,13 @@
 - [CGTN](https://www.youtube.com/c/cgtn/featured)  
 - [Hezhimeng  竹内亮](https://www.youtube.com/channel/UCwHUYtwH5E41O6MiYoC19ng)  
 - [张维为 The Chinese Way by Zhang Weiwei](https://www.youtube.com/channel/UCtDd5tl977dQrDiNoLhQHkw)  
+
+## China Police Story
+
 - [《大城无小事·城市真英雄2021》—— 速度上车！全程跟拍破案过程【东方卫视官方频道】](https://www.youtube.com/playlist?list=PL1OG5YATWAbBCSNt_1gt8otDfhg95lHvT)  
+- [【完结】《派出所的故事/Police Story 2019》——巡逻现场实录热血归来！中国警察帅！【东方卫视官方频道】](https://www.youtube.com/playlist?list=PL1OG5YATWAbAwm00Wow-Wx5q0XKbYpiqP)  
+- [【整片】《巡逻现场实录2018》命案险情时刻发生，巡逻民警第一时间冲到前线（已完结）](https://www.youtube.com/playlist?list=PL1OG5YATWAbBxbvWAXVucsit4IN8utj6G)  
+- [【3期全】《巡逻现场实录·前传》向平凡民警致敬！案例更丰富、节奏更紧张，为观众带来更多110一线执法现场！](https://www.youtube.com/playlist?list=PL1OG5YATWAbCp9wrq-kVQQA2a2kp-10iI)  
 
 ## PLA Music
 
