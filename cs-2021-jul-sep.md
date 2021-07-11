@@ -61,5 +61,6 @@
 - [昨天這件「史無前例」的大事，信息量夠足 -- 大公文匯](https://www.tkww.hk/a/202107/08/AP60e6e31ee4b0c7e5bed11b08.html)
 - [輝瑞稱接種其疫苗第三劑或可抵禦德爾塔毒株 -- 大公文匯](https://www.tkww.hk/a/202107/09/AP60e844ece4b0c7e5bed1b9d7.html)
 - [從土狼到戰狼︰中美繼科技之後，進入信息戰 -- 深藍](https://www.bastillepost.com/hongkong/article/8769866-%e5%be%9e%e5%9c%9f%e7%8b%bc%e5%88%b0%e6%88%b0%e7%8b%bc%ef%b8%b0%e4%b8%ad%e7%be%8e%e7%b9%bc%e7%a7%91%e6%8a%80%e4%b9%8b%e5%be%8c%ef%bc%8c%e9%80%b2%e5%85%a5%e4%bf%a1%e6%81%af%e6%88%b0)
+- [超大城市深圳緣何能「速戰」複雜疫情 -- 大公文匯](https://www.tkww.hk/a/202107/11/AP60ea997ae4b0c7e5bed28de8.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
