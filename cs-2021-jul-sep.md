@@ -63,5 +63,8 @@
 - [從土狼到戰狼︰中美繼科技之後，進入信息戰 -- 深藍](https://www.bastillepost.com/hongkong/article/8769866-%e5%be%9e%e5%9c%9f%e7%8b%bc%e5%88%b0%e6%88%b0%e7%8b%bc%ef%b8%b0%e4%b8%ad%e7%be%8e%e7%b9%bc%e7%a7%91%e6%8a%80%e4%b9%8b%e5%be%8c%ef%bc%8c%e9%80%b2%e5%85%a5%e4%bf%a1%e6%81%af%e6%88%b0)
 - [超大城市深圳緣何能「速戰」複雜疫情 -- 大公文匯](https://www.tkww.hk/a/202107/11/AP60ea997ae4b0c7e5bed28de8.html)  
 - [** 世衞專家︰打加強針未必需要　「溝針」須更多研究 -- 大公文匯](https://www.tkww.hk/a/202107/13/AP60ecedc3e4b0c7e5bed35707.html)  
+- [美國︰民主推動第三次科技浪潮。呵呵！ -- 深藍](https://www.bastillepost.com/hongkong/article/8798636-%e7%be%8e%e5%9c%8b%ef%b8%b0%e6%b0%91%e4%b8%bb%e6%8e%a8%e5%8b%95%e7%ac%ac%e4%b8%89%e6%ac%a1%e7%a7%91%e6%8a%80%e6%b5%aa%e6%bd%ae%e3%80%82%e5%91%b5%e5%91%b5%ef%bc%81)  
+- [（有片）美國抗疫排第一？倒數的吧！ -- 大公文匯](https://www.tkww.hk/a/202107/13/AP60ed91dde4b0c7e5bed39f36.html)  
+- [** 中國5G網絡用戶數超1.6億 　佔全球5G總用戶數近九成 -- 大公文匯](https://www.tkww.hk/a/202107/14/AP60eec88ee4b0c7e5bed40f7f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
