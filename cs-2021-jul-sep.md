@@ -66,5 +66,8 @@
 - [美國︰民主推動第三次科技浪潮。呵呵！ -- 深藍](https://www.bastillepost.com/hongkong/article/8798636-%e7%be%8e%e5%9c%8b%ef%b8%b0%e6%b0%91%e4%b8%bb%e6%8e%a8%e5%8b%95%e7%ac%ac%e4%b8%89%e6%ac%a1%e7%a7%91%e6%8a%80%e6%b5%aa%e6%bd%ae%e3%80%82%e5%91%b5%e5%91%b5%ef%bc%81)  
 - [（有片）美國抗疫排第一？倒數的吧！ -- 大公文匯](https://www.tkww.hk/a/202107/13/AP60ed91dde4b0c7e5bed39f36.html)  
 - [** 中國5G網絡用戶數超1.6億 　佔全球5G總用戶數近九成 -- 大公文匯](https://www.tkww.hk/a/202107/14/AP60eec88ee4b0c7e5bed40f7f.html)  
+- [** 古巴示威與香港之亂 何其相似 -- deepthroat](https://www.bastillepost.com/hongkong/article/8804069-%e5%8f%a4%e5%b7%b4%e7%a4%ba%e5%a8%81%e8%88%87%e9%a6%99%e6%b8%af%e4%b9%8b%e4%ba%82-%e4%bd%95%e5%85%b6%e7%9b%b8%e4%bc%bc)  
+- [彭斯︰中國是一個邪惡帝國。美國呢？ -- 深藍](https://www.bastillepost.com/hongkong/article/8805659-%e5%bd%ad%e6%96%af%ef%b8%b0%e4%b8%ad%e5%9c%8b%e6%98%af%e4%b8%80%e5%80%8b%e9%82%aa%e6%83%a1%e5%b8%9d%e5%9c%8b%e3%80%82%e7%be%8e%e5%9c%8b%e5%91%a2%ef%bc%9f)  
+- [中越鐵路口岸上半年進出口運量創4年新高 -- 大公文匯](https://www.tkww.hk/a/202107/15/AP60efd485e4b0c7e5bed46274.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
