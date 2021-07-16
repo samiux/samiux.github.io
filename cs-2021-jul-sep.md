@@ -69,5 +69,7 @@
 - [** 古巴示威與香港之亂 何其相似 -- deepthroat](https://www.bastillepost.com/hongkong/article/8804069-%e5%8f%a4%e5%b7%b4%e7%a4%ba%e5%a8%81%e8%88%87%e9%a6%99%e6%b8%af%e4%b9%8b%e4%ba%82-%e4%bd%95%e5%85%b6%e7%9b%b8%e4%bc%bc)  
 - [彭斯︰中國是一個邪惡帝國。美國呢？ -- 深藍](https://www.bastillepost.com/hongkong/article/8805659-%e5%bd%ad%e6%96%af%ef%b8%b0%e4%b8%ad%e5%9c%8b%e6%98%af%e4%b8%80%e5%80%8b%e9%82%aa%e6%83%a1%e5%b8%9d%e5%9c%8b%e3%80%82%e7%be%8e%e5%9c%8b%e5%91%a2%ef%bc%9f)  
 - [中越鐵路口岸上半年進出口運量創4年新高 -- 大公文匯](https://www.tkww.hk/a/202107/15/AP60efd485e4b0c7e5bed46274.html)  
+- [** 夏寶龍提愛國管治者5點要求：立場堅定有擔當 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8810896-%e5%a4%8f%e5%af%b6%e9%be%8d%e6%8f%90%e6%84%9b%e5%9c%8b%e7%ae%a1%e6%b2%bb%e8%80%855%e9%bb%9e%e8%a6%81%e6%b1%82%ef%bc%9a%e7%ab%8b%e5%a0%b4%e5%a0%85%e5%ae%9a%e6%9c%89%e6%93%94%e7%95%b6)  
+- [以色列專家觀點: Delta病毒讓痊癒人群重復染病率 遠低於已接種疫苗人群 -- deepthroat](https://www.bastillepost.com/hongkong/article/8808519-%e4%bb%a5%e8%89%b2%e5%88%97%e5%b0%88%e5%ae%b6%e8%a7%80%e9%bb%9e-delta%e7%97%85%e6%af%92%e8%ae%93%e7%97%8a%e7%99%92%e4%ba%ba%e7%be%a4%e9%87%8d%e5%be%a9%e6%9f%93%e7%97%85%e7%8e%87-%e9%81%a0%e4%bd%8e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
