@@ -71,5 +71,6 @@
 - [中越鐵路口岸上半年進出口運量創4年新高 -- 大公文匯](https://www.tkww.hk/a/202107/15/AP60efd485e4b0c7e5bed46274.html)  
 - [** 夏寶龍提愛國管治者5點要求：立場堅定有擔當 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8810896-%e5%a4%8f%e5%af%b6%e9%be%8d%e6%8f%90%e6%84%9b%e5%9c%8b%e7%ae%a1%e6%b2%bb%e8%80%855%e9%bb%9e%e8%a6%81%e6%b1%82%ef%bc%9a%e7%ab%8b%e5%a0%b4%e5%a0%85%e5%ae%9a%e6%9c%89%e6%93%94%e7%95%b6)  
 - [以色列專家觀點: Delta病毒讓痊癒人群重復染病率 遠低於已接種疫苗人群 -- deepthroat](https://www.bastillepost.com/hongkong/article/8808519-%e4%bb%a5%e8%89%b2%e5%88%97%e5%b0%88%e5%ae%b6%e8%a7%80%e9%bb%9e-delta%e7%97%85%e6%af%92%e8%ae%93%e7%97%8a%e7%99%92%e4%ba%ba%e7%be%a4%e9%87%8d%e5%be%a9%e6%9f%93%e7%97%85%e7%8e%87-%e9%81%a0%e4%bd%8e)  
+- [** 夏寶龍：全面深入實施香港國安法 推進「一國兩制」實踐行穩致遠(全文) -- 巴士的報](https://www.bastillepost.com/hongkong/article/8810500-%e5%a4%8f%e5%af%b6%e9%be%8d%ef%bc%9a%e5%85%a8%e9%9d%a2%e6%b7%b1%e5%85%a5%e5%af%a6%e6%96%bd%e9%a6%99%e6%b8%af%e5%9c%8b%e5%ae%89%e6%b3%95-%e6%8e%a8%e9%80%b2%e3%80%8c%e4%b8%80%e5%9c%8b%e5%85%a9%e5%88%b6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
