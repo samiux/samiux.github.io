@@ -77,5 +77,9 @@
 - [專家：亞軌道重複使用運載器首飛意義重大　軍民兩用價值高 -- 大公文匯](https://www.tkww.hk/a/202107/16/AP60f18a11e4b0c7e5bed4fd11.html)  
 - [英國《經濟學人》封面：拜登的「中國學說」不會奏效 -- deepthroat](https://www.bastillepost.com/hongkong/article/8815137-%e8%8b%b1%e5%9c%8b%e3%80%8a%e7%b6%93%e6%bf%9f%e5%ad%b8%e4%ba%ba%e3%80%8b%e5%b0%81%e9%9d%a2%ef%bc%9a%e6%8b%9c%e7%99%bb%e7%9a%84%e3%80%8c%e4%b8%ad%e5%9c%8b%e5%ad%b8%e8%aa%aa%e3%80%8d%e4%b8%8d%e6%9c%83)  
 - [** 新聞稿以外的訊息: 夏寶龍叫特區政府每年做幾件「看得見、摸得着的實事」 -- Ariel](https://www.bastillepost.com/hongkong/article/8815174-%e6%96%b0%e8%81%9e%e7%a8%bf%e4%bb%a5%e5%a4%96%e7%9a%84%e8%a8%8a%e6%81%af-%e5%a4%8f%e5%af%b6%e9%be%8d%e5%8f%ab%e7%89%b9%e5%8d%80%e6%94%bf%e5%ba%9c%e6%af%8f%e5%b9%b4%e5%81%9a%e5%b9%be%e4%bb%b6%e3%80%8c)  
+- [** 屈穎妍講你知 - 我們贏在哪裏？ -- 大公文匯](https://www.tkww.hk/a/202107/17/AP60f15c06e4b0c7e5bed4ed9a.html)  
+- [** 治港能力五標準　考驗愛國者真功夫 -- 大公文匯](https://www.tkww.hk/a/202107/17/AP60f22b44e4b0c7e5bed5218e.html)  
+- [林鄭：每日按5大管治者原則辦事 有時力不從心 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8815660-%e6%af%8f%e6%97%a5%e6%8c%895%e5%a4%a7%e7%ae%a1%e6%b2%bb%e8%80%85%e5%8e%9f%e5%89%87%e8%be%a6%e4%ba%8b-%e6%9e%97%e9%84%ad%e8%aa%8d%e6%9c%89%e6%99%82%e5%8a%9b%e4%b8%8d%e5%be%9e%e5%bf%83)  
+- [料區議員請辭無關金錢 林鄭：佢地都係為服務市民 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8815773-%e6%96%99%e5%8d%80%e8%ad%b0%e5%93%a1%e8%be%ad%e8%81%b7%e7%84%a1%e9%97%9c%e9%87%91%e9%8c%a2-%e6%9e%97%e9%84%ad%ef%bc%9a%e6%88%90%e6%97%a5%e8%81%bd%e4%bd%a2%e5%93%8b%e8%ac%9b%e7%82%ba%e5%b8%82%e6%b0%91)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
