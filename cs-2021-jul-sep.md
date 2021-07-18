@@ -82,5 +82,6 @@
 - [林鄭：每日按5大管治者原則辦事 有時力不從心 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8815660-%e6%af%8f%e6%97%a5%e6%8c%895%e5%a4%a7%e7%ae%a1%e6%b2%bb%e8%80%85%e5%8e%9f%e5%89%87%e8%be%a6%e4%ba%8b-%e6%9e%97%e9%84%ad%e8%aa%8d%e6%9c%89%e6%99%82%e5%8a%9b%e4%b8%8d%e5%be%9e%e5%bf%83)  
 - [料區議員請辭無關金錢 林鄭：佢地都係為服務市民 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8815773-%e6%96%99%e5%8d%80%e8%ad%b0%e5%93%a1%e8%be%ad%e8%81%b7%e7%84%a1%e9%97%9c%e9%87%91%e9%8c%a2-%e6%9e%97%e9%84%ad%ef%bc%9a%e6%88%90%e6%97%a5%e8%81%bd%e4%bd%a2%e5%93%8b%e8%ac%9b%e7%82%ba%e5%b8%82%e6%b0%91)  
 - [** 幀視笑話 - 不愧是你——賴爾·美利堅 -- 大公文匯](https://www.tkww.hk/a/202107/18/AP60f3841de4b0c7e5bed5881f.html)  
+- [** 中方連發七問炮轟美國： 人權惡行昭然若揭還有臉當說教者 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8822598-%e4%b8%ad%e6%96%b9%e9%80%a3%e7%99%bc%e4%b8%83%e5%95%8f%e7%82%ae%e8%bd%9f%e7%be%8e%e5%9c%8b%ef%bc%9a-%e4%ba%ba%e6%ac%8a%e6%83%a1%e8%a1%8c%e6%98%ad%e7%84%b6%e8%8b%a5%e6%8f%ad%e9%82%84%e6%9c%89%e8%87%89)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
