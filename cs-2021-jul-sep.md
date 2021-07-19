@@ -85,5 +85,6 @@
 - [** 中方連發七問炮轟美國： 人權惡行昭然若揭還有臉當說教者 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8822598-%e4%b8%ad%e6%96%b9%e9%80%a3%e7%99%bc%e4%b8%83%e5%95%8f%e7%82%ae%e8%bd%9f%e7%be%8e%e5%9c%8b%ef%bc%9a-%e4%ba%ba%e6%ac%8a%e6%83%a1%e8%a1%8c%e6%98%ad%e7%84%b6%e8%8b%a5%e6%8f%ad%e9%82%84%e6%9c%89%e8%87%89)  
 - [** 雷神無人戰車　AI攻防大腦 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f4b9b2e4b0c7e5bed5e101.html)  
 - [** 有效率超90%　中國國藥疫苗助力秘魯抗疫 -- 大公文匯](https://www.tkww.hk/a/202107/18/AP60f3f318e4b0c7e5bed5b488.html)  
+- [美國學者：中國沒有向世界輸出「中國模式」，破壞民主的是美國自己 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8826163-%e7%be%8e%e5%9c%8b%e5%ad%b8%e8%80%85%ef%bc%9a%e4%b8%ad%e5%9c%8b%e6%b2%92%e6%9c%89%e5%90%91%e4%b8%96%e7%95%8c%e8%bc%b8%e5%87%ba%e3%80%8c%e4%b8%ad%e5%9c%8b%e6%a8%a1%e5%bc%8f%e3%80%8d%ef%bc%8c%e7%a0%b4)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
