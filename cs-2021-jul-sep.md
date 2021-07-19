@@ -89,5 +89,6 @@
 - [美國求解救！　美網友向全世界求救：請解放美國 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f511dbe4b0c7e5bed60f9a.html)  
 - [逾5萬號碼清單曝光　以色列間諜軟件被曝監控多國記者與政要 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f52d9de4b0c7e5bed61b13.html)  
 - [美商會:《國安法》無影嚮商業法律 不建議美企撤出 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8830852-%e7%be%8e%e5%95%86%e6%9c%83%e3%80%8a%e5%9c%8b%e5%ae%89%e6%b3%95%e3%80%8b%e7%84%a1%e5%bd%b1%e5%9a%ae%e5%95%86%e6%a5%ad%e6%b3%95%e5%be%8b-%e4%b8%8d%e5%bb%ba%e8%ad%b0%e7%be%8e%e4%bc%81%e6%92%a4%e5%87%ba)  
+- [** 盧永雄「巴士的點評」警隊一哥:「光城者」炸彈案有幕後黑手。 揭中國「戰狼」之由來，最高指示: 要「以直報怨」](https://www.bastillepost.com/hongkong/article/8830315-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e8%ad%a6%e9%9a%8a%e4%b8%80%e5%93%a5%e3%80%8c%e5%85%89%e5%9f%8e%e8%80%85%e3%80%8d%e7%82%b8%e5%bd%88%e6%a1%88)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
