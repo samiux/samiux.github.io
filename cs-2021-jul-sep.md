@@ -86,5 +86,6 @@
 - [** 雷神無人戰車　AI攻防大腦 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f4b9b2e4b0c7e5bed5e101.html)  
 - [** 有效率超90%　中國國藥疫苗助力秘魯抗疫 -- 大公文匯](https://www.tkww.hk/a/202107/18/AP60f3f318e4b0c7e5bed5b488.html)  
 - [美國學者：中國沒有向世界輸出「中國模式」，破壞民主的是美國自己 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8826163-%e7%be%8e%e5%9c%8b%e5%ad%b8%e8%80%85%ef%bc%9a%e4%b8%ad%e5%9c%8b%e6%b2%92%e6%9c%89%e5%90%91%e4%b8%96%e7%95%8c%e8%bc%b8%e5%87%ba%e3%80%8c%e4%b8%ad%e5%9c%8b%e6%a8%a1%e5%bc%8f%e3%80%8d%ef%bc%8c%e7%a0%b4)  
+- [美國求解救！　美網友向全世界求救：請解放美國 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f511dbe4b0c7e5bed60f9a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
