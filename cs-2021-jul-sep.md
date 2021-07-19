@@ -87,5 +87,7 @@
 - [** 有效率超90%　中國國藥疫苗助力秘魯抗疫 -- 大公文匯](https://www.tkww.hk/a/202107/18/AP60f3f318e4b0c7e5bed5b488.html)  
 - [美國學者：中國沒有向世界輸出「中國模式」，破壞民主的是美國自己 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8826163-%e7%be%8e%e5%9c%8b%e5%ad%b8%e8%80%85%ef%bc%9a%e4%b8%ad%e5%9c%8b%e6%b2%92%e6%9c%89%e5%90%91%e4%b8%96%e7%95%8c%e8%bc%b8%e5%87%ba%e3%80%8c%e4%b8%ad%e5%9c%8b%e6%a8%a1%e5%bc%8f%e3%80%8d%ef%bc%8c%e7%a0%b4)  
 - [美國求解救！　美網友向全世界求救：請解放美國 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f511dbe4b0c7e5bed60f9a.html)  
+- [逾5萬號碼清單曝光　以色列間諜軟件被曝監控多國記者與政要 -- 大公文匯](https://www.tkww.hk/a/202107/19/AP60f52d9de4b0c7e5bed61b13.html)  
+- [美商會:《國安法》無影嚮商業法律 不建議美企撤出 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8830852-%e7%be%8e%e5%95%86%e6%9c%83%e3%80%8a%e5%9c%8b%e5%ae%89%e6%b3%95%e3%80%8b%e7%84%a1%e5%bd%b1%e5%9a%ae%e5%95%86%e6%a5%ad%e6%b3%95%e5%be%8b-%e4%b8%8d%e5%bb%ba%e8%ad%b0%e7%be%8e%e4%bc%81%e6%92%a4%e5%87%ba)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
