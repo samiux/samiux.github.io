@@ -97,5 +97,6 @@
 - [拜登魔幻傑作︰〈中國黑客海盜帝國〉前傳 -- 深藍](https://www.bastillepost.com/hongkong/article/8836666-%e6%8b%9c%e7%99%bb%e9%ad%94%e5%b9%bb%e5%82%91%e4%bd%9c%ef%b8%b0%e3%80%88%e4%b8%ad%e5%9c%8b%e9%bb%91%e5%ae%a2%e6%b5%b7%e7%9b%9c%e5%b8%9d%e5%9c%8b%e3%80%89%e5%89%8d%e5%82%b3)  
 - [** 西媒：美軍實驗室研發極度危險病毒 -- 大公文匯](https://www.tkww.hk/a/202107/21/AP60f7d7dde4b0c7e5bed708ed.html)  
 - [** 外交部：要論全球頭號黑客，如果美國自稱第二，沒人敢稱第一！ -- 大公文匯](https://www.tkww.hk/a/202107/21/AP60f7e136e4b0c7e5bed70cf1.html)  
+- [** 二十年上市美國大潮終止，互聯網也分道揚鑣 -- 深藍](https://www.bastillepost.com/hongkong/article/8844073-%e4%ba%8c%e5%8d%81%e5%b9%b4%e4%b8%8a%e5%b8%82%e7%be%8e%e5%9c%8b%e5%a4%a7%e6%bd%ae%e7%b5%82%e6%ad%a2%ef%bc%8c%e4%ba%92%e8%81%af%e7%b6%b2%e4%b9%9f%e5%88%86%e9%81%93%e6%8f%9a%e9%91%a3)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
