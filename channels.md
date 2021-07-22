@@ -2,6 +2,11 @@
 
 # 专题视听频道  
 
+## History
+
+- [《人民的选择》| 以全新视角看党史 用百年时间书写历史答卷 -- CCTV纪录](https://www.youtube.com/playlist?list=PLwXMmy5fUrVxwpfw9PktfpEtp9b4tr4yL)  
+- [【奋斗百年路】历经百年而风华正茂 饱经磨难而生生不息 -- CCTV纪录](https://www.youtube.com/playlist?list=PLwXMmy5fUrVyynxu8x7kvSz2fxethZCMT)  
+
 ## China
 
 - [解碼「ABCDE」：世界視角中的中國共產黨成功密碼 -- 文匯網](https://www.wenweipo.com/a/202106/29/AP60daefa7e4b08d3407c9d899.html)  
