@@ -101,5 +101,6 @@
 - [全球首艘智能型無人系統母船廣州開工 -- 大公文匯](https://www.tkww.hk/a/202107/21/AP60f843c7e4b0c7e5bed72b75.html)  
 - [** 哎呦!英國要針對媒體立法，報道讓政府難堪的新聞，監禁十四年! -- 大公文匯](https://mp.weixin.qq.com/s/OIIX_nxLPAZRAEt9a5c7oQ)  
 - [** 中國高科技助力河南救災 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8847551-%e4%b8%ad%e5%9c%8b%e9%ab%98%e7%a7%91%e6%8a%80%e5%8a%a9%e5%8a%9b%e6%b2%b3%e5%8d%97%e6%95%91%e7%81%bd)  
+- [** 專家：數字人民幣將成為人民幣國際化新支點 -- 大公文匯](https://www.tkww.hk/a/202107/24/AP60fb92d5e4b0c7e5bed8523e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
