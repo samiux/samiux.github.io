@@ -193,6 +193,7 @@
 - [最新研究：美國新冠疫情比武漢更早 -- 大公文匯](https://www.tkww.hk/a/202106/16/AP60c94f08e4b0c7e5bec5b2f7.html)  
 - [巴西修正提升科興疫苗有效率 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074e0a8e4b0c6fb6f5e84ef.html)  
 - [巴西最終數據　科興對變種病毒有效 -- 大公文匯](https://www.tkww.hk/a/202104/13/AP6074fbefe4b0c6fb6f5e9711.html)  
+- [為什麼打完針仍然感染新冠病毒？專家：疫苗不完美但仍然好有效 -- deepthroat](https://www.bastillepost.com/hongkong/article/8861120-%e7%82%ba%e4%bb%80%e9%ba%bc%e6%89%93%e5%ae%8c%e9%87%9d%e4%bb%8d%e7%84%b6%e6%84%9f%e6%9f%93%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%ef%bc%9f%e5%b0%88%e5%ae%b6%ef%bc%9a%e7%96%ab%e8%8b%97%e4%b8%8d%e5%ae%8c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
