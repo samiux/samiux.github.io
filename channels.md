@@ -63,6 +63,7 @@
 - [OPPO 推出首款 5G 路由器：OPPO 5G CPE T1a 集 WiFi 6 於一身！ -- Qooah](https://qooah.com/2021/04/12/oppo-5g-cpe-t1a/)  
 - [OPPO 5G CPE T1a 開箱評測：5G WiFi 6 路由器居家體驗如何？ -- Qooah](https://qooah.com/2021/04/20/qooah-oppo-5g-cpe-t1a-review/)  
 - [HarmonyOS 2 及华为全场景新品发布会](https://samiux.blogspot.com/2021/06/harmonyos-2.html)  
+- [Coffee林芊妤 -- Yoga - Fitness](https://www.youtube.com/channel/UCxCZqbizSsnntlz6w0fN8hA)  
 
 # Articles and Videos
 
