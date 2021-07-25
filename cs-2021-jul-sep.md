@@ -105,5 +105,6 @@
 - [** 人民币国际化指数RII增长录5.02创新高　居国际主要货币第三位 -- 大公文匯](https://www.tkww.hk/a/202107/24/AP60fb7d5de4b0c7e5bed844db.html)  
 - [** 專家：數字人民幣將成為人民幣國際化新支點 -- 大公文匯](https://www.tkww.hk/a/202107/24/AP60fb92d5e4b0c7e5bed8523e.html)  
 - [李揚：人民幣短期仍邊緣化　須重視金融基礎設施 -- 大公文匯](https://www.tkww.hk/a/202107/24/AP60fb92cae4b0c7e5bed85229.html)  
+- [** 王毅：我們有責任和國際社會一道給美國補上這一課 -- 大公文匯](https://www.tkww.hk/a/202107/24/AP60fc3089e4b0c7e5bed891a4.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
