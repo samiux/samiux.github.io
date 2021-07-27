@@ -112,5 +112,9 @@
 - [** 王毅與美副國務卿會面 明確中方對中美關係的三條底線 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8876677-%e7%be%8e%e5%89%af%e5%9c%8b%e5%8b%99%e5%8d%bf%e8%88%87%e7%8e%8b%e6%af%85%e6%9c%83%e9%9d%a2-%e9%97%9c%e6%b3%a8%e4%b8%ad%e5%9c%8b%e8%88%89%e6%8e%aa%e9%81%95%e8%83%8c%e7%be%8e%e5%9c%8b%e5%83%b9%e5%80%bc)  
 - [中國教育的「黑色星期五」？ -- 深藍](https://www.bastillepost.com/hongkong/article/8875872-%e4%b8%ad%e5%9c%8b%e6%95%99%e8%82%b2%e7%9a%84%e3%80%8c%e9%bb%91%e8%89%b2%e6%98%9f%e6%9c%9f%e4%ba%94%e3%80%8d%ef%bc%9f)  
 - [** 科興：接種第三劑後中和抗體水平顯著增高 -- 大公文匯](https://www.tkww.hk/a/202107/27/AP60ff7e7ce4b0c7e5bed9bfea.html)  
+- [英航母編隊進入南海 專家：中國必須要準備好「打狗棒」 -- deepthroat](https://www.bastillepost.com/hongkong/article/8882372-%e8%8b%b1%e8%88%aa%e6%af%8d%e7%b7%a8%e9%9a%8a%e9%80%b2%e5%85%a5%e5%8d%97%e6%b5%b7-%e5%b0%88%e5%ae%b6%ef%bc%9a%e4%b8%ad%e5%9c%8b%e5%bf%85%e9%a0%88%e8%a6%81%e6%ba%96%e5%82%99%e5%a5%bd%e3%80%8c%e6%89%93)  
+- [** 南京疫情：陽性患者呈現4個特點 打了疫苗對Delta毒株有效 絕少重症 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8880948-%e5%8d%97%e4%ba%ac%e7%96%ab%e6%83%85%ef%bc%9a%e9%99%bd%e6%80%a7%e6%82%a3%e8%80%85%e5%91%88%e7%8f%be4%e5%80%8b%e7%89%b9%e9%bb%9e-%e6%89%93%e4%ba%86%e7%96%ab%e8%8b%97%e5%b0%8ddelta%e6%af%92%e6%a0%aa)  
+- [** 指接種第三劑後中和抗體水平顯著增高 科興：第三針或必不可少 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8882150-%e6%8c%87%e6%8e%a5%e7%a8%ae%e7%ac%ac%e4%b8%89%e5%8a%91%e5%be%8c%e4%b8%ad%e5%92%8c%e6%8a%97%e9%ab%94%e6%b0%b4%e5%b9%b3%e9%a1%af%e8%91%97%e5%a2%9e%e9%ab%98-%e7%a7%91%e8%88%88%ef%bc%9a%e7%ac%ac%e4%b8%89)  
+- [** 鄧炳強：「港獨」思想透過「軟對抗」方式滲透　當局必嚴打 -- Ariel](https://www.bastillepost.com/hongkong/article/8880538-%e9%84%a7%e7%82%b3%e5%bc%b7%ef%bc%9a%e3%80%8c%e6%b8%af%e7%8d%a8%e3%80%8d%e6%80%9d%e6%83%b3%e9%80%8f%e9%81%8e%e3%80%8c%e8%bb%9f%e5%b0%8d%e6%8a%97%e3%80%8d%e6%96%b9%e5%bc%8f%e6%bb%b2%e9%80%8f%e3%80%80)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
