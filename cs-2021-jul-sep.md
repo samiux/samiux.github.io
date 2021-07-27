@@ -116,5 +116,6 @@
 - [** 南京疫情：陽性患者呈現4個特點 打了疫苗對Delta毒株有效 絕少重症 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8880948-%e5%8d%97%e4%ba%ac%e7%96%ab%e6%83%85%ef%bc%9a%e9%99%bd%e6%80%a7%e6%82%a3%e8%80%85%e5%91%88%e7%8f%be4%e5%80%8b%e7%89%b9%e9%bb%9e-%e6%89%93%e4%ba%86%e7%96%ab%e8%8b%97%e5%b0%8ddelta%e6%af%92%e6%a0%aa)  
 - [** 指接種第三劑後中和抗體水平顯著增高 科興：第三針或必不可少 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8882150-%e6%8c%87%e6%8e%a5%e7%a8%ae%e7%ac%ac%e4%b8%89%e5%8a%91%e5%be%8c%e4%b8%ad%e5%92%8c%e6%8a%97%e9%ab%94%e6%b0%b4%e5%b9%b3%e9%a1%af%e8%91%97%e5%a2%9e%e9%ab%98-%e7%a7%91%e8%88%88%ef%bc%9a%e7%ac%ac%e4%b8%89)  
 - [** 鄧炳強：「港獨」思想透過「軟對抗」方式滲透　當局必嚴打 -- Ariel](https://www.bastillepost.com/hongkong/article/8880538-%e9%84%a7%e7%82%b3%e5%bc%b7%ef%bc%9a%e3%80%8c%e6%b8%af%e7%8d%a8%e3%80%8d%e6%80%9d%e6%83%b3%e9%80%8f%e9%81%8e%e3%80%8c%e8%bb%9f%e5%b0%8d%e6%8a%97%e3%80%8d%e6%96%b9%e5%bc%8f%e6%bb%b2%e9%80%8f%e3%80%80)  
+- [** 血液樣本重測顯示：新冠病毒或早在2019年已在意大利傳播 -- 大公文匯](https://www.tkww.hk/a/202107/27/AP60ffc42ae4b0c7e5bed9f340.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
