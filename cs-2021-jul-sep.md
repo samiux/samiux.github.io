@@ -117,5 +117,7 @@
 - [** 指接種第三劑後中和抗體水平顯著增高 科興：第三針或必不可少 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8882150-%e6%8c%87%e6%8e%a5%e7%a8%ae%e7%ac%ac%e4%b8%89%e5%8a%91%e5%be%8c%e4%b8%ad%e5%92%8c%e6%8a%97%e9%ab%94%e6%b0%b4%e5%b9%b3%e9%a1%af%e8%91%97%e5%a2%9e%e9%ab%98-%e7%a7%91%e8%88%88%ef%bc%9a%e7%ac%ac%e4%b8%89)  
 - [** 鄧炳強：「港獨」思想透過「軟對抗」方式滲透　當局必嚴打 -- Ariel](https://www.bastillepost.com/hongkong/article/8880538-%e9%84%a7%e7%82%b3%e5%bc%b7%ef%bc%9a%e3%80%8c%e6%b8%af%e7%8d%a8%e3%80%8d%e6%80%9d%e6%83%b3%e9%80%8f%e9%81%8e%e3%80%8c%e8%bb%9f%e5%b0%8d%e6%8a%97%e3%80%8d%e6%96%b9%e5%bc%8f%e6%bb%b2%e9%80%8f%e3%80%80)  
 - [** 血液樣本重測顯示：新冠病毒或早在2019年已在意大利傳播 -- 大公文匯](https://www.tkww.hk/a/202107/27/AP60ffc42ae4b0c7e5bed9f340.html)  
+- [屈穎妍講你知 - 教育 是鴨子游泳 -- 大公文匯](https://www.tkww.hk/a/202107/28/AP61012377e4b0c7e5beda827d.html)  
+- [拜登︰中國2040年超越美國 -- 深藍](https://www.bastillepost.com/hongkong/article/8891877-%e6%8b%9c%e7%99%bb%ef%b8%b0%e4%b8%ad%e5%9c%8b2040%e5%b9%b4%e8%b6%85%e8%b6%8a%e7%be%8e%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
