@@ -55,6 +55,7 @@
 - [Chong San 沖先生](https://www.youtube.com/channel/UCsGqE-IVUCwyyi_WRsvVLJg)  
 - [冼師傅講場](https://www.youtube.com/channel/UCFRBCHEqZNJ2Rb1IjrCC8Zw)  
 - [【短片】【有聲專欄】屈穎妍:犒賞三軍與殺一儆百](https://samiux.blogspot.com/2021/06/blog-post_25.html)  
+- [屈穎妍講你知 - 教育 是鴨子游泳 -- 大公文匯](https://www.tkww.hk/a/202107/28/AP61012377e4b0c7e5beda827d.html)  
 
 ## Misc
 
