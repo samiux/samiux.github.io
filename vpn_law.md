@@ -28,5 +28,6 @@ OSCE  OSCP  OSWP
 - [34歲男涉煽惑他人犯意圖傷人罪被捕 警方：言論提及「斬警察」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8741528-34%e6%ad%b2%e7%94%b7%e6%b6%89%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e7%8a%af%e6%84%8f%e5%9c%96%e5%82%b7%e4%ba%ba%e7%bd%aa%e8%a2%ab%e6%8d%95-%e8%ad%a6%e6%96%b9%ef%bc%9a%e8%a8%80%e8%ab%96%e6%8f%90)  
 - [煽斬警炸宿舍　連登仔落網 -- 大公文匯](https://www.tkww.hk/a/202107/06/AP60e3a826e4b0c7e5becfe78c.html)  
 - [36歲男網上討論區提用刀傷警被捕 涉煽惑意圖傷人及煽動意圖 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8768447-36%e6%ad%b2%e7%94%b7%e5%ad%90%e8%a2%ab%e6%8d%95%e6%b6%89%e3%80%8c%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e6%84%8f%e5%9c%96%e5%82%b7%e4%ba%ba%e3%80%8d%e5%8f%8a%e3%80%8c%e7%85%bd%e5%8b%95%e6%84%8f%e5%9c%96)  
+- [網上發文針對TVB及商戶 兩人據報涉串謀刑事恐嚇被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8897493-%e7%b6%b2%e4%b8%8a%e7%99%bc%e6%96%87%e9%87%9d%e5%b0%8dtvb%e5%8f%8a%e5%95%86%e6%88%b6-%e5%85%a9%e4%ba%ba%e6%93%9a%e5%a0%b1%e6%b6%89%e4%b8%b2%e8%ac%80%e5%88%91%e4%ba%8b%e6%81%90%e5%9a%87%e8%a2%ab)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
