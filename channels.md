@@ -160,6 +160,7 @@
 - [屈穎妍講你知 - 我們跟大屠殺擦身而過 -- 大公文匯](https://www.tkww.hk/a/202106/07/AP60bdf8d7e4b0c7e5bec1f89c.html)  
 - [【短片】【有聲專欄】屈穎妍:犒賞三軍與殺一儆百](https://samiux.blogspot.com/2021/06/blog-post_25.html)  
 - [冼師傅教路 - 提防攬炒派Plan B　選舉教育等問題亟待解決 -- 文匯網](https://www.wenweipo.com/a/202101/08/AP5ff82679e4b0553aff38b6e4.html)  
+- [國安首犯唐英傑罪成　判囚9年 -- 大公文匯](https://www.tkww.hk/a/202107/30/AP6103a721e4b0c7e5bedb9204.html)  
 
 ## Technology
 
