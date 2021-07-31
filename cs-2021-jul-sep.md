@@ -125,5 +125,6 @@
 - [** 國安首犯唐英傑罪成　判囚9年 -- 大公文匯](https://www.tkww.hk/a/202107/30/AP6103a721e4b0c7e5bedb9204.html)  
 - [美國、中國等多地有民眾接種過疫苗也會感染Delta　國產疫苗保護效力有多強？ -- deepthroat](https://www.bastillepost.com/hongkong/article/8905271-%e7%be%8e%e5%9c%8b%e3%80%81%e4%b8%ad%e5%9c%8b%e7%ad%89%e5%a4%9a%e5%9c%b0%e6%9c%89%e6%b0%91%e7%9c%be%e6%8e%a5%e7%a8%ae%e9%81%8e%e7%96%ab%e8%8b%97%e4%b9%9f%e6%9c%83%e6%84%9f%e6%9f%93delta%e3%80%80)  
 - [中疾控專家：南京疫情可望快速撲滅 中國疫苗不懼Delta -- 毛拍手](https://www.bastillepost.com/hongkong/article/8904210-%e4%b8%ad%e7%96%be%e6%8e%a7%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%8d%97%e4%ba%ac%e7%96%ab%e6%83%85%e5%8f%af%e6%9c%9b%e5%bf%ab%e9%80%9f%e6%92%b2%e6%bb%85-%e4%b8%ad%e5%9c%8b%e7%96%ab%e8%8b%97%e4%b8%8d%e6%87%bcd)  
+- [官媒發炮在前 政府行動在後 新華社評論全文睇 -- Ariel](https://www.bastillepost.com/hongkong/article/8913599-%e5%ae%98%e5%aa%92%e7%99%bc%e7%82%ae%e5%9c%a8%e5%89%8d-%e6%94%bf%e5%ba%9c%e8%a1%8c%e5%8b%95%e5%9c%a8%e5%be%8c-%e6%96%b0%e8%8f%af%e7%a4%be%e8%a9%95%e8%ab%96%e5%85%a8%e6%96%87%e7%9d%87)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
