@@ -205,6 +205,7 @@
 - [輝瑞研究：接種第3劑疫苗能大幅提升保護力 -- 大公文匯](https://www.tkww.hk/a/202107/29/AP61024153e4b0c7e5bedaf92f.html)  
 - [美國、中國等多地有民眾接種過疫苗也會感染Delta　國產疫苗保護效力有多強？ -- deepthroat](https://www.bastillepost.com/hongkong/article/8905271-%e7%be%8e%e5%9c%8b%e3%80%81%e4%b8%ad%e5%9c%8b%e7%ad%89%e5%a4%9a%e5%9c%b0%e6%9c%89%e6%b0%91%e7%9c%be%e6%8e%a5%e7%a8%ae%e9%81%8e%e7%96%ab%e8%8b%97%e4%b9%9f%e6%9c%83%e6%84%9f%e6%9f%93delta%e3%80%80)  
 - [中疾控專家：南京疫情可望快速撲滅 中國疫苗不懼Delta -- 毛拍手](https://www.bastillepost.com/hongkong/article/8904210-%e4%b8%ad%e7%96%be%e6%8e%a7%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%8d%97%e4%ba%ac%e7%96%ab%e6%83%85%e5%8f%af%e6%9c%9b%e5%bf%ab%e9%80%9f%e6%92%b2%e6%bb%85-%e4%b8%ad%e5%9c%8b%e7%96%ab%e8%8b%97%e4%b8%8d%e6%87%bcd)  
+- [「我也許天真了……」又一位美國科學家後悔參加「實驗室洩漏」聯署 -- deepthroat](https://www.bastillepost.com/hongkong/article/8922943-%e3%80%8c%e6%88%91%e4%b9%9f%e8%a8%b1%e5%a4%a9%e7%9c%9f%e4%ba%86%e3%80%8d%e5%8f%88%e4%b8%80%e4%bd%8d%e7%be%8e%e5%9c%8b%e7%a7%91%e5%ad%b8%e5%ae%b6%e5%be%8c%e6%82%94%e5%8f%83%e5%8a%a0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
