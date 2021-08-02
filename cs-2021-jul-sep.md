@@ -128,5 +128,6 @@
 - [官媒發炮在前 政府行動在後 新華社評論全文睇 -- Ariel](https://www.bastillepost.com/hongkong/article/8913599-%e5%ae%98%e5%aa%92%e7%99%bc%e7%82%ae%e5%9c%a8%e5%89%8d-%e6%94%bf%e5%ba%9c%e8%a1%8c%e5%8b%95%e5%9c%a8%e5%be%8c-%e6%96%b0%e8%8f%af%e7%a4%be%e8%a9%95%e8%ab%96%e5%85%a8%e6%96%87%e7%9d%87)  
 - [南京傳播鏈不斷擴散　內地疫情會大規模暴發嗎？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/8917635-%e5%8d%97%e4%ba%ac%e5%82%b3%e6%92%ad%e9%8f%88%e4%b8%8d%e6%96%b7%e6%93%b4%e6%95%a3%e3%80%80%e5%85%a7%e5%9c%b0%e7%96%ab%e6%83%85%e6%9c%83%e5%a4%a7%e8%a6%8f%e6%a8%a1%e6%9a%b4%e7%99%bc%e5%97%8e%ef%bc%9f)  
 - [《紐約時報》反中進入歇斯底里 瘋狂攻擊中國奧運成功 -- deepthroat](https://www.bastillepost.com/hongkong/article/8917083-%e3%80%8a%e7%b4%90%e7%b4%84%e6%99%82%e5%a0%b1%e3%80%8b%e5%8f%8d%e4%b8%ad%e9%80%b2%e5%85%a5%e6%ad%87%e6%96%af%e5%ba%95%e9%87%8c-%e7%98%8b%e7%8b%82%e6%94%bb%e6%93%8a%e4%b8%ad%e5%9c%8b%e5%a5%a7%e9%81%8b)  
+- [** 「我也許天真了……」又一位美國科學家後悔參加「實驗室洩漏」聯署 -- deepthroat](https://www.bastillepost.com/hongkong/article/8922943-%e3%80%8c%e6%88%91%e4%b9%9f%e8%a8%b1%e5%a4%a9%e7%9c%9f%e4%ba%86%e3%80%8d%e5%8f%88%e4%b8%80%e4%bd%8d%e7%be%8e%e5%9c%8b%e7%a7%91%e5%ad%b8%e5%ae%b6%e5%be%8c%e6%82%94%e5%8f%83%e5%8a%a0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
