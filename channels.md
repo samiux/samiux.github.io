@@ -208,6 +208,7 @@
 - [「我也許天真了……」又一位美國科學家後悔參加「實驗室洩漏」聯署 -- deepthroat](https://www.bastillepost.com/hongkong/article/8922943-%e3%80%8c%e6%88%91%e4%b9%9f%e8%a8%b1%e5%a4%a9%e7%9c%9f%e4%ba%86%e3%80%8d%e5%8f%88%e4%b8%80%e4%bd%8d%e7%be%8e%e5%9c%8b%e7%a7%91%e5%ad%b8%e5%ae%b6%e5%be%8c%e6%82%94%e5%8f%83%e5%8a%a0)  
 - [張文宏：上海新增病例打過疫苗　目前密接者中無陽性 -- 大公文匯](https://www.tkww.hk/a/202108/03/AP6108c666e4b0c7e5bedda590.html)  
 - [上海新增病例密接者無陽性　張文宏：說明如果充分接種疫苗，病毒傳播大幅度減緩 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8930632-%e4%b8%8a%e6%b5%b7%e6%96%b0%e5%a2%9e%e7%97%85%e4%be%8b%e5%af%86%e6%8e%a5%e8%80%85%e7%84%a1%e9%99%bd%e6%80%a7%e3%80%80%e5%bc%b5%e6%96%87%e5%ae%8f%ef%bc%9a%e8%aa%aa%e6%98%8e%e5%a6%82%e6%9e%9c%e5%85%85)  
+- [韓國首次發現「德爾塔+」確診病例 -- 大公文匯](https://www.tkww.hk/a/202108/03/AP6108e34ae4b0c7e5beddb26e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
