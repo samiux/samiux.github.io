@@ -212,6 +212,7 @@
 - [國際銳評 - 民意如潮！世衞組織徹查美國刻不容緩 -- 大公文匯](https://www.tkww.hk/a/202108/03/AP61090481e4b0c7e5beddc7c9.html)  
 - [张文宏：南京疫情促使全国经受压力测试 为未来提供更多思考 -- 大公報](http://www.takungpao.com/news/232108/2021/0729/614606.html)  
 - [美媒揭秘「美國病毒秘密」：德特里克堡都幹了什麼？ -- 大公文匯](https://www.tkww.hk/a/202108/04/AP610a739ae4b0c7e5bede5f27.html)  
+- [外媒：美須向世界公開德堡「病毒秘密」 -- 大公文匯](https://www.tkww.hk/a/202108/04/AP610aa333e4b0c7e5bede7906.html)  
 - [世界周刊 - 德特里克堡黑幕](https://www.youtube.com/watch?v=HFszfu4_K1Q)  
 - [全國新冠疫苗累計接種劑次超17億　 有機會10月達至群體免疫 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8940307-%e5%85%a8%e5%9c%8b%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e7%b4%af%e8%a8%88%e6%8e%a5%e7%a8%ae%e5%8a%91%e6%ac%a1%e8%b6%8517%e5%84%84%e3%80%80-%e6%9c%89%e6%a9%9f%e6%9c%8310%e6%9c%88%e9%81%94%e8%87%b3)  
 - [內地新一波疫情的3個啟示 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8940933-%e5%85%a7%e5%9c%b0%e6%96%b0%e4%b8%80%e6%b3%a2%e7%96%ab%e6%83%85%e7%9a%843%e5%80%8b%e5%95%9f%e7%a4%ba)  
