@@ -219,6 +219,7 @@
 - [全國新冠疫苗累計接種劑次超17億　 有機會10月達至群體免疫 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8940307-%e5%85%a8%e5%9c%8b%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e7%b4%af%e8%a8%88%e6%8e%a5%e7%a8%ae%e5%8a%91%e6%ac%a1%e8%b6%8517%e5%84%84%e3%80%80-%e6%9c%89%e6%a9%9f%e6%9c%8310%e6%9c%88%e9%81%94%e8%87%b3)  
 - [內地新一波疫情的3個啟示 -- 盧永雄](https://www.bastillepost.com/hongkong/article/8940933-%e5%85%a7%e5%9c%b0%e6%96%b0%e4%b8%80%e6%b3%a2%e7%96%ab%e6%83%85%e7%9a%843%e5%80%8b%e5%95%9f%e7%a4%ba)  
 - [盧永雄「巴士的點評」內地新一波疫情的3個啟示。李顯龍警告美國：中國不會消失，這不是蘇聯](https://www.bastillepost.com/hongkong/article/8941225-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e5%85%a7%e5%9c%b0%e6%96%b0%e4%b8%80%e6%b3%a2%e7%96%ab%e6%83%85%e7%9a%843%e5%80%8b%e5%95%9f%e7%a4%ba%e3%80%82)  
+- [國藥：「生物導彈」有效對抗Delta -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610b5455e4b0c7e5bedeacf0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
