@@ -141,5 +141,6 @@
 - [盧永雄「巴士的點評」內地新一波疫情的3個啟示。李顯龍警告美國：中國不會消失，這不是蘇聯](https://www.bastillepost.com/hongkong/article/8941225-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e5%85%a7%e5%9c%b0%e6%96%b0%e4%b8%80%e6%b3%a2%e7%96%ab%e6%83%85%e7%9a%843%e5%80%8b%e5%95%9f%e7%a4%ba%e3%80%82)  
 - [國藥：「生物導彈」有效對抗Delta -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610b5455e4b0c7e5bedeacf0.html)  
 - [** 這張圖，精準地打擊美國謠言 -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610bb76be4b0c7e5bedee956.html)  
+- [美國已編好病毒溯源的「入侵伊拉克」劇本，要對中國發起總攻了！ -- 深喉](https://www.bastillepost.com/hongkong/article/8959791-%e7%be%8e%e5%9c%8b%e5%b7%b2%e7%b7%a8%e5%a5%bd%e7%97%85%e6%af%92%e6%ba%af%e6%ba%90%e7%9a%84%e3%80%8c%e5%85%a5%e4%be%b5%e4%bc%8a%e6%8b%89%e5%85%8b%e3%80%8d%e5%8a%87%e6%9c%ac%ef%bc%8c%e8%a6%81%e5%b0%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
