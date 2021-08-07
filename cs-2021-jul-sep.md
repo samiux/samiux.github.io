@@ -142,5 +142,6 @@
 - [國藥：「生物導彈」有效對抗Delta -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610b5455e4b0c7e5bedeacf0.html)  
 - [** 這張圖，精準地打擊美國謠言 -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610bb76be4b0c7e5bedee956.html)  
 - [美國已編好病毒溯源的「入侵伊拉克」劇本，要對中國發起總攻了！ -- 深喉](https://www.bastillepost.com/hongkong/article/8959791-%e7%be%8e%e5%9c%8b%e5%b7%b2%e7%b7%a8%e5%a5%bd%e7%97%85%e6%af%92%e6%ba%af%e6%ba%90%e7%9a%84%e3%80%8c%e5%85%a5%e4%be%b5%e4%bc%8a%e6%8b%89%e5%85%8b%e3%80%8d%e5%8a%87%e6%9c%ac%ef%bc%8c%e8%a6%81%e5%b0%8d)  
+- [** 華為上半年銷售收入3204億   稱要「有質量」地活下去 -- 大公文匯](https://www.tkww.hk/a/202108/07/AP610e4197e4b0c7e5bedfe51b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
