@@ -222,6 +222,7 @@
 - [國藥：「生物導彈」有效對抗Delta -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610b5455e4b0c7e5bedeacf0.html)  
 - [這張圖，精準地打擊美國謠言 -- 大公文匯](https://www.tkww.hk/a/202108/05/AP610bb76be4b0c7e5bedee956.html)  
 - [深度追蹤 - 2019年軍運會之前　美國還發生了什麼？ -- 大公文匯](https://www.tkww.hk/a/202108/08/AP610f33bde4b0c7e5bee030a6.html)  
+- [新華社記者擊破涉華新冠溯源陰謀論 -- 大公文匯](https://www.tkww.hk/a/202108/08/AP610fa4d7e4b0c7e5bee06c35.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
