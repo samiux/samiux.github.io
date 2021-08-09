@@ -224,6 +224,7 @@
 - [深度追蹤 - 2019年軍運會之前　美國還發生了什麼？ -- 大公文匯](https://www.tkww.hk/a/202108/08/AP610f33bde4b0c7e5bee030a6.html)  
 - [新華社記者擊破涉華新冠溯源陰謀論 -- 大公文匯](https://www.tkww.hk/a/202108/08/AP610fa4d7e4b0c7e5bee06c35.html)  
 - [抗疫「美國第一」 ？ 智庫報告揭美國抗疫真相 -- 大公文匯](https://www.tkww.hk/a/202108/09/AP6110ea2be4b0c7e5bee0d287.html)  
+- [全力反擊美國借病毒溯源搞局　中國智庫發布報告揭美國抗疫真相 -- 深喉](https://www.bastillepost.com/hongkong/article/8976325-%e5%85%a8%e5%8a%9b%e5%8f%8d%e6%93%8a%e7%be%8e%e5%9c%8b%e5%80%9f%e7%97%85%e6%af%92%e6%ba%af%e6%ba%90%e6%90%9e%e5%b1%80%e3%80%80%e4%b8%ad%e5%9c%8b%e6%99%ba%e5%ba%ab%e7%99%bc%e5%b8%83%e5%a0%b1%e5%91%8a)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
