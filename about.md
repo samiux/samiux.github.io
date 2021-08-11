@@ -2,7 +2,7 @@
 
 # Who am I?
 
-Samiux is a CyberSecurity Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab and Capture The Flag (CTF) challenges.  
+Samiux is a CyberSecurity Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.  
 
 His slogan are :
 
@@ -46,14 +46,8 @@ He can be reached at :
 - [CyberSecurity Ninjas](https://samiux.github.io) 
 - [Gitee](https://gitee.com/samiux)  
 - [GitHub](https://github.com/samiux)  
-- [ImaginaryCTF (Discord Server)](https://discord.gg/vReKWNxPuE)  
-- [picoCTF (Discord Server)](https://discord.gg/WQGdYaB)  
 - [pwntools (Discord Server)](https://discord.gg/96VA2zvjCB)  
 - [pwndbg (Discord Server)](https://discord.gg/x47DssnGwm)  
-
-His Capture The Flag (CTF) Jeopardy challenges are :  
-- Pwn (Lovin' it)    
-- Reverse (Interested in it)  
 
 ## **Reference**
 
