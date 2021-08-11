@@ -234,6 +234,7 @@
 - [病毒出現時間不斷提前　究竟誰是美國「零號病人」? -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113742ae4b0c7e5bee1b13d.html)  
 - [研究指新冠病毒或2019年夏末已在意大利傳播 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP611386f9e4b0c7e5bee1b9a4.html)  
 - [武漢軍運會期間　美國這些舉動疑點重重 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113878ce4b0c7e5bee1b9f7.html)  
+- [英國《自然》雜誌：美國不少白尾鹿體內存在新冠病毒抗體　如何感染成謎團 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113d680e4b0c7e5bee1d68f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
