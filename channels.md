@@ -228,6 +228,9 @@
 - [針對中國的溯源陰謀論破產了  -- 大公文匯](https://mp.weixin.qq.com/s/p7dZepS3psIKuhxdQlkcZg)  
 - [重大突破！美國野生動物2019年就有了新冠抗體 -- 大公文匯](https://www.tkww.hk/a/202108/10/AP61123de2e4b0c7e5bee13fb5.html)
 - [菲媒深挖2019年美國疫情時間線　多個環節「細思極恐」 -- 大公文匯](https://www.tkww.hk/a/202108/10/AP61124190e4b0c7e5bee14577.html)  
+- [智庫揭美抗疫失敗　華府視而不見 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP611329c9e4b0c7e5bee19068.html)  
+- [接種亂象　美國近千人偷打加強劑 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP61132791e4b0c7e5bee18eb0.html)  
+- [逾21萬美軍染疫　戰艦淪重災區 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP61132640e4b0c7e5bee18db1.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
