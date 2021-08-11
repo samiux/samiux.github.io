@@ -232,6 +232,8 @@
 - [接種亂象　美國近千人偷打加強劑 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP61132791e4b0c7e5bee18eb0.html)  
 - [逾21萬美軍染疫　戰艦淪重災區 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP61132640e4b0c7e5bee18db1.html)  
 - [病毒出現時間不斷提前　究竟誰是美國「零號病人」? -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113742ae4b0c7e5bee1b13d.html)  
+- [研究指新冠病毒或2019年夏末已在意大利傳播 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP611386f9e4b0c7e5bee1b9a4.html)  
+- [武漢軍運會期間　美國這些舉動疑點重重 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113878ce4b0c7e5bee1b9f7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
