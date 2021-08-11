@@ -1,6 +1,12 @@
 # Croissants ChangeLog
 
-### Version - 6.0.2.0 [Stable, Latest]  
+### Version - 6.0.3.0 [Stable, Latest]  
+Release date : 2021-08-12 - GMT+8  
+[+] Suricata upgraded to 6.0.3
+[+] Simplified the structure  
+[+] Minor bugs fixed  
+
+### Version - 6.0.2.0  
 Release date : 2021-03-03 - GMT+8  
 [+] Suricata upgraded to 6.0.2  
 
