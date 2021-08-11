@@ -231,6 +231,7 @@
 - [智庫揭美抗疫失敗　華府視而不見 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP611329c9e4b0c7e5bee19068.html)  
 - [接種亂象　美國近千人偷打加強劑 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP61132791e4b0c7e5bee18eb0.html)  
 - [逾21萬美軍染疫　戰艦淪重災區 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP61132640e4b0c7e5bee18db1.html)  
+- [病毒出現時間不斷提前　究竟誰是美國「零號病人」? -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113742ae4b0c7e5bee1b13d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
