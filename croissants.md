@@ -57,6 +57,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 - 3 Network Interface Cards/Ports (Network Based only)  
 - 1 Network Interface Card/Port (Host Based only)  
 - CPU with AVX2 or better (at least SSSE3)  
+- More cores and faster CPU the better performance  
 
 ### Software
 
