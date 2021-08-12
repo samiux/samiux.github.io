@@ -237,6 +237,7 @@
 - [英國《自然》雜誌：美國不少白尾鹿體內存在新冠病毒抗體　如何感染成謎團 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113d680e4b0c7e5bee1d68f.html)  
 - [國藥科興第三針對變異毒株更有效 -- 大公文匯](https://www.tkww.hk/a/202108/12/AP6114741fe4b0c7e5bee1fc80.html)  
 - [新冠溯源謎團：美民眾自述2019年已染疫  -- 大公文匯](https://mp.weixin.qq.com/s/XvRTXRETu9N718K_5FR0TQ)  
+- [打輝瑞莫德納後現腎病 歐洲藥管局正研究是否疫苗副作用 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8993734-%e6%89%93%e8%bc%9d%e7%91%9e%e8%8e%ab%e5%be%b7%e7%b4%8d%e5%be%8c%e7%8f%be%e8%85%8e%e7%97%85-%e6%ad%90%e6%b4%b2%e8%97%a5%e7%ae%a1%e5%b1%80%e6%ad%a3%e7%a0%94%e7%a9%b6%e6%98%af%e5%90%a6%e7%96%ab%e8%8b%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
