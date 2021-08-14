@@ -241,6 +241,7 @@
 - [阿斯利康疫苗研發負責人：面對德爾塔毒株　群體免疫已無可能 -- 大公文匯](https://www.tkww.hk/a/202108/12/AP6114ba64e4b0c7e5bee21eff.html)  
 - [國家衞健委發布新版戴口罩指引　人員密集室外場所需佩戴口罩 -- 大公文匯](https://www.tkww.hk/a/202108/13/AP61162bc4e4b0c7e5bee29f2c.html)  
 - [我們聯繫到了這些美國人　他們說自己很早就患上了新冠 -- 大公文匯](https://www.tkww.hk/a/202108/14/AP61171739e4b0c7e5bee2ecd1.html)  
+- [國產「光疫苗」　保障中國奧運代表團新冠零感染 -- 大公文匯](https://www.tkww.hk/a/202108/14/AP61173725e4b0c7e5bee2fe68.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
