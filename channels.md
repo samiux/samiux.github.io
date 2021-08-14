@@ -240,6 +240,7 @@
 - [打輝瑞莫德納後現腎病 歐洲藥管局正研究是否疫苗副作用 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8993734-%e6%89%93%e8%bc%9d%e7%91%9e%e8%8e%ab%e5%be%b7%e7%b4%8d%e5%be%8c%e7%8f%be%e8%85%8e%e7%97%85-%e6%ad%90%e6%b4%b2%e8%97%a5%e7%ae%a1%e5%b1%80%e6%ad%a3%e7%a0%94%e7%a9%b6%e6%98%af%e5%90%a6%e7%96%ab%e8%8b%97)  
 - [阿斯利康疫苗研發負責人：面對德爾塔毒株　群體免疫已無可能 -- 大公文匯](https://www.tkww.hk/a/202108/12/AP6114ba64e4b0c7e5bee21eff.html)  
 - [國家衞健委發布新版戴口罩指引　人員密集室外場所需佩戴口罩 -- 大公文匯](https://www.tkww.hk/a/202108/13/AP61162bc4e4b0c7e5bee29f2c.html)  
+- [我們聯繫到了這些美國人　他們說自己很早就患上了新冠 -- 大公文匯](https://www.tkww.hk/a/202108/14/AP61171739e4b0c7e5bee2ecd1.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
