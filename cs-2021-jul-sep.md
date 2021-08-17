@@ -159,5 +159,6 @@
 - [英國《自然》雜誌：美國不少白尾鹿體內存在新冠病毒抗體　如何感染成謎團 -- 大公文匯](https://www.tkww.hk/a/202108/11/AP6113d680e4b0c7e5bee1d68f.html)  
 - [日媒：中國向「世界第一科學大國」衝刺 美國開始失去領先優勢 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9008032-%e6%97%a5%e5%aa%92%ef%bc%9a%e4%b8%ad%e5%9c%8b%e5%90%91%e3%80%8c%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%e7%a7%91%e5%ad%b8%e5%a4%a7%e5%9c%8b%e3%80%8d%e8%a1%9d%e5%88%ba-%e7%be%8e%e5%9c%8b%e9%96%8b%e5%a7%8b)  
 - [** 到底是誰在強迫勞動？「現代奴隸制」在美國私營監獄裏上演 -- 大公文匯](https://www.tkww.hk/a/202108/14/AP61179bb2e4b0c7e5bee32439.html)  
+- [** 美國求中國穩定阿富汗局面兼反恐 王毅教訓布林肯: 不能一方面遏制打壓中國 又指望中方支持配合 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9026721-%e7%be%8e%e5%9c%8b%e6%b1%82%e4%b8%ad%e5%9c%8b%e7%a9%a9%e5%ae%9a%e9%98%bf%e5%af%8c%e6%b1%97%e5%b1%80%e9%9d%a2%e5%85%bc%e5%8f%8d%e6%81%90-%e7%8e%8b%e6%af%85%e6%95%99%e8%a8%93%e5%b8%83%e6%9e%97%e8%82%af)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
