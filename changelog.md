@@ -2,7 +2,7 @@
 
 ### Version - 6.0.3.0 [Stable, Latest]  
 Release date : 2021-08-12 - GMT+8  
-[+] Suricata upgraded to 6.0.3
+[+] Suricata upgraded to 6.0.3  
 [+] Simplified the structure  
 [+] Minor bugs fixed  
 
