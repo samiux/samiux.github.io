@@ -63,7 +63,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 - Ubuntu Server 20.04.2 LTS (64-bit)  
 - __netplan__ as default  
-- Support WIFI (for Monitoring Interface only)  
+- Support WIFI (for Monitoring Interface only) (Intel AX200 for WPA3 is not recommended as it is unstable)  
 
 ## MAIN COMPONENTS
 
