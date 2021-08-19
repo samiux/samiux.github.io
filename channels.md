@@ -243,6 +243,7 @@
 - [我們聯繫到了這些美國人　他們說自己很早就患上了新冠 -- 大公文匯](https://www.tkww.hk/a/202108/14/AP61171739e4b0c7e5bee2ecd1.html)  
 - [國產「光疫苗」　保障中國奧運代表團新冠零感染 -- 大公文匯](https://www.tkww.hk/a/202108/14/AP61173725e4b0c7e5bee2fe68.html)  
 - [內地累計接種新冠疫苗超19億劑次 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9043773-%e5%85%a7%e5%9c%b0%e7%b4%af%e8%a8%88%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e9%80%be19%e5%84%84%e5%8a%91%e6%ac%a1)  
+- [牛津研究：接種輝瑞疫苗三個月後　對德株效用明顯減低 -- 大公文匯](https://www.tkww.hk/a/202108/19/AP611e42b4e4b0c7e5bee5a795.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
