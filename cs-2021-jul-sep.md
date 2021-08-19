@@ -165,5 +165,7 @@
 - [美國在阿富汗遭遇了怎樣的「四大失敗」？ -- 大公文匯](https://www.tkww.hk/a/202108/19/AP611e012ee4b0c7e5bee58828.html)  
 - [漫畫對比中美20年：美花上萬億阿富汗打仗　中國花上萬億搞基建 -- 大公文匯](https://www.tkww.hk/a/202108/19/AP611e179ce4b0c7e5bee59214.html)  
 - [內地累計接種新冠疫苗超19億劑次 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9043773-%e5%85%a7%e5%9c%b0%e7%b4%af%e8%a8%88%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e9%80%be19%e5%84%84%e5%8a%91%e6%ac%a1)  
-
+- [李彤「巴士的點評」賣國陰謀揭盅，黎智英「今次大鑊了」。肥佬黎4部曲想推翻中共，馬前卒變汚點證人好致命](https://www.bastillepost.com/hongkong/article/9045402-%e6%9d%8e%e5%bd%a4%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e8%b3%a3%e5%9c%8b%e9%99%b0%e8%ac%80%e6%8f%ad%e7%9b%85%ef%bc%8c%e9%bb%8e%e6%99%ba%e8%8b%b1%e3%80%8c%e4%bb%8a%e6%ac%a1)  
+- [牛津研究：接種輝瑞疫苗三個月後　對德株效用明顯減低 -- 大公文匯](https://www.tkww.hk/a/202108/19/AP611e42b4e4b0c7e5bee5a795.html)  
+ 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
