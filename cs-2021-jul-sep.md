@@ -167,5 +167,9 @@
 - [內地累計接種新冠疫苗超19億劑次 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9043773-%e5%85%a7%e5%9c%b0%e7%b4%af%e8%a8%88%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e9%80%be19%e5%84%84%e5%8a%91%e6%ac%a1)  
 - [李彤「巴士的點評」賣國陰謀揭盅，黎智英「今次大鑊了」。肥佬黎4部曲想推翻中共，馬前卒變汚點證人好致命](https://www.bastillepost.com/hongkong/article/9045402-%e6%9d%8e%e5%bd%a4%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e8%b3%a3%e5%9c%8b%e9%99%b0%e8%ac%80%e6%8f%ad%e7%9b%85%ef%bc%8c%e9%bb%8e%e6%99%ba%e8%8b%b1%e3%80%8c%e4%bb%8a%e6%ac%a1)  
 - [牛津研究：接種輝瑞疫苗三個月後　對德株效用明顯減低 -- 大公文匯](https://www.tkww.hk/a/202108/19/AP611e42b4e4b0c7e5bee5a795.html)  
- 
+  [** 一圖 - 黎智英勾結外力　出錢出力推反華宣傳罪證曝光 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f9863e4b0c7e5bee627fb.html)  
+- [中國5G手機終端連接數達3.92億戶 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611fa4e4e4b0c7e5bee62f46.html)  
+- [拉姆達毒株引發關注 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f98c3e4b0c7e5bee62845.html)  
+- [鍾南山：國產滅活疫苗對Delta變種病毒重症保護率為百分百 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9052222-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e5%9c%8b%e7%94%a2%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97%e5%b0%8ddelta%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e4%bf%9d%e8%ad%b7%e7%8e%87%e6%8e%a5%e8%bf%916%e6%88%90)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
