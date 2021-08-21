@@ -245,6 +245,8 @@
 - [內地累計接種新冠疫苗超19億劑次 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9043773-%e5%85%a7%e5%9c%b0%e7%b4%af%e8%a8%88%e6%8e%a5%e7%a8%ae%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e9%80%be19%e5%84%84%e5%8a%91%e6%ac%a1)  
 - [牛津研究：接種輝瑞疫苗三個月後　對德株效用明顯減低 -- 大公文匯](https://www.tkww.hk/a/202108/19/AP611e42b4e4b0c7e5bee5a795.html)  
 - [中國何時能建立有效群體免疫？鍾南山最新發聲 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f7c51e4b0c7e5bee61989.html)  
+- [拉姆達毒株引發關注 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f98c3e4b0c7e5bee62845.html)  
+- [鍾南山：國產滅活疫苗對Delta變種病毒重症保護率為百分百 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9052222-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e5%9c%8b%e7%94%a2%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97%e5%b0%8ddelta%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e4%bf%9d%e8%ad%b7%e7%8e%87%e6%8e%a5%e8%bf%916%e6%88%90)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
