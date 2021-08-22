@@ -174,5 +174,7 @@
 - [老人易摔倒是因为肌肉少？医生推荐2招“补肉肉” -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14050056)  
 - [这类食物吃得越多，皮肤老化得越快 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14041014)  
 - [** 精準打擊　火箭軍新型導彈出鞘 射程覆蓋台島 -- 大公文匯](https://www.tkww.hk/a/202108/22/AP612193b7e4b0c7e5bee6d977.html)  
+- [** 鍾南山最新判斷：疫苗加強針效果很明顯 中國年底可達群體免疫 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9061603-%e9%8d%be%e5%8d%97%e5%b1%b1%e6%9c%80%e6%96%b0%e5%88%a4%e6%96%b7%ef%bc%9a%e7%96%ab%e8%8b%97%e5%8a%a0%e5%bc%b7%e9%87%9d%e6%95%88%e6%9e%9c%e5%be%88%e6%98%8e%e9%a1%af-%e4%b8%ad%e5%9c%8b%e5%b9%b4%e5%ba%95)  
+- [** 解放軍試射新型導彈 能「癱毀」敵軍防禦信息體系 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9061712-%e8%a7%a3%e6%94%be%e8%bb%8d%e8%a9%a6%e5%b0%84%e6%96%b0%e5%9e%8b%e5%b0%8e%e5%bd%88-%e8%83%bd%e3%80%8c%e7%99%b1%e6%af%80%e3%80%8d%e6%95%b5%e8%bb%8d%e9%98%b2%e7%a6%a6%e4%bf%a1%e6%81%af%e9%ab%94%e7%b3%bb)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
