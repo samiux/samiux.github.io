@@ -248,6 +248,7 @@
 - [中國何時能建立有效群體免疫？鍾南山最新發聲 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f7c51e4b0c7e5bee61989.html)  
 - [拉姆達毒株引發關注 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f98c3e4b0c7e5bee62845.html)  
 - [鍾南山：國產滅活疫苗對Delta變種病毒重症保護率為百分百 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9052222-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e5%9c%8b%e7%94%a2%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97%e5%b0%8ddelta%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e4%bf%9d%e8%ad%b7%e7%8e%87%e6%8e%a5%e8%bf%916%e6%88%90)  
+- [鍾南山最新判斷：疫苗加強針效果很明顯 中國年底可達群體免疫 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9061603-%e9%8d%be%e5%8d%97%e5%b1%b1%e6%9c%80%e6%96%b0%e5%88%a4%e6%96%b7%ef%bc%9a%e7%96%ab%e8%8b%97%e5%8a%a0%e5%bc%b7%e9%87%9d%e6%95%88%e6%9e%9c%e5%be%88%e6%98%8e%e9%a1%af-%e4%b8%ad%e5%9c%8b%e5%b9%b4%e5%ba%95)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
