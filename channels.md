@@ -249,6 +249,11 @@
 - [拉姆達毒株引發關注 -- 大公文匯](https://www.tkww.hk/a/202108/20/AP611f98c3e4b0c7e5bee62845.html)  
 - [鍾南山：國產滅活疫苗對Delta變種病毒重症保護率為百分百 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9052222-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e5%9c%8b%e7%94%a2%e6%bb%85%e6%b4%bb%e7%96%ab%e8%8b%97%e5%b0%8ddelta%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e4%bf%9d%e8%ad%b7%e7%8e%87%e6%8e%a5%e8%bf%916%e6%88%90)  
 - [鍾南山最新判斷：疫苗加強針效果很明顯 中國年底可達群體免疫 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9061603-%e9%8d%be%e5%8d%97%e5%b1%b1%e6%9c%80%e6%96%b0%e5%88%a4%e6%96%b7%ef%bc%9a%e7%96%ab%e8%8b%97%e5%8a%a0%e5%bc%b7%e9%87%9d%e6%95%88%e6%9e%9c%e5%be%88%e6%98%8e%e9%a1%af-%e4%b8%ad%e5%9c%8b%e5%b9%b4%e5%ba%95)  
+- [猝死第3例！44歲男子前天打完高端　今早工作時昏倒死亡 -- 大公文匯](https://www.tkww.hk/a/202108/25/AP6125d655e4b0c7e5bee881a9.html)  
+- [美媒：中國開先河　控制住Delta疫情 -- 大公文匯](https://www.tkww.hk/a/202108/25/AP61259e62e4b0c7e5bee867d8.html)  
+- [美國新冠時間線推前　中方促調查 -- 大公文匯](https://www.tkww.hk/a/202108/25/AP61259c82e4b0c7e5bee86699.html)  
+- [美國CDC研究：疫苗對抗Delta效力降為66% -- 巴士的報](https://www.bastillepost.com/hongkong/article/9079366-%e7%be%8e%e5%9c%8bcdc%e7%a0%94%e7%a9%b6%ef%bc%9a%e7%96%ab%e8%8b%97%e5%b0%8d%e6%8a%97delta%e6%95%88%e5%8a%9b%e9%99%8d%e7%82%ba66)  
+- [台網絡作家陸之駿 接種完高端疫苗一日內死亡 打完針留言: 「科學證實，高端最有效也最安全」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9079163-%e5%8f%b0%e7%b6%b2%e7%b5%a1%e4%bd%9c%e5%ae%b6%e9%99%b8%e4%b9%8b%e9%a7%bf-%e6%8e%a5%e7%a8%ae%e5%ae%8c%e9%ab%98%e7%ab%af%e7%96%ab%e8%8b%97%e4%b8%80%e6%97%a5%e5%85%a7%e6%ad%bb%e4%ba%a1-%e6%89%93%e5%ae%8c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
