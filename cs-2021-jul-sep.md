@@ -184,5 +184,7 @@
 - [美國新冠時間線推前　中方促調查 -- 大公文匯](https://www.tkww.hk/a/202108/25/AP61259c82e4b0c7e5bee86699.html)  
 - [美國CDC研究：疫苗對抗Delta效力降為66% -- 巴士的報](https://www.bastillepost.com/hongkong/article/9079366-%e7%be%8e%e5%9c%8bcdc%e7%a0%94%e7%a9%b6%ef%bc%9a%e7%96%ab%e8%8b%97%e5%b0%8d%e6%8a%97delta%e6%95%88%e5%8a%9b%e9%99%8d%e7%82%ba66)  
 - [台網絡作家陸之駿 接種完高端疫苗一日內死亡 打完針留言: 「科學證實，高端最有效也最安全」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9079163-%e5%8f%b0%e7%b6%b2%e7%b5%a1%e4%bd%9c%e5%ae%b6%e9%99%b8%e4%b9%8b%e9%a7%bf-%e6%8e%a5%e7%a8%ae%e5%ae%8c%e9%ab%98%e7%ab%af%e7%96%ab%e8%8b%97%e4%b8%80%e6%97%a5%e5%85%a7%e6%ad%bb%e4%ba%a1-%e6%89%93%e5%ae%8c)  
+- [** 中央組織部：十八大以來逾90萬黨員出黨 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9088357-%e4%b8%ad%e5%a4%ae%e7%b5%84%e7%b9%94%e9%83%a8%ef%bc%9a%e8%87%aa%e5%8d%81%e5%85%ab%e5%a4%a7%e4%bb%a5%e4%be%86%e9%80%be90%e8%90%ac%e9%bb%a8%e5%93%a1%e5%87%ba%e9%bb%a8)  
+- [** 《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
