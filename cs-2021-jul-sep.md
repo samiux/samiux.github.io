@@ -188,5 +188,6 @@
 - [** 《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
 - [趙立堅點讚90後組合「天府事變」 發歌《説唱：打開德堡的大門》 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9089174-%e8%b6%99%e7%ab%8b%e5%a0%85%e9%bb%9e%e8%ae%9a90%e5%be%8c%e7%b5%84%e5%90%88%e3%80%8c%e5%a4%a9%e5%ba%9c%e4%ba%8b%e8%ae%8a%e3%80%8d-%e7%99%bc%e6%ad%8c%e3%80%8a%e8%aa%ac%e5%94%b1%ef%bc%9a%e6%89%93)  
 - [** 上海沐曦完成 10 億融資！目標研發 5nm 高端全兼容國產 GPU！ -- ezone](https://ezone.ulifestyle.com.hk/article/3043221/%E4%B8%8A%E6%B5%B7%E6%B2%90%E6%9B%A6%E5%AE%8C%E6%88%90%2010%20%E5%84%84%E8%9E%8D%E8%B3%87%EF%BC%81%E7%9B%AE%E6%A8%99%E7%A0%94%E7%99%BC%205nm%20%E9%AB%98%E7%AB%AF%E5%85%A8%E5%85%BC%E5%AE%B9%E5%9C%8B%E7%94%A2%20GPU%EF%BC%81)  
+- [美國智庫德蘭公司的「趕絕客書」-- 深藍](https://www.bastillepost.com/hongkong/article/9091026-%e7%be%8e%e5%9c%8b%e6%99%ba%e5%ba%ab%e5%be%b7%e8%98%ad%e5%85%ac%e5%8f%b8%e7%9a%84%e3%80%8c%e8%b6%95%e7%b5%95%e5%ae%a2%e6%9b%b8%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
