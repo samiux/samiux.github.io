@@ -186,5 +186,7 @@
 - [台網絡作家陸之駿 接種完高端疫苗一日內死亡 打完針留言: 「科學證實，高端最有效也最安全」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9079163-%e5%8f%b0%e7%b6%b2%e7%b5%a1%e4%bd%9c%e5%ae%b6%e9%99%b8%e4%b9%8b%e9%a7%bf-%e6%8e%a5%e7%a8%ae%e5%ae%8c%e9%ab%98%e7%ab%af%e7%96%ab%e8%8b%97%e4%b8%80%e6%97%a5%e5%85%a7%e6%ad%bb%e4%ba%a1-%e6%89%93%e5%ae%8c)  
 - [** 中央組織部：十八大以來逾90萬黨員出黨 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9088357-%e4%b8%ad%e5%a4%ae%e7%b5%84%e7%b9%94%e9%83%a8%ef%bc%9a%e8%87%aa%e5%8d%81%e5%85%ab%e5%a4%a7%e4%bb%a5%e4%be%86%e9%80%be90%e8%90%ac%e9%bb%a8%e5%93%a1%e5%87%ba%e9%bb%a8)  
 - [** 《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
+- [趙立堅點讚90後組合「天府事變」 發歌《説唱：打開德堡的大門》 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9089174-%e8%b6%99%e7%ab%8b%e5%a0%85%e9%bb%9e%e8%ae%9a90%e5%be%8c%e7%b5%84%e5%90%88%e3%80%8c%e5%a4%a9%e5%ba%9c%e4%ba%8b%e8%ae%8a%e3%80%8d-%e7%99%bc%e6%ad%8c%e3%80%8a%e8%aa%ac%e5%94%b1%ef%bc%9a%e6%89%93)  
+- [** 上海沐曦完成 10 億融資！目標研發 5nm 高端全兼容國產 GPU！ -- ezone](https://ezone.ulifestyle.com.hk/article/3043221/%E4%B8%8A%E6%B5%B7%E6%B2%90%E6%9B%A6%E5%AE%8C%E6%88%90%2010%20%E5%84%84%E8%9E%8D%E8%B3%87%EF%BC%81%E7%9B%AE%E6%A8%99%E7%A0%94%E7%99%BC%205nm%20%E9%AB%98%E7%AB%AF%E5%85%A8%E5%85%BC%E5%AE%B9%E5%9C%8B%E7%94%A2%20GPU%EF%BC%81)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
