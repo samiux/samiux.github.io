@@ -16,6 +16,7 @@
 - [《数据安全法》-- FreeBuf](https://www.freebuf.com/news/277111.html)  
 - [《网络产品安全漏洞管理规定》-- FreeBuf](https://www.freebuf.com/news/280579.html)  
 - [中华人民共和国个人信息保护法（全文）-- Freebuf](https://www.freebuf.com/news/285633.html)  
+- [《个人信息保护法》强在哪？我们又该如何准备 -- Freebuf](https://www.freebuf.com/articles/neopoints/286092.html)  
 
 ### Common Sense
 
