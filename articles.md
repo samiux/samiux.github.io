@@ -21,6 +21,7 @@
 ### Common Sense
 
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
+- [《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
