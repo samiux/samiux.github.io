@@ -182,6 +182,7 @@
 - [“加密”和“破译”的永恒之战 -- 「军事科技 Military Technology」-- 军迷天下](https://samiux.blogspot.com/2021/02/military-technology.html)  
 - [「祖沖之號」問世　量子技術領先全球 -- 大公文匯](https://www.tkww.hk/a/202105/10/AP60987ac7e4b0c6fb6f6a07a9.html)  
 - [我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
+- [國內 7nm 晶片正式試產 中國科學院成功設計 14nm 香山晶片 -- ezone](https://ezone.ulifestyle.com.hk/article/3044352/%E5%9C%8B%E5%85%A7%207nm%20%E6%99%B6%E7%89%87%E6%AD%A3%E5%BC%8F%E8%A9%A6%E7%94%A2%20%20%E4%B8%AD%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%99%A2%E6%88%90%E5%8A%9F%E8%A8%AD%E8%A8%88%2014nm%20%E9%A6%99%E5%B1%B1%E6%99%B6%E7%89%87)  
 
 ## Misc.
 
