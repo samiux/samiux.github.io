@@ -59,6 +59,7 @@
 - [屈穎妍講你知 - 教育 是鴨子游泳 -- 大公文匯](https://www.tkww.hk/a/202107/28/AP61012377e4b0c7e5beda827d.html)  
 - [新華社發表萬字長文　披露美方借涉港問題干涉中國內政真相 -- 大公文匯](https://www.tkww.hk/a/202108/04/AP610a7f6ce4b0c7e5bede66ba.html)  
 - [美政客究竟和誰站在一起?美方涉港問題真相來了 -- 大公文匯](https://www.tkww.hk/a/202108/04/AP610a1a27e4b0c7e5bede334f.html)  
+- [港人北上 - 在深港人居住證怎樣辦？港青帽哥帶你體驗申領全過程！ -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612b3ed0e4b0c7e5beea6c6b.html)  
 
 ## Misc
 
