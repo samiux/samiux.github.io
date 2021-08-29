@@ -255,6 +255,8 @@
 - [美國新冠時間線推前　中方促調查 -- 大公文匯](https://www.tkww.hk/a/202108/25/AP61259c82e4b0c7e5bee86699.html)  
 - [美國CDC研究：疫苗對抗Delta效力降為66% -- 巴士的報](https://www.bastillepost.com/hongkong/article/9079366-%e7%be%8e%e5%9c%8bcdc%e7%a0%94%e7%a9%b6%ef%bc%9a%e7%96%ab%e8%8b%97%e5%b0%8d%e6%8a%97delta%e6%95%88%e5%8a%9b%e9%99%8d%e7%82%ba66)  
 - [台網絡作家陸之駿 接種完高端疫苗一日內死亡 打完針留言: 「科學證實，高端最有效也最安全」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9079163-%e5%8f%b0%e7%b6%b2%e7%b5%a1%e4%bd%9c%e5%ae%b6%e9%99%b8%e4%b9%8b%e9%a7%bf-%e6%8e%a5%e7%a8%ae%e5%ae%8c%e9%ab%98%e7%ab%af%e7%96%ab%e8%8b%97%e4%b8%80%e6%97%a5%e5%85%a7%e6%ad%bb%e4%ba%a1-%e6%89%93%e5%ae%8c)  
+- [教師未打針高危　播毒感染半班學生 -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612adda1e4b0c7e5beea3db6.html)  
+- [英實驗室培育Delta　擬年底人體試驗 -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612ad7a6e4b0c7e5beea3a88.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
