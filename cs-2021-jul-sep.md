@@ -192,5 +192,7 @@
 - [** 國內 7nm 晶片正式試產 中國科學院成功設計 14nm 香山晶片 -- ezone](https://ezone.ulifestyle.com.hk/article/3044352/%E5%9C%8B%E5%85%A7%207nm%20%E6%99%B6%E7%89%87%E6%AD%A3%E5%BC%8F%E8%A9%A6%E7%94%A2%20%20%E4%B8%AD%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%99%A2%E6%88%90%E5%8A%9F%E8%A8%AD%E8%A8%88%2014nm%20%E9%A6%99%E5%B1%B1%E6%99%B6%E7%89%87)  
 - [中國移動獲「全港最快 5G 網絡」獎！下載速度中位數快 38％ - ezone](https://ezone.ulifestyle.com.hk/article/3044470/%E4%B8%AD%E5%9C%8B%E7%A7%BB%E5%8B%95%E7%8D%B2%E3%80%8C%E5%85%A8%E6%B8%AF%E6%9C%80%E5%BF%AB%205G%20%E7%B6%B2%E7%B5%A1%E3%80%8D%E7%8D%8E%EF%BC%81%E4%B8%8B%E8%BC%89%E9%80%9F%E5%BA%A6%E4%B8%AD%E4%BD%8D%E6%95%B8%E5%BF%AB%2038%EF%BC%85)  
 - [帝國終結，開展不確定的年代 -- 黃秉華](https://www.bastillepost.com/hongkong/article/9103049-%e5%b8%9d%e5%9c%8b%e7%b5%82%e7%b5%90%ef%bc%8c%e9%96%8b%e5%b1%95%e4%b8%8d%e7%a2%ba%e5%ae%9a%e7%9a%84%e5%b9%b4%e4%bb%a3)  
+- [教師未打針高危　播毒感染半班學生 -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612adda1e4b0c7e5beea3db6.html)  
+- [英實驗室培育Delta　擬年底人體試驗 -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612ad7a6e4b0c7e5beea3a88.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
