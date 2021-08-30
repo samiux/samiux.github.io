@@ -194,5 +194,8 @@
 - [帝國終結，開展不確定的年代 -- 黃秉華](https://www.bastillepost.com/hongkong/article/9103049-%e5%b8%9d%e5%9c%8b%e7%b5%82%e7%b5%90%ef%bc%8c%e9%96%8b%e5%b1%95%e4%b8%8d%e7%a2%ba%e5%ae%9a%e7%9a%84%e5%b9%b4%e4%bb%a3)  
 - [教師未打針高危　播毒感染半班學生 -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612adda1e4b0c7e5beea3db6.html)  
 - [英實驗室培育Delta　擬年底人體試驗 -- 大公文匯](https://www.tkww.hk/a/202108/29/AP612ad7a6e4b0c7e5beea3a88.html)  
+- [國家新聞出版署發通知要求進一步嚴格管理防未成年人沉迷網遊 -- 大公文匯](https://www.tkww.hk/a/202108/30/AP612cacd0e4b0c7e5beeade93.html)  
+- [** 內地亮出「共同富裕」概念  兼顧長中短期目標 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9115789-%e5%85%a7%e5%9c%b0%e4%ba%ae%e5%87%ba%e3%80%8c%e5%85%b1%e5%90%8c%e5%af%8c%e8%a3%95%e3%80%8d%e6%a6%82%e5%bf%b5-%e5%85%bc%e9%a1%a7%e9%95%b7%e4%b8%ad%e7%9f%ad%e6%9c%9f%e7%9b%ae%e6%a8%99)  
+- [** 南非全新變種病毒「C.1.2」擴散7國 突變率快2倍或更具傳染力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9115775-%e5%8d%97%e9%9d%9e%e5%85%a8%e6%96%b0%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e3%80%8cc-1-2%e3%80%8d%e6%93%b4%e6%95%a37%e5%9c%8b-%e7%aa%81%e8%ae%8a%e7%8e%87%e5%bf%ab2%e5%80%8d%e6%88%96%e6%9b%b4%e5%85%b7?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
