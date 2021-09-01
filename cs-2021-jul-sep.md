@@ -199,5 +199,7 @@
 - [** 南非全新變種病毒「C.1.2」擴散7國 突變率快2倍或更具傳染力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9115775-%e5%8d%97%e9%9d%9e%e5%85%a8%e6%96%b0%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e3%80%8cc-1-2%e3%80%8d%e6%93%b4%e6%95%a37%e5%9c%8b-%e7%aa%81%e8%ae%8a%e7%8e%87%e5%bf%ab2%e5%80%8d%e6%88%96%e6%9b%b4%e5%85%b7?current_cat=6)  
 - [** 美前官員曝「實驗室泄漏論」炮製過程 成美國對華抹黑又一鐵證 -- 深喉](https://www.bastillepost.com/hongkong/article/9121500-%e7%be%8e%e5%89%8d%e5%ae%98%e5%93%a1%e6%9b%9d%e3%80%8c%e5%af%a6%e9%a9%97%e5%ae%a4%e6%b3%84%e6%bc%8f%e8%ab%96%e3%80%8d%e7%82%ae%e8%a3%bd%e9%81%8e%e7%a8%8b-%e6%88%90%e7%be%8e%e5%9c%8b%e5%b0%8d%e8%8f%af)  
 - [武漢海鮮市場疫情可能由外國冷鏈傳入 中疾控專家列舉多地疫情相關證據 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9121133-%e6%ad%a6%e6%bc%a2%e6%b5%b7%e9%ae%ae%e5%b8%82%e5%a0%b4%e7%96%ab%e6%83%85%e5%8f%af%e8%83%bd%e7%94%b1%e5%a4%96%e5%9c%8b%e5%86%b7%e9%8f%88%e5%82%b3%e5%85%a5-%e4%b8%ad%e7%96%be%e6%8e%a7%e5%b0%88%e5%ae%b6)  
+- [** “穿”在身上的电池，复旦团队新突破成果登《自然》主刊 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14312336)  
+- [** 半年内两篇《自然》！复旦彭慧胜团队织出能穿的高性能锂电池 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14313744)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
