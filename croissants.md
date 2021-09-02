@@ -321,6 +321,10 @@ Nil
 
 ### 7.0 See Also
 
-N/A
+[Minisforum Elitemini HM80](https://store.minisforum.com/collections/all-product/products/minisforum-hm80) is a mini PC that ideal for home based or SOHO business based Intrusion Detection and Prevention System (IDPS).  An external USB Ethernet dongle is required for the purpose.  It comes with AMD Ryzen R7-4800U (8-core with 16 threading) CPU and the memory can be up to 64GB.
+
+[![](https://img.youtube.com/vi/X4MOUnOsA7Q/0.jpg)](https://www.youtube.com/watch?v=X4MOUnOsA7Q "Don't let this tiny PC fool you... it's faster than you think!")
+
+[![](https://img.youtube.com/vi/LOLWCWHSDEA/0.jpg)](https://www.youtube.com/watch?v=LOLWCWHSDEA "This Tiny PC Is A Powerhouse! HM80 Ryzen 7 4800U Mini PC")
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
