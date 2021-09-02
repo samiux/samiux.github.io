@@ -316,6 +316,7 @@ Internet --- Modem (if any) --- Croissants --- Wifi Router --- Switch --- PCs
                  |                             |
                  +-----------------------------+
 ```
+Do not use the wifi that comes with 5G modem as the traffic flow does not protected by Croissants.
 
 __Host Based__
 ```bash
