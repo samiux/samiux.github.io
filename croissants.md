@@ -328,7 +328,7 @@ Nil
 
 ### 7.0 See Also
 
-[Minisforum Elitemini HM80](https://store.minisforum.com/collections/all-product/products/minisforum-hm80) is a Mini PC that ideal for home based or SOHO based Intrusion Detection and Prevention System (IDPS).  An external USB Ethernet dongle is required for the monitoring ethernet purpose.  It comes with AMD Ryzen R7-4800U (8-core with 16 threading) CPU and the memory can be up to 64GB.
+[Minisforum Elitemini HM80](https://store.minisforum.com/collections/all-product/products/minisforum-hm80) is a Mini PC that ideal for home based or SOHO based Intrusion Detection and Prevention System (IDPS).  An external USB Ethernet dongle is required for the management purpose.  It comes with AMD Ryzen R7-4800U (8-core with 16 threading) CPU and the memory can be up to 64GB.
 
 When installing Linux with USB dongle, you are required to use Front Panel USB ports instead of Rear ones.  You may need to add "iommu=soft" to the Grub in order to use the Rear Panel USB ports for the later.
 
