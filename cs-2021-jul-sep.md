@@ -204,5 +204,6 @@
 - [印度「神秘高燒」致68死　多為孩童 -- 大公文匯](https://www.tkww.hk/a/202109/02/AP61302d1ae4b0c7e5beec0d76.html)  
 - [加拿大人康明凱、斯帕弗刺探中國國家秘密細節曝光！ 拍攝軍事設施視頻 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9134431-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e4%ba%ba%e5%ba%b7%e6%98%8e%e5%87%b1%e3%80%81%e6%96%af%e5%b8%95%e5%bc%97%e5%88%ba%e6%8e%a2%e4%b8%ad%e5%9c%8b%e5%9c%8b%e5%ae%b6%e7%a7%98%e5%af%86%e7%b4%b0%e7%af%80%e6%9b%9d)  
 - [哥倫比亞現新變種Mu　播至39國 -- 大公文匯](https://www.tkww.hk/a/202109/02/AP61301a24e4b0c7e5beec0276.html)  
+- [秦剛教訓美國︰就算禁了一間華為，還有千千萬萬的華為 -- 深藍](https://www.bastillepost.com/hongkong/article/9147001-%e7%a7%a6%e5%89%9b%e6%95%99%e8%a8%93%e7%be%8e%e5%9c%8b%ef%b8%b0%e5%b0%b1%e7%ae%97%e7%a6%81%e4%ba%86%e4%b8%80%e9%96%93%e8%8f%af%e7%82%ba%ef%bc%8c%e9%82%84%e6%9c%89%e5%8d%83%e5%8d%83%e8%90%ac%e8%90%ac)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
