@@ -265,6 +265,7 @@
 - [美國重演印度疫情悲劇 醫院氧氣耗盡 火箭發射也被逼推遲 -- 深喉](https://www.bastillepost.com/hongkong/article/9126332-%e7%be%8e%e5%9c%8b%e9%87%8d%e6%bc%94%e5%8d%b0%e5%ba%a6%e7%96%ab%e6%83%85%e6%82%b2%e5%8a%87-%e9%86%ab%e9%99%a2%e6%b0%a7%e6%b0%a3%e8%80%97%e7%9b%a1-%e7%81%ab%e7%ae%ad%e7%99%bc%e5%b0%84%e4%b9%9f%e8%a2%ab)  
 - [哥倫比亞現新變種Mu　播至39國 -- 大公文匯](https://www.tkww.hk/a/202109/02/AP61301a24e4b0c7e5beec0276.html)  
 - [對抗Delta毒株的國藥二代疫苗，就要來了！ -- 大公文匯](https://mp.weixin.qq.com/s/WbXLMwH8vqs8S_IslHMTtw)  
+- [比Delta更致命 專家警告恐明年變種升級Covid-22 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9157742-%e6%af%94delta%e6%9b%b4%e8%87%b4%e5%91%bd-%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a%e6%81%90%e6%98%8e%e5%b9%b4%e8%ae%8a%e7%a8%ae%e5%8d%87%e7%b4%9acovid-22?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
