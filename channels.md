@@ -268,6 +268,7 @@
 - [比Delta更致命 專家警告恐明年變種升級Covid-22 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9157742-%e6%af%94delta%e6%9b%b4%e8%87%b4%e5%91%bd-%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a%e6%81%90%e6%98%8e%e5%b9%b4%e8%ae%8a%e7%a8%ae%e5%8d%87%e7%b4%9acovid-22?current_cat=6)  
 - [美媒：Mu變種病毒已在美國首都及47州傳播 -- 大公文匯](https://www.tkww.hk/a/202109/05/AP6134bed2e4b0fc53535416bd.html)  
 - [醫生悄悄將「新冠肺炎」加入她的死因 -- 大公文匯](https://mp.weixin.qq.com/s/5jZhU37PsFrmPDhkHbpSYA)  
+- [科兴新冠疫苗第三剂加强免疫对多种变异株病毒效果良好 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14374818)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
