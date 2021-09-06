@@ -269,6 +269,7 @@
 - [美媒：Mu變種病毒已在美國首都及47州傳播 -- 大公文匯](https://www.tkww.hk/a/202109/05/AP6134bed2e4b0fc53535416bd.html)  
 - [醫生悄悄將「新冠肺炎」加入她的死因 -- 大公文匯](https://mp.weixin.qq.com/s/5jZhU37PsFrmPDhkHbpSYA)  
 - [科兴新冠疫苗第三剂加强免疫对多种变异株病毒效果良好 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14374818)  
+- [美去年1月9日首宗疫歿　時間線推前一個月 -- 大公文匯](https://www.tkww.hk/a/202109/06/AP613564fee4b0fc5353544044.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
