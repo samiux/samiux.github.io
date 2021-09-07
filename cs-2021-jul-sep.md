@@ -209,5 +209,6 @@
 - [前海面積一下子擴大至8倍 方案45次提到香港 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9166921-%e5%89%8d%e6%b5%b7%e9%9d%a2%e7%a9%8d%e4%b8%80%e4%b8%8b%e5%ad%90%e6%93%b4%e5%a4%a7%e8%87%b38%e5%80%8d-%e6%96%b9%e6%a1%8845%e6%ac%a1%e6%8f%90%e5%88%b0%e9%a6%99%e6%b8%af)  
 - [** 中央強勁扶持澳門  香港猶豫輕舟已過 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9166075-%e4%b8%ad%e5%a4%ae%e5%bc%b7%e5%8b%81%e6%89%b6%e6%8c%81%e6%be%b3%e9%96%80-%e9%a6%99%e6%b8%af%e7%8c%b6%e8%b1%ab%e8%bc%95%e8%88%9f%e5%b7%b2%e9%81%8e)  
 - [視頻 - 前海「擴區」來了！90秒看懂「新前海」-- 大公文匯](https://www.tkww.hk/a/202109/07/AP6136a7ece4b0fc535354b5b0.html)  
+- [港澳兩地支付寶推匯款至內地服務　方便用戶大灣區出行 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP6136e4d4e4b0fc535354d967.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
