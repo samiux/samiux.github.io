@@ -211,5 +211,6 @@
 - [視頻 - 前海「擴區」來了！90秒看懂「新前海」-- 大公文匯](https://www.tkww.hk/a/202109/07/AP6136a7ece4b0fc535354b5b0.html)  
 - [港澳兩地支付寶推匯款至內地服務　方便用戶大灣區出行 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP6136e4d4e4b0fc535354d967.html)  
 - [骯髒！中俄媒體共同揭秘美日細菌戰交易 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP613721a8e4b0fc535354f37a.html)  
+- [為躲避塔利班盤查 英國特種兵穿罩袍假扮婦女逃往機場 美軍睇到眼都突 -- 深喉](https://www.bastillepost.com/hongkong/article/9171838-%e7%82%ba%e8%ba%b2%e9%81%bf%e5%a1%94%e5%88%a9%e7%8f%ad%e7%9b%a4%e6%9f%a5-%e8%8b%b1%e5%9c%8b%e7%89%b9%e7%a8%ae%e5%85%b5%e7%a9%bf%e7%bd%a9%e8%a2%8d%e5%81%87%e6%89%ae%e5%a9%a6%e5%a5%b3%e9%80%83%e5%be%80)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
