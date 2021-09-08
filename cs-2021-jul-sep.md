@@ -212,5 +212,7 @@
 - [港澳兩地支付寶推匯款至內地服務　方便用戶大灣區出行 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP6136e4d4e4b0fc535354d967.html)  
 - [骯髒！中俄媒體共同揭秘美日細菌戰交易 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP613721a8e4b0fc535354f37a.html)  
 - [為躲避塔利班盤查 英國特種兵穿罩袍假扮婦女逃往機場 美軍睇到眼都突 -- 深喉](https://www.bastillepost.com/hongkong/article/9171838-%e7%82%ba%e8%ba%b2%e9%81%bf%e5%a1%94%e5%88%a9%e7%8f%ad%e7%9b%a4%e6%9f%a5-%e8%8b%b1%e5%9c%8b%e7%89%b9%e7%a8%ae%e5%85%b5%e7%a9%bf%e7%bd%a9%e8%a2%8d%e5%81%87%e6%89%ae%e5%a9%a6%e5%a5%b3%e9%80%83%e5%be%80)  
+- [** 世界都記得！美國20年「漂亮話」與「醜陋事」全紀錄 -- 大公文匯](https://www.tkww.hk/a/202109/08/AP61385cfce4b0fc5353557525.html)  
+- [** 【獨家文章】尋找後悔藥 -- 港人講地](https://www.speakout.hk/%E6%B8%AF%E4%BA%BA%E5%8D%9A%E8%A9%95/75668/-%E7%8D%A8%E5%AE%B6%E6%96%87%E7%AB%A0-%E5%B0%8B%E6%89%BE%E5%BE%8C%E6%82%94%E8%97%A5#selected)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
