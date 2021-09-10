@@ -214,5 +214,6 @@
 - [為躲避塔利班盤查 英國特種兵穿罩袍假扮婦女逃往機場 美軍睇到眼都突 -- 深喉](https://www.bastillepost.com/hongkong/article/9171838-%e7%82%ba%e8%ba%b2%e9%81%bf%e5%a1%94%e5%88%a9%e7%8f%ad%e7%9b%a4%e6%9f%a5-%e8%8b%b1%e5%9c%8b%e7%89%b9%e7%a8%ae%e5%85%b5%e7%a9%bf%e7%bd%a9%e8%a2%8d%e5%81%87%e6%89%ae%e5%a9%a6%e5%a5%b3%e9%80%83%e5%be%80)  
 - [** 世界都記得！美國20年「漂亮話」與「醜陋事」全紀錄 -- 大公文匯](https://www.tkww.hk/a/202109/08/AP61385cfce4b0fc5353557525.html)  
 - [** 【獨家文章】尋找後悔藥 -- 港人講地](https://www.speakout.hk/%E6%B8%AF%E4%BA%BA%E5%8D%9A%E8%A9%95/75668/-%E7%8D%A8%E5%AE%B6%E6%96%87%E7%AB%A0-%E5%B0%8B%E6%89%BE%E5%BE%8C%E6%82%94%E8%97%A5#selected)  
+- [美媒：「芯片戰爭」將致美國喪失領先地位 這是晚期資本主義的病態 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9193756-%e7%be%8e%e5%aa%92%ef%bc%9a%e3%80%8c%e8%8a%af%e7%89%87%e6%88%b0%e7%88%ad%e3%80%8d%e5%b0%87%e8%87%b4%e7%be%8e%e5%9c%8b%e5%96%aa%e5%a4%b1%e9%a0%98%e5%85%88%e5%9c%b0%e4%bd%8d-%e9%80%99%e6%98%af%e6%99%9a)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
