@@ -276,6 +276,8 @@
 - [國藥新藥治Delta病毒痊癒率達100% 以疫苗接種者血漿為原料 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9166258-%e5%9c%8b%e8%97%a5%e6%96%b0%e8%97%a5%e6%b2%bbdelta%e7%97%85%e6%af%92%e7%97%8a%e7%99%92%e7%8e%87%e9%81%94100-%e4%bb%a5%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e8%80%85%e8%a1%80%e6%bc%bf%e7%82%ba%e5%8e%9f)  
 - [效果良好 - 科興加強針　2周抗體增25倍 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP6136a035e4b0fc535354b1e4.html)  
 - [新冠加強針要來了 什麼時候打？什麼人需要打？ -- 大公文匯](https://mp.weixin.qq.com/s/0qLrqRpUCnzbLiRI4IelSQ)  
+- [新研究結果震撼 稱去年底美國已有近1/3人口感染新冠 -- 大公文匯](https://www.tkww.hk/a/202109/10/AP613ae615e4b0fc5353566fdf.html)  
+- [起底巴裏克——高度危險的病毒「改造」者 -- 大公文匯](https://www.tkww.hk/a/202109/10/AP613b167ae4b0fc5353568dfc.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
