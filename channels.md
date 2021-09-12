@@ -188,6 +188,7 @@
 - [我国首个虚拟学生入学清华计算机系，“华智冰”有啥背景？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_13163739)  
 - [國內 7nm 晶片正式試產 中國科學院成功設計 14nm 香山晶片 -- ezone](https://ezone.ulifestyle.com.hk/article/3044352/%E5%9C%8B%E5%85%A7%207nm%20%E6%99%B6%E7%89%87%E6%AD%A3%E5%BC%8F%E8%A9%A6%E7%94%A2%20%20%E4%B8%AD%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%99%A2%E6%88%90%E5%8A%9F%E8%A8%AD%E8%A8%88%2014nm%20%E9%A6%99%E5%B1%B1%E6%99%B6%E7%89%87)  
 - [中科院研製「高熵玻璃」　手機屏有望永不跌碎 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP61374dbee4b0fc5353550598.html)  
+- [能包容放射性物质千年以上！中国核废料固化能力获重大突破 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14469459)  
 
 ## Misc.
 
