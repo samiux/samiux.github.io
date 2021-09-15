@@ -280,6 +280,7 @@
 - [新冠加強針要來了 什麼時候打？什麼人需要打？ -- 大公文匯](https://mp.weixin.qq.com/s/0qLrqRpUCnzbLiRI4IelSQ)  
 - [新研究結果震撼 稱去年底美國已有近1/3人口感染新冠 -- 大公文匯](https://www.tkww.hk/a/202109/10/AP613ae615e4b0fc5353566fdf.html)  
 - [起底巴裏克——高度危險的病毒「改造」者 -- 大公文匯](https://www.tkww.hk/a/202109/10/AP613b167ae4b0fc5353568dfc.html)  
+- [中國科研團隊精確描繪Delta完整傳播鏈 為全球首次 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9225756-%e4%b8%ad%e5%9c%8b%e7%a7%91%e7%a0%94%e5%9c%98%e9%9a%8a%e7%b2%be%e7%a2%ba%e6%8f%8f%e7%b9%aadelta%e5%ae%8c%e6%95%b4%e5%82%b3%e6%92%ad%e9%8f%88-%e7%82%ba%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
