@@ -189,6 +189,7 @@
 - [國內 7nm 晶片正式試產 中國科學院成功設計 14nm 香山晶片 -- ezone](https://ezone.ulifestyle.com.hk/article/3044352/%E5%9C%8B%E5%85%A7%207nm%20%E6%99%B6%E7%89%87%E6%AD%A3%E5%BC%8F%E8%A9%A6%E7%94%A2%20%20%E4%B8%AD%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%99%A2%E6%88%90%E5%8A%9F%E8%A8%AD%E8%A8%88%2014nm%20%E9%A6%99%E5%B1%B1%E6%99%B6%E7%89%87)  
 - [中科院研製「高熵玻璃」　手機屏有望永不跌碎 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP61374dbee4b0fc5353550598.html)  
 - [能包容放射性物质千年以上！中国核废料固化能力获重大突破 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14469459)  
+- [國產 GPU 可媲美 GTX 1080？顯卡廠商景嘉微指效能可達 18 年初水平 -- ezone](https://ezone.ulifestyle.com.hk/article/3061303/%E5%9C%8B%E7%94%A2%20GPU%20%E5%8F%AF%E5%AA%B2%E7%BE%8E%20GTX%201080%EF%BC%9F%E9%A1%AF%E5%8D%A1%E5%BB%A0%E5%95%86%E6%99%AF%E5%98%89%E5%BE%AE%E6%8C%87%E6%95%88%E8%83%BD%E5%8F%AF%E9%81%94%2018%20%E5%B9%B4%E5%88%9D%E6%B0%B4%E5%B9%B3)  
 
 ## Misc.
 
