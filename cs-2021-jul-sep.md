@@ -217,5 +217,6 @@
 - [美媒：「芯片戰爭」將致美國喪失領先地位 這是晚期資本主義的病態 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9193756-%e7%be%8e%e5%aa%92%ef%bc%9a%e3%80%8c%e8%8a%af%e7%89%87%e6%88%b0%e7%88%ad%e3%80%8d%e5%b0%87%e8%87%b4%e7%be%8e%e5%9c%8b%e5%96%aa%e5%a4%b1%e9%a0%98%e5%85%88%e5%9c%b0%e4%bd%8d-%e9%80%99%e6%98%af%e6%99%9a)  
 - [大馬前總理：中澳衝突錯在澳方 澳應先採取行動緩和緊張關係 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9194347-%e5%a4%a7%e9%a6%ac%e5%89%8d%e7%b8%bd%e7%90%86%ef%bc%9a%e4%b8%ad%e6%be%b3%e8%a1%9d%e7%aa%81%e9%8c%af%e5%9c%a8%e6%be%b3%e6%96%b9-%e6%be%b3%e6%87%89%e5%85%88%e6%8e%a1%e5%8f%96%e8%a1%8c%e5%8b%95%e7%b7%a9)  
 - [** 黑客無聲入侵iPhone 監控5萬個電話號碼 遍布全球50多國 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247537583&idx=3&sn=23e63755fec2d23e81655b6c49d4b5df&chksm=e9ac1a1ddedb930b94580344eb4e098510e929766a1d83706002dd23b46a94466c1ba7dd1d0c&token=252636413&lang=zh_CN#rd)  
+- [** 6G來了，中國領先美國 -- 深藍](https://www.bastillepost.com/hongkong/article/9236029-6g%e4%be%86%e4%ba%86%ef%bc%8c%e4%b8%8b%e4%b8%80%e5%80%8b%e7%a7%91%e6%8a%80%e6%bd%ae%e6%b5%81%e4%b9%9f%e4%be%86%e4%ba%86)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
