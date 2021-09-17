@@ -286,6 +286,7 @@
 - [中國科研團隊精確描繪Delta完整傳播鏈 為全球首次 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9225756-%e4%b8%ad%e5%9c%8b%e7%a7%91%e7%a0%94%e5%9c%98%e9%9a%8a%e7%b2%be%e7%a2%ba%e6%8f%8f%e7%b9%aadelta%e5%ae%8c%e6%95%b4%e5%82%b3%e6%92%ad%e9%8f%88-%e7%82%ba%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%a1)  
 - [科興疫苗助力　智利防Delta變種見效 -- 大公文匯](https://www.tkww.hk/a/202109/16/AP61428270e4b0fc5353590e60.html)  
 - [全球首款吸入式新冠疫苗亮相海南 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9235515-%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%e5%90%b8%e5%85%a5%e5%bc%8f%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%b5%b7%e5%8d%97%e4%ba%ae%e7%9b%b8)  
+- [動物傳冠狀病毒　每年40萬人中招 -- 大公文匯](https://www.tkww.hk/a/202109/17/AP6143e215e4b0fc5353598d10.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
