@@ -190,6 +190,8 @@
 - [中科院研製「高熵玻璃」　手機屏有望永不跌碎 -- 大公文匯](https://www.tkww.hk/a/202109/07/AP61374dbee4b0fc5353550598.html)  
 - [能包容放射性物质千年以上！中国核废料固化能力获重大突破 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14469459)  
 - [國產 GPU 可媲美 GTX 1080？顯卡廠商景嘉微指效能可達 18 年初水平 -- ezone](https://ezone.ulifestyle.com.hk/article/3061303/%E5%9C%8B%E7%94%A2%20GPU%20%E5%8F%AF%E5%AA%B2%E7%BE%8E%20GTX%201080%EF%BC%9F%E9%A1%AF%E5%8D%A1%E5%BB%A0%E5%95%86%E6%99%AF%E5%98%89%E5%BE%AE%E6%8C%87%E6%95%88%E8%83%BD%E5%8F%AF%E9%81%94%2018%20%E5%B9%B4%E5%88%9D%E6%B0%B4%E5%B9%B3)  
+- [中國6G專利申請量佔比全球第一 -- 大公文匯](https://www.tkww.hk/a/202109/17/AP61441379e4b0fc535359a68a.html)  
+- [中國3名太空人成功回航 「太空出差」了90日 落地後最想食麵 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9241952-%e4%b8%ad%e5%9c%8b3%e5%90%8d%e5%a4%aa%e7%a9%ba%e4%ba%ba%e6%88%90%e5%8a%9f%e5%9b%9e%e8%88%aa-%e3%80%8c%e5%a4%aa%e7%a9%ba%e5%87%ba%e5%b7%ae%e3%80%8d%e4%ba%8690%e6%97%a5-%e8%90%bd%e5%9c%b0%e5%be%8c)  
 
 ## Misc.
 
