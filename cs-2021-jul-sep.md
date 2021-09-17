@@ -218,5 +218,6 @@
 - [大馬前總理：中澳衝突錯在澳方 澳應先採取行動緩和緊張關係 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9194347-%e5%a4%a7%e9%a6%ac%e5%89%8d%e7%b8%bd%e7%90%86%ef%bc%9a%e4%b8%ad%e6%be%b3%e8%a1%9d%e7%aa%81%e9%8c%af%e5%9c%a8%e6%be%b3%e6%96%b9-%e6%be%b3%e6%87%89%e5%85%88%e6%8e%a1%e5%8f%96%e8%a1%8c%e5%8b%95%e7%b7%a9)  
 - [** 黑客無聲入侵iPhone 監控5萬個電話號碼 遍布全球50多國 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247537583&idx=3&sn=23e63755fec2d23e81655b6c49d4b5df&chksm=e9ac1a1ddedb930b94580344eb4e098510e929766a1d83706002dd23b46a94466c1ba7dd1d0c&token=252636413&lang=zh_CN#rd)  
 - [** 6G來了，中國領先美國 -- 深藍](https://www.bastillepost.com/hongkong/article/9236029-6g%e4%be%86%e4%ba%86%ef%bc%8c%e4%b8%8b%e4%b8%80%e5%80%8b%e7%a7%91%e6%8a%80%e6%bd%ae%e6%b5%81%e4%b9%9f%e4%be%86%e4%ba%86)  
+- [** 中國申請加入CPTPP 一著妙棋 美日各有難題！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9242721-%e4%b8%ad%e5%9c%8b%e7%94%b3%e8%ab%8b%e5%8a%a0%e5%85%a5cptpp-%e4%b8%80%e8%91%97%e5%a6%99%e6%a3%8b-%e7%be%8e%e6%97%a5%e5%90%84%e6%9c%89%e9%9b%a3%e9%a1%8c%ef%bc%81)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
