@@ -219,5 +219,6 @@
 - [** 黑客無聲入侵iPhone 監控5萬個電話號碼 遍布全球50多國 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247537583&idx=3&sn=23e63755fec2d23e81655b6c49d4b5df&chksm=e9ac1a1ddedb930b94580344eb4e098510e929766a1d83706002dd23b46a94466c1ba7dd1d0c&token=252636413&lang=zh_CN#rd)  
 - [** 6G來了，中國領先美國 -- 深藍](https://www.bastillepost.com/hongkong/article/9236029-6g%e4%be%86%e4%ba%86%ef%bc%8c%e4%b8%8b%e4%b8%80%e5%80%8b%e7%a7%91%e6%8a%80%e6%bd%ae%e6%b5%81%e4%b9%9f%e4%be%86%e4%ba%86)  
 - [** 中國申請加入CPTPP 一著妙棋 美日各有難題！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9242721-%e4%b8%ad%e5%9c%8b%e7%94%b3%e8%ab%8b%e5%8a%a0%e5%85%a5cptpp-%e4%b8%80%e8%91%97%e5%a6%99%e6%a3%8b-%e7%be%8e%e6%97%a5%e5%90%84%e6%9c%89%e9%9b%a3%e9%a1%8c%ef%bc%81)  
+- [內媒揭露美國給阿富汗埋下三顆「定時炸彈」 -- 深喉](https://www.bastillepost.com/hongkong/article/9248184-%e5%85%a7%e5%aa%92%e6%8f%ad%e9%9c%b2%e7%be%8e%e5%9c%8b%e7%b5%a6%e9%98%bf%e5%af%8c%e6%b1%97%e5%9f%8b%e4%b8%8b%e4%b8%89%e9%a1%86%e3%80%8c%e5%ae%9a%e6%99%82%e7%82%b8%e5%bd%88%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
