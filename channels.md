@@ -136,6 +136,8 @@
 - [中國政府支持度爆燈 升至98% ! 加拿大高校大規模調查發現的事實 -- 毛拍手](https://www.bastillepost.com/hongkong/article/8409383-%e4%b8%ad%e5%9c%8b%e6%94%bf%e5%ba%9c%e6%94%af%e6%8c%81%e5%ba%a6%e7%88%86%e7%87%88-%e5%8d%87%e8%87%b398-%e5%8a%a0%e6%8b%bf%e5%a4%a7%e9%ab%98%e6%a0%a1%e5%a4%a7%e8%a6%8f%e6%a8%a1%e8%aa%bf%e6%9f%a5)  
 - [习近平就贯彻总体国家安全观提出10点要求 -- 香港中联办](https://mp.weixin.qq.com/s/TE-vBYUYCSrL39blQpvORg)  
 - [講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
+- [人工关节国家集采靴子落地：均价降幅达82%，进入千元时代 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14551898)  
+- [人工关节降价超八成咋做到的，质量有保证吗？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14581004)  
 
 ## Hong Kong
 
