@@ -291,6 +291,7 @@
 - [科興疫苗助力　智利防Delta變種見效 -- 大公文匯](https://www.tkww.hk/a/202109/16/AP61428270e4b0fc5353590e60.html)  
 - [全球首款吸入式新冠疫苗亮相海南 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9235515-%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%e5%90%b8%e5%85%a5%e5%bc%8f%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%b5%b7%e5%8d%97%e4%ba%ae%e7%9b%b8)  
 - [動物傳冠狀病毒　每年40萬人中招 -- 大公文匯](https://www.tkww.hk/a/202109/17/AP6143e215e4b0fc5353598d10.html)  
+- [疫苗接種覆蓋人數達11億 全國73%人口已完成全程接種 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9254150-%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e8%a6%86%e8%93%8b%e4%ba%ba%e6%95%b8%e9%81%9411%e5%84%84-%e5%85%a8%e5%9c%8b78%e4%ba%ba%e5%b7%b2%e5%ae%8c%e6%88%90%e5%85%a8%e7%a8%8b%e6%8e%a5%e7%a8%ae)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
