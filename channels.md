@@ -138,6 +138,7 @@
 - [講真D - 中美關係走向不必太悲觀 -- 大公文匯](https://www.tkww.hk/a/202012/12/AP5fd3ab32e4b01efc849e1b49.html)  
 - [人工关节国家集采靴子落地：均价降幅达82%，进入千元时代 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14551898)  
 - [人工关节降价超八成咋做到的，质量有保证吗？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14581004)  
+- [张维为、李伟建：美国在阿富汗的溃败 -- 观察者网](https://www.guancha.cn/ZhangWeiWei/2021_09_19_607802_s.shtml)  
 
 ## Hong Kong
 
