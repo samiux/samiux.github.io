@@ -72,6 +72,8 @@
 - [OPPO 5G CPE T1a 開箱評測：5G WiFi 6 路由器居家體驗如何？ -- Qooah](https://qooah.com/2021/04/20/qooah-oppo-5g-cpe-t1a-review/)  
 - [HarmonyOS 2 及华为全场景新品发布会](https://samiux.blogspot.com/2021/06/harmonyos-2.html)  
 - [Coffee林芊妤 -- Yoga - Fitness](https://www.youtube.com/channel/UCxCZqbizSsnntlz6w0fN8hA)  
+- [节食减肥？运动减肥？不做好这两点，任何减肥方法都没用 -- 小大夫漫画](https://www.thepaper.cn/newsDetail_forward_13526396)  
+- [这份脂肪肝食谱胖瘦都能用，照着吃准没错 -- 小大夫漫画](https://www.thepaper.cn/newsDetail_forward_13812540)  
 
 # Articles and Videos
 
