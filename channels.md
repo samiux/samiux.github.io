@@ -298,6 +298,8 @@
 - [新冠病毒起源露曙光 研究：老撾蹄鼻蝠身上冠狀病毒最相近 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9255769-%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e8%b5%b7%e6%ba%90%e9%9c%b2%e6%9b%99%e5%85%89-%e7%a0%94%e7%a9%b6%ef%bc%9a%e8%80%81%e6%92%be%e8%b9%84%e9%bc%bb%e8%9d%a0%e8%ba%ab%e4%b8%8a%e5%86%a0%e7%8b%80%e7%97%85)  
 - [囓齒動物或為中間宿主 鍾南山研究︰新冠病毒難以在人群中滅絕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9256054-%e5%9b%93%e9%bd%92%e5%8b%95%e7%89%a9%e6%88%96%e7%82%ba%e4%b8%ad%e9%96%93%e5%ae%bf%e4%b8%bb-%e9%8d%be%e5%8d%97%e5%b1%b1%e7%a0%94%e7%a9%b6%ef%b8%b0%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e9%9b%a3%e4%bb%a5)  
 - [研究：柬埔寨十年前蝙蝠病毒樣本似新冠 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9264598-%e7%a0%94%e7%a9%b6%ef%bc%9a%e6%9f%ac%e5%9f%94%e5%af%a8%e5%8d%81%e5%b9%b4%e5%89%8d%e8%9d%99%e8%9d%a0%e7%97%85%e6%af%92%e6%a8%a3%e6%9c%ac%e4%bc%bc%e6%96%b0%e5%86%a0?current_cat=6)  
+- [研究表明：美新冠疫情大概率前年9月前後已開始 -- 大公文匯](https://www.tkww.hk/a/202109/22/AP614b506fe4b0fc53535c2f4e.html)  
+- [全球百餘專家合著中國首部新冠肺炎醫學專著 -- 大公文匯](https://www.tkww.hk/a/202109/22/AP614b5176e4b0fc53535c2f64.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
