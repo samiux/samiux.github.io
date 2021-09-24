@@ -179,6 +179,7 @@
 - [外交部羅列美國干預港事、支持反中亂港勢力五大罪狀 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9287416-%e5%a4%96%e4%ba%a4%e9%83%a8%e7%99%bc%e4%bd%88%e7%be%8e%e5%9c%8b%e4%ba%82%e6%b8%af%e4%ba%8b%e5%af%a6%e6%b8%85%e5%96%ae-%e5%88%97%e8%88%89%e4%ba%94%e5%a4%a7%e9%a1%9e%e5%88%a5)  
 - [外交部列美國涉港罪行清單 高人：佔據高地 為反撃行動做鋪墊 -- Ariel](https://www.bastillepost.com/hongkong/article/9288306-%e5%a4%96%e4%ba%a4%e9%83%a8%e5%88%97%e7%be%8e%e5%9c%8b%e6%b6%89%e6%b8%af%e7%bd%aa%e8%a1%8c%e6%b8%85%e5%96%ae-%e9%ab%98%e4%ba%ba%ef%bc%9a%e4%bd%94%e6%93%9a%e9%ab%98%e5%9c%b0%e5%9c%b0-%e7%82%ba%e5%8f%8d)  
 - [熱點追蹤 - 美國亂港的12招數　鐵證如山 -- 大公文匯](https://www.tkww.hk/a/202109/24/AP614d944ce4b0fc53535d0d27.html)  
+- [外交部一份重炮清單的含意 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9290744-%e5%a4%96%e4%ba%a4%e9%83%a8%e4%b8%80%e4%bb%bd%e9%87%8d%e7%82%ae%e6%b8%85%e5%96%ae%e7%9a%84%e5%90%ab%e6%84%8f)  
 
 ## Technology
 
