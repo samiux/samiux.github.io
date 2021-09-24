@@ -307,6 +307,7 @@
 - [研究：柬埔寨十年前蝙蝠病毒樣本似新冠 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9264598-%e7%a0%94%e7%a9%b6%ef%bc%9a%e6%9f%ac%e5%9f%94%e5%af%a8%e5%8d%81%e5%b9%b4%e5%89%8d%e8%9d%99%e8%9d%a0%e7%97%85%e6%af%92%e6%a8%a3%e6%9c%ac%e4%bc%bc%e6%96%b0%e5%86%a0?current_cat=6)  
 - [研究表明：美新冠疫情大概率前年9月前後已開始 -- 大公文匯](https://www.tkww.hk/a/202109/22/AP614b506fe4b0fc53535c2f4e.html)  
 - [全球百餘專家合著中國首部新冠肺炎醫學專著 -- 大公文匯](https://www.tkww.hk/a/202109/22/AP614b5176e4b0fc53535c2f64.html)  
+- [鍾南山團隊首次系統整合中國疫情管控策略 分享具中國特色防疫經驗 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9289639-%e9%8d%be%e5%8d%97%e5%b1%b1%e5%9c%98%e9%9a%8a%e9%a6%96%e6%ac%a1%e7%b3%bb%e7%b5%b1%e6%95%b4%e5%90%88%e4%b8%ad%e5%9c%8b%e7%96%ab%e6%83%85%e7%ae%a1%e6%8e%a7%e7%ad%96%e7%95%a5-%e5%88%86%e4%ba%ab%e5%85%b7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
