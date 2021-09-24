@@ -51,6 +51,7 @@
 - [馬恩國解讀認識基本法系列](https://samiux.blogspot.com/2018/08/blog-post_1.html)  
 - [時事觀察](http://www.singtao.tv/main/category/newsreport/situation/)  
 - [Sun Channel - 年輕企業家Lorey Chan主持《十分鐘 讀好書》中文字幕](https://www.youtube.com/channel/UCkx8tfePUl__VGvNDNOKqRw)  
+- [Better Leaf 好葉](https://www.youtube.com/channel/UChjHWpmNm-3HbLFkQ3TPXaA)  
 - [有聲專欄 -- Speakout 港人講地](https://www.youtube.com/playlist?list=PL50ryNxlMBN5kwOJ_DvTeNXhBrQRbm9N6)  
 - [大樹與木頭 ‧Y2K Channel](https://www.youtube.com/channel/UCFfLWSnUCblI4Lpsph7H1lA)  
 - [陳穎欣Joephy Chan](https://www.youtube.com/channel/UCvlBe-TQfjLFINSSYQt9Tjg)  
