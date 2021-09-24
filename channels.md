@@ -142,6 +142,7 @@
 - [人工关节国家集采靴子落地：均价降幅达82%，进入千元时代 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14551898)  
 - [人工关节降价超八成咋做到的，质量有保证吗？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14581004)  
 - [张维为、李伟建：美国在阿富汗的溃败 -- 观察者网](https://www.guancha.cn/ZhangWeiWei/2021_09_19_607802_s.shtml)  
+- [隐身无人机、巡飞弹，中国航天“飞鸿”无人机将首次亮相航展 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14640308)  
 
 ## Hong Kong
 
