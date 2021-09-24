@@ -174,6 +174,8 @@
 - [【短片】【有聲專欄】屈穎妍:犒賞三軍與殺一儆百](https://samiux.blogspot.com/2021/06/blog-post_25.html)  
 - [冼師傅教路 - 提防攬炒派Plan B　選舉教育等問題亟待解決 -- 文匯網](https://www.wenweipo.com/a/202101/08/AP5ff82679e4b0553aff38b6e4.html)  
 - [國安首犯唐英傑罪成　判囚9年 -- 大公文匯](https://www.tkww.hk/a/202107/30/AP6103a721e4b0c7e5bedb9204.html)  
+- [外交部羅列美國干預港事、支持反中亂港勢力五大罪狀 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9287416-%e5%a4%96%e4%ba%a4%e9%83%a8%e7%99%bc%e4%bd%88%e7%be%8e%e5%9c%8b%e4%ba%82%e6%b8%af%e4%ba%8b%e5%af%a6%e6%b8%85%e5%96%ae-%e5%88%97%e8%88%89%e4%ba%94%e5%a4%a7%e9%a1%9e%e5%88%a5)  
+- [外交部列美國涉港罪行清單 高人：佔據高地 為反撃行動做鋪墊 -- Ariel](https://www.bastillepost.com/hongkong/article/9288306-%e5%a4%96%e4%ba%a4%e9%83%a8%e5%88%97%e7%be%8e%e5%9c%8b%e6%b6%89%e6%b8%af%e7%bd%aa%e8%a1%8c%e6%b8%85%e5%96%ae-%e9%ab%98%e4%ba%ba%ef%bc%9a%e4%bd%94%e6%93%9a%e9%ab%98%e5%9c%b0%e5%9c%b0-%e7%82%ba%e5%8f%8d)  
 
 ## Technology
 
