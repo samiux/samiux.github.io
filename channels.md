@@ -200,6 +200,7 @@
 - [中國3名太空人成功回航 「太空出差」了90日 落地後最想食麵 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9241952-%e4%b8%ad%e5%9c%8b3%e5%90%8d%e5%a4%aa%e7%a9%ba%e4%ba%ba%e6%88%90%e5%8a%9f%e5%9b%9e%e8%88%aa-%e3%80%8c%e5%a4%aa%e7%a9%ba%e5%87%ba%e5%b7%ae%e3%80%8d%e4%ba%8690%e6%97%a5-%e8%90%bd%e5%9c%b0%e5%be%8c)  
 - [上海現AI食堂　科技的味道很香 -- 文匯網](https://www.wenweipo.com/a/202109/20/AP61485173e4b08d3407db659e.html)  
 - [一根甘蔗如何“吃干榨尽”：蔗渣浆变身纸模，市场供不应求 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14611331)  
+- [重大突破！中國在實驗室「種」出澱粉 -- 大公文匯](https://mp.weixin.qq.com/s/WFCof-dcPNoQ8FksdaC1vQ)  
 
 ## Misc.
 
