@@ -233,5 +233,6 @@
 - [孟晚舟在中国政府包机上感言：没有强大的祖国，就没有我今天的自由 -- 观察者](https://www.guancha.cn/internation/2021_09_25_608569.shtml)  
 - [孟晚舟获释 - 乌合麒麟创作《归舟》　细节暗藏多重寓意[图] -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60262984/%E5%AD%9F%E6%99%9A%E8%88%9F%E8%8E%B7%E9%87%8A%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E5%88%9B%E4%BD%9C%E5%BD%92%E8%88%9F%E7%BB%86%E8%8A%82%E6%9A%97%E8%97%8F%E5%A4%9A%E9%87%8D%E5%AF%93%E6%84%8F%E5%9B%BE)  
 - [沈逸：晚舟归航，政治绑架破产，中美博弈持久战的阶段性胜利 -- 观察者](https://www.guancha.cn/ShenYi/2021_09_25_608599.shtml)  
+- [2021中國民企500強發布　華為連續六年居榜首 -- 大公文匯](https://www.tkww.hk/a/202109/25/AP614eb39be4b0fc53535d8bb5.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
