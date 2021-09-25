@@ -229,5 +229,9 @@
 - [協議中美各自解讀 關鍵無孟晚舟最終不以認罪方式獲釋 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9296189-%e5%8d%94%e8%ad%b0%e4%b8%ad%e7%be%8e%e5%90%84%e8%87%aa%e8%a7%a3%e8%ae%80-%e9%97%9c%e9%8d%b5%e7%84%a1%e5%ad%9f%e6%99%9a%e8%88%9f%e6%9c%80%e7%b5%82%e4%b8%8d%e4%bb%a5%e8%aa%8d%e7%bd%aa%e6%96%b9%e5%bc%8f)  
 - [孟晚舟事件回顧 回國機上感言：沒有強大的祖國，就沒有我今天的自由 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9296288-%e5%ad%9f%e6%99%9a%e8%88%9f%e4%ba%8b%e4%bb%b6%e5%9b%9e%e9%a1%a7-%e5%9b%9e%e5%9c%8b%e6%a9%9f%e4%b8%8a%e6%84%9f%e8%a8%80%ef%bc%9a%e6%b2%92%e6%9c%89%e5%bc%b7%e5%a4%a7%e7%9a%84%e7%a5%96%e5%9c%8b%ef%bc%8c)  
 - [人工智能三傑、孟晚舟，看華為精神 -- 黃秉華](https://www.bastillepost.com/hongkong/article/9296856-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%b8%89%e5%82%91%e3%80%81%e5%ad%9f%e6%99%9a%e8%88%9f%ef%bc%8c%e7%9c%8b%e8%8f%af%e7%82%ba%e6%a8%a1%e5%bc%8f)  
+- [孟晚舟律師：孟女士沒有認罪　期待14個月後指控被完全撤銷 -- 大公文匯](https://www.wenweipo.com/a/202109/25/AP614ef13ee4b08d3407dc59f7.html)  
+- [孟晚舟在中国政府包机上感言：没有强大的祖国，就没有我今天的自由 -- 观察者](https://www.guancha.cn/internation/2021_09_25_608569.shtml)  
+- [孟晚舟获释 - 乌合麒麟创作《归舟》　细节暗藏多重寓意[图] -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60262984/%E5%AD%9F%E6%99%9A%E8%88%9F%E8%8E%B7%E9%87%8A%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E5%88%9B%E4%BD%9C%E5%BD%92%E8%88%9F%E7%BB%86%E8%8A%82%E6%9A%97%E8%97%8F%E5%A4%9A%E9%87%8D%E5%AF%93%E6%84%8F%E5%9B%BE)  
+- [沈逸：晚舟归航，政治绑架破产，中美博弈持久战的阶段性胜利 -- 观察者](https://www.guancha.cn/ShenYi/2021_09_25_608599.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
