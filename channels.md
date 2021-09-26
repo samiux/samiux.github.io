@@ -211,6 +211,7 @@
 - [首部國產高精尖封裝光刻機落地 荷蘭ASML緊急佈局 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9287733-%e9%a6%96%e9%83%a8%e5%9c%8b%e7%94%a2%e9%ab%98%e7%b2%be%e5%b0%96%e5%b0%81%e8%a3%9d%e5%85%89%e5%88%bb%e6%a9%9f%e8%90%bd%e5%9c%b0-%e8%8d%b7%e8%98%adasml%e7%b7%8a%e6%80%a5%e4%bd%88%e5%b1%80)  
 - [袁隆平超級雜交稻測產再超1100公斤 -- 大公文匯](https://www.tkww.hk/a/202109/06/AP6135a078e4b0fc535354632e.html)  
 - [袁隆平「禾田夢」雕塑廣州黃埔揭幕　「見證」現代化無人農場 -- 大公文匯](https://www.tkww.hk/a/202109/26/AP614fe42ae4b0fc53535e2b89.html)  
+- [工業污染最難治理頑疾破解　全球首創技術廣州發布 -- 大公文匯](https://www.tkww.hk/a/202109/26/AP61502977e4b0fc53535e50c7.html)  
 
 ## Misc.
 
