@@ -235,5 +235,6 @@
 - [沈逸：晚舟归航，政治绑架破产，中美博弈持久战的阶段性胜利 -- 观察者](https://www.guancha.cn/ShenYi/2021_09_25_608599.shtml)  
 - [2021中國民企500強發布　華為連續六年居榜首 -- 大公文匯](https://www.tkww.hk/a/202109/25/AP614eb39be4b0fc53535d8bb5.html)  
 - [袁隆平巨型稻豐收　首次收割測產畝產近500公斤 -- 大公文匯](https://www.tkww.hk/a/202109/25/AP614eb0f0e4b0fc53535d8aa5.html)  
+- [中國研發超音速電磁脈衝導彈 10 秒可癱瘓敵方情報網 - ezone](https://ezone.ulifestyle.com.hk/article/3069175/%E4%B8%AD%E5%9C%8B%E7%A0%94%E7%99%BC%E8%B6%85%E9%9F%B3%E9%80%9F%E9%9B%BB%E7%A3%81%E8%84%88%E8%A1%9D%E5%B0%8E%E5%BD%88%20%2010%20%E7%A7%92%E5%8F%AF%E7%99%B1%E7%98%93%E6%95%B5%E6%96%B9%E6%83%85%E5%A0%B1%E7%B6%B2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
