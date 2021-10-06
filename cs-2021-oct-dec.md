@@ -11,5 +11,6 @@
 - [与外国记者讨论中国共产党，这组数字很关键 -- 观察者网](https://user.guancha.cn/main/content?id=606882)  
 - [** 美國跪低：撤部分懲罰關稅 想同中國傾傾 新華社：有積極因素 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9363193-%e7%be%8e%e5%9c%8b%e8%b7%aa%e4%bd%8e%ef%bc%9a%e6%92%a4%e9%83%a8%e5%88%86%e6%87%b2%e7%bd%b0%e9%97%9c%e7%a8%85-%e6%83%b3%e5%90%8c%e4%b8%ad%e5%9c%8b%e5%82%be%e5%82%be-%e6%96%b0%e8%8f%af%e7%a4%be%ef%bc%9a)  
 - [** 盧永雄「巴士的點評」美國跪低減中國產品關稅! 若要加稅為何還放孟晚舟? 美貿易代表傳出，求華談判積極信號 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9364472-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e7%be%8e%e5%9c%8b%e8%b7%aa%e4%bd%8e%e6%b8%9b%e4%b8%ad%e5%9c%8b%e7%94%a2%e5%93%81%e9%97%9c%e7%a8%85)  
+- [** 治安差物資缺　BNO移民夢碎 -- 大公文匯](https://www.tkww.hk/a/202110/06/AP615cfda5e4b0fc5353633c1e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
