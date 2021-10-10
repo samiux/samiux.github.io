@@ -14,5 +14,9 @@
 - [** 治安差物資缺　BNO移民夢碎 -- 大公文匯](https://www.tkww.hk/a/202110/06/AP615cfda5e4b0fc5353633c1e.html)  
 - [** 美核潜艇南海水下撞上“不明物体”，11人受伤 -- 观察者网](https://www.guancha.cn/military-affairs/2021_10_08_609938.shtml)  
 - [** 中了伏？美國一核動力潛艇在南海撞上不明物體 -- 深喉](https://www.bastillepost.com/hongkong/article/9381660-%e4%b8%ad%e4%ba%86%e4%bc%8f%ef%bc%9f%e7%be%8e%e5%9c%8b%e4%b8%80%e6%a0%b8%e5%8b%95%e5%8a%9b%e6%bd%9b%e8%89%87%e5%9c%a8%e5%8d%97%e6%b5%b7%e6%92%9e%e4%b8%8a%e4%b8%8d%e6%98%8e%e7%89%a9%e9%ab%94)  
+- [美國要和中國「再掛鉤」 中國首先提了個要求 -- 大公文匯](https://mp.weixin.qq.com/s/7M0py55Yoc_tcKet3bBlWg)  
+- [美債「炸彈」引信難拆　政治弊端恐禍全球 -- 大公文匯](https://www.tkww.hk/a/202110/09/AP6161823ee4b0fc53536509d1.html)  
+- [炒作新冠溯源假報告　澳媒集體抹黑中國 -- 大公文匯](https://www.tkww.hk/a/202110/10/AP6162276ee4b0fc5353652aed.html)  
+- [實現祖國統一反對「台獨」分裂　習近平講話金句一圖睇 -- 大公文匯](https://www.tkww.hk/a/202110/09/AP61616030e4b0fc5353650019.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
