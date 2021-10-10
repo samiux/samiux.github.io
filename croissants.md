@@ -318,6 +318,8 @@ Internet --- Modem (if any) --- Croissants --- Wifi Router --- Switch --- PCs
 ```
 Do not use the wifi that comes with 5G modem as the traffic flow does not protected by Croissants.
 
+The DNS entries at 5G Modem and Wifi Router should be identical; otherwise, the speed of internet browsing would be delayed a little bit.  
+
 __Host Based__
 ```bash
 Internet --- Croissants (with application on it)
