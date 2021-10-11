@@ -47,7 +47,7 @@ For a long time it puzzled me how something so expensive, so leading edge, could
 In theory, theory and practice are the same. In practice, they’re not. -- Yoggi Berra
 ```
 ```
-为天地立心，为生民立命，为往圣继绝学，为万世开太平。 -- 王炜
+为天地立心，为生民立命，为往圣继绝学，为万世开太平。 -- 张载
 ```
 ```
 The risk is not your system vulnerable, the risk is you thinking that it is secured. -- Samiux
