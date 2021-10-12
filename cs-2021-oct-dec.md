@@ -22,5 +22,7 @@
 - [** 美首認中美海軍勢均力敵 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9397919-%e7%be%8e%e9%a6%96%e8%aa%8d%e4%b8%ad%e7%be%8e%e6%b5%b7%e8%bb%8d%e5%8b%a2%e5%9d%87%e5%8a%9b%e6%95%b5-2?current_cat=6)  
 - [中印談判中方凌晨發表強硬聲明 專家指局勢整體可控 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9401228-%e4%b8%ad%e5%8d%b0%e8%ab%87%e5%88%a4%e4%b8%ad%e6%96%b9%e5%87%8c%e6%99%a8%e7%99%bc%e8%a1%a8%e5%bc%b7%e7%a1%ac%e8%81%b2%e6%98%8e-%e5%b0%88%e5%ae%b6%e6%8c%87%e5%b1%80%e5%8b%a2%e6%95%b4%e9%ab%94%e5%8f%af)  
 - [《長津湖》熱映 是中國不再需要荷里活大片的力證 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9400075-%e3%80%8a%e9%95%b7%e6%b4%a5%e6%b9%96%e3%80%8b%e7%86%b1%e6%98%a0-%e6%98%af%e4%b8%ad%e5%9c%8b%e4%b8%8d%e5%86%8d%e9%9c%80%e8%a6%81%e8%8d%b7%e9%87%8c%e6%b4%bb%e5%a4%a7%e7%89%87%e7%9a%84%e5%8a%9b%e8%ad%89)  
+- [英物流能源危機揭示脫歐之禍 -- 大公文匯](https://www.tkww.hk/a/202110/12/AP6164f81ae4b0fc5353662bb7.html)  
+- [中央惠港利民政策密集推出 唔講唔覺單是今年下半就有21項 -- Ariel](https://www.bastillepost.com/hongkong/article/9407801-%e4%b8%ad%e5%a4%ae%e6%83%a0%e6%b8%af%e5%88%a9%e6%b0%91%e6%94%bf%e7%ad%96%e5%af%86%e9%9b%86%e6%8e%a8%e5%87%ba-%e5%94%94%e8%ac%9b%e5%94%94%e8%a6%ba%e5%96%ae%e6%98%af%e4%bb%8a%e5%b9%b4%e4%b8%8b%e5%8d%8a)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
