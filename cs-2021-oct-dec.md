@@ -25,5 +25,6 @@
 - [英物流能源危機揭示脫歐之禍 -- 大公文匯](https://www.tkww.hk/a/202110/12/AP6164f81ae4b0fc5353662bb7.html)  
 - [中央惠港利民政策密集推出 唔講唔覺單是今年下半就有21項 -- Ariel](https://www.bastillepost.com/hongkong/article/9407801-%e4%b8%ad%e5%a4%ae%e6%83%a0%e6%b8%af%e5%88%a9%e6%b0%91%e6%94%bf%e7%ad%96%e5%af%86%e9%9b%86%e6%8e%a8%e5%87%ba-%e5%94%94%e8%ac%9b%e5%94%94%e8%a6%ba%e5%96%ae%e6%98%af%e4%bb%8a%e5%b9%b4%e4%b8%8b%e5%8d%8a)  
 - [** 美國AI何時何解輸給中國？ -- 深藍](https://www.bastillepost.com/hongkong/article/9410557-%e7%be%8e%e5%9c%8bai%e4%bd%95%e6%99%82%e4%bd%95%e8%a7%a3%e8%bc%b8%e7%b5%a6%e4%b8%ad%e5%9c%8b%ef%bc%9f)  
+- [中美關係出現緩和跡象？樂玉成：希望美國多幹實事 打台灣牌只是抱薪玩火那樣危險 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9414836-%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82%e5%87%ba%e7%8f%be%e7%b7%a9%e5%92%8c%e8%b7%a1%e8%b1%a1%ef%bc%9f%e6%a8%82%e7%8e%89%e6%88%90%ef%bc%9a%e5%b8%8c%e6%9c%9b%e7%be%8e%e5%9c%8b%e5%a4%9a%e5%b9%b9%e5%af%a6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
