@@ -22,6 +22,7 @@
 
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
 - [《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
+- [中國大打「民主仗」 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9429630-%e4%b8%ad%e5%9c%8b%e5%a4%a7%e6%89%93%e3%80%8c%e6%b0%91%e4%b8%bb%e4%bb%97%e3%80%8d)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
