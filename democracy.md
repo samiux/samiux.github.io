@@ -34,5 +34,6 @@
 結論是美式民主只在競選時有天花亂墜的口號，結果不會兌現，自然是假民主了。說到底，搞民主制是要解決人民的問題，讓他們得到幸福呀。
 
 - [中國大打「民主仗」 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9429630-%e4%b8%ad%e5%9c%8b%e5%a4%a7%e6%89%93%e3%80%8c%e6%b0%91%e4%b8%bb%e4%bb%97%e3%80%8d)  
+- [习近平：坚持和完善人民代表大会制度 不断发展全过程人民民主 -- 观察者](https://www.guancha.cn/XiJinPing/2021_10_14_610801.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
