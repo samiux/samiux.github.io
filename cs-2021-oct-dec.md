@@ -33,5 +33,6 @@
 - [美國上半年受惡毒軟件襲擊贖金達5.9億 勢超越過去10年總和 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9433867-%e7%be%8e%e5%9c%8b%e4%b8%8a%e5%8d%8a%e5%b9%b4%e5%8f%97%e6%83%a1%e6%af%92%e8%bb%9f%e4%bb%b6%e8%a5%b2%e6%93%8a%e8%b4%96%e9%87%91%e9%81%945-9%e5%84%84-%e5%8b%a2%e8%b6%85%e8%b6%8a%e9%81%8e%e5%8e%bb10)  
 - [流感恐大反撲　「雙毒」夾擊全球 -- 大公文匯](https://www.tkww.hk/a/202110/14/AP6167a38ee4b0fc5353673485.html)  
 - [運動抗癌是真的！最新研究發現：可以在身體內創造「抑癌環境」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9438068-%e9%81%8b%e5%8b%95%e6%8a%97%e7%99%8c%e6%98%af%e7%9c%9f%e7%9a%84%ef%bc%81%e6%9c%80%e6%96%b0%e7%a0%94%e7%a9%b6%e7%99%bc%e7%8f%be%ef%bc%9a%e5%8f%af%e4%bb%a5%e5%9c%a8%e8%ba%ab%e9%ab%94%e5%85%a7%e5%89%b5)  
+- [** 盧永雄「巴士的點評」圍堵，只會讓中國更強大！太空突圍，芯片殺上，任正非「塔山計劃」，將重演航天逆襲 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9440955-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e5%9c%8d%e5%a0%b5%ef%bc%8c%e5%8f%aa%e6%9c%83%e8%ae%93%e4%b8%ad%e5%9c%8b%e6%9b%b4%e5%bc%b7%e5%a4%a7%ef%bc%81)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
