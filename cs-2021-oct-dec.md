@@ -36,6 +36,7 @@
 - [** 盧永雄「巴士的點評」圍堵，只會讓中國更強大！太空突圍，芯片殺上，任正非「塔山計劃」，將重演航天逆襲 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9440955-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e5%9c%8d%e5%a0%b5%ef%bc%8c%e5%8f%aa%e6%9c%83%e8%ae%93%e4%b8%ad%e5%9c%8b%e6%9b%b4%e5%bc%b7%e5%a4%a7%ef%bc%81)  
 - [** 大公社評 - 健康碼不對接 通關遙不可及 -- 大公文匯](https://mp.weixin.qq.com/s/wtbSaheYvxPkrOgF83l2fg)  
 - [** 英媒爆中國發展繞地球飛行導彈 高超音速美國無法防禦 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9444988-%e8%8b%b1%e5%aa%92%e7%88%86%e4%b8%ad%e5%9c%8b%e7%99%bc%e5%b1%95%e7%b9%9e%e5%9c%b0%e7%90%83%e9%a3%9b%e8%a1%8c%e5%b0%8e%e5%bd%88-%e9%ab%98%e8%b6%85%e9%9f%b3%e9%80%9f%e7%be%8e%e5%9c%8b%e7%84%a1%e6%b3%95)  
+- [** 外媒称中国试射“高超音速导弹”，外交部：例行航天器试验 -- 观察者](https://www.guancha.cn/politics/2021_10_18_611292.shtml)  
 - [天府盃中國駭客大會 iPhone 13 Pro 成功被駭 -- PCM](https://www.pcmarket.com.hk/%e5%a4%a9%e5%ba%9c%e7%9b%83%e4%b8%ad%e5%9c%8b%e9%a7%ad%e5%ae%a2%e5%a4%a7%e6%9c%83-iphone-13-pro-%e6%88%90%e5%8a%9f%e8%a2%ab%e9%a7%ad/)  
 - [黑客大赛上，网络安全专家获取了 iPhone 13的最高”控制权限“ -- Freebuf](https://www.freebuf.com/articles/291855.html)  
 
