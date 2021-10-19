@@ -39,5 +39,9 @@
 - [** 外媒称中国试射“高超音速导弹”，外交部：例行航天器试验 -- 观察者](https://www.guancha.cn/politics/2021_10_18_611292.shtml)  
 - [天府盃中國駭客大會 iPhone 13 Pro 成功被駭 -- PCM](https://www.pcmarket.com.hk/%e5%a4%a9%e5%ba%9c%e7%9b%83%e4%b8%ad%e5%9c%8b%e9%a7%ad%e5%ae%a2%e5%a4%a7%e6%9c%83-iphone-13-pro-%e6%88%90%e5%8a%9f%e8%a2%ab%e9%a7%ad/)  
 - [黑客大赛上，网络安全专家获取了 iPhone 13的最高”控制权限“ -- Freebuf](https://www.freebuf.com/articles/291855.html)  
+- [** 跨境理財通今通車　眾投資者赴銀行開戶投資香港市場 -- 大公文匯](https://www.tkww.hk/a/202110/19/AP616e6259e4b0fc5353699bb7.html)  
+- [科興：接種加強針可鞏固及加強免疫效果 -- 大公文匯](https://www.tkww.hk/a/202110/19/AP616e61f9e4b0fc5353699b91.html)  
+- [** 中國芯　再突破！ -- 大公文匯](https://www.tkww.hk/a/202110/19/AP616e5332e4b0fc5353699581.html)  
+- [** 【自家研發】阿里巴巴宣布成功研發 5 納米晶片 不會出售僅供自用 -- ezone](https://ezone.ulifestyle.com.hk/article/3085295/%E3%80%90%E8%87%AA%E5%AE%B6%E7%A0%94%E7%99%BC%E3%80%91%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%A3%E5%B8%83%E6%88%90%E5%8A%9F%E7%A0%94%E7%99%BC%205%20%E7%B4%8D%E7%B1%B3%E6%99%B6%E7%89%87%20%20%E4%B8%8D%E6%9C%83%E5%87%BA%E5%94%AE%E5%83%85%E4%BE%9B%E8%87%AA%E7%94%A8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
