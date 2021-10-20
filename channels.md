@@ -321,6 +321,8 @@
 - [國產鼻噴疫苗24小時起效 -- 大公文匯](https://www.tkww.hk/a/202109/26/AP614fb67de4b0fc53535e0e6e.html)  
 - [研究：美37%患者現「長新冠」症狀 -- 大公文匯](https://www.tkww.hk/a/202109/30/AP615507d4e4b0fc535360588a.html)  
 - [鍾南山：中國完全開放須符合兩大條件 -- 大公文匯](https://www.tkww.hk/a/202110/04/AP615aa57fe4b0fc5353626569.html)  
+- [以色列暗網發現：美士兵通話記錄證實美科學家研究並洩漏新冠病毒！ -- 大公文匯](https://www.tkww.hk/a/202110/20/AP616f6026e4b0fc535369f238.html)  
+- [英現Delta亞變種「AY.4.2」　單日確診飆至5萬 -- 大公文匯](https://www.tkww.hk/a/202110/20/AP616f6911e4b0fc535369f80f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
