@@ -22,6 +22,7 @@
 
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
 - [《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
+- [黃奇帆最新演講：未來15年中國的發展戰略的5大變化 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9457043-%e9%bb%83%e5%a5%87%e5%b8%86%e6%9c%80%e6%96%b0%e6%bc%94%e8%ac%9b%ef%bc%9a%e6%9c%aa%e4%be%8615%e5%b9%b4%e4%b8%ad%e5%9c%8b%e7%9a%84%e7%99%bc%e5%b1%95%e6%88%b0%e7%95%a5%e7%9a%845%e5%a4%a7%e8%ae%8a)  
 - [中國式民主制](/democracy.md)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
