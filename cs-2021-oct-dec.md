@@ -51,5 +51,7 @@
 - [中國出手對煤炭價格進行干預　美媒：政策閃電戰 -- 大公文匯](https://www.tkww.hk/a/202110/21/AP6170e0e0e4b0fc53536a89f9.html)  
 - [** 新加坡「與病毒共存」2個月激增9萬病例 對中國的啟示 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9465098-%e6%96%b0%e5%8a%a0%e5%9d%a1%e3%80%8c%e8%88%87%e7%97%85%e6%af%92%e5%85%b1%e5%ad%98%e3%80%8d%ef%bc%92%e5%80%8b%e6%9c%88%e6%bf%80%e5%a2%9e9%e8%90%ac%e7%97%85%e4%be%8b-%e5%b0%8d%e4%b8%ad%e5%9c%8b%e7%9a%84)  
 - [** 徐澤南沙論壇講話甚有指向性：特區制度落實的好壞 關係國家治理體系的整體有效性 -- Ariel](https://www.bastillepost.com/hongkong/article/9473473-%e5%be%90%e6%be%a4%e5%8d%97%e6%b2%99%e8%ab%96%e5%a3%87%e8%ac%9b%e8%a9%b1%e7%94%9a%e6%9c%89%e6%8c%87%e5%90%91%e6%80%a7%ef%bc%9a%e7%89%b9%e5%8d%80%e5%88%b6%e5%ba%a6%e8%90%bd%e5%af%a6%e7%9a%84%e5%a5%bd)  
+- [** 亩产1326.77公斤！袁隆平院士的遗愿实现了 -- 观察者](https://www.guancha.cn/politics/2021_10_23_612017.shtml)  
+- [印军边境“高强度特训”画面公布，笑翻网友 -- 观察者](https://www.guancha.cn/internation/2021_10_23_611953.shtml?s=zwyzxsp)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
