@@ -216,6 +216,7 @@
 - [中國芯　再突破！ -- 大公文匯](https://www.tkww.hk/a/202110/19/AP616e5332e4b0fc5353699581.html)  
 - [【自家研發】阿里巴巴宣布成功研發 5 納米晶片 不會出售僅供自用 -- ezone](https://ezone.ulifestyle.com.hk/article/3085295/%E3%80%90%E8%87%AA%E5%AE%B6%E7%A0%94%E7%99%BC%E3%80%91%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%A3%E5%B8%83%E6%88%90%E5%8A%9F%E7%A0%94%E7%99%BC%205%20%E7%B4%8D%E7%B1%B3%E6%99%B6%E7%89%87%20%20%E4%B8%8D%E6%9C%83%E5%87%BA%E5%94%AE%E5%83%85%E4%BE%9B%E8%87%AA%E7%94%A8)  
 - [全面升級 - 華為鴻蒙3.0來了　推全新編程語言 -- 大公文匯](https://www.tkww.hk/a/202110/23/AP61735b1ae4b0fc53536b5cc1.html)  
+- [亩产1326.77公斤！袁隆平院士的遗愿实现了 -- 观察者](https://www.guancha.cn/politics/2021_10_23_612017.shtml)  
 
 ## Misc.
 
