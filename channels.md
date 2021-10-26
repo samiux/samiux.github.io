@@ -219,6 +219,7 @@
 - [全面升級 - 華為鴻蒙3.0來了　推全新編程語言 -- 大公文匯](https://www.tkww.hk/a/202110/23/AP61735b1ae4b0fc53536b5cc1.html)  
 - [亩产1326.77公斤！袁隆平院士的遗愿实现了 -- 观察者](https://www.guancha.cn/politics/2021_10_23_612017.shtml)  
 - [中國量子計算研究重大突破 比超級電腦快千萬倍！ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9495229-%e4%b8%ad%e5%9c%8b%e9%87%8f%e5%ad%90%e8%a8%88%e7%ae%97%e7%a0%94%e7%a9%b6%e9%87%8d%e5%a4%a7%e7%aa%81%e7%a0%b4-%e6%af%94%e8%b6%85%e7%b4%9a%e9%9b%bb%e8%85%a6%e5%bf%ab%e5%8d%83%e8%90%ac%e5%80%8d%ef%bc%81)  
+- [全球唯一 中國在兩條技術路線上實現「量子優越性」 -- 大公文匯](https://www.tkww.hk/a/202110/26/AP6177b14ce4b0e484389f4598.html)  
 
 ## Misc.
 
