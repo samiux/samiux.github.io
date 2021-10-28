@@ -58,5 +58,9 @@
 - [泳池練突擊　傘下學打靶　台軍少爺兵是怎樣練成的 -- 大公文匯](https://www.tkww.hk/a/202110/27/AP61788ee1e4b0e484389f7ef5.html)  
 - [新聞背後 - 英國治安惡劣　移民「黃絲」有苦難言 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP6179e0ece4b0e484389fed78.html)  
 - [（有片）文匯實測 - 貪平食台灣禁果　港人恐捉蟲入肚 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP6179e3fbe4b0e484389fee7a.html)  
+- [泰晤士全球大學排名　清華高居前10　港大列48 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP6179f438e4b0e484389ff8ae.html)  
+- [印度試射洲際導彈　射程覆蓋中國主要城市 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP617a2e56e4b0e48438a014c3.html)  
+- [日本前首相福田康夫駁新冠中國起源論　籲改善對華關係 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP617a1ca3e4b0e48438a00ce8.html)  
+- [中國三季度GDP破5 「四大缺」拖累復蘇步伐？ 專家：市場遠比想象的有韌性 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9509861-%e4%b8%ad%e5%9c%8b%e4%b8%89%e5%ad%a3%e5%ba%a6gdp%e7%a0%b45-%e3%80%8c%e5%9b%9b%e5%a4%a7%e7%bc%ba%e3%80%8d%e6%8b%96%e7%b4%af%e5%be%a9%e8%98%87%e6%ad%a5%e4%bc%90%ef%bc%9f-%e5%b0%88%e5%ae%b6%ef%bc%9a)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
