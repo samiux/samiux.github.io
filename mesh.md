@@ -14,6 +14,10 @@
 
 经过这五个月来的实际使用，我对此产品评价非常之高，价廉物美，极力推荐！
 
+## 参考：
+
+- [Israeli Researcher Cracked Over 3500 Wi-Fi Networks in Tel Aviv City -- The Hacker News](https://thehackernews.com/2021/10/israeli-researcher-cracked-over-3500-wi.html)  
+
 Samiux  
 OSCE  OSCP  OSWP  
 二零二零年八月十三日，中国香港  
