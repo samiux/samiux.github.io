@@ -56,5 +56,7 @@
 - [又一「吹哨人」揭Fb放任仇恨言論 -- 大公文匯](https://www.tkww.hk/a/202110/24/AP6174a393e4b0fc53536bbbd6.html)  
 - [美媒批台军战力弱，台防务主管反驳：我们没有草莓兵 -- 观察者](https://www.guancha.cn/politics/2021_10_26_612404.shtml)  
 - [泳池練突擊　傘下學打靶　台軍少爺兵是怎樣練成的 -- 大公文匯](https://www.tkww.hk/a/202110/27/AP61788ee1e4b0e484389f7ef5.html)  
+- [新聞背後 - 英國治安惡劣　移民「黃絲」有苦難言 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP6179e0ece4b0e484389fed78.html)  
+- [（有片）文匯實測 - 貪平食台灣禁果　港人恐捉蟲入肚 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP6179e3fbe4b0e484389fee7a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
