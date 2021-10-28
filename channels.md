@@ -330,6 +330,7 @@
 - [以色列暗網發現：美士兵通話記錄證實美科學家研究並洩漏新冠病毒！ -- 大公文匯](https://www.tkww.hk/a/202110/20/AP616f6026e4b0fc535369f238.html)  
 - [英現Delta亞變種「AY.4.2」　單日確診飆至5萬 -- 大公文匯](https://www.tkww.hk/a/202110/20/AP616f6911e4b0fc535369f80f.html)  
 - [新加坡「與病毒共存」2個月激增9萬病例 對中國的啟示 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9465098-%e6%96%b0%e5%8a%a0%e5%9d%a1%e3%80%8c%e8%88%87%e7%97%85%e6%af%92%e5%85%b1%e5%ad%98%e3%80%8d%ef%bc%92%e5%80%8b%e6%9c%88%e6%bf%80%e5%a2%9e9%e8%90%ac%e7%97%85%e4%be%8b-%e5%b0%8d%e4%b8%ad%e5%9c%8b%e7%9a%84)  
+- [周伯展：續打科興不會「溝針」　接種第三劑疫苗更「穩陣」 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP617a5e2ee4b0e48438a02947.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
