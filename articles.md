@@ -30,6 +30,15 @@
 
 ### Text  
 
+#### Red Team
+
+- [红队实战攻防技术（一） -- 风起](https://www.anquanke.com/post/id/249994)  
+- [红队实战攻防技术（二） -- 风起](https://www.anquanke.com/post/id/254652)  
+- [红队攻防基础建设—神隐之路 -- 风起](https://www.anquanke.com/post/id/239640)  
+- [红队攻防基础建设—C2 IP隐匿技术 -- 风起](https://www.anquanke.com/post/id/238142)  
+- [新型网络犯罪攻防技术研究 -- 风起](https://www.anquanke.com/post/id/256016)  
+- [风起](https://www.anquanke.com/member.html?memberId=148652)  
+
 #### Defense
 
 - [洋葱式防御 - 网络空间安全篇](/onion-defense.md)
