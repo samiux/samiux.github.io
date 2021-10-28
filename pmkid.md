@@ -90,6 +90,10 @@ It includes general dictionaries, such as Oxford Dictionary and hackers' diction
 - Do you recommend to set **insecured** WPA3 password on Wifi6 router?  
 Not recommended.  
 
+### See Also
+
+- [Israeli Researcher Cracked Over 3500 Wi-Fi Networks in Tel Aviv City -- The Hacker News](https://thehackernews.com/2021/10/israeli-researcher-cracked-over-3500-wi.html)  
+
 Samiux  
 OSCE  OSCP  OSWP  
 March 22, 2020, Hong Kong, China  
