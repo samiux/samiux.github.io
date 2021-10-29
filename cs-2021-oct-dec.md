@@ -63,5 +63,6 @@
 - [日本前首相福田康夫駁新冠中國起源論　籲改善對華關係 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP617a1ca3e4b0e48438a00ce8.html)  
 - [中國三季度GDP破5 「四大缺」拖累復蘇步伐？ 專家：市場遠比想象的有韌性 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9509861-%e4%b8%ad%e5%9c%8b%e4%b8%89%e5%ad%a3%e5%ba%a6gdp%e7%a0%b45-%e3%80%8c%e5%9b%9b%e5%a4%a7%e7%bc%ba%e3%80%8d%e6%8b%96%e7%b4%af%e5%be%a9%e8%98%87%e6%ad%a5%e4%bc%90%ef%bc%9f-%e5%b0%88%e5%ae%b6%ef%bc%9a)  
 - [印度試射「烈火-5」 可攜帶核彈頭 -- 大公文匯](https://www.tkww.hk/a/202110/29/AP617b3c85e4b0e48438a065f7.html)  
+- [美國承認了：禁了中國的無人機，才發現自己真不行 -- 深喉](https://www.bastillepost.com/hongkong/article/9520064-%e7%be%8e%e5%9c%8b%e6%89%bf%e8%aa%8d%e4%ba%86%ef%bc%9a%e7%a6%81%e4%ba%86%e4%b8%ad%e5%9c%8b%e7%9a%84%e7%84%a1%e4%ba%ba%e6%a9%9f%ef%bc%8c%e6%89%8d%e7%99%bc%e7%8f%be%e8%87%aa%e5%b7%b1%e7%9c%9f%e4%b8%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
