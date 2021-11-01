@@ -65,5 +65,6 @@
 - [印度試射「烈火-5」 可攜帶核彈頭 -- 大公文匯](https://www.tkww.hk/a/202110/29/AP617b3c85e4b0e48438a065f7.html)  
 - [美國承認了：禁了中國的無人機，才發現自己真不行 -- 深喉](https://www.bastillepost.com/hongkong/article/9520064-%e7%be%8e%e5%9c%8b%e6%89%bf%e8%aa%8d%e4%ba%86%ef%bc%9a%e7%a6%81%e4%ba%86%e4%b8%ad%e5%9c%8b%e7%9a%84%e7%84%a1%e4%ba%ba%e6%a9%9f%ef%bc%8c%e6%89%8d%e7%99%bc%e7%8f%be%e8%87%aa%e5%b7%b1%e7%9c%9f%e4%b8%8d)  
 - [中國創新與美國的歲月神偷 -- 黃秉華](https://www.bastillepost.com/hongkong/article/9523496-%e4%b8%ad%e5%9c%8b%e5%89%b5%e6%96%b0%e8%88%87%e7%be%8e%e5%9c%8b%e7%9a%84%e6%ad%b2%e6%9c%88%e7%a5%9e%e5%81%b7)  
+- [美國是否出兵護台？布林肯面對CNN追問堅拒承諾 -- 大公文匯](https://www.tkww.hk/a/202111/01/AP617fa491e4b06eb4c4083864.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
