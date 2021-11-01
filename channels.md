@@ -334,6 +334,7 @@
 - [周伯展：續打科興不會「溝針」　接種第三劑疫苗更「穩陣」 -- 大公文匯](https://www.tkww.hk/a/202110/28/AP617a5e2ee4b0e48438a02947.html)  
 - [英研究：已打疫苗與未接種者若染Delta 體內病毒量相同 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9516938-%e8%8b%b1%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%b7%b2%e6%89%93%e7%96%ab%e8%8b%97%e8%88%87%e6%9c%aa%e6%8e%a5%e7%a8%ae%e8%80%85%e8%8b%a5%e6%9f%93delta-%e9%ab%94%e5%85%a7%e7%97%85%e6%af%92%e9%87%8f%e7%9b%b8)  
 - [新冠肺炎奪500萬人命 僅次於西班牙流感 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9536122-%e6%96%b0%e5%86%a0%e8%82%ba%e7%82%8e%e5%a5%aa500%e8%90%ac%e4%ba%ba%e5%91%bd-%e5%83%85%e6%ac%a1%e6%96%bc%e8%a5%bf%e7%8f%ad%e7%89%99%e6%b5%81%e6%84%9f)  
+- [北京兩人核酸呈陽性和單基因陽性　什麼是單基因陽性？ -- 大公文匯](https://www.tkww.hk/a/202111/01/AP617ff737e4b06eb4c40859e2.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
