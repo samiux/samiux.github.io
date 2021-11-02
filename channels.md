@@ -222,6 +222,7 @@
 - [全球唯一 中國在兩條技術路線上實現「量子優越性」 -- 大公文匯](https://www.tkww.hk/a/202110/26/AP6177b14ce4b0e484389f4598.html)  
 - [中國憑技術登上「量子霸權」寶座 -- 深藍](https://www.bastillepost.com/hongkong/article/9505304-%e4%b8%ad%e5%9c%8b%e6%86%91%e6%8a%80%e8%a1%93%e7%99%bb%e4%b8%8a%e3%80%8c%e9%87%8f%e5%ad%90%e9%9c%b8%e6%ac%8a%e3%80%8d%e5%af%b6%e5%ba%a7)  
 - [我国首次实现从一氧化碳到蛋白质的合成并形成万吨级工业产能 -- 观察者](https://www.guancha.cn/industry-science/2021_10_31_613013.shtml)  
+- [中國新型動力「空天飛機」試飛成功 創下多個國際首次 美國的擔憂要成真？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9541313-%e4%b8%ad%e5%9c%8b%e6%96%b0%e5%9e%8b%e5%8b%95%e5%8a%9b%e3%80%8c%e7%a9%ba%e5%a4%a9%e9%a3%9b%e6%a9%9f%e3%80%8d%e8%a9%a6%e9%a3%9b%e6%88%90%e5%8a%9f-%e5%89%b5%e4%b8%8b%e5%a4%9a%e5%80%8b%e5%9c%8b%e9%9a%9b)  
 
 ## Misc.
 
@@ -335,6 +336,7 @@
 - [英研究：已打疫苗與未接種者若染Delta 體內病毒量相同 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9516938-%e8%8b%b1%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%b7%b2%e6%89%93%e7%96%ab%e8%8b%97%e8%88%87%e6%9c%aa%e6%8e%a5%e7%a8%ae%e8%80%85%e8%8b%a5%e6%9f%93delta-%e9%ab%94%e5%85%a7%e7%97%85%e6%af%92%e9%87%8f%e7%9b%b8)  
 - [新冠肺炎奪500萬人命 僅次於西班牙流感 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9536122-%e6%96%b0%e5%86%a0%e8%82%ba%e7%82%8e%e5%a5%aa500%e8%90%ac%e4%ba%ba%e5%91%bd-%e5%83%85%e6%ac%a1%e6%96%bc%e8%a5%bf%e7%8f%ad%e7%89%99%e6%b5%81%e6%84%9f)  
 - [北京兩人核酸呈陽性和單基因陽性　什麼是單基因陽性？ -- 大公文匯](https://www.tkww.hk/a/202111/01/AP617ff737e4b06eb4c40859e2.html)  
+- [日本新增確診驟減至200 研究人員：病毒現新變異，致自我消亡 -- 深喉](https://www.bastillepost.com/hongkong/article/9540996-%e6%97%a5%e6%9c%ac%e6%96%b0%e5%a2%9e%e7%a2%ba%e8%a8%ba%e9%a9%9f%e6%b8%9b%e8%87%b3200-%e7%a0%94%e7%a9%b6%e4%ba%ba%e5%93%a1%ef%bc%9a%e7%97%85%e6%af%92%e7%8f%be%e6%96%b0%e8%ae%8a%e7%95%b0%ef%bc%8c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
