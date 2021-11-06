@@ -337,6 +337,7 @@
 - [新冠肺炎奪500萬人命 僅次於西班牙流感 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9536122-%e6%96%b0%e5%86%a0%e8%82%ba%e7%82%8e%e5%a5%aa500%e8%90%ac%e4%ba%ba%e5%91%bd-%e5%83%85%e6%ac%a1%e6%96%bc%e8%a5%bf%e7%8f%ad%e7%89%99%e6%b5%81%e6%84%9f)  
 - [北京兩人核酸呈陽性和單基因陽性　什麼是單基因陽性？ -- 大公文匯](https://www.tkww.hk/a/202111/01/AP617ff737e4b06eb4c40859e2.html)  
 - [日本新增確診驟減至200 研究人員：病毒現新變異，致自我消亡 -- 深喉](https://www.bastillepost.com/hongkong/article/9540996-%e6%97%a5%e6%9c%ac%e6%96%b0%e5%a2%9e%e7%a2%ba%e8%a8%ba%e9%a9%9f%e6%b8%9b%e8%87%b3200-%e7%a0%94%e7%a9%b6%e4%ba%ba%e5%93%a1%ef%bc%9a%e7%97%85%e6%af%92%e7%8f%be%e6%96%b0%e8%ae%8a%e7%95%b0%ef%bc%8c)  
+- [輝瑞疫苗臨床試驗曝「醜聞」 -- 大公文匯](https://www.tkww.hk/a/202111/06/AP61869862e4b06eb4c40aa1bc.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
