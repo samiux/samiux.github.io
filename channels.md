@@ -338,6 +338,7 @@
 - [北京兩人核酸呈陽性和單基因陽性　什麼是單基因陽性？ -- 大公文匯](https://www.tkww.hk/a/202111/01/AP617ff737e4b06eb4c40859e2.html)  
 - [日本新增確診驟減至200 研究人員：病毒現新變異，致自我消亡 -- 深喉](https://www.bastillepost.com/hongkong/article/9540996-%e6%97%a5%e6%9c%ac%e6%96%b0%e5%a2%9e%e7%a2%ba%e8%a8%ba%e9%a9%9f%e6%b8%9b%e8%87%b3200-%e7%a0%94%e7%a9%b6%e4%ba%ba%e5%93%a1%ef%bc%9a%e7%97%85%e6%af%92%e7%8f%be%e6%96%b0%e8%ae%8a%e7%95%b0%ef%bc%8c)  
 - [輝瑞疫苗臨床試驗曝「醜聞」 -- 大公文匯](https://www.tkww.hk/a/202111/06/AP61869862e4b06eb4c40aa1bc.html)  
+- [內地3至11歲兒童全面打疫苗 澳媒發現中國「零容忍」政策好處：病死率僅澳洲1/63 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9572910-%e5%85%a7%e5%9c%b03%e8%87%b311%e6%ad%b2%e5%85%92%e7%ab%a5%e5%85%a8%e9%9d%a2%e6%89%93%e7%96%ab%e8%8b%97-%e6%be%b3%e5%aa%92%e7%99%bc%e7%8f%be%e4%b8%ad%e5%9c%8b%e3%80%8c%e9%9b%b6%e5%ae%b9%e5%bf%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
