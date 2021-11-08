@@ -70,5 +70,6 @@
 - [日本新增確診驟減至200 研究人員：病毒現新變異，致自我消亡 -- 深喉](https://www.bastillepost.com/hongkong/article/9540996-%e6%97%a5%e6%9c%ac%e6%96%b0%e5%a2%9e%e7%a2%ba%e8%a8%ba%e9%a9%9f%e6%b8%9b%e8%87%b3200-%e7%a0%94%e7%a9%b6%e4%ba%ba%e5%93%a1%ef%bc%9a%e7%97%85%e6%af%92%e7%8f%be%e6%96%b0%e8%ae%8a%e7%95%b0%ef%bc%8c)  
 - [中國新型動力「空天飛機」試飛成功 創下多個國際首次 美國的擔憂要成真？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9541313-%e4%b8%ad%e5%9c%8b%e6%96%b0%e5%9e%8b%e5%8b%95%e5%8a%9b%e3%80%8c%e7%a9%ba%e5%a4%a9%e9%a3%9b%e6%a9%9f%e3%80%8d%e8%a9%a6%e9%a3%9b%e6%88%90%e5%8a%9f-%e5%89%b5%e4%b8%8b%e5%a4%9a%e5%80%8b%e5%9c%8b%e9%9a%9b)  
 - [英媒：美國二氧化碳排放總量居世界首位 -- 大公文匯](https://www.tkww.hk/a/202111/02/AP61809e1ae4b06eb4c408832e.html)  
+- [新型空戰 -- 攻擊11無人機　航母殲敵 -- 大公文匯](https://www.tkww.hk/a/202111/08/AP61886e95e4b06eb4c40b1beb.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
