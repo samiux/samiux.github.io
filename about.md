@@ -46,8 +46,7 @@ He can be reached at :
 - [CyberSecurity Ninjas](https://samiux.github.io) 
 - [Gitee](https://gitee.com/samiux)  
 - [GitHub](https://github.com/samiux)  
-- [pwntools (Discord Server)](https://discord.gg/96VA2zvjCB)  
-- [pwndbg (Discord Server)](https://discord.gg/x47DssnGwm)  
+- Discord @samiux  
 
 ## **Reference**
 
