@@ -26,7 +26,6 @@ Furthermore, some CTF PWN challenges are all hardening features enabled.  You ne
 - [picoCTF](https://picoctf.org/)  
 
 ## Tutorials
-- [caprinux](https://caprinux.github.io/)  
 - [Nightmare](https://guyinatuxedo.github.io/)  
 - [CTF 竞赛入门指南 (CTF All In One)](https://www.bookstack.cn/books/CTF-All-In-One)  
 - [CS6265: Information Security Lab](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html)  
