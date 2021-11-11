@@ -72,5 +72,7 @@
 - [英媒：美國二氧化碳排放總量居世界首位 -- 大公文匯](https://www.tkww.hk/a/202111/02/AP61809e1ae4b06eb4c408832e.html)  
 - [新型空戰 -- 攻擊11無人機　航母殲敵 -- 大公文匯](https://www.tkww.hk/a/202111/08/AP61886e95e4b06eb4c40b1beb.html)  
 - [中國在沙漠演練「打美國航母」？美國防部的回應來了 -- 大公文匯](https://www.tkww.hk/a/202111/09/AP618a70d0e4b06eb4c40bdece.html)  
+- [美國情報機構感到很沮喪 想不到中國這麼快解決香港問題 估不到自己情報系統受到這麼大破壞 -- 深喉](https://www.bastillepost.com/hongkong/article/9597522-%e7%be%8e%e5%9c%8b%e6%83%85%e5%a0%b1%e6%a9%9f%e6%a7%8b%e6%84%9f%e5%88%b0%e5%be%88%e6%b2%ae%e5%96%aa-%e6%83%b3%e4%b8%8d%e5%88%b0%e4%b8%ad%e5%9c%8b%e9%80%99%e9%ba%bc%e5%bf%ab%e8%a7%a3%e6%b1%ba%e9%a6%99)  
+- [國台辦打七寸 台灣千家企業將不敢捐綠營 蘇貞昌們未來沒錢參選了 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9597595-%e5%9c%8b%e5%8f%b0%e8%be%a6%e6%89%93%e4%b8%83%e5%af%b8-%e5%8f%b0%e7%81%a3%e5%8d%83%e5%ae%b6%e4%bc%81%e6%a5%ad%e5%b0%87%e4%b8%8d%e6%95%a2%e6%8d%90%e7%b6%a0%e7%87%9f-%e8%98%87%e8%b2%9e%e6%98%8c%e5%80%91)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
