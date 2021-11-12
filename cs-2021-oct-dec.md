@@ -75,5 +75,6 @@
 - [美國情報機構感到很沮喪 想不到中國這麼快解決香港問題 估不到自己情報系統受到這麼大破壞 -- 深喉](https://www.bastillepost.com/hongkong/article/9597522-%e7%be%8e%e5%9c%8b%e6%83%85%e5%a0%b1%e6%a9%9f%e6%a7%8b%e6%84%9f%e5%88%b0%e5%be%88%e6%b2%ae%e5%96%aa-%e6%83%b3%e4%b8%8d%e5%88%b0%e4%b8%ad%e5%9c%8b%e9%80%99%e9%ba%bc%e5%bf%ab%e8%a7%a3%e6%b1%ba%e9%a6%99)  
 - [香港快速由亂及治　美前情報官哀歎已難滲透 -- 大公文匯](https://www.tkww.hk/a/202111/11/AP618cf759e4b06eb4c40cb1b6.html)  
 - [國台辦打七寸 台灣千家企業將不敢捐綠營 蘇貞昌們未來沒錢參選了 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9597595-%e5%9c%8b%e5%8f%b0%e8%be%a6%e6%89%93%e4%b8%83%e5%af%b8-%e5%8f%b0%e7%81%a3%e5%8d%83%e5%ae%b6%e4%bc%81%e6%a5%ad%e5%b0%87%e4%b8%8d%e6%95%a2%e6%8d%90%e7%b6%a0%e7%87%9f-%e8%98%87%e8%b2%9e%e6%98%8c%e5%80%91)  
+- [搵食艱難！ 英國經濟未來五年都很差 -- 深喉](https://www.bastillepost.com/hongkong/article/9605731-%e6%90%b5%e9%a3%9f%e8%89%b1%e9%9b%a3%ef%bc%81-%e8%8b%b1%e5%9c%8b%e7%b6%93%e6%bf%9f%e6%9c%aa%e4%be%86%e4%ba%94%e5%b9%b4%e9%83%bd%e5%be%88%e5%b7%ae)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
