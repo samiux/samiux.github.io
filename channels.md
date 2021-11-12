@@ -340,6 +340,7 @@
 - [輝瑞疫苗臨床試驗曝「醜聞」 -- 大公文匯](https://www.tkww.hk/a/202111/06/AP61869862e4b06eb4c40aa1bc.html)  
 - [內地3至11歲兒童全面打疫苗 澳媒發現中國「零容忍」政策好處：病死率僅澳洲1/63 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9572910-%e5%85%a7%e5%9c%b03%e8%87%b311%e6%ad%b2%e5%85%92%e7%ab%a5%e5%85%a8%e9%9d%a2%e6%89%93%e7%96%ab%e8%8b%97-%e6%be%b3%e5%aa%92%e7%99%bc%e7%8f%be%e4%b8%ad%e5%9c%8b%e3%80%8c%e9%9b%b6%e5%ae%b9%e5%bf%8d)  
 - [鍾南山：打第3針新冠疫苗很有必要 -- 大公文匯](https://www.tkww.hk/a/202111/12/AP618df3fee4b06eb4c40d08d0.html)  
+- [全球首款！陈薇团队研发吸入式新冠疫苗亮相海南健博会 -- 观察者](https://www.guancha.cn/politics/2021_11_12_614610.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
