@@ -77,5 +77,6 @@
 - [國台辦打七寸 台灣千家企業將不敢捐綠營 蘇貞昌們未來沒錢參選了 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9597595-%e5%9c%8b%e5%8f%b0%e8%be%a6%e6%89%93%e4%b8%83%e5%af%b8-%e5%8f%b0%e7%81%a3%e5%8d%83%e5%ae%b6%e4%bc%81%e6%a5%ad%e5%b0%87%e4%b8%8d%e6%95%a2%e6%8d%90%e7%b6%a0%e7%87%9f-%e8%98%87%e8%b2%9e%e6%98%8c%e5%80%91)  
 - [搵食艱難！ 英國經濟未來五年都很差 -- 深喉](https://www.bastillepost.com/hongkong/article/9605731-%e6%90%b5%e9%a3%9f%e8%89%b1%e9%9b%a3%ef%bc%81-%e8%8b%b1%e5%9c%8b%e7%b6%93%e6%bf%9f%e6%9c%aa%e4%be%86%e4%ba%94%e5%b9%b4%e9%83%bd%e5%be%88%e5%b7%ae)  
 - [一桶菜籽油40美元！美國食品蔬菜價格飛漲，部分超市開始限購 -- 深喉](https://www.bastillepost.com/hongkong/article/9611741-%e4%b8%80%e6%a1%b6%e8%8f%9c%e7%b1%bd%e6%b2%b940%e7%be%8e%e5%85%83%ef%bc%81%e7%be%8e%e5%9c%8b%e9%a3%9f%e5%93%81%e8%94%ac%e8%8f%9c%e5%83%b9%e6%a0%bc%e9%a3%9b%e6%bc%b2%ef%bc%8c%e9%83%a8%e5%88%86%e8%b6%85)  
+- [《自然》：日語、韓語、土耳其語都源於中國東北 他們的祖先都來自中國 ! -- 深喉](https://www.bastillepost.com/hongkong/article/9616560-%e3%80%8a%e8%87%aa%e7%84%b6%e3%80%8b%ef%bc%9a%e6%97%a5%e8%aa%9e%e3%80%81%e9%9f%93%e8%aa%9e%e3%80%81%e5%9c%9f%e8%80%b3%e5%85%b6%e8%aa%9e%e9%83%bd%e6%ba%90%e6%96%bc%e4%b8%ad%e5%9c%8b%e6%9d%b1%e5%8c%97)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
