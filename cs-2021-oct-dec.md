@@ -80,5 +80,6 @@
 - [《自然》：日語、韓語、土耳其語都源於中國東北 他們的祖先都來自中國 ! -- 深喉](https://www.bastillepost.com/hongkong/article/9616560-%e3%80%8a%e8%87%aa%e7%84%b6%e3%80%8b%ef%bc%9a%e6%97%a5%e8%aa%9e%e3%80%81%e9%9f%93%e8%aa%9e%e3%80%81%e5%9c%9f%e8%80%b3%e5%85%b6%e8%aa%9e%e9%83%bd%e6%ba%90%e6%96%bc%e4%b8%ad%e5%9c%8b%e6%9d%b1%e5%8c%97)  
 - [英媒刊文：為什麼說中國正認真對待氣候變化問題？ -- 深喉](https://www.bastillepost.com/hongkong/article/9623098-%e8%8b%b1%e5%aa%92%e5%88%8a%e6%96%87%ef%bc%9a%e7%82%ba%e4%bb%80%e9%ba%bc%e8%aa%aa%e4%b8%ad%e5%9c%8b%e6%ad%a3%e8%aa%8d%e7%9c%9f%e5%b0%8d%e5%be%85%e6%b0%a3%e5%80%99%e8%ae%8a%e5%8c%96%e5%95%8f%e9%a1%8c)  
 - [** 華為擬授權第 3 廠商生產手機 -- ezone](https://ezone.ulifestyle.com.hk/article/3107489/%E8%8F%AF%E7%82%BA%E6%93%AC%E6%8E%88%E6%AC%8A%E7%AC%AC%203%20%E5%BB%A0%E5%95%86%E7%94%9F%E7%94%A2%E6%89%8B%E6%A9%9F)  
+- [廣州地鐵實現急救設備AED全覆蓋 -- 大公文匯](https://www.tkww.hk/a/202111/15/AP61920ebee4b06eb4c40e44d4.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
