@@ -343,6 +343,7 @@
 - [全球首款！陈薇团队研发吸入式新冠疫苗亮相海南健博会 -- 观察者](https://www.guancha.cn/politics/2021_11_12_614610.shtml)  
 - [中國疾控中心主任高福：「清零」政策給中國贏得時間 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9611970-%e4%b8%ad%e5%9c%8b%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e4%b8%bb%e4%bb%bb%e9%ab%98%e7%a6%8f%ef%bc%9a%e3%80%8c%e6%b8%85%e9%9b%b6%e3%80%8d%e6%94%bf%e7%ad%96%e7%b5%a6%e4%b8%ad%e5%9c%8b%e8%b4%8f%e5%be%97)  
 - [中國何時完全放開？鍾南山講出2大前題 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9616481-%e4%b8%ad%e5%9c%8b%e4%bd%95%e6%99%82%e5%ae%8c%e5%85%a8%e6%94%be%e9%96%8b%ef%bc%9f%e9%8d%be%e5%8d%97%e5%b1%b1%e8%ac%9b%e5%87%ba2%e5%a4%a7%e5%89%8d%e9%a1%8c)  
+- [我國新冠特效藥有了時間表 -- 大公文匯](https://www.tkww.hk/a/202111/15/AP6191d7b9e4b06eb4c40e326a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
