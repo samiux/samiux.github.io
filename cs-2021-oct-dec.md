@@ -84,5 +84,6 @@
 - [國產智能化養老機械人集聚灣區亮相 -- 大公文匯](https://www.tkww.hk/a/202111/15/AP61924978e4b06eb4c40e5a07.html)  
 - [** 「我將無我，不負人民」 習主席：我能夠為14億中國人民服務，是重大挑戰和責任 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9630272-%e3%80%8c%e6%88%91%e5%b0%87%e7%84%a1%e6%88%91%ef%bc%8c%e4%b8%8d%e8%b2%a0%e4%ba%ba%e6%b0%91%e3%80%8d-%e7%bf%92%e4%b8%bb%e5%b8%ad%ef%bc%9a%e6%88%91%e8%83%bd%e5%a4%a0%e7%82%ba14%e5%84%84%e4%b8%ad)  
 - [** 外交部：中美元首視頻會晤主要內容可概括為「3421」 -- 大公文匯](https://www.tkww.hk/a/202111/16/AP61939707e4b06eb4c40ed132.html)  
+- [** 第三份歷史決議全文公布 習近平說明提三重點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9631549-%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%85%a8%e6%96%87%e5%85%ac%e5%b8%83-%e7%bf%92%e8%bf%91%e5%b9%b3%e8%aa%aa%e6%98%8e%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
