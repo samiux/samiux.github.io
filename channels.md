@@ -26,7 +26,8 @@
 - [Hezhimeng  竹内亮](https://www.youtube.com/channel/UCwHUYtwH5E41O6MiYoC19ng)  
 - [张维为 The Chinese Way by Zhang Weiwei](https://www.youtube.com/channel/UCtDd5tl977dQrDiNoLhQHkw)  
 - [小大夫漫画 -- 澎湃新闻](https://www.thepaper.cn/user_4336968)  
-- [roywalker 4K - Keep Walking, Greater China](https://www.youtube.com/channel/UC_sFy1Ibi0kCol60JMAT6pA)  
+- [第三份歷史決議全文公布 習近平說明提三重點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9631549-%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%85%a8%e6%96%87%e5%85%ac%e5%b8%83-%e7%bf%92%e8%bf%91%e5%b9%b3%e8%aa%aa%e6%98%8e%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e)  
+
 
 ## China Police Story
 
