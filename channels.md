@@ -346,6 +346,7 @@
 - [中國何時完全放開？鍾南山講出2大前題 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9616481-%e4%b8%ad%e5%9c%8b%e4%bd%95%e6%99%82%e5%ae%8c%e5%85%a8%e6%94%be%e9%96%8b%ef%bc%9f%e9%8d%be%e5%8d%97%e5%b1%b1%e8%ac%9b%e5%87%ba2%e5%a4%a7%e5%89%8d%e9%a1%8c)  
 - [我國新冠特效藥有了時間表 -- 大公文匯](https://www.tkww.hk/a/202111/15/AP6191d7b9e4b06eb4c40e326a.html)  
 - [大連疫情源頭找到了！已致60多名大學生確診 遼寧調動781人携設備支援 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9624506-%e5%a4%a7%e9%80%a3%e7%96%ab%e6%83%85%e6%ba%90%e9%a0%ad%e6%89%be%e5%88%b0%e4%ba%86%ef%bc%81%e5%b7%b2%e8%87%b460%e5%a4%9a%e5%90%8d%e5%a4%a7%e5%ad%b8%e7%94%9f%e7%a2%ba%e8%a8%ba-%e9%81%bc%e5%af%a7)  
+- [抗擊變種病毒，這次香港走在了前列！ -- 大公文匯](https://mp.weixin.qq.com/s/e2yfpEucce4skHA8ht2PyQ)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
