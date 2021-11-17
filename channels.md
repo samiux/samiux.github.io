@@ -351,6 +351,7 @@
 - [大連疫情源頭找到了！已致60多名大學生確診 遼寧調動781人携設備支援 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9624506-%e5%a4%a7%e9%80%a3%e7%96%ab%e6%83%85%e6%ba%90%e9%a0%ad%e6%89%be%e5%88%b0%e4%ba%86%ef%bc%81%e5%b7%b2%e8%87%b460%e5%a4%9a%e5%90%8d%e5%a4%a7%e5%ad%b8%e7%94%9f%e7%a2%ba%e8%a8%ba-%e9%81%bc%e5%af%a7)  
 - [抗擊變種病毒，這次香港走在了前列！ -- 大公文匯](https://mp.weixin.qq.com/s/e2yfpEucce4skHA8ht2PyQ)  
 - [新冠特效藥有了「時間表」！有望年底前獲批附條件上市 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9635204-%e6%96%b0%e5%86%a0%e7%89%b9%e6%95%88%e8%97%a5%e6%9c%89%e4%ba%86%e3%80%8c%e6%99%82%e9%96%93%e8%a1%a8%e3%80%8d%ef%bc%81%e6%9c%89%e6%9c%9b%e5%b9%b4%e5%ba%95%e5%89%8d%e7%8d%b2%e6%89%b9%e9%99%84%e6%a2%9d)  
+- [發疫苗財秒賺千美元　美3大藥廠未造福窮國 -- 大公文匯](https://www.tkww.hk/a/202111/17/AP619453c5e4b06eb4c40f0184.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
