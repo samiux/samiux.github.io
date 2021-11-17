@@ -88,5 +88,7 @@
 - [塞爾維亞前總統：中國正重新定義「現代化」 -- 深喉](https://www.bastillepost.com/hongkong/article/9635464-%e5%a1%9e%e7%88%be%e7%b6%ad%e4%ba%9e%e5%89%8d%e7%b8%bd%e7%b5%b1%ef%bc%9a%e4%b8%ad%e5%9c%8b%e6%ad%a3%e9%87%8d%e6%96%b0%e5%ae%9a%e7%be%a9%e3%80%8c%e7%8f%be%e4%bb%a3%e5%8c%96%e3%80%8d)  
 - [中共第三份歷史決議對「文革」和「六四」定性有何微妙變化？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9636778-%e4%b8%ad%e5%85%b1%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%b0%8d%e3%80%8c%e6%96%87%e9%9d%a9%e3%80%8d%e5%92%8c%e3%80%8c%e5%85%ad%e5%9b%9b%e3%80%8d%e5%ae%9a%e6%80%a7%e6%9c%89)  
 - [立法會選舉 - 網上候選人簡介會周五舉行　選管會介紹選舉安排 -- 大公文匯](https://www.tkww.hk/a/202111/17/AP6194b816e4b06eb4c40f2ff8.html)  
+- [光刻機或一下子難倒中國 -- 深藍](https://www.bastillepost.com/hongkong/article/9639575-%e5%8d%8a%e5%b0%8e%e9%ab%94%e6%8a%80%e8%a1%93%e8%a8%ad%e5%82%99%e4%b8%80%e4%b8%8b%e5%ad%90%e9%9b%a3%e5%80%92%e4%ba%86%e4%b8%ad%e5%9c%8b)  
+- [如何理解中美元首視頻會晤？專家權威解讀 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9637110-%e5%a6%82%e4%bd%95%e7%90%86%e8%a7%a3%e4%b8%ad%e7%be%8e%e5%85%83%e9%a6%96%e8%a6%96%e9%a0%bb%e6%9c%83%e6%99%a4%ef%bc%9f%e5%b0%88%e5%ae%b6%e6%ac%8a%e5%a8%81%e8%a7%a3%e8%ae%80)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
