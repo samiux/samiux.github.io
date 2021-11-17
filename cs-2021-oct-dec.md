@@ -85,5 +85,7 @@
 - [** 「我將無我，不負人民」 習主席：我能夠為14億中國人民服務，是重大挑戰和責任 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9630272-%e3%80%8c%e6%88%91%e5%b0%87%e7%84%a1%e6%88%91%ef%bc%8c%e4%b8%8d%e8%b2%a0%e4%ba%ba%e6%b0%91%e3%80%8d-%e7%bf%92%e4%b8%bb%e5%b8%ad%ef%bc%9a%e6%88%91%e8%83%bd%e5%a4%a0%e7%82%ba14%e5%84%84%e4%b8%ad)  
 - [** 外交部：中美元首視頻會晤主要內容可概括為「3421」 -- 大公文匯](https://www.tkww.hk/a/202111/16/AP61939707e4b06eb4c40ed132.html)  
 - [** 第三份歷史決議全文公布 習近平說明提三重點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9631549-%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%85%a8%e6%96%87%e5%85%ac%e5%b8%83-%e7%bf%92%e8%bf%91%e5%b9%b3%e8%aa%aa%e6%98%8e%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e)  
+- [塞爾維亞前總統：中國正重新定義「現代化」 -- 深喉](https://www.bastillepost.com/hongkong/article/9635464-%e5%a1%9e%e7%88%be%e7%b6%ad%e4%ba%9e%e5%89%8d%e7%b8%bd%e7%b5%b1%ef%bc%9a%e4%b8%ad%e5%9c%8b%e6%ad%a3%e9%87%8d%e6%96%b0%e5%ae%9a%e7%be%a9%e3%80%8c%e7%8f%be%e4%bb%a3%e5%8c%96%e3%80%8d)  
+- [中共第三份歷史決議對「文革」和「六四」定性有何微妙變化？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9636778-%e4%b8%ad%e5%85%b1%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%b0%8d%e3%80%8c%e6%96%87%e9%9d%a9%e3%80%8d%e5%92%8c%e3%80%8c%e5%85%ad%e5%9b%9b%e3%80%8d%e5%ae%9a%e6%80%a7%e6%9c%89)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
