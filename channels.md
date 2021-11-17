@@ -225,6 +225,8 @@
 - [中國憑技術登上「量子霸權」寶座 -- 深藍](https://www.bastillepost.com/hongkong/article/9505304-%e4%b8%ad%e5%9c%8b%e6%86%91%e6%8a%80%e8%a1%93%e7%99%bb%e4%b8%8a%e3%80%8c%e9%87%8f%e5%ad%90%e9%9c%b8%e6%ac%8a%e3%80%8d%e5%af%b6%e5%ba%a7)  
 - [我国首次实现从一氧化碳到蛋白质的合成并形成万吨级工业产能 -- 观察者](https://www.guancha.cn/industry-science/2021_10_31_613013.shtml)  
 - [中國新型動力「空天飛機」試飛成功 創下多個國際首次 美國的擔憂要成真？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/9541313-%e4%b8%ad%e5%9c%8b%e6%96%b0%e5%9e%8b%e5%8b%95%e5%8a%9b%e3%80%8c%e7%a9%ba%e5%a4%a9%e9%a3%9b%e6%a9%9f%e3%80%8d%e8%a9%a6%e9%a3%9b%e6%88%90%e5%8a%9f-%e5%89%b5%e4%b8%8b%e5%a4%9a%e5%80%8b%e5%9c%8b%e9%9a%9b)  
+- [華為推出首款搭配鴻蒙系統智能頭盔 支援藍牙通話、跌倒求救等功能 -- ezone](https://ezone.ulifestyle.com.hk/article/3109333/%E8%8F%AF%E7%82%BA%E6%8E%A8%E5%87%BA%E9%A6%96%E6%AC%BE%E6%90%AD%E9%85%8D%E9%B4%BB%E8%92%99%E7%B3%BB%E7%B5%B1%E6%99%BA%E8%83%BD%E9%A0%AD%E7%9B%94%20%20%20%E6%94%AF%E6%8F%B4%E8%97%8D%E7%89%99%E9%80%9A%E8%A9%B1%E3%80%81%E8%B7%8C%E5%80%92%E6%B1%82%E6%95%91%E7%AD%89%E5%8A%9F%E8%83%BD)  
+- [高通宣布將推出新 Arm 筆電處理器！挑戰 Apple M 系列晶片！ -- ezone](https://ezone.ulifestyle.com.hk/article/3109723/%E9%AB%98%E9%80%9A%E5%AE%A3%E5%B8%83%E5%B0%87%E6%8E%A8%E5%87%BA%E6%96%B0%20Arm%20%E7%AD%86%E9%9B%BB%E8%99%95%E7%90%86%E5%99%A8%EF%BC%81%E6%8C%91%E6%88%B0%20Apple%20M%20%E7%B3%BB%E5%88%97%E6%99%B6%E7%89%87%EF%BC%81)  
 
 ## Misc.
 
