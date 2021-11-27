@@ -128,7 +128,8 @@
 - [太行英雄](http://taihangsummit.com/)  
 - [有片有真相！外交部記者會播視頻揭穿美涉疆圖謀 -- 大公文匯](https://www.tkww.hk/a/202103/26/AP605db578e4b0661d557d4d42.html)  
 - [深圳在全國率先面向香港居民開展數字人民幣跨境支付測試 -- 大公文匯](https://www.tkww.hk/a/202103/31/AP60644f28e4b0661d557f61c7.html)  
-- [[Documentary] The War in the Shadows - Fighting Terrorism in Xinjiang -- CGTN](https://samiux.blogspot.com/2021/04/documentary-war-in-shadows-fighting.html)  
+- [[Documentary] The War in the Shadows - Fighting Terrorism in Xinjiang -- CGTN](https://samiux.blogspot.com/2021/04/documentary-war-in-shadows-fighting.html) - [利剑新刃](/pla_army_01.md)  
+ 
 - [中国最新报告指控美国对外战争致严重人权灾难[全文] -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60236025/%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E6%8A%A5%E5%91%8A%E6%8C%87%E6%8E%A7%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%A4%96%E6%88%98%E4%BA%89%E8%87%B4%E4%B8%A5%E9%87%8D%E4%BA%BA%E6%9D%83%E7%81%BE%E9%9A%BE%E5%85%A8%E6%96%87)  
 - [《戰爭黑洞——美國製造的人權災難》 -- CCTV](https://tv.cctv.com/live/cctv1/index.shtml?spm=C28340.P10QUzIsypHP.S28807.133&stime=1617969960&etime=1617973395&type=lbacks)  
 - [央視推出特別節目《戰爭黑洞——美國製造的人權災難》 -- 大公文匯](https://www.tkww.hk/a/202104/09/AP607059b1e4b0c6fb6f5d3c9d.html)  
