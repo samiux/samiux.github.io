@@ -56,6 +56,6 @@
 
 中國除了執政黨--中國共產黨外，還有八個民主黨派作為參政黨，分別是中國國民黨革命委員會、中國民主同盟、中國民主建國會、中國民主促進會、中國農工民主黨、中國致公黨、九三學社以及台灣民主自治同盟。這些民主黨派最主要是通過人民政治協商會議去參政議政，但係亦有可能通過加入政府去參加政治活動。中國政黨制度，可稱之為中國共產黨領導多黨合作制以及政治協商制度。  
 
-- 來源： [RTHK 香港電台 -- 憲法傳萬家](https://www.youtube.com/watch?v=l9LJpWXyBLE&list=PLuwJy35eAVaJlPB1-KZeJva7r8i_JDEoD)  
+- 來源： [RTHK 香港電台 -- 憲法傳萬家](https://www.youtube.com/playlist?list=PLuwJy35eAVaJlPB1-KZeJva7r8i_JDEoD)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
