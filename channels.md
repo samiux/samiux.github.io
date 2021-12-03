@@ -229,6 +229,7 @@
 - [高通宣布將推出新 Arm 筆電處理器！挑戰 Apple M 系列晶片！ -- ezone](https://ezone.ulifestyle.com.hk/article/3109723/%E9%AB%98%E9%80%9A%E5%AE%A3%E5%B8%83%E5%B0%87%E6%8E%A8%E5%87%BA%E6%96%B0%20Arm%20%E7%AD%86%E9%9B%BB%E8%99%95%E7%90%86%E5%99%A8%EF%BC%81%E6%8C%91%E6%88%B0%20Apple%20M%20%E7%B3%BB%E5%88%97%E6%99%B6%E7%89%87%EF%BC%81)  
 - [破國際壟斷！ 海歸領團隊研芯片關鍵材料　首條國產線今年投產 -- 大公文匯](https://www.tkww.hk/a/202111/23/AP619ccb1ce4b07ec0fc3a9193.html)  
 - [神威發威　打破谷歌「量子霸權」 -- 大公文匯](https://www.tkww.hk/a/202111/24/AP619d99eae4b07ec0fc3ac515.html)  
+- [量子计算云平台上线“祖冲之二号”同款量子计算指令集 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_15674644)  
 
 ## Misc.
 
