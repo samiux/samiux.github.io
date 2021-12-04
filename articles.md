@@ -20,6 +20,7 @@
 - [《物联网基础安全标准体系建设指南（2021版）》](https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202110/6615b008ceb14cb789e20ca9badab163.pdf)  
 - [中华人民共和国个人信息保护法](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)  
 - [憲法傳萬家](/constitution.md)  
+- [《中国的民主》白皮书 -- 中央人民政府驻香港特别行政区联络办公室](http://www.locpg.gov.cn/jsdt/2021-12/04/c_1211473574.htm)  
 
 ### Common Sense
 
