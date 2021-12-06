@@ -361,6 +361,7 @@
 - [新變種毒株恐成主流　全球防疫響警號 -- 大公文匯](https://www.tkww.hk/a/202111/27/AP61a18d2ce4b07ec0fc3c10af.html)  
 - [「B.1.1.529」出現逾30個突變　被喻最惡劣變種病毒 -- 大公文匯](https://www.tkww.hk/a/202111/27/AP61a17537e4b07ec0fc3c03d2.html)  
 - [科興：盡快展開Omicron變異體研究　有能力保障需求 -- 大公文匯](https://www.tkww.hk/a/202111/27/AP61a20c3de4b07ec0fc3c3a91.html)  
+- [研究：Omicron或含感冒病毒基因片段 -- 大公文匯](https://www.tkww.hk/a/202112/05/AP61accec7e4b07ec0fc3fd1dc.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
