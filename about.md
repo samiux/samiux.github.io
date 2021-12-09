@@ -17,7 +17,7 @@ Not only try harder but also try smarter!
 He has some active projects about CyberSecurity, they are :
 
 - [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
-- [Binary Exploitation](/ctf-pwn.md)  
+- [Linux Binary Exploitation](/ctf-pwn.md)  
 
 Some of his projects are now inactive, they are :
 
