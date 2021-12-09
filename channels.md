@@ -363,6 +363,7 @@
 - [科興：盡快展開Omicron變異體研究　有能力保障需求 -- 大公文匯](https://www.tkww.hk/a/202111/27/AP61a20c3de4b07ec0fc3c3a91.html)  
 - [研究：Omicron或含感冒病毒基因片段 -- 大公文匯](https://www.tkww.hk/a/202112/05/AP61accec7e4b07ec0fc3fd1dc.html)  
 - [中疾控：Omicron是Delta＋Beta　疫苗有用但减弱 -- 大公文匯](https://www.tkww.hk/a/202112/08/AP61b0bb2fe4b07ec0fc40effe.html)  
+- [Omicron疫情 - 輝瑞：新變種病毒減抗體 恐要提前打第四針 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9773764-omicron%e7%96%ab%e6%83%85%ef%bd%9c%e8%bc%9d%e7%91%9e%ef%bc%9a%e6%96%b0%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e6%b8%9b%e6%8a%97%e9%ab%94-%e6%81%90%e8%a6%81%e6%8f%90%e5%89%8d%e6%89%93%e7%ac%ac%e5%9b%9b?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
