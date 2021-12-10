@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# U.S. Democracy: A reality check
+# U.S. Democracy: A reality check  《起底「美式民主」》
 
 ## A reality check - The lighthouse of democracy dies down
 
