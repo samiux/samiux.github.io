@@ -33,7 +33,7 @@
 - [中國式民主制](/democracy.md)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
-- [U.S. Democracy: A reality check - CGTN](/us_democracy.md)  
+- [U.S. Democracy: A reality check 《起底「美式民主」》-- CGTN](/us_democracy.md)  
 
 ### Text  
 
