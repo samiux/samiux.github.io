@@ -15,5 +15,6 @@ Democracy should reflect the will of the people. But what happens when that will
 Democracy should reflect the will of the people. But what happens when that will is ignored? The U.S. describes itself as a democratic country. Yet, it has rampant gun violence and racial discrimination, widening social inequality, needless overseas wars, and the worst record of COVID-19 deaths globally. In an original two-part series, CGTN takes a hard look at how democracy is slowly eroding in the U.S. and how it may spread throughout the world if not stopped. Join us for "U.S. Democracy: A reality check," only on CGTN.  
 
 - Source : [CGTN](https://www.youtube.com/c/cgtn/videos)  
+- [CGTN大型專題片《起底「美式民主」》第一集：「民主燈塔」淪為笑料！ -- 大公文匯](https://www.tkww.hk/a/202112/10/AP61b2d05de4b07ec0fc4190e7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
