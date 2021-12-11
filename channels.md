@@ -230,6 +230,7 @@
 - [破國際壟斷！ 海歸領團隊研芯片關鍵材料　首條國產線今年投產 -- 大公文匯](https://www.tkww.hk/a/202111/23/AP619ccb1ce4b07ec0fc3a9193.html)  
 - [神威發威　打破谷歌「量子霸權」 -- 大公文匯](https://www.tkww.hk/a/202111/24/AP619d99eae4b07ec0fc3ac515.html)  
 - [量子计算云平台上线“祖冲之二号”同款量子计算指令集 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_15674644)  
+- [【終於來了】百度將發布首個元宇宙產品「希壤」 -- ezone](https://ezone.ulifestyle.com.hk/article/3128970/%E3%80%90%E7%B5%82%E6%96%BC%E4%BE%86%E4%BA%86%E3%80%91%E7%99%BE%E5%BA%A6%E5%B0%87%E7%99%BC%E5%B8%83%E9%A6%96%E5%80%8B%E5%85%83%E5%AE%87%E5%AE%99%E7%94%A2%E5%93%81%E3%80%8C%E5%B8%8C%E5%A3%A4%E3%80%8D)  
 
 ## Misc.
 
