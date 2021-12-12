@@ -68,6 +68,8 @@
 - [Exploit Development (PWN) Resources](/pwn-resources.md)
 - [给香港夺旗赛协会的一封公开信](/openletter2hkctf.md)  
 - [KB-VULN 系列推介](/kb-vuln.md)  
+- [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
+- [Nightmare - Pwn](https://guyinatuxedo.github.io/)  
 
 #### CyberSecurity Laws
 
