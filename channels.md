@@ -368,6 +368,7 @@
 - [（有片）鍾南山談如何應對新毒株Omicron -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b4a237e4b07ec0fc42178a.html)  
 - [鍾南山：全國已有11.5億人完成新冠疫苗全程接種 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b44605e4b07ec0fc41fef1.html)  
 - [科興：已成功分離Omicron毒株　研更換疫苗必要性 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b4b671e4b07ec0fc421d07.html)  
+- [科興完成Omicron基因測序　研新疫苗 -- 大公文匯](https://www.tkww.hk/a/202112/12/AP61b54487e4b07ec0fc423237.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
