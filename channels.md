@@ -369,6 +369,9 @@
 - [鍾南山：全國已有11.5億人完成新冠疫苗全程接種 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b44605e4b07ec0fc41fef1.html)  
 - [科興：已成功分離Omicron毒株　研更換疫苗必要性 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b4b671e4b07ec0fc421d07.html)  
 - [科興完成Omicron基因測序　研新疫苗 -- 大公文匯](https://www.tkww.hk/a/202112/12/AP61b54487e4b07ec0fc423237.html)  
+- [首個國產新冠特效藥對Omicron有效 -- 大公文匯](https://www.tkww.hk/a/202112/12/AP61b5edfbe4b07ec0fc426e4a.html)  
+- [《刺針》：接種第三針科興後 抗體水平大升3至5倍安全性好 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9795163-%e3%80%8a%e5%88%ba%e9%87%9d%e3%80%8b%ef%bc%9a%e6%8e%a5%e7%a8%ae%e7%ac%ac%e4%b8%89%e9%87%9d%e7%a7%91%e8%88%88%e5%be%8c-%e6%8a%97%e9%ab%94%e6%b0%b4%e5%b9%b3%e5%a4%a7%e5%8d%873%e8%87%b35%e5%80%8d)  
+- [世衛：Omicron不易引發重症 卻削弱疫苗效力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9793078-%e4%b8%96%e8%a1%9b%ef%bc%9aomicron%e4%b8%8d%e6%98%93%e5%bc%95%e7%99%bc%e9%87%8d%e7%97%87-%e5%8d%bb%e5%89%8a%e5%bc%b1%e7%96%ab%e8%8b%97%e6%95%88%e5%8a%9b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
