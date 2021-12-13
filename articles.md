@@ -34,7 +34,6 @@
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 - [U.S. Democracy: A reality check 《起底「美式民主」》-- CGTN](/us_democracy.md)  
-- [包庇叛亂分子煽動分裂 　「美式民主」成建霸權手段 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b3f3f4e4b07ec0fc41df32.html)  
 
 ### Text  
 
