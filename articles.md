@@ -31,6 +31,8 @@
 - [《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
 - [黃奇帆最新演講：未來15年中國的發展戰略的5大變化 -- 毛拍手](https://www.bastillepost.com/hongkong/article/9457043-%e9%bb%83%e5%a5%87%e5%b8%86%e6%9c%80%e6%96%b0%e6%bc%94%e8%ac%9b%ef%bc%9a%e6%9c%aa%e4%be%8615%e5%b9%b4%e4%b8%ad%e5%9c%8b%e7%9a%84%e7%99%bc%e5%b1%95%e6%88%b0%e7%95%a5%e7%9a%845%e5%a4%a7%e8%ae%8a)  
 - [中國式民主制](/democracy.md)  
+- [要讓孩子認識歷史 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9798111-%e8%a6%81%e8%ae%93%e5%ad%a9%e5%ad%90%e8%aa%8d%e8%ad%98%e6%ad%b7%e5%8f%b2)  
+- [盧永雄「巴士的點評」美學者：中美關係進入「討價還價」新階段。 香港南京屠殺歷史教育一片空白，日本倒過來把戰犯放入神社叫學生參拜！](https://www.bastillepost.com/hongkong/article/9798497-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e7%be%8e%e5%ad%b8%e8%80%85%ef%bc%9a%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82%e9%80%b2%e5%85%a5%e3%80%8c%e8%a8%8e?current_cat=222318)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 - [U.S. Democracy: A reality check 《起底「美式民主」》-- CGTN](/us_democracy.md)  
