@@ -93,5 +93,8 @@
 - [** 香港社會亦需了解中共「是什麼 要幹什麼」這個根本問題 -- 大公文匯](https://www.tkww.hk/a/202111/17/AP6194e805e4b06eb4c40f3fed.html)  
 - [** 反壟斷局第一刀　砍向天價原料藥 -- 大公文匯](https://www.tkww.hk/a/202111/20/AP61983903e4b0c9b9579fb9d4.html)  
 - [中美仲打乒乓波？睇下點 -- 深藍](https://www.bastillepost.com/hongkong/article/9682059-%e4%b8%ad%e7%be%8e%e4%bb%b2%e6%89%93%e4%b9%92%e4%b9%93%e6%b3%a2%ef%bc%9f%e7%9d%87%e4%b8%8b%e9%bb%9e)  
+- [雲南新鮮菜直通供港澳　高原紅酒拓灣區市場 -- 大公文匯](https://www.tkww.hk/a/202112/15/AP61b97478e4b07ec0fc437fc1.html)  
+- [將商湯科技列入黑名單後 外媒披露美財政部將再制裁大疆等8家中企 -- 深喉](https://www.bastillepost.com/hongkong/article/9810754-%e5%b0%87%e5%95%86%e6%b9%af%e7%a7%91%e6%8a%80%e5%88%97%e5%85%a5%e9%bb%91%e5%90%8d%e5%96%ae%e5%be%8c-%e5%a4%96%e5%aa%92%e6%8a%ab%e9%9c%b2%e7%be%8e%e8%b2%a1%e6%94%bf%e9%83%a8%e5%b0%87%e5%86%8d%e5%88%b6)  
+- [深圳人社推「5G視頻辦」　港人足不出戶可享幫辦服務 -- 大公文匯](https://www.tkww.hk/a/202112/15/AP61b9b610e4b07ec0fc439aae.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
