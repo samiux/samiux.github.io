@@ -375,6 +375,9 @@
 - [世衛：Omicron不易引發重症 卻削弱疫苗效力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9793078-%e4%b8%96%e8%a1%9b%ef%bc%9aomicron%e4%b8%8d%e6%98%93%e5%bc%95%e7%99%bc%e9%87%8d%e7%97%87-%e5%8d%bb%e5%89%8a%e5%bc%b1%e7%96%ab%e8%8b%97%e6%95%88%e5%8a%9b)  
 - [世衛警告不要低估：Omicron正以前所未有速度傳播 77個國家和地區已出現 -- 深喉](https://www.bastillepost.com/hongkong/article/9808538-%e4%b8%96%e8%a1%9b%e8%ad%a6%e5%91%8a%e4%b8%8d%e8%a6%81%e4%bd%8e%e4%bc%b0%ef%bc%9aomicron%e6%ad%a3%e4%bb%a5%e5%89%8d%e6%89%80%e6%9c%aa%e6%9c%89%e9%80%9f%e5%ba%a6%e5%82%b3%e6%92%ad-77%e5%80%8b%e5%9c%8b)  
 - [接種科興加強劑 94%血清樣本出現Omicron抗體 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9809584-%e6%8e%a5%e7%a8%ae%e7%a7%91%e8%88%88%e5%8a%a0%e5%bc%b7%e5%8a%91-94%e8%a1%80%e6%b8%85%e6%a8%a3%e6%9c%ac%e5%87%ba%e7%8f%beomicron%e6%8a%97%e9%ab%94)  
+- [科興：接種三劑克爾來福疫苗可有效提高對Omicron變異株的中和能力 -- 大公文匯](https://www.tkww.hk/a/202112/15/AP61b97fc2e4b07ec0fc4382e9.html)  
+- [輝瑞新冠口服藥預防重症死亡風險近90%　對Omicron維持有效 -- 大公文匯](https://www.tkww.hk/a/202112/15/AP61b935e1e4b07ec0fc4361f4.html)  
+- [港大發現Omicron較Delta複製快70倍更易感染支氣管 惟致病程度或較弱 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9810898-%e6%b8%af%e5%a4%a7%e7%99%bc%e7%8f%beomicron%e8%bc%83delta%e8%a4%87%e8%a3%bd%e5%bf%ab%e8%bf%9170%e5%80%8d-%e6%9b%b4%e6%98%93%e6%84%9f%e6%9f%93%e4%ba%ba%e9%a1%9e%e6%94%af%e6%b0%a3%e7%ae%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
