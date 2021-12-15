@@ -325,6 +325,9 @@ __Host Based__
 Internet --- Croissants (with application on it)
 ```
 
+#### When will the rules are updated?
+Between 0200 and 0600 hours every day, Croissants will do the housekeeping and updating.  The defending work of Croissants may be interrupted during this perid.  Outdated logs will be deleted at 0200 hours.  All blacklists will be updated at 0300 hours.  Croissants will be updated at 0400 hours (when necessary).  All rules will be updated at 0500 hours.  Ubuntu will be updated at 0600 hours (it will auto reboot when necessary).  
+
 ### 6.0 To-Do-List
 
 Nil
