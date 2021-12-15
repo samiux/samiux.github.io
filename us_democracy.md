@@ -19,6 +19,9 @@ Democracy should reflect the will of the people. But what happens when that will
 - [CGTN大型專題片《起底「美式民主」》第一集：「民主燈塔」淪為笑料！ -- 大公文匯](https://www.tkww.hk/a/202112/10/AP61b2d05de4b07ec0fc4190e7.html)  
 - [（有片）CGTN大型專題片《起底「美式民主」》第二集：民主面具下的戰爭機器 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b4549de4b07ec0fc42038f.html)  
 - [包庇叛亂分子煽動分裂 　「美式民主」成建霸權手段 -- 大公文匯](https://www.tkww.hk/a/202112/11/AP61b3f3f4e4b07ec0fc41df32.html)  
+- [慎海雄反問美國政客：佛洛伊德們享受到你們的「民主」了嗎？ -- 大公文匯](https://www.tkww.hk/a/202112/05/AP61ac3752e4b07ec0fc3fa08a.html)  
+- [外交部中英文发布《美国民主情况》报告：美国民主的异化及三重弊害 -- 观察者](https://www.guancha.cn/internation/2021_12_05_617312.shtml)  
+- [盧永雄「巴士的點評」-- 外交部報告發重炮，轟美國4宗罪，全面揭露美國導演顏色革命的災難](https://www.youtube.com/watch?v=XXt7r3NY7Vw&t=187s)  
 
 ## Bouns
 
