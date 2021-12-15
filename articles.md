@@ -21,9 +21,6 @@
 - [中华人民共和国个人信息保护法](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)  
 - [憲法傳萬家](/constitution.md)  
 - [《中国的民主》白皮书 -- 中央人民政府驻香港特别行政区联络办公室](http://www.locpg.gov.cn/jsdt/2021-12/04/c_1211473574.htm)  
-- [慎海雄反問美國政客：佛洛伊德們享受到你們的「民主」了嗎？ -- 大公文匯](https://www.tkww.hk/a/202112/05/AP61ac3752e4b07ec0fc3fa08a.html)  
-- [外交部中英文发布《美国民主情况》报告：美国民主的异化及三重弊害 -- 观察者](https://www.guancha.cn/internation/2021_12_05_617312.shtml)  
-- [盧永雄「巴士的點評」-- 外交部報告發重炮，轟美國4宗罪，全面揭露美國導演顏色革命的災難](https://www.youtube.com/watch?v=XXt7r3NY7Vw&t=187s)  
 
 ### Common Sense
 
