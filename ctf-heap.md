@@ -12,7 +12,7 @@ The following is the collection of articles and videos about Linux Heap Exploita
 - [Day16: [Pwn] Educational Heap Exploitation -- ddaa](https://ithelp.ithome.com.tw/articles/10223515)  
 - [Day17: [Pwn] Educational Heap Exploitation - part 2 -- ddaa](https://ithelp.ithome.com.tw/articles/10223900)  
 - [Heap Exploitation(笔记) -- nop](https://song-10.gitee.io/2020/03/11/pwn-2020-03-11-heap-exploitation/)  
-- [Arm Heap Exploitation -- Azeria](https://azeria-labs.com/writing-arm-assembly-part-1/)  
+- [ARM Heap Exploitation -- Azeria](https://azeria-labs.com/writing-arm-assembly-part-1/)  
 
 ## Slide / pdf
 - [Heap Exploitation -- ddaa](https://bamboofox.cs.nctu.edu.tw/uploads/material/attachment/13/heap_exploit.pdf)  
