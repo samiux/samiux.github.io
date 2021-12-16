@@ -70,6 +70,7 @@
 - [Nightmare - Pwn](https://guyinatuxedo.github.io/)  
 - [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
 - [Linux Heap Exploitation](/ctf-heap.md)  
+- [CTF 的三十道陰影 -- ddaa](https://ithelp.ithome.com.tw/users/20121059/ironman/2810)  
 
 #### CyberSecurity Laws
 
