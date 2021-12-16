@@ -68,6 +68,8 @@
 - [KB-VULN 系列推介](/kb-vuln.md)  
 - [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
 - [Nightmare - Pwn](https://guyinatuxedo.github.io/)  
+- [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
+- [Linux Heap Exploitation](/ctf-heap.md)  
 
 #### CyberSecurity Laws
 
