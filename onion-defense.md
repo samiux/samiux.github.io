@@ -76,7 +76,7 @@ Adult Filter - 185.228.168.10 和 185.228.168.11
 
 Security Filter - 185.228.168.9 和 185.228.169.9
 
-再者，任何网络装置，例如网络储存装置（Network Attached Storage, NAS）、摄影机等，如果要向互联网开放的话，应该通过自家的私人虚拟网络（Virtual Private Network, VPN）进行操作。
+再者，任何网络装置，例如「网络储存装置」（Network Attached Storage, NAS）、摄影机等，如果要向互联网开放的话，应该通过自家的「私人虚拟网络」（Virtual Private Network, VPN）进行操作。
 
 ### 第三层
 
