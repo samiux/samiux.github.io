@@ -380,6 +380,7 @@
 - [港大發現Omicron較Delta複製快70倍更易感染支氣管 惟致病程度或較弱 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9810898-%e6%b8%af%e5%a4%a7%e7%99%bc%e7%8f%beomicron%e8%bc%83delta%e8%a4%87%e8%a3%bd%e5%bf%ab%e8%bf%9170%e5%80%8d-%e6%9b%b4%e6%98%93%e6%84%9f%e6%9f%93%e4%ba%ba%e9%a1%9e%e6%94%af%e6%b0%a3%e7%ae%a1)  
 - [研究結果來了！第三針科興能有效中和Omicron -- 大公文匯](https://mp.weixin.qq.com/s/h_YmiL6TGW9nWWgPv7P5NA)  
 - [國產新冠藥抗Omicron　保護期一年 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfc546e4b07ec0fc45aecc.html)  
+- [全球四實驗機構交叉驗證　中國抗體藥對Omicron保持活性 -- 大公文匯](https://www.tkww.hk/a/202112/22/AP61c27a4ce4b07ec0fc46af32.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
