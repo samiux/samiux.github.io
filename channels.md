@@ -233,6 +233,7 @@
 - [量子计算云平台上线“祖冲之二号”同款量子计算指令集 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_15674644)  
 - [【終於來了】百度將發布首個元宇宙產品「希壤」 -- ezone](https://ezone.ulifestyle.com.hk/article/3128970/%E3%80%90%E7%B5%82%E6%96%BC%E4%BE%86%E4%BA%86%E3%80%91%E7%99%BE%E5%BA%A6%E5%B0%87%E7%99%BC%E5%B8%83%E9%A6%96%E5%80%8B%E5%85%83%E5%AE%87%E5%AE%99%E7%94%A2%E5%93%81%E3%80%8C%E5%B8%8C%E5%A3%A4%E3%80%8D)  
 - [贏得第十六屆「中國芯」優秀獎 　首款大陸 GPU「風華 1 號」性能透視 -- PCM](https://www.pcmarket.com.hk/lets-have-a-look-at-chinese-gpu-fenghua-1/)  
+- [中國首個百萬千瓦海上風電場投運 為大灣區供47億千瓦清潔能源 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9880407-%e5%85%a7%e5%9c%b0%e9%a6%96%e7%99%be%e8%90%ac%e5%8d%83%e7%93%a6%e6%b5%b7%e4%b8%8a%e9%a2%a8%e9%9b%bb%e5%a0%b4%e6%8a%95%e9%81%8b-2)  
 
 ## Misc.
 
