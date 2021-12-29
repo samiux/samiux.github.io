@@ -234,7 +234,7 @@
 - [【終於來了】百度將發布首個元宇宙產品「希壤」 -- ezone](https://ezone.ulifestyle.com.hk/article/3128970/%E3%80%90%E7%B5%82%E6%96%BC%E4%BE%86%E4%BA%86%E3%80%91%E7%99%BE%E5%BA%A6%E5%B0%87%E7%99%BC%E5%B8%83%E9%A6%96%E5%80%8B%E5%85%83%E5%AE%87%E5%AE%99%E7%94%A2%E5%93%81%E3%80%8C%E5%B8%8C%E5%A3%A4%E3%80%8D)  
 - [贏得第十六屆「中國芯」優秀獎 　首款大陸 GPU「風華 1 號」性能透視 -- PCM](https://www.pcmarket.com.hk/lets-have-a-look-at-chinese-gpu-fenghua-1/)  
 - [中國首個百萬千瓦海上風電場投運 為大灣區供47億千瓦清潔能源 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9880407-%e5%85%a7%e5%9c%b0%e9%a6%96%e7%99%be%e8%90%ac%e5%8d%83%e7%93%a6%e6%b5%b7%e4%b8%8a%e9%a2%a8%e9%9b%bb%e5%a0%b4%e6%8a%95%e9%81%8b-2)  
-- [追趕美國】「北京3號」衛星只用42秒   就拍下美國城市高清圖像 -- ezone](https://ezone.ulifestyle.com.hk/article/3142992/%E3%80%90%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E3%80%91%E3%80%8C%E5%8C%97%E4%BA%AC3%E8%99%9F%E3%80%8D%E8%A1%9B%E6%98%9F%E5%8F%AA%E7%94%A842%E7%A7%92%C2%A0%C2%A0%20%E5%B0%B1%E6%8B%8D%E4%B8%8B%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AB%98%E6%B8%85%E5%9C%96%E5%83%8F)  
+- [【追趕美國】「北京3號」衛星只用42秒   就拍下美國城市高清圖像 -- ezone](https://ezone.ulifestyle.com.hk/article/3142992/%E3%80%90%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E3%80%91%E3%80%8C%E5%8C%97%E4%BA%AC3%E8%99%9F%E3%80%8D%E8%A1%9B%E6%98%9F%E5%8F%AA%E7%94%A842%E7%A7%92%C2%A0%C2%A0%20%E5%B0%B1%E6%8B%8D%E4%B8%8B%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AB%98%E6%B8%85%E5%9C%96%E5%83%8F)  
 
 ## Misc.
 
