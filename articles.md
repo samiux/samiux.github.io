@@ -36,6 +36,8 @@
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 - [U.S. Democracy: A reality check 《起底「美式民主」》-- CGTN](/us_democracy.md)  
+- [Hong Kongers warn of 'social conflict' as new arrivals to UK struggle to find jobs, housing and school places -- sky news](https://news.sky.com/story/hong-kongers-warn-of-social-conflict-as-new-arrivals-to-uk-struggle-to-find-jobs-housing-and-school-places-12491700)  
+- [英媒披露移英港人流落街頭：我被英國政府出賣了，所有的希望都破滅了 -- Ariel](https://www.bastillepost.com/hongkong/article/9907602-%e8%8b%b1%e5%aa%92%e6%8a%ab%e9%9c%b2%e7%a7%bb%e8%8b%b1%e6%b8%af%e4%ba%ba%e6%b5%81%e8%90%bd%e8%a1%97%e9%a0%ad%ef%bc%9a%e6%88%91%e8%a2%ab%e8%8b%b1%e5%9c%8b%e6%94%bf%e5%ba%9c%e5%87%ba%e8%b3%a3%e4%ba%86)  
 
 ### Text  
 
