@@ -36,7 +36,7 @@ Security Filter - security-filter-dns.cleanbrowsing.org
 
 ### 第四层
 
-如果是使用「火狐」(Firefox) 版本的话，可以安装以下组件 (Add-on)：noscript，uBlock Origin 和 Ghostery。这三个组件能够阻挡一些网页中的不受欢迎或恶意的脚本，例如  JavaScript 或广告 。
+如果是使用「火狐」(Firefox) 版本的话，可以安装以下组件 (Add-on)：uBlock Origin 和 Ghostery。这两个组件能够阻挡一些网页中的不受欢迎或恶意的脚本，例如  JavaScript 或广告 。
 
 ### 第五层
 
