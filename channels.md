@@ -31,6 +31,11 @@
 - [小大夫漫画 -- 澎湃新闻](https://www.thepaper.cn/user_4336968)  
 - [第三份歷史決議全文公布 習近平說明提三重點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9631549-%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%85%a8%e6%96%87%e5%85%ac%e5%b8%83-%e7%bf%92%e8%bf%91%e5%b9%b3%e8%aa%aa%e6%98%8e%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e)  
 
+## Red Team vs Blue Team  (PLA)  
+
+- [火蓝刀锋（上）：直击解放军合成旅红蓝对抗全过程！多种战术全方位呈现！「国防故事」- 军迷天下](https://www.youtube.com/watch?v=w6G9XUaQBWo)  
+- [火蓝刀锋（下）：决战北疆战场！看解放军猛虎旅百里出征 兵临城下！「国防故事」- 军迷天下](https://www.youtube.com/watch?v=TD6f7j0zkY8)  
+
 ## China Police Story
 
 - [《大城无小事·城市真英雄2021》—— 速度上车！全程跟拍破案过程【东方卫视官方频道】](https://www.youtube.com/playlist?list=PL1OG5YATWAbBCSNt_1gt8otDfhg95lHvT)  
