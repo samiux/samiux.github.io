@@ -7,9 +7,11 @@
 - [《人民的选择》以全新视角看党史 用百年时间书写历史答卷 -- CCTV纪录](https://www.youtube.com/playlist?list=PLwXMmy5fUrVxwpfw9PktfpEtp9b4tr4yL)  
 - [【奋斗百年路】历经百年而风华正茂 饱经磨难而生生不息 -- CCTV纪录](https://www.youtube.com/playlist?list=PLwXMmy5fUrVyynxu8x7kvSz2fxethZCMT)  
 - [《長津湖》2021 The Battle at Lake Changjin（English subtitle）中国电影票房冠军 NO.1 超高清完整版 HD1080p 在线播放](https://www.youtube.com/watch?v=IjnFTx9OeQ4)  
+- [CCTV热播剧场](https://www.youtube.com/channel/UCK73Yh0cVnfyDf9Y63YeBPQ)  
 
 ## China
 
+- [CCTV热播剧场](https://www.youtube.com/channel/UCK73Yh0cVnfyDf9Y63YeBPQ)  
 - [解碼「ABCDE」：世界視角中的中國共產黨成功密碼 -- 文匯網](https://www.wenweipo.com/a/202106/29/AP60daefa7e4b08d3407c9d899.html)  
 - [广东音乐之声](https://www.qingting.fm/radios/1260/)  
 - [CCTV中国中央电视台](https://www.youtube.com/user/zhongguohaogequ)  
