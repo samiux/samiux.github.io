@@ -393,6 +393,7 @@
 - [研究結果來了！第三針科興能有效中和Omicron -- 大公文匯](https://mp.weixin.qq.com/s/h_YmiL6TGW9nWWgPv7P5NA)  
 - [國產新冠藥抗Omicron　保護期一年 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfc546e4b07ec0fc45aecc.html)  
 - [全球四實驗機構交叉驗證　中國抗體藥對Omicron保持活性 -- 大公文匯](https://www.tkww.hk/a/202112/22/AP61c27a4ce4b07ec0fc46af32.html)  
+- [科興疫苗內地5-11歲人群接種近1.2億劑 　安全性良好 -- 大公文匯](https://www.tkww.hk/a/202201/11/AP61dd8302e4b0ec690cd9f533.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
