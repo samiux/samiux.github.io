@@ -394,6 +394,7 @@
 - [國產新冠藥抗Omicron　保護期一年 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfc546e4b07ec0fc45aecc.html)  
 - [全球四實驗機構交叉驗證　中國抗體藥對Omicron保持活性 -- 大公文匯](https://www.tkww.hk/a/202112/22/AP61c27a4ce4b07ec0fc46af32.html)  
 - [科興疫苗內地5-11歲人群接種近1.2億劑 　安全性良好 -- 大公文匯](https://www.tkww.hk/a/202201/11/AP61dd8302e4b0ec690cd9f533.html)  
+- [科興：95％人打齊3針 有中和抗體對抗Omicron -- 巴士的報](https://www.bastillepost.com/hongkong/article/9992414-%e7%a7%91%e8%88%88%ef%bc%9a95%ef%bc%85%e4%ba%ba%e6%89%93%e9%bd%8a3%e9%87%9d-%e6%9c%89%e8%b6%b3%e5%a4%a0%e4%b8%ad%e5%92%8c%e6%8a%97%e9%ab%94%e5%b0%8d%e6%8a%97omicron)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
