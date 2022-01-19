@@ -396,6 +396,7 @@
 - [科興疫苗內地5-11歲人群接種近1.2億劑 　安全性良好 -- 大公文匯](https://www.tkww.hk/a/202201/11/AP61dd8302e4b0ec690cd9f533.html)  
 - [科興：95％人打齊3針 有中和抗體對抗Omicron -- 巴士的報](https://www.bastillepost.com/hongkong/article/9992414-%e7%a7%91%e8%88%88%ef%bc%9a95%ef%bc%85%e4%ba%ba%e6%89%93%e9%bd%8a3%e9%87%9d-%e6%9c%89%e8%b6%b3%e5%a4%a0%e4%b8%ad%e5%92%8c%e6%8a%97%e9%ab%94%e5%b0%8d%e6%8a%97omicron)  
 - [以色列研究︰第四針對Omicron效用有限 -- 大公文匯](https://www.tkww.hk/a/202201/18/AP61e60e1be4b0ec690cdce57c.html)  
+- [輝瑞：新冠口服藥Paxlovid對Omicron有效　降低住院及死亡風險 -- 大公文匯](https://www.tkww.hk/a/202201/19/AP61e79ed1e4b0ec690cdd7c79.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
