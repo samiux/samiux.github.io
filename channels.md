@@ -397,6 +397,11 @@
 - [科興：95％人打齊3針 有中和抗體對抗Omicron -- 巴士的報](https://www.bastillepost.com/hongkong/article/9992414-%e7%a7%91%e8%88%88%ef%bc%9a95%ef%bc%85%e4%ba%ba%e6%89%93%e9%bd%8a3%e9%87%9d-%e6%9c%89%e8%b6%b3%e5%a4%a0%e4%b8%ad%e5%92%8c%e6%8a%97%e9%ab%94%e5%b0%8d%e6%8a%97omicron)  
 - [以色列研究︰第四針對Omicron效用有限 -- 大公文匯](https://www.tkww.hk/a/202201/18/AP61e60e1be4b0ec690cdce57c.html)  
 - [輝瑞：新冠口服藥Paxlovid對Omicron有效　降低住院及死亡風險 -- 大公文匯](https://www.tkww.hk/a/202201/19/AP61e79ed1e4b0ec690cdd7c79.html)  
+- [未打針公務員2.16起禁上班　無醫生證明視作曠工 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e923fce4b0ec690cde0d15.html)  
+- [5至11歲兒童明起可打科興疫苗　下月中設兒童接種中心打復必泰 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e8e61ce4b0ec690cddf529.html)  
+- [科興：疫苗對3歲以上人士具良好安全性 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e8e6aee4b0ec690cddf56b.html)  
+- [巴基斯坦試驗證中藥對治療新冠有效 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e8f6abe4b0ec690cddfc87.html)  
+- [中國向世衞組織提交中醫藥治療新冠肺炎研究報告 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e90c07e4b0ec690cde0574.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
