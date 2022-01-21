@@ -403,6 +403,7 @@
 - [巴基斯坦試驗證中藥對治療新冠有效 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e8f6abe4b0ec690cddfc87.html)  
 - [中國向世衞組織提交中醫藥治療新冠肺炎研究報告 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e90c07e4b0ec690cde0574.html)  
 - [寵物店倉鼠驗出「D427G」突變　袁國勇：動物傳人可能性極大 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e980bbe4b0ec690cde364e.html)  
+- [英國發布Omicron個案20大症狀　四分之一患者出現「腦霧」 -- 大公文匯](https://www.tkww.hk/a/202201/21/AP61ea9126e4b0ec690cde954f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
