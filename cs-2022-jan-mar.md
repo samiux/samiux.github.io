@@ -9,5 +9,6 @@
 - [* 荷蘭不允許光刻機出口中國 內地製高階晶片恐遙遙無期 -- ezone](https://ezone.ulifestyle.com.hk/article/3160944/%E8%8D%B7%E8%98%AD%E4%B8%8D%E5%85%81%E8%A8%B1%E5%85%89%E5%88%BB%E6%A9%9F%E5%87%BA%E5%8F%A3%E4%B8%AD%E5%9C%8B%20%E5%85%A7%E5%9C%B0%E8%A3%BD%E9%AB%98%E9%9A%8E%E6%99%B6%E7%89%87%E6%81%90%E9%81%99%E9%81%99%E7%84%A1%E6%9C%9F)  
 - [FBI 警告勿亂掃 QR Code 恐會被黑客入侵手機 -- ezone](https://ezone.ulifestyle.com.hk/article/3160991/FBI%20%E8%AD%A6%E5%91%8A%E5%8B%BF%E4%BA%82%E6%8E%83%20QR%20Code%20%E6%81%90%E6%9C%83%E8%A2%AB%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%89%8B%E6%A9%9F)  
 - [* IDC 指中國晶片製程落後 3 至 4 代 需逾 10 年才有競爭力 -- ezone](https://ezone.ulifestyle.com.hk/article/3160909/IDC%20%E6%8C%87%E4%B8%AD%E5%9C%8B%E6%99%B6%E7%89%87%E8%A3%BD%E7%A8%8B%E8%90%BD%E5%BE%8C%203%20%E8%87%B3%204%20%E4%BB%A3%20%E9%9C%80%E9%80%BE%2010%20%E5%B9%B4%E6%89%8D%E6%9C%89%E7%AB%B6%E7%88%AD%E5%8A%9B)  
+- [滬攻關汽車半導體　破解「缺芯荒」 -- 大公文匯](https://www.tkww.hk/a/202201/24/AP61edf660e4b0ec690cdfdb9f.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
