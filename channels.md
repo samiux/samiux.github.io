@@ -244,6 +244,8 @@
 - [贏得第十六屆「中國芯」優秀獎 　首款大陸 GPU「風華 1 號」性能透視 -- PCM](https://www.pcmarket.com.hk/lets-have-a-look-at-chinese-gpu-fenghua-1/)  
 - [中國首個百萬千瓦海上風電場投運 為大灣區供47億千瓦清潔能源 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9880407-%e5%85%a7%e5%9c%b0%e9%a6%96%e7%99%be%e8%90%ac%e5%8d%83%e7%93%a6%e6%b5%b7%e4%b8%8a%e9%a2%a8%e9%9b%bb%e5%a0%b4%e6%8a%95%e9%81%8b-2)  
 - [【追趕美國】「北京3號」衛星只用42秒   就拍下美國城市高清圖像 -- ezone](https://ezone.ulifestyle.com.hk/article/3142992/%E3%80%90%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E3%80%91%E3%80%8C%E5%8C%97%E4%BA%AC3%E8%99%9F%E3%80%8D%E8%A1%9B%E6%98%9F%E5%8F%AA%E7%94%A842%E7%A7%92%C2%A0%C2%A0%20%E5%B0%B1%E6%8B%8D%E4%B8%8B%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AB%98%E6%B8%85%E5%9C%96%E5%83%8F)  
+- [中国芯片重大突破　首款电力专用芯片“伏羲”研发成功 -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60276468/%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%E9%A6%96%E6%AC%BE%E7%94%B5%E5%8A%9B%E4%B8%93%E7%94%A8%E8%8A%AF%E7%89%87%E4%BC%8F%E7%BE%B2%E7%A0%94%E5%8F%91%E6%88%90%E5%8A%9F)  
+- [破“卡脖子”难题 中国半导体装备再添重器 -- 多维新闻](https://www.dwnews.com/%E7%BB%8F%E6%B5%8E/60265517/%E7%A0%B4%E5%8D%A1%E8%84%96%E5%AD%90%E9%9A%BE%E9%A2%98%E4%B8%AD%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A3%85%E5%A4%87%E5%86%8D%E6%B7%BB%E9%87%8D%E5%99%A8)  
 
 ## Misc.
 
