@@ -405,6 +405,9 @@
 - [寵物店倉鼠驗出「D427G」突變　袁國勇：動物傳人可能性極大 -- 大公文匯](https://www.tkww.hk/a/202201/20/AP61e980bbe4b0ec690cde364e.html)  
 - [英國發布Omicron個案20大症狀　四分之一患者出現「腦霧」 -- 大公文匯](https://www.tkww.hk/a/202201/21/AP61ea9126e4b0ec690cde954f.html)  
 - [吳尊友：Omicron強在「通吃」　新冠不可能變流感 -- 大公文匯](https://www.tkww.hk/a/202201/22/AP61eb9158e4b0ec690cdee472.html)  
+- [以色列患者服輝瑞新冠口服藥 92%人3日內好轉 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10048074-%e4%bb%a5%e8%89%b2%e5%88%97%e6%82%a3%e8%80%85%e6%9c%8d%e8%bc%9d%e7%91%9e%e6%96%b0%e5%86%a0%e5%8f%a3%e6%9c%8d%e8%97%a5-92%e4%ba%ba3%e6%97%a5%e5%85%a7%e5%a5%bd%e8%bd%89)  
+- [圖解Omicron：潛伏期短病毒量低　但重症威脅仍存 -- 大公文匯](https://www.tkww.hk/a/202201/24/AP61ee1c5fe4b0ec690cdff277.html)  
+- [後患無窮 - Omicron不容忽視　新冠患者多後遺症 -- 大公文匯](https://www.tkww.hk/a/202201/25/AP61ef3829e4b0ec690ce0516e.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
