@@ -411,6 +411,7 @@
 - [圖解Omicron：潛伏期短病毒量低　但重症威脅仍存 -- 大公文匯](https://www.tkww.hk/a/202201/24/AP61ee1c5fe4b0ec690cdff277.html)  
 - [後患無窮 - Omicron不容忽視　新冠患者多後遺症 -- 大公文匯](https://www.tkww.hk/a/202201/25/AP61ef3829e4b0ec690ce0516e.html)  
 - [我国自主研发的口服新冠抗病毒药预计下半年进入临床 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_16443662)  
+- [港大研究指青少年接種兩劑復必泰 患心肌炎風險較僅打一針高6倍 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10053316-%e6%b8%af%e5%a4%a7%e7%a0%94%e7%a9%b6%e6%8c%87%e9%9d%92%e5%b0%91%e5%b9%b4%e6%8e%a5%e7%a8%ae%e5%85%a9%e5%8a%91%e5%be%a9%e5%bf%85%e6%b3%b0-%e6%82%a3%e5%bf%83%e8%82%8c%e7%82%8e%e9%a2%a8%e9%9a%aa%e8%bc%83)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
