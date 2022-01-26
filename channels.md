@@ -413,6 +413,7 @@
 - [我国自主研发的口服新冠抗病毒药预计下半年进入临床 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_16443662)  
 - [港大研究指青少年接種兩劑復必泰 患心肌炎風險較僅打一針高6倍 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10053316-%e6%b8%af%e5%a4%a7%e7%a0%94%e7%a9%b6%e6%8c%87%e9%9d%92%e5%b0%91%e5%b9%b4%e6%8e%a5%e7%a8%ae%e5%85%a9%e5%8a%91%e5%be%a9%e5%bf%85%e6%b3%b0-%e6%82%a3%e5%bf%83%e8%82%8c%e7%82%8e%e9%a2%a8%e9%9a%aa%e8%bc%83)  
 - [康復後嗅覺半年未恢復 日本染疫者聞咖哩味像廢水 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10053059-%e6%97%a5%e6%9c%ac%e6%9f%93%e7%96%ab%e8%80%85%e5%ba%b7%e5%be%a9%e5%be%8c%e5%97%85%e8%a6%ba%e5%8d%8a%e5%b9%b4%e6%9c%aa%e6%81%a2%e5%be%a9-%e8%81%9e%e5%92%96%e5%93%a9%e5%91%b3%e5%83%8f%e5%bb%a2%e6%b0%b4)  
+- [中大研究：新冠患者腸道細菌失衡 致記憶差脫髮等後遺症 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10057170-%e4%b8%ad%e5%a4%a7%e7%99%bc%e7%8f%be%e6%96%b0%e5%86%a0%e6%82%a3%e8%80%85%e8%85%b8%e9%81%93%e7%b4%b0%e8%8f%8c%e5%a4%b1%e8%a1%a1-%e8%87%b4%e7%8f%be%e8%a8%98%e6%86%b6%e5%b7%ae%e5%8f%8a%e8%84%ab%e9%ab%ae)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
