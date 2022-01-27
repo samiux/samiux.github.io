@@ -416,6 +416,7 @@
 - [康復後嗅覺半年未恢復 日本染疫者聞咖哩味像廢水 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10053059-%e6%97%a5%e6%9c%ac%e6%9f%93%e7%96%ab%e8%80%85%e5%ba%b7%e5%be%a9%e5%be%8c%e5%97%85%e8%a6%ba%e5%8d%8a%e5%b9%b4%e6%9c%aa%e6%81%a2%e5%be%a9-%e8%81%9e%e5%92%96%e5%93%a9%e5%91%b3%e5%83%8f%e5%bb%a2%e6%b0%b4)  
 - [中大研究：新冠患者腸道細菌失衡 致記憶差脫髮等後遺症 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10057170-%e4%b8%ad%e5%a4%a7%e7%99%bc%e7%8f%be%e6%96%b0%e5%86%a0%e6%82%a3%e8%80%85%e8%85%b8%e9%81%93%e7%b4%b0%e8%8f%8c%e5%a4%b1%e8%a1%a1-%e8%87%b4%e7%8f%be%e8%a8%98%e6%86%b6%e5%b7%ae%e5%8f%8a%e8%84%ab%e9%ab%ae)  
 - [女編劇不堪新冠後遺症折磨輕生 夫籲大眾關注「長新冠」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10064757-%e5%a5%b3%e7%b7%a8%e5%8a%87%e4%b8%8d%e5%a0%aa%e6%96%b0%e5%86%a0%e5%be%8c%e9%81%ba%e7%97%87%e6%8a%98%e7%a3%a8%e8%bc%95%e7%94%9f-%e5%a4%ab%e7%b1%b2%e5%90%84%e7%95%8c%e9%97%9c%e6%b3%a8%e3%80%8c%e9%95%b7?current_cat=6)  
+- [港大研究：打復必泰人士感染Omicron後症狀輕 -- 大公文匯](https://www.tkww.hk/a/202201/27/AP61f2aa93e4b0ec690ce1d784.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
