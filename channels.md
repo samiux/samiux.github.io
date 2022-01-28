@@ -106,7 +106,6 @@
 - [糧食也有戰爭？和你生活息息相關，你絕不能錯過的影片！ -- 沖出黎講](https://www.youtube.com/watch?v=sCvi5gsMYDI)  
 - [【中華‧了解多一點】突破封鎖的大國重器 － 北斗衛星導航系統 -- 周天慧](https://hkgpao.com/articles/1015111)  
 - [10位“空中猎人”巅峰之战！ 精英狙击手挑战空中狙击 争夺“狙击挑战王” 20200830 --《挑战不可能》第五季](https://www.youtube.com/watch?v=ZuayIXXgN8w)  
-- [纪录片《同心战“疫”》](https://samiux.blogspot.com/2020/09/blog-post.html)  
 - [纪录片《大数据时代》](https://samiux.blogspot.com/2020/09/blog-post_12.html)  
 - [纪录片《超级工程Ⅲ》](https://samiux.blogspot.com/2020/09/blog-post_5.html)  
 - [纪录片《北斗》-- 全景式介绍中国北斗卫星导航系统](https://samiux.blogspot.com/2020/10/blog-post_66.html)  
