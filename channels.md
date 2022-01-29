@@ -1,4 +1,3 @@
-- [女編劇不堪新冠後遺症折磨輕生 夫籲大眾關注「長新冠」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10064757-%e5%a5%b3%e7%b7%a8%e5%8a%87%e4%b8%8d%e5%a0%aa%e6%96%b0%e5%86%a0%e5%be%8c%e9%81%ba%e7%97%87%e6%8a%98%e7%a3%a8%e8%bc%95%e7%94%9f-%e5%a4%ab%e7%b1%b2%e5%90%84%e7%95%8c%e9%97%9c%e6%b3%a8%e3%80%8c%e9%95%b7?current_cat=6)  
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # 专题视听频道  
