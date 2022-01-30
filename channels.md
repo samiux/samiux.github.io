@@ -416,6 +416,7 @@
 - [女編劇不堪新冠後遺症折磨輕生 夫籲大眾關注「長新冠」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10064757-%e5%a5%b3%e7%b7%a8%e5%8a%87%e4%b8%8d%e5%a0%aa%e6%96%b0%e5%86%a0%e5%be%8c%e9%81%ba%e7%97%87%e6%8a%98%e7%a3%a8%e8%bc%95%e7%94%9f-%e5%a4%ab%e7%b1%b2%e5%90%84%e7%95%8c%e9%97%9c%e6%b3%a8%e3%80%8c%e9%95%b7?current_cat=6)  
 - [港大研究：打復必泰人士感染Omicron後症狀輕 -- 大公文匯](https://www.tkww.hk/a/202201/27/AP61f2aa93e4b0ec690ce1d784.html)  
 - [《自然》雜誌：接種三劑科興疫苗有望降低奧密克戎感染所致重症風險 -- 大公文匯](https://www.tkww.hk/a/202201/29/AP61f50f68e4b0ec690ce2cd76.html)  
+- [灭活疫苗对奥密克戎效果如何？通用疫苗有何策略？中国团队《自然》发文 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_16515592)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
