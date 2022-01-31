@@ -417,6 +417,7 @@
 - [港大研究：打復必泰人士感染Omicron後症狀輕 -- 大公文匯](https://www.tkww.hk/a/202201/27/AP61f2aa93e4b0ec690ce1d784.html)  
 - [《自然》雜誌：接種三劑科興疫苗有望降低奧密克戎感染所致重症風險 -- 大公文匯](https://www.tkww.hk/a/202201/29/AP61f50f68e4b0ec690ce2cd76.html)  
 - [灭活疫苗对奥密克戎效果如何？通用疫苗有何策略？中国团队《自然》发文 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_16515592)  
+- [Omicron亞變種「BA.2」蔓延逾50地 全球逾1.8萬個案 -- 大公文匯](https://www.tkww.hk/a/202201/30/AP61f5d6a1e4b0ec690ce2fefd.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
