@@ -418,6 +418,7 @@
 - [《自然》雜誌：接種三劑科興疫苗有望降低奧密克戎感染所致重症風險 -- 大公文匯](https://www.tkww.hk/a/202201/29/AP61f50f68e4b0ec690ce2cd76.html)  
 - [灭活疫苗对奥密克戎效果如何？通用疫苗有何策略？中国团队《自然》发文 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_16515592)  
 - [Omicron亞變種「BA.2」蔓延逾50地 全球逾1.8萬個案 -- 大公文匯](https://www.tkww.hk/a/202201/30/AP61f5d6a1e4b0ec690ce2fefd.html)  
+- [內地研究：Omicron或由老鼠傳人 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10088560-omicron%e7%96%ab%e6%83%85%ef%bd%9c%e5%85%a7%e5%9c%b0%e7%a0%94%e7%a9%b6%e6%8c%87omicron%e6%88%96%e7%94%b1%e8%80%81%e9%bc%a0%e5%82%b3%e4%ba%ba)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
