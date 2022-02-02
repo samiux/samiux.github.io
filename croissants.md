@@ -378,4 +378,8 @@ sudo update-grub
 sudo reboot
 ```
 
+### 9.0 Known Issues
+
+- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) not loading properly for unknown reason.
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
