@@ -6,7 +6,7 @@ Cyber Security and Technology Crime Bureau (CSTCB) of Hong Kong Police Force set
  
 However, the weakness of the search engine is that the database of the suspicious websites and email addresses are provided by public or by the sponsors.  Some malicious websites or malicious files cannot be detected or included.
  
-Another well known website - [___Virustotal___](https://www.virustotal.com) that can search suspicious [links (websites)](https://www.virustotal.com/gui/home/url) and [files](https://www.virustotal.com/gui/home/upload) against over 20 anti-virus programs in the market at one stop in order to identify the status of the websites and files.
+Another well known website - [___Virustotal___](https://www.virustotal.com) that can search suspicious [links (websites)](https://www.virustotal.com/gui/home/url) and [files](https://www.virustotal.com/gui/home/upload) against over 90 anti-virus programs in the market at one stop in order to identify the status of the websites and files.
  
 Virustotal will share all the positive results with all the public secure/encrypted DNSes and anti-virus programs in the market.  It is recommended to use this site often in order to improve the detection rate of the secure/encrypted DNSes and anti-virus programs.
  
