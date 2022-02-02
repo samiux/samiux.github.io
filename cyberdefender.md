@@ -4,7 +4,7 @@
  
 Cyber Security and Technology Crime Bureau (CSTCB) of Hong Kong Police Force set up a website mainly for aganist cyber crimes - [___Cyber Defender (守网者)___](https://cyberdefender.hk/) which has a search engine (at the top of the main page on the site) for searching suspicious websites and suspicious email addresses.  Meanwhile, there are a lot of videos and articles about the information of cyber crimes in Hong Kong.  
  
-However, the weakless of the search engine is that the database of the suspicious websites and email addresses are provided by public or by the sponsors.  Some malicious websites or malicious files cannot be detected or included.
+However, the weakness of the search engine is that the database of the suspicious websites and email addresses are provided by public or by the sponsors.  Some malicious websites or malicious files cannot be detected or included.
  
 Another well known website - [___Virustotal___](https://www.virustotal.com) that can search suspicious [links (websites)](https://www.virustotal.com/gui/home/url) and [files](https://www.virustotal.com/gui/home/upload) against over 20 anti-virus programs in the market at one stop in order to identify the status of the websites and files.
  
