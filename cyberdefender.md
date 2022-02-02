@@ -10,7 +10,7 @@ Another well known website - [___Virustotal___](https://www.virustotal.com) that
  
 Virustotal will share all the positive results with all the public secure/encrypted DNSes and anti-virus programs in the market.  It is recommended to use this site often in order to improve the detection rate of the secure/encrypted DNSes and anti-virus programs.
  
-Happy surfing!  Malware fee anywhere!
+Happy surfing!  Malware free anywhere!
 
 Samiux  
 OSCE  OSCP  OSWP  
