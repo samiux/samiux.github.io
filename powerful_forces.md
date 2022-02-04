@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# 《强军》 全第八集
+# 《强军》 全八集
 
 ## 《强军》第一集  逐梦
 
