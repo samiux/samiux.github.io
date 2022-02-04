@@ -35,6 +35,7 @@
 - [火蓝刀锋（上）：直击解放军合成旅红蓝对抗全过程！多种战术全方位呈现！「国防故事」- 军迷天下](https://www.youtube.com/watch?v=w6G9XUaQBWo)  
 - [火蓝刀锋（下）：决战北疆战场！看解放军猛虎旅百里出征 兵临城下！「国防故事」- 军迷天下](https://www.youtube.com/watch?v=TD6f7j0zkY8)  
 - [《国防故事》新型陆军向前进 (全六集)](/modern_pla.md)  
+- [《强军》 全第八集](/powerful_forces.md)  
 
 ## China Police Story
 
