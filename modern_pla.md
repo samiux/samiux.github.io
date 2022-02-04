@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # 《国防故事》新型陆军向前进 (全六集)
 
 ## 《国防故事》新型陆军向前进 第一集 强军之基
