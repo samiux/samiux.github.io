@@ -33,7 +33,6 @@
 ## 《强军》第八集  伟力
 
 [![](https://img.youtube.com/vi/FNR_kcT_H18/0.jpg)](https://youtu.be/FNR_kcT_H18 "《强军》第八集  伟力")  
-https://www.youtube.com/watch?v=FNR_kcT_H18
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
