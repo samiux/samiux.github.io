@@ -113,6 +113,7 @@
 - [Seattle Sounds](/lab-seattle.md)
 - [PMKID Attack on Wifi5 Access Point](/pmkid.md)
 - [Create Windows 10 2004 Installation USB in Ubuntu 20.04 LTS](/win10_usb.md)
+- [Python Simplified -- Mariya](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)  
 
 ### CTFs
 
