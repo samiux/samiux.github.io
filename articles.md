@@ -56,6 +56,7 @@
 #### Defense
 
 - [洋葱式防御 - 网络空间安全篇](/onion-defense.md)
+- [洋葱式防御 - 网络空间安全篇 (更新）](/onion-defense_2.md)  
 - [零死角无线网络](/mesh.md)  
 - [小心被钓鱼](/phishing.md)  
 - [智能手机资安](/smartphone.md)
