@@ -88,8 +88,14 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 不要把世界让给你讨厌的人！-- 华为 
 ```
- ```
+```
 成功者不是从来不犯错的人，而是犯错多也改得快的人。
+```
+```
+财务自由就是拥有持续性的收入，而且是等于或大过你的支出。
+```
+```
+成功是为了将我自己所拥有的时间、财物、技术及知识等分享给别人而努力的过程。 -- 彼得 ‧ 杜拉克 (Peter Drucker)
 ```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
