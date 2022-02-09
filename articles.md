@@ -132,7 +132,7 @@
 ### Misc.
 
 - [Create Windows 10 2004 Installation USB in Ubuntu 20.04 LTS](/win10_usb.md)  
-- [Create Windows 10 21H2 UEFI USB on Ubuntu 20 04 LTS](https://www.youtube.com/watch?v=Cq8XTTJW3fo)  
+- [Create Windows 10 21H2 UEFI USB on Ubuntu 20.04 LTS](https://www.youtube.com/watch?v=Cq8XTTJW3fo)  
 
 ## Extra
 
