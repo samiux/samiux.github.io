@@ -1,14 +1,14 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# **Articles**
+# Articles
 
-### ebooks
+## ebooks
 
 - [武裝自己 (資安編)](/armour_yourself.md)
 - [知彼知己 (資安編)](/know_your_enemies.md)
 - [軍事演習 (資安編)](/military_exercises.md)
 
-### Laws
+## Laws
 
 - [憲法及《基本法》全文](/basic_law.md)  
 - [电子版香港法例](https://www.elegislation.gov.hk/)  
@@ -25,7 +25,7 @@
 - [【白皮書】「一國兩制」下香港的民主發展（全文）](https://www.tkww.hk/a/202112/20/AP61bfec65e4b07ec0fc45daa1.html)  
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
 
-### Common Sense
+## Common Sense
 
 - [《觉醒年代》- 理想飞扬的热血青年 激情燃烧的澎湃岁月【全43集】](https://www.youtube.com/playlist?list=PLa213RC5YYIwYGZg9_ffwmsQO_UiEhjxL)  
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
@@ -34,17 +34,17 @@
 - [中國式民主制](/democracy.md)  
 - [要讓孩子認識歷史 -- 盧永雄](https://www.bastillepost.com/hongkong/article/9798111-%e8%a6%81%e8%ae%93%e5%ad%a9%e5%ad%90%e8%aa%8d%e8%ad%98%e6%ad%b7%e5%8f%b2)  
 - [盧永雄「巴士的點評」美學者：中美關係進入「討價還價」新階段。 香港南京屠殺歷史教育一片空白，日本倒過來把戰犯放入神社叫學生參拜！](https://www.bastillepost.com/hongkong/article/9798497-%e7%9b%a7%e6%b0%b8%e9%9b%84%e3%80%8c%e5%b7%b4%e5%a3%ab%e7%9a%84%e9%bb%9e%e8%a9%95%e3%80%8d%e7%be%8e%e5%ad%b8%e8%80%85%ef%bc%9a%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82%e9%80%b2%e5%85%a5%e3%80%8c%e8%a8%8e?current_cat=222318)  
-- [专题视听频道](/channels.md)  
-- [一般常識文章結集](/common-sense.md)  
 - [U.S. Democracy: A reality check 《起底「美式民主」》-- CGTN](/us_democracy.md)  
 - [Hong Kongers warn of 'social conflict' as new arrivals to UK struggle to find jobs, housing and school places -- sky news](https://news.sky.com/story/hong-kongers-warn-of-social-conflict-as-new-arrivals-to-uk-struggle-to-find-jobs-housing-and-school-places-12491700)  
 - [英媒披露移英港人流落街頭：我被英國政府出賣了，所有的希望都破滅了 -- Ariel](https://www.bastillepost.com/hongkong/article/9907602-%e8%8b%b1%e5%aa%92%e6%8a%ab%e9%9c%b2%e7%a7%bb%e8%8b%b1%e6%b8%af%e4%ba%ba%e6%b5%81%e8%90%bd%e8%a1%97%e9%a0%ad%ef%bc%9a%e6%88%91%e8%a2%ab%e8%8b%b1%e5%9c%8b%e6%94%bf%e5%ba%9c%e5%87%ba%e8%b3%a3%e4%ba%86)  
 - [「知道你們過得不好，我們也就放心了」  -- 大公文匯](https://mp.weixin.qq.com/s/qLlEDyyXLqZaY1-G73mi3w)  
 - [China Experts!?](/china_experts.md)  
+- [专题视听频道](/channels.md)  
+- [一般常識文章結集](/common-sense.md)  
 
-### Text  
+## Text  
 
-#### Red Team
+### Red Team
 
 - [红队实战攻防技术（一） -- 风起](https://www.anquanke.com/post/id/249994)  
 - [红队实战攻防技术（二） -- 风起](https://www.anquanke.com/post/id/254652)  
@@ -53,7 +53,7 @@
 - [新型网络犯罪攻防技术研究 -- 风起](https://www.anquanke.com/post/id/256016)  
 - [风起](https://www.anquanke.com/member.html?memberId=148652)  
 
-#### Defense
+### Defense
 
 - [洋葱式防御 - 网络空间安全篇](/onion-defense.md)
 - [洋葱式防御 - 网络空间安全篇 (更新）](/onion-defense_2.md)  
@@ -63,12 +63,12 @@
 - [网络空间安全及罪案消息 - 信用卡与电子支付](/e-pay.md)  
 - [Yet Another Cyber Defender](/cyberdefender.md)  
 
-#### Hacker
+### Hacker
 
 - [如何成為黑客 (入門篇)](/become-hacker.md)
 - [如何成為黑客 (進階篇)](/become-hacker_1.md)
 
-#### CTF
+### CTF
 
 - [夺旗赛 (CTF) 入门](/ctf_noob.md)
 - [夺旗赛 (CTF) 入门 (二)](/ctf_noob_2.md)
@@ -83,7 +83,7 @@
 - [Linux Heap Exploitation](/ctf-heap.md)  
 - [CTF 的三十道陰影 -- ddaa](https://ithelp.ithome.com.tw/users/20121059/ironman/2810)  
 
-#### CyberSecurity Laws
+### CyberSecurity Laws
 
 - [深入解读《中华人民共和国网络安全法》](http://gdee.gd.gov.cn/wlaq/content/post_2717276.html)
 - [中華人民共和國網絡安全法精選](/cyber-law-china.md)
@@ -95,7 +95,7 @@
 - [切勿以身试法 (加密通讯软件篇)](/encrochat.md)
 - [切勿以身试法 (掩耳盗铃篇)](/stealring.md)  
 
-#### Misc.
+### Misc.
 
 - [《手帶 app 有幾安全？》一文之閱後感](/is_xss_1.md)
 - [「好心做壞事」？](/good_thing.md)
@@ -108,16 +108,13 @@
 - [脸书泄露事件的非专业分析](/facebook_leak_1.md)
 - [智障的香港式防疫措施](covid19_govhk.md)
 
-### Tutorials
+## Tutorials
+
+### Pentesting
 
 - [Basic Buffer Overflow Exploit Made Easy](/bof_make_easy.md)
 - [Seattle Sounds](/lab-seattle.md)
 - [PMKID Attack on Wifi5 Access Point](/pmkid.md)
-- [Create Windows 10 2004 Installation USB in Ubuntu 20.04 LTS](/win10_usb.md)
-
-#### Programming
-
-- [Python Simplified -- Mariya](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)  
 
 ### CTFs
 
@@ -128,7 +125,15 @@
 - [It's October : 1](/october1.md)
 - [Broken-2020 : 1](/broken-2020-1.md)
 
-### Extra
+### Programming
+
+- [Python Simplified -- Mariya](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)  
+
+### Misc.
+
+- [Create Windows 10 2004 Installation USB in Ubuntu 20.04 LTS](/win10_usb.md)  
+
+## Extra
 
 - [华为天际通 -- 华为官网](https://consumer.huawei.com/cn/mobileservices/skytone/)  
 - [华为天际通](http://skytone.vmall.com/index.html)  
