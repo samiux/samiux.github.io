@@ -380,7 +380,7 @@ sudo reboot
 
 ### 9.0 Known Issues
 
-- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) is not loading properly for unknown reason, may be the website is misconfigured.
-- [Nu1L Team](https://www.nu1l.com/#/) is not loading  properly for unknown reason, may be the website is misconfigured.  
+- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) is not loading properly for unknown reason on Ryzen 7-4800U with Firefox 97.0, may be the website is misconfigured.
+- [Nu1L Team](https://www.nu1l.com/#/) is not loading  properly for unknown reason on Ryzen 7-4800U with Firefox 97.0, may be the website is misconfigured.  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
