@@ -25,4 +25,8 @@ sha256      : 09d4dc50d7b31bca5fbbd60efebe4ce2ce698c46753a7f643337a303c58db541 -
 
 [![](https://img.youtube.com/vi/-5vo5mT2bng/0.jpg)](https://www.youtube.com/watch?v=-5vo5mT2bng "babypwn solution")  
 
+## Reliable Exploit :
+
+[![](https://img.youtube.com/vi/cGkvGf3YONQ/0.jpg)](https://www.youtube.com/watch?v=cGkvGf3YONQ "Reliable Exploit")  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
