@@ -2,7 +2,7 @@
 
 # Exploit Development (PWN) Resources
 
-You may have a lot of fun in exploit development for Executable and Linkable Format (ELF) binary in Linux.  There are several protection features for ELF binary, they are Relocation Read-Only (RELRO), Canary, No-eXecute (NX) and Position-Independent Executable (PIE).  They are hardening features for the ELF binary in order to prevent it from being exploited.  Once the ELF exploited, the attacker can port a shell that can access the system freely.  However, those features can be bypassed in certain situations.
+You may have a lot of fun in exploit development for Executable and Linkable Format (ELF) binary in Linux.  There are several protection features for ELF binary, they are Relocation Read-Only (RELRO), Canary, No-eXecute (NX) and Position-Independent Executable (PIE).  They are hardening features for the ELF binary in order to prevent it from being exploited.  Once the ELF exploited, the attacker can port a shell that can access the system freely.  However, those features can be bypassed under certain situations.
 
 You should have knownledge in C, (or C++), Python and assemble programming languages for doing exploit development.  Meanwhile, you should also have knownledge in some tools, such as GNU Debugger (GDB), pwndbg, Ghidra, Radare2 and PwnTools.
 
