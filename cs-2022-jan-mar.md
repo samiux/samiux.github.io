@@ -22,5 +22,6 @@
 - [點睇新經濟·NFT- 是趨勢還是泡沫？一文讀懂加密貨幣投資新貴NFT -- 點新聞](https://www.dotdotnews.com/a/202202/09/AP620396d8e4b030de0829fb2c.html)  
 - [** 就怕打不起來？美國人在煽動俄烏風波中急火攻心 -- 大公文匯](https://www.tkww.hk/a/202202/14/AP620a6d5fe4b0b6f46a7a3013.html)  
 - [外交部：美國任意處置阿富汗人民資產無異於強盜行徑 -- 大公文匯](https://www.tkww.hk/a/202202/15/AP620b6a3be4b0b5c7e1e10380.html)  
+- [** 美国运动员批抹黑北京冬奥的报道作假，美媒集体噤声 -- 观察者网](https://www.guancha.cn/internation/2022_02_15_626360.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
