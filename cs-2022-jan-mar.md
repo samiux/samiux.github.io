@@ -24,5 +24,6 @@
 - [外交部：美國任意處置阿富汗人民資產無異於強盜行徑 -- 大公文匯](https://www.tkww.hk/a/202202/15/AP620b6a3be4b0b5c7e1e10380.html)  
 - [** 美国运动员批抹黑北京冬奥的报道作假，美媒集体噤声 -- 观察者网](https://www.guancha.cn/internation/2022_02_15_626360.shtml)  
 - [* 美航母指揮官總結印太之行：「一靠近南海，中國軍艦就來了」 -- 深喉](https://www.bastillepost.com/hongkong/article/10181930-%e7%be%8e%e8%88%aa%e6%af%8d%e6%8c%87%e6%8f%ae%e5%ae%98%e7%b8%bd%e7%b5%90%e5%8d%b0%e5%a4%aa%e4%b9%8b%e8%a1%8c%ef%bc%9a%e3%80%8c%e4%b8%80%e9%9d%a0%e8%bf%91%e5%8d%97%e6%b5%b7%ef%bc%8c%e4%b8%ad%e5%9c%8b)  
+- [* 記者體驗——港幣換數字人民幣　消費無需內地開戶 -- 大公文匯](https://www.tkww.hk/a/202202/18/AP620eed1de4b0b5c7e1e39b29.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
