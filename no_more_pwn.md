@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # 夺旗赛中的 PWN 会消失吗？！
 
 在未讨论这个问题之前，我想先谈谈无綫网络 (Wifi) 这问题。
@@ -18,3 +20,4 @@ Samiux
 OSCE  OSCP  OSWP   
 二零二二年二月十九日，中国香港   
 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
