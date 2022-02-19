@@ -431,6 +431,8 @@
 - [向私院捐3000萬 助接收公院非染疫病人 李嘉誠基金會：與港人同心前行抗疫 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10196222-%e7%96%ab%e6%83%85%e6%b6%88%e6%81%af%ef%bd%9c%e6%9d%8e%e5%98%89%e8%aa%a0%e5%9f%ba%e9%87%91%e6%9c%83%e5%90%91%e7%a7%81%e9%99%a2%e6%8d%903000%e8%90%ac-%e5%8a%a9%e6%8e%a5%e6%94%b6%e5%85%ac%e9%99%a2)  
 - [中國紅十字會捐1000萬元援港抗疫 -- 大公文匯](https://www.tkww.hk/a/202202/19/AP6210c200e4b0b5c7e1e519b2.html)  
 - [馬會增撥1億港元支援抗疫 陳南祿：同心協力面對難關 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10196769-%e7%96%ab%e6%83%85%e6%b6%88%e6%81%af%ef%bd%9c%e9%a6%ac%e6%9c%83%e5%a2%9e%e6%92%a51%e5%84%84%e6%b8%af%e5%85%83%e6%94%af%e6%8f%b4%e5%bc%b1%e5%8b%a2%e7%a4%be%e7%be%a4-%e4%b8%8b%e5%91%a8%e4%b8%80%e8%b5%b7)  
+- [英專家：「與病毒共存」無科學依據 -- 大公文匯](https://www.tkww.hk/a/202202/19/AP62103c81e4b0b5c7e1e4972c.html)  
+- [Omicron亞變種「BA.2」 更易致重症　須三針抵禦 -- 大公文匯](https://www.tkww.hk/a/202202/19/AP62104187e4b0b5c7e1e49c81.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
