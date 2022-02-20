@@ -435,6 +435,7 @@
 - [Omicron亞變種「BA.2」 更易致重症　須三針抵禦 -- 大公文匯](https://www.tkww.hk/a/202202/19/AP62104187e4b0b5c7e1e49c81.html)  
 - [內地加強免疫接種　第三針可混打 -- 大公文匯](https://www.tkww.hk/a/202202/20/AP62118b8fe4b0b5c7e1e57d06.html)  
 - [內地加速研發　Omicron疫苗將臨床 -- 大公文匯](https://www.tkww.hk/a/202202/20/AP62118c1de4b0b5c7e1e57dbb.html)  
-
+- [同心抗疫 - 科興捐1000萬物資援港抗疫 -- 大公文匯](https://www.tkww.hk/a/202202/20/AP6211d157e4b0b5c7e1e5b8dd.html)  
+- [古天樂捐3000套快速測試套裝 助社福機構解燃眉之急 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10200338-%e5%8f%a4%e5%a4%a9%e6%a8%82%e6%8d%903000%e5%a5%97%e5%bf%ab%e9%80%9f%e6%b8%ac%e8%a9%a6%e5%a5%97%e8%a3%9d-%e5%8a%a9%e7%a4%be%e7%a6%8f%e6%a9%9f%e6%a7%8b%e8%a7%a3%e6%b1%ba%e7%87%83%e7%9c%89%e4%b9%8b?current_cat=4)  
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
