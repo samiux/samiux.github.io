@@ -433,6 +433,8 @@
 - [馬會增撥1億港元支援抗疫 陳南祿：同心協力面對難關 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10196769-%e7%96%ab%e6%83%85%e6%b6%88%e6%81%af%ef%bd%9c%e9%a6%ac%e6%9c%83%e5%a2%9e%e6%92%a51%e5%84%84%e6%b8%af%e5%85%83%e6%94%af%e6%8f%b4%e5%bc%b1%e5%8b%a2%e7%a4%be%e7%be%a4-%e4%b8%8b%e5%91%a8%e4%b8%80%e8%b5%b7)  
 - [英專家：「與病毒共存」無科學依據 -- 大公文匯](https://www.tkww.hk/a/202202/19/AP62103c81e4b0b5c7e1e4972c.html)  
 - [Omicron亞變種「BA.2」 更易致重症　須三針抵禦 -- 大公文匯](https://www.tkww.hk/a/202202/19/AP62104187e4b0b5c7e1e49c81.html)  
+- [內地加強免疫接種　第三針可混打 -- 大公文匯](https://www.tkww.hk/a/202202/20/AP62118b8fe4b0b5c7e1e57d06.html)  
+- [內地加速研發　Omicron疫苗將臨床 -- 大公文匯](https://www.tkww.hk/a/202202/20/AP62118c1de4b0b5c7e1e57dbb.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
