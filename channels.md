@@ -440,6 +440,7 @@
 - [国产新冠口服药布局再加码：科兴制药宣布开发聚合酶抑制剂 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_16780129)  
 - [同心抗疫 - 恒隆捐1000萬助抗疫　研旗下項目改建接種中心 -- 大公文匯](https://www.tkww.hk/a/202202/21/AP6213702ae4b0b5c7e1e6ca74.html)  
 - [科興宣布開發新冠病毒小分子口服藥 -- 大公文匯](https://www.tkww.hk/a/202202/21/AP62132074e4b0b5c7e1e6826d.html)  
+- [日本研究：奧密克戎BA.2亞型變異株或引發重症 -- 大公文匯](https://www.tkww.hk/a/202202/21/AP6212fb33e4b0b5c7e1e66624.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
