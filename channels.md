@@ -441,6 +441,9 @@
 - [同心抗疫 - 恒隆捐1000萬助抗疫　研旗下項目改建接種中心 -- 大公文匯](https://www.tkww.hk/a/202202/21/AP6213702ae4b0b5c7e1e6ca74.html)  
 - [科興宣布開發新冠病毒小分子口服藥 -- 大公文匯](https://www.tkww.hk/a/202202/21/AP62132074e4b0b5c7e1e6826d.html)  
 - [日本研究：奧密克戎BA.2亞型變異株或引發重症 -- 大公文匯](https://www.tkww.hk/a/202202/21/AP6212fb33e4b0b5c7e1e66624.html)  
+- [來論 - 11分13秒的最強音來自鍾南山院士　願港人反覆聽取 -- 大公文匯](https://www.tkww.hk/a/202202/22/AP621479d1e4b0b5c7e1e76454.html)  
+- [一圖 - 鍾南山傳授港人「防疫三招」-- 大公文匯](https://www.tkww.hk/a/202202/22/AP62148468e4b0b5c7e1e76fc4.html)  
+- [鍾南山：不會容忍大量長者染疫死亡 Omicron 1傳6、7不是流感 -- Ariel](https://www.bastillepost.com/hongkong/article/10209411-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e4%b8%8d%e6%9c%83%e5%ae%b9%e5%bf%8d%e5%a4%a7%e9%87%8f%e9%95%b7%e8%80%85%e6%9f%93%e7%96%ab%e6%ad%bb%e4%ba%a1-omicron-1%e5%82%b36%e3%80%817%e4%b8%8d%e6%98%af)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
