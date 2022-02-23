@@ -25,5 +25,8 @@
 - [** 美国运动员批抹黑北京冬奥的报道作假，美媒集体噤声 -- 观察者网](https://www.guancha.cn/internation/2022_02_15_626360.shtml)  
 - [* 美航母指揮官總結印太之行：「一靠近南海，中國軍艦就來了」 -- 深喉](https://www.bastillepost.com/hongkong/article/10181930-%e7%be%8e%e8%88%aa%e6%af%8d%e6%8c%87%e6%8f%ae%e5%ae%98%e7%b8%bd%e7%b5%90%e5%8d%b0%e5%a4%aa%e4%b9%8b%e8%a1%8c%ef%bc%9a%e3%80%8c%e4%b8%80%e9%9d%a0%e8%bf%91%e5%8d%97%e6%b5%b7%ef%bc%8c%e4%b8%ad%e5%9c%8b)  
 - [* 記者體驗——港幣換數字人民幣　消費無需內地開戶 -- 大公文匯](https://www.tkww.hk/a/202202/18/AP620eed1de4b0b5c7e1e39b29.html)  
+- [** Chinese Experts Uncover Details of Equation Group's Bvp47 Covert Hacking Tool -- The Hacker News](https://thehackernews.com/2022/02/chinese-experts-uncover-details-of.html)  
+- [** 中国研究员曝光美国“顶级后门”，背后公司是谁？ -- 观察者网](https://www.guancha.cn/economy/2022_02_23_627411.shtml)  
+- [** 盧永雄「巴士的點評」逆週期預算，照顧小市民。 美國週身蟻之時，中國公司揭美「國安局」重大黑客程式。 2022年2月23日](https://channel.bastillepost.com/article/1:WSboRmtMc2U-)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
