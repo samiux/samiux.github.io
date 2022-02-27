@@ -31,5 +31,6 @@
 - [普京講話全文: 「謊言帝國」四肢發達頭腦簡單 若不對挑釁者採取行動為時已晚 -- 深喉](https://www.bastillepost.com/hongkong/article/10233773-%e6%99%ae%e4%ba%ac%e8%ac%9b%e8%a9%b1%e5%85%a8%e6%96%87-%e3%80%8c%e8%ac%8a%e8%a8%80%e5%b8%9d%e5%9c%8b%e3%80%8d%e5%9b%9b%e8%82%a2%e7%99%bc%e9%81%94%e9%a0%ad%e8%85%a6%e7%b0%a1%e5%96%ae-%e8%8b%a5)  
 - [普京：俄罗斯为什么要这么做？ -- 观察者网](https://www.guancha.cn/f-putin/2022_02_25_627665.shtml)  
 - [普京：有必要再一次解释我们为什么要这么做（全文） -- 观察者网](https://www.guancha.cn/f-putin/2022_02_25_627675.shtml)  
+- [基輔日記（一）：我的同事被徵召參戰 -- 大公文匯](https://www.tkww.hk/a/202202/27/AP621b2e4be4b0b5c7e1ebbd8c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
