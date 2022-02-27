@@ -445,6 +445,7 @@
 - [一圖 - 鍾南山傳授港人「防疫三招」-- 大公文匯](https://www.tkww.hk/a/202202/22/AP62148468e4b0b5c7e1e76fc4.html)  
 - [鍾南山：不會容忍大量長者染疫死亡 Omicron 1傳6、7不是流感 -- Ariel](https://www.bastillepost.com/hongkong/article/10209411-%e9%8d%be%e5%8d%97%e5%b1%b1%ef%bc%9a%e4%b8%8d%e6%9c%83%e5%ae%b9%e5%bf%8d%e5%a4%a7%e9%87%8f%e9%95%b7%e8%80%85%e6%9f%93%e7%96%ab%e6%ad%bb%e4%ba%a1-omicron-1%e5%82%b36%e3%80%817%e4%b8%8d%e6%98%af)  
 - [世衞：BA.2發病嚴重程度與BA.1相若 -- 大公文匯](https://www.tkww.hk/a/202202/24/AP6216d292e4b0b5c7e1e8e4a7.html)  
+- [美國兒童染疫　警惕無聲殺手MIS-C -- 大公文匯](https://www.tkww.hk/a/202202/27/AP621ad2bce4b0b5c7e1eb72b9.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
