@@ -52,7 +52,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 ### Hardware
 
 - Multi-Core Intel / AMD x86 CPU (e.g. AMD Ryzen R7-4800U for home usage)   
-- 16GB DDR4 RAM or more (Croissants use at least 7GB RAM)  
+- 16GB DDR4 RAM or more (Croissants use at least 4GB RAM)  
 - 256GB hard drive or more (SSD for better performance)   
 - 3 Network Interface Cards/Ports (Network Based only)  
 - 1 Network Interface Card/Port (Host Based only)  
@@ -61,7 +61,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 ### Software
 
-- Ubuntu Server 20.04.3 LTS (64-bit) (support until April 2025)  
+- Ubuntu Server 20.04.4 LTS (64-bit) (support until April 2025)  
 - __netplan__ as default  
 - Support WIFI (for Monitoring Interface only) (Intel AX200 for WPA3 is not recommended as it is unstable unless the kernel is 5.11.0-36 or later)  
 
@@ -380,6 +380,6 @@ sudo reboot
 
 ### 9.0 Known Issues
 
-- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) is not loading properly for unknown reason on Ryzen 7-4800U with Firefox 97.0 and Ubuntu 20.04.3.
+- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) and [Nu1L Team](https://www.nu1l.com/#/) are not loading properly for unknown reason on Ryzen 7-4800U with Firefox 97.0.1 and Ubuntu Desktop 20.04.4.
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
