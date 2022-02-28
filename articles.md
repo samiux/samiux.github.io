@@ -86,6 +86,10 @@
 - [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
 - [Linux Heap Exploitation](/ctf-heap.md)  
 - [CTF 的三十道陰影 -- ddaa](https://ithelp.ithome.com.tw/users/20121059/ironman/2810)  
+- [pwntools Cheatsheet -- anvbis](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)  
+- [Anvbis website - CTF writeups](https://www.anvbis.net/)  
+- [PWN Cheatsheet -- hackmd.io](https://hackmd.io/@u1f383/pwn-cheatsheet)  
+- [PWN Cheatsheet -- Team Eur3kA](https://github.com/Team-Eur3kA/pwn-cheatsheet)  
 
 ### CyberSecurity Laws
 
