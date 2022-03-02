@@ -380,6 +380,6 @@ sudo reboot
 
 ### 9.0 Known Issues
 
-- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) and [Nu1L Team](https://www.nu1l.com/#/) are not loading properly for unknown reason on Ryzen 7-4800U with Firefox 97.0.1 and Ubuntu Desktop 20.04.4.
+- [Bastille Post (巴士的報)](https://www.bastillepost.com/hongkong/) is not loading properly for unknown reason on Ryzen 7-4800U with Firefox 98.0.0 and Ubuntu Desktop 20.04.4.
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
