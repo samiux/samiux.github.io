@@ -38,5 +38,6 @@
 - [俄提升核戰備 俄羅斯權威專家：現在比古巴導彈危機更危險了! -- 深喉](https://www.bastillepost.com/hongkong/article/10247141-%e4%bf%84%e6%8f%90%e5%8d%87%e6%a0%b8%e6%88%b0%e5%82%99-%e4%bf%84%e7%be%85%e6%96%af%e6%ac%8a%e5%a8%81%e5%b0%88%e5%ae%b6%ef%bc%9a%e7%8f%be%e5%9c%a8%e6%af%94%e5%8f%a4%e5%b7%b4%e5%b0%8e%e5%bd%88%e5%8d%b1)  
 - [俄烏戰爭前5日為何陷入拉鋸？俄軍有政治考慮 也有戰術缺陷 -- 深喉](https://www.bastillepost.com/hongkong/article/10254288-%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad%e5%89%8d5%e6%97%a5%e7%82%ba%e4%bd%95%e9%99%b7%e5%85%a5%e6%8b%89%e9%8b%b8%ef%bc%9f%e4%bf%84%e8%bb%8d%e6%9c%89%e6%94%bf%e6%b2%bb%e8%80%83%e6%85%ae-%e4%b9%9f%e6%9c%89)  
 - [伸向烏克蘭的黑手「亞速營」曾伸向香港 -- 大公文匯](https://www.tkww.hk/a/202203/04/AP62215b61e4b0b5c7e1f029a7.html)  
+- [附字幕) 盧永雄「巴士的點評」曼城主帥怒噴美西方雙重標準。 當日北約轟炸南聯盟支持科索沃，為何今天譴責俄國炸烏克蘭? 22年3月3日](https://www.youtube.com/watch?v=wLe2RE0dZ-g)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
