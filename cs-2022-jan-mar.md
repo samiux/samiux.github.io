@@ -45,5 +45,7 @@
 - [西方連陀思妥耶夫斯基也要制裁後 普京開始反擊 西方金融機構在俄資產危險了 -- 深喉](https://www.bastillepost.com/hongkong/article/10280842-%e8%a5%bf%e6%96%b9%e9%80%a3%e9%99%80%e6%80%9d%e5%a6%a5%e8%80%b6%e5%a4%ab%e6%96%af%e5%9f%ba%e4%b9%9f%e8%a6%81%e5%88%b6%e8%a3%81%e5%be%8c-%e6%99%ae%e4%ba%ac%e9%96%8b%e5%a7%8b%e5%8f%8d%e6%93%8a-%e8%a5%bf)  
 - [所謂16000個西方自願援軍開赴烏克蘭 內有西方僱佣兵? -- 深喉](https://www.bastillepost.com/hongkong/article/10280145-%e6%89%80%e8%ac%8216000%e5%80%8b%e8%a5%bf%e6%96%b9%e8%87%aa%e9%a1%98%e6%8f%b4%e8%bb%8d%e9%96%8b%e8%b5%b4%e7%83%8f%e5%85%8b%e8%98%ad-%e5%85%a7%e6%9c%89%e8%a5%bf%e6%96%b9%e5%83%b1%e4%bd%a3%e5%85%b5)  
 - [懶人包: 一文總結李克強總理作政府工作報告 GDP增長目標5.5% 通脹3% -- 毛拍手](https://www.bastillepost.com/hongkong/article/10280847-%e6%87%b6%e4%ba%ba%e5%8c%85-%e4%b8%80%e6%96%87%e7%b8%bd%e7%b5%90%e6%9d%8e%e5%85%8b%e5%bc%b7%e7%b8%bd%e7%90%86%e4%bd%9c%e6%94%bf%e5%ba%9c%e5%b7%a5%e4%bd%9c%e5%a0%b1%e5%91%8a-gdp%e5%a2%9e%e9%95%b7)  
+- [* 2021中国成绩单，来了 -- 大湾区之声](https://mp.weixin.qq.com/s/V5l2rUeDeHEoggZVz5m1gg)  
+- [* (附字幕) 盧永雄「巴士的點評」中國做到共同富裕，西方做不到。 富起來! 中國人均收入超世界平均，GDP 增長目標5.5%勝預期。 22年3月6日](https://www.youtube.com/watch?v=wfgOPrseMGs)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
