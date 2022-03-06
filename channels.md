@@ -449,6 +449,9 @@
 - [美國兒童染疫　警惕無聲殺手MIS-C -- 大公文匯](https://www.tkww.hk/a/202202/27/AP621ad2bce4b0b5c7e1eb72b9.html)  
 - [快速測試種類繁多　你又識唔識揀？【來點知識EP27】 -- 點新聞](https://www.dotdotnews.com/a/202202/27/AP621b7b82e4b0482c7bbe9660.html)  
 - [炸了！FDA败诉！辉瑞被迫公布所有疫苗数据！副作用足足有9页！全网惊呆…](https://mp.weixin.qq.com/s/GpHA1BueVywJqEoRiXf9sQ)  
+- [FDA asks for 55 years to complete FOIA request on Pfizer's COVID-19 vaccine -- Fierce Pharma](https://www.fiercepharma.com/pharma/fda-requests-55-years-to-complete-foia-request-pfizer-s-covid-19-vaccine)  
+- [Federal Judge Tells FDA it Must Make Public 55,000 Pages a Month of Pfizer Vaccine Data -- FDA News](https://www.fdanews.com/articles/206113-federal-judge-tells-fda-it-must-make-public-55000-pages-a-month-of-pfizer-vaccine-data)  
+- [Pfizer-BioNTech Review Memorandum -- FDA](https://www.fda.gov/media/154869/download)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
