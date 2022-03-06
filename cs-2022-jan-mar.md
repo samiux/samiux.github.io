@@ -54,6 +54,8 @@
 - [韓正問香港私家醫院是否拒收確診者？內地省市主動向中央「請戰」支援香港 -- Ariel](https://www.bastillepost.com/hongkong/article/10285677-%e9%9f%93%e6%ad%a3%e5%95%8f%e9%a6%99%e6%b8%af%e7%a7%81%e5%ae%b6%e9%86%ab%e9%99%a2%e6%98%af%e5%90%a6%e6%8b%92%e6%94%b6%e7%a2%ba%e8%a8%ba%e8%80%85%ef%bc%9f%e5%85%a7%e5%9c%b0%e7%9c%81%e5%b8%82%e4%b8%bb)  
 - [懶理確診病人 私院惹公憤勢要改革 -- Ariel](https://www.bastillepost.com/hongkong/article/10285823-%e6%87%b6%e7%90%86%e7%a2%ba%e8%a8%ba%e7%97%85%e4%ba%ba-%e7%a7%81%e9%99%a2%e6%83%b9%e5%85%ac%e6%86%a4%e5%8b%a2%e8%a6%81%e6%94%b9%e9%9d%a9)  
 - [韓正指香港抗疫首要任務要降低死亡個案 做好分類隔離 -- Ariel](https://www.bastillepost.com/hongkong/article/10285552-%e9%9f%93%e6%ad%a3%e6%8c%87%e9%a6%99%e6%b8%af%e6%8a%97%e7%96%ab%e9%a6%96%e8%a6%81%e4%bb%bb%e5%8b%99%e8%a6%81%e9%99%8d%e4%bd%8e%e6%ad%bb%e4%ba%a1%e5%80%8b%e6%a1%88-%e5%81%9a%e5%a5%bd%e5%88%86%e9%a1%9e)  
- 
+- [韓正為香港未來把脈開方：要有頂層設計 做到民有所呼 政府必有所應 -- Ariel](https://www.bastillepost.com/hongkong/article/10286479-%e9%9f%93%e6%ad%a3%e7%82%ba%e9%a6%99%e6%b8%af%e6%9c%aa%e4%be%86%e6%8a%8a%e8%84%88%e9%96%8b%e6%96%b9%ef%bc%9a%e8%a6%81%e6%9c%89%e9%a0%82%e5%b1%a4%e8%a8%ad%e8%a8%88-%e5%81%9a%e5%88%b0%e6%b0%91%e6%9c%89)  
+- [透視鏡 - 不能說了就等於做了 -- 大公文匯](https://www.tkww.hk/a/202203/06/AP6223f907e4b0cd9e1ce19525.html)  
+- [大公報社評 - 盡快建立高效抗疫指揮體系 -- 大公文匯](https://www.tkww.hk/a/202203/06/AP6223e6e2e4b0cd9e1ce18b85.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
