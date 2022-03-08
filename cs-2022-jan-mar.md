@@ -57,5 +57,10 @@
 - [韓正為香港未來把脈開方：要有頂層設計 做到民有所呼 政府必有所應 -- Ariel](https://www.bastillepost.com/hongkong/article/10286479-%e9%9f%93%e6%ad%a3%e7%82%ba%e9%a6%99%e6%b8%af%e6%9c%aa%e4%be%86%e6%8a%8a%e8%84%88%e9%96%8b%e6%96%b9%ef%bc%9a%e8%a6%81%e6%9c%89%e9%a0%82%e5%b1%a4%e8%a8%ad%e8%a8%88-%e5%81%9a%e5%88%b0%e6%b0%91%e6%9c%89)  
 - [透視鏡 - 不能說了就等於做了 -- 大公文匯](https://www.tkww.hk/a/202203/06/AP6223f907e4b0cd9e1ce19525.html)  
 - [大公報社評 - 盡快建立高效抗疫指揮體系 -- 大公文匯](https://www.tkww.hk/a/202203/06/AP6223e6e2e4b0cd9e1ce18b85.html)  
+- [** 梅德韋傑夫估中天然氣「美麗新世界」 俄羅斯估計300美元的油價何時到來? -- 深喉](https://www.bastillepost.com/hongkong/article/10298387-%e6%a2%85%e5%be%b7%e9%9f%8b%e5%82%91%e5%a4%ab%e4%bc%b0%e4%b8%ad%e5%a4%a9%e7%84%b6%e6%b0%a3%e3%80%8c%e7%be%8e%e9%ba%97%e6%96%b0%e4%b8%96%e7%95%8c%e3%80%8d-%e4%bf%84%e7%be%85%e6%96%af%e4%bc%b0%e8%a8%883)  
+- [** 法國女記者7年前拍攝頓巴斯紀錄片為遭「封殺」 電視台一直拒播 -- 深喉](https://www.bastillepost.com/hongkong/article/10296941-%e6%b3%95%e5%9c%8b%e5%a5%b3%e8%a8%98%e8%80%857%e5%b9%b4%e5%89%8d%e6%8b%8d%e6%94%9d%e9%a0%93%e5%b7%b4%e6%96%af%e7%b4%80%e9%8c%84%e7%89%87%e7%82%ba%e9%81%ad%e3%80%8c%e5%b0%81%e6%ae%ba%e3%80%8d-%e9%9b%bb)  
+- [中國首兩月出口16.3%開局穩 美國對中國出口的拉動明顯減弱 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10297427-%e4%b8%ad%e5%9c%8b%e9%a6%96%e5%85%a9%e6%9c%88%e5%87%ba%e5%8f%a316-3%e9%96%8b%e5%b1%80%e7%a9%a9-%e7%be%8e%e5%9c%8b%e5%b0%8d%e4%b8%ad%e5%9c%8b%e5%87%ba%e5%8f%a3%e7%9a%84%e6%8b%89%e5%8b%95%e6%98%8e)  
+- [如何控制香港疫情？張伯禮提三重點：嚴格隔離、集中救治及大膽用中醫藥 -- Ariel](https://www.bastillepost.com/hongkong/article/10298073-%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e9%a6%99%e6%b8%af%e7%96%ab%e6%83%85%ef%bc%9f%e5%bc%b5%e4%bc%af%e7%a6%ae%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e%ef%bc%9a%e5%9a%b4%e6%a0%bc%e9%9a%94%e9%9b%a2%e3%80%81)  
+- [小心駕駛 !! 抄牌機械人 9 月正式使用 -- PCM](https://www.pcmarket.com.hk/smart-police-on-duty-by-sep-2022/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
