@@ -62,5 +62,6 @@
 - [中國首兩月出口16.3%開局穩 美國對中國出口的拉動明顯減弱 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10297427-%e4%b8%ad%e5%9c%8b%e9%a6%96%e5%85%a9%e6%9c%88%e5%87%ba%e5%8f%a316-3%e9%96%8b%e5%b1%80%e7%a9%a9-%e7%be%8e%e5%9c%8b%e5%b0%8d%e4%b8%ad%e5%9c%8b%e5%87%ba%e5%8f%a3%e7%9a%84%e6%8b%89%e5%8b%95%e6%98%8e)  
 - [如何控制香港疫情？張伯禮提三重點：嚴格隔離、集中救治及大膽用中醫藥 -- Ariel](https://www.bastillepost.com/hongkong/article/10298073-%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e9%a6%99%e6%b8%af%e7%96%ab%e6%83%85%ef%bc%9f%e5%bc%b5%e4%bc%af%e7%a6%ae%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e%ef%bc%9a%e5%9a%b4%e6%a0%bc%e9%9a%94%e9%9b%a2%e3%80%81)  
 - [小心駕駛 !! 抄牌機械人 9 月正式使用 -- PCM](https://www.pcmarket.com.hk/smart-police-on-duty-by-sep-2022/)  
+- [保安局出招後 青衣方艙入住率升至8成 設施不斷改善中 -- Ariel](https://www.bastillepost.com/hongkong/article/10300361-%e4%bf%9d%e5%ae%89%e5%b1%80%e5%87%ba%e6%8b%9b%e5%be%8c-%e9%9d%92%e8%a1%a3%e6%96%b9%e8%89%99%e5%85%a5%e4%bd%8f%e7%8e%87%e5%8d%87%e8%87%b38%e6%88%90-%e8%a8%ad%e6%96%bd%e4%b8%8d%e6%96%b7%e6%94%b9)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
