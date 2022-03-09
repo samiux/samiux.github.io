@@ -63,5 +63,9 @@
 - [如何控制香港疫情？張伯禮提三重點：嚴格隔離、集中救治及大膽用中醫藥 -- Ariel](https://www.bastillepost.com/hongkong/article/10298073-%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e9%a6%99%e6%b8%af%e7%96%ab%e6%83%85%ef%bc%9f%e5%bc%b5%e4%bc%af%e7%a6%ae%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e%ef%bc%9a%e5%9a%b4%e6%a0%bc%e9%9a%94%e9%9b%a2%e3%80%81)  
 - [小心駕駛 !! 抄牌機械人 9 月正式使用 -- PCM](https://www.pcmarket.com.hk/smart-police-on-duty-by-sep-2022/)  
 - [保安局出招後 青衣方艙入住率升至8成 設施不斷改善中 -- Ariel](https://www.bastillepost.com/hongkong/article/10300361-%e4%bf%9d%e5%ae%89%e5%b1%80%e5%87%ba%e6%8b%9b%e5%be%8c-%e9%9d%92%e8%a1%a3%e6%96%b9%e8%89%99%e5%85%a5%e4%bd%8f%e7%8e%87%e5%8d%87%e8%87%b38%e6%88%90-%e8%a8%ad%e6%96%bd%e4%b8%8d%e6%96%b7%e6%94%b9)  
+- [中國外交部首次披露：美國在全球有336個生物實驗室 -- 大公文匯](https://www.tkww.hk/a/202203/08/AP622719ffe4b0cd9e1ce3b871.html)  
+- [美國把俄羅斯手機頃刻變成磚頭，別再信科技無國界 -- 深藍](https://www.bastillepost.com/hongkong/article/10305817-%e7%be%8e%e5%9c%8b%e6%8a%8a%e4%bf%84%e7%be%85%e6%96%af%e6%89%8b%e6%a9%9f%e9%a0%83%e5%88%bb%e8%ae%8a%e6%88%90%e7%a3%9a%e9%a0%ad%ef%bc%8c%e5%88%a5%e5%86%8d%e4%bf%a1%e7%a7%91%e6%8a%80%e7%84%a1%e5%9c%8b)  
+- [澤連斯基扮完英雄即刻吹和風 稱對加入北約「失去興趣」 伸出橄欖枝 -- 深喉](https://www.bastillepost.com/hongkong/article/10306545-%e6%be%a4%e9%80%a3%e6%96%af%e5%9f%ba%e6%89%ae%e5%ae%8c%e8%8b%b1%e9%9b%84%e5%8d%b3%e5%88%bb%e5%90%b9%e5%92%8c%e9%a2%a8-%e7%a8%b1%e5%b0%8d%e5%8a%a0%e5%85%a5%e5%8c%97%e7%b4%84%e3%80%8c%e5%a4%b1%e5%8e%bb)  
+- [為抗衡國際油價漲幅 美國想拉委內瑞拉和海灣國家幫手 -- 深喉](https://www.bastillepost.com/hongkong/article/10307000-%e7%82%ba%e6%8a%97%e8%a1%a1%e5%9c%8b%e9%9a%9b%e6%b2%b9%e5%83%b9%e6%bc%b2%e5%b9%85-%e7%be%8e%e5%9c%8b%e6%83%b3%e6%8b%89%e5%a7%94%e5%85%a7%e7%91%9e%e6%8b%89%e5%92%8c%e6%b5%b7%e7%81%a3%e5%9c%8b%e5%ae%b6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
