@@ -70,5 +70,6 @@
 - [波蘭突允「俄機換美機」 美臨陣縮沙顯偽善 -- 大公文匯](https://www.tkww.hk/a/202203/10/AP622951ece4b0cd9e1ce4d69f.html)  
 - [俄國防部：美在烏實驗室曾試驗蝙蝠新冠病毒樣本 -- 大公文匯](https://www.tkww.hk/a/202203/10/AP6229bef0e4b0cd9e1ce53a90.html)  
 - [科技不能靠搶，也不是盜亦有盜 -- 深藍](https://www.bastillepost.com/hongkong/article/10313873-%e7%a7%91%e6%8a%80%e4%b8%8d%e8%83%bd%e9%9d%a0%e6%90%b6%ef%bc%8c%e4%b9%9f%e4%b8%8d%e6%98%af%e7%9b%9c%e4%ba%a6%e6%9c%89%e7%9b%9c)  
+- [趙立堅：美國是迄今唯一擁有化武的國家 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10313046-%e8%b6%99%e7%ab%8b%e5%a0%85%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%98%af%e8%bf%84%e4%bb%8a%e5%94%af%e4%b8%80%e6%93%81%e6%9c%89%e5%8c%96%e6%ad%a6%e7%9a%84%e5%9c%8b%e5%ae%b6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
