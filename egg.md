@@ -31,6 +31,8 @@ OSCE  OSCP  OSWP
 - [維生素K降低中風率、預防骨質疏鬆　該從哪裡補充](https://m.commonhealth.com.tw/amp/article/82038)  
 - [鸡蛋的营养与功效 -- 美食天下](https://m.meishichina.com/ingredient/jidan/info/)  
 - [鸡蛋营养价值的误区](https://zhuanlan.zhihu.com/p/38169491)  
+- [每天吃四顆蛋的原因,柏格醫生 Dr Berg](https://www.youtube.com/watch?v=GVK-Ia2SdM8)  
+- [大錯誤:雞蛋增加心臟風險？柏格醫生](https://www.youtube.com/watch?v=fHCwKqZdUsU)  
 - [心臟血管鈣化指數是甚麼？](https://www.rsroc.org.tw/knowledge/education/content.asp?ID=47)  
 - [茶叶主要有六种“养生功用” 不同体质喝茶有讲究](https://m.yunnan.cn/system/2020/05/15/030674837.shtml)  
 - [暖心行動 1](https://www.hongkongahc.com/zh/heartwarming-initiative/)  
