@@ -32,6 +32,7 @@ OSCE  OSCP  OSWP
 - [鸡蛋的营养与功效 -- 美食天下](https://m.meishichina.com/ingredient/jidan/info/)  
 - [鸡蛋营养价值的误区](https://zhuanlan.zhihu.com/p/38169491)  
 - [心臟血管鈣化指數是甚麼？](https://www.rsroc.org.tw/knowledge/education/content.asp?ID=47)  
+- [茶叶主要有六种“养生功用” 不同体质喝茶有讲究](https://m.yunnan.cn/system/2020/05/15/030674837.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
