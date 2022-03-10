@@ -33,6 +33,9 @@ OSCE  OSCP  OSWP
 - [鸡蛋营养价值的误区](https://zhuanlan.zhihu.com/p/38169491)  
 - [心臟血管鈣化指數是甚麼？](https://www.rsroc.org.tw/knowledge/education/content.asp?ID=47)  
 - [茶叶主要有六种“养生功用” 不同体质喝茶有讲究](https://m.yunnan.cn/system/2020/05/15/030674837.shtml)  
+- [暖心行動 1](https://www.hongkongahc.com/zh/heartwarming-initiative/)  
+- [暖心行動 2](https://www.hongkongahc.com/zh/promotion/heartwarming-initiative/)  
+- [賢德醫療](http://centremedical.com.hk/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
