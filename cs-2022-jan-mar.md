@@ -67,5 +67,8 @@
 - [美國把俄羅斯手機頃刻變成磚頭，別再信科技無國界 -- 深藍](https://www.bastillepost.com/hongkong/article/10305817-%e7%be%8e%e5%9c%8b%e6%8a%8a%e4%bf%84%e7%be%85%e6%96%af%e6%89%8b%e6%a9%9f%e9%a0%83%e5%88%bb%e8%ae%8a%e6%88%90%e7%a3%9a%e9%a0%ad%ef%bc%8c%e5%88%a5%e5%86%8d%e4%bf%a1%e7%a7%91%e6%8a%80%e7%84%a1%e5%9c%8b)  
 - [澤連斯基扮完英雄即刻吹和風 稱對加入北約「失去興趣」 伸出橄欖枝 -- 深喉](https://www.bastillepost.com/hongkong/article/10306545-%e6%be%a4%e9%80%a3%e6%96%af%e5%9f%ba%e6%89%ae%e5%ae%8c%e8%8b%b1%e9%9b%84%e5%8d%b3%e5%88%bb%e5%90%b9%e5%92%8c%e9%a2%a8-%e7%a8%b1%e5%b0%8d%e5%8a%a0%e5%85%a5%e5%8c%97%e7%b4%84%e3%80%8c%e5%a4%b1%e5%8e%bb)  
 - [為抗衡國際油價漲幅 美國想拉委內瑞拉和海灣國家幫手 -- 深喉](https://www.bastillepost.com/hongkong/article/10307000-%e7%82%ba%e6%8a%97%e8%a1%a1%e5%9c%8b%e9%9a%9b%e6%b2%b9%e5%83%b9%e6%bc%b2%e5%b9%85-%e7%be%8e%e5%9c%8b%e6%83%b3%e6%8b%89%e5%a7%94%e5%85%a7%e7%91%9e%e6%8b%89%e5%92%8c%e6%b5%b7%e7%81%a3%e5%9c%8b%e5%ae%b6)  
+- [波蘭突允「俄機換美機」 美臨陣縮沙顯偽善 -- 大公文匯](https://www.tkww.hk/a/202203/10/AP622951ece4b0cd9e1ce4d69f.html)  
+- [俄國防部：美在烏實驗室曾試驗蝙蝠新冠病毒樣本 -- 大公文匯](https://www.tkww.hk/a/202203/10/AP6229bef0e4b0cd9e1ce53a90.html)  
+- [科技不能靠搶，也不是盜亦有盜 -- 深藍](https://www.bastillepost.com/hongkong/article/10313873-%e7%a7%91%e6%8a%80%e4%b8%8d%e8%83%bd%e9%9d%a0%e6%90%b6%ef%bc%8c%e4%b9%9f%e4%b8%8d%e6%98%af%e7%9b%9c%e4%ba%a6%e6%9c%89%e7%9b%9c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
