@@ -73,5 +73,6 @@
 - [趙立堅：美國是迄今唯一擁有化武的國家 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10313046-%e8%b6%99%e7%ab%8b%e5%a0%85%ef%bc%9a%e7%be%8e%e5%9c%8b%e6%98%af%e8%bf%84%e4%bb%8a%e5%94%af%e4%b8%80%e6%93%81%e6%9c%89%e5%8c%96%e6%ad%a6%e7%9a%84%e5%9c%8b%e5%ae%b6)  
 - [明月照溝渠? 英國退役軍醫參加「國際軍團」 被烏克蘭特工誤當俄諜毒打 -- 深喉](https://www.bastillepost.com/hongkong/article/10317850-%e6%98%8e%e6%9c%88%e7%85%a7%e6%ba%9d%e6%b8%a0-%e8%8b%b1%e5%9c%8b%e9%80%80%e5%bd%b9%e8%bb%8d%e9%86%ab%e5%8f%83%e5%8a%a0%e3%80%8c%e5%9c%8b%e9%9a%9b%e8%bb%8d%e5%9c%98%e3%80%8d-%e8%a2%ab%e7%83%8f)  
 - [烏克蘭戰爭見證低軌衛星在戰爭的作用 -- PCM](https://www.pcmarket.com.hk/the-ukraine-war-witnessed-the-role-of-leos-in-the-war/)  
+- [** “地狱般的景象！”她3次走访顿巴斯，揭露西方真实面目……  -- 央视军事](https://mp.weixin.qq.com/s/4Tsj6kXdCTb6NUPPsDxOlA)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
