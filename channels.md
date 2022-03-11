@@ -453,6 +453,11 @@
 - [FDA asks for 55 years to complete FOIA request on Pfizer's COVID-19 vaccine -- Fierce Pharma](https://www.fiercepharma.com/pharma/fda-requests-55-years-to-complete-foia-request-pfizer-s-covid-19-vaccine)  
 - [Federal Judge Tells FDA it Must Make Public 55,000 Pages a Month of Pfizer Vaccine Data -- FDA News](https://www.fdanews.com/articles/206113-federal-judge-tells-fda-it-must-make-public-55000-pages-a-month-of-pfizer-vaccine-data)  
 - [Pfizer-BioNTech Review Memorandum -- FDA](https://www.fda.gov/media/154869/download)  
+- [* 俄军公布大量文件！披露美在乌生物武器研究，“类似731部队” -- 央视军事](https://mp.weixin.qq.com/s/IYEQyDrUyGdgo2wa5kJSSA)  
+- [* 俄軍拋出重磅證據：美在烏克蘭進行過蝙蝠冠狀病毒樣本實驗 -- 大公文匯](https://www.tkww.hk/a/202203/11/AP622ae448e4b0cd9e1ce5d75e.html)  
+- [* 俄羅斯曝美國在烏開展蝙蝠冠狀病毒實驗 -- 大公文匯](https://www.tkww.hk/a/202203/11/AP622ab5aee4b0cd9e1ce5adfb.html)  
+- [* 俄國防部：美在烏實驗室曾試驗蝙蝠新冠病毒樣本 -- 大公文匯](https://www.tkww.hk/a/202203/10/AP6229bef0e4b0cd9e1ce53a90.html)  
+- [* 謎團待解 - 俄羅斯指美國研生物武器　烏克蘭急銷毀樣本 -- 大公文匯](https://www.tkww.hk/a/202203/11/AP622a94a9e4b0cd9e1ce592de.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
