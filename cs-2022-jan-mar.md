@@ -80,5 +80,6 @@
 - [为对抗制裁，俄罗斯决定自建TLS根证书 -- Freebuf](https://www.freebuf.com/news/324501.html)  
 - [盧永雄「巴士的點評」美學者：俄羅斯不會舉手投降。美國不能用木棍去戳熊的眼晴，她可以用木棍去戳龍的眼晴嗎？ 22年3月12日](https://www.youtube.com/watch?v=IVfiBr6CdRw)  
 - [中美未来霸权争夺战](https://youtu.be/SwC54-OnJxo)  
+- [俄聲稱於盧甘斯克發現萬人塚 已責成部門調查 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10325412-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e4%bf%84%e8%81%b2%e7%a8%b1%e6%96%bc%e7%9b%a7%e7%94%98%e6%96%af%e5%85%8b%e7%99%bc%e7%8f%be%e8%90%ac%e4%ba%ba%e5%a1%9a-%e5%b7%b2%e8%b2%ac%e6%88%90%e9%83%a8?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
