@@ -78,5 +78,6 @@
 - [縱容用戶發極端仇俄言論　Fb捱轟 -- 大公文匯](https://www.tkww.hk/a/202203/12/AP622bee24e4b0cd9e1ce6546c.html)  
 - [首次突破一萬億！中國又一項紀錄創歷史新高 美國很失望 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10322762-%e9%a6%96%e6%ac%a1%e7%aa%81%e7%a0%b4%e4%b8%80%e8%90%ac%e5%84%84%ef%bc%81%e4%b8%ad%e5%9c%8b%e5%8f%88%e4%b8%80%e9%a0%85%e7%b4%80%e9%8c%84%e5%89%b5%e6%ad%b7%e5%8f%b2%e6%96%b0%e9%ab%98-%e7%be%8e%e5%9c%8b)  
 - [为对抗制裁，俄罗斯决定自建TLS根证书 -- Freebuf](https://www.freebuf.com/news/324501.html)  
+- [盧永雄「巴士的點評」美學者：俄羅斯不會舉手投降。美國不能用木棍去戳熊的眼晴，她可以用木棍去戳龍的眼晴嗎？ 22年3月12日](https://www.youtube.com/watch?v=IVfiBr6CdRw)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
