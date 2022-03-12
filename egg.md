@@ -41,6 +41,8 @@ OSCE  OSCP  OSWP
 - [壞膽固醇高增心臟病風險 曾子欣指遺傳佔主因](https://www.hongkongahc.com/zh/media-coverage/%E5%A3%9E%E8%86%BD%E5%9B%BA%E9%86%87%E9%AB%98%E5%A2%9E%E5%BF%83%E8%87%9F%E7%97%85%E9%A2%A8%E9%9A%AA-%E6%9B%BE%E5%AD%90%E6%AC%A3%E6%8C%87%E9%81%BA%E5%82%B3%E4%BD%94%E4%B8%BB%E5%9B%A0/)  
 - [胆固醇过高，到底跟哪些原因相关？并非是摄取过多胆固醇](https://k.sina.cn/article_6978371786_19ff180ca00100w9l7.html)  
 - [茶叶主要有六种“养生功用” 不同体质喝茶有讲究](https://m.yunnan.cn/system/2020/05/15/030674837.shtml)  
+- [长期喝茶的人，最后都怎样了？爱喝茶的你，请听听医生怎么说](https://partners.sina.cn/html/amap/news/article?amsfrom=push&cid=22&via=LBP-ALGSTGY_RECALL-133299-1-push-7_1_1_5-1212-plan133299_1-0&docUrl=https%3A%2F%2Fk.sina.cn%2Farticle_5615894018_14ebbbe02001011732.html%3Ffrom%3Dhealth%26cre%3Dtianyi%26mod%3Dgdall%26loc%3D5%26r%3D0%26rfunc%3D78%26tj%3Dcxthirdparty_gdbatch%26tr%3D302&en_dataid=1841d7ae3e244b4ac4899174a7eed069556a4370e18472b3a68411eea7626b65&wm=6219)  
+
 - [暖心行動 1](https://www.hongkongahc.com/zh/heartwarming-initiative/)  
 - [暖心行動 2](https://www.hongkongahc.com/zh/promotion/heartwarming-initiative/)  
 - [賢德醫療](http://centremedical.com.hk/)  
