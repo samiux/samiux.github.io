@@ -458,6 +458,8 @@
 - [* 俄羅斯曝美國在烏開展蝙蝠冠狀病毒實驗 -- 大公文匯](https://www.tkww.hk/a/202203/11/AP622ab5aee4b0cd9e1ce5adfb.html)  
 - [* 俄國防部：美在烏實驗室曾試驗蝙蝠新冠病毒樣本 -- 大公文匯](https://www.tkww.hk/a/202203/10/AP6229bef0e4b0cd9e1ce53a90.html)  
 - [* 謎團待解 - 俄羅斯指美國研生物武器　烏克蘭急銷毀樣本 -- 大公文匯](https://www.tkww.hk/a/202203/11/AP622a94a9e4b0cd9e1ce592de.html)  
+- [什么是抗原检测？它和核酸检测的区别在哪里？张文宏详解 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17068822)  
+- [新冠抗原试剂放开国内市场，多家公司已获得国外资质 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17083197)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
