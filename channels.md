@@ -462,6 +462,7 @@
 - [新冠抗原试剂放开国内市场，多家公司已获得国外资质 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17083197)  
 - [俄乌冲突的“意外”　乌克兰生物实验室将新冠溯源指向美国 -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60281795/%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%9A%84%E6%84%8F%E5%A4%96%E4%B9%8C%E5%85%8B%E5%85%B0%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B0%86%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E6%8C%87%E5%90%91%E7%BE%8E%E5%9B%BD)  
 - [疫情導致腦霧現象 轉變生活習慣可改善情況 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10264242-%e7%96%ab%e6%83%85%e5%b0%8e%e8%87%b4%e8%85%a6%e9%9c%a7%e7%8f%be%e8%b1%a1-%e8%bd%89%e8%ae%8a%e7%94%9f%e6%b4%bb%e7%bf%92%e6%85%a3%e6%94%b9%e5%96%84%e6%83%85%e6%b3%81?current_cat=8)  
+- [** 双毒合一，“德尔塔克戎”被证实了 -- 大湾区之声](https://mp.weixin.qq.com/s/GJBS0_xGAz7xEef8Xl4cZA)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
