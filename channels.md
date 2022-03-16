@@ -465,6 +465,7 @@
 - [** 双毒合一，“德尔塔克戎”被证实了 -- 大湾区之声](https://mp.weixin.qq.com/s/GJBS0_xGAz7xEef8Xl4cZA)  
 - [巴西確認兩例感染「德爾塔克戎」毒株病例 -- 文匯報](https://www.wenweipo.com/s/202203/16/AP6231845be4b036dce99f09f1.html)  
 - [快評 - 治療新冠肺炎宜採用國家標準 -- 大公文匯](https://www.tkww.hk/a/202203/16/AP6231856ee4b0cd9e1ce972da.html)  
+- [* 視頻論點 - 放下傲慢和偏見 治病救人最重要 -- 大公文匯](https://www.tkww.hk/a/202203/16/AP6231b36be4b0cd9e1ce994cc.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
