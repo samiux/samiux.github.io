@@ -466,6 +466,9 @@
 - [巴西確認兩例感染「德爾塔克戎」毒株病例 -- 文匯報](https://www.wenweipo.com/s/202203/16/AP6231845be4b036dce99f09f1.html)  
 - [快評 - 治療新冠肺炎宜採用國家標準 -- 大公文匯](https://www.tkww.hk/a/202203/16/AP6231856ee4b0cd9e1ce972da.html)  
 - [* 視頻論點 - 放下傲慢和偏見 治病救人最重要 -- 大公文匯](https://www.tkww.hk/a/202203/16/AP6231b36be4b0cd9e1ce994cc.html)  
+- [內地兩年來首度放寬防疫政策：輕症集中隔離，Ct值變小，出院隔離縮短 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10348775-%e5%85%a7%e5%9c%b0%e5%85%a9%e5%b9%b4%e4%be%86%e9%a6%96%e5%ba%a6%e6%94%be%e5%af%ac%e9%98%b2%e7%96%ab%e6%94%bf%e7%ad%96%ef%bc%9a%e8%bc%95%e7%97%87%e9%9b%86%e4%b8%ad%e9%9a%94%e9%9b%a2%ef%bc%8cct%e5%80%bc)  
+- [数据明查 - 感染了奥密克戎会导致脑萎缩？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17144882)  
+- [轻症不住院为何这样调整？出院后为何改为7天居家？专家回应 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17146561)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
