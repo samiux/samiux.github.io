@@ -86,5 +86,7 @@
 - [沙特考慮用人民幣而非美元報價 向中國售石油 「石油美元」破局 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10346060-%e6%b2%99%e7%89%b9%e8%80%83%e6%85%ae%e7%94%a8%e4%ba%ba%e6%b0%91%e5%b9%a3%e8%80%8c%e9%9d%9e%e7%be%8e%e5%85%83%e5%a0%b1%e5%83%b9-%e5%90%91%e4%b8%ad%e5%9c%8b%e5%94%ae%e7%9f%b3%e6%b2%b9-%e3%80%8c%e7%9f%b3)  
 - [英兵每月230美元賣身烏克蘭奮戰 抵烏9小時嚇到馬上走 -- 深喉](https://www.bastillepost.com/hongkong/article/10346349-%e8%8b%b1%e5%85%b5%e6%af%8f%e6%9c%88230%e7%be%8e%e5%85%83%e8%b3%a3%e8%ba%ab%e7%83%8f%e5%85%8b%e8%98%ad%e5%a5%ae%e6%88%b0-%e6%8a%b5%e7%83%8f9%e5%b0%8f%e6%99%82%e5%9a%87%e5%88%b0%e9%a6%ac%e4%b8%8a)  
 - [以色列稱多個政府網站遭黑客攻擊 -- 大公文匯](https://www.tkww.hk/a/202203/15/AP62306471e4b0cd9e1ce8e312.html)  
+- [烏克蘭和談態度一日三變 是澤連斯基善變 還是要聽美國指揮拖延? -- 深喉](https://www.bastillepost.com/hongkong/article/10348957-%e7%83%8f%e5%85%8b%e8%98%ad%e5%92%8c%e8%ab%87%e6%85%8b%e5%ba%a6%e4%b8%80%e6%97%a5%e4%b8%89%e8%ae%8a-%e6%98%af%e6%be%a4%e9%80%a3%e6%96%af%e5%9f%ba%e5%96%84%e8%ae%8a-%e9%82%84%e6%98%af%e8%a6%81%e8%81%bd)  
+- [從彈痕累累的蘇-25說美國的無奈 -- 深藍](https://www.bastillepost.com/hongkong/article/10349875-%e5%be%9e%e5%bd%88%e7%97%95%e7%b4%af%e7%b4%af%e7%9a%84%e8%98%87-25%e6%88%b0%e6%a9%9f%e8%aa%aa%e7%be%8e%e5%9c%8b%e7%9a%84%e7%84%a1%e5%a5%88)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
