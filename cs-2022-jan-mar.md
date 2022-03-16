@@ -83,5 +83,7 @@
 - [俄聲稱於盧甘斯克發現萬人塚 已責成部門調查 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10325412-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e4%bf%84%e8%81%b2%e7%a8%b1%e6%96%bc%e7%9b%a7%e7%94%98%e6%96%af%e5%85%8b%e7%99%bc%e7%8f%be%e8%90%ac%e4%ba%ba%e5%a1%9a-%e5%b7%b2%e8%b2%ac%e6%88%90%e9%83%a8?current_cat=6)  
 - [澤連斯基：喜劇演員帶來戰爭悲劇 -- 大公文匯](https://www.tkww.hk/a/202203/13/AP622d3ccde4b0cd9e1ce6ff38.html)  
 - [* 聯合國生化武器委員會前成員：「烏克蘭成美國的生物武器試驗場」 -- 深喉](https://www.bastillepost.com/hongkong/article/10326955-%e8%81%af%e5%90%88%e5%9c%8b%e7%94%9f%e5%8c%96%e6%ad%a6%e5%99%a8%e5%a7%94%e5%93%a1%e6%9c%83%e5%89%8d%e6%88%90%e5%93%a1%ef%bc%9a%e3%80%8c%e7%83%8f%e5%85%8b%e8%98%ad%e6%88%90%e7%be%8e%e5%9c%8b%e7%9a%84)  
+- [沙特考慮用人民幣而非美元報價 向中國售石油 「石油美元」破局 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10346060-%e6%b2%99%e7%89%b9%e8%80%83%e6%85%ae%e7%94%a8%e4%ba%ba%e6%b0%91%e5%b9%a3%e8%80%8c%e9%9d%9e%e7%be%8e%e5%85%83%e5%a0%b1%e5%83%b9-%e5%90%91%e4%b8%ad%e5%9c%8b%e5%94%ae%e7%9f%b3%e6%b2%b9-%e3%80%8c%e7%9f%b3)  
+- [英兵每月230美元賣身烏克蘭奮戰 抵烏9小時嚇到馬上走 -- 深喉](https://www.bastillepost.com/hongkong/article/10346349-%e8%8b%b1%e5%85%b5%e6%af%8f%e6%9c%88230%e7%be%8e%e5%85%83%e8%b3%a3%e8%ba%ab%e7%83%8f%e5%85%8b%e8%98%ad%e5%a5%ae%e6%88%b0-%e6%8a%b5%e7%83%8f9%e5%b0%8f%e6%99%82%e5%9a%87%e5%88%b0%e9%a6%ac%e4%b8%8a)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
