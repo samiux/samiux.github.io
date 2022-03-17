@@ -380,6 +380,6 @@ sudo reboot
 
 ### 9.0 Known Issues
 
-- [Nu1L Team](https://www.nu1l.com/) is not loading properly for unknown reason on Ryzen 7-4800U with Firefox 98.0.1 and Ubuntu Desktop 20.04.4.  
+N/A  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
