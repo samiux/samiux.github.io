@@ -88,5 +88,6 @@
 - [以色列稱多個政府網站遭黑客攻擊 -- 大公文匯](https://www.tkww.hk/a/202203/15/AP62306471e4b0cd9e1ce8e312.html)  
 - [烏克蘭和談態度一日三變 是澤連斯基善變 還是要聽美國指揮拖延? -- 深喉](https://www.bastillepost.com/hongkong/article/10348957-%e7%83%8f%e5%85%8b%e8%98%ad%e5%92%8c%e8%ab%87%e6%85%8b%e5%ba%a6%e4%b8%80%e6%97%a5%e4%b8%89%e8%ae%8a-%e6%98%af%e6%be%a4%e9%80%a3%e6%96%af%e5%9f%ba%e5%96%84%e8%ae%8a-%e9%82%84%e6%98%af%e8%a6%81%e8%81%bd)  
 - [從彈痕累累的蘇-25說美國的無奈 -- 深藍](https://www.bastillepost.com/hongkong/article/10349875-%e5%be%9e%e5%bd%88%e7%97%95%e7%b4%af%e7%b4%af%e7%9a%84%e8%98%87-25%e6%88%b0%e6%a9%9f%e8%aa%aa%e7%be%8e%e5%9c%8b%e7%9a%84%e7%84%a1%e5%a5%88)  
+- [2022中美第二回合科技戰 -- 深藍](https://www.bastillepost.com/hongkong/article/10356522-2022%e4%b8%ad%e7%be%8e%e7%ac%ac%e4%ba%8c%e5%9b%9e%e5%90%88%e7%a7%91%e6%8a%80%e6%88%b0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
