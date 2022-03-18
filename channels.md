@@ -474,6 +474,7 @@
 - [新毒王德爾塔克戎在歐洲多國出現？ 世衞：疫情防控面臨不確定性 要維持有力防控措施 -- 深喉](https://www.bastillepost.com/hongkong/article/10352255-%e6%96%b0%e6%af%92%e7%8e%8b%e5%be%b7%e7%88%be%e5%a1%94%e5%85%8b%e6%88%8e%e5%9c%a8%e6%ad%90%e6%b4%b2%e5%a4%9a%e5%9c%8b%e5%87%ba%e7%8f%be%ef%bc%9f-%e4%b8%96%e8%a1%9e%ef%bc%9a%e7%96%ab%e6%83%85%e9%98%b2)  
 - [張文宏解讀最新《診療方案》：大幅降低隔離時間 避免醫療擠兌 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10352468-%e5%bc%b5%e6%96%87%e5%ae%8f%e8%a7%a3%e8%ae%80%e6%9c%80%e6%96%b0%e3%80%8a%e8%a8%ba%e7%99%82%e6%96%b9%e6%a1%88%e3%80%8b%ef%bc%9a%e5%a4%a7%e5%b9%85%e9%99%8d%e4%bd%8e%e9%9a%94%e9%9b%a2%e6%99%82%e9%96%93)  
 - [特稿 - 迎戰奧密克戎：中國「動態清零」進行時！ -- 大公文匯](https://www.tkww.hk/a/202203/18/AP6233c824e4b0cd9e1cea8d14.html)  
+- [歐洲第6波感染潮來了 「沒想到來得這麼快」 英國專家: 「很多人以為大流行已經結束，還早著呢。」 -- 深喉](https://www.bastillepost.com/hongkong/article/10360663-%e6%ad%90%e6%b4%b2%e7%ac%ac6%e6%b3%a2%e6%84%9f%e6%9f%93%e6%bd%ae%e4%be%86%e4%ba%86-%e3%80%8c%e6%b2%92%e6%83%b3%e5%88%b0%e4%be%86%e5%be%97%e9%80%99%e9%ba%bc%e5%bf%ab%e3%80%8d-%e8%8b%b1%e5%9c%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
