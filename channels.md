@@ -478,6 +478,7 @@
 - [深圳4天5區動態清零的速度 -- 盧永雄](https://www.bastillepost.com/hongkong/article/10362715-%e6%b7%b1%e5%9c%b34%e5%a4%a95%e5%8d%80%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e7%9a%84%e9%80%9f%e5%ba%a6)  
 - [【短片】【屈穎妍在線】EP26：最好的家底都給你們了](https://www.youtube.com/watch?v=zD3ogjy53Iw)  
 - [国药灭活疫苗对老年人效果首次披露：预防死亡有效率为85% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17182092)  
+- [世衛：亞歐新冠病例激增 疫苗接種率很高 為何難阻疫情? -- 深喉](https://www.bastillepost.com/hongkong/article/10365721-%e4%b8%96%e8%a1%9b%ef%bc%9a%e4%ba%9e%e6%ad%90%e6%96%b0%e5%86%a0%e7%97%85%e4%be%8b%e6%bf%80%e5%a2%9e-%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e7%8e%87%e5%be%88%e9%ab%98-%e7%82%ba%e4%bd%95%e9%9b%a3%e9%98%bb)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
