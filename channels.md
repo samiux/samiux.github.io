@@ -479,6 +479,7 @@
 - [【短片】【屈穎妍在線】EP26：最好的家底都給你們了](https://www.youtube.com/watch?v=zD3ogjy53Iw)  
 - [国药灭活疫苗对老年人效果首次披露：预防死亡有效率为85% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17182092)  
 - [世衛：亞歐新冠病例激增 疫苗接種率很高 為何難阻疫情? -- 深喉](https://www.bastillepost.com/hongkong/article/10365721-%e4%b8%96%e8%a1%9b%ef%bc%9a%e4%ba%9e%e6%ad%90%e6%96%b0%e5%86%a0%e7%97%85%e4%be%8b%e6%bf%80%e5%a2%9e-%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e7%8e%87%e5%be%88%e9%ab%98-%e7%82%ba%e4%bd%95%e9%9b%a3%e9%98%bb)  
+- [好消息！我国针对奥密克戎变异株的疫苗已申报临床试验 -- 大湾区之声](https://mp.weixin.qq.com/s/p-dvbCPHCDOKZWD2M-0P1w)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
