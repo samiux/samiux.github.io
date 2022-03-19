@@ -97,5 +97,6 @@
 - [在乌克兰当“炮灰”！媒体披露在乌外籍雇佣军现状 -- 央视军事](https://mp.weixin.qq.com/s/4e1ae22l--Vx_DnwMuizjw)  
 - [美國盟友又掉隊了 11年來阿聯酋首次接待 敘利亞總統阿薩德訪問 -- 深喉](https://www.bastillepost.com/hongkong/article/10367168-%e7%be%8e%e5%9c%8b%e7%9b%9f%e5%8f%8b%e5%8f%88%e6%8e%89%e9%9a%8a%e4%ba%86-11%e5%b9%b4%e4%be%86%e9%98%bf%e8%81%af%e9%85%8b%e9%a6%96%e6%ac%a1%e6%8e%a5%e5%be%85-%e6%95%98%e5%88%a9%e4%ba%9e%e7%b8%bd)  
 - [俄羅斯起底美在烏境內「生物實驗室網絡」 -- 大公文匯](https://www.tkww.hk/a/202203/19/AP6235e622e4b0cd9e1cebd987.html)  
+- [俄國防部宣稱首度使用高超音速導彈 摧毀烏軍事設施 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10367764-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e4%bf%84%e8%bb%8d%e5%ae%a3%e7%a8%b1%e9%a6%96%e6%ac%a1%e4%bd%bf%e7%94%a8%e9%ab%98%e8%b6%85%e9%9f%b3%e9%80%9f%e5%b0%8e%e5%bd%88-%e6%91%a7%e6%af%80%e7%83%8f?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
