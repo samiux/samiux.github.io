@@ -92,5 +92,8 @@
 - [俄媒：俄軍控制赫爾松州意義重大 或影響談判進程 -- 深喉](https://www.bastillepost.com/hongkong/article/10359496-%e4%bf%84%e5%aa%92%ef%bc%9a%e4%bf%84%e8%bb%8d%e6%8e%a7%e5%88%b6%e8%b5%ab%e7%88%be%e6%9d%be%e5%b7%9e%e6%84%8f%e7%be%a9%e9%87%8d%e5%a4%a7-%e6%88%96%e5%bd%b1%e9%9f%bf%e8%ab%87%e5%88%a4%e9%80%b2%e7%a8%8b)  
 - [(全文)普京發表1萬字電視講話：我們怎麼辦？ 「西方試圖利用第五縱隊摧毀俄羅斯 在外生活的民族叛徒向西方靠攏」 -- 深喉](https://www.bastillepost.com/hongkong/article/10361121-%e5%85%a8%e6%96%87%e6%99%ae%e4%ba%ac%e7%99%bc%e8%a1%a81%e8%90%ac%e5%ad%97%e9%9b%bb%e8%a6%96%e8%ac%9b%e8%a9%b1%ef%bc%9a%e6%88%91%e5%80%91%e6%80%8e%e9%ba%bc%e8%be%a6%ef%bc%9f-%e3%80%8c%e8%a5%bf)  
 - [【环球叶问】米尔斯海默：俄乌冲突，错在美国，我们编故事“甩锅”俄罗斯！](https://www.youtube.com/watch?v=1M766eEb1x4)  
+- [果然是北約在指揮！烏克蘭手提電腦被繳獲，打開後接通美預警機 -- 深喉](https://www.bastillepost.com/hongkong/article/10366317-%e6%9e%9c%e7%84%b6%e6%98%af%e5%8c%97%e7%b4%84%e5%9c%a8%e6%8c%87%e6%8f%ae%ef%bc%81%e7%83%8f%e5%85%8b%e8%98%ad%e6%89%8b%e6%8f%90%e9%9b%bb%e8%85%a6%e8%a2%ab%e7%b9%b3%e7%8d%b2%ef%bc%8c%e6%89%93%e9%96%8b)  
+- [「習拜會」各說各話就是went well? 美方警告莫援俄 中方反警告助台獨有「顛覆性影響」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10366491-%e3%80%8c%e7%bf%92%e6%8b%9c%e6%9c%83%e3%80%8d%e5%90%84%e8%aa%aa%e5%90%84%e8%a9%b1%e5%b0%b1%e6%98%afwent-well-%e7%be%8e%e6%96%b9%e8%ad%a6%e5%91%8a%e8%8e%ab%e6%8f%b4%e4%bf%84-%e4%b8%ad%e6%96%b9)  
+- [在乌克兰当“炮灰”！媒体披露在乌外籍雇佣军现状 -- 央视军事](https://mp.weixin.qq.com/s/4e1ae22l--Vx_DnwMuizjw)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
