@@ -98,8 +98,7 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 成功是为了将我自己所拥有的时间、财物、技术及知识等分享给别人而努力的过程。 -- 彼得 ‧ 杜拉克 (Peter Drucker)
 ```
 ```
-恶人害贤者，犹仰天而唾；唾不至天，还从己堕。逆风扬尘，尘不至彼，还坌己身。贤不可毁，祸必灭己。 --  
-佛说四十二章经
+恶人害贤者，犹仰天而唾；唾不至天，还从己堕。逆风扬尘，尘不至彼，还坌己身。贤不可毁，祸必灭己。 -- 佛说四十二章经
 ```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
