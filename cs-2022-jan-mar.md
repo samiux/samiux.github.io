@@ -101,5 +101,6 @@
 - [留烏中國留學生日記：超市外遇到轟下來未爆的炸彈 「在霸權之間的鬥爭中，烏克蘭甚至不是棋子，只是棋盤。」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10369889-%e7%95%99%e7%83%8f%e4%b8%ad%e5%9c%8b%e7%95%99%e5%ad%b8%e7%94%9f%e6%97%a5%e8%a8%98%ef%bc%9a%e8%b6%85%e5%b8%82%e5%a4%96%e9%81%87%e5%88%b0%e8%bd%9f%e4%b8%8b%e4%be%86%e6%9c%aa%e7%88%86%e7%9a%84%e7%82%b8)  
 - [拜登警告中國支援俄羅斯後果 央視女主播劉欣妙評引熱議 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10370003-%e6%8b%9c%e7%99%bb%e8%a6%81%e6%b1%82%e4%b8%ad%e5%9c%8b%e6%8e%a5%e5%8f%97%e5%88%b6%e8%a3%81%e4%bf%84%e7%be%85%e6%96%af-%e5%a4%ae%e8%a6%96%e5%a5%b3%e4%b8%bb%e6%92%ad%e5%8a%89%e6%ac%a3%e5%a6%99%e8%a9%95)  
 - [尼古拉耶夫軍營被3枚俄軍導彈擊中 約200名烏士兵正熟睡死傷枕籍 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10369812-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e5%b0%bc%e5%8f%a4%e6%8b%89%e8%80%b6%e5%a4%ab%e8%bb%8d%e7%87%9f%e8%a2%ab3%e6%9e%9a%e4%bf%84%e8%bb%8d%e5%b0%8e%e5%bd%88%e6%93%8a%e4%b8%ad-200%e5%90%8d?current_cat=6)  
+- [“人类首次实战使用”！俄军动用高超音速导弹，摧毁乌地下弹药库 -- 央视军事](https://mp.weixin.qq.com/s/5_qUboW75K4EFj6mz2hWaQ)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
