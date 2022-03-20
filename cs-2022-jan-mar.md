@@ -102,5 +102,7 @@
 - [拜登警告中國支援俄羅斯後果 央視女主播劉欣妙評引熱議 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10370003-%e6%8b%9c%e7%99%bb%e8%a6%81%e6%b1%82%e4%b8%ad%e5%9c%8b%e6%8e%a5%e5%8f%97%e5%88%b6%e8%a3%81%e4%bf%84%e7%be%85%e6%96%af-%e5%a4%ae%e8%a6%96%e5%a5%b3%e4%b8%bb%e6%92%ad%e5%8a%89%e6%ac%a3%e5%a6%99%e8%a9%95)  
 - [尼古拉耶夫軍營被3枚俄軍導彈擊中 約200名烏士兵正熟睡死傷枕籍 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10369812-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e5%b0%bc%e5%8f%a4%e6%8b%89%e8%80%b6%e5%a4%ab%e8%bb%8d%e7%87%9f%e8%a2%ab3%e6%9e%9a%e4%bf%84%e8%bb%8d%e5%b0%8e%e5%bd%88%e6%93%8a%e4%b8%ad-200%e5%90%8d?current_cat=6)  
 - [“人类首次实战使用”！俄军动用高超音速导弹，摧毁乌地下弹药库 -- 央视军事](https://mp.weixin.qq.com/s/5_qUboW75K4EFj6mz2hWaQ)  
+- [盧永雄「巴士的點評」大前研一：日本跟風制裁俄 「仰天而唾」。 普京出重武器「匕首」導彈，殺雞用牛刀，震懾北約。 22年3月21日](https://www.youtube.com/watch?v=F5aPdtX3_4M)  
+- [美媒：澤連斯基的最終目標 讓西方摸不著頭腦 -- 深喉](https://www.bastillepost.com/hongkong/article/10372068-%e7%be%8e%e5%aa%92%ef%bc%9a%e6%be%a4%e9%80%a3%e6%96%af%e5%9f%ba%e7%9a%84%e6%9c%80%e7%b5%82%e7%9b%ae%e6%a8%99-%e8%ae%93%e8%a5%bf%e6%96%b9%e6%91%b8%e4%b8%8d%e8%91%97%e9%a0%ad%e8%85%a6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
