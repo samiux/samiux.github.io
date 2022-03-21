@@ -100,5 +100,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 恶人害贤者，犹仰天而唾；唾不至天，还从己堕。逆风扬尘，尘不至彼，还坌己身。贤不可毁，祸必灭己。 -- 佛说四十二章经
 ```
+```
+时间就是金钱，效率就是生命。 -- 中华人民共和国
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
