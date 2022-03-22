@@ -120,6 +120,6 @@
 - [领不到枪却被逼上前线 赴乌外国雇佣兵直呼上当 -- 大公网](http://www.takungpao.com/news/232111/2022/0322/700750.html)  
 - [俄军摧毁乌克兰极右翼组织“顿巴斯营” -- 大公网](http://www.takungpao.com/news/232111/2022/0322/700754.html)  
 - [New Browser-in-the Browser (BITB) Attack Makes Phishing Nearly Undetectable -- The Hacker News](https://thehackernews.com/2022/03/new-browser-in-browser-bitb-attack.html)  
-- [交叉点评】基辅购物中心被摧毁 俄军：乌军将民用设施用作炮兵阵地和军火库](https://www.youtube.com/watch?v=ubtmSntAtWY)  
+- [【交叉点评】基辅购物中心被摧毁 俄军：乌军将民用设施用作炮兵阵地和军火库](https://www.youtube.com/watch?v=ubtmSntAtWY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
