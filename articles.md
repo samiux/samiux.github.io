@@ -45,6 +45,7 @@
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 - [柏格醫生中文 健康知識](https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw)  
+- [星電視快評](/singtaotv_快評.md)  
 
 ## Text  
 
