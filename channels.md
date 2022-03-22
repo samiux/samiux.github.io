@@ -486,6 +486,7 @@
 - [一万盒辉瑞新冠治疗药开始在吉林省使用 -- 大公网](http://www.takungpao.com/news/232108/2022/0322/700860.html)  
 - [梁萬年：香港暫緩全民核酸檢測不是「躺平」 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP623985a8e4b0cd9e1cedc9f4.html)  
 - [【短片】【屈穎妍在線】EP27：如果，你只看到那個廁所……](https://www.youtube.com/watch?v=59yBHJOxV4c)  
+- [** 科技部擬規定：不得向境外提供我國人類遺傳資源 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP6239e8dce4b0cd9e1cee11c7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
