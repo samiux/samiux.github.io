@@ -121,5 +121,6 @@
 - [俄军摧毁乌克兰极右翼组织“顿巴斯营” -- 大公网](http://www.takungpao.com/news/232111/2022/0322/700754.html)  
 - [New Browser-in-the Browser (BITB) Attack Makes Phishing Nearly Undetectable -- The Hacker News](https://thehackernews.com/2022/03/new-browser-in-browser-bitb-attack.html)  
 - [【交叉点评】基辅购物中心被摧毁 俄军：乌军将民用设施用作炮兵阵地和军火库](https://www.youtube.com/watch?v=ubtmSntAtWY)  
+- [** 科技部擬規定：不得向境外提供我國人類遺傳資源 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP6239e8dce4b0cd9e1cee11c7.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
