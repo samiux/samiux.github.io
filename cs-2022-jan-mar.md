@@ -122,5 +122,7 @@
 - [New Browser-in-the Browser (BITB) Attack Makes Phishing Nearly Undetectable -- The Hacker News](https://thehackernews.com/2022/03/new-browser-in-browser-bitb-attack.html)  
 - [【交叉点评】基辅购物中心被摧毁 俄军：乌军将民用设施用作炮兵阵地和军火库](https://www.youtube.com/watch?v=ubtmSntAtWY)  
 - [** 科技部擬規定：不得向境外提供我國人類遺傳資源 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP6239e8dce4b0cd9e1cee11c7.html)  
+- [** 政府宣布暫緩推行全民強制檢測 -- Now TV](https://news.now.com/home/local/player?newsId=470208)  
+- [** 林鄭月娥宣布暫緩全民強制檢測計劃 -- RTHK](https://news.rthk.hk/rthk/ch/component/k2/1640038-20220321.htm)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
