@@ -489,6 +489,8 @@
 - [** 科技部擬規定：不得向境外提供我國人類遺傳資源 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP6239e8dce4b0cd9e1cee11c7.html)  
 - [** 政府宣布暫緩推行全民強制檢測 -- Now TV](https://news.now.com/home/local/player?newsId=470208)  
 - [** 林鄭月娥宣布暫緩全民強制檢測計劃 -- RTHK](https://news.rthk.hk/rthk/ch/component/k2/1640038-20220321.htm)  
+- [* 突发：英媒宣称，研究证实新冠病毒是美国公司制造](https://mp.weixin.qq.com/s/y39k1K7_eIbTiPgDN6LTUw)  
+- [* Scientists claim Covid virus contains tiny chunk of DNA that 'matches sequence patented by Moderna THREE YEARS before pandemic began' -- Daily Mail](https://www.dailymail.co.uk/news/article-10542309/Fresh-lab-leak-fears-study-finds-genetic-code-Covids-spike-protein-linked-Moderna-patent.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
