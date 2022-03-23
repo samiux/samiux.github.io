@@ -487,6 +487,8 @@
 - [梁萬年：香港暫緩全民核酸檢測不是「躺平」 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP623985a8e4b0cd9e1cedc9f4.html)  
 - [【短片】【屈穎妍在線】EP27：如果，你只看到那個廁所……](https://www.youtube.com/watch?v=59yBHJOxV4c)  
 - [** 科技部擬規定：不得向境外提供我國人類遺傳資源 -- 大公文匯](https://www.tkww.hk/a/202203/22/AP6239e8dce4b0cd9e1cee11c7.html)  
+- [** 政府宣布暫緩推行全民強制檢測 -- Now TV](https://news.now.com/home/local/player?newsId=470208)  
+- [** 林鄭月娥宣布暫緩全民強制檢測計劃 -- RTHK](https://news.rthk.hk/rthk/ch/component/k2/1640038-20220321.htm)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
