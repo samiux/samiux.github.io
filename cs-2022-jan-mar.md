@@ -139,5 +139,6 @@
 - [北约峰会前，泽连斯基首次英文讲话怂恿全球人民“上街支持乌克兰” -- 观察者网](https://www.guancha.cn/internation/2022_03_24_631729.shtml)  
 - [加拿大“顶级狙击手”瓦力现身：我没死，但也不是“狙神”，就是个程序员 -- 观察者网](https://www.guancha.cn/internation/2022_03_23_631583.shtml)  
 - [韩国海军陆战队士兵擅自赴乌克兰，韩政府求乌方拦人 -- 观察者网](https://www.guancha.cn/internation/2022_03_23_631592.shtml)  
+- [普京：「不友好國家」購買俄天然氣 將以盧布結算 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10397089-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%b8%b1%e6%99%ae%e4%ba%ac%ef%bc%9a%e3%80%8c%e4%b8%8d%e5%8f%8b%e5%a5%bd%e5%9c%8b%e5%ae%b6%e3%80%8d%e8%b3%bc%e8%b2%b7%e4%bf%84%e5%a4%a9%e7%84%b6%e6%b0%a3%e5%b0%87)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
