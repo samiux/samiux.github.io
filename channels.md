@@ -493,6 +493,7 @@
 - [* Scientists claim Covid virus contains tiny chunk of DNA that 'matches sequence patented by Moderna THREE YEARS before pandemic began' -- Daily Mail](https://www.dailymail.co.uk/news/article-10542309/Fresh-lab-leak-fears-study-finds-genetic-code-Covids-spike-protein-linked-Moderna-patent.html)  
 - [激活長期病患免疫系統　疫苗治癒新冠全球首例 -- 大公文匯](https://www.tkww.hk/a/202203/23/AP623a764ae4b0cd9e1cee3c58.html)  
 - [科兴第三针对老人效果如何？香港数据：预防死亡有效率98% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17263104)  
+- [法研究：新冠恐損男性生育能力 -- 大公文匯](https://www.tkww.hk/a/202203/24/AP623bc381e4b0cd9e1ceef982.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
