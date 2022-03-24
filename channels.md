@@ -494,6 +494,7 @@
 - [激活長期病患免疫系統　疫苗治癒新冠全球首例 -- 大公文匯](https://www.tkww.hk/a/202203/23/AP623a764ae4b0cd9e1cee3c58.html)  
 - [科兴第三针对老人效果如何？香港数据：预防死亡有效率98% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17263104)  
 - [法研究：新冠恐損男性生育能力 -- 大公文匯](https://www.tkww.hk/a/202203/24/AP623bc381e4b0cd9e1ceef982.html)  
+- [美研究人員：疫苗接種者和感染者的新冠抗體水平 存在關鍵差異 -- 深喉](https://www.bastillepost.com/hongkong/article/10394709-%e7%be%8e%e7%a0%94%e7%a9%b6%e4%ba%ba%e5%93%a1%ef%bc%9a%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e8%80%85%e5%92%8c%e6%84%9f%e6%9f%93%e8%80%85%e7%9a%84%e6%96%b0%e5%86%a0%e6%8a%97%e9%ab%94%e6%b0%b4%e5%b9%b3)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
