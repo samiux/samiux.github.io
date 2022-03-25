@@ -498,6 +498,7 @@
 - [张文宏：上海疫情仍在胶着之中，希望在尽量无疏漏筛查的同时能够最小化影响生活 -- 观察者网](https://www.guancha.cn/politics/2022_03_24_631643.shtml)  
 - [張文宏：新冠沒有那麼嚇人　但是仗很難打 -- 大公文匯](https://www.tkww.hk/a/202203/24/AP623bcb28e4b0cd9e1ceeff10.html)  
 - [吳尊友稱Omicron變種病毒危害仍嚴重 不是「大號流感」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10403703-%e5%90%b3%e5%b0%8a%e5%8f%8b%e7%a8%b1omicron%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e5%8d%b1%e5%ae%b3%e4%bb%8d%e5%9a%b4%e9%87%8d-%e4%b8%8d%e6%98%af%e3%80%8c%e5%a4%a7%e8%99%9f%e6%b5%81%e6%84%9f%e3%80%8d)  
+- [** 「齊心抗疫戰新冠」線上分享會（回放） -- 大公文匯](https://www.tkww.hk/a/202203/20/AP6236d0e6e4b0cd9e1cec3a37.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
