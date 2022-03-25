@@ -143,5 +143,6 @@
 - [法國能源巨頭道達爾CEO：俄石油還有替代產品，但天然氣沒有 -- 深喉](https://www.bastillepost.com/hongkong/article/10403597-%e6%b3%95%e5%9c%8b%e8%83%bd%e6%ba%90%e5%b7%a8%e9%a0%ad%e9%81%93%e9%81%94%e7%88%beceo%ef%bc%9a%e4%bf%84%e7%9f%b3%e6%b2%b9%e9%82%84%e6%9c%89%e6%9b%bf%e4%bb%a3%e7%94%a2%e5%93%81%ef%bc%8c%e4%bd%86)  
 - [外国网友质疑泽连斯基拍视频用绿幕，嘲讽拉满... -- 观察者网](https://www.guancha.cn/internation/2022_03_25_631890.shtml)  
 - [乌克兰官方拿叙利亚作比较卖惨引网民暴怒，结果数据还是错的… -- 观察者网](https://www.guancha.cn/internation/2022_03_25_631891.shtml)  
+- [美國氣數盡，龍象共舞迎新秩序 -- 深藍](https://www.bastillepost.com/hongkong/article/10404708-%e7%be%8e%e5%9c%8b%e6%b0%a3%e6%95%b8%e7%9b%a1%ef%bc%8c%e9%be%8d%e8%b1%a1%e5%85%b1%e8%88%9e%e8%bf%8e%e6%96%b0%e7%a7%a9%e5%ba%8f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
