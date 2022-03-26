@@ -18,5 +18,6 @@
 - [15年拍的顿巴斯纪录片遭"封杀" 法国女记者揭露原因](https://mil.news.sina.com.cn/world/2022-03-08/doc-imcwipih7298658.shtml)  
 - [烏俄戰爭想一想 01：Donbass (2016)《頓巴斯》 來自法國記者的紀錄片｜俄羅斯對烏克蘭發兵的藉口「去納粹化」是胡扯？還是西方主流媒體不想讓你知道的真相？](https://www.youtube.com/watch?v=d4LLCmFfaUI)  
 - [* 23年前的今天，北约开始轰炸南联盟 -- 央视军事](https://mp.weixin.qq.com/s/bW4K2tM-IcZtnwAkw9s0ww)  
+- [美國人體實驗觸目驚心　每一幕都是恐怖電影 -- 大公文匯](https://www.tkww.hk/a/202203/26/AP623f29ade4b0cd9e1cf0db26.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
