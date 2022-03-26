@@ -10,6 +10,7 @@
 - [03-18-2022 星電視快評 余非 ：是疫情的倒春寒嗎？談香港情況、中國內地「試行第九版」等](https://www.youtube.com/watch?v=YZhKfqRbtOI)  
 - [03-19-2022 星電視快評 霍詠強 ：新聞會否令人不安？](https://www.youtube.com/watch?v=pAEd4EqLEts)  
 - [03-21-2022 時事觀察 國凱 ：為什麼深港不能直接對比？](https://www.youtube.com/watch?v=PEZHtmOvjsI)  
+- [03-25-2022 星電視快評—余非 ：說「學內地」就要跟進最新變化——談診療方案「第九版」之外的核酸檢測「第三版」](https://www.youtube.com/watch?v=ihWPwbFaSSc)  
 
 # 乌俄冲突
 
