@@ -508,6 +508,7 @@
 - [多國「共存」代價慘痛　解封疫情反彈 -- 大公文匯](https://www.tkww.hk/a/202203/28/AP6240f8fee4b0cd9e1cf17d16.html)  
 - [內地援港醫療物資已逾30億元 -- 大公文匯](https://www.tkww.hk/a/202203/28/AP6240f5b6e4b0cd9e1cf17b30.html)  
 - [歐研究：新冠患者染流感　死亡風險高1.3倍 -- 大公文匯](https://www.tkww.hk/a/202203/27/AP623fb9b0e4b0cd9e1cf0fba1.html)  
+- [3針復必泰或科興對重症或死亡皆有98%保護率 兩者非常接近 未來還可能要打第4針 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10416537-3%e9%87%9d%e5%be%a9%e5%bf%85%e6%b3%b0%e6%88%96%e7%a7%91%e8%88%88%e5%b0%8d%e9%87%8d%e7%97%87%e6%88%96%e6%ad%bb%e4%ba%a1%e7%9a%86%e6%9c%8998%e4%bf%9d%e8%ad%b7%e7%8e%87-%e5%85%a9%e8%80%85%e9%9d%9e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
