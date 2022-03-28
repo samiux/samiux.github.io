@@ -148,5 +148,7 @@
 - [烏克蘭圓點U導彈建奇功 易被攔截 僥倖擊中俄登陸艦 -- 深喉](https://www.bastillepost.com/hongkong/article/10409922-%e7%83%8f%e5%85%8b%e8%98%ad%e5%9c%93%e9%bb%9eu%e5%b0%8e%e5%bd%88%e5%bb%ba%e5%a5%87%e5%8a%9f-%e6%98%93%e8%a2%ab%e6%94%94%e6%88%aa-%e5%83%a5%e5%80%96%e6%93%8a%e4%b8%ad%e4%bf%84%e7%99%bb%e9%99%b8)  
 - [俄罗斯BQ智能手机安卓系统被谷歌停止认证，正测试鸿蒙系统 -- 观察者网](https://www.guancha.cn/internation/2022_03_27_632096.shtml)  
 - [华为回应俄公司测试鸿蒙系统：暂无计划在海外推鸿蒙手机 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17330036)  
+- [網傳烏軍殺俘影片 烏當局承諾立即調查 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10418146-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e7%b6%b2%e5%82%b3%e7%83%8f%e8%bb%8d%e6%ae%ba%e4%bf%98%e7%89%87%e6%ae%b5-%e7%83%8f%e5%85%8b%e8%98%ad%e6%89%bf%e8%ab%be%e7%ab%8b%e5%8d%b3%e8%aa%bf%e6%9f%a5)  
+- [美军方实验室曾把活性炭疽样本“误送”到多国 -- 央视军事](https://mp.weixin.qq.com/s/EVzhYMTDSSW0bifzl2ji_w)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
