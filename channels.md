@@ -505,6 +505,9 @@
 - [日本人為何如此長壽？秘訣與「吃」有很大關係 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10401445-%e6%97%a5%e6%9c%ac%e4%ba%ba%e7%82%ba%e4%bd%95%e5%a6%82%e6%ad%a4%e9%95%b7%e5%a3%bd%ef%bc%9f%e7%a7%98%e8%a8%a3%e8%88%87%e3%80%8c%e5%90%83%e3%80%8d%e6%9c%89%e5%be%88%e5%a4%a7%e9%97%9c%e4%bf%82?current_cat=9)  
 - [** 指上海封城不可行 專家：影響國家甚至全球經濟 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10407814-%e6%8c%87%e4%b8%8a%e6%b5%b7%e5%b0%81%e5%9f%8e%e4%b8%8d%e5%8f%af%e8%a1%8c-%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%bd%b1%e9%9f%bf%e5%9c%8b%e5%ae%b6%e7%94%9a%e8%87%b3%e5%85%a8%e7%90%83%e7%b6%93%e6%bf%9f)  
 - [03-25-2022 星電視快評—余非：說「學內地」就要跟進最新變化——談診療方案「第九版」之外的核酸檢測「第三版」](https://www.youtube.com/watch?v=ihWPwbFaSSc)  
+- [多國「共存」代價慘痛　解封疫情反彈 -- 大公文匯](https://www.tkww.hk/a/202203/28/AP6240f8fee4b0cd9e1cf17d16.html)  
+- [內地援港醫療物資已逾30億元 -- 大公文匯](https://www.tkww.hk/a/202203/28/AP6240f5b6e4b0cd9e1cf17b30.html)  
+- [歐研究：新冠患者染流感　死亡風險高1.3倍 -- 大公文匯](https://www.tkww.hk/a/202203/27/AP623fb9b0e4b0cd9e1cf0fba1.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
