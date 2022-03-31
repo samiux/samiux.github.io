@@ -499,10 +499,7 @@
 - [張文宏：新冠沒有那麼嚇人　但是仗很難打 -- 大公文匯](https://www.tkww.hk/a/202203/24/AP623bcb28e4b0cd9e1ceeff10.html)  
 - [吳尊友稱Omicron變種病毒危害仍嚴重 不是「大號流感」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10403703-%e5%90%b3%e5%b0%8a%e5%8f%8b%e7%a8%b1omicron%e8%ae%8a%e7%a8%ae%e7%97%85%e6%af%92%e5%8d%b1%e5%ae%b3%e4%bb%8d%e5%9a%b4%e9%87%8d-%e4%b8%8d%e6%98%af%e3%80%8c%e5%a4%a7%e8%99%9f%e6%b5%81%e6%84%9f%e3%80%8d)  
 - [** 「齊心抗疫戰新冠」線上分享會（回放） -- 大公文匯](https://www.tkww.hk/a/202203/20/AP6236d0e6e4b0cd9e1cec3a37.html)  
-- [專家解讀：美國豁免352項中國進口商品關稅原因有四 -- 大公文匯](https://www.tkww.hk/a/202203/25/AP623d38c1e4b0cd9e1cefdf30.html)  
-- [俄羅斯稱烏戰事進入新階段 轉向解放頓巴斯 指進攻基輔只是轉移烏軍注意策略 -- 深喉](https://www.bastillepost.com/hongkong/article/10406956-%e4%bf%84%e7%be%85%e6%96%af%e7%a8%b1%e7%83%8f%e6%88%b0%e4%ba%8b%e9%80%b2%e5%85%a5%e6%96%b0%e9%9a%8e%e6%ae%b5-%e8%bd%89%e5%90%91%e8%a7%a3%e6%94%be%e9%a0%93%e5%b7%b4%e6%96%af-%e6%8c%87%e9%80%b2%e6%94%bb)  
 - [屈穎妍爸爸染新冠去世 目睹醫院急救室混亂情況 死人如麻 -- Ariel](https://www.bastillepost.com/hongkong/article/10406981-%e5%b1%88%e7%a9%8e%e5%a6%8d%e7%88%b8%e7%88%b8%e6%9f%93%e6%96%b0%e5%86%a0%e5%8e%bb%e4%b8%96-%e7%9b%ae%e7%9d%b9%e9%86%ab%e9%99%a2%e6%80%a5%e6%95%91%e5%ae%a4%e6%b7%b7%e4%ba%82%e6%83%85%e6%b3%81-%e6%ad%bb)  
-- [日本人為何如此長壽？秘訣與「吃」有很大關係 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10401445-%e6%97%a5%e6%9c%ac%e4%ba%ba%e7%82%ba%e4%bd%95%e5%a6%82%e6%ad%a4%e9%95%b7%e5%a3%bd%ef%bc%9f%e7%a7%98%e8%a8%a3%e8%88%87%e3%80%8c%e5%90%83%e3%80%8d%e6%9c%89%e5%be%88%e5%a4%a7%e9%97%9c%e4%bf%82?current_cat=9)  
 - [** 指上海封城不可行 專家：影響國家甚至全球經濟 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10407814-%e6%8c%87%e4%b8%8a%e6%b5%b7%e5%b0%81%e5%9f%8e%e4%b8%8d%e5%8f%af%e8%a1%8c-%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%bd%b1%e9%9f%bf%e5%9c%8b%e5%ae%b6%e7%94%9a%e8%87%b3%e5%85%a8%e7%90%83%e7%b6%93%e6%bf%9f)  
 - [03-25-2022 星電視快評—余非：說「學內地」就要跟進最新變化——談診療方案「第九版」之外的核酸檢測「第三版」](https://www.youtube.com/watch?v=ihWPwbFaSSc)  
 - [多國「共存」代價慘痛　解封疫情反彈 -- 大公文匯](https://www.tkww.hk/a/202203/28/AP6240f8fee4b0cd9e1cf17d16.html)  
@@ -510,6 +507,7 @@
 - [歐研究：新冠患者染流感　死亡風險高1.3倍 -- 大公文匯](https://www.tkww.hk/a/202203/27/AP623fb9b0e4b0cd9e1cf0fba1.html)  
 - [3針復必泰或科興對重症或死亡皆有98%保護率 兩者非常接近 未來還可能要打第4針 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10416537-3%e9%87%9d%e5%be%a9%e5%bf%85%e6%b3%b0%e6%88%96%e7%a7%91%e8%88%88%e5%b0%8d%e9%87%8d%e7%97%87%e6%88%96%e6%ad%bb%e4%ba%a1%e7%9a%86%e6%9c%8998%e4%bf%9d%e8%ad%b7%e7%8e%87-%e5%85%a9%e8%80%85%e9%9d%9e)  
 - [究竟什么是无症状感染者？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17313698)  
+- [新冠屬濕毒　中醫藥再證奇效 -- 大公文匯](https://www.tkww.hk/a/202203/31/AP6244f1c7e4b0cd9e1cf36943.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
