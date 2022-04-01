@@ -508,6 +508,8 @@
 - [3針復必泰或科興對重症或死亡皆有98%保護率 兩者非常接近 未來還可能要打第4針 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10416537-3%e9%87%9d%e5%be%a9%e5%bf%85%e6%b3%b0%e6%88%96%e7%a7%91%e8%88%88%e5%b0%8d%e9%87%8d%e7%97%87%e6%88%96%e6%ad%bb%e4%ba%a1%e7%9a%86%e6%9c%8998%e4%bf%9d%e8%ad%b7%e7%8e%87-%e5%85%a9%e8%80%85%e9%9d%9e)  
 - [究竟什么是无症状感染者？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_17313698)  
 - [新冠屬濕毒　中醫藥再證奇效 -- 大公文匯](https://www.tkww.hk/a/202203/31/AP6244f1c7e4b0cd9e1cf36943.html)  
+- [又變異？英國已發現637例...... -- 大公文匯](https://www.tkww.hk/a/202204/01/AP6246a2f9e4b06937456a721a.html)  
+- [張竹君：2月兩抵港旅客染Omicron混合病毒XE　未發現流入社區 -- 大公文匯](https://www.tkww.hk/a/202204/01/AP6246c099e4b06937456a85e4.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
