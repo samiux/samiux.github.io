@@ -511,6 +511,7 @@
 - [又變異？英國已發現637例...... -- 大公文匯](https://www.tkww.hk/a/202204/01/AP6246a2f9e4b06937456a721a.html)  
 - [張竹君：2月兩抵港旅客染Omicron混合病毒XE　未發現流入社區 -- 大公文匯](https://www.tkww.hk/a/202204/01/AP6246c099e4b06937456a85e4.html)  
 - [武大研發核檢新方法　20分鐘有結果 -- 大公文匯](https://www.tkww.hk/a/202204/02/AP62479c57e4b06937456ad3e2.html)  
+- [全球首項人體實驗　半數測試者受感染 -- 大公文匯](https://www.tkww.hk/a/202204/02/AP6247af9ae4b06937456ae148.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
