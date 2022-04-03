@@ -6,5 +6,7 @@
 - [俄烏談判「沒突破」 專家：問題在戰場上 第二階段更慘烈 -- 深喉](https://www.bastillepost.com/hongkong/article/10444914-%e4%bf%84%e7%83%8f%e8%ab%87%e5%88%a4%e3%80%8c%e6%b2%92%e7%aa%81%e7%a0%b4%e3%80%8d-%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%95%8f%e9%a1%8c%e5%9c%a8%e6%88%b0%e5%a0%b4%e4%b8%8a-%e7%ac%ac%e4%ba%8c%e9%9a%8e%e6%ae%b5)  
 - [俄烏衝突摧毀德國的傲慢，還有工業4.0 -- 深藍](https://www.bastillepost.com/hongkong/article/10445305-%e4%bf%84%e7%83%8f%e8%a1%9d%e7%aa%81%e6%91%a7%e6%af%80%e5%be%b7%e5%9c%8b%e7%9a%84%e5%82%b2%e6%85%a2%ef%bc%8c%e9%82%84%e6%9c%89%e5%b7%a5%e6%a5%ad4-0)  
 - [普京再出重拳 歐洲恐陷糧食危機 -- 深喉](https://www.bastillepost.com/hongkong/article/10445964-%e6%99%ae%e4%ba%ac%e5%86%8d%e5%87%ba%e9%87%8d%e6%8b%b3-%e6%ad%90%e6%b4%b2%e6%81%90%e9%99%b7%e7%b3%a7%e9%a3%9f%e5%8d%b1%e6%a9%9f)  
+- [霍士新聞金牌主持：制裁是回力鏢 美國可能會有革命 -- 深喉](https://www.bastillepost.com/hongkong/article/10453057-%e9%9c%8d%e5%a3%ab%e6%96%b0%e8%81%9e%e9%87%91%e7%89%8c%e4%b8%bb%e6%8c%81%ef%bc%9a%e5%88%b6%e8%a3%81%e6%98%af%e5%9b%9e%e5%8a%9b%e9%8f%a2-%e7%be%8e%e5%9c%8b%e5%8f%af%e8%83%bd%e6%9c%83%e6%9c%89%e9%9d%a9)  
+- [戴琪國會講話 透露出美國難用關稅針對中國 研究遏華新工具 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10452409-%e6%88%b4%e7%90%aa%e5%9c%8b%e6%9c%83%e8%ac%9b%e8%a9%b1-%e9%80%8f%e9%9c%b2%e5%87%ba%e7%be%8e%e5%9c%8b%e9%9b%a3%e7%94%a8%e9%97%9c%e7%a8%85%e9%87%9d%e5%b0%8d%e4%b8%ad%e5%9c%8b-%e7%a0%94%e7%a9%b6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
