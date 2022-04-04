@@ -513,6 +513,7 @@
 - [全球首項人體實驗　半數測試者受感染 -- 大公文匯](https://www.tkww.hk/a/202204/02/AP6247af9ae4b06937456ae148.html)  
 - [蘇州發現奧密克戎新變異株　與全球已知毒株均不同源 -- 大公文匯](https://www.tkww.hk/a/202204/02/AP624849d6e4b06937456b4883.html)  
 - [椰菜花含減少Omicron Delta病毒複製成分 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10438664-%e6%a4%b0%e8%8f%9c%e8%8a%b1%e5%90%ab%e6%b8%9b%e5%b0%91omicron-delta%e7%97%85%e6%af%92%e8%a4%87%e8%a3%bd%e6%88%90%e5%88%86?current_cat=8)  
+- [中國何時放鬆管控、放開國門？吳尊友回應 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10457869-%e4%b8%ad%e5%9c%8b%e4%bd%95%e6%99%82%e6%94%be%e9%ac%86%e7%ae%a1%e6%8e%a7%e3%80%81%e6%94%be%e9%96%8b%e5%9c%8b%e9%96%80%ef%bc%9f%e5%90%b3%e5%b0%8a%e5%8f%8b%e5%9b%9e%e6%87%89)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
