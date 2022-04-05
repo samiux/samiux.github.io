@@ -26,5 +26,6 @@
 - [俄烏衝突引發金融戰（上） -- 大公文匯](https://www.tkww.hk/a/202203/31/AP6244ffcde4b0cd9e1cf3733b.html)  
 - [烏方稱俄軍撤退後發現410具平民遺體 歐美譴責或將再制裁俄羅斯 俄方否認：烏方自導自演「挑釁」 -- 深喉](https://www.bastillepost.com/hongkong/article/10460822-%e7%83%8f%e6%96%b9%e7%a8%b1%e4%bf%84%e8%bb%8d%e6%92%a4%e9%80%80%e5%be%8c%e7%99%bc%e7%8f%be410%e5%85%b7%e5%b9%b3%e6%b0%91%e9%81%ba%e9%ab%94-%e6%ad%90%e7%be%8e%e8%ad%b4%e8%b2%ac%e6%88%96%e5%b0%87)  
 - [承认了！前线数万乌克兰军人都受过北约训练 -- 央视军事](https://mp.weixin.qq.com/s/MkbJV98ZVkOw2nR-FRgJDA)  
+- [發布至少267名烏士兵投降影片 車臣領袖籲烏軍仿效 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10465355-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e7%99%bc%e5%b8%83267%e5%90%8d%e7%83%8f%e5%a3%ab%e5%85%b5%e6%8a%95%e9%99%8d%e5%bd%b1%e7%89%87-%e8%bb%8a%e8%87%a3%e9%a0%98%e8%a2%96%e7%b1%b2%e7%83%8f?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
