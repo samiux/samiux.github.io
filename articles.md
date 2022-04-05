@@ -46,6 +46,7 @@
 - [一般常識文章結集](/common-sense.md)  
 - [柏格醫生中文 健康知識](https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw)  
 - [星電視](/singtaotv.md)  
+- [2004年，烏克蘭「顏色蝴蝶」又飛到香港 -- 大公文匯](https://www.tkww.hk/s/202204/05/AP624ba173e4b073fe35f12ac3.html)  
 
 ## Text  
 
