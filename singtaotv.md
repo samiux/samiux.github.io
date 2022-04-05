@@ -25,5 +25,6 @@
 - [俄國防部：已確定美參與在烏造生物武器官員名單 -- 大公文匯](https://www.tkww.hk/a/202203/31/AP62452cbae4b0cd9e1cf39168.html)  
 - [俄烏衝突引發金融戰（上） -- 大公文匯](https://www.tkww.hk/a/202203/31/AP6244ffcde4b0cd9e1cf3733b.html)  
 - [烏方稱俄軍撤退後發現410具平民遺體 歐美譴責或將再制裁俄羅斯 俄方否認：烏方自導自演「挑釁」 -- 深喉](https://www.bastillepost.com/hongkong/article/10460822-%e7%83%8f%e6%96%b9%e7%a8%b1%e4%bf%84%e8%bb%8d%e6%92%a4%e9%80%80%e5%be%8c%e7%99%bc%e7%8f%be410%e5%85%b7%e5%b9%b3%e6%b0%91%e9%81%ba%e9%ab%94-%e6%ad%90%e7%be%8e%e8%ad%b4%e8%b2%ac%e6%88%96%e5%b0%87)  
+- [承认了！前线数万乌克兰军人都受过北约训练 -- 央视军事](https://mp.weixin.qq.com/s/MkbJV98ZVkOw2nR-FRgJDA)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
