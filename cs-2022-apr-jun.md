@@ -10,5 +10,8 @@
 - [戴琪國會講話 透露出美國難用關稅針對中國 研究遏華新工具 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10452409-%e6%88%b4%e7%90%aa%e5%9c%8b%e6%9c%83%e8%ac%9b%e8%a9%b1-%e9%80%8f%e9%9c%b2%e5%87%ba%e7%be%8e%e5%9c%8b%e9%9b%a3%e7%94%a8%e9%97%9c%e7%a8%85%e9%87%9d%e5%b0%8d%e4%b8%ad%e5%9c%8b-%e7%a0%94%e7%a9%b6)  
 - [美國3月成功試射高超音速導彈 為防緊張局勢升級 延遲披露 -- 深喉](https://www.bastillepost.com/hongkong/article/10466918-%e7%be%8e%e5%9c%8b3%e6%9c%88%e6%88%90%e5%8a%9f%e8%a9%a6%e5%b0%84%e9%ab%98%e8%b6%85%e9%9f%b3%e9%80%9f%e5%b0%8e%e5%bd%88-%e7%82%ba%e9%98%b2%e7%b7%8a%e5%bc%b5%e5%b1%80%e5%8b%a2%e5%8d%87%e7%b4%9a)  
 - [** 田飛龍 - 新特首與新香港：下半場的開放性 -- 橙新聞](https://www.orangenews.hk/hkviews/1143062/%E7%94%B0%E9%A3%9B%E9%BE%8D%EF%BD%9C%E6%96%B0%E7%89%B9%E9%A6%96%E8%88%87%E6%96%B0%E9%A6%99%E6%B8%AF%EF%BC%9A%E4%B8%8B%E5%8D%8A%E5%A0%B4%E7%9A%84%E9%96%8B%E6%94%BE%E6%80%A7.jhtml)  
+- [美CDC抗疫無方成箭靶　宣布內部審查大整頓 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624ce9ebe4b073fe35f1bd0d.html)  
+- [中方指烏克蘭平民死亡畫面令人不安　須徹查原因 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624cf05de4b073fe35f1c184.html)  
+- [美英澳合製高超音速武器　圖謀壓制中國 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624cf064e4b073fe35f1c187.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
