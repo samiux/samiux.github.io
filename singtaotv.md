@@ -29,5 +29,7 @@
 - [發布至少267名烏士兵投降影片 車臣領袖籲烏軍仿效 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10465355-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e7%99%bc%e5%b8%83267%e5%90%8d%e7%83%8f%e5%a3%ab%e5%85%b5%e6%8a%95%e9%99%8d%e5%bd%b1%e7%89%87-%e8%bb%8a%e8%87%a3%e9%a0%98%e8%a2%96%e7%b1%b2%e7%83%8f?current_cat=6)  
 - [美防長承認：有烏克蘭軍人在美受訓 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624d5c31e4b073fe35f221b3.html)  
 - [俄國防部最新戰報：消滅17個烏軍事目標　包括2個指揮所 -- 大公文匯](https://www.tkww.hk/a/202204/05/AP624c05f8e4b073fe35f16534.html)  
+- [俄羅斯停供德國天然氣 歐盟外長：無法完全禁俄能源 因一個國家反對 -- 深喉](https://www.bastillepost.com/hongkong/article/10470064-%e4%bf%84%e7%be%85%e6%96%af%e5%81%9c%e4%be%9b%e5%be%b7%e5%9c%8b%e5%a4%a9%e7%84%b6%e6%b0%a3-%e6%ad%90%e7%9b%9f%e5%a4%96%e9%95%b7%ef%bc%9a%e7%84%a1%e6%b3%95%e5%ae%8c%e5%85%a8%e7%a6%81%e4%bf%84%e8%83%bd)  
+- [美國經濟學者：在烏克蘭問題和中美關係上，美國應放下自滿 -- 深喉](https://www.bastillepost.com/hongkong/article/10469295-%e7%be%8e%e5%9c%8b%e7%b6%93%e6%bf%9f%e5%ad%b8%e8%80%85%ef%bc%9a%e5%9c%a8%e7%83%8f%e5%85%8b%e8%98%ad%e5%95%8f%e9%a1%8c%e5%92%8c%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82%e4%b8%8a-%e7%be%8e%e5%9c%8b%e6%87%89)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
