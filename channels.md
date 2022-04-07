@@ -514,6 +514,8 @@
 - [蘇州發現奧密克戎新變異株　與全球已知毒株均不同源 -- 大公文匯](https://www.tkww.hk/a/202204/02/AP624849d6e4b06937456b4883.html)  
 - [椰菜花含減少Omicron Delta病毒複製成分 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10438664-%e6%a4%b0%e8%8f%9c%e8%8a%b1%e5%90%ab%e6%b8%9b%e5%b0%91omicron-delta%e7%97%85%e6%af%92%e8%a4%87%e8%a3%bd%e6%88%90%e5%88%86?current_cat=8)  
 - [中國何時放鬆管控、放開國門？吳尊友回應 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10457869-%e4%b8%ad%e5%9c%8b%e4%bd%95%e6%99%82%e6%94%be%e9%ac%86%e7%ae%a1%e6%8e%a7%e3%80%81%e6%94%be%e9%96%8b%e5%9c%8b%e9%96%80%ef%bc%9f%e5%90%b3%e5%b0%8a%e5%8f%8b%e5%9b%9e%e6%87%89)  
+- [英國「與病毒共存」逾月再現疫情高峰 德國認錯：取消「自願隔離」繼續強制隔離 -- 深喉](https://www.bastillepost.com/hongkong/article/10475172-%e8%8b%b1%e5%9c%8b%e3%80%8c%e8%88%87%e7%97%85%e6%af%92%e5%85%b1%e5%ad%98%e3%80%8d%e9%80%be%e6%9c%88%e5%86%8d%e7%8f%be%e7%96%ab%e6%83%85%e9%ab%98%e5%b3%b0-%e5%be%b7%e5%9c%8b%e8%aa%8d%e9%8c%af%ef%bc%9a)  
+- [上海日增近2萬人感染 江蘇浙江兩省提供6萬間隔離房 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10474672-%e4%b8%8a%e6%b5%b7%e6%97%a5%e5%a2%9e%e8%bf%912%e8%90%ac%e4%ba%ba%e6%84%9f%e6%9f%93-%e6%b1%9f%e8%98%87%e6%b5%99%e6%b1%9f%e5%85%a9%e7%9c%81%e6%8f%90%e4%be%9b6%e8%90%ac%e9%96%93%e9%9a%94%e9%9b%a2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
