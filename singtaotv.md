@@ -32,5 +32,6 @@
 - [俄羅斯停供德國天然氣 歐盟外長：無法完全禁俄能源 因一個國家反對 -- 深喉](https://www.bastillepost.com/hongkong/article/10470064-%e4%bf%84%e7%be%85%e6%96%af%e5%81%9c%e4%be%9b%e5%be%b7%e5%9c%8b%e5%a4%a9%e7%84%b6%e6%b0%a3-%e6%ad%90%e7%9b%9f%e5%a4%96%e9%95%b7%ef%bc%9a%e7%84%a1%e6%b3%95%e5%ae%8c%e5%85%a8%e7%a6%81%e4%bf%84%e8%83%bd)  
 - [美國經濟學者：在烏克蘭問題和中美關係上，美國應放下自滿 -- 深喉](https://www.bastillepost.com/hongkong/article/10469295-%e7%be%8e%e5%9c%8b%e7%b6%93%e6%bf%9f%e5%ad%b8%e8%80%85%ef%bc%9a%e5%9c%a8%e7%83%8f%e5%85%8b%e8%98%ad%e5%95%8f%e9%a1%8c%e5%92%8c%e4%b8%ad%e7%be%8e%e9%97%9c%e4%bf%82%e4%b8%8a-%e7%be%8e%e5%9c%8b%e6%87%89)  
 - [斥烏方在布查鎮犯下反人類罪行 聯合國前伊拉克核查員社交帳號被封 -- 深喉](https://www.bastillepost.com/hongkong/article/10477297-%e6%96%a5%e7%83%8f%e6%96%b9%e5%9c%a8%e5%b8%83%e6%9f%a5%e9%8e%ae%e7%8a%af%e4%b8%8b%e5%8f%8d%e4%ba%ba%e9%a1%9e%e7%bd%aa%e8%a1%8c-%e8%81%af%e5%90%88%e5%9c%8b%e5%89%8d%e4%bc%8a%e6%8b%89%e5%85%8b%e6%a0%b8)  
+- [俄烏局勢 - 俄媒發布疑似烏軍近距離射殺俄軍戰俘影片 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10476627-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e4%bf%84%e5%aa%92%e7%99%bc%e5%b8%83%e7%96%91%e4%bc%bc%e7%83%8f%e8%bb%8d%e8%bf%91%e8%b7%9d%e9%9b%a2%e5%b0%84%e6%ae%ba%e4%bf%84%e8%bb%8d%e6%88%b0%e4%bf%98?current_cat=6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
