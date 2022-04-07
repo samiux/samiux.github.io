@@ -13,5 +13,6 @@
 - [美CDC抗疫無方成箭靶　宣布內部審查大整頓 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624ce9ebe4b073fe35f1bd0d.html)  
 - [中方指烏克蘭平民死亡畫面令人不安　須徹查原因 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624cf05de4b073fe35f1c184.html)  
 - [美英澳合製高超音速武器　圖謀壓制中國 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624cf064e4b073fe35f1c187.html)  
+- [華為專利稱冠，任正非準備向美國「收數」 -- 深藍](https://www.bastillepost.com/hongkong/article/10477043-%e8%8f%af%e7%82%ba%e5%b0%88%e5%88%a9%e7%a8%b1%e5%86%a0%ef%bc%8c%e4%bb%bb%e6%ad%a3%e9%9d%9e%e6%ba%96%e5%82%99%e5%90%91%e7%be%8e%e5%9c%8b%e3%80%8c%e6%94%b6%e6%95%b8%e3%80%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
