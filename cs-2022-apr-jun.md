@@ -14,5 +14,6 @@
 - [中方指烏克蘭平民死亡畫面令人不安　須徹查原因 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624cf05de4b073fe35f1c184.html)  
 - [美英澳合製高超音速武器　圖謀壓制中國 -- 大公文匯](https://www.tkww.hk/a/202204/06/AP624cf064e4b073fe35f1c187.html)  
 - [華為專利稱冠，任正非準備向美國「收數」 -- 深藍](https://www.bastillepost.com/hongkong/article/10477043-%e8%8f%af%e7%82%ba%e5%b0%88%e5%88%a9%e7%a8%b1%e5%86%a0%ef%bc%8c%e4%bb%bb%e6%ad%a3%e9%9d%9e%e6%ba%96%e5%82%99%e5%90%91%e7%be%8e%e5%9c%8b%e3%80%8c%e6%94%b6%e6%95%b8%e3%80%8d)  
+- [英國政客威威水水制裁俄羅斯 低下階層淒慘埋單：電費翻倍，家中僅7度，一日煲2次熱水 -- 深喉](https://www.bastillepost.com/hongkong/article/10483137-%e8%8b%b1%e5%9c%8b%e6%94%bf%e5%ae%a2%e5%a8%81%e5%a8%81%e6%b0%b4%e6%b0%b4%e5%88%b6%e8%a3%81%e4%bf%84%e7%be%85%e6%96%af-%e4%bd%8e%e4%b8%8b%e9%9a%8e%e5%b1%a4%e6%b7%92%e6%85%98%e5%9f%8b%e5%96%ae%ef%bc%9a)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
