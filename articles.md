@@ -47,6 +47,8 @@
 - [柏格醫生中文 健康知識](https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw)  
 - [星電視](/singtaotv.md)  
 - [2004年，烏克蘭「顏色蝴蝶」又飛到香港 -- 大公文匯](https://www.tkww.hk/s/202204/05/AP624ba173e4b073fe35f12ac3.html)  
+- [妍之有理 - 原來，要做守法順民這麼難 -- 大公文匯](https://www.tkww.hk/a/202204/07/AP624e3594e4b073fe35f27311.html)  
+- [妍之有理 - 集體不作為 -- 大公文匯](https://www.tkww.hk/a/202204/09/AP6250df06e4b073fe35f3db56.html)  
 
 ## Text  
 
