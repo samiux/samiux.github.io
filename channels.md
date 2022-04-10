@@ -518,6 +518,7 @@
 - [上海日增近2萬人感染 江蘇浙江兩省提供6萬間隔離房 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10474672-%e4%b8%8a%e6%b5%b7%e6%97%a5%e5%a2%9e%e8%bf%912%e8%90%ac%e4%ba%ba%e6%84%9f%e6%9f%93-%e6%b1%9f%e8%98%87%e6%b5%99%e6%b1%9f%e5%85%a9%e7%9c%81%e6%8f%90%e4%be%9b6%e8%90%ac%e9%96%93%e9%9a%94%e9%9b%a2)  
 - [鍾南山：接種不同技術平台新冠疫苗可加強身體免疫反應 -- 大公文匯](https://www.tkww.hk/a/202204/09/AP6250f9b5e4b073fe35f3f64f.html)  
 - [英專家揭「與病毒共存」真相 認「中國抗疫模式解決了西方未解難題」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10489135-%e8%8b%b1%e5%b0%88%e5%ae%b6%e6%8f%ad%e3%80%8c%e8%88%87%e7%97%85%e6%af%92%e5%85%b1%e5%ad%98%e3%80%8d%e7%9c%9f%e7%9b%b8-%e8%aa%8d%e3%80%8c%e4%b8%ad%e5%9c%8b%e6%8a%97%e7%96%ab%e6%a8%a1%e5%bc%8f%e8%a7%a3)  
+- [梁萬年解讀：上海實現動態清零的難度有多大 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10491805-%e6%a2%81%e8%90%ac%e5%b9%b4%e8%a7%a3%e8%ae%80%ef%bc%9a%e4%b8%8a%e6%b5%b7%e5%af%a6%e7%8f%be%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e7%9a%84%e9%9b%a3%e5%ba%a6%e6%9c%89%e5%a4%9a%e5%a4%a7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
