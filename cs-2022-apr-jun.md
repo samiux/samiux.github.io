@@ -19,5 +19,6 @@
 - [世界樂見SWIFT被取代 -- 黃秉華](https://www.bastillepost.com/hongkong/article/10489065-%e4%b8%96%e7%95%8c%e6%a8%82%e8%a6%8bswift%e8%a2%ab%e6%95%b8%e5%ad%97%e5%8c%96%e8%b2%a8%e5%b9%a3%e5%8f%96%e4%bb%a3)  
 - [盧布頂住逆勢反彈 美財部內部分歧：要再推多大制裁才有效而不會內傷？ -- 深喉](https://www.bastillepost.com/hongkong/article/10496266-%e7%9b%a7%e5%b8%83%e9%a0%82%e4%bd%8f%e9%80%86%e5%8b%a2%e5%8f%8d%e5%bd%88-%e7%be%8e%e8%b2%a1%e9%83%a8%e5%85%a7%e9%83%a8%e5%88%86%e6%ad%a7%ef%bc%9a%e8%a6%81%e5%86%8d%e6%8e%a8%e5%a4%9a%e5%a4%a7%e5%88%b6)  
 - [中國4倍速創新超越美國 -- 深藍](https://www.bastillepost.com/hongkong/article/10498573-%e4%b8%ad%e5%9c%8b4%e5%80%8d%e9%80%9f%e5%89%b5%e6%96%b0%e8%b6%85%e8%b6%8a%e7%be%8e%e5%9c%8b)  
+- [解放軍首次「秀肌肉」展示長途戰略空運實力 12架運20搭載FK-3防空導彈到歐洲「送貨上門」 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10504456-%e8%a7%a3%e6%94%be%e8%bb%8d%e9%a6%96%e6%ac%a1%e3%80%8c%e7%a7%80%e8%82%8c%e8%82%89%e3%80%8d%e5%b1%95%e7%a4%ba%e9%95%b7%e9%80%94%e6%88%b0%e7%95%a5%e7%a9%ba%e9%81%8b%e5%af%a6%e5%8a%9b-12%e6%9e%b6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
