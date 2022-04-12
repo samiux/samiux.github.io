@@ -28,6 +28,10 @@ sudo apt install jq zstd rpm2cpio
 git clone https://github.com/niklasb/libc-database
 cd libc-database
 ./get all
+
+or 
+
+./get ubuntu debian
 ```
 
 Samiux    
