@@ -84,10 +84,14 @@
 - [夺旗赛 (CTF) 入门 (二)](/ctf_noob_2.md)
 - [夺旗赛 (CTF) 入门 (三)](/ctf_noob_3.md)
 - [我的「夺旗赛」战斗策略](/pwn-plan.md)
-- [Exploit Development (PWN) Resources](/pwn-resources.md)
 - [给香港夺旗赛协会的一封公开信](/openletter2hkctf.md)  
 - [KB-VULN 系列推介](/kb-vuln.md)  
 - [夺旗赛中的 PWN 会消失吗？！](/no_more_pwn.md)  
+
+#### CTF - PWN/RE
+
+- [PWN and RE on Parrot Security 5.0](/pwn_parrot.md)
+- [Exploit Development (PWN) Resources](/pwn-resources.md)
 - [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
 - [Nightmare - Pwn](https://guyinatuxedo.github.io/)  
 - [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
@@ -97,6 +101,10 @@
 - [Anvbis website - CTF writeups](https://www.anvbis.net/)  
 - [PWN Cheatsheet -- hackmd.io](https://hackmd.io/@u1f383/pwn-cheatsheet)  
 - [PWN Cheatsheet -- Team Eur3kA](https://github.com/Team-Eur3kA/pwn-cheatsheet)  
+
+#### CTF - WEB
+
+- [Portswigger Web Security Academy](https://portswigger.net/web-security/all-materials/detailed)  
 
 ### CyberSecurity Laws
 
