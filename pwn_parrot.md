@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# PWN and RE on Parrot Security 5.0 Preparation
+# PWN and RE on Parrot Security 5.0
 
 Linux Binary Exploitation (PWN) and Reverse Engineering (RE) on Parrot Security 5.0 (Electro Ara) requires to install the following packages (software), they are pwntools, pwndbg and libc-database.  Meanwhile, gdb and Ghidra are already installed on official release.
 
