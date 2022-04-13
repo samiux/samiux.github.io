@@ -103,6 +103,7 @@
 - [PWN Cheatsheet -- hackmd.io](https://hackmd.io/@u1f383/pwn-cheatsheet)  
 - [PWN Cheatsheet -- Team Eur3kA](https://github.com/Team-Eur3kA/pwn-cheatsheet)  
 - [Linux Binary Exploitation -- rosehgal](https://github.com/rosehgal/BinExp)  
+- [x64 Linux Binary Exploitation Training -- srini0x00](https://www.youtube.com/watch?v=gxU3e7GbC-M)  
 
 #### CTF - WEB
 
