@@ -62,6 +62,7 @@
 - [新型网络犯罪攻防技术研究 -- 风起](https://www.anquanke.com/post/id/256016)  
 - [风起](https://www.anquanke.com/member.html?memberId=148652)  
 - [Red Teaming Experiments](https://www.ired.team/)  
+- [penetration Testing with Kali Linux](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)  
 
 ### Defense
 
@@ -88,6 +89,10 @@
 - [给香港夺旗赛协会的一封公开信](/openletter2hkctf.md)  
 - [KB-VULN 系列推介](/kb-vuln.md)  
 - [夺旗赛中的 PWN 会消失吗？！](/no_more_pwn.md)  
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/featured)  
+- [0xRick's Blog](https://0xrick.github.io/)  
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
+- [Useful tips by OTA CTF members](https://github.com/OpenToAllCTF/Tips)  
 
 #### CTF - PWN/RE
 
