@@ -117,6 +117,8 @@
 - [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
 - [PWN methodology — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-methodology-linux/)  
 - [PWN Tips && Tricks — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-tips-tricks-linux/)  
+- [Tutorials for getting started with Pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-tutorial)  
+- [A colleciton of CTF write-ups all using pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-write-ups)  
 
 #### CTF - WEB
 
