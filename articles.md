@@ -109,6 +109,8 @@
 - [Introduction to x64 Linux Binary Exploitation (Part 3)- RoP Chains](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-3-rop-chains-3cdcf17e8826)  
 - [Introduction to x64 Linux Binary Exploitation (Part 4)- Stack Canaries](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-4-stack-canaries-e9b6dd2c3127)  
 - [Introduction to x64 Linux Binary Exploitation (Part 5)- ASLR](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb)  
+- [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
+- [PWN methodology — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-methodology-linux/)  
 
 #### CTF - WEB
 
