@@ -116,6 +116,7 @@
 - [Introduction to x64 Linux Binary Exploitation (Part 5)- ASLR](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb)  
 - [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
 - [PWN methodology — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-methodology-linux/)  
+- [PWN Tips && Tricks — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-tips-tricks-linux/)  
 
 #### CTF - WEB
 
