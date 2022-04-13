@@ -115,6 +115,7 @@
 #### CTF - WEB
 
 - [Portswigger Web Security Academy](https://portswigger.net/web-security/all-materials/detailed)  
+- [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)  
 
 ### CyberSecurity Laws
 
