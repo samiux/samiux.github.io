@@ -27,6 +27,8 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 Points are between 50 and 200 (step by 25).  The higher score the harder in general.  
 
 - [babypwn](/babypwn.md)  - Point 150
+- [q3](/q3.md)  - Point 175
+- [letters_to_space](/letters_to_space.md)  - Point 175
 
 ## Tutorials & Writeups
 
