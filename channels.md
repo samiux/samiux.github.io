@@ -521,6 +521,8 @@
 - [梁萬年解讀：上海實現動態清零的難度有多大 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10491805-%e6%a2%81%e8%90%ac%e5%b9%b4%e8%a7%a3%e8%ae%80%ef%bc%9a%e4%b8%8a%e6%b5%b7%e5%af%a6%e7%8f%be%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e7%9a%84%e9%9b%a3%e5%ba%a6%e6%9c%89%e5%a4%9a%e5%a4%a7)  
 - [上海疫情何時出現拐點？ 專家：理論上10天就能實現社會層面清零 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10497179-%e4%b8%8a%e6%b5%b7%e7%96%ab%e6%83%85%e4%bd%95%e6%99%82%e5%87%ba%e7%8f%be%e6%8b%90%e9%bb%9e%ef%bc%9f-%e5%b0%88%e5%ae%b6%ef%bc%9a%e7%90%86%e8%ab%96%e4%b8%8a10%e5%a4%a9%e5%b0%b1%e8%83%bd%e5%af%a6)   
 - [清零和躺平之間有第三條道路？專家：動態清零是當前最佳選擇 躺平是他國無奈之選 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10508656-%e6%b8%85%e9%9b%b6%e5%92%8c%e8%ba%ba%e5%b9%b3%e4%b9%8b%e9%96%93%e6%9c%89%e7%ac%ac%e4%b8%89%e6%a2%9d%e9%81%93%e8%b7%af%ef%bc%9f%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e6%98%af)  
+- [科興Omicron滅活疫苗在香港獲批臨床 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a891be4b08db9f8477f31.html)  
+- [國藥2款Omicron滅活疫苗獲香港臨床批件　加強針研究將展開 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a6f9ee4b08db9f8476dc4.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
