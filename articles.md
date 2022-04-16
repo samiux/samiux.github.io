@@ -119,6 +119,10 @@
 - [PWN Tips && Tricks — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-tips-tricks-linux/)  
 - [Tutorials for getting started with Pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-tutorial)  
 - [A colleciton of CTF write-ups all using pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-write-ups)  
+- [A Course on Intermediate Level Linux Exploitation -- nnamon](https://github.com/nnamon/linux-exploitation-course)  
+- [return-to-csu: A New Method to Bypass 64-bit Linux ASLR](https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf)  
+- [Exploit 101 - Format Strings](https://axcheron.github.io/exploit-101-format-strings/)  
+- [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
 
 #### CTF - WEB
 
