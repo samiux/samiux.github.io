@@ -11,7 +11,7 @@
 Attachments : [babypwn2](https://github.com/samiux/CTF/raw/main/pwn/babypwn2/babypwn2)  
 Category    : pwn  
 Author      : pwn.college (modified by Samiux)  
-Date        : 2022  
+Date        : Apr 16, 2022  
 Point       : 175   
 
 sha256      : 43520ca6e9f04c876d50bc39b838befe04c5b23a46a087f18cc020dab2211e20 -- babypwn2
