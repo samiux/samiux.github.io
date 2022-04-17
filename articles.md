@@ -131,6 +131,8 @@
 - [https://tokameine.top/2021/08/29/srop1/](https://tokameine.top/2021/08/29/srop1/)  
 - [CTF wiki srop 学习记录-爱代码爱编程](https://icode.best/i/40115745652436)  
 - [SROP](https://www.wangan.com/docs/1081)  
+- [Linux Pwn - 栈溢出与ROP（三）](https://lzeroyuee.cn/2021/03/06/Linux-Pwn-%E6%A0%88%E6%BA%A2%E5%87%BA%E4%B8%8EROP%EF%BC%88%E4%B8%89%EF%BC%89/)  
+- [lzeroyuee's blog](https://lzeroyuee.cn/)  
 
 #### CTF - WEB
 
