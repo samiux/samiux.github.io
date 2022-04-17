@@ -125,6 +125,12 @@
 - [Exploit 101 - Format Strings](https://axcheron.github.io/exploit-101-format-strings/)  
 - [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
 - [CTF Wiki](https://ctf-wiki.org/)  
+- [SROP - Sigreturn Oriented Programming](https://hackmd.io/@imth/SROP)  
+- [SROP exploit](https://xz.aliyun.com/t/5240)  
+- [[原创] SROP分析及例题](https://bbs.pediy.com/thread-258047.htm)  
+- [https://tokameine.top/2021/08/29/srop1/](https://tokameine.top/2021/08/29/srop1/)  
+- [CTF wiki srop 学习记录-爱代码爱编程](https://icode.best/i/40115745652436)  
+- [SROP](https://www.wangan.com/docs/1081)  
 
 #### CTF - WEB
 
