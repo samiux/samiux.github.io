@@ -523,6 +523,7 @@
 - [清零和躺平之間有第三條道路？專家：動態清零是當前最佳選擇 躺平是他國無奈之選 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10508656-%e6%b8%85%e9%9b%b6%e5%92%8c%e8%ba%ba%e5%b9%b3%e4%b9%8b%e9%96%93%e6%9c%89%e7%ac%ac%e4%b8%89%e6%a2%9d%e9%81%93%e8%b7%af%ef%bc%9f%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e6%98%af)  
 - [科興Omicron滅活疫苗在香港獲批臨床 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a891be4b08db9f8477f31.html)  
 - [國藥2款Omicron滅活疫苗獲香港臨床批件　加強針研究將展開 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a6f9ee4b08db9f8476dc4.html)  
+- [美歐爆不明兒童肝炎　部分染新冠 -- 大公文匯](https://www.tkww.hk/a/202204/17/AP625b611ee4b0e2077e87772c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
