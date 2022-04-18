@@ -100,9 +100,9 @@
 
 - [PWN and RE on Parrot Security 5.0](/pwn_parrot.md)
 - [Exploit Development (PWN) Resources](/pwn-resources.md)
+- [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
 - [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
 - [Nightmare - Pwn](https://guyinatuxedo.github.io/)  
-- [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
 - [Linux Heap Exploitation](/ctf-heap.md)  
 - [CTF 的三十道陰影 -- ddaa](https://ithelp.ithome.com.tw/users/20121059/ironman/2810)  
 - [pwntools Cheatsheet -- anvbis](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)  
