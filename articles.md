@@ -51,6 +51,7 @@
 - [妍之有理 - 集體不作為 -- 大公文匯](https://www.tkww.hk/a/202204/09/AP6250df06e4b073fe35f3db56.html)  
 - [妍之有理 - 一巴掌的教育 -- 大公文匯](https://www.tkww.hk/a/202204/13/AP625625bae4b0afec495b1498.html)  
 - [「小心，有間諜！」 從色誘、科技迷到 一隻USB 都可能令你成為外國間諜 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10525657-%e3%80%8c%e5%b0%8f%e5%bf%83%ef%bc%8c%e6%9c%89%e9%96%93%e8%ab%9c%ef%bc%81%e3%80%8d%e4%b8%80%e8%a6%ba%e5%94%94%e6%84%8f%e5%a2%ae%e9%99%b7%e9%98%b1-%e5%85%a7%e5%9c%b0%e5%ae%98%e5%aa%92%e6%8f%adusb)  
+- [國安機構公布多宗典型案例 間諜往往由簡單資料搜集做起 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10529892-%e5%9c%8b%e5%ae%89%e6%a9%9f%e6%a7%8b%e5%85%ac%e5%b8%83%e5%a4%9a%e5%ae%97%e5%85%b8%e5%9e%8b%e6%a1%88%e4%be%8b-%e9%96%93%e8%ab%9c%e5%be%80%e5%be%80%e7%94%b1%e7%b0%a1%e5%96%ae%e8%b3%87%e6%96%99%e6%90%9c)  
 
 ## Text  
 
