@@ -26,5 +26,6 @@
 - [新枪入列！枪界的“变形金刚”长啥样？ -- 央视军事](https://mp.weixin.qq.com/s/VycgsZoT4OpCmzSOR9zWJg)  
 - [今天，一起来“抓间谍”！ -- 央视军事](https://mp.weixin.qq.com/s/QZ7qNbnFjo-izA1PbdVJ6Q)
 - [加强港人国安教育，梁振英购买“斯诺登事件”纪录片版权送400多所中学 -- 观察者网](https://www.guancha.cn/politics/2022_04_18_635581.shtml)  
+- [中俄要聯手打破芯片封鎖 -- 深藍](https://www.bastillepost.com/hongkong/article/10542773-%e4%b8%ad%e4%bf%84%e6%9c%89%e6%9c%9b%e8%81%af%e6%89%8b%e6%89%93%e7%a0%b4%e8%8a%af%e7%89%87%e5%b0%81%e9%8e%96)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
