@@ -524,6 +524,7 @@
 - [科興Omicron滅活疫苗在香港獲批臨床 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a891be4b08db9f8477f31.html)  
 - [國藥2款Omicron滅活疫苗獲香港臨床批件　加強針研究將展開 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a6f9ee4b08db9f8476dc4.html)  
 - [美歐爆不明兒童肝炎　部分染新冠 -- 大公文匯](https://www.tkww.hk/a/202204/17/AP625b611ee4b0e2077e87772c.html)  
+- [福奇：群體免疫概念或不適用於新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202204/17/AP625b999ee4b0e2077e8795c9.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
