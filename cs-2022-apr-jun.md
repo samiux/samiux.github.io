@@ -25,5 +25,6 @@
 - [國安機構公布多宗典型案例 間諜往往由簡單資料搜集做起 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10529892-%e5%9c%8b%e5%ae%89%e6%a9%9f%e6%a7%8b%e5%85%ac%e5%b8%83%e5%a4%9a%e5%ae%97%e5%85%b8%e5%9e%8b%e6%a1%88%e4%be%8b-%e9%96%93%e8%ab%9c%e5%be%80%e5%be%80%e7%94%b1%e7%b0%a1%e5%96%ae%e8%b3%87%e6%96%99%e6%90%9c)  
 - [新枪入列！枪界的“变形金刚”长啥样？ -- 央视军事](https://mp.weixin.qq.com/s/VycgsZoT4OpCmzSOR9zWJg)  
 - [今天，一起来“抓间谍”！ -- 央视军事](https://mp.weixin.qq.com/s/QZ7qNbnFjo-izA1PbdVJ6Q)
+- [加强港人国安教育，梁振英购买“斯诺登事件”纪录片版权送400多所中学 -- 观察者网](https://www.guancha.cn/politics/2022_04_18_635581.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
