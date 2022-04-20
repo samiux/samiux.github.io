@@ -12,6 +12,7 @@
 - [03-21-2022 時事觀察 國凱 ：為什麼深港不能直接對比？](https://www.youtube.com/watch?v=PEZHtmOvjsI)  
 - [03-25-2022 星電視快評—余非 ：說「學內地」就要跟進最新變化——談診療方案「第九版」之外的核酸檢測「第三版」](https://www.youtube.com/watch?v=ihWPwbFaSSc)  
 - [04-08-2022 星電視快評—余非 ：「布查事件」求真相；歐盟自陷危機；別少覷澤連斯基與拜登](https://www.youtube.com/watch?v=rbjLEakBjiw)  
+- [04-18-2022 時事觀察 余非：俄烏爆發戰爭超過 50天，整理碎資料，做階段性歸納](https://www.youtube.com/watch?v=Lt0lPfcksEQ)  
 
 # 乌俄冲突
 
@@ -36,5 +37,6 @@
 - [俄烏局勢 - 俄媒發布疑似烏軍近距離射殺俄軍戰俘影片 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10476627-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e4%bf%84%e5%aa%92%e7%99%bc%e5%b8%83%e7%96%91%e4%bc%bc%e7%83%8f%e8%bb%8d%e8%bf%91%e8%b7%9d%e9%9b%a2%e5%b0%84%e6%ae%ba%e4%bf%84%e8%bb%8d%e6%88%b0%e4%bf%98?current_cat=6)  
 - [從俄羅斯人權理事會成員國資格決議看國際博弈 為什麼這82個國家反對和棄權？ -- 深喉](https://www.bastillepost.com/hongkong/article/10487625-%e5%be%9e%e4%bf%84%e7%be%85%e6%96%af%e4%ba%ba%e6%ac%8a%e7%90%86%e4%ba%8b%e6%9c%83%e6%88%90%e5%93%a1%e5%9c%8b%e8%b3%87%e6%a0%bc%e6%b1%ba%e8%ad%b0%e7%9c%8b%e5%9c%8b%e9%9a%9b%e5%8d%9a%e5%bc%88-%e7%82%ba)  
 - [04-08-2022星電視快評— 余非：「布查事件」求真相；歐盟自陷危機；別少覷澤連斯基與拜登](https://www.youtube.com/watch?v=rbjLEakBjiw)  
+- [04-18-2022 時事觀察 余非：俄烏爆發戰爭超過 50天，整理碎資料，做階段性歸納](https://www.youtube.com/watch?v=Lt0lPfcksEQ)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
