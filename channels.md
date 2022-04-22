@@ -30,6 +30,7 @@
 - [小大夫漫画 -- 澎湃新闻](https://www.thepaper.cn/user_4336968)  
 - [第三份歷史決議全文公布 習近平說明提三重點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9631549-%e7%ac%ac%e4%b8%89%e4%bb%bd%e6%ad%b7%e5%8f%b2%e6%b1%ba%e8%ad%b0%e5%85%a8%e6%96%87%e5%85%ac%e5%b8%83-%e7%bf%92%e8%bf%91%e5%b9%b3%e8%aa%aa%e6%98%8e%e6%8f%90%e4%b8%89%e9%87%8d%e9%bb%9e)  
 - [新枪入列！枪界的“变形金刚”长啥样？ -- 央视军事](https://mp.weixin.qq.com/s/VycgsZoT4OpCmzSOR9zWJg)  
+- [海軍發布首部航母宣傳片 暗示第三艘航母將來臨 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10559614-%e4%ba%ba%e6%b0%91%e6%b5%b7%e8%bb%8d%e7%99%bc%e5%b8%83%e9%a6%96%e9%83%a8%e8%88%aa%e6%af%8d%e4%b8%bb%e9%a1%8c%e5%ae%a3%e5%82%b3%e7%89%87-%e6%9a%97%e7%a4%ba%e7%ac%ac%e4%b8%89%e8%89%98%e8%88%aa%e6%af%8d)  
 
 ## Red Team vs Blue Team  (PLA)  
 
