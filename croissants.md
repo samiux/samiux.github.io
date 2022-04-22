@@ -67,7 +67,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 ## MAIN COMPONENTS
 
-- Suricata 6.0.4  
+- Suricata 6.0.5  
 - Hyperscan 5.2.1 (Ubuntu 20.04)    
 - netdata  
 
