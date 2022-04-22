@@ -29,5 +29,6 @@
 - [中俄要聯手打破芯片封鎖 -- 深藍](https://www.bastillepost.com/hongkong/article/10542773-%e4%b8%ad%e4%bf%84%e6%9c%89%e6%9c%9b%e8%81%af%e6%89%8b%e6%89%93%e7%a0%b4%e8%8a%af%e7%89%87%e5%b0%81%e9%8e%96)  
 - [美國兩州現不明原因兒童肝炎　疾控中心發健康警告 -- 大公文匯](https://www.tkww.hk/a/202204/22/AP6262161ce4b0a46902598954.html)  
 - [英國不明原因幼兒肝炎升至108宗 已排除新冠疫苗關係 -- 深喉](https://www.bastillepost.com/hongkong/article/10559598-%e8%8b%b1%e5%9c%8b%e4%b8%8d%e6%98%8e%e5%8e%9f%e5%9b%a0%e5%b9%bc%e5%85%92%e8%82%9d%e7%82%8e%e5%8d%87%e8%87%b3108%e5%ae%97-%e5%b7%b2%e6%8e%92%e9%99%a4%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e9%97%9c)  
+- [再有大驅入列 北海艦隊「四大金剛」集結 為保衛北京築起牢固反介入力量 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10560033-%e5%86%8d%e6%9c%89%e5%a4%a7%e9%a9%85%e5%85%a5%e5%88%97-%e5%8c%97%e6%b5%b7%e8%89%a6%e9%9a%8a%e3%80%8c%e5%9b%9b%e5%a4%a7%e9%87%91%e5%89%9b%e3%80%8d%e9%9b%86%e7%b5%90-%e7%82%ba%e4%bf%9d%e8%a1%9b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
