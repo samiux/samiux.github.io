@@ -529,6 +529,7 @@
 - [國藥2款Omicron滅活疫苗獲香港臨床批件　加強針研究將展開 -- 大公文匯](https://www.tkww.hk/a/202204/16/AP625a6f9ee4b08db9f8476dc4.html)  
 - [美歐爆不明兒童肝炎　部分染新冠 -- 大公文匯](https://www.tkww.hk/a/202204/17/AP625b611ee4b0e2077e87772c.html)  
 - [福奇：群體免疫概念或不適用於新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202204/17/AP625b999ee4b0e2077e8795c9.html)  
+- [英研究：少於3成新冠患者能在1年後完全康復 「長新冠」成新問題 -- 深喉](https://www.bastillepost.com/hongkong/article/10568515-%e8%8b%b1%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%b0%91%e6%96%bc3%e6%88%90%e6%96%b0%e5%86%a0%e6%82%a3%e8%80%85%e8%83%bd%e5%9c%a81%e5%b9%b4%e5%be%8c%e5%ae%8c%e5%85%a8%e5%ba%b7%e5%be%a9-%e3%80%8c%e9%95%b7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
