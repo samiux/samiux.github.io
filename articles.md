@@ -97,6 +97,7 @@
 - [0xRick's Blog](https://0xrick.github.io/)  
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
 - [Useful tips by OTA CTF members](https://github.com/OpenToAllCTF/Tips)  
+- [CryptoCat](https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ)  
 
 #### CTF - PWN/RE
 
