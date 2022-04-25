@@ -131,6 +131,7 @@
 - [Format String Vulnerability -- qazbnm456](https://github.com/qazbnm456/ctf-course/blob/master/slides/w4/format-string.md)  
 - [Format String CTF Writeup - Curve (PBjar CTF '21)](https://ctftime.org/writeup/30554)  
 - [Leaking Values with printf (Format String Vuln) - Search Engine - [Intigriti 1337UP LIVE CTF 2022] --  CryptoCat](https://www.youtube.com/watch?v=BekVaShD9HE)  
+- [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)  
 
 #### CTF - WEB
 
