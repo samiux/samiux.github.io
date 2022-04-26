@@ -38,5 +38,6 @@
 - [從俄羅斯人權理事會成員國資格決議看國際博弈 為什麼這82個國家反對和棄權？ -- 深喉](https://www.bastillepost.com/hongkong/article/10487625-%e5%be%9e%e4%bf%84%e7%be%85%e6%96%af%e4%ba%ba%e6%ac%8a%e7%90%86%e4%ba%8b%e6%9c%83%e6%88%90%e5%93%a1%e5%9c%8b%e8%b3%87%e6%a0%bc%e6%b1%ba%e8%ad%b0%e7%9c%8b%e5%9c%8b%e9%9a%9b%e5%8d%9a%e5%bc%88-%e7%82%ba)  
 - [04-08-2022星電視快評— 余非：「布查事件」求真相；歐盟自陷危機；別少覷澤連斯基與拜登](https://www.youtube.com/watch?v=rbjLEakBjiw)  
 - [04-18-2022 時事觀察 余非：俄烏爆發戰爭超過 50天，整理碎資料，做階段性歸納](https://www.youtube.com/watch?v=Lt0lPfcksEQ)  
+- [加拿大独立记者实探马里乌波尔：俄罗斯军队被西方指控的“平民万人坑”是假的 -- 观察者网](https://www.guancha.cn/internation/2022_04_26_637035.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
