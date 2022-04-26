@@ -107,7 +107,6 @@
 - [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
 - [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
 - [Nightmare - Pwn](https://guyinatuxedo.github.io/)  
-- [Linux Heap Exploitation](/ctf-heap.md)  
 - [CTF 的三十道陰影 -- ddaa](https://ithelp.ithome.com.tw/users/20121059/ironman/2810)  
 - [pwntools Cheatsheet -- anvbis](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)  
 - [Anvbis website - CTF writeups](https://www.anvbis.net/)  
@@ -142,6 +141,7 @@
 ##### CTF - PWN (Heap - Glibc < 2.31)
 
 - [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
+- [Linux Heap Exploitation](/ctf-heap.md)  
 
 ##### CTF - PWN (Heap - Glibc >= 2.31)
 
