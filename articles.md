@@ -143,7 +143,7 @@
 
 - [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
 
-##### CTF - PWN (Heap - Glibc > 2.31)
+##### CTF - PWN (Heap - Glibc >= 2.31)
 
 - [A repository for learning various heap exploitation techniques](https://github.com/shellphish/how2heap)  
 - [Ubuntu 20.04 Heap Exploitation](https://www.bordergate.co.uk/ubuntu-20-04-heap-exploitation/)  
