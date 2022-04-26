@@ -123,7 +123,7 @@
 - [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
 - [x64 Linux Binary Exploitation Training -- srini0x00](https://www.youtube.com/watch?v=gxU3e7GbC-M)  
 
-##### CTF - PWN (Buffer Overflow)
+##### CTF - PWN (Stack Buffer Overflow)
 
 - [Linux Binary Exploitation -- rosehgal](https://github.com/rosehgal/BinExp)  
 - [Introduction to x64 Linux Binary Exploitation (Part 1)](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)  
