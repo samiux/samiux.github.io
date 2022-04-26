@@ -99,7 +99,7 @@
 - [Useful tips by OTA CTF members](https://github.com/OpenToAllCTF/Tips)  
 - [CryptoCat](https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ)  
 
-#### CTF - PWN/RE
+#### CTF - PWN
 
 - [PWN and RE on Parrot Security 5.0](/pwn_parrot.md)
 - [Exploit Development (PWN) Resources](/pwn-resources.md)
@@ -112,28 +112,37 @@
 - [Anvbis website - CTF writeups](https://www.anvbis.net/)  
 - [PWN Cheatsheet -- hackmd.io](https://hackmd.io/@u1f383/pwn-cheatsheet)  
 - [PWN Cheatsheet -- Team Eur3kA](https://github.com/Team-Eur3kA/pwn-cheatsheet)  
-- [Linux Binary Exploitation -- rosehgal](https://github.com/rosehgal/BinExp)  
+- [PWN methodology — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-methodology-linux/)  
+- [PWN Tips && Tricks — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-tips-tricks-linux/)  
+- [CTF Wiki](https://ctf-wiki.org/)  
+- [lzeroyuee's blog](https://lzeroyuee.cn/)  
+- [Tutorials for getting started with Pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-tutorial)  
+- [A colleciton of CTF write-ups all using pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-write-ups)  
+- [A Course on Intermediate Level Linux Exploitation -- nnamon](https://github.com/nnamon/linux-exploitation-course)  
+- [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
 - [x64 Linux Binary Exploitation Training -- srini0x00](https://www.youtube.com/watch?v=gxU3e7GbC-M)  
+
+##### CTF - PWN (Buffer Overflow)
+
+- [Linux Binary Exploitation -- rosehgal](https://github.com/rosehgal/BinExp)  
 - [Introduction to x64 Linux Binary Exploitation (Part 1)](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)  
 - [Introduction to x64 Linux Binary Exploitation (Part 2)—return into libc](https://valsamaras.medium.com/introduction-to-x64-binary-exploitation-part-2-return-into-libc-c325017f465)  
 - [Introduction to x64 Linux Binary Exploitation (Part 3)- RoP Chains](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-3-rop-chains-3cdcf17e8826)  
 - [Introduction to x64 Linux Binary Exploitation (Part 4)- Stack Canaries](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-4-stack-canaries-e9b6dd2c3127)  
 - [Introduction to x64 Linux Binary Exploitation (Part 5)- ASLR](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb)  
-- [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
-- [PWN methodology — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-methodology-linux/)  
-- [PWN Tips && Tricks — LINUX -- Karol Mazurel](https://pentestmag.com/pwn-tips-tricks-linux/)  
-- [Tutorials for getting started with Pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-tutorial)  
-- [A colleciton of CTF write-ups all using pwntools -- Gallopsled](https://github.com/Gallopsled/pwntools-write-ups)  
-- [A Course on Intermediate Level Linux Exploitation -- nnamon](https://github.com/nnamon/linux-exploitation-course)  
-- [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
-- [CTF Wiki](https://ctf-wiki.org/)  
-- [lzeroyuee's blog](https://lzeroyuee.cn/)  
+
+##### CTF - PWN (Format String)
+
 - [Format String Vulnerability -- qazbnm456](https://github.com/qazbnm456/ctf-course/blob/master/slides/w4/format-string.md)  
 - [Format String CTF Writeup - Curve (PBjar CTF '21)](https://ctftime.org/writeup/30554)  
 - [Leaking Values with printf (Format String Vuln) - Search Engine - [Intigriti 1337UP LIVE CTF 2022] --  CryptoCat](https://www.youtube.com/watch?v=BekVaShD9HE)  
 - [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)  
 
-##### CTF - PWN (Heap - Glibc 2.31+)
+##### CTF - PWN (Heap - Glibc < 2.31)
+
+- [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
+
+##### CTF - PWN (Heap - Glibc > 2.31)
 
 - [A repository for learning various heap exploitation techniques](https://github.com/shellphish/how2heap)  
 - [Ubuntu 20.04 Heap Exploitation](https://www.bordergate.co.uk/ubuntu-20-04-heap-exploitation/)  
