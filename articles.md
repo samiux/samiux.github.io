@@ -101,6 +101,7 @@
 
 #### CTF - PWN
 
+- [PWN and RE on Ubuntu 22.04 LTS](/pwn_ubuntu.md)  
 - [PWN and RE on Parrot Security 5.0](/pwn_parrot.md)
 - [Exploit Development (PWN) Resources](/pwn-resources.md)
 - [CTF - Linux Binary Exploitation](/ctf-pwn.md)  
