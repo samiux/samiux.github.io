@@ -531,6 +531,7 @@
 - [福奇：群體免疫概念或不適用於新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202204/17/AP625b999ee4b0e2077e8795c9.html)  
 - [英研究：少於3成新冠患者能在1年後完全康復 「長新冠」成新問題 -- 深喉](https://www.bastillepost.com/hongkong/article/10568515-%e8%8b%b1%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%b0%91%e6%96%bc3%e6%88%90%e6%96%b0%e5%86%a0%e6%82%a3%e8%80%85%e8%83%bd%e5%9c%a81%e5%b9%b4%e5%be%8c%e5%ae%8c%e5%85%a8%e5%ba%b7%e5%be%a9-%e3%80%8c%e9%95%b7)  
 - [美媒：美國疾控中心曾隱瞞疫情重要線索 近半年後才公開水貂傳人新冠病例 -- 深喉](https://www.bastillepost.com/hongkong/article/10579926-%e7%be%8e%e5%aa%92%ef%bc%9a%e7%be%8e%e5%9c%8b%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e6%9b%be%e9%9a%b1%e7%9e%9e%e7%96%ab%e6%83%85%e9%87%8d%e8%a6%81%e7%b7%9a%e7%b4%a2-%e8%bf%91%e5%8d%8a%e5%b9%b4%e5%be%8c)  
+- [科興奧密克戎株新冠疫苗在國內獲批臨床 -- 大公文匯](https://www.tkww.hk/a/202204/26/AP6267a7fce4b0a469025b9c89.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
