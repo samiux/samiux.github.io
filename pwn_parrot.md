@@ -34,6 +34,21 @@ or
 ./get ubuntu debian
 ```
 
+## Ghidra Installation
+
+Download Ghidra (e.g. ghidra_10.1.3_PUBLIC_20220421.zip) from [official site](https://github.com/NationalSecurityAgency/ghidra/releases).
+
+```
+sudo cp ghidra_10.1.3_PUBLIC_20220421.zip /usr/local/bin
+
+cd /usr/local/bin
+sudo unzip ghidra_10.1.3_PUBLIC_20220421.zip
+
+cd ghidra_10.1.3_PUBLIC
+
+sudo ln -s /usr/local/bin/ghidra_10.1.3_PUBLIC/ghidraRun /usr/local/bin/ghidra
+```
+
 Samiux    
 OSCE  OSCP  OSCE    
 April 12, 2022, China, Hong Kong    
