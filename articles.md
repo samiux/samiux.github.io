@@ -133,6 +133,15 @@
 - [Leaking Values with printf (Format String Vuln) - Search Engine - [Intigriti 1337UP LIVE CTF 2022] --  CryptoCat](https://www.youtube.com/watch?v=BekVaShD9HE)  
 - [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)  
 
+##### CTF - PWN (Heap - Glibc 2.31+)
+
+- [A repository for learning various heap exploitation techniques](https://github.com/shellphish/how2heap)  
+- [Ubuntu 20.04 Heap Exploitation](https://www.bordergate.co.uk/ubuntu-20-04-heap-exploitation/)  
+- [Heap Exploit 2.31](https://github.com/StarCross-Tech/heap_exploit_2.31)  
+- [Hookless - glibc 2.34 -- CTFTime](https://ctftime.org/writeup/31632)  
+- [Educational Heap Exploitation 2.0 (how2heap glibc 2.31)](https://bestwing.me/Education_Heap_Exploit_glibc_2.31.html)  
+- [Heap tricks never get old - Insomni'hack teaser 2022 - glibc 2.23](https://www.synacktiv.com/en/publications/heap-tricks-never-get-old-insomnihack-teaser-2022.html)  
+
 #### CTF - WEB
 
 - [Portswigger Web Security Academy](https://portswigger.net/web-security/all-materials/detailed)  
