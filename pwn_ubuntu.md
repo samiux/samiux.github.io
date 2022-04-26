@@ -2,7 +2,7 @@
 
 # PWN and RE on Ubuntu 22.04 LTS
 
-Linux Binary Exploitation (PWN) and Reverse Engineering (RE) on Ubuntu 22.04 LTSapt requires to install the following packages (software), they are pwntools, pwndbg, libc-database, gdb and Ghidra.  
+Linux Binary Exploitation (PWN) and Reverse Engineering (RE) on Ubuntu 22.04 LTS requires to install the following packages (software), they are pwntools, pwndbg, libc-database, gdb and Ghidra.  
 
 ## pwntools Installation
 
