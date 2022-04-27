@@ -13,6 +13,7 @@
 - [03-25-2022 星電視快評—余非 ：說「學內地」就要跟進最新變化——談診療方案「第九版」之外的核酸檢測「第三版」](https://www.youtube.com/watch?v=ihWPwbFaSSc)  
 - [04-08-2022 星電視快評—余非 ：「布查事件」求真相；歐盟自陷危機；別少覷澤連斯基與拜登](https://www.youtube.com/watch?v=rbjLEakBjiw)  
 - [04-18-2022 時事觀察 余非：俄烏爆發戰爭超過 50天，整理碎資料，做階段性歸納](https://www.youtube.com/watch?v=Lt0lPfcksEQ)  
+- [04-25-2022 時事觀察 余非：偵察炒作、與反炒作以嶺藥業（連花清瘟）事件，有重要發現](https://www.youtube.com/watch?v=wmItzP4EpkM)  
 
 # 乌俄冲突
 
