@@ -4,7 +4,7 @@
 
 因为大多数的 Linux Binary Exploitation (Pwn) 夺旗赛 (CTF) 题目都是源于 Ubuntu 的库 (glibc) 来编译的，而大多数玩家都会在 Ubuntu 内进行解题和利用开发 (Exploit Development) 。虚拟机器有助利用开发者 (玩家) 在原有的操作系统上运行 Ubuntu 进行解题。
 
-如果有朋友对 Ubuntu 和虚拟机器没有经验的话，你必须去尝试安装 Ubuntu 在虚拟机器里。然后尝试使用 Linux 的命令行指令，例如 cd、ls、chmod、nano 等。在虚拟机器方面我比较喜欢使用开源工具，例如 Virtualbox。至于如何安装 Ubuntu，可以参考官方网站。
+如果有朋友对 Ubuntu 和虚拟机器没有经验的话，你必须去尝试安装 Ubuntu 在虚拟机器里。然后尝试使用 Linux 的命令行指令，例如 cd、ls、chmod、nano 等。在虚拟机器方面我比较喜欢使用开源工具，例如 Virtualbox。至于如何安装 Ubuntu 和 Virtualbox，可以参考 Ubuntu 官方网站。
 
 在开始之前，必须在 Ubuntu 里安装所需的工具，它们就是 gdb、git、pwndbg、pwntools、ghidra 和 libc-database。
 
