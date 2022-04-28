@@ -8,7 +8,7 @@
 
 在开始之前，必须在 Ubuntu 里安装所需的工具，它们就是 gdb、git、pwndbg、pwntools、ghidra 和 libc-database。
 
-gdb 是 Linux debugger；pwndbg 是 gdb 的附加工具有助于利用开发；ghidra 是 decompiler；而 libc-database 是 glibc 的所有知名 Linux 版本的库，最新的版本是 libc-2.35。安装 libc-database 极需时，请耐心等候。现附上安装这些工具的连结，虽然是关于 Ubuntu 22.04 LTS 的，但操作过程是大同小异的。其连结如下 ：
+gdb 是 Linux debugger；pwndbg 是 gdb 的附加工具 (Plug-in) 有助于利用开发；ghidra 是 decompiler；而 libc-database 是 glibc 的所有知名 Linux 版本的库，最新的版本是 libc-2.35。安装 libc-database 极需时，请耐心等候。现附上安装这些工具的连结，虽然是关于 Ubuntu 22.04 LTS 的，但操作过程是大同小异的。其连结如下 ：
 
 - [PWN and RE on Ubuntu 22.04 LTS](https://samiux.github.io/pwn_ubuntu.html)   
 
