@@ -34,5 +34,6 @@
 - [外媒：英農場用奴隸制榨壓烏克蘭難民 美3月扣押5千多人接收僅12人 -- 深喉](https://www.bastillepost.com/hongkong/article/10585961-%e5%a4%96%e5%aa%92%ef%bc%9a%e8%8b%b1%e8%be%b2%e5%a0%b4%e7%94%a8%e5%a5%b4%e9%9a%b8%e5%88%b6%e6%a6%a8%e5%a3%93%e7%83%8f%e5%85%8b%e8%98%ad%e9%9b%a3%e6%b0%91-%e7%be%8e3%e6%9c%88%e6%89%a3%e6%8a%bc5)  
 - [多名俄羅斯能源富商慘死惹猜疑 -- 大公文匯](https://www.tkww.hk/a/202204/27/AP62687d58e4b0a469025bdf76.html)  
 - [领跑世界+领航世界：5G与北斗导航融合发展意味着什么？ -- 观察者网](https://www.guancha.cn/dengzhongliang/2022_04_27_637068.shtml)  
+- [** 盧永雄「巴士的點評」歐議員：針對中國的敵意是精心策劃的。 英國外相妄言「北約也應該保護台灣」，中國也可以去保護想獨立的北愛和蘇格蘭嗎? 22年4月28日](https://www.youtube.com/watch?v=7k2Wwnh-nfo)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
