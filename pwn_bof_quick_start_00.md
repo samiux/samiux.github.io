@@ -8,11 +8,11 @@
 
 在开始之前，必须在 Ubuntu 里安装所需的工具，它们就是 gdb、git、pwndbg、pwntools、ghidra 和 libc-database。
 
-gdb 是 Linux debugger；pwndbg 是 gdb 的附加工具 (Plug-in) 有助于利用开发；ghidra 是 decompiler；而 libc-database 是 glibc 的所有知名 Linux 版本的库，最新的版本是 libc-2.35。安装 libc-database 极需时，请耐心等候。现附上安装这些工具的连结，虽然是关于 Ubuntu 22.04 LTS 的，但操作过程是大同小异的。其连结如下 ：
+gdb 是 Linux debugger；pwndbg 是 gdb 的附加工具 (Plug-in) 有助于利用开发；ghidra 是 decompiler；而 libc-database 是 glibc 的所有知名 Linux 版本的库，最新的版本是 libc-2.35.so。安装 libc-database 极需时，请耐心等候。现附上安装这些工具的连结，虽然是关于 Ubuntu 22.04 LTS 的，但操作过程是大同小异的。其连结如下 ：
 
 - [PWN and RE on Ubuntu 22.04 LTS](https://samiux.github.io/pwn_ubuntu.html)   
 
-Ubuntu 18.04.6 LTS 是 libc-2.27；Ubuntu 20.04.4 LTS 是 libc-2.31；而最新版本的 Ubuntu 22.04 LTS 是 libc-2.35。基本上如果没有特别声明，我将会使用 Ubuntu Desktop 20.04.4 LTS 作示范觧说。
+Ubuntu 18.04.6 LTS 是 libc-2.27.so；Ubuntu 20.04.4 LTS 是 libc-2.31.so；而最新版本的 Ubuntu 22.04 LTS 是 libc-2.35.so。基本上如果没有特别声明，我将会使用 Ubuntu Desktop 20.04.4 LTS 作示范觧说。
 
 如果你有编程经验的话，在利用开发的过程中你会比较会得心应手的。因为在 Python 脚本 (Script) 的编写和 C 语言的源码和伪码 (Pseudo code) 的阅读和理觧时比较有优势。
 
