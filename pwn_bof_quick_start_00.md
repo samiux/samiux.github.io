@@ -2,7 +2,7 @@
 
 # Linux 栈溢出夺旗赛入门速成技巧 - 第零天 -- 工具安装和使用
 
-因为大多数的 Pwn 题目都是源于 Ubuntu 的库 (glibc) 来编译的，而大多数玩家都会在 Ubuntu 内进行解题和利用开发 (Exploit Development) 。虚拟机器有助利用开发者 (玩家) 在原有的操作系统上运行 Ubuntu 进行解题。
+因为大多数的 Linux Binary Exploitation (Pwn) 夺旗赛 (CTF) 题目都是源于 Ubuntu 的库 (glibc) 来编译的，而大多数玩家都会在 Ubuntu 内进行解题和利用开发 (Exploit Development) 。虚拟机器有助利用开发者 (玩家) 在原有的操作系统上运行 Ubuntu 进行解题。
 
 如果有朋友对 Ubuntu 和虚拟机器没有经验的话，你必须去尝试安装 Ubuntu 在虚拟机器里。然后尝试使用 Linux 的命令行指令，例如 cd、ls、chmod、nano 等。在虚拟机器方面我比较喜欢使用开源工具，例如 Virtualbox。至于如何安装 Ubuntu，可以参考官方网站。
 
@@ -18,7 +18,7 @@ Ubuntu 18.04.6 LTS 是 libc-2.27；Ubuntu 20.04.4 LTS 是 libc-2.31；而最新�
 
 至于 Ghidra 的使用可以参考官方网站的视频。而 Python3、gdb 和 pwngdb 的使用方法请在互联网上搜索一下教程学习，现在不在此详细描述了。pwntools 的使用方法请参考官方文档和快速入门。
 
-在未来的数天里，我将会向各位朋友介绍一些 Linux Binary Exploitation (Pwn) 夺旗赛 (CTF) 基本入门速成技巧，其内容只涉及栈溢出 (Stack Buffer Overflow)，至于其他较高级的内容并不会触碰的。敬请理觧。
+在未来的数天里，我将会向各位朋友介绍一些 Linux Binary Exploitation (Pwn) 夺旗赛基本入门速成技巧，其内容只涉及栈溢出 (Stack Buffer Overflow)，至于其他较高级的内容并不会触碰的。敬请理觧。
 
 Samiux   
 OSCE  OSCP  OSWP   
