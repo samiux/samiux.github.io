@@ -251,6 +251,7 @@
 - [【追趕美國】「北京3號」衛星只用42秒   就拍下美國城市高清圖像 -- ezone](https://ezone.ulifestyle.com.hk/article/3142992/%E3%80%90%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E3%80%91%E3%80%8C%E5%8C%97%E4%BA%AC3%E8%99%9F%E3%80%8D%E8%A1%9B%E6%98%9F%E5%8F%AA%E7%94%A842%E7%A7%92%C2%A0%C2%A0%20%E5%B0%B1%E6%8B%8D%E4%B8%8B%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AB%98%E6%B8%85%E5%9C%96%E5%83%8F)  
 - [中国芯片重大突破　首款电力专用芯片“伏羲”研发成功 -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60276468/%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%E9%A6%96%E6%AC%BE%E7%94%B5%E5%8A%9B%E4%B8%93%E7%94%A8%E8%8A%AF%E7%89%87%E4%BC%8F%E7%BE%B2%E7%A0%94%E5%8F%91%E6%88%90%E5%8A%9F)  
 - [破“卡脖子”难题 中国半导体装备再添重器 -- 多维新闻](https://www.dwnews.com/%E7%BB%8F%E6%B5%8E/60265517/%E7%A0%B4%E5%8D%A1%E8%84%96%E5%AD%90%E9%9A%BE%E9%A2%98%E4%B8%AD%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A3%85%E5%A4%87%E5%86%8D%E6%B7%BB%E9%87%8D%E5%99%A8)  
+- [领跑世界+领航世界：5G与北斗导航融合发展意味着什么？ -- 观察者网](https://www.guancha.cn/dengzhongliang/2022_04_27_637068.shtml)  
 
 ## Misc.
 
