@@ -40,6 +40,7 @@
 - [火蓝刀锋（下）：决战北疆战场！看解放军猛虎旅百里出征 兵临城下！「国防故事」- 军迷天下](https://www.youtube.com/watch?v=TD6f7j0zkY8)  
 - [《国防故事》新型陆军向前进 (全六集)](/modern_pla.md)  
 - [《强军》 全第八集](/powerful_forces.md)  
+- [1小时独家呈现！直击中国军舰“下饺子”：辽宁舰 拉萨舰等大批舰艇公开最新消息 全面感受大国海军的硬核发展！ -- 军迷天下](https://www.youtube.com/watch?v=nZRkofrC1hg)  
 
 ## China Police Story
 
