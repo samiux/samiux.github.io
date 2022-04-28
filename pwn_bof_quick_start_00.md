@@ -6,7 +6,7 @@
 
 如果有朋友对 Ubuntu 和虚拟机器没有经验的话，你必须去尝试安装 Ubuntu 在虚拟机器里。然后尝试使用 Linux 的命令行指令，例如 cd、ls、chmod、nano 等。在虚拟机器方面我比较喜欢使用开源工具，例如 Virtualbox。至于如何安装 Ubuntu，可以参考官方网站。
 
-在开始之前，必须安装所需的工具在 Ubuntu 里。它们就是 gdb、git、pwndbg、pwntools、ghidra 和 libc-database。
+在开始之前，必须在 Ubuntu 里安装所需的工具，它们就是 gdb、git、pwndbg、pwntools、ghidra 和 libc-database。
 
 gdb 是 Linux debugger；pwndbg 是 gdb 的附加工具有助利用开发；ghidra 是 decompiler；而 libc-database 是 glibc 的所有知名 Linux 版本的库，最新的版本是 libc-2.35。在安装 libc-database 极需时，请耐心等候。现附上安装这些工具的连结，虽然是关于 Ubuntu 22.04 LTS 的，但操作过程是大同小异的。其连结如下 ：
 
