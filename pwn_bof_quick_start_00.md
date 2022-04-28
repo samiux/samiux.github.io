@@ -30,7 +30,7 @@ OSCE  OSCP  OSWP
 - [在 Virtualbox 安装 Ubuntu](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)   
 - [Ghidra 的使用视频](https://ghidra-sre.org)   
 - [pwndbg 官网](https://github.com/pwndbg/pwndbg)   
-- [pwndbg 官方文档](https://browserpwndg.readthedocs.io/en/docs/)   
+- [pwndbg 官方文档](https://browserpwndbg.readthedocs.io/en/docs/)   
 - [gdb 教学](https://www.tutorialspoint.com/gnu_debugger/index.htm)   
 - [pwntools 官网](https://github.com/Gallopsled/pwntools)   
 - [pwntools 官方文档](https://docs.pwntools.com/en/stable/)   
