@@ -16,7 +16,7 @@ Ubuntu 18.04.6 LTS 是 libc-2.27.so；Ubuntu 20.04.4 LTS 是 libc-2.31.so；而�
 
 如果你有编程经验的话，在利用开发的过程中你会比较会得心应手的，因为在 Python3 脚本 (Script) 的编写和 C 语言的源码和伪码 (Pseudo-code) 的阅读和理觧时比较有优势。
 
-至于 Ghidra 的使用可以参考官方网站的视频。而 Python3、gdb 和 pwngdb 的使用方法请在互联网上搜索一下教程学习，现在不在此详细描述了。pwntools 的使用方法请参考官方文档和快速入门。
+至于 Ghidra 的使用可以参考官方网站的视频。而 Python3、gdb 和 pwndbg 的使用方法请在互联网上搜索一下教程学习，现在不在此详细描述了。pwntools 的使用方法请参考官方文档和快速入门。
 
 在未来的数天里，我将会向各位朋友介绍一些 Linux Binary Exploitation (Pwn) 夺旗赛基本入门速成技巧，其内容只涉及栈溢出 (Stack Buffer Overflow)，至于其他较高级的内容并不会触碰的。敬请理觧。
 
