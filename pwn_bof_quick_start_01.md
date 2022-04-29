@@ -48,7 +48,10 @@ echo 2 | sudo tee /proc/sys/kernel/randomize_va_space
 
 例如 ：
 ```
-printf_leak = elf.got.printf
+...
+rop.puts(elf.got.printf)
+...
+
 libc.address = printf_leak - libc.sym.printf
 ```
 
