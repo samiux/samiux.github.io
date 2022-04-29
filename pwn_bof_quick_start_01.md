@@ -2,7 +2,7 @@
 
 # Linux 栈溢出夺旗赛入门速成技巧 - 第一天 -- 基础知识
 
-Linux 二进制执行档 (Binary File) 的格式是 Executable and Linkable Format (ELF)，在编译和链接时可以加入安全机制，而在现代的 GCC 及 Glibc 版本下的安全机制是默认开启的。它们分别是 RELRO、Canary、NX 和 PIE。
+Linux 二进制执行档 (Binary File) 的格式是可执行与可链接格式 (Executable and Linkable Format,ELF)，在编译和链接时可以加入安全机制，而在现代的 GCC 及 Glibc 版本下的安全机制是默认开启的。它们分别是 RELRO、Canary、NX 和 PIE。
 
 ## 储存区唯读 (Relocation Read-Only,  RELRO)
 
