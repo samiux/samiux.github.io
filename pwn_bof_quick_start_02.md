@@ -297,7 +297,7 @@ log.success(f'Flag: {p.recvline().decode("utf-8")}')
 ```
 
 
-## 执行如果
+## 执行結果
 
 ```
 python3 exploit.py
