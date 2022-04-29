@@ -6,7 +6,7 @@ Linux 二进制执行档 (Binary File) 的格式是 Executable and Linkable Form
 
 ## 储存区唯读 (Relocation Read-Only,  RELRO)
 
-全局偏移表 (Global Offset Table, GOT) - 是一个执行档的段落 (Section)，主要纪录在动态链接 (Dynamic Link) 时的每个程序中的函数 (Function) 的载入位址。
+全局偏移表 (Global Offset Table, GOT) 是一个执行档的段落 (Section)，主要纪录在动态链接 (Dynamic Link) 时的每个程序中的函数 (Function) 的载入位址。
 
 如果 RELRO 是启动 (Enabled) 的话，全局偏移表 (GOT) 是唯读的。
 
