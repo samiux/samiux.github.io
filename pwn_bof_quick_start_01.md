@@ -14,19 +14,19 @@ Linux 二进制执行档 (Binary File) 的格式是可执行与可链接格式 (
 
 如果是启动 (Enabled) 的话，栈 (Stack) 底会设置一个随机的 Canary 值。如果侦测其为被改变的话，栈溢出的利用就会不成功，并显示 Stack Smashing Detected 讯息。如果未能事先获得 Canary 的值，在栈溢出利用时必定会失败。
 
-在编译时可以手动不启动 (Diabled)，```-fno-stack-protector```。
+在编译时可以手动不启动 (Disabled)，```-fno-stack-protector```。
 
 ## 不能执行 (No-eXecute, NX)
 
 如果是启动 (Enabled) 的话，栈就不能执行程序，而令致利用失败。
 
-在编译时可以手动不启动 (Diabled)，```-z execstack```。
+在编译时可以手动不启动 (Disabled)，```-z execstack```。
 
 ## 位址执行随机化 (Position Independent Executables, PIE)
 
 如果是启动 (Enabled) 的话，执行档及库每次运行时的载入位址随机化，使得大大增加利用的难度。
 
-在编译时可以手动不启动 (Diabled)，```-no-pie -fPIE```。
+在编译时可以手动不启动 (Disabled)，```-no-pie -fPIE```。
 
 另外，在程序编译时默认地址空间配置随机加载 (Address Space Layout Randomization, ASLR) 是启动的，但可以手动不启动 (Disabled)，```-fno-stack-protector -z execstack```。
 
