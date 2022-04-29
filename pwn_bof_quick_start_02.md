@@ -318,7 +318,7 @@ python3 exploit.py
 
 ```
 
-如果获得 Shell 及展示 flag.txt ：
+结果获得 Shell 及展示 flag.txt ：
 
 ```
 ACSC{GCC_d1dn'7_sh0w_w4rn1ng_f0r_1mpl1c17_7yp3_c0nv3rs10n}
