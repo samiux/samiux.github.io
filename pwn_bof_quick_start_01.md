@@ -81,6 +81,8 @@ cyclic --offset laaa
 
 在开发时，我们会利用 pwntools 这个工具，它可以大大减轻我们的开发时间，而且开发过程会变得更简单轻鬆，更会大大缩短工序增加效率，更加突出的优点是开发者对汇编语言 (Assemble Language) 的知识要求相对比较低。
 
+在一般的情况下 (Canary 关闭时和 NX 及 PIE 开启时)，如果一个执行档在任何版本的 libc 库运行，而利用脚本在不经修改的情况下还能够正常运作，这就是所谓可靠的利用 (Reliable Exploit) 了。
+
 Samiux   
 OSCE  OSCP  OSWP   
 二零二二年四月卅日，中国香港   
