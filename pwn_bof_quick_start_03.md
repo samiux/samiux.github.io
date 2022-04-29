@@ -21,7 +21,7 @@
 - [Introduction to x64 Linux Binary Exploitation (Part 4) - Stack Canaries](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-4-stack-canaries-e9b6dd2c3127)  
 - [Introduction to x64 Linux Binary Exploitation (Part 5) - ASLR](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb)  
 
-最后，我邀请你参与我所建立的[挑战](/ctf-pwn.md)。
+最后，我邀请你参与我所建立的[挑战](/ctf-pwn.md)，一同进步。
 
 ```「教为战、练为战。」-- 习近平```
 
