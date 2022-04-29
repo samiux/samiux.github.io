@@ -12,7 +12,7 @@ Linux 二进制执行档 (Binary File) 的格式是可执行与可链接格式 (
 
 ## 金丝雀 (Canary)
 
-如果是启动 (Enabled) 的话，栈 (Stack) 底会设置一个随机的 Canary 值。如果侦测其为被改变的话，栈溢出的利用就不成功，并显示 Stack Smashing Detected 讯息。如果未能事先获得 Canary 的值，在栈溢出利用时必定会失败。
+如果是启动 (Enabled) 的话，栈 (Stack) 底会设置一个随机的 Canary 值。如果侦测其为被改变的话，栈溢出的利用就会不成功，并显示 Stack Smashing Detected 讯息。如果未能事先获得 Canary 的值，在栈溢出利用时必定会失败。
 
 在编译时可以手动不启动 (Diabled)，```-fno-stack-protector```。
 
