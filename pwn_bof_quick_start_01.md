@@ -58,7 +58,7 @@ echo 2 | sudo tee /proc/sys/kernel/randomize_va_space
 cyclic 50
 ```
 
-输入之前建构的字符使程序崩溃，如果程序能够崩溃的话，表明字符足够使程序崩溃，而且程序是存在栈溢出漏洞，之后查看 RBP 的值 (必须是 4 bits) 然后计算偏移值 ：
+输入之前建构的字符使程序崩溃，如果程序能够崩溃的话，表明字符足够使程序崩溃，而且程序是存在栈溢出漏洞，之后查看 RSP 的值 (必须是 4 bits) 然后计算偏移值 ：
 
 ```
 cyclic --offset laaa
