@@ -6,15 +6,11 @@
 
 现采用 ACSC 2021 夺旗赛其中一个题目 filtered 作示范例子。这条题目提供了源码作分析用途。
 
-香港其中一队夺旗赛战队黑荆在优兔 (Youtube) 提供了这一题目的广东话教学和源码下载。这个多小时的教学讲觧了如何觧题和进行利用开发。
-
-现在我用一个比较新鲜的方法去进行这道题的觧题和进行开发，比较后你会发现与黑荆战队的有些差别。我的方法是尽用 pwntools 的功能来简化利用开发的程序。而且在一般的情况下 (Canary 关闭时和 NX 及 PIE 开启时)，如果一个执行档在任何版本的 libc 库运行，而利用脚本在不经修改的情况下还能够正常运作，这就是所谓可靠的利用 (Reliable Exploit) 了。
-
 利用开发环境是 Ubuntu Desktop 20.04.4 LTS。
 
 ## 编译
 
-如果你没有下载其二进制执行档的话，你可以用以下的源码进行编译。
+你可以用以下的源码进行编译。
 
 ```
 gcc -fno-stack-protector -no-pie -fPIE filtered.c -o filtered
@@ -330,8 +326,5 @@ OSCE  OSCP  OSWP
 二零二二年五月一日，中国香港   
 
 ### 参考资料 ：
-
-- [PWN 101 - Buffer Overflow 「广东话 CTF 新手教学」-- Black Bauhinia 黑荆战队](https://www.youtube.com/watch?v=Ag0OcqbVggc)   
-- [ACSC 2021 filtered 下载](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEhPWE9sUFU1OEZBZFFJaWNVbG5qZkhWdnpkUXxBQ3Jtc0trQ0NqTnRoSmU0ZTQ3eUJFM1AwcDl4V3BHRWxEOUo5bjhBbG5rMTFhWF8xc2JlWnY3WDh2TXR6UmxVYW1KQkptdFk0MWhTeTMyMlRNWjQ0MERQbWdMeHpFUmRmZWZsUGdnVS1wenlJaDg3T19QTDFuWQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1YwFlz9fUE4KD_Jkv3psqtyknmf_otrsX&v=Ag0OcqbVggc)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
