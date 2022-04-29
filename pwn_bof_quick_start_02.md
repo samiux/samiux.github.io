@@ -95,10 +95,10 @@ pwn checksec filtered
 ```
 [*] '/home/samiux/filtered/filtered'
     Arch:     amd64-64-little
-    RELRO:    Full RELRO
+    RELRO:    Partial RELRO
     Stack:    No canary found
     NX:       NX enabled
-    PIE:      PIE enabled
+    PIE:      No PIE (0x400000)
 ```
 
 ## 查看这个执行档的资讯
