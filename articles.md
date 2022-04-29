@@ -207,6 +207,7 @@
 
 - [Linux 栈溢出夺旗赛入门速成技巧 - 第零天 -- 工具安装和使用](pwn_bof_quick_start_00.md)  
 - [Linux 栈溢出夺旗赛入门速成技巧 - 第一天 -- 基础知识](/pwn_bof_quick_start_01.md)  
+- [Linux 栈溢出夺旗赛入门速成技巧 - 第二天 -- 利用开发例子](/pwn_bof_quick_start_02.md)  
 
 ### Programming
 
