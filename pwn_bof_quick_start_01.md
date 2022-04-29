@@ -42,11 +42,11 @@ echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 echo 2 | sudo tee /proc/sys/kernel/randomize_va_space
 ```
 
+## 利用开发要点
+
 在利用开发时可以利用 GOT 的位址泄漏而取得 libc 的版本，从而计算出 libc 的正确位址以便利用返回导向编程 (Return-Oriented Programming, ROP) 技术执行 Shell。
 
 至于 RELRO、NX 和 PIE 可以利用ROP 技术来绕过限制。
-
-## 利用要点
 
 基本上 Canary 在 libc-2.31.so 时是可以爆破的，但大前提是程序一定要运行在进程复制 (Fork) 中；但在 libc-2.35.so 的情况下就不能爆破 (Brute Force) 了。在 libc-2.31.so 之前是利用其他的技术来绕过限制，在这里不详述了，可以上网查询一下。
 
