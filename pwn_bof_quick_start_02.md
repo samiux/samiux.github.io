@@ -164,7 +164,7 @@ aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaamaaanaaaoaaapaaaqaaaraaasaaataaa
 
 ```
 
-经过一番尝试，```Size``` 变量只接受数字，而负数加 300 个缓冲可以另程序崩溃。所以证实这个程序有栈溢出漏洞。所以在 ```Size: ``` 里输入 -1，然后在 ```Data:``` 输入 300 个缓冲。
+经过一番尝试，```Size``` 变量只接受数字，而负数加 300 个缓冲可以另程序崩溃。所以证实这个程序有栈溢出漏洞。所以在 ```Size: ``` 里输入 -1，然后在 ```Data:``` 输入 300 个缓冲就会令程序崩溃了。
 
 ```
 pwndbg> r
