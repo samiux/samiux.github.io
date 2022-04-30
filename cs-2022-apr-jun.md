@@ -35,5 +35,6 @@
 - [多名俄羅斯能源富商慘死惹猜疑 -- 大公文匯](https://www.tkww.hk/a/202204/27/AP62687d58e4b0a469025bdf76.html)  
 - [领跑世界+领航世界：5G与北斗导航融合发展意味着什么？ -- 观察者网](https://www.guancha.cn/dengzhongliang/2022_04_27_637068.shtml)  
 - [** 盧永雄「巴士的點評」歐議員：針對中國的敵意是精心策劃的。 英國外相妄言「北約也應該保護台灣」，中國也可以去保護想獨立的北愛和蘇格蘭嗎? 22年4月28日](https://www.youtube.com/watch?v=7k2Wwnh-nfo)  
+- [美首季GDP倒退1.4%　近兩年最差 -- 大公文匯](https://www.tkww.hk/a/202204/29/AP626b6baee4b0a469025d1780.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
