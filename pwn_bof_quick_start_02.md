@@ -1,4 +1,4 @@
-
+值是
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
@@ -227,7 +227,7 @@ pwndbg> cyclic --offset saac
 272
 ```
 
-但在 ``` Data：``` 里输入 272 个缓冲是不能令其崩溃，经一番测试证明 281 可以令程序崩溃而 280 不可。故正确缓冲应该是 280 (即 272 + 8 bytes)，有时会这样的，所以一定要再测试一下以免浪费时间。。
+但在 ``` Data：``` 里输入 273 个缓冲是不能令其崩溃，经一番测试证明 281 可以令程序崩溃而 280 不可。故正确缓冲应该是 280 (即 272 + 8 bytes)，有时会这样的，所以一定要再测试一下以免浪费时间。。
 
 另外在分析源码时，你会发现 ```execve``` 和 ```/bin/sh``` 在函数 ```win()``` 内，但这个函数 (Function) 是永远不会被触碰的，换句话来说只要执行 ```win()``` 函数就可以获得 Shell。
 
