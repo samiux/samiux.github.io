@@ -327,6 +327,9 @@ OSCE  OSCP  OSWP
 
 ### 参考资料 ：
 
+- [pwndbg 官网](https://github.com/pwndbg/pwndbg)   
+- [pwndbg 官方文档](https://browserpwndbg.readthedocs.io/en/docs/)   
+- [gdb 教学](https://www.tutorialspoint.com/gnu_debugger/index.htm)   
 - [pwntools 官网](https://github.com/Gallopsled/pwntools)   
 - [pwntools 官方文档](https://docs.pwntools.com/en/stable/)   
 - [pwntools 快速入门](https://github.com/Gallopsled/pwntools-tutorial)   
