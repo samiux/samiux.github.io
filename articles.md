@@ -149,6 +149,7 @@
 ##### CTF - PWN (Heap - Glibc >= 2.31)
 
 - [A repository for learning various heap exploitation techniques](https://github.com/shellphish/how2heap)  
+- [PWN学习笔记 -- L3H_CoLin](https://blog.csdn.net/qq_54218833/category_11475074.html)  
 - [Ubuntu 20.04 Heap Exploitation](https://www.bordergate.co.uk/ubuntu-20-04-heap-exploitation/)  
 - [Heap Exploit 2.31](https://github.com/StarCross-Tech/heap_exploit_2.31)  
 - [Hookless - glibc 2.34 -- CTFTime](https://ctftime.org/writeup/31632)  
