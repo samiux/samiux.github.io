@@ -327,4 +327,8 @@ OSCE  OSCP  OSWP
 
 ### 参考资料 ：
 
+- [pwntools 官网](https://github.com/Gallopsled/pwntools)   
+- [pwntools 官方文档](https://docs.pwntools.com/en/stable/)   
+- [pwntools 快速入门](https://github.com/Gallopsled/pwntools-tutorial)   
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
