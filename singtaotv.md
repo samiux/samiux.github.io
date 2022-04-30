@@ -43,5 +43,8 @@
 - [外媒：英農場用奴隸制榨壓烏克蘭難民 美3月扣押5千多人接收僅12人 -- 深喉](https://www.bastillepost.com/hongkong/article/10585961-%e5%a4%96%e5%aa%92%ef%bc%9a%e8%8b%b1%e8%be%b2%e5%a0%b4%e7%94%a8%e5%a5%b4%e9%9a%b8%e5%88%b6%e6%a6%a8%e5%a3%93%e7%83%8f%e5%85%8b%e8%98%ad%e9%9b%a3%e6%b0%91-%e7%be%8e3%e6%9c%88%e6%89%a3%e6%8a%bc5)  
 - [多名俄羅斯能源富商慘死惹猜疑 -- 大公文匯](https://www.tkww.hk/a/202204/27/AP62687d58e4b0a469025bdf76.html)  
 - [烏克蘭危機揭穿西方社交媒體「三大陷阱」，對中國有何啟示? -- 大公文匯](https://www.tkww.hk/a/202204/27/AP6268da3be4b0a469025c12ad.html)  
+- [烏轟炸俄邊境人道車隊　居民恐慌撤離 -- 大公文匯](https://www.tkww.hk/a/202204/30/AP626ca3e4e4b0a469025d840d.html)  
+- [俄烏戰場 - 手機無處不在　改寫戰場軍情 -- 大公文匯](https://www.tkww.hk/a/202204/30/AP626c87f9e4b0a469025d7490.html)  
+- [英国被俘雇佣兵：乌克兰承诺的资金，一分也没拿到 -- 观察者网](https://www.guancha.cn/internation/2022_04_30_637656.shtml)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
