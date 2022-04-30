@@ -15,11 +15,6 @@
 
 - [Nightmare](https://guyinatuxedo.github.io/)  
 - [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
-- [Introduction to x64 Linux Binary Exploitation (Part 1)](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)  
-- [Introduction to x64 Linux Binary Exploitation (Part 2) - return into libc](https://valsamaras.medium.com/introduction-to-x64-binary-exploitation-part-2-return-into-libc-c325017f465)  
-- [Introduction to x64 Linux Binary Exploitation (Part 3) - RoP Chains](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-3-rop-chains-3cdcf17e8826)  
-- [Introduction to x64 Linux Binary Exploitation (Part 4) - Stack Canaries](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-4-stack-canaries-e9b6dd2c3127)  
-- [Introduction to x64 Linux Binary Exploitation (Part 5) - ASLR](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb)  
 
 最后，我邀请你参与我所建立的[挑战](/ctf-pwn.md)，一同学习，一同进步。
 
