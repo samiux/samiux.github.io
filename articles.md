@@ -53,6 +53,7 @@
 - [今天，一起来“抓间谍”！ -- 央视军事](https://mp.weixin.qq.com/s/QZ7qNbnFjo-izA1PbdVJ6Q)
 - [加强港人国安教育，梁振英购买“斯诺登事件”纪录片版权送400多所中学 -- 观察者网](https://www.guancha.cn/politics/2022_04_18_635581.shtml)  
 - [04-25-2022 時事觀察 余非：偵察炒作、與反炒作以嶺藥業（連花清瘟）事件，有重要發現](https://www.youtube.com/watch?v=wmItzP4EpkM)  
+- [李家超選舉政綱：同為香港開新篇（全文） -- 大公文匯](https://www.tkww.hk/a/202204/29/AP626b753de4b0a469025d1c55.html)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
