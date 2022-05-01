@@ -46,5 +46,6 @@
 - [烏轟炸俄邊境人道車隊　居民恐慌撤離 -- 大公文匯](https://www.tkww.hk/a/202204/30/AP626ca3e4e4b0a469025d840d.html)  
 - [俄烏戰場 - 手機無處不在　改寫戰場軍情 -- 大公文匯](https://www.tkww.hk/a/202204/30/AP626c87f9e4b0a469025d7490.html)  
 - [英国被俘雇佣兵：乌克兰承诺的资金，一分也没拿到 -- 观察者网](https://www.guancha.cn/internation/2022_04_30_637656.shtml)
+- [佩洛西闪电访乌当天，俄军摧毁美欧援乌军备 -- 观察者网](https://www.guancha.cn/internation/2022_05_01_637832.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
