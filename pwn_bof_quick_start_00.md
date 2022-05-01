@@ -37,5 +37,8 @@ OSCE  OSCP  OSWP
 - [pwntools 快速入门](https://github.com/Gallopsled/pwntools-tutorial)   
 - [libc-database 官网](https://github.com/niklasb/libc-database)   
 - [libc database search 官网](https://libc.blukat.me)   
+- [Linux 栈溢出夺旗赛入门速成技巧 - 第一天 -- 基础知识](/pwn_bof_quick_start_01.md)  
+- [Linux 栈溢出夺旗赛入门速成技巧 - 第二天 -- 利用开发例子](/pwn_bof_quick_start_02.md)  
+- [Linux 栈溢出夺旗赛入门速成技巧 - 第三天 -- 展望将来](/pwn_bof_quick_start_03.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
