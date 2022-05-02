@@ -48,5 +48,10 @@
 - [英国被俘雇佣兵：乌克兰承诺的资金，一分也没拿到 -- 观察者网](https://www.guancha.cn/internation/2022_04_30_637656.shtml)
 - [佩洛西闪电访乌当天，俄军摧毁美欧援乌军备 -- 观察者网](https://www.guancha.cn/internation/2022_05_01_637832.shtml)  
 - [洗澡难、食物缺、营地爆发新冠疫情…巴西雇佣兵讲述在乌悲惨遭遇 -- 观察者网](https://www.guancha.cn/military-affairs/2022_05_01_637820.shtml)  
+- [「基輔幽靈」神話破滅　實為心戰工具 -- 大公文匯](https://www.tkww.hk/a/202205/02/AP626f1ce9e4b0a469025e4b39.html)  
+- [到底有没有“基辅幽灵”？乌军承认：一个乌克兰人民创造的超级英雄传说 -- 观察者网](https://www.guancha.cn/internation/2022_05_02_637876.shtml)  
+- [烏克蘭抓親俄「叛徒」　400人被捕 -- 大公文匯](https://www.tkww.hk/a/202205/01/AP626dcbc7e4b0a469025ddf8a.html)  
+- [普京签署总统令：立即成立IT安全部门，禁用不友好国家信息安全设备 -- Freebuf](https://www.freebuf.com/news/331938.html)  
+- [攻击者劫持大量WordPress网站，对乌克兰进行DDoS攻击 -- Freebuf](https://www.freebuf.com/articles/331760.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
