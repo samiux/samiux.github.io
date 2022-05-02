@@ -156,7 +156,6 @@
 - [Hookless - glibc 2.34 -- CTFTime](https://ctftime.org/writeup/31632)  
 - [Educational Heap Exploitation 2.0 (how2heap glibc 2.31)](https://bestwing.me/Education_Heap_Exploit_glibc_2.31.html)  
 - [PWN10: Heap exploitation for GlibC 2.32](https://pwn-maher.blogspot.com/2020/11/pwn10-heap-exploitation-for-glibc-232.html)  
-- [Glibc 堆利用的若干方法 -- 清华大学 网络科学与网络空间研究院](blob:moz-extension://b15c02d2-8f74-4483-b626-fd547cb5c2c7/57f1c206-fce8-4eb1-a1de-eb4546f7c4b1)  
 - [Overview of GLIBC heap exploitation techniques](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/)  
 
 ##### CTF - PWN (Glibc >= 2.35)
