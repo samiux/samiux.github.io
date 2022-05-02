@@ -157,6 +157,10 @@
 - [Educational Heap Exploitation 2.0 (how2heap glibc 2.31)](https://bestwing.me/Education_Heap_Exploit_glibc_2.31.html)  
 - [PWN10: Heap exploitation for GlibC 2.32](https://pwn-maher.blogspot.com/2020/11/pwn10-heap-exploitation-for-glibc-232.html)  
 
+##### CTF - PWN (Kernel)
+
+- [Kernel pwn 基础教程之 Heap Overflow -- Freebuf](https://www.freebuf.com/articles/network/330523.html)  
+
 #### CTF - WEB
 
 - [Portswigger Web Security Academy](https://portswigger.net/web-security/all-materials/detailed)  
