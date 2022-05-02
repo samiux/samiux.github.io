@@ -146,6 +146,7 @@
 - [BINARY EXPLOITATION:Memory corruption](http://diposit.ub.edu/dspace/bitstream/2445/179863/3/179863.pdf)  
 - [Linux Heap Exploitation](/ctf-heap.md)  
 - [Heap tricks never get old - Insomni'hack teaser 2022 - glibc 2.23](https://www.synacktiv.com/en/publications/heap-tricks-never-get-old-insomnihack-teaser-2022.html)  
+- [Linux Heap Exploitation Intro Series: Riding free on the heap – Double free attacks!](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-riding-free-on-the-heap-double-free-attacks/)  
 
 ##### CTF - PWN (Heap - Glibc >= 2.31)
 
