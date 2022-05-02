@@ -535,6 +535,7 @@
 - [美媒：美國疾控中心曾隱瞞疫情重要線索 近半年後才公開水貂傳人新冠病例 -- 深喉](https://www.bastillepost.com/hongkong/article/10579926-%e7%be%8e%e5%aa%92%ef%bc%9a%e7%be%8e%e5%9c%8b%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e6%9b%be%e9%9a%b1%e7%9e%9e%e7%96%ab%e6%83%85%e9%87%8d%e8%a6%81%e7%b7%9a%e7%b4%a2-%e8%bf%91%e5%8d%8a%e5%b9%b4%e5%be%8c)  
 - [科興奧密克戎株新冠疫苗在國內獲批臨床 -- 大公文匯](https://www.tkww.hk/a/202204/26/AP6267a7fce4b0a469025b9c89.html)  
 - [上海疫情控制開始見成效 國內首次發現Omicron新分支 專家：要做好最壞準備 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10586824-%e4%b8%8a%e6%b5%b7%e7%96%ab%e6%83%85%e6%8e%a7%e5%88%b6%e9%96%8b%e5%a7%8b%e8%a6%8b%e6%88%90%e6%95%88-%e5%9c%8b%e5%85%a7%e9%a6%96%e6%ac%a1%e7%99%bc%e7%8f%beomicron%e6%96%b0%e5%88%86%e6%94%af-%e5%b0%88)  
+- [研究發現感染新冠令人老得快 遺害性尚有待觀察 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10589261-%e7%a0%94%e7%a9%b6%e7%99%bc%e7%8f%be%e6%84%9f%e6%9f%93%e6%96%b0%e5%86%a0%e4%bb%a4%e4%ba%ba%e8%80%81%e5%be%97%e5%bf%ab-%e9%81%ba%e5%ae%b3%e6%80%a7%e5%b0%9a%e6%9c%89%e5%be%85%e8%a7%80%e5%af%9f?current_cat=8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
