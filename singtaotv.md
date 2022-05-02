@@ -53,5 +53,6 @@
 - [烏克蘭抓親俄「叛徒」　400人被捕 -- 大公文匯](https://www.tkww.hk/a/202205/01/AP626dcbc7e4b0a469025ddf8a.html)  
 - [普京签署总统令：立即成立IT安全部门，禁用不友好国家信息安全设备 -- Freebuf](https://www.freebuf.com/news/331938.html)  
 - [攻击者劫持大量WordPress网站，对乌克兰进行DDoS攻击 -- Freebuf](https://www.freebuf.com/articles/331760.html)  
+- [匈牙利总理府部长：10个欧盟国家用卢布买俄气，9个不承认 -- 观察者网](https://www.guancha.cn/internation/2022_05_02_637889.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
