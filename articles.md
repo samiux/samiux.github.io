@@ -163,7 +163,6 @@
 - [Overview of GLIBC heap exploitation techniques](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/)  
 - [Heap Exploit v2.31 - 最新堆利用技巧，速速查收](https://zhuanlan.zhihu.com/p/136983333)  
 - [Heap Exploit 2.31 Source Code](https://github.com/StarCross-Tech/heap_exploit_2.31)  
-- [Educational Heap Exploitation 2.0 (how2heap glibc 2.31)](https://bestwing.me/Education_Heap_Exploit_glibc_2.31.html)  
 - [House of Muney - Leakless Heap Exploitation Technique](https://maxwelldulin.com/BlogPost?post=6967456768)  
 - [不同libc版本下UAF的利用手法总结](https://www.anquanke.com/post/id/241316)  
 
