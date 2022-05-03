@@ -124,6 +124,7 @@
 - [A Course on Intermediate Level Linux Exploitation -- nnamon](https://github.com/nnamon/linux-exploitation-course)  
 - [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
 - [x64 Linux Binary Exploitation Training -- srini0x00](https://www.youtube.com/watch?v=gxU3e7GbC-M)  
+- [Pwn 知识点清单](https://lantern.cool/note-pwn-pwn/)  
 
 ##### CTF - PWN (Stack Buffer Overflow)
 
@@ -147,6 +148,8 @@
 - [Linux Heap Exploitation](/ctf-heap.md)  
 - [Heap tricks never get old - Insomni'hack teaser 2022 - glibc 2.23](https://www.synacktiv.com/en/publications/heap-tricks-never-get-old-insomnihack-teaser-2022.html)  
 - [Linux Heap Exploitation Intro Series: Riding free on the heap – Double free attacks!](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-riding-free-on-the-heap-double-free-attacks/)  
+- [pwn with glibc heap（堆利用手册）](https://www.cnblogs.com/hac425/p/9416792.html)  
+- [不同libc版本下UAF的利用手法总结](https://www.anquanke.com/post/id/241316)  
 
 ##### CTF - PWN (Heap - Glibc >= 2.31)
 
@@ -158,6 +161,11 @@
 - [Educational Heap Exploitation 2.0 (how2heap glibc 2.31)](https://bestwing.me/Education_Heap_Exploit_glibc_2.31.html)  
 - [PWN10: Heap exploitation for GlibC 2.32](https://pwn-maher.blogspot.com/2020/11/pwn10-heap-exploitation-for-glibc-232.html)  
 - [Overview of GLIBC heap exploitation techniques](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/)  
+- [Heap Exploit v2.31 - 最新堆利用技巧，速速查收](https://zhuanlan.zhihu.com/p/136983333)  
+- [Heap Exploit 2.31 Source Code](https://github.com/StarCross-Tech/heap_exploit_2.31)  
+- [Educational Heap Exploitation 2.0 (how2heap glibc 2.31)](https://bestwing.me/Education_Heap_Exploit_glibc_2.31.html)  
+- [House of Muney - Leakless Heap Exploitation Technique](https://maxwelldulin.com/BlogPost?post=6967456768)  
+- [不同libc版本下UAF的利用手法总结](https://www.anquanke.com/post/id/241316)  
 
 ##### CTF - PWN (Glibc >= 2.35)
 
