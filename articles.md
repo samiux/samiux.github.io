@@ -125,6 +125,7 @@
 - [Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)  
 - [x64 Linux Binary Exploitation Training -- srini0x00](https://www.youtube.com/watch?v=gxU3e7GbC-M)  
 - [Pwn 知识点清单](https://lantern.cool/note-pwn-pwn/)  
+- [Ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries](https://syst3mfailure.io/ret2dl_resolve)  
 
 ##### CTF - PWN (Stack Buffer Overflow)
 
