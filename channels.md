@@ -538,6 +538,8 @@
 - [研究發現感染新冠令人老得快 遺害性尚有待觀察 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10589261-%e7%a0%94%e7%a9%b6%e7%99%bc%e7%8f%be%e6%84%9f%e6%9f%93%e6%96%b0%e5%86%a0%e4%bb%a4%e4%ba%ba%e8%80%81%e5%be%97%e5%bf%ab-%e9%81%ba%e5%ae%b3%e6%80%a7%e5%b0%9a%e6%9c%89%e5%be%85%e8%a7%80%e5%af%9f?current_cat=8)  
 - [全球首支！杭州昨日啟動Omicron疫苗臨床試驗 -- 大公文匯](https://www.tkww.hk/a/202205/02/AP626f9798e4b0a469025e7b74.html)  
 - [辉瑞新冠口服药Paxlovid用于暴露后预防的II/III期临床失败：无法有效预防家庭密接者感染 -- 观察者网](https://www.guancha.cn/internation/2022_04_30_637650.shtml)  
+- [劍橋大學：感染新冠肺炎 認知及思考能力或衰退20年 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10628612-%e6%84%9f%e6%9f%93%e6%96%b0%e5%86%a0%e8%82%ba%e7%82%8e-%e8%aa%8d%e7%9f%a5%e5%8f%8a%e6%80%9d%e8%80%83%e8%83%bd%e5%8a%9b%e6%88%96%e8%a1%b0%e9%80%8020%e5%b9%b4?current_cat=6)  
+- [20多歲台女染疫6日亡 已接種3針復必泰無慢性病 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10628526-20%e5%a4%9a%e6%ad%b2%e5%8f%b0%e5%a5%b3%e6%9f%93%e7%96%ab6%e6%97%a5%e4%ba%a1-%e5%b7%b2%e6%89%933%e9%87%9d%e5%be%a9%e5%bf%85%e6%b3%b0%e7%84%a1%e6%85%a2%e6%80%a7%e7%97%85)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
