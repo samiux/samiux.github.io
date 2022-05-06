@@ -58,6 +58,12 @@
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
+### 【影子战争】
+
+- [玉渊谭天 -【影子战争】5629份合同，揭秘美国海外生物实验室布局 (上集)](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6144575045419452381&share_to=wechat&toc_style_id=feeds_default&track_id=4161f2a3-f7a8-4cb5-adf6-9a7f2ad88ea7)  
+- [玉渊谭天 -【影子战争】深挖美国海外生物实验室，我们有新的发现 (下集)](https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=7723114297582648859&track_id=0386631E-94D6-4938-9CB5-DFFA70A9089E_673402759345)  
+- [影子戰爭 - 深挖美國海外生物實驗室，我們有新的發現 -- 大公文匯](https://www.tkww.hk/a/202205/06/AP6274de0fe4b0a46902605c94.html)  
+
 ## Text  
 
 ### Red Team
