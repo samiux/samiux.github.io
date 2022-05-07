@@ -57,6 +57,7 @@
 - [各国步兵班的编制 -- 观察者](https://user.guancha.cn/main/content?id=751260)  
 - [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
 - [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
+- [盧永雄「巴士的點評」英老人整天坐巴士避回家，約翰遜用選票找數。 美智庫：若西方像制裁俄羅斯制裁中國，「共同毀滅」模式，美西方損失5.8萬億！ 22年5月7日](https://www.youtube.com/watch?v=lTniyILl_oY)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
