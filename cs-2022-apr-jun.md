@@ -39,5 +39,6 @@
 - [解放軍報：警惕「星鏈」的軍事化應用野心及野蠻擴張 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10631642-%e8%a7%a3%e6%94%be%e8%bb%8d%e5%a0%b1%ef%bc%9a%e8%ad%a6%e6%83%95%e3%80%8c%e6%98%9f%e9%8f%88%e3%80%8d%e7%9a%84%e8%bb%8d%e4%ba%8b%e5%8c%96%e6%87%89%e7%94%a8%e9%87%8e%e5%bf%83%e5%8f%8a%e9%87%8e%e8%a0%bb)  
 - [Delta「隱秘傳播」比Omicron新變種更值得關注 -- 深喉](https://www.bastillepost.com/hongkong/article/10631423-delta%e3%80%8c%e9%9a%b1%e7%a7%98%e5%82%b3%e6%92%ad%e3%80%8d%e6%af%94omicron%e6%96%b0%e8%ae%8a%e7%a8%ae%e6%9b%b4%e5%80%bc%e5%be%97%e9%97%9c%e6%b3%a8)  
 - [內地恢復勞動課　中小學生須學煮飯修家電 -- 大公文匯](https://www.tkww.hk/a/202205/06/AP62748e56e4b0a469026035e1.html)  
+- [盧永雄「巴士的點評」英老人整天坐巴士避回家，約翰遜用選票找數。 美智庫：若西方像制裁俄羅斯制裁中國，「共同毀滅」模式，美西方損失5.8萬億！ 22年5月7日](https://www.youtube.com/watch?v=lTniyILl_oY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
