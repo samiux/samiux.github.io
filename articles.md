@@ -55,8 +55,8 @@
 - [04-25-2022 時事觀察 余非：偵察炒作、與反炒作以嶺藥業（連花清瘟）事件，有重要發現](https://www.youtube.com/watch?v=wmItzP4EpkM)  
 - [李家超選舉政綱：同為香港開新篇（全文） -- 大公文匯](https://www.tkww.hk/a/202204/29/AP626b753de4b0a469025d1c55.html)  
 - [各国步兵班的编制 -- 观察者](https://user.guancha.cn/main/content?id=751260)  
-- [05-07-2022星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
-- [04-25-2022 時事觀察 國凱：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
+- [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
+- [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
