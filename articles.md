@@ -58,6 +58,7 @@
 - [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
 - [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
 - [盧永雄「巴士的點評」英老人整天坐巴士避回家，約翰遜用選票找數。 美智庫：若西方像制裁俄羅斯制裁中國，「共同毀滅」模式，美西方損失5.8萬億！ 22年5月7日](https://www.youtube.com/watch?v=lTniyILl_oY)  
+- [外交部詳列美民主基金會事實清單 假民主之名培植親美傀儡顛覆政權 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10648988-%e5%a4%96%e4%ba%a4%e9%83%a8%e8%a9%b3%e5%88%97%e7%be%8e%e6%b0%91%e4%b8%bb%e5%9f%ba%e9%87%91%e6%9c%83%e4%ba%8b%e5%af%a6%e6%b8%85%e5%96%ae-%e5%81%87%e6%b0%91%e4%b8%bb%e4%b9%8b%e5%90%8d%e5%9f%b9%e6%a4%8d)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
