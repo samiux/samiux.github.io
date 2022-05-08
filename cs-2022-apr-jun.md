@@ -40,5 +40,6 @@
 - [Delta「隱秘傳播」比Omicron新變種更值得關注 -- 深喉](https://www.bastillepost.com/hongkong/article/10631423-delta%e3%80%8c%e9%9a%b1%e7%a7%98%e5%82%b3%e6%92%ad%e3%80%8d%e6%af%94omicron%e6%96%b0%e8%ae%8a%e7%a8%ae%e6%9b%b4%e5%80%bc%e5%be%97%e9%97%9c%e6%b3%a8)  
 - [內地恢復勞動課　中小學生須學煮飯修家電 -- 大公文匯](https://www.tkww.hk/a/202205/06/AP62748e56e4b0a469026035e1.html)  
 - [** 盧永雄「巴士的點評」英老人整天坐巴士避回家，約翰遜用選票找數。 美智庫：若西方像制裁俄羅斯制裁中國，「共同毀滅」模式，美西方損失5.8萬億！ 22年5月7日](https://www.youtube.com/watch?v=lTniyILl_oY)  
+- [外交部詳列美民主基金會事實清單 假民主之名培植親美傀儡顛覆政權 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10648988-%e5%a4%96%e4%ba%a4%e9%83%a8%e8%a9%b3%e5%88%97%e7%be%8e%e6%b0%91%e4%b8%bb%e5%9f%ba%e9%87%91%e6%9c%83%e4%ba%8b%e5%af%a6%e6%b8%85%e5%96%ae-%e5%81%87%e6%b0%91%e4%b8%bb%e4%b9%8b%e5%90%8d%e5%9f%b9%e6%a4%8d)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
