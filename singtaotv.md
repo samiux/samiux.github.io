@@ -14,6 +14,8 @@
 - [04-08-2022 星電視快評—余非 ：「布查事件」求真相；歐盟自陷危機；別少覷澤連斯基與拜登](https://www.youtube.com/watch?v=rbjLEakBjiw)  
 - [04-18-2022 時事觀察 余非：俄烏爆發戰爭超過 50天，整理碎資料，做階段性歸納](https://www.youtube.com/watch?v=Lt0lPfcksEQ)  
 - [04-25-2022 時事觀察 余非：偵察炒作、與反炒作以嶺藥業（連花清瘟）事件，有重要發現](https://www.youtube.com/watch?v=wmItzP4EpkM)  
+- [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
+- [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
 
 # 乌俄冲突
 
