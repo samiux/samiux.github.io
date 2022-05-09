@@ -27,6 +27,7 @@
 
 ## Common Sense
 
+- [爸媽有話兒：父母給子女的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=iC4kPcN_Gfc)  
 - [《觉醒年代》- 理想飞扬的热血青年 激情燃烧的澎湃岁月【全43集】](https://www.youtube.com/playlist?list=PLa213RC5YYIwYGZg9_ffwmsQO_UiEhjxL)  
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
 - [《中國共產黨的歷史使命與行動價值》（全文）-- 大公文匯](https://www.tkww.hk/a/202108/26/AP61273798e4b0c7e5bee9018c.html)  
