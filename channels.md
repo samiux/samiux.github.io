@@ -253,6 +253,8 @@
 - [中国芯片重大突破　首款电力专用芯片“伏羲”研发成功 -- 多维新闻](https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60276468/%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%E9%A6%96%E6%AC%BE%E7%94%B5%E5%8A%9B%E4%B8%93%E7%94%A8%E8%8A%AF%E7%89%87%E4%BC%8F%E7%BE%B2%E7%A0%94%E5%8F%91%E6%88%90%E5%8A%9F)  
 - [破“卡脖子”难题 中国半导体装备再添重器 -- 多维新闻](https://www.dwnews.com/%E7%BB%8F%E6%B5%8E/60265517/%E7%A0%B4%E5%8D%A1%E8%84%96%E5%AD%90%E9%9A%BE%E9%A2%98%E4%B8%AD%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A3%85%E5%A4%87%E5%86%8D%E6%B7%BB%E9%87%8D%E5%99%A8)  
 - [领跑世界+领航世界：5G与北斗导航融合发展意味着什么？ -- 观察者网](https://www.guancha.cn/dengzhongliang/2022_04_27_637068.shtml)  
+- [月球“土特产”又有新发现：或可用于实现“零能耗”的月球生命保障系统 -- 观察者网](https://www.guancha.cn/industry-science/2022_05_08_638748.shtml)  
+- [嫦五新發現　月壤可製氧氣燃料 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP62786d98e4b0a4690261b3d9.html)  
 
 ## Misc.
 
