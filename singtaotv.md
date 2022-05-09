@@ -57,5 +57,6 @@
 - [攻击者劫持大量WordPress网站，对乌克兰进行DDoS攻击 -- Freebuf](https://www.freebuf.com/articles/331760.html)  
 - [匈牙利总理府部长：10个欧盟国家用卢布买俄气，9个不承认 -- 观察者网](https://www.guancha.cn/internation/2022_05_02_637889.shtml)  
 - [被俘虏的乌克兰指挥官：英美提供的导弹“没用” -- 观察者网](https://www.guancha.cn/internation/2022_05_08_638802.shtml)  
+- [被俘烏軍官向俄媒吐槽美英武器「不好使」：美製「標槍」反坦克導彈「沒什麼用」 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP6278bd2fe4b0a4690261e034.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
