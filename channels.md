@@ -255,6 +255,7 @@
 - [领跑世界+领航世界：5G与北斗导航融合发展意味着什么？ -- 观察者网](https://www.guancha.cn/dengzhongliang/2022_04_27_637068.shtml)  
 - [月球“土特产”又有新发现：或可用于实现“零能耗”的月球生命保障系统 -- 观察者网](https://www.guancha.cn/industry-science/2022_05_08_638748.shtml)  
 - [嫦五新發現　月壤可製氧氣燃料 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP62786d98e4b0a4690261b3d9.html)  
+- [X86和ARM断供俄罗斯，中国能押注RISC-V吗？ -- 观察者网](https://www.guancha.cn/economy/2022_05_10_639106.shtml)  
 
 ## Misc.
 
