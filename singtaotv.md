@@ -60,5 +60,6 @@
 - [被俘虏的乌克兰指挥官：英美提供的导弹“没用” -- 观察者网](https://www.guancha.cn/internation/2022_05_08_638802.shtml)  
 - [被俘烏軍官向俄媒吐槽美英武器「不好使」：美製「標槍」反坦克導彈「沒什麼用」 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP6278bd2fe4b0a4690261e034.html)  
 - [普京：先發制人是被迫 與北約衝突不能避免 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10654088-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e6%99%ae%e4%ba%ac%e6%8c%87%e5%85%88%e7%99%bc%e5%88%b6%e4%ba%ba%e6%98%af%e8%a2%ab%e8%bf%ab-%e8%88%87%e5%8c%97%e7%b4%84%e8%a1%9d%e7%aa%81%e4%b8%8d%e8%83%bd?current_cat=6)  
+- [不掩饰啦？泽连斯基分享照片中，士兵佩戴纳粹标志 -- 观察者网](https://www.guancha.cn/internation/2022_05_10_639032.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
