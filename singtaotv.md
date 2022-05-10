@@ -16,6 +16,7 @@
 - [04-25-2022 時事觀察 余非：偵察炒作、與反炒作以嶺藥業（連花清瘟）事件，有重要發現](https://www.youtube.com/watch?v=wmItzP4EpkM)  
 - [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
 - [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
+- [05-09-2022 時事觀察 余非：談美國的軍工複合體，以及其成為巨獸的因由；兼及世界軍工業情況](https://www.youtube.com/watch?v=6nAAw98Qj34)  
 
 # 乌俄冲突
 
