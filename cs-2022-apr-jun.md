@@ -44,5 +44,6 @@
 - [月球“土特产”又有新发现：或可用于实现“零能耗”的月球生命保障系统 -- 观察者网](https://www.guancha.cn/industry-science/2022_05_08_638748.shtml)  
 - [嫦五新發現　月壤可製氧氣燃料 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP62786d98e4b0a4690261b3d9.html)  
 - [中國嚴防不明原因兒童急性重型肝炎傳入 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP6278f3a9e4b0a46902620166.html)  
+- [不掩饰啦？泽连斯基分享照片中，士兵佩戴纳粹标志 -- 观察者网](https://www.guancha.cn/internation/2022_05_10_639032.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
