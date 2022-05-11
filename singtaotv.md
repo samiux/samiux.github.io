@@ -63,5 +63,6 @@
 - [不掩饰啦？泽连斯基分享照片中，士兵佩戴纳粹标志 -- 观察者网](https://www.guancha.cn/internation/2022_05_10_639032.shtml)  
 - [普京胜利日阅兵讲话全文：攻打乌克兰，是“一个唯一正确的决定” -- 观察者网](https://www.guancha.cn/f-putin/2022_05_10_638989.shtml)  
 - [联合国：已掌握有关乌克兰军队虐待俄罗斯战俘的“可靠信息” -- 观察者网](https://www.guancha.cn/internation/2022_05_11_639273.shtml)  
+- [马库斯·雷斯纳：俄军甚至发布了俄语手册，指导如何使用缴获的援乌武器 -- 观察者网](https://www.guancha.cn/MarkusReisner/2022_05_11_639154.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
