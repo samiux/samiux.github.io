@@ -49,5 +49,6 @@
 - [政客威威水水制裁俄羅斯 難為了英國百老姓 調查稱超過200萬英人吃不起飯 -- 深喉](https://www.bastillepost.com/hongkong/article/10660506-%e6%94%bf%e5%ae%a2%e5%a8%81%e5%a8%81%e6%b0%b4%e6%b0%b4%e5%88%b6%e8%a3%81%e4%bf%84%e7%be%85%e6%96%af-%e9%9b%a3%e7%82%ba%e4%ba%86%e8%8b%b1%e5%9c%8b%e7%99%be%e8%80%81%e5%a7%93-%e8%aa%bf%e6%9f%a5%e7%a8%b1)  
 - [反駁外媒質疑中國「動態清零」政策 中國駐法大使：盼望中國失敗、崩潰的人注定會失望 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10660597-%e5%8f%8d%e9%a7%81%e5%a4%96%e5%aa%92%e8%b3%aa%e7%96%91%e4%b8%ad%e5%9c%8b%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d%e6%94%bf%e7%ad%96-%e4%b8%ad%e5%9c%8b%e9%a7%90%e6%b3%95%e5%a4%a7%e4%bd%bf)  
 - [联合国：已掌握有关乌克兰军队虐待俄罗斯战俘的“可靠信息” -- 观察者网](https://www.guancha.cn/internation/2022_05_11_639273.shtml)  
+- [马库斯·雷斯纳：俄军甚至发布了俄语手册，指导如何使用缴获的援乌武器 -- 观察者网](https://www.guancha.cn/MarkusReisner/2022_05_11_639154.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
