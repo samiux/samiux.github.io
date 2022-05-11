@@ -51,6 +51,6 @@
 - [联合国：已掌握有关乌克兰军队虐待俄罗斯战俘的“可靠信息” -- 观察者网](https://www.guancha.cn/internation/2022_05_11_639273.shtml)  
 - [马库斯·雷斯纳：俄军甚至发布了俄语手册，指导如何使用缴获的援乌武器 -- 观察者网](https://www.guancha.cn/MarkusReisner/2022_05_11_639154.shtml)  
 - [真相 -「誰是最大的虛假信息傳播者?是美國政府」-- 大公文匯](https://www.tkww.hk/a/202205/11/AP627b581ee4b0a4690262dd64.html)  
-- [第141期：张维为 范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？-《#这就是中国》ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
+- [第141期：张维为 范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？-《这就是中国》ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
