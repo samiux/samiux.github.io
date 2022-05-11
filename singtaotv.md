@@ -62,5 +62,6 @@
 - [普京：先發制人是被迫 與北約衝突不能避免 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10654088-%e4%bf%84%e7%83%8f%e5%b1%80%e5%8b%a2%ef%bd%9c%e6%99%ae%e4%ba%ac%e6%8c%87%e5%85%88%e7%99%bc%e5%88%b6%e4%ba%ba%e6%98%af%e8%a2%ab%e8%bf%ab-%e8%88%87%e5%8c%97%e7%b4%84%e8%a1%9d%e7%aa%81%e4%b8%8d%e8%83%bd?current_cat=6)  
 - [不掩饰啦？泽连斯基分享照片中，士兵佩戴纳粹标志 -- 观察者网](https://www.guancha.cn/internation/2022_05_10_639032.shtml)  
 - [普京胜利日阅兵讲话全文：攻打乌克兰，是“一个唯一正确的决定” -- 观察者网](https://www.guancha.cn/f-putin/2022_05_10_638989.shtml)  
+- [联合国：已掌握有关乌克兰军队虐待俄罗斯战俘的“可靠信息” -- 观察者网](https://www.guancha.cn/internation/2022_05_11_639273.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
