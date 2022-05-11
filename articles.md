@@ -71,6 +71,10 @@
 - [玉渊谭天 -【影子战争】深挖美国海外生物实验室，我们有新的发现 (下集)](https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=7723114297582648859&track_id=0386631E-94D6-4938-9CB5-DFFA70A9089E_673402759345)  
 - [影子戰爭 - 深挖美國海外生物實驗室，我們有新的發現 -- 大公文匯](https://www.tkww.hk/a/202205/06/AP6274de0fe4b0a46902605c94.html)  
 
+### 信息战
+
+- [第141期：#张维为#范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？|《#这就是中国》#ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
+
 ## Text  
 
 ### Red Team
