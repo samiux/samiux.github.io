@@ -50,5 +50,6 @@
 - [反駁外媒質疑中國「動態清零」政策 中國駐法大使：盼望中國失敗、崩潰的人注定會失望 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10660597-%e5%8f%8d%e9%a7%81%e5%a4%96%e5%aa%92%e8%b3%aa%e7%96%91%e4%b8%ad%e5%9c%8b%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d%e6%94%bf%e7%ad%96-%e4%b8%ad%e5%9c%8b%e9%a7%90%e6%b3%95%e5%a4%a7%e4%bd%bf)  
 - [联合国：已掌握有关乌克兰军队虐待俄罗斯战俘的“可靠信息” -- 观察者网](https://www.guancha.cn/internation/2022_05_11_639273.shtml)  
 - [马库斯·雷斯纳：俄军甚至发布了俄语手册，指导如何使用缴获的援乌武器 -- 观察者网](https://www.guancha.cn/MarkusReisner/2022_05_11_639154.shtml)  
+- [真相 -「誰是最大的虛假信息傳播者?是美國政府」-- 大公文匯](https://www.tkww.hk/a/202205/11/AP627b581ee4b0a4690262dd64.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
