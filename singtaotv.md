@@ -66,5 +66,6 @@
 - [马库斯·雷斯纳：俄军甚至发布了俄语手册，指导如何使用缴获的援乌武器 -- 观察者网](https://www.guancha.cn/MarkusReisner/2022_05_11_639154.shtml)  
 - [第141期：张维为 范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？-《这就是中国》ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
 - [俄國防部：烏克蘭是西方國家研製生物武器的試驗場 -- 大公文匯](https://www.tkww.hk/a/202205/11/AP627bd195e4b0a46902631f79.html)  
+- [第142期：俄乌冲突对地缘政治将产生怎样的影响？听张维为 邱文平 从普京的演讲说开去，解析美西方肢解中国的招数 -《这就是中国》#ChinaNow EP142 20220509【东方卫视官方频道】](https://www.youtube.com/watch?v=p1dh2bXeq00)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
