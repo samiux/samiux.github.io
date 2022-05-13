@@ -545,6 +545,7 @@
 - [20多歲台女染疫6日亡 已接種3針復必泰無慢性病 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10628526-20%e5%a4%9a%e6%ad%b2%e5%8f%b0%e5%a5%b3%e6%9f%93%e7%96%ab6%e6%97%a5%e4%ba%a1-%e5%b7%b2%e6%89%933%e9%87%9d%e5%be%a9%e5%bf%85%e6%b3%b0%e7%84%a1%e6%85%a2%e6%80%a7%e7%97%85)  
 - [接種強生疫苗存血栓風險 美國宣布限制使用 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10637615-%e5%ad%98%e8%a1%80%e6%a0%93%e9%a2%a8%e9%9a%aa-%e7%be%8e%e5%9c%8b%e9%99%90%e5%88%b6%e4%bd%bf%e7%94%a8%e5%bc%b7%e7%94%9f%e7%96%ab%e8%8b%97?current_cat=6)  
 - [接種疫苗好重要！上海503新冠死亡病例，只有25人有打針 死亡患者的疫苗接種率僅為4.97% -- 毛拍手](https://www.bastillepost.com/hongkong/article/10646337-%e6%8e%a5%e7%a8%ae%e7%96%ab%e8%8b%97%e5%a5%bd%e9%87%8d%e8%a6%81%ef%bc%81%e4%b8%8a%e6%b5%b7503%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e7%97%85%e4%be%8b%ef%bc%8c%e5%8f%aa%e6%9c%8925%e4%ba%ba%e6%9c%89)  
+- [最長跟進 - 武漢逾半康復者　2年後仍有症狀 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627db030e4b0a4690263c834.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
