@@ -56,5 +56,6 @@
 - [第142期：俄乌冲突对地缘政治将产生怎样的影响？听张维为 邱文平 从普京的演讲说开去，解析美西方肢解中国的招数 -《这就是中国》#ChinaNow EP142 20220509【东方卫视官方频道】](https://www.youtube.com/watch?v=p1dh2bXeq00)  
 - [烏關閉關鍵管道　阻俄輸歐天然氣 -- 大公文匯](https://www.tkww.hk/a/202205/12/AP627c59f1e4b0a4690263435d.html)  
 - [约翰·贝拉米·福斯特：美国介入俄乌冲突背后的霸权企图 -- 观察者网](https://www.guancha.cn/JohnBellamyFoster/2022_05_13_639513.shtml)  
+- [黑暗歷史 - 美原住民寄宿學校虐死500童 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627db439e4b0a4690263cadd.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
