@@ -548,6 +548,7 @@
 - [最長跟進 - 武漢逾半康復者　2年後仍有症狀 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627db030e4b0a4690263c834.html)  
 - [中國科學家發現新冠治療新藥 美國學者指抑制病毒能力優於瑞德西韋 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10680107-%e4%b8%ad%e5%9c%8b%e7%a7%91%e5%ad%b8%e5%ae%b6%e7%99%bc%e7%8f%be%e6%96%b0%e5%86%a0%e6%b2%bb%e7%99%82%e6%96%b0%e8%97%a5-%e7%be%8e%e5%ad%b8%e8%80%85%e6%8c%87%e6%8a%91%e5%88%b6%e7%97%85%e6%af%92%e8%83%bd)  
 - [關日華：1成染疫童有「長新冠」 憂校內爆發第6波疫情 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10681332-%e9%97%9c%e6%97%a5%e8%8f%af%e6%8c%87%e4%b8%80%e6%88%90%e6%9f%93%e7%96%ab%e5%85%92%e7%ab%a5%e7%8f%be%e3%80%8c%e9%95%b7%e6%96%b0%e5%86%a0%e3%80%8d%e5%be%b5%e7%8b%80-%e6%86%82%e5%ad%b8%e6%a0%a1%e7%88%86)  
+- [浸大中醫院卞兆祥：中藥有效預防新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f7f24e4b0a4690264776b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
