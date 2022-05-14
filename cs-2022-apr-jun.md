@@ -60,5 +60,8 @@
 - [公家擬改用國產電腦，美國PC如病毒般清零 -- 深藍](https://www.bastillepost.com/hongkong/article/10679567-%e5%85%ac%e5%ae%b6%e6%93%ac%e6%9b%b4%e6%8f%9b%e5%9c%8b%e7%94%a2%e9%9b%bb%e8%85%a6%ef%bc%8c%e7%be%8e%e5%9c%8b%e8%a3%bd%e9%80%a0%e5%a6%82%e7%97%85%e6%af%92%e8%88%ac%e6%b8%85%e9%9b%b6)  
 - [中國科學家發現新冠治療新藥 美國學者指抑制病毒能力優於瑞德西韋 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10680107-%e4%b8%ad%e5%9c%8b%e7%a7%91%e5%ad%b8%e5%ae%b6%e7%99%bc%e7%8f%be%e6%96%b0%e5%86%a0%e6%b2%bb%e7%99%82%e6%96%b0%e8%97%a5-%e7%be%8e%e5%ad%b8%e8%80%85%e6%8c%87%e6%8a%91%e5%88%b6%e7%97%85%e6%af%92%e8%83%bd)  
 - [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
+- [廣東「粵省事」APP上線　可實現港康碼和粵康碼轉換 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627e5683e4b0a469026414cd.html)  
+- [@广东人，帮你确认过了，这个APP是真省事！ -- 大湾区之声](https://mp.weixin.qq.com/s/vJKDKtOLGObODq9edsqtTQ)  
+- [湾区Q&A - “扫一扫”原来还分两个版本 -- 大湾区之声](https://mp.weixin.qq.com/s/VQyOa_B6Z7oOO5gGPZMXHA)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
