@@ -63,6 +63,9 @@
 - [05-09-2022 時事觀察 余非：談美國的軍工複合體，以及其成為巨獸的因由；兼及世界軍工業情況](https://www.youtube.com/watch?v=6nAAw98Qj34)  
 - [真相 -「誰是最大的虛假信息傳播者?是美國政府」-- 大公文匯](https://www.tkww.hk/a/202205/11/AP627b581ee4b0a4690262dd64.html)  
 - [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
+- [廣東「粵省事」APP上線　可實現港康碼和粵康碼轉換 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627e5683e4b0a469026414cd.html)  
+- [@广东人，帮你确认过了，这个APP是真省事！ -- 大湾区之声](https://mp.weixin.qq.com/s/vJKDKtOLGObODq9edsqtTQ)  
+- [湾区Q&A - “扫一扫”原来还分两个版本 -- 大湾区之声](https://mp.weixin.qq.com/s/VQyOa_B6Z7oOO5gGPZMXHA)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
