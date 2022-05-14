@@ -62,6 +62,7 @@
 - [外交部詳列美民主基金會事實清單 假民主之名培植親美傀儡顛覆政權 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10648988-%e5%a4%96%e4%ba%a4%e9%83%a8%e8%a9%b3%e5%88%97%e7%be%8e%e6%b0%91%e4%b8%bb%e5%9f%ba%e9%87%91%e6%9c%83%e4%ba%8b%e5%af%a6%e6%b8%85%e5%96%ae-%e5%81%87%e6%b0%91%e4%b8%bb%e4%b9%8b%e5%90%8d%e5%9f%b9%e6%a4%8d)  
 - [05-09-2022 時事觀察 余非：談美國的軍工複合體，以及其成為巨獸的因由；兼及世界軍工業情況](https://www.youtube.com/watch?v=6nAAw98Qj34)  
 - [真相 -「誰是最大的虛假信息傳播者?是美國政府」-- 大公文匯](https://www.tkww.hk/a/202205/11/AP627b581ee4b0a4690262dd64.html)  
+- [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
