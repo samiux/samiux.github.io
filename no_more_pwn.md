@@ -26,4 +26,10 @@ OSCE  OSCP  OSWP
 
 二零二二年三月十三日，中国香港  
 
+## 后记二：
+
+自从 libc-2.27.so 打了补丁后，每日都有 CTF 题目的 ImaginaryCTF 已经很少见有 Linux 二进制档案 (Binary File, ELF) 的题目出现了，至少直至目前为止这个五月份都未曾见到。    
+
+二零二二年五月十五日，中国香港    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
