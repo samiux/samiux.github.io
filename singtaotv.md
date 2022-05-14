@@ -17,6 +17,7 @@
 - [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
 - [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
 - [05-09-2022 時事觀察 余非：談美國的軍工複合體，以及其成為巨獸的因由；兼及世界軍工業情況](https://www.youtube.com/watch?v=6nAAw98Qj34)  
+- [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
 
 # 乌俄冲突
 
@@ -69,5 +70,6 @@
 - [第142期：俄乌冲突对地缘政治将产生怎样的影响？听张维为 邱文平 从普京的演讲说开去，解析美西方肢解中国的招数 -《这就是中国》#ChinaNow EP142 20220509【东方卫视官方频道】](https://www.youtube.com/watch?v=p1dh2bXeq00)  
 - [烏關閉關鍵管道　阻俄輸歐天然氣 -- 大公文匯](https://www.tkww.hk/a/202205/12/AP627c59f1e4b0a4690263435d.html)  
 - [约翰·贝拉米·福斯特：美国介入俄乌冲突背后的霸权企图 -- 观察者网](https://www.guancha.cn/JohnBellamyFoster/2022_05_13_639513.shtml)  
+- [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
