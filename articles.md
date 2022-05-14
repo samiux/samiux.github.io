@@ -66,6 +66,7 @@
 - [廣東「粵省事」APP上線　可實現港康碼和粵康碼轉換 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627e5683e4b0a469026414cd.html)  
 - [@广东人，帮你确认过了，这个APP是真省事！ -- 大湾区之声](https://mp.weixin.qq.com/s/vJKDKtOLGObODq9edsqtTQ)  
 - [湾区Q&A - “扫一扫”原来还分两个版本 -- 大湾区之声](https://mp.weixin.qq.com/s/VQyOa_B6Z7oOO5gGPZMXHA)  
+- [當邏輯白痴成為了言論主流 -- Lorey讀好書 - 2022-05-13 - 繁簡字幕 - Sun Channel](https://www.youtube.com/watch?v=QRSegrVwiGQ)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
