@@ -63,5 +63,7 @@
 - [廣東「粵省事」APP上線　可實現港康碼和粵康碼轉換 -- 大公文匯](https://www.tkww.hk/a/202205/13/AP627e5683e4b0a469026414cd.html)  
 - [@广东人，帮你确认过了，这个APP是真省事！ -- 大湾区之声](https://mp.weixin.qq.com/s/vJKDKtOLGObODq9edsqtTQ)  
 - [湾区Q&A - “扫一扫”原来还分两个版本 -- 大湾区之声](https://mp.weixin.qq.com/s/VQyOa_B6Z7oOO5gGPZMXHA)  
+- [浸大中醫院卞兆祥：中藥有效預防新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f7f24e4b0a4690264776b.html)  
+- [科學家首次在月球土壤中成功培育出植物 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f232fe4b0a46902644b9d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
