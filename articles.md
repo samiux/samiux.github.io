@@ -27,6 +27,7 @@
 
 ## Common Sense
 
+- [习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
 - [爸媽有話兒：父母給子女的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=iC4kPcN_Gfc)  
 - [《觉醒年代》- 理想飞扬的热血青年 激情燃烧的澎湃岁月【全43集】](https://www.youtube.com/playlist?list=PLa213RC5YYIwYGZg9_ffwmsQO_UiEhjxL)  
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
