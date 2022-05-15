@@ -65,5 +65,6 @@
 - [湾区Q&A - “扫一扫”原来还分两个版本 -- 大湾区之声](https://mp.weixin.qq.com/s/VQyOa_B6Z7oOO5gGPZMXHA)  
 - [浸大中醫院卞兆祥：中藥有效預防新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f7f24e4b0a4690264776b.html)  
 - [科學家首次在月球土壤中成功培育出植物 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f232fe4b0a46902644b9d.html)  
+- [林毅夫預測總有一天中國GDP將是美國2倍 屆時美國必須維護兩國關係 中國宜保持經濟發展和開放 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10685634-%e6%9e%97%e6%af%85%e5%a4%ab%e9%a0%90%e6%b8%ac%e7%b8%bd%e6%9c%89%e4%b8%80%e5%a4%a9%e4%b8%ad%e5%9c%8bgdp%e5%b0%87%e6%98%af%e7%be%8e%e5%9c%8b2%e5%80%8d-%e5%b1%86%e6%99%82%e7%be%8e%e5%9c%8b%e5%bf%85)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
