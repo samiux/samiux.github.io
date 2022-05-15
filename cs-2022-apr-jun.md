@@ -66,5 +66,8 @@
 - [浸大中醫院卞兆祥：中藥有效預防新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f7f24e4b0a4690264776b.html)  
 - [科學家首次在月球土壤中成功培育出植物 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f232fe4b0a46902644b9d.html)  
 - [林毅夫預測總有一天中國GDP將是美國2倍 屆時美國必須維護兩國關係 中國宜保持經濟發展和開放 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10685634-%e6%9e%97%e6%af%85%e5%a4%ab%e9%a0%90%e6%b8%ac%e7%b8%bd%e6%9c%89%e4%b8%80%e5%a4%a9%e4%b8%ad%e5%9c%8bgdp%e5%b0%87%e6%98%af%e7%be%8e%e5%9c%8b2%e5%80%8d-%e5%b1%86%e6%99%82%e7%be%8e%e5%9c%8b%e5%bf%85)  
+- [不明原因儿童急性肝炎最新发现：或与新冠病毒超级抗原相关 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18102521)  
+- [** 习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
+- [俄国防部披露美在乌生物军事活动：在精神病院进行人体实验 -- 观察者网](https://www.guancha.cn/internation/2022_05_15_639871.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
