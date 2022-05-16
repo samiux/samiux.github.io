@@ -69,5 +69,6 @@
 - [不明原因儿童急性肝炎最新发现：或与新冠病毒超级抗原相关 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18102521)  
 - [** 习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
 - [俄国防部披露美在乌生物军事活动：在精神病院进行人体实验 -- 观察者网](https://www.guancha.cn/internation/2022_05_15_639871.shtml)  
+- [提防中國，美國做好「今夜開戰」準備？ -- 深藍](https://www.bastillepost.com/hongkong/article/10694182-%e6%8f%90%e9%98%b2%e4%b8%ad%e5%9c%8b%ef%bc%8c%e7%be%8e%e5%9c%8b%e5%81%9a%e5%a5%bd%e3%80%8c%e4%bb%8a%e5%a4%9c%e9%96%8b%e6%88%b0%e3%80%8d%e6%ba%96%e5%82%99%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
