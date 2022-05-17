@@ -70,5 +70,6 @@
 - [** 习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
 - [俄国防部披露美在乌生物军事活动：在精神病院进行人体实验 -- 观察者网](https://www.guancha.cn/internation/2022_05_15_639871.shtml)  
 - [提防中國，美國做好「今夜開戰」準備？ -- 深藍](https://www.bastillepost.com/hongkong/article/10694182-%e6%8f%90%e9%98%b2%e4%b8%ad%e5%9c%8b%ef%bc%8c%e7%be%8e%e5%9c%8b%e5%81%9a%e5%a5%bd%e3%80%8c%e4%bb%8a%e5%a4%9c%e9%96%8b%e6%88%b0%e3%80%8d%e6%ba%96%e5%82%99%ef%bc%9f)  
+- [內地推「常態化核酸檢測」 設15分鐘可到「核酸採樣圈」 方便市民 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10696651-%e5%85%a7%e5%9c%b0%e6%8e%a8%e3%80%8c%e5%b8%b8%e6%85%8b%e5%8c%96%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac%e3%80%8d-%e8%a8%ad15%e5%88%86%e9%90%98%e5%8f%af%e5%88%b0%e3%80%8c%e6%a0%b8%e9%85%b8%e6%8e%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
