@@ -551,6 +551,7 @@
 - [浸大中醫院卞兆祥：中藥有效預防新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f7f24e4b0a4690264776b.html)  
 - [不明原因儿童急性肝炎最新发现：或与新冠病毒超级抗原相关 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18102521)  
 - [內地推「常態化核酸檢測」 設15分鐘可到「核酸採樣圈」 方便市民 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10696651-%e5%85%a7%e5%9c%b0%e6%8e%a8%e3%80%8c%e5%b8%b8%e6%85%8b%e5%8c%96%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac%e3%80%8d-%e8%a8%ad15%e5%88%86%e9%90%98%e5%8f%af%e5%88%b0%e3%80%8c%e6%a0%b8%e9%85%b8%e6%8e%a1)  
+- [衛健委主任為「動態清零」定調 倡升級至15分鐘採樣圈、永久性方艙醫院 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10697504-%e8%a1%9b%e5%81%a5%e5%a7%94%e4%b8%bb%e4%bb%bb%e7%82%ba%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d%e5%ae%9a%e8%aa%bf-%e5%80%a1%e5%8d%87%e7%b4%9a%e8%87%b315%e5%88%86%e9%90%98%e6%8e%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
