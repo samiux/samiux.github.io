@@ -550,6 +550,7 @@
 - [關日華：1成染疫童有「長新冠」 憂校內爆發第6波疫情 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10681332-%e9%97%9c%e6%97%a5%e8%8f%af%e6%8c%87%e4%b8%80%e6%88%90%e6%9f%93%e7%96%ab%e5%85%92%e7%ab%a5%e7%8f%be%e3%80%8c%e9%95%b7%e6%96%b0%e5%86%a0%e3%80%8d%e5%be%b5%e7%8b%80-%e6%86%82%e5%ad%b8%e6%a0%a1%e7%88%86)  
 - [浸大中醫院卞兆祥：中藥有效預防新冠病毒 -- 大公文匯](https://www.tkww.hk/a/202205/14/AP627f7f24e4b0a4690264776b.html)  
 - [不明原因儿童急性肝炎最新发现：或与新冠病毒超级抗原相关 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18102521)  
+- [內地推「常態化核酸檢測」 設15分鐘可到「核酸採樣圈」 方便市民 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10696651-%e5%85%a7%e5%9c%b0%e6%8e%a8%e3%80%8c%e5%b8%b8%e6%85%8b%e5%8c%96%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac%e3%80%8d-%e8%a8%ad15%e5%88%86%e9%90%98%e5%8f%af%e5%88%b0%e3%80%8c%e6%a0%b8%e9%85%b8%e6%8e%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
