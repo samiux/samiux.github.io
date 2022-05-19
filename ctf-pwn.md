@@ -24,12 +24,14 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 ### Linux Binary Exploitation - pwn
 
-Points are between 50 and 200 (step by 25).  The higher score the harder in general.  
+PwnCTF 2022 is developed on CTFd Framework.  It is mainly designed for Pwnable and it is a all seasons challenges.
 
-- [babypwn](/babypwn.md)  - Point 150
-- [q3](/q3.md)  - Point 175
-- [letters_to_space](/letters_to_space.md)  - Point 175
-- [babypwn2](/babypwn2.md)  - Point 175
+Usage : Import the ova file to Virtualbox or VMWare and access the control panel at the server IP address on port 8000.
+        It is well tested on Virtualbox should be running better.
+
+- sha256  0948e7093a786a654657b938360d74ae37a94f43c20f120c5c37811f0704e854  PwnCTF 2022 Public.ova
+
+- [Download PwnCTF 2022 Public.ova (3.54GB)](https://drive.google.com/file/d/1uYiUwdIFx-f7KoJmOU1zlMEMeiYiDN3B/view?usp=sharing)  
 
 ## Tutorials & Writeups
 
