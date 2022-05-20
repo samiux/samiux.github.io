@@ -27,7 +27,7 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 PwnCTF 2022 is developed on CTFd Framework.  It is mainly designed for Pwnable and it is a all seasons challenges.
 
 Usage : Import the ova file to Virtualbox or VMWare and access the control panel at the server IP address on port 8000.
-        It is well tested on Virtualbox should be running better.
+        It is well tested on Virtualbox.
 
 - sha256  0948e7093a786a654657b938360d74ae37a94f43c20f120c5c37811f0704e854  PwnCTF 2022 Public.ova
 
