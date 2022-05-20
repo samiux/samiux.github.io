@@ -33,6 +33,17 @@ Usage : Import the ova file to Virtualbox or VMWare and access the control panel
 
 - [Download PwnCTF 2022 Public.ova (3.54GB)](https://drive.google.com/file/d/1uYiUwdIFx-f7KoJmOU1zlMEMeiYiDN3B/view?usp=sharing)  
 
+- sha256  aa7dc68649aef45c95a6598e591e7f31209a266a00816e9fb3678d4bcdc91424  PwnCTF 2022.1 Public.ova
+
+- [Download PwnCTF 2022.1 Public.ova (3.59GB)](https://drive.google.com/file/d/1TNW34Z-y-qn7LzCBxf9t50ftFgiPjlR_/view?usp=sharing)  
+
+#### Changelog
+
+- May 20, 2022 - PwnCTF 2022 First released
+- May 21, 2022 - PwnCTF 2022.1 Some improvement
+
+* Remarks : Both versions are stable.  
+
 ## Tutorials & Writeups
 
 ### Writeups  
