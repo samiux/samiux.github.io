@@ -31,13 +31,13 @@ PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respective
 Usage : Import the ova file into Virtualbox or VMWare and access the control panel at the server IP address on port 8000 with browser.
         It is well tested on Virtualbox.
 
-- sha256   5d64db9052939b385ce777e6706d413e607827ee2e1483a28849e7dc2584c6a3  PwnCTF 2022.2.ova  
+- sha256  528d5875e96b1a6669bc503a25864e003aeadb37704b91541ce5c69b364a8d07  PwnCTF 2022.2.ova  
 
-- [Download PwnCTF 2022.2.ova (3.84GB)](https://drive.google.com/file/d/1tyij9BwlHBOLENr6a9nVtSPR4hZNIEEo/view?usp=sharing)  
+- [Download PwnCTF 2022.2.ova (3.84GB)](https://drive.google.com/file/d/1oUmLSSMIZELQZ5Gm1T-AITwGILdda3bo/view?usp=sharing)  
 
-- sha256   d74e6a6ae11c030adbd486c4f9574d7d9041a81bdf66dce40d8eb9beb02d43bf  PwnCTF 2022 Now.ova  
+- sha256  0277c71b28d4dfe077b65075d6e21e6a912e7b8a606be0de108423c73f6132f9  PwnCTF 2022 Now.ova  
 
-- [Download PwnCTF 2022 Now.ova (3.81GB)](https://drive.google.com/file/d/1Hx6_-B8PUohEIz9L2_1yfV9kLUYCA7EK/view?usp=sharing)  
+- [Download PwnCTF 2022 Now.ova (3.81GB)](https://drive.google.com/file/d/1cnPHk5um_WT6-owVFvhSLtNXheD7A6WE/view?usp=sharing)  
 
 
 #### Changelog
