@@ -26,7 +26,7 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 PwnCTF 2022 is developed on CTFd Framework.  It is mainly designed for Pwnable and it is a all seasons challenges.
 
-PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is the current latest such as Ubuntu 22.04 LTS.  Glibc 2.31 is the current such as Ubuntu 20.04 LTS.
+PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is the current latest such as Ubuntu 22.04 LTS.  Glibc 2.31 is the current such as Ubuntu 20.04 LTS.  There are a total 10 challenges for each version.  Meanwhile, both versions have the same binaries.
 
 Usage : Import the ova file into Virtualbox or VMWare and access the control panel at the server IP address on port 8000 with browser.
         It is well tested on Virtualbox.
