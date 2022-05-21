@@ -39,7 +39,6 @@ Usage : Import the ova file into Virtualbox or VMWare and access the control pan
 
 - [Download PwnCTF 2022 Now.ova (3.81GB)](https://drive.google.com/file/d/1cnPHk5um_WT6-owVFvhSLtNXheD7A6WE/view?usp=sharing)  
 
-
 #### Changelog
 
 - May 20, 2022 - PwnCTF 2022 First released (For Glibc 2.31)  
