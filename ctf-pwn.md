@@ -26,21 +26,26 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 PwnCTF 2022 is developed on CTFd Framework.  It is mainly designed for Pwnable and it is a all seasons challenges.
 
-Usage : Import the ova file to Virtualbox or VMWare and access the control panel at the server IP address on port 8000.
+PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is the current latest such as Ubuntu 22.04 LTS.  Glibc 2.31 is the current such as Ubuntu 20.04 LTS.
+
+Usage : Import the ova file into Virtualbox or VMWare and access the control panel at the server IP address on port 8000 with browser.
         It is well tested on Virtualbox.
 
-- sha256  0948e7093a786a654657b938360d74ae37a94f43c20f120c5c37811f0704e854  PwnCTF 2022 Public.ova
+- sha256   5d64db9052939b385ce777e6706d413e607827ee2e1483a28849e7dc2584c6a3  PwnCTF 2022.2.ova  
 
-- [Download PwnCTF 2022 Public.ova (3.54GB)](https://drive.google.com/file/d/1uYiUwdIFx-f7KoJmOU1zlMEMeiYiDN3B/view?usp=sharing)  
+- [Download PwnCTF 2022.2.ova (3.84GB)](https://drive.google.com/file/d/1tyij9BwlHBOLENr6a9nVtSPR4hZNIEEo/view?usp=sharing)  
 
-- sha256  aa7dc68649aef45c95a6598e591e7f31209a266a00816e9fb3678d4bcdc91424  PwnCTF 2022.1 Public.ova
+- sha256   d74e6a6ae11c030adbd486c4f9574d7d9041a81bdf66dce40d8eb9beb02d43bf  PwnCTF 2022 Now.ova  
 
-- [Download PwnCTF 2022.1 Public.ova (3.59GB)](https://drive.google.com/file/d/1TNW34Z-y-qn7LzCBxf9t50ftFgiPjlR_/view?usp=sharing)  
+- [Download PwnCTF 2022 Now.ova (3.81GB)](https://drive.google.com/file/d/1Hx6_-B8PUohEIz9L2_1yfV9kLUYCA7EK/view?usp=sharing)  
+
 
 #### Changelog
 
-- May 20, 2022 - PwnCTF 2022 First released
-- May 21, 2022 - PwnCTF 2022.1 Some improvement
+- May 20, 2022 - PwnCTF 2022 First released (For Glibc 2.31)  
+- May 21, 2022 - PwnCTF 2022.1 Some improvement  
+- May 21, 2022 - PwnCTF 2002.2 Increase 5 more challenges  
+- May 21, 2022 - PwnCTF 2022 Now First released (For Glibc 2.35)  
 
 * Remarks : Both versions are stable.  
 
