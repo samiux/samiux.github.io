@@ -48,7 +48,7 @@ Usage : Import the ova file into Virtualbox or VMWare and access the control pan
 
 #### Demo
 
-[![](https://img.youtube.com/vi/trXaT_r_P0s/0.jpg)](https://youtu.be/trXaT_r_P0s "PwnCTF 2022 Now Demo")  
+
 
 ## Tutorials & Writeups
 
