@@ -7,15 +7,15 @@
 
 ## Basic Knowledge Requirements
 
-- Linux  (Ubuntu or Kali Linux is recommended)
+- Linux  (Ubuntu, Parrot OS or Kali Linux is recommended)
 - Linux security features  (RELRO, Canary, NX, PIE & etc)
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
-- Assemble Language  
+- Assemble Language knowledge 
 - Ghidra or IDA (optional but recommended)
-- C/C++ Language  
+- C/C++ Language knowledge 
 - Python Language  (Python 3 is recommended)
-- Exploit Development  
+- Exploit Development skill 
 - pwntools (optional but recommended)  
 
 ## Challenges
