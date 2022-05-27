@@ -17,7 +17,8 @@
 - [04-25-2022 時事觀察 國凱 ：上海食物短缺與「災難財」](https://www.youtube.com/watch?v=so8vxLytgKA&t=0s)  
 - [05-07-2022 星電視快評 余非 ：這一次不談時事，讓我說說「時事」](https://www.youtube.com/watch?v=S7_I72RKERo)  
 - [05-09-2022 時事觀察 余非：談美國的軍工複合體，以及其成為巨獸的因由；兼及世界軍工業情況](https://www.youtube.com/watch?v=6nAAw98Qj34)  
-- [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
+- [05-14-2022 星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
+- [05-25-2022 時事觀察 第1節--霍詠強: 以為有網絡自由？資訊自由？想多了。](https://www.youtube.com/watch?v=_n55MhhcCzA)  
 
 # 乌俄冲突
 
