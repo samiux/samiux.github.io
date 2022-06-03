@@ -73,5 +73,6 @@
 - [约翰·贝拉米·福斯特：美国介入俄乌冲突背后的霸权企图 -- 观察者网](https://www.guancha.cn/JohnBellamyFoster/2022_05_13_639513.shtml)  
 - [05-14-2022星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
 - [俄国防部披露美在乌生物军事活动：在精神病院进行人体实验 -- 观察者网](https://www.guancha.cn/internation/2022_05_15_639871.shtml)  
+- [【on.cc東網】東網評論：國家前途難自決　棋子命運太悲哀](https://www.youtube.com/watch?v=4QA0A5LsFVY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
