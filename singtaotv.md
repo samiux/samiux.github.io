@@ -75,5 +75,6 @@
 - [俄国防部披露美在乌生物军事活动：在精神病院进行人体实验 -- 观察者网](https://www.guancha.cn/internation/2022_05_15_639871.shtml)  
 - [【on.cc東網】東網評論：國家前途難自決　棋子命運太悲哀](https://www.youtube.com/watch?v=4QA0A5LsFVY)  
 - [歐美漸現「援烏疲勞」　抗俄團結面臨考驗 -- 大公文匯](https://www.tkww.hk/a/202206/04/AP629add94e4b0a469026e0c4a.html)   
+- [俄限惰性氣體出口回應歐盟制裁 或加劇晶片荒 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10800215-%e4%bf%84%e9%99%90%e6%83%b0%e6%80%a7%e6%b0%a3%e9%ab%94%e5%87%ba%e5%8f%a3%e5%9b%9e%e6%87%89%e6%ad%90%e7%9b%9f%e5%88%b6%e8%a3%81-%e6%88%96%e5%8a%a0%e5%8a%87%e6%99%b6%e7%89%87%e8%8d%92?current_cat=5)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
