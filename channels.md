@@ -96,6 +96,12 @@
 - [这份脂肪肝食谱胖瘦都能用，照着吃准没错 -- 小大夫漫画](https://www.thepaper.cn/newsDetail_forward_13812540)  
 - [Humana Health Academy](https://www.youtube.com/channel/UCWCAkDh09ohFthphGmA7NQw)  
 - [OUHK - 體重管理系列：減肥的疑惑](https://www.youtube.com/watch?v=3lAcZs806qU)  
+- [HKMU - 全民國家安全教育日](https://www.youtube.com/watch?v=yrYH7XYDSeU)  
+- [OUHK - 學懂快樂 海闊天空](https://www.youtube.com/watch?v=aYTZhVxReeA)  
+- [HKMU - 中醫角度 ：如何提升免疫力](https://www.youtube.com/watch?v=D35zcgX4hIU)  
+- [OUHK - 體重管理系列：從中醫護理角度探索體重管理](https://www.youtube.com/watch?v=Upr_C8ecC_s)  
+- [OUHK - 退休投資「心」法](https://www.youtube.com/watch?v=R0F9WQfOV5w)  
+- [OUHK - 策劃退休精明要訣](https://www.youtube.com/watch?v=LVIXQb-aeIk)  
 
 # Articles and Videos
 
