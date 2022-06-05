@@ -95,6 +95,7 @@
 - [节食减肥？运动减肥？不做好这两点，任何减肥方法都没用 -- 小大夫漫画](https://www.thepaper.cn/newsDetail_forward_13526396)  
 - [这份脂肪肝食谱胖瘦都能用，照着吃准没错 -- 小大夫漫画](https://www.thepaper.cn/newsDetail_forward_13812540)  
 - [Humana Health Academy](https://www.youtube.com/channel/UCWCAkDh09ohFthphGmA7NQw)  
+- [OUHK - 體重管理系列：減肥的疑惑](https://www.youtube.com/watch?v=3lAcZs806qU)  
 
 # Articles and Videos
 
