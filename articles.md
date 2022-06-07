@@ -76,6 +76,8 @@
 - [湾区Q&A - “扫一扫”原来还分两个版本 -- 大湾区之声](https://mp.weixin.qq.com/s/VQyOa_B6Z7oOO5gGPZMXHA)  
 - [當邏輯白痴成為了言論主流 -- Lorey讀好書 - 2022-05-13 - 繁簡字幕 - Sun Channel](https://www.youtube.com/watch?v=QRSegrVwiGQ)  
 - [05-25-2022 時事觀察 第1節--霍詠強: 以為有網絡自由？資訊自由？想多了。](https://www.youtube.com/watch?v=_n55MhhcCzA)  
+- [Who Moved My Cheese？小心，我連Chips都要動你的！ -- 深藍](https://www.bastillepost.com/hongkong/article/10815930-who-moved-my-cheese%ef%bc%9f%e5%b0%8f%e5%bf%83%ef%bc%8c%e4%b8%8b%e6%ac%a1%e6%88%91%e9%80%a3chips%e9%83%bd%e8%a6%81%e6%8b%bf%e8%b5%b0%ef%bc%81)  
+- [陈文玲：我们不能让台积电转移到美国 -- 观察者网](https://www.guancha.cn/chenwenling/2022_06_06_643134.shtml)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
