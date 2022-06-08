@@ -73,5 +73,9 @@
 - [內地推「常態化核酸檢測」 設15分鐘可到「核酸採樣圈」 方便市民 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10696651-%e5%85%a7%e5%9c%b0%e6%8e%a8%e3%80%8c%e5%b8%b8%e6%85%8b%e5%8c%96%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac%e3%80%8d-%e8%a8%ad15%e5%88%86%e9%90%98%e5%8f%af%e5%88%b0%e3%80%8c%e6%a0%b8%e9%85%b8%e6%8e%a1)  
 - [Who Moved My Cheese？小心，我連Chips都要動你的！ -- 深藍](https://www.bastillepost.com/hongkong/article/10815930-who-moved-my-cheese%ef%bc%9f%e5%b0%8f%e5%bf%83%ef%bc%8c%e4%b8%8b%e6%ac%a1%e6%88%91%e9%80%a3chips%e9%83%bd%e8%a6%81%e6%8b%bf%e8%b5%b0%ef%bc%81)  
 - [陈文玲：我们不能让台积电转移到美国 -- 观察者网](https://www.guancha.cn/chenwenling/2022_06_06_643134.shtml)  
+- [俄國脫歐投華 俄電動車轉向中國充電標準 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10818035-%e4%bf%84%e5%9c%8b%e8%84%ab%e6%ad%90%e6%8a%95%e8%8f%af-%e4%bf%84%e9%9b%bb%e5%8b%95%e8%bb%8a%e8%bd%89%e5%90%91%e4%b8%ad%e5%9c%8b%e5%85%85%e9%9b%bb%e6%a8%99%e6%ba%96)  
+- [前德國大使： 俄烏戰爭是一個歷史性轉折點 美國一再違反聯合國決議 -- 深喉](https://www.bastillepost.com/hongkong/article/10818186-%e5%89%8d%e5%be%b7%e5%9c%8b%e5%a4%a7%e4%bd%bf%ef%bc%9a-%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad%e6%98%af%e4%b8%80%e5%80%8b%e6%ad%b7%e5%8f%b2%e6%80%a7%e8%bd%89%e6%8a%98%e9%bb%9e-%e7%be%8e%e5%9c%8b%e4%b8%80)  
+- [美國通脹高企 中產缺政府援助 老師靠每周賣兩次血維生 -- 深喉](https://www.bastillepost.com/hongkong/article/10819113-%e7%be%8e%e5%9c%8b%e9%80%9a%e8%84%b9%e9%ab%98%e4%bc%81-%e4%b8%ad%e7%94%a2%e7%bc%ba%e6%94%bf%e5%ba%9c%e6%8f%b4%e5%8a%a9-%e8%80%81%e5%b8%ab%e9%9d%a0%e6%af%8f%e5%91%a8%e8%b3%a3%e5%85%a9%e6%ac%a1%e8%a1%80)  
+- [強積金對沖終成歷史 吳秋北回顧打工仔權益被制度性剝削始末 -- Ariel](https://www.bastillepost.com/hongkong/article/10819480-%e5%bc%b7%e7%a9%8d%e9%87%91%e5%b0%8d%e6%b2%96%e7%b5%82%e6%88%90%e6%ad%b7%e5%8f%b2-%e5%90%b3%e7%a7%8b%e5%8c%97%e5%9b%9e%e9%a1%a7%e6%89%93%e5%b7%a5%e4%bb%94%e6%ac%8a%e7%9b%8a%e8%a2%ab%e5%88%b6%e5%ba%a6)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
