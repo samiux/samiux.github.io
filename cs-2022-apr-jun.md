@@ -77,5 +77,6 @@
 - [前德國大使： 俄烏戰爭是一個歷史性轉折點 美國一再違反聯合國決議 -- 深喉](https://www.bastillepost.com/hongkong/article/10818186-%e5%89%8d%e5%be%b7%e5%9c%8b%e5%a4%a7%e4%bd%bf%ef%bc%9a-%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad%e6%98%af%e4%b8%80%e5%80%8b%e6%ad%b7%e5%8f%b2%e6%80%a7%e8%bd%89%e6%8a%98%e9%bb%9e-%e7%be%8e%e5%9c%8b%e4%b8%80)  
 - [美國通脹高企 中產缺政府援助 老師靠每周賣兩次血維生 -- 深喉](https://www.bastillepost.com/hongkong/article/10819113-%e7%be%8e%e5%9c%8b%e9%80%9a%e8%84%b9%e9%ab%98%e4%bc%81-%e4%b8%ad%e7%94%a2%e7%bc%ba%e6%94%bf%e5%ba%9c%e6%8f%b4%e5%8a%a9-%e8%80%81%e5%b8%ab%e9%9d%a0%e6%af%8f%e5%91%a8%e8%b3%a3%e5%85%a9%e6%ac%a1%e8%a1%80)  
 - [強積金對沖終成歷史 吳秋北回顧打工仔權益被制度性剝削始末 -- Ariel](https://www.bastillepost.com/hongkong/article/10819480-%e5%bc%b7%e7%a9%8d%e9%87%91%e5%b0%8d%e6%b2%96%e7%b5%82%e6%88%90%e6%ad%b7%e5%8f%b2-%e5%90%b3%e7%a7%8b%e5%8c%97%e5%9b%9e%e9%a1%a7%e6%89%93%e5%b7%a5%e4%bb%94%e6%ac%8a%e7%9b%8a%e8%a2%ab%e5%88%b6%e5%ba%a6)  
+- [有「氖」便是娘，「芯片四方聯盟」當堂散哂 -- 深藍](https://www.bastillepost.com/hongkong/article/10821904-%e6%9c%89%e3%80%8c%e6%b0%96%e3%80%8d%e4%be%bf%e6%98%af%e5%a8%98%ef%bc%8c%e3%80%8c%e8%8a%af%e7%89%87%e5%9b%9b%e6%96%b9%e8%81%af%e7%9b%9f%e3%80%8d%e4%b8%80%e6%9c%9d%e6%95%a3%e5%93%82)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
