@@ -78,5 +78,6 @@
 - [俄限惰性氣體出口回應歐盟制裁 或加劇晶片荒 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10800215-%e4%bf%84%e9%99%90%e6%83%b0%e6%80%a7%e6%b0%a3%e9%ab%94%e5%87%ba%e5%8f%a3%e5%9b%9e%e6%87%89%e6%ad%90%e7%9b%9f%e5%88%b6%e8%a3%81-%e6%88%96%e5%8a%a0%e5%8a%87%e6%99%b6%e7%89%87%e8%8d%92?current_cat=5)  
 - [俄預警斷供惰性氣體 專家：西方戰略半導體產業或崩潰 -- 深喉](https://www.bastillepost.com/hongkong/article/10813025-%e4%bf%84%e9%a0%90%e8%ad%a6%e6%96%b7%e4%be%9b%e6%83%b0%e6%80%a7%e6%b0%a3%e9%ab%94-%e5%b0%88%e5%ae%b6%ef%bc%9a%e8%a5%bf%e6%96%b9%e6%88%b0%e7%95%a5%e5%8d%8a%e5%b0%8e%e9%ab%94%e7%94%a2%e6%a5%ad%e6%88%96)  
 - [美媒文章：美對俄鷹派理念狂妄而且危險 「俄羅斯崩潰只是一種幻想」-- 深喉](https://www.bastillepost.com/hongkong/article/10812624-%e7%be%8e%e5%aa%92%e6%96%87%e7%ab%a0%ef%bc%9a%e7%be%8e%e5%b0%8d%e4%bf%84%e9%b7%b9%e6%b4%be%e7%90%86%e5%bf%b5%e7%8b%82%e5%a6%84%e8%80%8c%e4%b8%94%e5%8d%b1%e9%9a%aa-%e3%80%8c%e4%bf%84%e7%be%85%e6%96%af)  
+- [盧永雄「巴士的點評」普京自比彼得大帝信心滿滿。俄軍罕有動用4架蘇-57編隊，先進戰法摧毀烏軍防空系統。 22年6月9日](https://www.youtube.com/watch?v=GpM57ojeWJ4)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
