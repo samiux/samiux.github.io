@@ -80,5 +80,9 @@
 - [有「氖」便是娘，「芯片四方聯盟」當堂散哂 -- 深藍](https://www.bastillepost.com/hongkong/article/10821904-%e6%9c%89%e3%80%8c%e6%b0%96%e3%80%8d%e4%be%bf%e6%98%af%e5%a8%98%ef%bc%8c%e3%80%8c%e8%8a%af%e7%89%87%e5%9b%9b%e6%96%b9%e8%81%af%e7%9b%9f%e3%80%8d%e4%b8%80%e6%9c%9d%e6%95%a3%e5%93%82)  
  [多家日企陷入造假漩渦 又一日本製造業巨頭承認造假38年 -- 深喉](https://www.bastillepost.com/hongkong/article/10824496-%e5%a4%9a%e5%ae%b6%e6%97%a5%e4%bc%81%e9%99%b7%e5%85%a5%e9%80%a0%e5%81%87%e6%bc%a9%e6%b8%a6-%e5%8f%88%e4%b8%80%e6%97%a5%e6%9c%ac%e8%a3%bd%e9%80%a0%e6%a5%ad%e5%b7%a8%e9%a0%ad%e6%89%bf%e8%aa%8d%e9%80%a0)  
 - [美煉油公司CEO叫拜登打開原油水龍頭 否則美國即將「毀滅」-- 深喉](https://www.bastillepost.com/hongkong/article/10824264-%e7%be%8e%e7%85%89%e6%b2%b9%e5%85%ac%e5%8f%b8ceo%e5%8f%ab%e6%8b%9c%e7%99%bb%e6%89%93%e9%96%8b%e5%8e%9f%e6%b2%b9%e6%b0%b4%e9%be%8d%e9%a0%ad-%e5%90%a6%e5%89%87%e7%be%8e%e5%9c%8b%e5%8d%b3%e5%b0%87)  
+- [國家利益當前，面向Hi Tech搞建設 -- 深藍](https://www.bastillepost.com/hongkong/article/10834805-%e4%b8%8d%e8%a6%81%e5%87%ba%e8%b3%a3%e5%9c%8b%e5%ae%b6%e5%88%a9%e7%9b%8a%ef%bc%8c%e9%9d%a2%e5%90%91hi-tech%e6%90%9e%e5%bb%ba%e8%a8%ad%e5%90%a7)  
+- [向左走向右走 -- 盧永雄](https://www.bastillepost.com/hongkong/article/10833748-%e5%90%91%e5%b7%a6%e8%b5%b0%e5%90%91%e5%8f%b3%e8%b5%b0)  
+-[非新冠康復者也「腦霧」 年輕人須防記憶力提早衰退 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10752986-%e9%9d%9e%e6%96%b0%e5%86%a0%e5%ba%b7%e5%be%a9%e8%80%85%e4%b9%9f%e3%80%8c%e8%85%a6%e9%9c%a7%e3%80%8d-%e5%b9%b4%e8%bc%95%e4%ba%ba%e9%a0%88%e9%98%b2%e8%a8%98%e6%86%b6%e5%8a%9b%e6%8f%90%e6%97%a9%e8%a1%b0?current_cat=8)  
+- [盧永雄「巴士的點評」普京自比彼得大帝信心滿滿。俄軍罕有動用4架蘇-57編隊，先進戰法摧毀烏軍防空系統。 22年6月9日](https://www.youtube.com/watch?v=GpM57ojeWJ4)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
