@@ -562,6 +562,7 @@
 - [港大成功破解康復者持續骨痛腳痛之謎 -- 大公文匯](https://www.tkww.hk/a/202205/20/AP6286d6d6e4b0a4690266efd5.html)  
 - [報告：五分一成年患者有「長新冠」 多種器官損傷 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10748007-%e7%be%8e%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e5%a0%b1%e5%91%8a%ef%bc%9a%e4%ba%94%e5%88%86%e4%b8%80%e6%88%90%e5%b9%b4%e6%82%a3%e8%80%85%e6%9c%89%e3%80%8c%e9%95%b7%e6%96%b0%e5%86%a0%e3%80%8d-%e5%a4%9a)  
 - [美160萬人反覆染疫　最多中招五次 -- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2967ee4b0a4690270ab72.html)  
+- [美國160萬人反覆染疫 症狀更嚴重 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247567636&idx=2&sn=16c5d7327df35d0c95faaa88a4dec8ae&chksm=e9ad80a6deda09b0fe78c725bb30efc5750bc9b120c69dac2369220514154d0a892722b2c34c&token=852472368&lang=zh_CN#rd)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
