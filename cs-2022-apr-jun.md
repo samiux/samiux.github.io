@@ -84,5 +84,7 @@
 - [向左走向右走 -- 盧永雄](https://www.bastillepost.com/hongkong/article/10833748-%e5%90%91%e5%b7%a6%e8%b5%b0%e5%90%91%e5%8f%b3%e8%b5%b0)  
 -[非新冠康復者也「腦霧」 年輕人須防記憶力提早衰退 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10752986-%e9%9d%9e%e6%96%b0%e5%86%a0%e5%ba%b7%e5%be%a9%e8%80%85%e4%b9%9f%e3%80%8c%e8%85%a6%e9%9c%a7%e3%80%8d-%e5%b9%b4%e8%bc%95%e4%ba%ba%e9%a0%88%e9%98%b2%e8%a8%98%e6%86%b6%e5%8a%9b%e6%8f%90%e6%97%a9%e8%a1%b0?current_cat=8)  
 - [盧永雄「巴士的點評」普京自比彼得大帝信心滿滿。俄軍罕有動用4架蘇-57編隊，先進戰法摧毀烏軍防空系統。 22年6月9日](https://www.youtube.com/watch?v=GpM57ojeWJ4)  
+- [油價飆人都癲　美民生爆亂象 -- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2adf6e4b0a4690270b87f.html)  
+- [8國領袖缺席美洲峰會 　「證美與鄰國關係多糟糕」-- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2a2cde4b0a4690270b25b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
