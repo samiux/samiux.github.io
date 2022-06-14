@@ -81,5 +81,6 @@
 - [美媒文章：美對俄鷹派理念狂妄而且危險 「俄羅斯崩潰只是一種幻想」-- 深喉](https://www.bastillepost.com/hongkong/article/10812624-%e7%be%8e%e5%aa%92%e6%96%87%e7%ab%a0%ef%bc%9a%e7%be%8e%e5%b0%8d%e4%bf%84%e9%b7%b9%e6%b4%be%e7%90%86%e5%bf%b5%e7%8b%82%e5%a6%84%e8%80%8c%e4%b8%94%e5%8d%b1%e9%9a%aa-%e3%80%8c%e4%bf%84%e7%be%85%e6%96%af)  
 - [盧永雄「巴士的點評」普京自比彼得大帝信心滿滿。俄軍罕有動用4架蘇-57編隊，先進戰法摧毀烏軍防空系統。 22年6月9日](https://www.youtube.com/watch?v=GpM57ojeWJ4)  
 - [油價飆人都癲　美民生爆亂象 -- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2adf6e4b0a4690270b87f.html)  
+- [6-11-2022 快評——余非—普京可以強勢領導，因為班子內包括這位女士](https://www.youtube.com/watch?v=F1zAl0DV5-4)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
