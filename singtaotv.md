@@ -82,5 +82,8 @@
 - [盧永雄「巴士的點評」普京自比彼得大帝信心滿滿。俄軍罕有動用4架蘇-57編隊，先進戰法摧毀烏軍防空系統。 22年6月9日](https://www.youtube.com/watch?v=GpM57ojeWJ4)  
 - [油價飆人都癲　美民生爆亂象 -- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2adf6e4b0a4690270b87f.html)  
 - [6-11-2022 快評——余非—普京可以強勢領導，因為班子內包括這位女士](https://www.youtube.com/watch?v=F1zAl0DV5-4)  
+- [普京演讲全文：俄经济发展将遵循六项主要原则 -- 弗拉基米尔·普京](https://www.guancha.cn/f-putin/2022_06_20_645466.shtml)  
+- [荷兰记者：你们存在腐败问题...，泽连斯基：你亲眼所见？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18659681)  
+- [低估了普京还忽视情报？泽连斯基回应 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18659740)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
