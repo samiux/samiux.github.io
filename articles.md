@@ -78,6 +78,8 @@
 - [05-25-2022 時事觀察 第1節--霍詠強: 以為有網絡自由？資訊自由？想多了。](https://www.youtube.com/watch?v=_n55MhhcCzA)  
 - [Who Moved My Cheese？小心，我連Chips都要動你的！ -- 深藍](https://www.bastillepost.com/hongkong/article/10815930-who-moved-my-cheese%ef%bc%9f%e5%b0%8f%e5%bf%83%ef%bc%8c%e4%b8%8b%e6%ac%a1%e6%88%91%e9%80%a3chips%e9%83%bd%e8%a6%81%e6%8b%bf%e8%b5%b0%ef%bc%81)  
 - [陈文玲：我们不能让台积电转移到美国 -- 观察者网](https://www.guancha.cn/chenwenling/2022_06_06_643134.shtml)  
+- [外交部發4萬字文件轟美國 列舉21個謬誤範疇 駁美國對華政策 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10883693-%e5%a4%96%e4%ba%a4%e9%83%a8%e7%99%bc4%e8%90%ac%e5%ad%97%e6%96%87%e4%bb%b6%e8%bd%9f%e7%be%8e%e5%9c%8b-%e5%88%97%e8%88%8921%e5%80%8b%e8%ac%ac%e8%aa%a4%e7%af%84%e7%96%87-%e9%a7%81%e7%be%8e%e5%9c%8b)  
+- [美國對華認知中的謬誤和事實真相 -- 大公文匯](https://www.tkww.hk/a/202206/19/AP62af4278e4b0a46902756dad.html)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
