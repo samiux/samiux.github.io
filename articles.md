@@ -80,6 +80,10 @@
 - [陈文玲：我们不能让台积电转移到美国 -- 观察者网](https://www.guancha.cn/chenwenling/2022_06_06_643134.shtml)  
 - [外交部發4萬字文件轟美國 列舉21個謬誤範疇 駁美國對華政策 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10883693-%e5%a4%96%e4%ba%a4%e9%83%a8%e7%99%bc4%e8%90%ac%e5%ad%97%e6%96%87%e4%bb%b6%e8%bd%9f%e7%be%8e%e5%9c%8b-%e5%88%97%e8%88%8921%e5%80%8b%e8%ac%ac%e8%aa%a4%e7%af%84%e7%96%87-%e9%a7%81%e7%be%8e%e5%9c%8b)  
 - [美國對華認知中的謬誤和事實真相 -- 大公文匯](https://www.tkww.hk/a/202206/19/AP62af4278e4b0a46902756dad.html)  
+- [四万字长文！外交部驳斥美对华认知21条谬误 -- 中华人民共和国外交部](https://www.guancha.cn/WaiJiaoBu/2022_06_19_645369.shtml)  
+- [美國靠呃又恃惡，何以我們制裁不了？ -- 深藍](https://www.bastillepost.com/hongkong/article/10886962-%e7%be%8e%e5%9c%8b%e9%9d%a0%e5%91%83%e5%8f%88%e6%81%83%e6%83%a1%ef%bc%8c%e4%bd%95%e4%bb%a5%e6%88%91%e5%80%91%e5%88%b6%e8%a3%81%e4%b8%8d%e4%ba%86%ef%bc%9f)  
+- [(附字幕) 盧永雄「巴士的點評」台海若開戰， 將是一場閃電戰。美資深外交官: 2025年美政府換屆高危，台灣不是烏克蘭，看不到有抵抗大陸戰力。 22年6月20日](https://www.youtube.com/watch?v=GPlKDPggMRM)  
+- [盧永雄「巴士的點評」美資深外交官：中美軍事對抗風險大增。美國向太平洋試射洲際導彈，中國當頭一棒，試陸基中段反導攔截。 22年6月20日](https://www.youtube.com/watch?v=CASX4B2tClY)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
