@@ -263,6 +263,7 @@
 - [月球“土特产”又有新发现：或可用于实现“零能耗”的月球生命保障系统 -- 观察者网](https://www.guancha.cn/industry-science/2022_05_08_638748.shtml)  
 - [嫦五新發現　月壤可製氧氣燃料 -- 大公文匯](https://www.tkww.hk/a/202205/09/AP62786d98e4b0a4690261b3d9.html)  
 - [X86和ARM断供俄罗斯，中国能押注RISC-V吗？ -- 观察者网](https://www.guancha.cn/economy/2022_05_10_639106.shtml)  
+- [(附字幕) 盧永雄「巴士的點評」美媒: 中國擬建「太空輸電站」向地球輸電。「沃爾夫時刻」已到！美國卡壓反令中國芯全球增長最快。 22年6月22日](https://www.youtube.com/watch?v=yWKQ-wEUl-E)  
 
 ## Misc.
 
@@ -563,6 +564,7 @@
 - [報告：五分一成年患者有「長新冠」 多種器官損傷 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10748007-%e7%be%8e%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%e5%a0%b1%e5%91%8a%ef%bc%9a%e4%ba%94%e5%88%86%e4%b8%80%e6%88%90%e5%b9%b4%e6%82%a3%e8%80%85%e6%9c%89%e3%80%8c%e9%95%b7%e6%96%b0%e5%86%a0%e3%80%8d-%e5%a4%9a)  
 - [美160萬人反覆染疫　最多中招五次 -- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2967ee4b0a4690270ab72.html)  
 - [美國160萬人反覆染疫 症狀更嚴重 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247567636&idx=2&sn=16c5d7327df35d0c95faaa88a4dec8ae&chksm=e9ad80a6deda09b0fe78c725bb30efc5750bc9b120c69dac2369220514154d0a892722b2c34c&token=852472368&lang=zh_CN#rd)  
+- [史丹福大學研究：新冠「腦霧」與化療引起腦退化相似 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10897407-%e7%a0%94%e7%a9%b6%e6%8c%87%e6%96%b0%e5%86%a0%e8%85%a6%e9%9c%a7%e8%88%87%e5%8c%96%e7%99%82%e5%bc%95%e8%b5%b7%e8%85%a6%e9%80%80%e5%8c%96%e7%9b%b8%e4%bc%bc-%e8%bc%95%e7%97%87%e4%b9%9f%e5%bc%95%e8%b5%b7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
