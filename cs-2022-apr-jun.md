@@ -86,5 +86,7 @@
 - [盧永雄「巴士的點評」普京自比彼得大帝信心滿滿。俄軍罕有動用4架蘇-57編隊，先進戰法摧毀烏軍防空系統。 22年6月9日](https://www.youtube.com/watch?v=GpM57ojeWJ4)  
 - [油價飆人都癲　美民生爆亂象 -- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2adf6e4b0a4690270b87f.html)  
 - [8國領袖缺席美洲峰會 　「證美與鄰國關係多糟糕」-- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2a2cde4b0a4690270b25b.html)  
+- [沈聯濤倡東盟十加三創立央行數碼貨幣   減少依賴美元 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10898771-%e6%b2%88%e8%81%af%e6%bf%a4%e5%80%a1%e6%9d%b1%e5%8d%94%e5%8d%81%e5%8a%a0%e4%b8%89%e5%89%b5%e7%ab%8b%e5%a4%ae%e8%a1%8c%e6%95%b8%e7%a2%bc%e8%b2%a8%e5%b9%a3-%e6%b8%9b%e5%b0%91%e4%be%9d)  
+- [你猜誰是黑客帝國？ -- 深藍](https://www.bastillepost.com/hongkong/article/10899030-%e4%bd%a0%e7%8c%9c%e8%aa%b0%e6%98%af%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9c%8b%ef%bc%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
