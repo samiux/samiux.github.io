@@ -61,14 +61,16 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 ### Software
 
-- Ubuntu Server 22.04 LTS (64-bit) (support until April 2027)  
+- Ubuntu Server 20.04 LTS (64-bit) (support until April 2025)  
 - __netplan__ as default  
 - Support WIFI (for Monitoring Interface only) (Intel AX200 for WPA3 is not recommended as it is unstable unless the kernel is 5.11.0-36 or later)  
 
+* Do not upgrade to Ubuntu 22.04 LTS as Suricata has some problems for running in it.
+
 ## MAIN COMPONENTS
 
-- Suricata 6.0.4  
-- Hyperscan 5.4.0 (Ubuntu 22.04)    
+- Suricata 6.0.5  
+- Hyperscan 5.2.1 (Ubuntu 20.04)    
 - netdata  
 
 ## DOCUMENTATION
