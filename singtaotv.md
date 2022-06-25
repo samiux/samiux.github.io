@@ -85,5 +85,6 @@
 - [普京演讲全文：俄经济发展将遵循六项主要原则 -- 弗拉基米尔·普京](https://www.guancha.cn/f-putin/2022_06_20_645466.shtml)  
 - [荷兰记者：你们存在腐败问题...，泽连斯基：你亲眼所见？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18659681)  
 - [低估了普京还忽视情报？泽连斯基回应 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18659740)  
+- [【on.cc東網】東網評論：北約勸烏國割地　司機夠鐘領飯盒？](https://www.youtube.com/watch?v=IKxWbCCcLeY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
