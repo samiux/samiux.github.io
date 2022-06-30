@@ -91,5 +91,6 @@
 - [* 中國要與黑客帝國說不，講再見！ -- 深藍](https://www.bastillepost.com/hongkong/article/10936616-%e4%b8%ad%e5%9c%8b%e8%a6%81%e8%88%87%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9c%8b%e8%aa%aa%e4%b8%8d%ef%bc%8c%e8%ac%9b%e5%86%8d%e8%a6%8b%ef%bc%81)  
 - [* 中國百個信息系統被植入美國「酸狐狸」程式 專家：美國或發動大規模網絡戰 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10935944-%e4%b8%ad%e5%9c%8b%e7%99%be%e5%80%8b%e4%bf%a1%e6%81%af%e7%b3%bb%e7%b5%b1%e8%a2%ab%e6%a4%8d%e5%85%a5%e7%be%8e%e5%9c%8b%e3%80%8c%e9%85%b8%e7%8b%90%e7%8b%b8%e3%80%8d%e7%a8%8b%e5%bc%8f-%e5%b0%88%e5%ae%b6)  
 - [* 酸狐狸平台 -- Google](https://www.google.com/search?q=%E9%85%B8%E7%8B%90%E7%8B%B8%E5%B9%B3%E5%8F%B0)  
+- [全球首款凍乾型Omicron mRNA疫苗臨床 -- 大公文匯](https://www.tkww.hk/a/202206/28/AP62ba466ee4b0a46902797950.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
