@@ -84,6 +84,7 @@
 - [美國靠呃又恃惡，何以我們制裁不了？ -- 深藍](https://www.bastillepost.com/hongkong/article/10886962-%e7%be%8e%e5%9c%8b%e9%9d%a0%e5%91%83%e5%8f%88%e6%81%83%e6%83%a1%ef%bc%8c%e4%bd%95%e4%bb%a5%e6%88%91%e5%80%91%e5%88%b6%e8%a3%81%e4%b8%8d%e4%ba%86%ef%bc%9f)  
 - [(附字幕) 盧永雄「巴士的點評」台海若開戰， 將是一場閃電戰。美資深外交官: 2025年美政府換屆高危，台灣不是烏克蘭，看不到有抵抗大陸戰力。 22年6月20日](https://www.youtube.com/watch?v=GPlKDPggMRM)  
 - [盧永雄「巴士的點評」美資深外交官：中美軍事對抗風險大增。美國向太平洋試射洲際導彈，中國當頭一棒，試陸基中段反導攔截。 22年6月20日](https://www.youtube.com/watch?v=CASX4B2tClY)  
+- [第149期：#张维为 #邱文平 聚焦美国对乌克兰思想和文化领域的长期渗透，解析美西方对中国“颜色革命”的企图 --《#这就是中国》#ChinaNow EP149 20220627【东方卫视官方频道】](https://www.youtube.com/watch?v=LQnQryhpXgE)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
