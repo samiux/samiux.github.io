@@ -88,5 +88,8 @@
 - [8國領袖缺席美洲峰會 　「證美與鄰國關係多糟糕」-- 大公文匯](https://www.tkww.hk/a/202206/10/AP62a2a2cde4b0a4690270b25b.html)  
 - [沈聯濤倡東盟十加三創立央行數碼貨幣   減少依賴美元 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10898771-%e6%b2%88%e8%81%af%e6%bf%a4%e5%80%a1%e6%9d%b1%e5%8d%94%e5%8d%81%e5%8a%a0%e4%b8%89%e5%89%b5%e7%ab%8b%e5%a4%ae%e8%a1%8c%e6%95%b8%e7%a2%bc%e8%b2%a8%e5%b9%a3-%e6%b8%9b%e5%b0%91%e4%be%9d)  
 - [你猜誰是黑客帝國？ -- 深藍](https://www.bastillepost.com/hongkong/article/10899030-%e4%bd%a0%e7%8c%9c%e8%aa%b0%e6%98%af%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9c%8b%ef%bc%9f)  
+- [* 中國要與黑客帝國說不，講再見！ -- 深藍](https://www.bastillepost.com/hongkong/article/10936616-%e4%b8%ad%e5%9c%8b%e8%a6%81%e8%88%87%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9c%8b%e8%aa%aa%e4%b8%8d%ef%bc%8c%e8%ac%9b%e5%86%8d%e8%a6%8b%ef%bc%81)  
+- [* 中國百個信息系統被植入美國「酸狐狸」程式 專家：美國或發動大規模網絡戰 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10935944-%e4%b8%ad%e5%9c%8b%e7%99%be%e5%80%8b%e4%bf%a1%e6%81%af%e7%b3%bb%e7%b5%b1%e8%a2%ab%e6%a4%8d%e5%85%a5%e7%be%8e%e5%9c%8b%e3%80%8c%e9%85%b8%e7%8b%90%e7%8b%b8%e3%80%8d%e7%a8%8b%e5%bc%8f-%e5%b0%88%e5%ae%b6)  
+- [* 酸狐狸平台 -- Google](https://www.google.com/search?q=%E9%85%B8%E7%8B%90%E7%8B%B8%E5%B9%B3%E5%8F%B0)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
