@@ -10,5 +10,6 @@
 - [OCT - DEC 2021](/cs-2021-oct-dec.md)  
 - [JAN - MAR 2022](/cs-2022-jan-mar.md)  
 - [APR - JUN 2022](/cs-2022-apr-jun.md)
+- [JUL - SEP 2022](/cs-2022-jul-sep.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
