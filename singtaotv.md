@@ -87,5 +87,6 @@
 - [低估了普京还忽视情报？泽连斯基回应 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18659740)  
 - [【on.cc東網】東網評論：北約勸烏國割地　司機夠鐘領飯盒？](https://www.youtube.com/watch?v=IKxWbCCcLeY)  
 - [第149期：#张维为 #邱文平 聚焦美国对乌克兰思想和文化领域的长期渗透，解析美西方对中国“颜色革命”的企图 --《#这就是中国》#ChinaNow EP149 20220627【东方卫视官方频道】](https://www.youtube.com/watch?v=LQnQryhpXgE)  
-
+- [援乌武器网络“大甩卖”，还“送货上门”？](https://mp.weixin.qq.com/s/VBZahyiuDAaLMGGL4BT6_g)  
+ 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
