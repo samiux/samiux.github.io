@@ -73,7 +73,7 @@ Samiux
 OSCE  OSCP  OSWP  
 寫於二零一九年一月九日，中國香港
 
-**註一 ：**[We found 6 critical PayPal vulnerabilities – and PayPal punished us for it](https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)  
+**註一 ：**[We found 6 critical PayPal vulnerabilities – and PayPal punished us for it -- Bernard Meyer](https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)  
 **註二 ：**[Researcher Discloses Second Steam Zero-Day After Valve Bug Bounty Ban](https://threatpost.com/researcher-discloses-second-steam-zero-day-after-valve-bug-bounty-ban/147593/)  
 **註三 ：**[Hacking For US Government?  Not Worth It -- c0d3x27](https://c0d3x27.medium.com/hacking-for-us-government-not-worth-it-d0d92b357618)  
 **註四a ：**[Rogue HackerOne employee steals bug reports to sell on the side -- BleepingComputer](https://www.bleepingcomputer.com/news/security/rogue-hackerone-employee-steals-bug-reports-to-sell-on-the-side/)  
