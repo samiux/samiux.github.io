@@ -74,10 +74,11 @@ OSCE  OSCP  OSWP
 寫於二零一九年一月九日，中國香港
 
 **註一 ：**[We found 6 critical PayPal vulnerabilities – and PayPal punished us for it -- CyberNews](https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)  
-**註二 ：**[Researcher Discloses Second Steam Zero-Day After Valve Bug Bounty Ban -- ThreatPost](https://threatpost.com/researcher-discloses-second-steam-zero-day-after-valve-bug-bounty-ban/147593/)  
+**註二 ：**[Researcher Discloses Second Steam Zero-Day After Valve Bug Bounty Ban -- Threat Post](https://threatpost.com/researcher-discloses-second-steam-zero-day-after-valve-bug-bounty-ban/147593/)  
 **註三 ：**[Hacking For US Government?  Not Worth It -- c0d3x27](https://c0d3x27.medium.com/hacking-for-us-government-not-worth-it-d0d92b357618)  
-**註四a ：**[Rogue HackerOne employee steals bug reports to sell on the side -- BleepingComputer](https://www.bleepingcomputer.com/news/security/rogue-hackerone-employee-steals-bug-reports-to-sell-on-the-side/)  
+**註四a ：**[Rogue HackerOne employee steals bug reports to sell on the side -- Bleeping Computer](https://www.bleepingcomputer.com/news/security/rogue-hackerone-employee-steals-bug-reports-to-sell-on-the-side/)  
 **註四b ：**[HackerOne员工出售漏洞报告牟利 -- FreeBuf](https://www.freebuf.com/news/338142.html)  
+**註四c ：**[HackerOne Employee Caught Stealing Vulnerability Reports for Personal Gains -- The Hacker News](https://thehackernews.com/2022/07/hackerone-employee-caught-stealing.html)  
 
 ### Reference
 
