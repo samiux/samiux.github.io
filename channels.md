@@ -567,6 +567,7 @@
 - [史丹福大學研究：新冠「腦霧」與化療引起腦退化相似 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10897407-%e7%a0%94%e7%a9%b6%e6%8c%87%e6%96%b0%e5%86%a0%e8%85%a6%e9%9c%a7%e8%88%87%e5%8c%96%e7%99%82%e5%bc%95%e8%b5%b7%e8%85%a6%e9%80%80%e5%8c%96%e7%9b%b8%e4%bc%bc-%e8%bc%95%e7%97%87%e4%b9%9f%e5%bc%95%e8%b5%b7)  
 - [長新冠有望可檢驗 研究：患者血漿現新冠病毒棘蛋白 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10907653-%e9%95%b7%e6%96%b0%e5%86%a0%e6%9c%89%e6%9c%9b%e5%8f%af%e6%aa%a2%e9%a9%97-%e7%a0%94%e7%a9%b6%ef%bc%9a%e6%82%a3%e8%80%85%e8%a1%80%e6%bc%bf%e7%8f%be%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e6%a3%98%e8%9b%8b?current_cat=6)  
 - [全球首款凍乾型Omicron mRNA疫苗臨床 -- 大公文匯](https://www.tkww.hk/a/202206/28/AP62ba466ee4b0a46902797950.html)  
+- [Omicron新二代變種出現　傳染性更強 -- 大公文匯](https://www.tkww.hk/a/202207/05/AP62c389e9e4b0a469027da4bd.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
