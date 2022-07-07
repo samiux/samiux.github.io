@@ -568,6 +568,7 @@
 - [長新冠有望可檢驗 研究：患者血漿現新冠病毒棘蛋白 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10907653-%e9%95%b7%e6%96%b0%e5%86%a0%e6%9c%89%e6%9c%9b%e5%8f%af%e6%aa%a2%e9%a9%97-%e7%a0%94%e7%a9%b6%ef%bc%9a%e6%82%a3%e8%80%85%e8%a1%80%e6%bc%bf%e7%8f%be%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e6%a3%98%e8%9b%8b?current_cat=6)  
 - [全球首款凍乾型Omicron mRNA疫苗臨床 -- 大公文匯](https://www.tkww.hk/a/202206/28/AP62ba466ee4b0a46902797950.html)  
 - [Omicron新二代變種出現　傳染性更強 -- 大公文匯](https://www.tkww.hk/a/202207/05/AP62c389e9e4b0a469027da4bd.html)  
+- [奥密克戎变异株BA.5“找回”感染肺部能力，或提高重症率 -- 观察者](https://www.guancha.cn/politics/2022_07_07_648256.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
