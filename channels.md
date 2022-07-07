@@ -571,6 +571,7 @@
 - [奥密克戎变异株BA.5“找回”感染肺部能力，或提高重症率 -- 观察者](https://www.guancha.cn/politics/2022_07_07_648256.shtml)  
 - [BA.5掀起新一波感染潮，美专家：迄今为止最糟糕变异株 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18909260)  
 - [儿童急性肝炎之谜③新冠病毒既往感染是否有影响？疫情难辞其咎？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18878295)  
+- [英科學家新發現 感染Omicron無助增強免疫力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10892938-%e8%8b%b1%e7%a7%91%e5%ad%b8%e5%ae%b6%e6%96%b0%e7%99%bc%e7%8f%be-%e6%84%9f%e6%9f%93omicron%e7%84%a1%e5%8a%a9%e5%a2%9e%e5%bc%b7%e5%85%8d%e7%96%ab%e5%8a%9b?current_cat=8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
