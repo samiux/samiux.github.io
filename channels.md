@@ -569,6 +569,8 @@
 - [全球首款凍乾型Omicron mRNA疫苗臨床 -- 大公文匯](https://www.tkww.hk/a/202206/28/AP62ba466ee4b0a46902797950.html)  
 - [Omicron新二代變種出現　傳染性更強 -- 大公文匯](https://www.tkww.hk/a/202207/05/AP62c389e9e4b0a469027da4bd.html)  
 - [奥密克戎变异株BA.5“找回”感染肺部能力，或提高重症率 -- 观察者](https://www.guancha.cn/politics/2022_07_07_648256.shtml)  
+- [BA.5掀起新一波感染潮，美专家：迄今为止最糟糕变异株 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18909260)  
+- [儿童急性肝炎之谜③新冠病毒既往感染是否有影响？疫情难辞其咎？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18878295)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
