@@ -572,6 +572,7 @@
 - [BA.5掀起新一波感染潮，美专家：迄今为止最糟糕变异株 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18909260)  
 - [儿童急性肝炎之谜③新冠病毒既往感染是否有影响？疫情难辞其咎？ -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18878295)  
 - [英科學家新發現 感染Omicron無助增強免疫力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10892938-%e8%8b%b1%e7%a7%91%e5%ad%b8%e5%ae%b6%e6%96%b0%e7%99%bc%e7%8f%be-%e6%84%9f%e6%9f%93omicron%e7%84%a1%e5%8a%a9%e5%a2%9e%e5%bc%b7%e5%85%8d%e7%96%ab%e5%8a%9b?current_cat=8)  
+- [專家：Omicron變異株BA.5免疫逃逸能力強 或將提高重症率 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10979094-%e5%b0%88%e5%ae%b6%ef%bc%9aomicron%e8%ae%8a%e7%95%b0%e6%a0%aaba-5%e5%85%8d%e7%96%ab%e9%80%83%e9%80%b8%e8%83%bd%e5%8a%9b%e5%bc%b7-%e6%88%96%e5%b0%87%e6%8f%90%e9%ab%98%e9%87%8d%e7%97%87%e7%8e%87)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
