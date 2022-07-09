@@ -11,5 +11,6 @@
 - [美國在敘利亞非法駐軍再次盜運敘利亞石油 -- 大公文匯](https://www.tkww.hk/a/202207/07/AP62c6dabae4b0a469027ed3d7.html)  
 - [全球唯一新冠预防药将在海南使用，售价13300元不能用医保 -- 观察者](https://www.guancha.cn/politics/2022_07_07_648379.shtml)  
 - [華為活下來，還很風騷 -- 深藍](https://www.bastillepost.com/hongkong/article/10986804-%e8%8f%af%e7%82%ba%e6%b4%bb%e4%b8%8b%e4%be%86%ef%bc%8c%e9%82%84%e5%be%88%e9%a2%a8%e9%a8%b7)  
+- [试验火箭发射11秒后爆炸，美国“哨兵”洲际导弹再入飞行器部分首次试验失败 -- 观察者](https://www.guancha.cn/military-affairs/2022_07_08_648477.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
