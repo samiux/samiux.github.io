@@ -85,6 +85,7 @@
 - [(附字幕) 盧永雄「巴士的點評」台海若開戰， 將是一場閃電戰。美資深外交官: 2025年美政府換屆高危，台灣不是烏克蘭，看不到有抵抗大陸戰力。 22年6月20日](https://www.youtube.com/watch?v=GPlKDPggMRM)  
 - [盧永雄「巴士的點評」美資深外交官：中美軍事對抗風險大增。美國向太平洋試射洲際導彈，中國當頭一棒，試陸基中段反導攔截。 22年6月20日](https://www.youtube.com/watch?v=CASX4B2tClY)  
 - [第149期：#张维为 #邱文平 聚焦美国对乌克兰思想和文化领域的长期渗透，解析美西方对中国“颜色革命”的企图 --《#这就是中国》#ChinaNow EP149 20220627【东方卫视官方频道】](https://www.youtube.com/watch?v=LQnQryhpXgE)  
+- [陳嘉璐醫生 （精神科專科醫生)](/dr_sylvia_chen.md)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
