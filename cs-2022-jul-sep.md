@@ -14,5 +14,6 @@
 - [试验火箭发射11秒后爆炸，美国“哨兵”洲际导弹再入飞行器部分首次试验失败 -- 观察者](https://www.guancha.cn/military-affairs/2022_07_08_648477.shtml)  
 - [玉淵譚天 - 一個字：亂 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c9953ee4b0a469027fe271.html)  
 - [盧永雄「巴士的點評」一門三相，軍國主義陰魂蕩漾。 世界第一，中國3D打印殲35機身，作戰半徑超美F-35C。 22年7月11日](https://www.youtube.com/watch?v=GnZgLoAl0os)  
+- [【短片】【屈穎妍在線】EP66：他的政治DNA](https://www.youtube.com/watch?v=jrlCsW1wQCY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
