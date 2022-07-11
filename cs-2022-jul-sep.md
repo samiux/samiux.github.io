@@ -13,5 +13,6 @@
 - [華為活下來，還很風騷 -- 深藍](https://www.bastillepost.com/hongkong/article/10986804-%e8%8f%af%e7%82%ba%e6%b4%bb%e4%b8%8b%e4%be%86%ef%bc%8c%e9%82%84%e5%be%88%e9%a2%a8%e9%a8%b7)  
 - [试验火箭发射11秒后爆炸，美国“哨兵”洲际导弹再入飞行器部分首次试验失败 -- 观察者](https://www.guancha.cn/military-affairs/2022_07_08_648477.shtml)  
 - [玉淵譚天 - 一個字：亂 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c9953ee4b0a469027fe271.html)  
+- [盧永雄「巴士的點評」一門三相，軍國主義陰魂蕩漾。 世界第一，中國3D打印殲35機身，作戰半徑超美F-35C。 22年7月11日](https://www.youtube.com/watch?v=GnZgLoAl0os)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
