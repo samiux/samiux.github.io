@@ -87,6 +87,7 @@
 - [第149期：#张维为 #邱文平 聚焦美国对乌克兰思想和文化领域的长期渗透，解析美西方对中国“颜色革命”的企图 --《#这就是中国》#ChinaNow EP149 20220627【东方卫视官方频道】](https://www.youtube.com/watch?v=LQnQryhpXgE)  
 - [陳嘉璐醫生 （精神科專科醫生)](/dr_sylvia_chen.md)  
 - [盧永雄「巴士的點評」一門三相，軍國主義陰魂蕩漾。 世界第一，中國3D打印殲35機身，作戰半徑超美F-35C。 22年7月11日](https://www.youtube.com/watch?v=GnZgLoAl0os)  
+- [【短片】【屈穎妍在線】EP66：他的政治DNA](https://www.youtube.com/watch?v=jrlCsW1wQCY)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
