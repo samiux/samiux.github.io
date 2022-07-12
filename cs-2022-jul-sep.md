@@ -15,5 +15,6 @@
 - [玉淵譚天 - 一個字：亂 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c9953ee4b0a469027fe271.html)  
 - [盧永雄「巴士的點評」一門三相，軍國主義陰魂蕩漾。 世界第一，中國3D打印殲35機身，作戰半徑超美F-35C。 22年7月11日](https://www.youtube.com/watch?v=GnZgLoAl0os)  
 - [【短片】【屈穎妍在線】EP66：他的政治DNA](https://www.youtube.com/watch?v=jrlCsW1wQCY)  
+- [國產新冠特效藥深圳首用　82歲患者用藥後病毒量急降 -- 大公文匯](https://www.tkww.hk/a/202207/12/AP62cce5f8e4b0a4690280fc9a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
