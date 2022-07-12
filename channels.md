@@ -574,6 +574,7 @@
 - [英科學家新發現 感染Omicron無助增強免疫力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10892938-%e8%8b%b1%e7%a7%91%e5%ad%b8%e5%ae%b6%e6%96%b0%e7%99%bc%e7%8f%be-%e6%84%9f%e6%9f%93omicron%e7%84%a1%e5%8a%a9%e5%a2%9e%e5%bc%b7%e5%85%8d%e7%96%ab%e5%8a%9b?current_cat=8)  
 - [專家：Omicron變異株BA.5免疫逃逸能力強 或將提高重症率 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10979094-%e5%b0%88%e5%ae%b6%ef%bc%9aomicron%e8%ae%8a%e7%95%b0%e6%a0%aaba-5%e5%85%8d%e7%96%ab%e9%80%83%e9%80%b8%e8%83%bd%e5%8a%9b%e5%bc%b7-%e6%88%96%e5%b0%87%e6%8f%90%e9%ab%98%e9%87%8d%e7%97%87%e7%8e%87)  
 - [首款國產新冠特效藥內地上市 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c8c421e4b0a469027f85f1.html)  
+- [國產新冠特效藥深圳首用　82歲患者用藥後病毒量急降 -- 大公文匯](https://www.tkww.hk/a/202207/12/AP62cce5f8e4b0a4690280fc9a.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
