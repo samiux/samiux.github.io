@@ -17,5 +17,8 @@
 - [【短片】【屈穎妍在線】EP66：他的政治DNA](https://www.youtube.com/watch?v=jrlCsW1wQCY)  
 - [國產新冠特效藥深圳首用　82歲患者用藥後病毒量急降 -- 大公文匯](https://www.tkww.hk/a/202207/12/AP62cce5f8e4b0a4690280fc9a.html)  
 - [国务院联防联控机制：常温下新冠病毒在大部分物品表面1天内全部失活 -- 观察者](https://www.guancha.cn/politics/2022_07_12_649010.shtml)  
+- [米尔斯海默：乌克兰危机的真正根源和可能的走向 -- 米尔斯海默](https://www.guancha.cn/MiErSiHaiMo/2022_07_13_649052.shtml)  
+- [美国公布6月CPI：通胀9.1%超预期，创41年新高 -- 观察者](https://www.guancha.cn/internation/2022_07_13_649192.shtml)  
+- [特朗普的前国安顾问坦白：曾帮助策划外国政变 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18995145)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
