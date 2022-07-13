@@ -89,5 +89,6 @@
 - [第149期：#张维为 #邱文平 聚焦美国对乌克兰思想和文化领域的长期渗透，解析美西方对中国“颜色革命”的企图 --《#这就是中国》#ChinaNow EP149 20220627【东方卫视官方频道】](https://www.youtube.com/watch?v=LQnQryhpXgE)  
 - [援乌武器网络“大甩卖”，还“送货上门”？ -- 央视军事](https://mp.weixin.qq.com/s/VBZahyiuDAaLMGGL4BT6_g)  
 - [普京首開腔：俄不拒絕和談 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c8c1a8e4b0a469027f8467.html)  
+- [米尔斯海默：乌克兰危机的真正根源和可能的走向 -- 米尔斯海默](https://www.guancha.cn/MiErSiHaiMo/2022_07_13_649052.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
