@@ -20,5 +20,7 @@
 - [米尔斯海默：乌克兰危机的真正根源和可能的走向 -- 米尔斯海默](https://www.guancha.cn/MiErSiHaiMo/2022_07_13_649052.shtml)  
 - [美国公布6月CPI：通胀9.1%超预期，创41年新高 -- 观察者](https://www.guancha.cn/internation/2022_07_13_649192.shtml)  
 - [特朗普的前国安顾问坦白：曾帮助策划外国政变 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18995145)  
+- [白俄羅斯央行決定將人民幣納入貨幣籃子 -- 大公文匯](https://www.tkww.hk/a/202207/14/AP62cfaae5e4b0a46902820867.html)  
+- [欧元对美元汇率再创新低：1欧元=0.9953美元 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19017049)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
