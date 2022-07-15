@@ -88,6 +88,7 @@
 - [陳嘉璐醫生 （精神科專科醫生)](/dr_sylvia_chen.md)  
 - [盧永雄「巴士的點評」一門三相，軍國主義陰魂蕩漾。 世界第一，中國3D打印殲35機身，作戰半徑超美F-35C。 22年7月11日](https://www.youtube.com/watch?v=GnZgLoAl0os)  
 - [【短片】【屈穎妍在線】EP66：他的政治DNA](https://www.youtube.com/watch?v=jrlCsW1wQCY)  
+- [习近平：把中国文明历史研究引向深入 增强历史自觉坚定文化自信 -- 习近平](https://www.guancha.cn/XiJinPing/2022_07_15_649465.shtml)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
