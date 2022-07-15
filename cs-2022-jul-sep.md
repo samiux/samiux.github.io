@@ -24,5 +24,8 @@
 - [欧元对美元汇率再创新低：1欧元=0.9953美元 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19017049)  
 - [Uber 老細12.4萬份機密文件曝光 捅出全球最髒交易 矛盾直指法國總統馬克龍 -- 深喉](https://www.bastillepost.com/hongkong/article/11021074-uber-%e8%80%81%e7%b4%b012-4%e8%90%ac%e4%bb%bd%e6%a9%9f%e5%af%86%e6%96%87%e4%bb%b6%e6%9b%9d%e5%85%89-%e6%8d%85%e5%87%ba%e5%85%a8%e7%90%83%e6%9c%80%e9%ab%92%e4%ba%a4%e6%98%93-%e7%9f%9b%e7%9b%be%e7%9b%b4)  
 - [內地首款新冠口服藥申請上市獲受理 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11021737-%e5%85%a7%e5%9c%b0%e9%a6%96%e6%ac%be%e6%96%b0%e5%86%a0%e5%8f%a3%e6%9c%8d%e8%97%a5%e7%94%b3%e8%ab%8b%e4%b8%8a%e5%b8%82%e7%8d%b2%e5%8f%97%e7%90%86)  
+- [习近平：做好新疆工作事关大局，是全党全国的大事 -- 央视新闻](https://www.guancha.cn/politics/2022_07_15_649512.shtml)  
+- [习近平：把中国文明历史研究引向深入 增强历史自觉坚定文化自信 -- 习近平](https://www.guancha.cn/XiJinPing/2022_07_15_649465.shtml)  
+- [故宮發布《紫禁城365》App　美景知識一手掌握 -- 大公文匯](https://www.tkww.hk/a/202207/15/AP62d17596e4b0a4690282c700.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
