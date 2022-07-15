@@ -576,6 +576,7 @@
 - [首款國產新冠特效藥內地上市 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c8c421e4b0a469027f85f1.html)  
 - [國產新冠特效藥深圳首用　82歲患者用藥後病毒量急降 -- 大公文匯](https://www.tkww.hk/a/202207/12/AP62cce5f8e4b0a4690280fc9a.html)  
 - [国务院联防联控机制：常温下新冠病毒在大部分物品表面1天内全部失活 -- 观察者](https://www.guancha.cn/politics/2022_07_12_649010.shtml)  
+- [內地首款新冠口服藥申請上市獲受理 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11021737-%e5%85%a7%e5%9c%b0%e9%a6%96%e6%ac%be%e6%96%b0%e5%86%a0%e5%8f%a3%e6%9c%8d%e8%97%a5%e7%94%b3%e8%ab%8b%e4%b8%8a%e5%b8%82%e7%8d%b2%e5%8f%97%e7%90%86)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
