@@ -27,5 +27,6 @@
 - [习近平：做好新疆工作事关大局，是全党全国的大事 -- 央视新闻](https://www.guancha.cn/politics/2022_07_15_649512.shtml)  
 - [习近平：把中国文明历史研究引向深入 增强历史自觉坚定文化自信 -- 习近平](https://www.guancha.cn/XiJinPing/2022_07_15_649465.shtml)  
 - [故宮發布《紫禁城365》App　美景知識一手掌握 -- 大公文匯](https://www.tkww.hk/a/202207/15/AP62d17596e4b0a4690282c700.html)  
+- [用最平民、最貼地的例子告訴你：你是如何被民主自由洗腦的 -- 沖出黎傾](https://www.youtube.com/watch?v=EKQw0cw-BzM)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
