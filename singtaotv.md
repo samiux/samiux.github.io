@@ -90,5 +90,6 @@
 - [援乌武器网络“大甩卖”，还“送货上门”？ -- 央视军事](https://mp.weixin.qq.com/s/VBZahyiuDAaLMGGL4BT6_g)  
 - [普京首開腔：俄不拒絕和談 -- 大公文匯](https://www.tkww.hk/a/202207/09/AP62c8c1a8e4b0a469027f8467.html)  
 - [米尔斯海默：乌克兰危机的真正根源和可能的走向 -- 米尔斯海默](https://www.guancha.cn/MiErSiHaiMo/2022_07_13_649052.shtml)  
+- [日本得罪俄羅斯後 到處找天然氣替代供應 突然發現只有中國才有能力簽買天然氣大單 -- 深喉](https://www.bastillepost.com/hongkong/article/11031743-%e6%97%a5%e6%9c%ac%e5%be%97%e7%bd%aa%e4%bf%84%e7%be%85%e6%96%af%e5%be%8c-%e5%88%b0%e8%99%95%e6%89%be%e5%a4%a9%e7%84%b6%e6%b0%a3%e6%9b%bf%e4%bb%a3%e4%be%9b%e6%87%89-%e7%aa%81%e7%84%b6%e7%99%bc%e7%8f%be)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
