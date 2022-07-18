@@ -31,5 +31,7 @@
 - [日本得罪俄羅斯後 到處找天然氣替代供應 突然發現只有中國才有能力簽買天然氣大單 -- 深喉](https://www.bastillepost.com/hongkong/article/11031743-%e6%97%a5%e6%9c%ac%e5%be%97%e7%bd%aa%e4%bf%84%e7%be%85%e6%96%af%e5%be%8c-%e5%88%b0%e8%99%95%e6%89%be%e5%a4%a9%e7%84%b6%e6%b0%a3%e6%9b%bf%e4%bb%a3%e4%be%9b%e6%87%89-%e7%aa%81%e7%84%b6%e7%99%bc%e7%8f%be)  
 - [美激進加息贏「反向貨幣戰爭」　連累各國通脹負債急升 -- 大公文匯](https://www.tkww.hk/a/202207/18/AP62d4a905e4b0a4690283dd47.html)  
 - [中央接連出手 解決鄉鎮銀行爆煲及業主斷供 銀保監會揭黑: 新財富集團操縱5家村鎮銀行出事 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11031279-%e4%b8%ad%e5%a4%ae%e6%8e%a5%e9%80%a3%e5%87%ba%e6%89%8b-%e8%a7%a3%e6%b1%ba%e9%84%89%e9%8e%ae%e9%8a%80%e8%a1%8c%e7%88%86%e7%85%b2%e5%8f%8a%e6%a5%ad%e4%b8%bb%e6%96%b7%e4%be%9b-%e9%8a%80%e4%bf%9d)  
+- [国采第七批 - 官宣：60种采购成功药品名单来了 -- 澎湃新闻 ](https://www.thepaper.cn/newsDetail_forward_19064162)  
+- [美驻军盗取石油，叙利亚民众深受其害 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19066174)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
