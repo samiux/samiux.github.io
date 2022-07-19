@@ -33,5 +33,8 @@
 - [中央接連出手 解決鄉鎮銀行爆煲及業主斷供 銀保監會揭黑: 新財富集團操縱5家村鎮銀行出事 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11031279-%e4%b8%ad%e5%a4%ae%e6%8e%a5%e9%80%a3%e5%87%ba%e6%89%8b-%e8%a7%a3%e6%b1%ba%e9%84%89%e9%8e%ae%e9%8a%80%e8%a1%8c%e7%88%86%e7%85%b2%e5%8f%8a%e6%a5%ad%e4%b8%bb%e6%96%b7%e4%be%9b-%e9%8a%80%e4%bf%9d)  
 - [国采第七批 - 官宣：60种采购成功药品名单来了 -- 澎湃新闻 ](https://www.thepaper.cn/newsDetail_forward_19064162)  
 - [美驻军盗取石油，叙利亚民众深受其害 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19066174)  
+- [美國對外輸出通脹拖累全球 -- 大公文匯](https://www.tkww.hk/a/202207/19/AP62d601f5e4b0a4690284525f.html)  
+- [人工智能「換臉」造假引爭議 -- 大公文匯](https://mp.weixin.qq.com/s/OfN7fkM-fGG4mX_-wT8mKQ)  
+- [中日继续抛美债，中国持仓12年来首次跌破万亿美元 -- 观察者](https://www.guancha.cn/economy/2022_07_19_649944.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
