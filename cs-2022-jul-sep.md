@@ -36,5 +36,7 @@
 - [美國對外輸出通脹拖累全球 -- 大公文匯](https://www.tkww.hk/a/202207/19/AP62d601f5e4b0a4690284525f.html)  
 - [人工智能「換臉」造假引爭議 -- 大公文匯](https://mp.weixin.qq.com/s/OfN7fkM-fGG4mX_-wT8mKQ)  
 - [中日继续抛美债，中国持仓12年来首次跌破万亿美元 -- 观察者](https://www.guancha.cn/economy/2022_07_19_649944.shtml)  
+- [中國美債持倉首跌破1萬億美元 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11037751-%e4%b8%ad%e5%9c%8b%e7%be%8e%e5%82%b5%e6%8c%81%e5%80%89%e9%a6%96%e8%b7%8c%e7%a0%b41%e8%90%ac%e5%84%84%e7%be%8e%e5%85%83)  
+- [烏克蘭老舊飛機墜毀希臘 艙內塞滿軍火 專家：或為走私貿易 -- 深喉](https://www.bastillepost.com/hongkong/article/11037388-%e7%83%8f%e5%85%8b%e8%98%ad%e8%80%81%e8%88%8a%e9%a3%9b%e6%a9%9f%e5%a2%9c%e6%af%80%e5%b8%8c%e8%87%98-%e8%89%99%e5%85%a7%e5%a1%9e%e6%bb%bf%e8%bb%8d%e7%81%ab-%e5%b0%88%e5%ae%b6%ef%bc%9a%e6%88%96%e7%82%ba)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
