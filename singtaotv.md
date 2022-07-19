@@ -92,5 +92,6 @@
 - [米尔斯海默：乌克兰危机的真正根源和可能的走向 -- 米尔斯海默](https://www.guancha.cn/MiErSiHaiMo/2022_07_13_649052.shtml)  
 - [日本得罪俄羅斯後 到處找天然氣替代供應 突然發現只有中國才有能力簽買天然氣大單 -- 深喉](https://www.bastillepost.com/hongkong/article/11031743-%e6%97%a5%e6%9c%ac%e5%be%97%e7%bd%aa%e4%bf%84%e7%be%85%e6%96%af%e5%be%8c-%e5%88%b0%e8%99%95%e6%89%be%e5%a4%a9%e7%84%b6%e6%b0%a3%e6%9b%bf%e4%bb%a3%e4%be%9b%e6%87%89-%e7%aa%81%e7%84%b6%e7%99%bc%e7%8f%be)  
 - [烏克蘭老舊飛機墜毀希臘 艙內塞滿軍火 專家：或為走私貿易 -- 深喉](https://www.bastillepost.com/hongkong/article/11037388-%e7%83%8f%e5%85%8b%e8%98%ad%e8%80%81%e8%88%8a%e9%a3%9b%e6%a9%9f%e5%a2%9c%e6%af%80%e5%b8%8c%e8%87%98-%e8%89%99%e5%85%a7%e5%a1%9e%e6%bb%bf%e8%bb%8d%e7%81%ab-%e5%b0%88%e5%ae%b6%ef%bc%9a%e6%88%96%e7%82%ba)  
+- [第151期：#张维为 #黄仁伟 深度讨论俄乌冲突对世界秩序的各种影响 -《#这就是中国》#ChinaNow EP151 20220711【东方卫视官方频道】](https://www.youtube.com/watch?v=OWKf9F2dmJI)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
