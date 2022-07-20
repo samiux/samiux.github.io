@@ -41,5 +41,6 @@
 - [第151期：#张维为 #黄仁伟 深度讨论俄乌冲突对世界秩序的各种影响 -《#这就是中国》#ChinaNow EP151 20220711【东方卫视官方频道】](https://www.youtube.com/watch?v=OWKf9F2dmJI)  
 - [华为：5.5G时代用户体验达到10Gbps，行业数字化将进入快车道 -- 中国日报网](https://finance.sina.com.cn/tech/roll/2022-07-19/doc-imizirav4435675.shtml?finpagefr=p_114)  
 - [「刷臉」安全漏洞多　警惕錢財分分鐘被盜走！ -- 大公文匯](https://mp.weixin.qq.com/s/atqLE_B4u-wZjkQ00TuJEA)  
+- [12年来首次持仓跌破万亿！中国对美债失去信心了吗？ -- 观察者网](https://www.guancha.cn/economy/2022_07_20_650151.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
