@@ -40,5 +40,6 @@
 - [烏克蘭老舊飛機墜毀希臘 艙內塞滿軍火 專家：或為走私貿易 -- 深喉](https://www.bastillepost.com/hongkong/article/11037388-%e7%83%8f%e5%85%8b%e8%98%ad%e8%80%81%e8%88%8a%e9%a3%9b%e6%a9%9f%e5%a2%9c%e6%af%80%e5%b8%8c%e8%87%98-%e8%89%99%e5%85%a7%e5%a1%9e%e6%bb%bf%e8%bb%8d%e7%81%ab-%e5%b0%88%e5%ae%b6%ef%bc%9a%e6%88%96%e7%82%ba)  
 - [第151期：#张维为 #黄仁伟 深度讨论俄乌冲突对世界秩序的各种影响 -《#这就是中国》#ChinaNow EP151 20220711【东方卫视官方频道】](https://www.youtube.com/watch?v=OWKf9F2dmJI)  
 - [华为：5.5G时代用户体验达到10Gbps，行业数字化将进入快车道 -- 中国日报网](https://finance.sina.com.cn/tech/roll/2022-07-19/doc-imizirav4435675.shtml?finpagefr=p_114)  
+- [「刷臉」安全漏洞多　警惕錢財分分鐘被盜走！ -- 大公文匯](https://mp.weixin.qq.com/s/atqLE_B4u-wZjkQ00TuJEA)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
