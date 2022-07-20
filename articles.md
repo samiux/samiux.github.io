@@ -90,6 +90,7 @@
 - [【短片】【屈穎妍在線】EP66：他的政治DNA](https://www.youtube.com/watch?v=jrlCsW1wQCY)  
 - [习近平：把中国文明历史研究引向深入 增强历史自觉坚定文化自信 -- 习近平](https://www.guancha.cn/XiJinPing/2022_07_15_649465.shtml)  
 - [用最平民、最貼地的例子告訴你：你是如何被民主自由洗腦的 -- 沖出黎傾](https://www.youtube.com/watch?v=EKQw0cw-BzM)  
+- [「刷臉」安全漏洞多　警惕錢財分分鐘被盜走！ -- 大公文匯](https://mp.weixin.qq.com/s/atqLE_B4u-wZjkQ00TuJEA)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
