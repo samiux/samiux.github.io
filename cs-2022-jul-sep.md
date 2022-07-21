@@ -45,5 +45,6 @@
 - [培僑中學5人獲清華北大復旦錄取 北上升學漸成優選 --  大公文匯](https://mp.weixin.qq.com/s/oBPRYHDu6Y6pWhId8W5-ww)  
 - [澳媒：澳大利亚铁矿石行业主动用人民币交易结算，美元在全球贸易中恐已成过去式 -- 观察者网 ](https://www.guancha.cn/internation/2022_07_21_650381.shtml)  
 - [梅德韦杰夫列举西方“11宗罪”：被美国忽悠的欧洲傻瓜们，正承受痛苦… -- 观察者网 ](https://www.guancha.cn/internation/2022_07_21_650376.shtml)  
+- [Omicron BA.5成全球主流變異株　中疾控：現有措施仍能有效應對 -- 大公文匯](https://www.tkww.hk/a/202207/21/AP62d90fcae4b0a46902857028.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
