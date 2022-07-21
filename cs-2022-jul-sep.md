@@ -43,5 +43,7 @@
 - [「刷臉」安全漏洞多　警惕錢財分分鐘被盜走！ -- 大公文匯](https://mp.weixin.qq.com/s/atqLE_B4u-wZjkQ00TuJEA)  
 - [12年来首次持仓跌破万亿！中国对美债失去信心了吗？ -- 观察者网](https://www.guancha.cn/economy/2022_07_20_650151.shtml)  
 - [培僑中學5人獲清華北大復旦錄取 北上升學漸成優選 --  大公文匯](https://mp.weixin.qq.com/s/oBPRYHDu6Y6pWhId8W5-ww)  
+- [澳媒：澳大利亚铁矿石行业主动用人民币交易结算，美元在全球贸易中恐已成过去式 -- 观察者网 ](https://www.guancha.cn/internation/2022_07_21_650381.shtml)  
+- [梅德韦杰夫列举西方“11宗罪”：被美国忽悠的欧洲傻瓜们，正承受痛苦… -- 观察者网 ](https://www.guancha.cn/internation/2022_07_21_650376.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
