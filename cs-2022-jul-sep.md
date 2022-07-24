@@ -51,5 +51,7 @@
 - [超哥希望新聞界「專業化發展」 高人:記者變成專業可提高待遇 -- Ariel](https://www.bastillepost.com/hongkong/article/11055696-%e8%b6%85%e5%93%a5%e5%b8%8c%e6%9c%9b%e6%96%b0%e8%81%9e%e7%95%8c%e3%80%8c%e5%b0%88%e6%a5%ad%e5%8c%96%e7%99%bc%e5%b1%95%e3%80%8d-%e9%ab%98%e4%ba%ba%e8%a8%98%e8%80%85%e8%ae%8a%e6%88%90%e5%b0%88%e6%a5%ad)  
 - [盧寵茂5招防公院冧檔 內地醫護整裝待發隨時幫拖 -- 時人物語](https://www.bastillepost.com/hongkong/article/11056829-%e7%9b%a7%e5%af%b5%e8%8c%825%e6%8b%9b%e9%98%b2%e5%85%ac%e9%99%a2%e5%86%a7%e6%aa%94-%e5%85%a7%e5%9c%b0%e9%86%ab%e8%ad%b7%e6%95%b4%e8%a3%9d%e5%be%85%e7%99%bc%e9%9a%a8%e6%99%82%e5%b9%ab%e6%8b%96)  
 - [健康沒了 工作丟了 新冠後遺症或令美國民眾迎來艱難的秋冬 -- 深喉](https://www.bastillepost.com/hongkong/article/11054974-%e5%81%a5%e5%ba%b7%e6%b2%92%e4%ba%86-%e5%b7%a5%e4%bd%9c%e4%b8%9f%e4%ba%86-%e6%96%b0%e5%86%a0%e5%be%8c%e9%81%ba%e7%97%87%e6%88%96%e4%bb%a4%e7%be%8e%e5%9c%8b%e6%b0%91%e7%9c%be%e8%bf%8e%e4%be%86%e8%89%b1)  
+- [灭活疫苗已经落后，mRNA技术才先进？国家卫健委回应 -- 观察者网](https://www.guancha.cn/politics/2022_07_23_650645.shtml)  
+- [开山之作造假？Science大曝Nature重磅论文学术不端，恐误导全球16年 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19146410)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
