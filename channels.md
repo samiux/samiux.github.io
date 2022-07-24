@@ -580,6 +580,7 @@
 - [Omicron BA.5成全球主流變異株　中疾控：現有措施仍能有效應對 -- 大公文匯](https://www.tkww.hk/a/202207/21/AP62d90fcae4b0a46902857028.html)  
 - [盧寵茂5招防公院冧檔 內地醫護整裝待發隨時幫拖 -- 時人物語](https://www.bastillepost.com/hongkong/article/11056829-%e7%9b%a7%e5%af%b5%e8%8c%825%e6%8b%9b%e9%98%b2%e5%85%ac%e9%99%a2%e5%86%a7%e6%aa%94-%e5%85%a7%e5%9c%b0%e9%86%ab%e8%ad%b7%e6%95%b4%e8%a3%9d%e5%be%85%e7%99%bc%e9%9a%a8%e6%99%82%e5%b9%ab%e6%8b%96)  
 - [健康沒了 工作丟了 新冠後遺症或令美國民眾迎來艱難的秋冬 -- 深喉](https://www.bastillepost.com/hongkong/article/11054974-%e5%81%a5%e5%ba%b7%e6%b2%92%e4%ba%86-%e5%b7%a5%e4%bd%9c%e4%b8%9f%e4%ba%86-%e6%96%b0%e5%86%a0%e5%be%8c%e9%81%ba%e7%97%87%e6%88%96%e4%bb%a4%e7%be%8e%e5%9c%8b%e6%b0%91%e7%9c%be%e8%bf%8e%e4%be%86%e8%89%b1)  
+- [美媒：美国为何抗疫失败？无能、阶级暴力、欺骗和谎言 -- 观察者网](https://www.guancha.cn/internation/2022_07_24_650754_1.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
