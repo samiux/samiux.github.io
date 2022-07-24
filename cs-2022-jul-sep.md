@@ -55,5 +55,6 @@
 - [开山之作造假？Science大曝Nature重磅论文学术不端，恐误导全球16年 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19146410)  
 - [數字中國建設　國產保密科技護航 -- 大公文匯](https://www.tkww.hk/a/202207/24/AP62dc9bc8e4b0a4690286a411.html)  
 - [現代汽車美國工廠爆童工醜聞 -- 大公文匯](https://www.tkww.hk/a/202207/24/AP62dca913e4b0a4690286aab1.html)  
+- [追蹤報道 - 特斯拉三大風險　易飆惹火鎖死門 -- 點新聞](https://www.dotdotnews.com/a/202207/24/AP62dcb2c1e4b0adad9d4d142c.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
