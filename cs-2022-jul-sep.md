@@ -58,5 +58,8 @@
 - [追蹤報道 - 特斯拉三大風險　易飆惹火鎖死門 -- 點新聞](https://www.dotdotnews.com/a/202207/24/AP62dcb2c1e4b0adad9d4d142c.html)  
 - [妍之有理 - 看不到但feel得到的外國勢力 -- 點新聞](https://www.dotdotnews.com/a/202207/23/AP62db5872e4b0adad9d4ce337.html)  
 - [美媒：美国为何抗疫失败？无能、阶级暴力、欺骗和谎言 -- 观察者网](https://www.guancha.cn/internation/2022_07_24_650754_1.shtml)  
+- [第五屆數字中國建設峰會開幕　內地快遞業將推廣「隱私面單」-- 大公文匯](https://www.tkww.hk/a/202207/24/AP62dca4d7e4b0a4690286a843.html)  
+- [一起做生意還是遏制孤立？美國有點「精神分裂」-- 大公文匯](https://mp.weixin.qq.com/s/ioGH3o5GJZJxd65Oa7Tvyw)  
+- [世衞列猴痘為公衞緊急事件　比肩新冠 -- 大公文匯](https://www.tkww.hk/a/202207/23/AP62dc08e7e4b0a4690286879b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
