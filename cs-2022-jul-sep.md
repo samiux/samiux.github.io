@@ -63,5 +63,6 @@
 - [世衞列猴痘為公衞緊急事件　比肩新冠 -- 大公文匯](https://www.tkww.hk/a/202207/23/AP62dc08e7e4b0a4690286879b.html)  
 - [阿茲海默症關鍵論文涉造假　恐誤導全球16年 -- 大公文匯](https://www.tkww.hk/a/202207/25/AP62ddf56be4b0a46902871956.html)  
 - [內地穩保供應　香港用電不愁 -- 大公文匯](https://mp.weixin.qq.com/s/oAFzCvummj0Wrk-_cDhJCQ)  
+- [14歲失蹤少女在工廠做高危工作 揭發美國觸目驚心的童工問題 -- 深喉](https://www.bastillepost.com/hongkong/article/11068068-14%e6%ad%b2%e5%a4%b1%e8%b9%a4%e5%b0%91%e5%a5%b3%e5%9c%a8%e5%b7%a5%e5%bb%a0%e5%81%9a%e9%ab%98%e5%8d%b1%e5%b7%a5%e4%bd%9c-%e6%8f%ad%e7%99%bc%e7%be%8e%e5%9c%8b%e8%a7%b8%e7%9b%ae%e9%a9%9a%e5%bf%83)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
