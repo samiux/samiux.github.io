@@ -62,5 +62,6 @@
 - [一起做生意還是遏制孤立？美國有點「精神分裂」-- 大公文匯](https://mp.weixin.qq.com/s/ioGH3o5GJZJxd65Oa7Tvyw)  
 - [世衞列猴痘為公衞緊急事件　比肩新冠 -- 大公文匯](https://www.tkww.hk/a/202207/23/AP62dc08e7e4b0a4690286879b.html)  
 - [阿茲海默症關鍵論文涉造假　恐誤導全球16年 -- 大公文匯](https://www.tkww.hk/a/202207/25/AP62ddf56be4b0a46902871956.html)  
+- [內地穩保供應　香港用電不愁 -- 大公文匯](https://mp.weixin.qq.com/s/oAFzCvummj0Wrk-_cDhJCQ)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
