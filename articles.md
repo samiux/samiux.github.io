@@ -92,6 +92,7 @@
 - [用最平民、最貼地的例子告訴你：你是如何被民主自由洗腦的 -- 沖出黎傾](https://www.youtube.com/watch?v=EKQw0cw-BzM)  
 - [「刷臉」安全漏洞多　警惕錢財分分鐘被盜走！ -- 大公文匯](https://mp.weixin.qq.com/s/atqLE_B4u-wZjkQ00TuJEA)  
 - [妍之有理 - 看不到但feel得到的外國勢力 -- 點新聞](https://www.dotdotnews.com/a/202207/23/AP62db5872e4b0adad9d4ce337.html)  
+- [【全新面貌】【焦點短打】EP87：暴亂「天書」禍害社會？幕後黑手死心不息？](https://www.youtube.com/watch?v=2M75mSCZCYw)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
