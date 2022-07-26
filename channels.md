@@ -582,6 +582,7 @@
 - [健康沒了 工作丟了 新冠後遺症或令美國民眾迎來艱難的秋冬 -- 深喉](https://www.bastillepost.com/hongkong/article/11054974-%e5%81%a5%e5%ba%b7%e6%b2%92%e4%ba%86-%e5%b7%a5%e4%bd%9c%e4%b8%9f%e4%ba%86-%e6%96%b0%e5%86%a0%e5%be%8c%e9%81%ba%e7%97%87%e6%88%96%e4%bb%a4%e7%be%8e%e5%9c%8b%e6%b0%91%e7%9c%be%e8%bf%8e%e4%be%86%e8%89%b1)  
 - [美媒：美国为何抗疫失败？无能、阶级暴力、欺骗和谎言 -- 观察者网](https://www.guancha.cn/internation/2022_07_24_650754_1.shtml)  
 - [首款國產新冠口服藥「阿茲夫定」 正式獲國家批準上市 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11069149-%e9%a6%96%e6%ac%be%e5%9c%8b%e7%94%a2%e6%96%b0%e5%86%a0%e5%8f%a3%e6%9c%8d%e8%97%a5%e3%80%8c%e9%98%bf%e8%8c%b2%e5%a4%ab%e5%ae%9a%e3%80%8d-%e6%ad%a3%e5%bc%8f%e7%8d%b2%e6%89%b9%e4%b8%8a%e5%b8%82)  
+- [國產「阿茲夫定」抗新冠藥獲批 只是默沙東、輝瑞口服藥價十分之一 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11074054-%e5%9c%8b%e7%94%a2%e3%80%8c%e9%98%bf%e8%8c%b2%e5%a4%ab%e5%ae%9a%e3%80%8d%e6%8a%97%e6%96%b0%e5%86%a0%e8%97%a5%e7%8d%b2%e6%89%b9-%e5%8f%aa%e6%98%af%e9%bb%98%e6%b2%99%e6%9d%b1%e3%80%81%e8%bc%9d%e7%91%9e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
