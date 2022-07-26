@@ -64,5 +64,7 @@
 - [阿茲海默症關鍵論文涉造假　恐誤導全球16年 -- 大公文匯](https://www.tkww.hk/a/202207/25/AP62ddf56be4b0a46902871956.html)  
 - [內地穩保供應　香港用電不愁 -- 大公文匯](https://mp.weixin.qq.com/s/oAFzCvummj0Wrk-_cDhJCQ)  
 - [14歲失蹤少女在工廠做高危工作 揭發美國觸目驚心的童工問題 -- 深喉](https://www.bastillepost.com/hongkong/article/11068068-14%e6%ad%b2%e5%a4%b1%e8%b9%a4%e5%b0%91%e5%a5%b3%e5%9c%a8%e5%b7%a5%e5%bb%a0%e5%81%9a%e9%ab%98%e5%8d%b1%e5%b7%a5%e4%bd%9c-%e6%8f%ad%e7%99%bc%e7%be%8e%e5%9c%8b%e8%a7%b8%e7%9b%ae%e9%a9%9a%e5%bf%83)  
+- [國產「阿茲夫定」抗新冠藥獲批 只是默沙東、輝瑞口服藥價十分之一 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11074054-%e5%9c%8b%e7%94%a2%e3%80%8c%e9%98%bf%e8%8c%b2%e5%a4%ab%e5%ae%9a%e3%80%8d%e6%8a%97%e6%96%b0%e5%86%a0%e8%97%a5%e7%8d%b2%e6%89%b9-%e5%8f%aa%e6%98%af%e9%bb%98%e6%b2%99%e6%9d%b1%e3%80%81%e8%bc%9d%e7%91%9e)  
+- [国防部回应佩洛西计划访台：中国军队绝不会坐视不管 -- 国防部](https://www.thepaper.cn/newsDetail_forward_19181436)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
