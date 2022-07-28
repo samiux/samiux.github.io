@@ -67,5 +67,8 @@
 - [國產「阿茲夫定」抗新冠藥獲批 只是默沙東、輝瑞口服藥價十分之一 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11074054-%e5%9c%8b%e7%94%a2%e3%80%8c%e9%98%bf%e8%8c%b2%e5%a4%ab%e5%ae%9a%e3%80%8d%e6%8a%97%e6%96%b0%e5%86%a0%e8%97%a5%e7%8d%b2%e6%89%b9-%e5%8f%aa%e6%98%af%e9%bb%98%e6%b2%99%e6%9d%b1%e3%80%81%e8%bc%9d%e7%91%9e)  
 - [国防部回应佩洛西计划访台：中国军队绝不会坐视不管 -- 国防部](https://www.thepaper.cn/newsDetail_forward_19181436)  
 - [ 第153期：什么是“文明型国家”？“中国独特性”和“美国例外论”的区别又在哪里？#张维为#邱文平 ​​​-《#这就是中国》#ChinaNow EP153 20220725【东方卫视官方频道】 ](https://www.youtube.com/watch?v=hJsl4PkCCdc)  
+- [华为正式发布HarmonyOS 3：设备破3亿，9月启动升级 -- 观察者网](https://www.guancha.cn/ChanJing/2022_07_28_651276.shtml)  
+- [华为今晚发布的鸿蒙3.0，要拯救我的华为老手机了。-- 观察者网](https://user.guancha.cn/main/content?id=814544)  
+- [独家调查！这个疑似美国邪教分支正在中国传播 -- 李小飞刀](https://user.guancha.cn/main/content?id=814399)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
