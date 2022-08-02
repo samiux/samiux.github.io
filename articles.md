@@ -111,7 +111,10 @@
 
 ### 佩洛西窜访台湾
 
+#### 2022-08-01
 - [东部战区重磅发布：埋葬一切来犯之敌 -- 央视军事](https://mp.weixin.qq.com/s/FrKbkL3RpQCLNeS4RIZhoA)  
+
+#### 2022-08-02
 - [這一次，中國絕不會手軟！ -- 大公文匯](https://mp.weixin.qq.com/s/-9_pi61Ri5mpZs_j5HNebw)  
 - [美方須負全責！華春瑩明確這5條 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e8e519e4b0a469028b56ae.html)  
 - [华春莹：美国挑衅导致台海局势升级，美方须负全责 --  观察者网](https://www.guancha.cn/internation/2022_08_02_652014.shtml)  
@@ -128,6 +131,9 @@
 - [俄羅斯官方表態堅定支持中國關於台灣問題的立場 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62e951bde4b0a469028bd6c4.html)  
 - [伊朗外交部發言人譴責佩洛西竄訪台灣 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62e951a7e4b0a469028bd6c1.html)  
 - [台媒网上民意调查显示：多数民众不欢迎佩洛西窜访 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19284818)  
+
+#### 2022-08-03
+- [東部戰區嚴正震懾美國 在台島周邊開展聯合軍事行動 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11110143-%e6%9d%b1%e9%83%a8%e6%88%b0%e5%8d%80%ef%bc%9a8-2%e6%99%9a%e8%b5%b7%e5%b0%87%e5%9c%a8%e5%8f%b0%e5%b3%b6%e5%91%a8%e9%82%8a%e9%96%8b%e5%b1%95%e4%b8%80%e7%b3%bb%e5%88%97%e8%81%af%e5%90%88%e8%bb%8d)  
 
 ## Text  
 
