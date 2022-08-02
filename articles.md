@@ -95,9 +95,6 @@
 - [【全新面貌】【焦點短打】EP87：暴亂「天書」禍害社會？幕後黑手死心不息？](https://www.youtube.com/watch?v=2M75mSCZCYw)  
 - [ 第153期：什么是“文明型国家”？“中国独特性”和“美国例外论”的区别又在哪里？#张维为#邱文平 ​​​-《#这就是中国》#ChinaNow EP153 20220725【东方卫视官方频道】 ](https://www.youtube.com/watch?v=hJsl4PkCCdc)  
 - [教育部提醒：警惕「野雞大學」招生詐騙陷阱 -- 大公文匯](https://www.tkww.hk/a/202207/27/AP62e1389ee4b0a4690288587c.html)  
-- [东部战区重磅发布：埋葬一切来犯之敌 -- 央视军事](https://mp.weixin.qq.com/s/FrKbkL3RpQCLNeS4RIZhoA)  
-- [這一次，中國絕不會手軟！ -- 大公文匯](https://mp.weixin.qq.com/s/-9_pi61Ri5mpZs_j5HNebw)  
-- [美方須負全責！華春瑩明確這5條 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e8e519e4b0a469028b56ae.html)  
 - [专题视听频道](/channels.md)  
 - [一般常識文章結集](/common-sense.md)  
 
@@ -111,6 +108,26 @@
 
 - [第141期：张维为 范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？-《这就是中国》ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
 - [第142期：俄乌冲突对地缘政治将产生怎样的影响？听张维为 邱文平 从普京的演讲说开去，解析美西方肢解中国的招数 -《这就是中国》#ChinaNow EP142 20220509【东方卫视官方频道】](https://www.youtube.com/watch?v=p1dh2bXeq00)  
+
+### 佩洛西窜访台湾
+
+- [东部战区重磅发布：埋葬一切来犯之敌 -- 央视军事](https://mp.weixin.qq.com/s/FrKbkL3RpQCLNeS4RIZhoA)  
+- [這一次，中國絕不會手軟！ -- 大公文匯](https://mp.weixin.qq.com/s/-9_pi61Ri5mpZs_j5HNebw)  
+- [美方須負全責！華春瑩明確這5條 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e8e519e4b0a469028b56ae.html)  
+- [华春莹：美国挑衅导致台海局势升级，美方须负全责 --  观察者网](https://www.guancha.cn/internation/2022_08_02_652014.shtml)  
+- [SPAR19降落中国台北松山机场，佩洛西窜访台湾 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19284555)  
+- [佩洛西發聲明：訪台是美國堅定支持台灣民主之承諾 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11110105-%e4%bd%a9%e6%b4%9b%e8%a5%bf%e8%a8%aa%e5%8f%b0%ef%bd%9c%e7%99%bc%e8%81%b2%e6%98%8e%e6%8c%87%e4%bb%a3%e8%a1%a8%e5%9c%98%e8%a8%aa%e5%95%8f%e5%8f%b0%e7%81%a3-%e6%98%af%e7%be%8e%e5%9c%8b%e5%a0%85%e5%ae%9a)  
+- [国防部新闻发言人吴谦就佩洛西窜访台湾发表谈话 -- 观察者网](https://www.guancha.cn/military-affairs/2022_08_02_652082.shtml)  
+- [解放军将于8月4日12时至7日12时，进行重要军事演训行动 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19284821)  
+- [王毅：美方在台湾问题上背信弃义，只能使其国家信誉进一步破产 -- 观察者网](https://www.guancha.cn/politics/2022_08_02_652044.shtml)  
+- [中华人民共和国外交部声明 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19284819)  
+- [佩洛西竄台　我方反制不會是一次性的 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62e94f7ce4b0a469028bd5a0.html)  
+- [全國政協外事委員會關於美國國會眾議長佩洛西竄訪中國台灣地區的聲明 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e9461ce4b0a469028bcdd6.html)  
+- [全國人大常委會發言人就美國國會眾議長佩洛西竄訪中國台灣地區發表談話 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e93ddfe4b0a469028bbab3.html)  
+- [中共中央台灣工作辦公室：這是台美勾連的升級　性質十分惡劣　後果十分嚴重 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e93ec1e4b0a469028bbd06.html)  
+- [俄羅斯官方表態堅定支持中國關於台灣問題的立場 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62e951bde4b0a469028bd6c4.html)  
+- [伊朗外交部發言人譴責佩洛西竄訪台灣 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62e951a7e4b0a469028bd6c1.html)  
+- [台媒网上民意调查显示：多数民众不欢迎佩洛西窜访 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19284818)  
 
 ## Text  
 
