@@ -59,5 +59,6 @@ OSCE  OSCP  OSWP
 - [俄國罕見應美國要求取締黑客組織 起訴多名成員檢大量現金 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9996955-%e4%bf%84%e5%9c%8b%e7%bd%95%e8%a6%8b%e6%87%89%e7%be%8e%e5%9c%8b%e8%a6%81%e6%b1%82%e5%8f%96%e7%b7%a0%e9%bb%91%e5%ae%a2%e7%b5%84%e7%b9%94-%e8%b5%b7%e8%a8%b4%e5%a4%9a%e5%90%8d%e6%88%90%e5%93%a1%e6%aa%a2)  
 - [Russia Arrests REvil Ransomware Gang Responsible for High-Profile Cyber Attacks -- The Hacker News](https://thehackernews.com/2022/01/russia-arrests-revil-ransomware-gang.html)  
 - [32歲男涉煽惑傷法官及鼓吹疫患播毒 保釋被拒還押下月再訊 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10418048-%e7%b6%ad%e4%bf%ae%e5%b7%a5%e6%b6%89%e7%85%bd%e6%83%91%e5%82%b7%e6%b3%95%e5%ae%98%e5%8f%8a%e9%bc%93%e5%90%b9%e7%a2%ba%e8%a8%ba%e8%80%85%e3%80%8c%e6%92%ad%e6%af%92%e3%80%8d-%e4%bf%9d%e9%87%8b%e8%a2%ab?current_cat=1)    
+- [國安處拘捕2名男子涉煽動作為 據悉均為公務員 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11106276-%e5%9c%8b%e5%ae%89%e8%99%95%e6%8b%982%e7%94%b7%e5%ad%90%e6%b6%89%e7%85%bd%e5%8b%95%e4%bd%9c%e7%82%ba-%e6%93%9a%e6%82%89%e5%9d%87%e7%82%ba%e5%85%ac%e5%8b%99%e5%93%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
