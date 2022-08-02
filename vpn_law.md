@@ -32,5 +32,6 @@ OSCE  OSCP  OSWP
 - [上傳逾3萬裙底相及影片 兩男涉經營偷拍網被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8923064-%e4%b8%8a%e5%82%b3%e9%80%be3%e8%90%ac%e8%a3%99%e5%ba%95%e7%9b%b8%e5%8f%8a%e5%bd%b1%e7%89%87-%e5%85%a9%e7%94%b7%e6%b6%89%e7%b6%93%e7%87%9f%e5%81%b7%e6%8b%8d%e7%b6%b2%e8%a2%ab%e6%8d%95)  
 - [FBI Issues Flash Alert on Actively Exploited FatPipe VPN Zero-Day Bug -- The Hacker News](https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html)  
 - [煽縱火殺警襲票站　兩連登仔被捕 -- 大公文匯](https://www.tkww.hk/a/202112/18/AP61bd2484e4b07ec0fc4499d3.html)  
+- [國安處拘捕2名男子涉煽動作為 據悉均為公務員 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11106276-%e5%9c%8b%e5%ae%89%e8%99%95%e6%8b%982%e7%94%b7%e5%ad%90%e6%b6%89%e7%85%bd%e5%8b%95%e4%bd%9c%e7%82%ba-%e6%93%9a%e6%82%89%e5%9d%87%e7%82%ba%e5%85%ac%e5%8b%99%e5%93%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
