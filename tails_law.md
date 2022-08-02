@@ -21,5 +21,6 @@ OSCE  OSCP  OSWP
 - [涉TG連登鼓吹殺警　煽暴兩青年落網 -- 大公文匯](https://www.tkww.hk/a/202107/05/AP60e2aaabe4b0c7e5becf9e78.html)  
 - [Researchers Demonstrate New Fingerprinting Attack on Tor Encrypted Traffic -- The Hacker News](https://thehackernews.com/2021/11/researchers-demonstrate-new.html)  
 - [煽縱火殺警襲票站　兩連登仔被捕 -- 大公文匯](https://www.tkww.hk/a/202112/18/AP61bd2484e4b07ec0fc4499d3.html)  
+- [國安處拘捕2名男子涉煽動作為 據悉均為公務員 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11106276-%e5%9c%8b%e5%ae%89%e8%99%95%e6%8b%982%e7%94%b7%e5%ad%90%e6%b6%89%e7%85%bd%e5%8b%95%e4%bd%9c%e7%82%ba-%e6%93%9a%e6%82%89%e5%9d%87%e7%82%ba%e5%85%ac%e5%8b%99%e5%93%a1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
