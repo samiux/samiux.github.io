@@ -74,5 +74,7 @@
 - [俄烏戰場無人機技術大比拼 -- 大公文匯](https://www.tkww.hk/a/202207/30/AP62e4b127e4b0a46902899a07.html)  
 - [美國新增感染162228例死亡651例 -- 大公文匯](https://www.tkww.hk/a/202207/30/AP62e4d75be4b0a4690289ac36.html)  
 - [* 东部战区重磅发布：埋葬一切来犯之敌 -- 央视军事](https://mp.weixin.qq.com/s/FrKbkL3RpQCLNeS4RIZhoA)  
+- [這一次，中國絕不會手軟！ -- 大公文匯](https://mp.weixin.qq.com/s/-9_pi61Ri5mpZs_j5HNebw)  
+- [美方須負全責！華春瑩明確這5條 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e8e519e4b0a469028b56ae.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
