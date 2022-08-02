@@ -95,6 +95,7 @@
 - [【全新面貌】【焦點短打】EP87：暴亂「天書」禍害社會？幕後黑手死心不息？](https://www.youtube.com/watch?v=2M75mSCZCYw)  
 - [ 第153期：什么是“文明型国家”？“中国独特性”和“美国例外论”的区别又在哪里？#张维为#邱文平 ​​​-《#这就是中国》#ChinaNow EP153 20220725【东方卫视官方频道】 ](https://www.youtube.com/watch?v=hJsl4PkCCdc)  
 - [教育部提醒：警惕「野雞大學」招生詐騙陷阱 -- 大公文匯](https://www.tkww.hk/a/202207/27/AP62e1389ee4b0a4690288587c.html)  
+- [东部战区重磅发布：埋葬一切来犯之敌 -- 央视军事](https://mp.weixin.qq.com/s/FrKbkL3RpQCLNeS4RIZhoA)  
 - [這一次，中國絕不會手軟！ -- 大公文匯](https://mp.weixin.qq.com/s/-9_pi61Ri5mpZs_j5HNebw)  
 - [美方須負全責！華春瑩明確這5條 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e8e519e4b0a469028b56ae.html)  
 - [专题视听频道](/channels.md)  
