@@ -157,6 +157,8 @@
 - [美媒詢問「是否針對佩洛西本人制裁」　華春瑩回應 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62ea2f9de4b0a469028c5bcc.html)  
 - [解放軍三個「首次」震懾「台獨」及域外勢力 專家料導彈很可能穿越台灣島上空 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11113463-%e8%a7%a3%e6%94%be%e8%bb%8d%e4%b8%89%e5%80%8b%e3%80%8c%e9%a6%96%e6%ac%a1%e3%80%8d%e9%9c%87%e6%87%be%e3%80%8c%e5%8f%b0%e7%8d%a8%e3%80%8d%e5%8f%8a%e5%9f%9f%e5%a4%96%e5%8b%a2%e5%8a%9b-%e5%b0%88%e5%ae%b6)  
 - [玉淵譚天 - 佩洛西謀一己私利　害的是美國經濟和信譽！ -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62ea3509e4b0a469028c62a3.html)  
+- [台军：2天内48架次解放军军机进入台岛周边空域 -- 观察者网](https://www.guancha.cn/military-affairs/2022_08_03_652222.shtml)  
+- [台灣軍方：解放軍22架戰機飛越台海中線 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11115307-%e8%a7%a3%e6%94%be%e8%bb%8d22%e6%9e%b6%e6%88%b0%e6%a9%9f%e9%a3%9b%e8%b6%8a%e5%8f%b0%e6%b5%b7%e4%b8%ad%e7%b7%9a)  
 
 ## Text  
 
