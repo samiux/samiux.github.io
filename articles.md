@@ -152,6 +152,7 @@
 - [解放軍明起的大軍演有料到 「形同海空鎖台3天」 演習意義超越1996年台海危機 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11112489-%e8%a7%a3%e6%94%be%e8%bb%8d%e6%98%8e%e8%b5%b7%e7%9a%84%e5%a4%a7%e8%bb%8d%e6%bc%94%e6%9c%89%e6%96%99%e5%88%b0-%e3%80%8c%e5%bd%a2%e5%90%8c%e6%b5%b7%e7%a9%ba%e9%8e%96%e5%8f%b03%e5%a4%a9%e3%80%8d)  
 - [CNN駐中國分社前社長齊邁可：佩洛西知道自己在幹什麼嗎？ 「挑選現在這個時機訪台明顯帶有無端挑釁的意味」-- 深喉](https://www.bastillepost.com/hongkong/article/11112033-cnn%e9%a7%90%e4%b8%ad%e5%9c%8b%e5%88%86%e7%a4%be%e5%89%8d%e7%a4%be%e9%95%b7%e9%bd%8a%e9%82%81%e5%8f%af%ef%bc%9a%e4%bd%a9%e6%b4%9b%e8%a5%bf%e7%9f%a5%e9%81%93%e8%87%aa%e5%b7%b1%e5%9c%a8%e5%b9%b9)  
 - [我對佩洛西訪台的看法 - 沖出黎講](https://www.youtube.com/watch?v=d7Ewztm9pvg)  
+- [王文：当前应对佩洛西“窜访”措施，“性价比”是最高的 -- 观察者网](https://www.guancha.cn/WangWen/2022_08_03_652166.shtml)  
 
 ## Text  
 
