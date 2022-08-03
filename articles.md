@@ -146,6 +146,9 @@
 - [CNN駐中國分社前社長齊邁可：佩洛西知道自己在幹什麼嗎？ 「挑選現在這個時機訪台明顯帶有無端挑釁的意味」 -- 深喉](https://www.bastillepost.com/hongkong/article/11112033-cnn%e9%a7%90%e4%b8%ad%e5%9c%8b%e5%88%86%e7%a4%be%e5%89%8d%e7%a4%be%e9%95%b7%e9%bd%8a%e9%82%81%e5%8f%af%ef%bc%9a%e4%bd%a9%e6%b4%9b%e8%a5%bf%e7%9f%a5%e9%81%93%e8%87%aa%e5%b7%b1%e5%9c%a8%e5%b9%b9)  
 - [軍事專家：解放軍演習勢必跨越「海峽中線」 今後將無區域限制 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11111990-%e4%bd%a9%e6%b4%9b%e8%a5%bf%e8%a8%aa%e5%8f%b0%ef%bd%9c%e8%bb%8d%e4%ba%8b%e5%b0%88%e5%ae%b6%ef%bc%9a%e8%a7%a3%e6%94%be%e8%bb%8d%e6%bc%94%e7%bf%92%e5%8b%a2%e5%bf%85%e8%b7%a8%e8%b6%8a%e3%80%8c%e6%b5%b7)  
 - [白宫官员继续与佩洛西“划清界限”，声称“国会是独立部门” -- 观察者网](https://www.guancha.cn/internation/2022_08_03_652141.shtml)  
+- [台灣桃園機場明日取消逾50航班 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62ea06a1e4b0a469028c3fe8.html)  
+- [國台辦回應蔡英文向佩洛西頒發所謂「勳章」：留下一連串奴顏婢膝的劣跡 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62ea05c2e4b0a469028c3f1f.html)  
+- [專家：佩洛西竄訪台灣赤裸裸干涉中國內政　害人害己 -- 大公文匯](https://www.tkww.hk/a/202208/03/AP62e9f4cfe4b0a469028c30bf.html)  
 
 ## Text  
 
