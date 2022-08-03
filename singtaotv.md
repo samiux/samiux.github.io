@@ -96,5 +96,6 @@
 - [梅德韦杰夫列举西方“11宗罪”：被美国忽悠的欧洲傻瓜们，正承受痛苦… -- 观察者网 ](https://www.guancha.cn/internation/2022_07_21_650376.shtml)  
 - [俄乌今将在土耳其签署乌粮食出口协议，联合国秘书长也将出席 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19126685)  
 - [俄烏戰場無人機技術大比拼 -- 大公文匯](https://www.tkww.hk/a/202207/30/AP62e4b127e4b0a46902899a07.html)  
+- [俄首次指责美“直接参与”乌克兰冲突：亲自为基辅协调“海马斯”打击目标 -- 观察者网](https://www.guancha.cn/internation/2022_08_03_652132.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
