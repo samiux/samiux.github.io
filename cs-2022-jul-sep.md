@@ -140,5 +140,6 @@
 - [華春瑩：G7的列強夢該醒醒了，腦子停留在100多年前是要出問題的！ -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb9994e4b0a469028d2314.html)  
 - [中方駁G7和歐盟外長涉台聲明：萬惡無恥 -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb3d43e4b0a469028cd725.html)  
 - [“大赦国际”：乌军基地设在医院学校中，危害平民生命 -- 观察者网](https://www.guancha.cn/internation/2022_08_04_652352.shtml)  
+- [东部战区出动上百架战机 奔赴台岛北部、西南、东南空域执行任务 -- 央视军事](https://www.guancha.cn/military-affairs/2022_08_04_652359.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
