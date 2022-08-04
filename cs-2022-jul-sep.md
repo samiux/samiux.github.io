@@ -144,5 +144,6 @@
 - [(附字幕) 李彤「外交短評」台軍監測不到殲-20蹤影。 華春瑩：佩洛西鼓吹「美麗風景線」， 恰恰加速香港由亂及治。 22年8月4日](https://www.youtube.com/watch?v=zz4KJMccW34)  
 - [【中國焦點新聞】11枚東風彈道導彈射向台三個方向，解放軍：導彈全部命中目標檢驗區域拒止能力 。解放軍出動逾百戰機軍艦晝夜對台封控。22年8月4日](https://www.youtube.com/watch?v=XDwtFHqaWQM)  
 - [中国各民主党派发表联合声明：严厉谴责佩洛西窜台 -- 央视网 ](https://www.guancha.cn/politics/2022_08_04_652371.shtml)  
+- [盧永雄「巴士的點評」解放軍遠端火力，全台想打那裡就打那裡。G7聲明惹怒中國，王毅:「今天的中國已不再是19世紀的中國」。 22年8月4日](https://www.youtube.com/watch?v=emWun_HB1Dc)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
