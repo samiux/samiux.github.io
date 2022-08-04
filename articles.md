@@ -185,6 +185,8 @@
 - [台湾地区前官员用俗语形容佩洛西窜访：没有生鸡蛋，倒留了一地鸡屎 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652356.shtml)  
 - [中方多次回应后，日本又拿“专属经济区”碰瓷解放军军演 -- 观察者网](https://www.guancha.cn/internation/2022_08_04_652395.shtml)  
 - [日本指解放軍5枚導彈落入其專屬經濟海域 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11120799-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e6%97%a5%e9%98%b2%e7%9b%b8%e7%a8%b1%e8%a7%a3%e6%94%be%e8%bb%8d5%e6%9e%9a%e5%b0%8e%e5%bd%88-%e8%90%bd%e5%85%a5%e6%97%a5%e6%9c%ac%e5%b0%88%e5%b1%ac%e7%b6%93)  
+- [「殲20」再度亮相台海軍演 官兵接令即打：敢於亮劍敢於鬥爭 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11121095-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e3%80%8c%e6%ae%b220%e3%80%8d%e5%86%8d%e5%ba%a6%e4%ba%ae%e7%9b%b8-%e5%ae%98%e5%85%b5%ef%bc%9a%e6%95%a2%e6%96%bc%e4%ba%ae%e5%8a%8d%e6%95%a2%e6%96%bc)  
+- [日本指4枚飛彈掠過台北 台軍：22架解放軍戰機穿越「台海中線」-- 巴士的報](https://www.bastillepost.com/hongkong/article/11121217-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e5%8f%b0%e8%bb%8d%e6%8c%8722%e6%9e%b6%e8%a7%a3%e6%94%be%e8%bb%8d%e6%88%b0%e6%a9%9f%e7%a9%bf%e8%b6%8a%e5%8f%b0%e6%b5%b7%e4%b8%ad%e7%b7%9a-%e6%97%a5)  
 
 #### 2022-08-05
 
