@@ -125,5 +125,7 @@
 - [台军：解放军无人机昨夜首次掠过金门岛北碇岛 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652258.shtml)  
 - [** 澳大利亚航天局证实：坠落在该国农场的太空碎片来自美国星链SpaceX公司 -- 观察者网](https://www.guancha.cn/internation/2022_08_03_652217.shtml)  
 - [解放軍實戰演習為何定於今日開始? 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb2ea2e4b0a469028cca2b.html)  
+- [殲20亮劍軍演 台島變孤島 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247576409&idx=1&sn=c1da5cbd404709cb7040148626f7bd52&chksm=e9ade2e)  
+- [反制！台灣業界哀嘆 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247576409&idx=2&sn=f5a0407395c4a74f42cf95b1495e018d&chksm=e9ade2e)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
