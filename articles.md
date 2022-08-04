@@ -166,6 +166,7 @@
 - [天然砂暫停出口 台灣北部36%砂石斷供 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11116444-%e5%a4%a9%e7%84%b6%e7%a0%82%e6%9a%ab%e5%81%9c%e5%87%ba%e5%8f%a3-%e5%8f%b0%e7%81%a3%e5%8c%97%e9%83%a836%e7%a0%82%e7%9f%b3%e6%96%b7%e4%be%9b)  
 - [东部战区实战化联合演训：对台岛周边重点舰船目标实施了多波次模拟打击 -- 新华社](https://www.guancha.cn/military-affairs/2022_08_04_652230.shtml)  
 - [台军：解放军无人机昨夜首次掠过金门岛北碇岛 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652258.shtml)  
+- [解放軍實戰演習為何定於今日開始? 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb2ea2e4b0a469028cca2b.html)  
 
 ## Text  
 
