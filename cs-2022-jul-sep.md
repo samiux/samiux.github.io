@@ -139,5 +139,6 @@
 - [導彈全部命中台島東外海目標 東部戰區解除相關海空域管控 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11118686-%e6%9d%b1%e9%83%a8%e6%88%b0%e5%8d%80%ef%bc%9a%e7%81%ab%e7%ae%ad%e8%bb%8d%e5%b0%8e%e5%bd%88%e5%85%a8%e9%83%a8%e7%b2%be%e6%ba%96%e5%91%bd%e4%b8%ad%e7%9b%ae%e6%a8%99-%e8%a7%a3%e9%99%a4%e7%9b%b8%e9%97%9c)  
 - [華春瑩：G7的列強夢該醒醒了，腦子停留在100多年前是要出問題的！ -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb9994e4b0a469028d2314.html)  
 - [中方駁G7和歐盟外長涉台聲明：萬惡無恥 -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb3d43e4b0a469028cd725.html)  
+- [“大赦国际”：乌军基地设在医院学校中，危害平民生命 -- 观察者网](https://www.guancha.cn/internation/2022_08_04_652352.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
