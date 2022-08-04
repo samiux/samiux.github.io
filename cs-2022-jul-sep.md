@@ -133,5 +133,9 @@
 - [国防部新闻发言人谭克非就我系列军事反制行动发表谈话 -- 国防部](https://www.thepaper.cn/newsDetail_forward_19312744)  
 - [東部戰區導彈全部精準命中目標 解除相關海空域管控 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11118686-%e6%9d%b1%e9%83%a8%e6%88%b0%e5%8d%80%ef%bc%9a%e7%81%ab%e7%ae%ad%e8%bb%8d%e5%b0%8e%e5%bd%88%e5%85%a8%e9%83%a8%e7%b2%be%e6%ba%96%e5%91%bd%e4%b8%ad%e7%9b%ae%e6%a8%99-%e8%a7%a3%e9%99%a4%e7%9b%b8%e9%97%9c)  
 - [华春莹证实中日外长会晤取消：日方没资格就涉台问题说三道四 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19312277)  
+- [台军证实：解放军发射东风弹道导弹，台军启动防御系统 -- 观察者网](https://www.guancha.cn/military-affairs/2022_08_04_652322.shtml)  
+- [台军机挂弹升空，台军：例行训练，与军演无关 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652318.shtml)  
+- [东部战区火箭军部队对台岛东部外海预定海域实施常导火力突击，全部精准命中目标 -- 观察者网](https://www.guancha.cn/military-affairs/2022_08_04_652317.shtml)  
+- [導彈全部命中台島東外海目標 東部戰區解除相關海空域管控 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11118686-%e6%9d%b1%e9%83%a8%e6%88%b0%e5%8d%80%ef%bc%9a%e7%81%ab%e7%ae%ad%e8%bb%8d%e5%b0%8e%e5%bd%88%e5%85%a8%e9%83%a8%e7%b2%be%e6%ba%96%e5%91%bd%e4%b8%ad%e7%9b%ae%e6%a8%99-%e8%a7%a3%e9%99%a4%e7%9b%b8%e9%97%9c)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
