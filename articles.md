@@ -179,6 +179,11 @@
 - [【中國焦點新聞】11枚東風彈道導彈射向台三個方向，解放軍：導彈全部命中目標檢驗區域拒止能力 。解放軍出動逾百戰機軍艦晝夜對台封控。22年8月4日](https://www.youtube.com/watch?v=XDwtFHqaWQM)  
 - [中国各民主党派发表联合声明：严厉谴责佩洛西窜台 -- 央视网 ](https://www.guancha.cn/politics/2022_08_04_652371.shtml)  
 - [盧永雄「巴士的點評」解放軍遠端火力，全台想打那裡就打那裡。G7聲明惹怒中國，王毅:「今天的中國已不再是19世紀的中國」。 22年8月4日](https://www.youtube.com/watch?v=emWun_HB1Dc)  
+- [梅德韦杰夫：美国公然恶意挑衅，千方百计激怒中国 -- 观察者网](https://www.guancha.cn/internation/2022_08_04_652392.shtml)  
+- [台湾前陆军副司令刘湘滨：台湾的筹码很少 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652391.shtml)  
+- [佩洛西窜台致台海情势紧张，台名嘴：两岸“三条线”不存在了 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652388.shtml)  
+- [台湾地区前官员用俗语形容佩洛西窜访：没有生鸡蛋，倒留了一地鸡屎 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652356.shtml)  
+- [中方多次回应后，日本又拿“专属经济区”碰瓷解放军军演 -- 观察者网](https://www.guancha.cn/internation/2022_08_04_652395.shtml)  
 - [日本指解放軍5枚導彈落入其專屬經濟海域 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11120799-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e6%97%a5%e9%98%b2%e7%9b%b8%e7%a8%b1%e8%a7%a3%e6%94%be%e8%bb%8d5%e6%9e%9a%e5%b0%8e%e5%bd%88-%e8%90%bd%e5%85%a5%e6%97%a5%e6%9c%ac%e5%b0%88%e5%b1%ac%e7%b6%93)  
 
 ## Text  
