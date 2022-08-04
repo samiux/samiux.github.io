@@ -317,6 +317,7 @@
 - [智障的香港式防疫措施](covid19_govhk.md)
 - [Kali Linux developers are not up to the standard](/kali_bug.md)  
 - [「安心出行」黑盒渗透测试报告阅后感](/leavehomesafe_pentest_report.md)  
+- [佩洛西窜访台湾的一点观察](/august_02_taiwan.md)  
 
 ## Tutorials
 
