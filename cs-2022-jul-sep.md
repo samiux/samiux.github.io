@@ -124,5 +124,6 @@
 - [东部战区实战化联合演训：对台岛周边重点舰船目标实施了多波次模拟打击 -- 新华社](https://www.guancha.cn/military-affairs/2022_08_04_652230.shtml)  
 - [台军：解放军无人机昨夜首次掠过金门岛北碇岛 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652258.shtml)  
 - [** 澳大利亚航天局证实：坠落在该国农场的太空碎片来自美国星链SpaceX公司 -- 观察者网](https://www.guancha.cn/internation/2022_08_03_652217.shtml)  
+- [解放軍實戰演習為何定於今日開始? 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb2ea2e4b0a469028cca2b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
