@@ -175,6 +175,7 @@
 - [中方駁G7和歐盟外長涉台聲明：萬惡無恥 -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb3d43e4b0a469028cd725.html)  
 - [东部战区出动上百架战机 奔赴台岛北部、西南、东南空域执行任务 -- 央视军事](https://www.guancha.cn/military-affairs/2022_08_04_652359.shtml)  
 - [(附字幕) 李彤「外交短評」台軍監測不到殲-20蹤影。 華春瑩：佩洛西鼓吹「美麗風景線」， 恰恰加速香港由亂及治。 22年8月4日](https://www.youtube.com/watch?v=zz4KJMccW34)  
+- [【中國焦點新聞】11枚東風彈道導彈射向台三個方向，解放軍：導彈全部命中目標檢驗區域拒止能力 。解放軍出動逾百戰機軍艦晝夜對台封控。22年8月4日](https://www.youtube.com/watch?v=XDwtFHqaWQM)  
 
 ## Text  
 
