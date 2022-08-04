@@ -17,7 +17,7 @@ OSCE  OSCP  OSWP
 ## 参考连结：
 
 - [解放军空军苏-35战机正在穿越台湾海峡](https://mp.weixin.qq.com/s/b2234YPRqDPmSqm7c96GnA)    
--[【双语】例行记者会/Regular Press Conference（2022-8-2）](https://mp.weixin.qq.com/s/mj9aPmipgZ2s5GErrEzIyw)    
+- [【双语】例行记者会/Regular Press Conference（2022-8-2）](https://mp.weixin.qq.com/s/mj9aPmipgZ2s5GErrEzIyw)    
 - [东部战区空军飞行员：随时准备战斗！](https://mp.weixin.qq.com/s/9d8ux1XW7D8wac0R24-Flw)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
