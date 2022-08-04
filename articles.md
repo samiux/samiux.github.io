@@ -167,6 +167,8 @@
 - [东部战区实战化联合演训：对台岛周边重点舰船目标实施了多波次模拟打击 -- 新华社](https://www.guancha.cn/military-affairs/2022_08_04_652230.shtml)  
 - [台军：解放军无人机昨夜首次掠过金门岛北碇岛 -- 观察者网](https://www.guancha.cn/politics/2022_08_04_652258.shtml)  
 - [解放軍實戰演習為何定於今日開始? 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb2ea2e4b0a469028cca2b.html)  
+- [殲20亮劍軍演 台島變孤島 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247576409&idx=1&sn=c1da5cbd404709cb7040148626f7bd52&chksm=e9ade2e)  
+- [反制！台灣業界哀嘆 -- 大公文匯](https://mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247576409&idx=2&sn=f5a0407395c4a74f42cf95b1495e018d&chksm=e9ade2e)  
 
 ## Text  
 
