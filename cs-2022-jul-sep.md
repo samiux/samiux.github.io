@@ -130,5 +130,6 @@
 - [淺談佩洛西訪台後的局勢：圍島軍演的主要原因、有力人士開腔力挺中國、我們應該要感謝佩洛西嗎？ - 沖出黎講](https://www.youtube.com/watch?v=tWRG_HY-bu4)  
 - [【环球叶问】美媒忙着科普“一中原则”，并细数佩洛西窜访台湾“五宗罪”！](https://www.youtube.com/watch?v=QXrH37bCPy4)  
 - [台媒：多架解放軍戰機軍艦穿越「海峽中線」-- 巴士的報](https://www.bastillepost.com/hongkong/article/11118626-%e5%8f%b0%e5%aa%92%ef%bc%9a%e5%a4%9a%e6%9e%b6%e8%a7%a3%e6%94%be%e8%bb%8d%e6%88%b0%e6%a9%9f%e8%bb%8d%e8%89%a6%e7%a9%bf%e8%b6%8a%e3%80%8c%e6%b5%b7%e5%b3%bd%e4%b8%ad%e7%b7%9a%e3%80%8d)  
+- [国防部新闻发言人谭克非就我系列军事反制行动发表谈话 -- 国防部](https://www.thepaper.cn/newsDetail_forward_19312744)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
