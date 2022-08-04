@@ -153,6 +153,7 @@
 - [台灣軍方：解放軍22架戰機飛越台海中線 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11115307-%e8%a7%a3%e6%94%be%e8%bb%8d22%e6%9e%b6%e6%88%b0%e6%a9%9f%e9%a3%9b%e8%b6%8a%e5%8f%b0%e6%b5%b7%e4%b8%ad%e7%b7%9a)  
 
 #### 2022-08-04
+- [(附字幕) 盧永雄「巴士的點評」佩洛西的歷史「貢獻」打開對台統一之門。3日軍演預演台灣圍城2022和1996不一樣。 22年8月4日](https://www.youtube.com/watch?v=As4x2ZSvvDw)  
 - [解放軍台島周邊演練封控打擊　東部戰區海空火箭軍等參加 -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb07dee4b0a469028cb003.html)  
 - [有力反制 - 大陸停銷天然砂　台芯片業勢受創 -- 大公文匯](https://www.tkww.hk/a/202208/04/AP62eb0aabe4b0a469028cb183.html)  
 - [天然砂暫停出口 台灣北部36%砂石斷供 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11116444-%e5%a4%a9%e7%84%b6%e7%a0%82%e6%9a%ab%e5%81%9c%e5%87%ba%e5%8f%a3-%e5%8f%b0%e7%81%a3%e5%8c%97%e9%83%a836%e7%a0%82%e7%9f%b3%e6%96%b7%e4%be%9b)  
