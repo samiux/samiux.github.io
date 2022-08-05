@@ -161,5 +161,6 @@
 - [国防大学教授孟祥青：解放军在台岛以东设靶逼退里根号 -- 央视新闻](https://www.guancha.cn/military-affairs/2022_08_05_652417.shtml)  
 - [解放军常规导弹穿越台岛意味着什么？国防大学教授孟祥青解读 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652425.shtml)  
 - [佩洛西竄台後民調打臉蔡英文 近8成台灣民眾對美協防沒信心 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11123418-%e4%bd%a9%e6%b4%9b%e8%a5%bf%e7%ab%84%e5%8f%b0%e5%be%8c%e6%b0%91%e8%aa%bf%e6%89%93%e8%87%89%e8%94%a1%e8%8b%b1%e6%96%87-%e8%bf%918%e6%88%90%e5%8f%b0%e7%81%a3%e6%b0%91%e7%9c%be%e5%b0%8d%e7%be%8e%e5%8d%94)  
+- [前民进党“立委”：解放军重要军事演训行动，就是大陆在宣告对台湾的主权 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652449.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
