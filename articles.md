@@ -201,6 +201,7 @@
 - [解放軍常規導彈首次穿越台島 台軍為何未發布防空警報？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/11124488-%e8%a7%a3%e6%94%be%e8%bb%8d%e5%b8%b8%e8%a6%8f%e5%b0%8e%e5%bd%88%e9%a6%96%e6%ac%a1%e7%a9%bf%e8%b6%8a%e5%8f%b0%e5%b3%b6-%e5%8f%b0%e8%bb%8d%e7%82%ba%e4%bd%95%e6%9c%aa%e7%99%bc%e5%b8%83%e9%98%b2%e7%a9%ba)  
 - [台軍方：多批解放軍機艦台海演習 再逾越「海峽中線」-- 巴士的報](https://www.bastillepost.com/hongkong/article/11124284-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e5%a4%9a%e6%89%b9%e8%a7%a3%e6%94%be%e8%bb%8d%e6%a9%9f%e8%89%a6%e5%8f%b0%e6%b5%b7%e5%91%a8%e9%82%8a%e6%bc%94%e7%bf%92-%e8%b8%b0%e8%b6%8a%e3%80%8c%e6%b5%b7)  
 - [东部战区首次用动车组作为“卫生列车”，演练大批伤员救治和后送 -- 央视新闻](https://www.guancha.cn/military-affairs/2022_08_05_652477.shtml)  
+- [外交部：中方对美国国会众议长佩洛西及其直系亲属采取制裁 -- 外交部](https://www.thepaper.cn/newsDetail_forward_19329050)  
 
 ## Text  
 
