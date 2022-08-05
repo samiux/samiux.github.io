@@ -173,5 +173,6 @@
 - [岛内开始担心：美日韩等没有军事介入此次大陆军演，那以后也不会管了 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652494.shtml)  
 - [大陆智库：美军派出7架各型侦察机，解放军今日演习更复杂精彩 -- 观察者网](https://www.guancha.cn/internation/2022_08_05_652513.shtml)  
 - [日本首相岸田文雄妄称中方军演“破坏和平稳定”，还要求中方“立即停止” -- 观察者网](https://www.guancha.cn/internation/2022_08_05_652526.shtml)  
+- [盧永雄「巴士的點評」中美合作全面中止，陸台關係面臨劇變。 東風導彈飛越台北，台灣懵然不知，台北防空導彈密度世界第二，毫無反應。 22年8月5日](https://www.youtube.com/watch?v=4kc09ee-Prw)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
