@@ -189,7 +189,7 @@
 - [日本指4枚飛彈掠過台北 台軍：22架解放軍戰機穿越「台海中線」-- 巴士的報](https://www.bastillepost.com/hongkong/article/11121217-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e5%8f%b0%e8%bb%8d%e6%8c%8722%e6%9e%b6%e8%a7%a3%e6%94%be%e8%bb%8d%e6%88%b0%e6%a9%9f%e7%a9%bf%e8%b6%8a%e5%8f%b0%e6%b5%b7%e4%b8%ad%e7%b7%9a-%e6%97%a5)  
 
 #### 2022-08-05
-
+- [台军：4日夜间再有4架次无人机进入金门空域 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652413.shtml)  
 
 ## Text  
 
