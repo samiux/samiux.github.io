@@ -166,5 +166,12 @@
 - [台軍方：多批解放軍機艦台海演習 再逾越「海峽中線」-- 巴士的報](https://www.bastillepost.com/hongkong/article/11124284-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e5%a4%9a%e6%89%b9%e8%a7%a3%e6%94%be%e8%bb%8d%e6%a9%9f%e8%89%a6%e5%8f%b0%e6%b5%b7%e5%91%a8%e9%82%8a%e6%bc%94%e7%bf%92-%e8%b8%b0%e8%b6%8a%e3%80%8c%e6%b5%b7)  
 - [东部战区首次用动车组作为“卫生列车”，演练大批伤员救治和后送 -- 央视新闻](https://www.guancha.cn/military-affairs/2022_08_05_652477.shtml)  
 - [外交部：中方对美国国会众议长佩洛西及其直系亲属采取制裁 -- 外交部](https://www.thepaper.cn/newsDetail_forward_19329050)  
+- [針對佩洛西竄訪台灣 中方宣布8項反制美國措施 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11125763-%e5%a4%96%e4%ba%a4%e9%83%a8%e5%ae%a3%e5%b8%83%e9%87%9d%e5%b0%8d%e4%bd%a9%e6%b4%9b%e8%a5%bf8%e9%a0%85%e5%8f%8d%e5%88%b6%e6%8e%aa%e6%96%bd)  
+- [台灣多個政府網站遭入侵 黑客組織APT 27：特別網路行動 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11125424-%e5%8f%b0%e7%81%a3%e5%a4%9a%e5%80%8b%e6%94%bf%e5%ba%9c%e6%a9%9f%e6%a7%8b%e7%b6%b2%e7%ab%99%e9%81%ad%e5%85%a5%e4%be%b5-%e9%bb%91%e5%ae%a2%e7%b5%84%e7%b9%94apt-27%e6%89%bf%e8%aa%8d%e7%8a%af%e6%a1%88)  
+- [日方指中國導彈落入「專屬經濟區」 華春瑩：不存在有關區域 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11125675-%e5%8f%b0%e6%b5%b7%e8%bb%8d%e6%bc%94%ef%bd%9c%e6%97%a5%e6%9c%ac%e6%8c%875%e6%9e%9a%e4%b8%ad%e5%9c%8b%e5%b0%8e%e5%bd%88%e8%90%bd%e5%85%a5%e5%85%b6%e3%80%8c%e5%b0%88%e5%b1%ac%e7%b6%93%e6%bf%9f%e5%8d%80)  
+- [東部戰區首次用動車組衞勤演練 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11125016-%e6%9d%b1%e9%83%a8%e6%88%b0%e5%8d%80%e9%a6%96%e6%ac%a1%e7%94%a8%e5%8b%95%e8%bb%8a%e7%b5%84%e8%a1%9e%e5%8b%a4%e6%bc%94%e7%b7%b4)  
+- [岛内开始担心：美日韩等没有军事介入此次大陆军演，那以后也不会管了 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652494.shtml)  
+- [大陆智库：美军派出7架各型侦察机，解放军今日演习更复杂精彩 -- 观察者网](https://www.guancha.cn/internation/2022_08_05_652513.shtml)  
+- [日本首相岸田文雄妄称中方军演“破坏和平稳定”，还要求中方“立即停止” -- 观察者网](https://www.guancha.cn/internation/2022_08_05_652526.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
