@@ -190,6 +190,13 @@
 
 #### 2022-08-05
 - [台军：4日夜间再有4架次无人机进入金门空域 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652413.shtml)  
+- [中國外交部：列強夢該醒醒了 -- 大公文匯](https://www.tkww.hk/a/202208/05/AP62ec5b7ae4b0a469028d6621.html)  
+- [上百戰機鎖空　航母核潛封海　轟！ -- 大公文匯](https://mp.weixin.qq.com/s/pffjdB0KRMhJDmNtvkjsOA)  
+- [台海军演开始，美国反诬中方“改变现状” -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652447.shtml)  
+- [为何不用“爱国者”拦截？台军事专家：太贵，发了也不一定能拦住 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652431.shtml)  
+- [国防大学教授孟祥青：解放军在台岛以东设靶逼退里根号 -- 央视新闻](https://www.guancha.cn/military-affairs/2022_08_05_652417.shtml)  
+- [解放军常规导弹穿越台岛意味着什么？国防大学教授孟祥青解读 -- 观察者网](https://www.guancha.cn/politics/2022_08_05_652425.shtml)  
+- [佩洛西竄台後民調打臉蔡英文 近8成台灣民眾對美協防沒信心 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11123418-%e4%bd%a9%e6%b4%9b%e8%a5%bf%e7%ab%84%e5%8f%b0%e5%be%8c%e6%b0%91%e8%aa%bf%e6%89%93%e8%87%89%e8%94%a1%e8%8b%b1%e6%96%87-%e8%bf%918%e6%88%90%e5%8f%b0%e7%81%a3%e6%b0%91%e7%9c%be%e5%b0%8d%e7%be%8e%e5%8d%94)  
 
 ## Text  
 
