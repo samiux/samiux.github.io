@@ -213,6 +213,12 @@
 
 #### 2022-08-06
 - [新华社：佩洛西窜访台湾六宗罪 -- 新华社](https://www.thepaper.cn/newsDetail_forward_19343542)  
+- [解放军10余艘舰艇在台岛周边海域展开联合封控，现场画面公开 -- 观察者网](https://www.guancha.cn/military-affairs/2022_08_06_652576.shtml)  
+- [立陶宛又来了，议长声称将与欧洲国家议长讨论“共同访台” -- 观察者网](https://www.guancha.cn/internation/2022_08_06_652587.shtml)  
+- [连续第3天，台军：4批7架次无人机昨夜进入金门空域 -- 观察者网](https://www.guancha.cn/politics/2022_08_06_652592.shtml)  
+- [中方反制佩洛西竄台 重磅表態有三個特殊之處 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11128350-%e4%b8%ad%e6%96%b9%e5%8f%8d%e5%88%b6%e4%bd%a9%e6%b4%9b%e8%a5%bf%e7%ab%84%e5%8f%b0-%e9%87%8d%e7%a3%85%e8%a1%a8%e6%85%8b%e6%9c%89%e4%b8%89%e5%80%8b%e7%89%b9%e6%ae%8a%e4%b9%8b%e8%99%95)  
+- [佩洛西窜访台湾，国际社会到底什么态度？华春莹今天在发布会上一口气讲了整整10分钟！一起来听听正义的声音！ --  东方卫视环球交叉点](https://www.youtube.com/watch?v=ZfPmzk9ZtvU)  
+- [8-6-2022星電視快評—余非：是中美關係、還是兩岸關係？「武統」之後，「文治」又如何？](https://www.youtube.com/watch?v=VGY4LUiU1Vo)  
 
 ## Text  
 
