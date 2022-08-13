@@ -1,6 +1,12 @@
 # Croissants ChangeLog
 
-### Version - 6.0.4.0 [Stable, Latest]  
+### Version - 6.0.6.0 [Stable, Latest]  
+Release date : 2022-08-13 - GMT+8  
+[+] Suricata upgraded to 6.0.6  
+[+] Tune for Suricata 6.0.6  
+[-] No longer support and update host based  
+
+### Version - 6.0.4.0  
 Release date : 2022-02-05 - GMT+8  
 [+] Suricata upgraded to 6.0.4  
 [+] Performance tuning (msn.conf default settings)  
