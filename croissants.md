@@ -77,8 +77,6 @@ __Croissants is designed and developed by Samiux since 2012.__
 
 #### 1.1 Download and Install
 
-##### 1.1.1 Network Based
-
 ```bash
 sudo -sH
 
@@ -120,34 +118,6 @@ __Make sure you edit ```nsm.conf``` before running ```nsm_install```__
 
 The definition of nsm.conf is [here](https://github.com/samiux/samiux.github.io/blob/master/nsmconf.md).
 
-##### 1.1.2 Host Based (This is no longer supported and updated!)
-
-```bash
-sudo -sH
-
-cd /root
-
-sudo apt install git net-tools
-
-git clone https://github.com/samiux/idps-host
-
-cd idps-host
-
-cp * /root
-
-cd /root
-
-nano nsm.conf
-
-chmod +x nsm_install
-
-sudo ./nsm_install
-```
-
-__Make sure you edit ```nsm.conf``` before running ```nsm_install```__
-
-The definition of nsm.conf is [here](https://github.com/samiux/samiux.github.io/blob/master/nsmconf-hidps.md).
-
 #### 1.2 Post Installation (Optional)
 
 You are required to update the rules.  However, you should wait until the Suricata is starting up completely.  You may wait for about 15 minutes for the start up.  Or see ```<Notice> - rule reload complete``` at the end of the following command.
@@ -181,25 +151,15 @@ glances
 
 Graphic mode monitoring tool for the performance of Croissants.
 
-__Network based only__
-
 ```bash
 sudo sed -i 's/127\.0\.0\.1/0\.0\.0\.0/' /etc/netdata/netdata.conf
 sudo systemctl restart netdata
 ```
 
-__Network based__
-
 ```bash
 http://[monitoring_ip]:19999
 ```
 e.g. http://192.168.20.180:19999
-
-__Host based__
-
-```bash
-http://127.0.0.1:19999
-````
 
 __Since netdata is now on the cloud and the performance of it is dropped a lot for some countries.  If you encounter the performance problem, you may consider to disable it.__  
 
@@ -319,11 +279,6 @@ Internet --- Modem (if any) --- Croissants --- Wifi Router --- Switch --- PCs
 Do not use the wifi that comes with 5G modem as the traffic flow does not protected by Croissants.
 
 The DNS entries at 5G Modem and Wifi Router should be identical; otherwise, the speed of internet browsing would be delayed a little bit.  
-
-__Host Based__
-```bash
-Internet --- Croissants (with application on it)
-```
 
 #### When will the rules are updated?
 Between 0200 and 0600 hours every day, Croissants will do the housekeeping and updating.  The defending work of Croissants may be interrupted during this perid.  Outdated logs will be deleted at 0200 hours.  All blacklists will be updated at 0300 hours.  Croissants will be updated at 0400 hours (when necessary).  All rules will be updated at 0500 hours.  Ubuntu will be updated at 0600 hours (it will auto reboot when necessary).  
