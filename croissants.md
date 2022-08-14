@@ -346,37 +346,7 @@ When installing Linux with USB dongle, you are required to use Front Panel USB p
 
 ### 8.0 Bug Fixed
 
-Since there is a bug in the kernel for 5.13.0 (5.13.0-25-generic and 5.13.0-27-generic [the problem is solved at 5.13.0-30-generic]) of Ubuntu 20.04 HWE kernel, the box of AMD R7-4800U cannot be reboot or shutdown properly.  Therefore, we need to install the latest kernel (such as 5.16.x or newer) to fix the problem.  However, AMD R5-3500U does not affected.
-
-```
-[1.277717] BUG: kernel NULL pointer dereference, address: 000000000000000c
-[    1.277720] #PF: supervisor write access in kernel mode
-[    1.277722] #PF: error_code(0x0002) - not-present page
-```
-
-In order to install the kernel 5.16.x, you need to do the following steps :
-
-```
-sudo add-apt-repository -y ppa:tuxinvader/lts-mainline
-sudo apt install -y linux-generic-5.16
-```
-
-You may need to insert the following in ```/etc/default/grub``` at ```GRUB_CMDLINE_LINUX_DEFAULT``` :
-
-```
-iommu.strict=1 iommu.passthrough=1
-```
-or
-```
-iommu=soft
-```
-
-After that, you need to run the following command before reboot the box :
-
-```
-sudo update-grub
-sudo reboot
-```
+N/A
 
 ### 9.0 Known Issues
 
