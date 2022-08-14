@@ -15,7 +15,7 @@ Croissants is designed by a hacker to defend against hackers. He knows what hack
 - Easy and straight forward interfaces  
 - Compatible with Bittorrent and 4K video streaming  
 - Ultra-low latency for demanding online games  
-- Compatible with Microsoft Windows, GNU Linux, Apple macOS, Apple iOS and Google Android  
+- Compatible with Microsoft Windows, GNU Linux, Apple macOS, Apple iOS, Google Android and Huawei HarmonyOS  
 - No subscription fee  
 - Automatically update and upgrade  
 - Plug, Play and Forget!  
