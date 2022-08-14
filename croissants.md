@@ -1,8 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# Croissants 牛角面包 - Intrusion Detection and Prevention System
-
-## netplan as default
+# Croissants 牛角面包 - Intrusion Detection and Prevention System  防御入侵系统
 
 Networks and computers that are opened to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our tasty Croissants is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Croissants is available free of charge that everyone can afford.  It is ideal for home, Small Office Home Office (SOHO) and Small Medium Business (SMB).
 
@@ -13,8 +11,8 @@ Croissants is designed by a hacker to defend against hackers. He knows what hack
 ## FEATURES
 
 - Blocks known malicious activities  
-- Blocks known malware and virus  
-- Easy and straight forward web interfaces  
+- Blocks known malware  
+- Easy and straight forward interfaces  
 - Compatible with Bittorrent and 4K video streaming  
 - Ultra-low latency for demanding online games  
 - Compatible with Microsoft Windows, GNU Linux, Apple macOS, Apple iOS and Google Android  
@@ -54,16 +52,14 @@ __Croissants is designed and developed by Samiux since 2012.__
 - Multi-Core Intel / AMD x86 CPU (e.g. AMD Ryzen R7-4800U for home usage)   
 - 16GB DDR4 RAM or more (Croissants use at least 8GB RAM)  
 - 256GB hard drive or more (SSD for better performance)   
-- 3 Network Interface Cards/Ports (Network Based only)  
-- 1 Network Interface Card/Port (Host Based only)  
+- 3 Network Interface Cards/Ports   
 - CPU with AVX2 or better (at least SSSE3)  
 - More cores and faster CPU the better performance  
 
 ### Software
 
 - Ubuntu Server 22.04 LTS (64-bit) (support until April 2027)  
-- __netplan__ as default  
-- Support WIFI (for Monitoring Interface only) (Intel AX200 for WPA3 is not recommended as it is unstable unless the kernel is 5.11.0-36 or later)  
+- Support WIFI (for Monitoring Interface only)   
 
 ## MAIN COMPONENTS
 
