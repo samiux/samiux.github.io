@@ -143,7 +143,7 @@ Text mode monitoring tool for the performance of Croissants.
 glances
 ```
 
-#### 2.2 Netdata
+#### 2.2 Netdata (optional)
 
 Graphic mode monitoring tool for the performance of Croissants.
 
