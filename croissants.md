@@ -59,7 +59,7 @@ __Croissants is designed and developed by Samiux since 2012.__
 ### Software
 
 - Ubuntu Server 22.04 LTS (64-bit) (support until April 2027)  
-- Support WIFI (for Monitoring Interface only)   
+- Support WIFI (for Monitoring Interface only)  (Optional)     
 
 ## MAIN COMPONENTS
 
