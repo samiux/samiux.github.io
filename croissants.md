@@ -32,7 +32,7 @@ Croissants is designed by a hacker to defend against hackers. He knows what hack
 - 有效阻挡已知的恶意程序
 - 简单直接的用户介面
 - 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
-- 兼容微软视窗、苹果电脑、Linux 等系统
+- 兼容微软视窗、苹果电脑、Linux 及各大流动等系统
 - 开源项目，完全免费
 - 自动更新
 - 随插即用，并且可以忘记之
