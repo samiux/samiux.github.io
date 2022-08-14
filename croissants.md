@@ -112,7 +112,7 @@ sudo ./nsm_install
 
 __Make sure you edit ```nsm.conf``` before running ```nsm_install```__
 
-The definition of nsm.conf is [here](https://github.com/samiux/samiux.github.io/blob/master/nsmconf.md)  (outdated).
+The definition of nsm.conf is [here](https://github.com/samiux/samiux.github.io/blob/master/nsmconf.md)  (outdated, please refers to nsm.conf).
 
 #### 1.2 Post Installation (Optional)
 
