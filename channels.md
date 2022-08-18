@@ -33,6 +33,7 @@
 - [海軍發布首部航母宣傳片 暗示第三艘航母將來臨 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10559614-%e4%ba%ba%e6%b0%91%e6%b5%b7%e8%bb%8d%e7%99%bc%e5%b8%83%e9%a6%96%e9%83%a8%e8%88%aa%e6%af%8d%e4%b8%bb%e9%a1%8c%e5%ae%a3%e5%82%b3%e7%89%87-%e6%9a%97%e7%a4%ba%e7%ac%ac%e4%b8%89%e8%89%98%e8%88%aa%e6%af%8d)  
 - [[正午国防军事]人民海军发布首部航母主题宣传片《深蓝！深蓝！》 -- CCTV-7国防军事频道](https://tv.cctv.com/2022/04/22/VIDE5pVotqWr5hRHeDVwkc88220422.shtml)  
 - [前所未有的震撼镜头！中国海军首部航母主题宣传片发布 片尾彩蛋透露重磅信息！20220422 -- 军迷天下](https://www.youtube.com/watch?v=54dG2yccI10)  
+- [玉渊谭天 - 用简单逻辑看复杂世界 -- 视频新闻 / 图文新闻](https://new.qq.com/omn/author/17419139)  
 
 ## Red Team vs Blue Team  (PLA)  
 
