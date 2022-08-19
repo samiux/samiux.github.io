@@ -1,9 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# Capture The Flag (CTF) - Linux Binary Exploitation
-
-- [Capture the flag - Wikipedia](https://en.wikipedia.org/wiki/Capture_the_flag)  
-- [Wargame - Wikipedia](https://en.wikipedia.org/wiki/Wargame_(hacking))  
+# Capture The Flag (CTF) - Linux Binary Exploitation Challenges Lab
 
 ## Basic Knowledge Requirements
 
@@ -20,31 +17,34 @@
 
 ## Challenges
 
-If you can solve the following challenges, please let me know (```Discord @samiux```) and may be we can research together.  
+If you can solve the following challenges, please let me know (```Discord @samiux```).  
 
-### Linux Binary Exploitation - pwn
+### Linux Binary Exploitation (Pwn) Challenges Lab
 
-PwnCTF 2022 is developed on CTFd Framework.  It is mainly designed for Pwnable and it is a all seasons challenges.
+PwnCTF 2022 is developed on CTFd Framework.  The challenges are mainly designed for Pwnable and Practical purpose.  Difficulty is basic to intermediate level.  No heap exploitation is involved.
 
-PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is the current latest such as Ubuntu 22.04 LTS.  Glibc 2.31 is the current such as Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
+PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is from Ubuntu 22.04 LTS.  Glibc 2.31 is from Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
 
-Usage : Import the ova file into Virtualbox or VMWare and access the control panel at the server IP address on port 8000 with browser.
-        It is well tested on Virtualbox.
+#### Usage
 
-- sha256  528d5875e96b1a6669bc503a25864e003aeadb37704b91541ce5c69b364a8d07  PwnCTF 2022.2.ova  
+Import the ova file into Virtualbox (or VMWare) and access the control panel at the server IP address on port 8000 with browser (e.g. http://192.168.56.50:8000).  It is well tested on Virtualbox.  Network interface is "Bridged Network" by default.  Please change the network interface on Virtualbox when necessary.  
 
-- [Download PwnCTF 2022.2.ova (3.84GB)](https://drive.google.com/file/d/1oUmLSSMIZELQZ5Gm1T-AITwGILdda3bo/view?usp=sharing)  
+#### Download
 
-- sha256  0277c71b28d4dfe077b65075d6e21e6a912e7b8a606be0de108423c73f6132f9  PwnCTF 2022 Now.ova  
+- __sha256 : 99c024724fd8cf71da321c5461e9880969ad59a2f9c87ccaf9c95a763f85c471 -- PwnCTF 2022.2.ova (Glibc 2.31)__  
 
-- [Download PwnCTF 2022 Now.ova (3.81GB)](https://drive.google.com/file/d/1cnPHk5um_WT6-owVFvhSLtNXheD7A6WE/view?usp=sharing)  
+- [Download PwnCTF 2022.ova (5.9GB)](https://drive.google.com/file/d/1XgQ3PAbL4im6vJUMbfiMisXsov_gew_L/view?usp=sharing)  
+
+- __sha256 : aa043339d91e98e16eeabd44b788526274a257eea2516ca3adb713c1b6245a5c -- PwnCTF 2022 Now.ova (Glibc 2.35)__  
+
+- [Download PwnCTF 2022 Now.ova (5.8GB)](https://drive.google.com/file/d/13qwOhI_6jV4FNnJeoAO0_K5CdZp_qp2J/view?usp=sharing)  
 
 #### Changelog
 
-- May 20, 2022 - PwnCTF 2022 First released (For Glibc 2.31)  
-- May 21, 2022 - PwnCTF 2022.1 Some improvement  
-- May 21, 2022 - PwnCTF 2002.2 Increase 5 more challenges  
-- May 21, 2022 - PwnCTF 2022 Now First released (For Glibc 2.35)  
+- May 20, 2022 - Version 2022.0 -- First released  
+- May 21, 2022 - Version 2022.1 -- Some improvement  
+- May 21, 2022 - Version 2022.2 -- Increase 5 more challenges, a total of 10 challenges  
+- Aug 19, 2022 - Version 2022.3 -- Modify the Virtualbox settings for better implementation experience  
 
 #### Demo
 
