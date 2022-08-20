@@ -17,13 +17,13 @@
 
 ## Challenges
 
-If you can solve the following challenges, please let me know (```Discord @samiux```).  
+If you can solve the following challenges, please let me know (```Discord @samiux#3445```).  
 
 ### Linux Binary Exploitation (Pwn) Challenges Lab
 
 PwnCTF 2022 is developed on CTFd Framework.  The challenges are mainly designed for Pwnable and Practical purpose.  Difficulty is basic to intermediate level.  No heap exploitation is involved.
 
-PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is from Ubuntu 22.04 LTS.  Glibc 2.31 is from Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
+PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is from Ubuntu 22.04 LTS while Glibc 2.31 is from Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
 
 #### Usage
 
