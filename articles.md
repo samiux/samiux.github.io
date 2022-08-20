@@ -88,6 +88,8 @@
 - [ 第153期：什么是“文明型国家”？“中国独特性”和“美国例外论”的区别又在哪里？#张维为#邱文平 ​​​-《#这就是中国》#ChinaNow EP153 20220725【东方卫视官方频道】 ](https://www.youtube.com/watch?v=hJsl4PkCCdc)  
 - [教育部提醒：警惕「野雞大學」招生詐騙陷阱 -- 大公文匯](https://www.tkww.hk/a/202207/27/AP62e1389ee4b0a4690288587c.html)  
 - [香港黃絲教壞澳門人？生活被迫政治化、親友的關係因立場的變化、港澳逐漸被大陸洗腦？ -- 沖出黎傾](https://www.youtube.com/watch?v=g1arsG8qxA0)  
+- [【上集】學識「重新思考」隨時救你一命？Lorey大力推介最喜歡作者之一的著作，喚醒每一個人內心的「科學家」角色！- #86 好書推介 《Think Again》- Lorey讀好書​​ _20220819](https://www.youtube.com/watch?v=nbyCyq7HbKA)  
+- [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 
 ## 专题视听频道
 
