@@ -8,7 +8,7 @@
 - Linux security features  (RELRO, Canary, NX, PIE & etc)
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
-- Assemble Language knowledge (optional)
+- Assemble Language knowledge (optional when Ghidra or IDA is in force)
 - Ghidra or IDA (optional but recommended)
 - C/C++ Language knowledge 
 - Python Language  (Python 3 is recommended)
