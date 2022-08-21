@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# 给香港夺旗赛协会的一封公开信
+# 给香港夺旗赛协会的一封公开信 (一)
 
 主席 ：
 
@@ -28,7 +28,7 @@ OSCE  OSCP  OSWP
 
 
 ### 参考：
-- [香港夺旗赛协会主席回覆](/replyfromhkctf.md)  
+- [香港夺旗赛协会主席回覆 (一)](/replyfromhkctf.md)  
 - [给香港夺旗赛协会的一封公开信 (二)](/openletter2hkctf_2.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
