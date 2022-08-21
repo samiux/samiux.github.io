@@ -65,4 +65,22 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - ```从 0 到 1 - CTFer 成长之路``` -- [Nu1L 战队]( https://www.nu1l.com/#/) 编著  (ISBN 978-7-121-37695-5)  
 - ```CTF 竞赛权威指南 - Pwn 篇``` -- 杨超 编著  (ISBN 978-7-121-39952-7)  
 
+## Bonus
+
+Challenge : gets_only (Linux binary)  
+
+Description : Oh! only gets() in the binary!  
+   
+File : [gets_only](https://github.com/samiux/samiux.github.io/raw/master/binary/gets_only)  
+
+sha256 : 65075f0f30bbd5561ca80aa57c645c7b31af4b49b6f8764575fca4b44989cb1c
+
+Author : Samiux  
+
+Date : August 21, 2022  
+
+### Demo
+
+[![](https://img.youtube.com/vi/cUEkw6Y9Zzw/0.jpg)](https://youtu.be/cUEkw6Y9Zzw "PwnCTF gets_only Demo")  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
