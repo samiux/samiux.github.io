@@ -69,7 +69,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 
 Challenge : gets_only (Linux binary)  
 
-Description : Oh! only gets() in the binary!  
+Description : Oh! Only gets() in the binary!  
    
 File : [gets_only](https://github.com/samiux/samiux.github.io/raw/master/binary/gets_only)  
 
