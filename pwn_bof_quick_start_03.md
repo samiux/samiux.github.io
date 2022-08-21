@@ -14,7 +14,6 @@
 至于网站方面，国内外都有大量这类资料可供参考学习，不过有些比较老旧。当然，你必须要了觧每个技术的原理才可以在觧题方面得心应手。现在附上一些网址以供参考学习 ：
 
 - [Nightmare](https://guyinatuxedo.github.io/)  
-- [Pwn for Fun and Profit -- caprinux](https://caprinux.github.io/)  
 
 最后，我邀请你参与我所建立的[挑战](/ctf-pwn.md)，一同学习，一同进步。
 
