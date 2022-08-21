@@ -142,7 +142,7 @@
 - [夺旗赛 (CTF) 入门 (二)](/ctf_noob_2.md)
 - [夺旗赛 (CTF) 入门 (三)](/ctf_noob_3.md)
 - [我的「夺旗赛」战斗策略](/pwn-plan.md)
-- [给香港夺旗赛协会的一封公开信](/openletter2hkctf.md)  
+- [给香港夺旗赛协会的一封公开信 (一)](/openletter2hkctf.md)  
 - [给香港夺旗赛协会的一封公开信 (二)](/openletter2hkctf_2.md)  
 - [KB-VULN 系列推介](/kb-vuln.md)  
 - [夺旗赛中的 PWN 会消失吗？！](/no_more_pwn.md)  
