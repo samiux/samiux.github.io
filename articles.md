@@ -92,6 +92,12 @@
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [一位由愛國到反共的香港老憤青，給香港年輕人的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=snkLLKG2AtA)  
 
+### 贩卖人口骗案
+
+- [Lorey都收到騙徒誘騙邀請？ 假借一帶一路專呃貪心無知青少年！ 3個不可不聽嘅tips教你避開死亡騙局！-- Lorey快閃講](https://www.youtube.com/watch?v=t85afUI_ygs)  
+- [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
+- [泰國網友親身分享：販賣人口騙案及最新詐騙手法「佛跳牆」-- 沖出黎Vlog](https://www.youtube.com/watch?v=vvBQQjpZpQU)  
+
 ## 专题视听频道
 
 - [专题视听频道](/channels.md)  
