@@ -15,5 +15,6 @@ OSCE  OSCP  OSWP
 ## 附加參考：  
 
 - [國安處拘捕2名男子涉煽動作為 據悉均為公務員 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11106276-%e5%9c%8b%e5%ae%89%e8%99%95%e6%8b%982%e7%94%b7%e5%ad%90%e6%b6%89%e7%85%bd%e5%8b%95%e4%bd%9c%e7%82%ba-%e6%93%9a%e6%82%89%e5%9d%87%e7%82%ba%e5%85%ac%e5%8b%99%e5%93%a1)  
+- [53歲無業漢涉TG發布煽動意圖言論及管武 還柙9.15再訊 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11221591)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
