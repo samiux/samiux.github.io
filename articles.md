@@ -25,11 +25,26 @@
 - [【白皮書】「一國兩制」下香港的民主發展（全文）](https://www.tkww.hk/a/202112/20/AP61bfec65e4b07ec0fc45daa1.html)  
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
 
+### 网络防火墙
+
+- [什么是防火墙？防火墙的作用？](https://zhuanlan.zhihu.com/p/400995778)    
+- [防火墙的作用是什么 防火墙的优缺点分析【图文】](https://product.pconline.com.cn/itbk/software/dnyw/1707/9602746.html)    
+- [网络防火墙的作用是什么？](https://zhidao.baidu.com/question/1802931453217189467.html)    - [防火墙](https://baike.baidu.com/item/%E9%98%B2%E7%81%AB%E5%A2%99/52767)    
+
 ### 翻墙违法了吗？
 
 - [“翻墙”就是犯法，这些常识你必须知道](https://mil.sina.cn/2022-02-22/detail-imcwipih4789817.d.html)    
 - [这道“墙”翻不得！切莫以身试法](https://www.nudt.edu.cn/zjkd/xysh/abc22f72761f411ea3a6066ecba45366.htm)    
 - [在家“翻墙”浏览色情网站，违法了吗？](https://www.thepaper.cn/newsDetail_forward_8738734)    
+
+## 爱国爱党
+
+- [习近平：以史为镜、以史明志，知史爱党、知史爱国](http://www.gov.cn/xinwen/2021-06/15/content_5618090.htm)    
+- [跟着总书记学党史 - 香港中联办 - 中央人民政府驻香港特别行政区联络办公室](http://www.locpg.gov.cn/zt/2021-05/19/c_1211160860.htm)    
+- [人民日报署名文章：凝聚起中华儿女团结奋斗的磅礴力量——习近平总书记关于弘扬爱国主义精神重要论述综述](http://www.gov.cn/xinwen/2021-10/01/content_5640726.htm)    
+- [习近平谈爱国](http://politics.people.com.cn/n1/2018/1003/c1001-30324961.html)    
+- [爱党与爱国——读《中国共产党简史》](https://fuwu.12371.cn/2012/06/13/ARTI1339571347439679.shtml)    
+- [爱国不代表爱党？爱国要不要爱党？爱国是不是爱党？](https://zhuanlan.zhihu.com/p/385617892)    
 
 ## Common Sense
 
