@@ -587,6 +587,8 @@
 - [國產「阿茲夫定」抗新冠藥獲批 只是默沙東、輝瑞口服藥價十分之一 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11074054-%e5%9c%8b%e7%94%a2%e3%80%8c%e9%98%bf%e8%8c%b2%e5%a4%ab%e5%ae%9a%e3%80%8d%e6%8a%97%e6%96%b0%e5%86%a0%e8%97%a5%e7%8d%b2%e6%89%b9-%e5%8f%aa%e6%98%af%e9%bb%98%e6%b2%99%e6%9d%b1%e3%80%81%e8%bc%9d%e7%91%9e)  
 - [美國新增感染162228例死亡651例 -- 大公文匯](https://www.tkww.hk/a/202207/30/AP62e4d75be4b0a4690289ac36.html)  
 - [首款國產新冠口服藥阿茲夫定片在豫投產 -- 大公文匯](https://www.tkww.hk/a/202208/02/AP62e8e5a1e4b0a469028b5711.html)  
+- [Omicron 改良版疫苗擬未完成臨床試驗 本周獲美國授權 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11239651-omicron-ba-4-ba-5%e7%96%ab%e8%8b%97%e6%93%ac%e6%9c%aa%e5%ae%8c%e6%88%90%e8%87%a8%e7%89%80%e8%a9%a6%e9%a9%97-%e5%8d%b3%e6%96%bc%e6%9c%ac%e5%91%a8%e7%8d%b2%e7%be%8e%e5%9c%8b%e6%8e%88%e6%ac%8a)  
+- [深圳新增9例阳性病例，首次发现BF.15变异株 -- 观察者网](https://www.guancha.cn/politics/2022_08_29_655708.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
