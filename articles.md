@@ -113,6 +113,7 @@
 - [【上集】學識「重新思考」隨時救你一命？Lorey大力推介最喜歡作者之一的著作，喚醒每一個人內心的「科學家」角色！- #86 好書推介 《Think Again》- Lorey讀好書​​ _20220819](https://www.youtube.com/watch?v=nbyCyq7HbKA)  
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [一位由愛國到反共的香港老憤青，給香港年輕人的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=snkLLKG2AtA)  
+- [中國地圖　一點都不能錯！新版標準地圖發布 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c973fe4b0a469029a7008.html)    
 
 ### 贩卖人口骗案
 
