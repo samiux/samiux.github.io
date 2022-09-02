@@ -19,6 +19,8 @@
 - [《个人信息保护法》强在哪？我们又该如何准备 -- Freebuf](https://www.freebuf.com/articles/neopoints/286092.html)  
 - [《物联网基础安全标准体系建设指南（2021版）》](https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202110/6615b008ceb14cb789e20ca9badab163.pdf)  
 - [中华人民共和国个人信息保护法](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)  
+- [《中华人民共和国反电信网络诈骗法（草案二次审议稿）》全文 ](https://mp.weixin.qq.com/s/NNTyzZBTINRW6zVYO_dbJw)  
+- [首部！《反电信网络诈骗法》通过，12月1日起施行 -- FreeBuf](https://www.freebuf.com/news/343637.html)  
 - [憲法傳萬家](/constitution.md)  
 - [《零容忍》](/zero_tolerance.md)  
 - [《中国的民主》白皮书 -- 中央人民政府驻香港特别行政区联络办公室](http://www.locpg.gov.cn/jsdt/2021-12/04/c_1211473574.htm)  
