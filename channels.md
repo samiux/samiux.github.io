@@ -269,6 +269,7 @@
 - [美媒揭中芯7納米晶片幕後推手梁孟松 曾任職台積電及韓國三星 -- 深喉](https://www.bastillepost.com/hongkong/article/11158048-%e7%be%8e%e5%aa%92%e6%8f%ad%e4%b8%ad%e8%8a%af7%e7%b4%8d%e7%b1%b3%e6%99%b6%e7%89%87%e5%b9%95%e5%be%8c%e6%8e%a8%e6%89%8b%e6%a2%81%e5%ad%9f%e6%9d%be-%e6%9b%be%e4%bb%bb%e8%81%b7%e5%8f%b0%e7%a9%8d%e9%9b%bb)  
 - [2022世界人工智能大会：先进制程、大算力，国产AI芯片集中亮相 -- 观察者网](https://www.guancha.cn/economy/2022_09_03_656400.shtml)  
 - [科工力量：高端GPU断供，中国顶级超算根本不怕 -- 观察者网](https://www.guancha.cn/kegongliliang/2022_09_03_656373.shtml)  
+- [嫦娥五号月壤研究取得新进展——首次发现歧化反应成因的单质金属铁 -- 观察者网](https://www.guancha.cn/politics/2022_09_03_656377.shtml)  
 
 ## Misc.
 
