@@ -34,6 +34,7 @@
 - [[正午国防军事]人民海军发布首部航母主题宣传片《深蓝！深蓝！》 -- CCTV-7国防军事频道](https://tv.cctv.com/2022/04/22/VIDE5pVotqWr5hRHeDVwkc88220422.shtml)  
 - [前所未有的震撼镜头！中国海军首部航母主题宣传片发布 片尾彩蛋透露重磅信息！20220422 -- 军迷天下](https://www.youtube.com/watch?v=54dG2yccI10)  
 - [玉渊谭天 - 用简单逻辑看复杂世界 -- 视频新闻 / 图文新闻](https://new.qq.com/omn/author/17419139)  
+- [中国军队国际形象网宣片《PLA》发布! ](https://mp.weixin.qq.com/s/GpMkKJaa0IWU4s5_OXkSxA)  
 
 ## Red Team vs Blue Team  (PLA)  
 
