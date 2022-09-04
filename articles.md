@@ -33,6 +33,7 @@
 - [防火墙的作用是什么 防火墙的优缺点分析【图文】](https://product.pconline.com.cn/itbk/software/dnyw/1707/9602746.html)    
 - [网络防火墙的作用是什么？](https://zhidao.baidu.com/question/1802931453217189467.html)    
 - [防火墙](https://baike.baidu.com/item/%E9%98%B2%E7%81%AB%E5%A2%99/52767)    
+- [筑牢全民网络安全“防火墙” -- 人民网](http://politics.people.com.cn/n1/2022/0904/c1001-32518924.html)  
 
 ### 翻墙违法了吗？
 
