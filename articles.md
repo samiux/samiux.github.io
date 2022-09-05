@@ -49,6 +49,7 @@
 - [西工大遭美国安局网络攻击：41种网络武器，服务器等分布17国 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19763640)  
 - [西北工业大学遭网络攻击调查报告发布：攻击源头系美国国家安全局 -- 观察者网](https://www.guancha.cn/politics/2022_09_05_656620_1.shtml)  
 - [證據確鑿！西北工業大學遭網絡攻擊　真兇是美國國安局 -- 點新聞](https://www.dotdotnews.com/a/202209/05/AP63156851e4b0adad9d57fcbf.html)  
+- [西北工业大学遭美国NSA网络攻击事件调查报告（之一）-- 国家计算机病毒应急处理中心](https://www.cverc.org.cn/head/zhaiyao/news20220905-NPU.htm)  
 
 ## 爱国爱党
 
