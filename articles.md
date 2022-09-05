@@ -41,6 +41,11 @@
 - [这道“墙”翻不得！切莫以身试法](https://www.nudt.edu.cn/zjkd/xysh/abc22f72761f411ea3a6066ecba45366.htm)    
 - [在家“翻墙”浏览色情网站，违法了吗？](https://www.thepaper.cn/newsDetail_forward_8738734)    
 
+### 网络攻击
+
+- [西工大遭美国安局网络攻击：41种网络武器，服务器等分布17国 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19763640)  
+- [西北工业大学遭网络攻击调查报告发布：攻击源头系美国国家安全局 -- 观察者网](https://www.guancha.cn/politics/2022_09_05_656620_1.shtml)  
+
 ## 爱国爱党
 
 - [习近平：以史为镜、以史明志，知史爱党、知史爱国](http://www.gov.cn/xinwen/2021-06/15/content_5618090.htm)    
@@ -117,7 +122,6 @@
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [一位由愛國到反共的香港老憤青，給香港年輕人的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=snkLLKG2AtA)  
 - [中國地圖　一點都不能錯！新版標準地圖發布 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c973fe4b0a469029a7008.html)    
-- [** 西工大遭美国安局网络攻击：41种网络武器，服务器等分布17国 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19763640)  
 
 ### 贩卖人口骗案
 
