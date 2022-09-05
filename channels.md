@@ -595,6 +595,7 @@
 - [深圳新增9例阳性病例，首次发现BF.15变异株 -- 观察者网](https://www.guancha.cn/politics/2022_08_29_655708.shtml)  
 - [研究：兩種新冠口服藥物均未減重症死亡風險 輝瑞減2成住院人數 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11250801-%e6%9c%ac%e5%9c%b0%e5%8f%a3%e6%9c%8d%e8%97%a5%e7%a0%94%e7%a9%b6%ef%bc%9a%e8%bc%9d%e7%91%9e%e6%b8%9b%e5%b0%912%e6%88%90%e4%bd%8f%e9%99%a2%e4%ba%ba%e6%95%b8-%e6%83%9f%e9%bb%98%e6%b2%99%e6%9d%b1%e6%9c%aa)  
 - [** mRNA疫苗再掀爭議 美研究：恐傷害人體先天免疫力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11261701)  
+- [康希诺：吸入用重组新冠疫苗作为加强针被纳入紧急使用 -- 观察者网](https://www.guancha.cn/politics/2022_09_05_656571.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
