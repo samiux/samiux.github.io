@@ -45,6 +45,7 @@
 
 - [美国网军“酸狐狸平台”的事实与逻辑 -- 环球网 ](https://opinion.huanqiu.com/article/49HwiYUPXIx)  
 - [美国利用“酸狐狸平台”进行全球网络攻击，还为中国和俄罗斯设置专门服务器 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18827820)  
+- [41种攻击武器、54个跳板机！起底美对西北工大网络攻击细节 -- 央视新闻](https://mp.weixin.qq.com/s/xRWswhNInAv7wPusKuYbbQ)  
 - [西北工業大學遭美國NSA網絡攻擊 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP63156cdce4b0a469029de9da.html)  
 - [西工大遭美国安局网络攻击：41种网络武器，服务器等分布17国 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19763640)  
 - [西北工业大学遭网络攻击调查报告发布：攻击源头系美国国家安全局 -- 观察者网](https://www.guancha.cn/politics/2022_09_05_656620_1.shtml)  
