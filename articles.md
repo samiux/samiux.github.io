@@ -158,6 +158,7 @@
 - [【交叉点评】盘点：美国历史上的6次载人登月任务，人类重返月球还要等多久？ -- 东方卫视环球交叉点
 ](https://www.youtube.com/watch?v=TCU8kcwmWtA)  
 - [瞞不住了！嫦娥5號這張高清照片打臉阿波羅！ -- 快看資訊](https://www.youtube.com/watch?v=tC_inJ_WJN4)  
+- [火箭引擎三難題威脅美新登月計劃　測試任務一波三折 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315455ce4b0a469029dcfdf.html)  
 
 ## Text  
 
