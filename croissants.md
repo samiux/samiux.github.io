@@ -274,8 +274,6 @@ Internet --- Modem (if any) --- Croissants --- Wifi Router --- Switch --- PCs
 ```
 Do not use the wifi that comes with 5G modem as the traffic flow does not protected by Croissants.
 
-The DNS entries at 5G Modem and Wifi Router should be identical; otherwise, the speed of internet browsing would be delayed a little bit.  
-
 ![alt Croissants Network Diagram](https://github.com/samiux/images/blob/master/idps/croissants.png "Croissants Network Diagram")
 
 #### When will the rules are updated?
