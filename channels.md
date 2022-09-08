@@ -597,6 +597,7 @@
 - [** mRNA疫苗再掀爭議 美研究：恐傷害人體先天免疫力 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11261701)  
 - [康希诺：吸入用重组新冠疫苗作为加强针被纳入紧急使用 -- 观察者网](https://www.guancha.cn/politics/2022_09_05_656571.shtml)  
 - [浙江西湖大學研發新冠口服藥 獲准進入臨床試驗 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11286149-%e6%b5%99%e6%b1%9f%e8%a5%bf%e6%b9%96%e5%a4%a7%e5%ad%b8%e7%a0%94%e7%99%bc%e6%96%b0%e5%86%a0%e5%8f%a3%e6%9c%8d%e8%97%a5-%e7%8d%b2%e6%89%b9%e5%87%86%e9%80%b2%e5%85%a5%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97)  
+- [AI工具能預測冠狀病毒未來變種 -- 大公文匯](https://www.tkww.hk/a/202209/08/AP631957a1e4b0a469029f982d.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
