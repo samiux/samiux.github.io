@@ -136,6 +136,7 @@
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [一位由愛國到反共的香港老憤青，給香港年輕人的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=snkLLKG2AtA)  
 - [中國地圖　一點都不能錯！新版標準地圖發布 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c973fe4b0a469029a7008.html)    
+- [网上这些“陷阱”，千万要小心！ -- 东部战区](https://mp.weixin.qq.com/s/Yaw_PgCfUkANqnfzujc1BQ)  
 
 ### 贩卖人口骗案
 
