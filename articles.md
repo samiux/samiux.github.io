@@ -26,6 +26,7 @@
 - [《中国的民主》白皮书 -- 中央人民政府驻香港特别行政区联络办公室](http://www.locpg.gov.cn/jsdt/2021-12/04/c_1211473574.htm)  
 - [【白皮書】「一國兩制」下香港的民主發展（全文）](https://www.tkww.hk/a/202112/20/AP61bfec65e4b07ec0fc45daa1.html)  
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
+- [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
 
 ### 网络防火墙
 
