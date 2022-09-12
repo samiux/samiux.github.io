@@ -73,6 +73,10 @@
 - [爱党与爱国——读《中国共产党简史》](https://fuwu.12371.cn/2012/06/13/ARTI1339571347439679.shtml)    
 - [爱国不代表爱党？爱国要不要爱党？爱国是不是爱党？](https://zhuanlan.zhihu.com/p/385617892)    
 
+## 美国叙事手法
+
+- [美國操縱新疆敘事手法曝光 史丹福大學發表「五年來親西方秘密操縱輿論運動」報告 -- 深喉](https://www.bastillepost.com/hongkong/article/11309987-%e7%be%8e%e5%9c%8b%e6%93%8d%e7%b8%b1%e6%96%b0%e7%96%86%e6%95%98%e4%ba%8b%e6%89%8b%e6%b3%95%e6%9b%9d%e5%85%89-%e5%8f%b2%e4%b8%b9%e7%a6%8f%e5%a4%a7%e5%ad%b8%e7%99%bc%e8%a1%a8%e3%80%8c%e4%ba%94%e5%b9%b4)  
+
 ## Common Sense
 
 - [习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
