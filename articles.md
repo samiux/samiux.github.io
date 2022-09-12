@@ -56,9 +56,10 @@
 - [文匯社評 - 反對網絡霸權　維護網絡安全 -- 大公文匯](https://www.tkww.hk/a/202209/06/AP631692e5e4b0a469029e5e71.html)  
 - [（有片）外交部：美國長期無差別監聽中國手機用戶　非法竊取用戶短訊內容 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315bdcee4b0a469029e1adf.html)  
 
-### 社会工程（渗透测试）
+### 社会工程（渗透测试）- 网络安全教育
 
 - [中科大给师生们发了一封钓鱼邮件 ，结果3000多人上当了 -- 观察者](https://user.guancha.cn/main/content?id=847334)  
+- [网上这些“陷阱”，千万要小心！ -- 东部战区](https://mp.weixin.qq.com/s/Yaw_PgCfUkANqnfzujc1BQ)  
 
 ## 爱国爱党
 
@@ -136,7 +137,6 @@
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [一位由愛國到反共的香港老憤青，給香港年輕人的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=snkLLKG2AtA)  
 - [中國地圖　一點都不能錯！新版標準地圖發布 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c973fe4b0a469029a7008.html)    
-- [网上这些“陷阱”，千万要小心！ -- 东部战区](https://mp.weixin.qq.com/s/Yaw_PgCfUkANqnfzujc1BQ)  
 
 ### 贩卖人口骗案
 
