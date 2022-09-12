@@ -16,4 +16,8 @@ Samiux
 OSCE  OSCP  OSWP  
 二零二二年七月廿七日，中国香港   
 
+## 参考：
+
+- [澳門元旦起禁入口即棄塑膠餐具　業界冀留時間消化存貨 -- rthk.hk](https://news.rthk.hk/rthk/ch/component/k2/1666468-20220912.htm)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
