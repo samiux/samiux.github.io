@@ -27,6 +27,7 @@
 - [【白皮書】「一國兩制」下香港的民主發展（全文）](https://www.tkww.hk/a/202112/20/AP61bfec65e4b07ec0fc45daa1.html)  
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
 - [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
+- [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
 
 ### 网络防火墙
 
@@ -59,6 +60,8 @@
 - [外交部就美国对我高校实施网络攻击窃密提出严正交涉 -- 观察者网](https://www.guancha.cn/internation/2022_09_11_657489.shtml)  
 - [涉網絡攻擊中國高校竊密 外交部向美國提嚴正交涉 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11307905-%e7%be%8e%e5%9c%8b%e6%b6%89%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a%e4%b8%ad%e5%9c%8b%e9%ab%98%e6%a0%a1%e7%ab%8a%e5%af%86-%e5%a4%96%e4%ba%a4%e9%83%a8%e6%8f%90%e5%9a%b4%e6%ad%a3%e4%ba%a4%e6%b6%89?current_cat=6)  
 - [不止西北工业大学，美国安局很可能利用这个工具对华发动大规模网络攻击 -- 观察者网](https://www.guancha.cn/internation/2022_09_13_657645.shtml)  
+- [小心「飲茶」！ 美國安局對華網絡攻擊細節曝光 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11315705-%e5%b0%8f%e5%bf%83%e3%80%8c%e9%a3%b2%e8%8c%b6%e3%80%8d%ef%bc%81-%e7%be%8e%e5%9c%8b%e5%ae%89%e5%b1%80%e5%b0%8d%e8%8f%af%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a%e7%b4%b0%e7%af%80%e6%9b%9d%e5%85%89)  
+- [外交部：美方应立即停止恶意网络攻击并作出负责任的解释 -- 观察者](https://www.guancha.cn/internation/2022_09_13_657677.shtml)  
 - [（有片）外交部：美國長期無差別監聽中國手機用戶　非法竊取用戶短訊內容 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315bdcee4b0a469029e1adf.html)  
 
 ### 社会工程（渗透测试）- 网络安全教育
