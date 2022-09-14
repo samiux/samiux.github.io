@@ -29,6 +29,10 @@
 - [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
 - [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
 
+## 中国军工
+
+- [領先全球 中國正在研製「又能飛、又能潛水的超音速導彈」-- 止戈堂](https://www.bastillepost.com/hongkong/article/11319405-%e9%a0%98%e5%85%88%e5%85%a8%e7%90%83-%e4%b8%ad%e5%9c%8b%e6%ad%a3%e5%9c%a8%e7%a0%94%e8%a3%bd%e3%80%8c%e5%8f%88%e8%83%bd%e9%a3%9b%e3%80%81%e5%8f%88%e8%83%bd%e6%bd%9b%e6%b0%b4%e7%9a%84%e8%b6%85%e9%9f%b3)  
+- [中國焦點新聞】「又能飛、又能潛水的超音速導彈」，解放軍研發多模式反艦魚雷；告慰！「雙20同框」接志願軍烈士遺骸回國。22年9月14日](https://www.youtube.com/watch?v=34EIuYWFpC4)  
 ### 网络防火墙
 
 - [什么是防火墙？防火墙的作用？](https://zhuanlan.zhihu.com/p/400995778)    
