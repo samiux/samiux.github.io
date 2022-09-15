@@ -71,6 +71,7 @@
 - [不止西北工业大学，美国安局很可能利用这个工具对华发动大规模网络攻击 -- 观察者网](https://www.guancha.cn/internation/2022_09_13_657645.shtml)  
 - [小心「飲茶」！ 美國安局對華網絡攻擊細節曝光 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11315705-%e5%b0%8f%e5%bf%83%e3%80%8c%e9%a3%b2%e8%8c%b6%e3%80%8d%ef%bc%81-%e7%be%8e%e5%9c%8b%e5%ae%89%e5%b1%80%e5%b0%8d%e8%8f%af%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a%e7%b4%b0%e7%af%80%e6%9b%9d%e5%85%89)  
 - [外交部：美方应立即停止恶意网络攻击并作出负责任的解释 -- 观察者](https://www.guancha.cn/internation/2022_09_13_657677.shtml)  
+- [360周鸿祎讲述：如何抓住网络攻击西工大的幕后黑手？ -- 观察者网 ](https://www.guancha.cn/economy/2022_09_15_658051.shtml)  
 - [（有片）外交部：美國長期無差別監聽中國手機用戶　非法竊取用戶短訊內容 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315bdcee4b0a469029e1adf.html)  
 
 ### 社会工程（渗透测试）- 网络安全教育
