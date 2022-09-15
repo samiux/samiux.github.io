@@ -272,6 +272,7 @@
 - [嫦娥五号月壤研究取得新进展——首次发现歧化反应成因的单质金属铁 -- 观察者网](https://www.guancha.cn/politics/2022_09_03_656377.shtml)  
 - [國產仿生小口徑血管　搭橋手術「神器」-- 大公文匯](https://www.tkww.hk/a/202209/12/AP631e9372e4b0a46902a19c19.html)  
 - [突破！液氧煤油发动机重复使用技术进入实战阶段 -- 观察者网](https://www.guancha.cn/industry-science/2022_09_13_657689.shtml)  
+- [上海：14纳米芯片规模量产，90纳米光刻机等实现突破 -- 观察者网](https://www.guancha.cn/economy/2022_09_15_658050.shtml)  
 
 ## Misc.
 
