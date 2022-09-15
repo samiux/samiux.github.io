@@ -35,6 +35,7 @@
 - [【中國焦點新聞】「又能飛、又能潛水的超音速導彈」，解放軍研發多模式反艦魚雷；告慰！「雙20同框」接志願軍烈士遺骸回國。22年9月14日](https://www.youtube.com/watch?v=34EIuYWFpC4)  
 - [我国科学家首次获得纳米级光雕刻三维结构 -- 央视新闻](https://www.guancha.cn/politics/2022_09_15_657947.shtml)  
 - [中國液體火箭動力重用首試成功　該技術將邁向工程應用 -- 大公文匯](https://www.tkww.hk/a/202209/15/AP6322834ae4b0a46902a320d7.html)  
+- [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19914470)  
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 观察者网](https://www.guancha.cn/industry-science/2022_09_15_658026.shtml)  
 
 ### 网络防火墙
