@@ -604,6 +604,9 @@
 - [港大研究：兒童青少年打兩針新冠疫苗 防重症有效率逾9成 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11304855-%e6%b8%af%e5%a4%a7%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%85%92%e7%ab%a5%e9%9d%92%e5%b0%91%e5%b9%b4%e6%89%93%e5%85%a9%e9%87%9d%e5%be%a9%e5%bf%85%e6%b3%b0%e7%a7%91%e8%88%88-%e9%a0%90%e9%98%b2%e9%87%8d%e7%97%87)  
 - [率先躺平的英國不僅沒有「群體免疫」反而遭遇慘敗 -- 深喉](https://www.bastillepost.com/hongkong/article/11305904-%e7%8e%87%e5%85%88%e8%ba%ba%e5%b9%b3%e7%9a%84%e8%8b%b1%e5%9c%8b%e4%b8%8d%e5%83%85%e6%b2%92%e6%9c%89%e3%80%8c%e7%be%a4%e9%ab%94%e5%85%8d%e7%96%ab%e3%80%8d%e5%8f%8d%e8%80%8c%e9%81%ad%e9%81%87%e6%85%98)  
 - [病毒爆「最強變種」 已傳入八地 -- 大公文匯](https://www.tkww.hk/a/202209/15/AP632277cfe4b0a46902a315b8.html)  
+- [** 《刺針》：新冠或來自美實驗室生物技術 -- 大公文匯](https://www.tkww.hk/a/202209/18/AP63265a3ae4b0a46902a48cad.html)  
+- [** 《柳葉刀》曝新冠起源的這份報告，信息量很大! -- 大公文匯](https://mp.weixin.qq.com/s/ldgvq2raqK0Lgf0-qrIGCg)  
+- [** 《刺針》批華府拒配合溯源調查　新冠或來自美實驗室 -- 大公文匯](https://www.dotdotnews.com/a/202209/18/AP63265ea4e4b0adad9d5b0747.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
