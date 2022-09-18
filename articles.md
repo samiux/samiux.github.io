@@ -93,6 +93,12 @@
 - [美國操縱新疆敘事手法曝光 史丹福大學發表「五年來親西方秘密操縱輿論運動」報告 -- 深喉](https://www.bastillepost.com/hongkong/article/11309987-%e7%be%8e%e5%9c%8b%e6%93%8d%e7%b8%b1%e6%96%b0%e7%96%86%e6%95%98%e4%ba%8b%e6%89%8b%e6%b3%95%e6%9b%9d%e5%85%89-%e5%8f%b2%e4%b8%b9%e7%a6%8f%e5%a4%a7%e5%ad%b8%e7%99%bc%e8%a1%a8%e3%80%8c%e4%ba%94%e5%b9%b4)  
 - [【环球叶问】如何操纵网络舆论？美国手把手教会你！](https://www.youtube.com/watch?v=I9SbHK503KY)  
 
+## 新冠病毒 COVID-19
+
+- [《刺針》：新冠或來自美實驗室生物技術 -- 大公文匯](https://www.tkww.hk/a/202209/18/AP63265a3ae4b0a46902a48cad.html)  
+- [《柳葉刀》曝新冠起源的這份報告，信息量很大! -- 大公文匯](https://mp.weixin.qq.com/s/ldgvq2raqK0Lgf0-qrIGCg)  
+- [《刺針》批華府拒配合溯源調查　新冠或來自美實驗室 -- 大公文匯](https://www.dotdotnews.com/a/202209/18/AP63265ea4e4b0adad9d5b0747.html)  
+
 ## Common Sense
 
 - [习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
