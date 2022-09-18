@@ -28,6 +28,8 @@
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
 - [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
 - [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
+- [计算机信息网络国际联网安全保护管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2011/content_1860856.htm)  
+- [国际通信出入口局管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2003/content_62630.htm)  
 
 ## 中国军工
 
@@ -52,6 +54,8 @@
 - [这道“墙”翻不得！切莫以身试法](https://www.nudt.edu.cn/zjkd/xysh/abc22f72761f411ea3a6066ecba45366.htm)    
 - [在家“翻墙”浏览色情网站，违法了吗？](https://www.thepaper.cn/newsDetail_forward_8738734)    
 - [举报磊哥翻墙上网！？在中国翻墙会被抓吗？翻墙上网违法吗？一个视频搞懂关于翻墙上网的一切](https://www.youtube.com/watch?v=pTq5TDpQiNg)  
+- [计算机信息网络国际联网安全保护管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2011/content_1860856.htm)  
+- [国际通信出入口局管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2003/content_62630.htm)  
 
 ### 网络攻击
 
