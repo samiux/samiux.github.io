@@ -56,6 +56,7 @@
 - [举报磊哥翻墙上网！？在中国翻墙会被抓吗？翻墙上网违法吗？一个视频搞懂关于翻墙上网的一切](https://www.youtube.com/watch?v=pTq5TDpQiNg)  
 - [计算机信息网络国际联网安全保护管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2011/content_1860856.htm)  
 - [国际通信出入口局管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2003/content_62630.htm)  
+- [磊哥造谣违法翻墙不受处罚，上百案例警告磊哥，莫要以身试法！](https://www.youtube.com/watch?v=MX8Z-AV9ZGw)  
 
 ### 网络攻击
 
