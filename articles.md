@@ -51,6 +51,7 @@
 - [“翻墙”就是犯法，这些常识你必须知道](https://mil.sina.cn/2022-02-22/detail-imcwipih4789817.d.html)    
 - [这道“墙”翻不得！切莫以身试法](https://www.nudt.edu.cn/zjkd/xysh/abc22f72761f411ea3a6066ecba45366.htm)    
 - [在家“翻墙”浏览色情网站，违法了吗？](https://www.thepaper.cn/newsDetail_forward_8738734)    
+- [举报磊哥翻墙上网！？在中国翻墙会被抓吗？翻墙上网违法吗？一个视频搞懂关于翻墙上网的一切](https://www.youtube.com/watch?v=pTq5TDpQiNg)  
 
 ### 网络攻击
 
@@ -87,11 +88,13 @@
 - [习近平谈爱国](http://politics.people.com.cn/n1/2018/1003/c1001-30324961.html)    
 - [爱党与爱国——读《中国共产党简史》](https://fuwu.12371.cn/2012/06/13/ARTI1339571347439679.shtml)    
 - [爱国不代表爱党？爱国要不要爱党？爱国是不是爱党？](https://zhuanlan.zhihu.com/p/385617892)    
+- [揭秘反共话术！磊哥一个视频让反贼怀疑人生！王局们无论说什么最终目的都是反共、为什么说反共就是奥特曼打怪兽成功学传销大忽悠？为什么海外反贼民主派混的不如狗？因为从根子上就错了](https://www.youtube.com/watch?v=_ylNhWrJRhA)  
 
 ## 美国叙事手法
 
 - [美國操縱新疆敘事手法曝光 史丹福大學發表「五年來親西方秘密操縱輿論運動」報告 -- 深喉](https://www.bastillepost.com/hongkong/article/11309987-%e7%be%8e%e5%9c%8b%e6%93%8d%e7%b8%b1%e6%96%b0%e7%96%86%e6%95%98%e4%ba%8b%e6%89%8b%e6%b3%95%e6%9b%9d%e5%85%89-%e5%8f%b2%e4%b8%b9%e7%a6%8f%e5%a4%a7%e5%ad%b8%e7%99%bc%e8%a1%a8%e3%80%8c%e4%ba%94%e5%b9%b4)  
 - [【环球叶问】如何操纵网络舆论？美国手把手教会你！](https://www.youtube.com/watch?v=I9SbHK503KY)  
+- [揭秘反共话术！磊哥一个视频让反贼怀疑人生！王局们无论说什么最终目的都是反共、为什么说反共就是奥特曼打怪兽成功学传销大忽悠？为什么海外反贼民主派混的不如狗？因为从根子上就错了](https://www.youtube.com/watch?v=_ylNhWrJRhA)  
 
 ## 新冠病毒 COVID-19
 
@@ -169,6 +172,7 @@
 - [解密审判录音，侵华日军100部队细菌战最新罪证公布 -- 央视新闻](https://www.guancha.cn/politics/2022_09_18_658451.shtml)  
 - [731部队老兵揭露恶魔部队滔天罪行：幼儿制成标本，不打麻药就进行活体解剖 -- 央视新闻](https://www.guancha.cn/politics/2022_09_18_658454.shtml)  
 - [侵華日軍100部隊細菌戰最新罪證，公布！-- 大公文匯](https://www.tkww.hk/a/202209/18/AP6326975fe4b0a46902a4b528.html)  
+- [美元兑人民币破7，人民币累积跌幅超8%，2022全球主要货币暴跌，日元熊冠全球，为什么美国加息周期会直接影响全球金融体系？美国如何利用加息降息周期收割全世界](https://www.youtube.com/watch?v=dhEsJt7qo8o)  
 
 ### 贩卖人口骗案
 
