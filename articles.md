@@ -166,6 +166,8 @@
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [一位由愛國到反共的香港老憤青，給香港年輕人的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=snkLLKG2AtA)  
 - [中國地圖　一點都不能錯！新版標準地圖發布 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c973fe4b0a469029a7008.html)    
+- [解密审判录音，侵华日军100部队细菌战最新罪证公布 -- 央视新闻](https://www.guancha.cn/politics/2022_09_18_658451.shtml)  
+- [731部队老兵揭露恶魔部队滔天罪行：幼儿制成标本，不打麻药就进行活体解剖 -- 央视新闻](https://www.guancha.cn/politics/2022_09_18_658454.shtml)  
 
 ### 贩卖人口骗案
 
