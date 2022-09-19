@@ -13,6 +13,9 @@
 - [憲法及《基本法》全文](/basic_law.md)  
 - [电子版香港法例](https://www.elegislation.gov.hk/)  
 - [《反外國制裁法》-- 巴士的報](https://www.bastillepost.com/hongkong/article/8604531-%e3%80%8a%e5%8f%8d%e5%a4%96%e5%9c%8b%e5%88%b6%e8%a3%81%e6%b3%95%e3%80%8b%e5%85%b116%e6%a2%9d%e6%96%87-%e7%a2%ba%e7%ab%8b%e6%8e%a1%e5%8f%96%e5%8f%8d%e5%88%b6%e8%a1%8c%e5%8b%95%e6%a9%9f%e5%88%b6)  
+- [《计算机信息网络国际联网安全保护管理办法》 -- 国务院公报](http://www.gov.cn/gongbao/content/2011/content_1860856.htm)  
+- [《中华人民共和国网络安全法》](https://www.szse.cn/lawrules/rules/law/P020180528571756980392.pdf)  
+- [深入解读《中华人民共和国网络安全法》](https://gdee.gd.gov.cn/wlaq/content/post_2717276.html)  
 - [《数据安全法》-- FreeBuf](https://www.freebuf.com/news/277111.html)  
 - [《网络产品安全漏洞管理规定》-- FreeBuf](https://www.freebuf.com/news/280579.html)  
 - [中华人民共和国个人信息保护法（全文）-- Freebuf](https://www.freebuf.com/news/285633.html)  
@@ -28,8 +31,6 @@
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
 - [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
 - [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
-- [计算机信息网络国际联网安全保护管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2011/content_1860856.htm)  
-- [国际通信出入口局管理办法 -- 国务院公报](http://www.gov.cn/gongbao/content/2003/content_62630.htm)  
 
 ## 中国军工
 
@@ -39,14 +40,6 @@
 - [中國液體火箭動力重用首試成功　該技術將邁向工程應用 -- 大公文匯](https://www.tkww.hk/a/202209/15/AP6322834ae4b0a46902a320d7.html)  
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19914470)  
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 观察者网](https://www.guancha.cn/industry-science/2022_09_15_658026.shtml)  
-
-### 网络防火墙
-
-- [什么是防火墙？防火墙的作用？](https://zhuanlan.zhihu.com/p/400995778)    
-- [防火墙的作用是什么 防火墙的优缺点分析【图文】](https://product.pconline.com.cn/itbk/software/dnyw/1707/9602746.html)    
-- [网络防火墙的作用是什么？](https://zhidao.baidu.com/question/1802931453217189467.html)    
-- [防火墙](https://baike.baidu.com/item/%E9%98%B2%E7%81%AB%E5%A2%99/52767)    
-- [筑牢全民网络安全“防火墙” -- 人民网](http://politics.people.com.cn/n1/2022/0904/c1001-32518924.html)  
 
 ### 翻墙违法了吗？
 
