@@ -43,6 +43,7 @@
 - [《国防故事》新型陆军向前进 (全六集)](/modern_pla.md)  
 - [《强军》 全第八集](/powerful_forces.md)  
 - [1小时独家呈现！直击中国军舰“下饺子”：辽宁舰 拉萨舰等大批舰艇公开最新消息 全面感受大国海军的硬核发展！ -- 军迷天下](https://www.youtube.com/watch?v=nZRkofrC1hg)  
+- [《十年一剑》](https://www.youtube.com/watch?v=A1OxakzXjXU)  
 
 ## China Police Story
 
