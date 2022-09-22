@@ -611,6 +611,7 @@
 - [** 《刺針》批華府拒配合溯源調查　新冠或來自美實驗室 -- 點新聞](https://www.dotdotnews.com/a/202209/18/AP63265ea4e4b0adad9d5b0747.html)  
 - [《柳叶刀》报告：世卫和多数国家政府应对新冠动作迟缓，数百万死亡本可避免 -- 观察者网](https://www.guancha.cn/internation/2022_09_18_658486.shtml)  
 - [美媒：長新冠是史上最大「致殘事件」 政府不作為令悲劇持續上演 -- 深喉](https://www.bastillepost.com/hongkong/article/11359355-%e7%be%8e%e5%aa%92%ef%bc%9a%e9%95%b7%e6%96%b0%e5%86%a0%e6%98%af%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7%e3%80%8c%e8%87%b4%e6%ae%98%e4%ba%8b%e4%bb%b6%e3%80%8d-%e6%94%bf%e5%ba%9c%e4%b8%8d%e4%bd%9c%e7%82%ba)  
+- [港大醫學院：雞血藤提取物具抗新冠功效 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11363682-%e6%b8%af%e5%a4%a7%e9%86%ab%e5%ad%b8%e9%99%a2%e7%a0%94%e7%a9%b6%e4%b8%ad%e8%97%a5%e9%9b%9e%e8%a1%80%e8%97%a4%e6%8f%90%e5%8f%96%e7%89%a9-%e5%85%b7%e6%8a%97%e6%96%b0%e5%86%a0%e7%97%85%e6%af%92%e5%8a%9f)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
