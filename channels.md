@@ -7,6 +7,7 @@
 - [《人民的选择》以全新视角看党史 用百年时间书写历史答卷 -- CCTV纪录](https://www.youtube.com/playlist?list=PLwXMmy5fUrVxwpfw9PktfpEtp9b4tr4yL)  
 - [【奋斗百年路】历经百年而风华正茂 饱经磨难而生生不息 -- CCTV纪录](https://www.youtube.com/playlist?list=PLwXMmy5fUrVyynxu8x7kvSz2fxethZCMT)  
 - [CCTV热播剧场](https://www.youtube.com/channel/UCK73Yh0cVnfyDf9Y63YeBPQ)  
+- [【中国通史/ChinaHistory 百集历史纪录片】中国迄今为止规模最大的一部历史专题片](https://www.youtube.com/playlist?list=PLOrf2h5ONlwUTW9etWK4b3xQiz8LdgkKS)  
 
 ## China
 
