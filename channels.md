@@ -275,6 +275,7 @@
 - [突破！液氧煤油发动机重复使用技术进入实战阶段 -- 观察者网](https://www.guancha.cn/industry-science/2022_09_13_657689.shtml)  
 - [上海：14纳米芯片规模量产，90纳米光刻机等实现突破 -- 观察者网](https://www.guancha.cn/economy/2022_09_15_658050.shtml)  
 - [地沟油“上天”，我国规模化生产生物航煤取得适航审定 -- 央视新闻](https://www.guancha.cn/industry-science/2022_09_19_658650.shtml)  
+- [台积电都快2nm了，中芯国际刚突破55nm工艺？这到底是怎么回事？](https://mp.weixin.qq.com/s/DvYTju7LWbJWxvfK3oENow)  
 
 ## Misc.
 
