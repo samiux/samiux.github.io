@@ -21,5 +21,6 @@ OSCE  OSCP  OSWP
 ## 参考连结：
 
 - [4少年盜8人信用卡資料 「鎅卡」買iPhone13轉手圖利涉款23萬元 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11371208-4%e7%94%b7%e7%ab%a5%e8%a8%ad%e5%81%87%e9%83%b5%e6%94%bf%e7%b6%b2%e7%ab%99-%e5%81%b7%e4%bf%a1%e7%94%a8%e5%8d%a1%e8%b3%87%e6%96%99%e8%b2%b7iphone%e8%a2%ab%e6%8d%95?current_cat=3)  
+- [暗網買料「𠝹卡」　4少年涉詐騙落網 -- 大公文匯](https://www.tkww.hk/a/202209/24/AP632e4880e4b0a46902a7dcc0.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
