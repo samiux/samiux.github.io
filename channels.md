@@ -45,6 +45,7 @@
 - [《强军》 全第八集](/powerful_forces.md)  
 - [1小时独家呈现！直击中国军舰“下饺子”：辽宁舰 拉萨舰等大批舰艇公开最新消息 全面感受大国海军的硬核发展！ -- 军迷天下](https://www.youtube.com/watch?v=nZRkofrC1hg)  
 - [《十年一剑》](https://www.youtube.com/watch?v=A1OxakzXjXU)  
+- [新枪列装！解放军公开特战对抗完整过程 大量新装备集中亮相 多型武器现场展示火力打击能力！「军武零距离」20220919 -- 军迷天下](https://www.youtube.com/watch?v=idlzysPHZ6E)  
 
 ## China Police Story
 
