@@ -198,6 +198,7 @@
 - [火箭引擎三難題威脅美新登月計劃　測試任務一波三折 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315455ce4b0a469029dcfdf.html)  
 - [更换部件后，美国新一代登月火箭加注测试再遭液氢泄露 -- 观察者网](https://www.guancha.cn/internation/2022_09_22_659065.shtml)  
 - [美国新一代登月火箭发射再次推迟，这次因为热带风暴 -- 观察者网](https://www.guancha.cn/internation/2022_09_25_659408.shtml)  
+- [擔憂颶風侵襲　NASA第三次推遲巨型探月火箭發射 -- 大公文匯](https://www.tkww.hk/a/202209/25/AP632fc806e4b0a46902a86aa5.html)  
 
 ## Text  
 
