@@ -88,6 +88,12 @@
 - [【环球叶问】如何操纵网络舆论？美国手把手教会你！](https://www.youtube.com/watch?v=I9SbHK503KY)  
 - [揭秘反共话术！磊哥一个视频让反贼怀疑人生！王局们无论说什么最终目的都是反共、为什么说反共就是奥特曼打怪兽成功学传销大忽悠？为什么海外反贼民主派混的不如狗？因为从根子上就错了](https://www.youtube.com/watch?v=_ylNhWrJRhA)  
 
+## 文明型国家
+
+- [第161期：听张维为谈谈西方对“文明型国家”的解读纷争！为何“文明型国家”会颠覆了西方长期坚持的“普世价值”？](https://www.youtube.com/watch?v=_nGpnk1NrkM)  
+- [第156期：“文明型国家”正在成为国际政治叙事中的某种“显学”，听张维为讲述“文明型国家”与全球政治叙事](https://www.youtube.com/watch?v=LtFGrh8vcf8)  
+- [第153期：什么是“文明型国家”？“中国独特性”和“美国例外论”的区别又在哪里？](https://www.youtube.com/watch?v=hJsl4PkCCdc)  
+
 ## 新冠病毒 COVID-19
 
 - [《刺針》：新冠或來自美實驗室生物技術 -- 大公文匯](https://www.tkww.hk/a/202209/18/AP63265a3ae4b0a46902a48cad.html)  
