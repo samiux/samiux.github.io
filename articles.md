@@ -98,6 +98,7 @@
 
 - [习近平：正确认识和把握我国发展重大理论和实践问题](https://www.guancha.cn/XiJinPing/2022_05_15_639850.shtml)  
 - [1989 年春夏之交的政治风波 - 反革命暴乱](/june4.md)  
+- [王毅在联大演讲，3分钟谈台湾问题掷地有声！美国当年搞所谓“双重代表权”提案变成废纸一张，如今任何试图阻止祖国统一大业的行经，依然将别历史车轮碾碎 --  东方卫视环球交叉点](https://www.youtube.com/watch?v=ASCYkjEhYuI)  
 - [爸媽有話兒：父母給子女的一封信 -- 沖出黎講](https://www.youtube.com/watch?v=iC4kPcN_Gfc)  
 - [《觉醒年代》- 理想飞扬的热血青年 激情燃烧的澎湃岁月【全43集】](https://www.youtube.com/playlist?list=PLa213RC5YYIwYGZg9_ffwmsQO_UiEhjxL)  
 - [党史学习教育官方网站](http://dangshi.people.com.cn/)  
@@ -166,6 +167,7 @@
 - [731部队老兵揭露恶魔部队滔天罪行：幼儿制成标本，不打麻药就进行活体解剖 -- 央视新闻](https://www.guancha.cn/politics/2022_09_18_658454.shtml)  
 - [侵華日軍100部隊細菌戰最新罪證，公布！-- 大公文匯](https://www.tkww.hk/a/202209/18/AP6326975fe4b0a46902a4b528.html)  
 - [美元兑人民币破7，人民币累积跌幅超8%，2022全球主要货币暴跌，日元熊冠全球，为什么美国加息周期会直接影响全球金融体系？美国如何利用加息降息周期收割全世界](https://www.youtube.com/watch?v=dhEsJt7qo8o)  
+- [【短片】【屈穎妍在線】EP92:這是一場間接的長期恐襲](https://www.youtube.com/watch?v=xg4VcmiTI0M)  
 
 ### 贩卖人口骗案
 
