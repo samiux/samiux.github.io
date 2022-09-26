@@ -61,5 +61,6 @@ OSCE  OSCP  OSWP
 - [32歲男涉煽惑傷法官及鼓吹疫患播毒 保釋被拒還押下月再訊 -- 巴士的報](https://www.bastillepost.com/hongkong/article/10418048-%e7%b6%ad%e4%bf%ae%e5%b7%a5%e6%b6%89%e7%85%bd%e6%83%91%e5%82%b7%e6%b3%95%e5%ae%98%e5%8f%8a%e9%bc%93%e5%90%b9%e7%a2%ba%e8%a8%ba%e8%80%85%e3%80%8c%e6%92%ad%e6%af%92%e3%80%8d-%e4%bf%9d%e9%87%8b%e8%a2%ab?current_cat=1)    
 - [國安處拘捕2名男子涉煽動作為 據悉均為公務員 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11106276-%e5%9c%8b%e5%ae%89%e8%99%95%e6%8b%982%e7%94%b7%e5%ad%90%e6%b6%89%e7%85%bd%e5%8b%95%e4%bd%9c%e7%82%ba-%e6%93%9a%e6%82%89%e5%9d%87%e7%82%ba%e5%85%ac%e5%8b%99%e5%93%a1)  
 - [53歲無業漢涉TG發布煽動意圖言論及管武 還柙9.15再訊 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11221591)    
+- [TG圖文並茂教唆殺警及自製地雷等 冷氣工程師判囚42個月 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11384812-%e4%bf%ae%e4%be%8b%e9%a2%a8%e6%b3%a2%ef%bd%9ctg%e5%9c%96%e6%96%87%e4%b8%a6%e8%8c%82%e6%95%99%e5%94%86%e8%a5%b2%e8%ad%a6%e8%a3%bd%e5%9c%b0%e9%9b%b7-%e5%86%b7%e6%b0%a3%e5%b7%a5%e7%a8%8b%e5%b8%ab-2?current_cat=1)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
