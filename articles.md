@@ -67,6 +67,7 @@
 - [360周鸿祎讲述：如何抓住网络攻击西工大的幕后黑手？ -- 观察者网 ](https://www.guancha.cn/economy/2022_09_15_658051.shtml)  
 - [美国网攻西工大背后又一细节：查询一批中国境内敏感身份人员 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_20075247)  
 - [美国网攻西工大的另一图谋曝光：查询中国境内敏感身份人员信息 -- 观察者网](https://www.guancha.cn/internation/2022_09_27_659634.shtml)  
+- [美國網攻人贓俱獲 重大圖謀曝光：查詢中國境內敏感身份人員信息並回傳 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11390974-%e7%be%8e%e5%9c%8b%e7%b6%b2%e6%94%bb%e4%ba%ba%e8%b4%93%e4%bf%b1%e7%8d%b2-%e9%87%8d%e5%a4%a7%e5%9c%96%e8%ac%80%e6%9b%9d%e5%85%89%ef%bc%9a%e6%9f%a5%e8%a9%a2%e4%b8%ad%e5%9c%8b%e5%a2%83%e5%85%a7%e6%95%8f)  
 - [（有片）外交部：美國長期無差別監聽中國手機用戶　非法竊取用戶短訊內容 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315bdcee4b0a469029e1adf.html)  
 
 ### 社会工程（渗透测试）- 网络安全教育
