@@ -68,6 +68,7 @@
 - [美国网攻西工大背后又一细节：查询一批中国境内敏感身份人员 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_20075247)  
 - [美国网攻西工大的另一图谋曝光：查询中国境内敏感身份人员信息 -- 观察者网](https://www.guancha.cn/internation/2022_09_27_659634.shtml)  
 - [美國網攻人贓俱獲 重大圖謀曝光：查詢中國境內敏感身份人員信息並回傳 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11390974-%e7%be%8e%e5%9c%8b%e7%b6%b2%e6%94%bb%e4%ba%ba%e8%b4%93%e4%bf%b1%e7%8d%b2-%e9%87%8d%e5%a4%a7%e5%9c%96%e8%ac%80%e6%9b%9d%e5%85%89%ef%bc%9a%e6%9f%a5%e8%a9%a2%e4%b8%ad%e5%9c%8b%e5%a2%83%e5%85%a7%e6%95%8f)  
+- [最新细节披露！美国安局偷刷了西工大的“脸” -- 央视军事](https://mp.weixin.qq.com/s/3IskclqsQ6Sp11rUhMD_TQ)  
 - [（有片）外交部：美國長期無差別監聽中國手機用戶　非法竊取用戶短訊內容 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315bdcee4b0a469029e1adf.html)  
 
 ### 社会工程（渗透测试）- 网络安全教育
@@ -132,6 +133,7 @@
 - [「小心，有間諜！」 從色誘、科技迷到 一隻USB 都可能令你成為外國間諜 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10525657-%e3%80%8c%e5%b0%8f%e5%bf%83%ef%bc%8c%e6%9c%89%e9%96%93%e8%ab%9c%ef%bc%81%e3%80%8d%e4%b8%80%e8%a6%ba%e5%94%94%e6%84%8f%e5%a2%ae%e9%99%b7%e9%98%b1-%e5%85%a7%e5%9c%b0%e5%ae%98%e5%aa%92%e6%8f%adusb)  
 - [國安機構公布多宗典型案例 間諜往往由簡單資料搜集做起 -- 毛拍手](https://www.bastillepost.com/hongkong/article/10529892-%e5%9c%8b%e5%ae%89%e6%a9%9f%e6%a7%8b%e5%85%ac%e5%b8%83%e5%a4%9a%e5%ae%97%e5%85%b8%e5%9e%8b%e6%a1%88%e4%be%8b-%e9%96%93%e8%ab%9c%e5%be%80%e5%be%80%e7%94%b1%e7%b0%a1%e5%96%ae%e8%b3%87%e6%96%99%e6%90%9c)  
 - [今天，一起来“抓间谍”！ -- 央视军事](https://mp.weixin.qq.com/s/QZ7qNbnFjo-izA1PbdVJ6Q)
+- [这件事，需要你！ -- 央视军事](https://mp.weixin.qq.com/s/sH4xQAJAd3NBQqq2UbNxRw)  
 - [加强港人国安教育，梁振英购买“斯诺登事件”纪录片版权送400多所中学 -- 观察者网](https://www.guancha.cn/politics/2022_04_18_635581.shtml)  
 - [04-25-2022 時事觀察 余非：偵察炒作、與反炒作以嶺藥業（連花清瘟）事件，有重要發現](https://www.youtube.com/watch?v=wmItzP4EpkM)  
 - [李家超選舉政綱：同為香港開新篇（全文） -- 大公文匯](https://www.tkww.hk/a/202204/29/AP626b753de4b0a469025d1c55.html)  
