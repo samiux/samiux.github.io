@@ -99,5 +99,9 @@
 - [俄首次指责美“直接参与”乌克兰冲突：亲自为基辅协调“海马斯”打击目标 -- 观察者网](https://www.guancha.cn/internation/2022_08_03_652132.shtml)  
 - [“大赦国际”：乌军基地设在医院学校中，危害平民生命 -- 观察者网](https://www.guancha.cn/internation/2022_08_04_652352.shtml)  
 - [09-24-2022星電視快評—余非：算一算烏克蘭政府運作的錢從何來？](https://www.youtube.com/watch?v=wA5QQh6GxjY)  
+- [北溪管道同日現三處洩漏 誰是幕後黑手？ 美媒：歐洲靠俄氣過冬的希望「化為烏有」-- 深喉](https://www.bastillepost.com/hongkong/article/11396208-%e5%8c%97%e6%ba%aa%e7%ae%a1%e9%81%93%e5%90%8c%e6%97%a5%e7%8f%be%e4%b8%89%e8%99%95%e6%b4%a9%e6%bc%8f-%e8%aa%b0%e6%98%af%e5%b9%95%e5%be%8c%e9%bb%91%e6%89%8b%ef%bc%9f-%e7%be%8e%e5%aa%92%ef%bc%9a%e6%ad%90)  
+- [谁是“北溪”管道泄露的幕后黑手？各方众说纷纭，美国回应 -- 观察者网](https://www.guancha.cn/internation/2022_09_28_659775.shtml)  
+- [前所未有！“北溪”管道发现3处“神秘泄露” -- 观察者网](https://www.guancha.cn/internation/2022_09_27_659707.shtml)  
+- [顿涅茨克等四地入俄公投结果公布 -- 观察者网](https://www.guancha.cn/internation/2022_09_28_659744.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
