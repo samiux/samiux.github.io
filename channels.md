@@ -278,6 +278,7 @@
 - [上海：14纳米芯片规模量产，90纳米光刻机等实现突破 -- 观察者网](https://www.guancha.cn/economy/2022_09_15_658050.shtml)  
 - [地沟油“上天”，我国规模化生产生物航煤取得适航审定 -- 央视新闻](https://www.guancha.cn/industry-science/2022_09_19_658650.shtml)  
 - [台积电都快2nm了，中芯国际刚突破55nm工艺？这到底是怎么回事？](https://mp.weixin.qq.com/s/DvYTju7LWbJWxvfK3oENow)  
+- [因一件事北斗二号差点夭折，他被深深刺痛 -- 央视新闻](https://www.guancha.cn/politics/2022_09_28_659757.shtml)  
 
 ## Misc.
 
