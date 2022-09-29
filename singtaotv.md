@@ -20,6 +20,8 @@
 - [05-14-2022 星電視快評—余非 ：聽一次勝利日普京講話原文，RT獨家中文字幕版本](https://www.youtube.com/watch?v=-hkox8NxwW8)  
 - [05-25-2022 時事觀察 第1節--霍詠強: 以為有網絡自由？資訊自由？想多了。](https://www.youtube.com/watch?v=_n55MhhcCzA)  
 - [6-11-2022 快評——余非—普京可以強勢領導，因為班子內包括這位女士](https://www.youtube.com/watch?v=F1zAl0DV5-4)  
+- [09-28-2022 時事觀察 第1節—霍詠強：美國如何成為歐洲掘墓人？](https://www.youtube.com/watch?v=KoTBUj5gLaM)  
+- [09-28-2022 時事觀察 第2節—霍詠強：破壞北溪管道是「反向的破釜沉舟」？](https://www.youtube.com/watch?v=pyH_8O6aMWU)  
 
 # 乌俄冲突
 
@@ -105,5 +107,7 @@
 - [顿涅茨克等四地入俄公投结果公布 -- 观察者网](https://www.guancha.cn/internation/2022_09_28_659744.shtml)  
 - [俄罗斯就“北溪”事故点名拜登，美方回应 -- 观察者网](https://www.guancha.cn/internation/2022_09_29_659939.shtml)  
 - [瑞典海岸警卫队：在“北溪”管道发现第四个泄漏点 -- 观察者网](https://www.guancha.cn/internation/2022_09_29_659963.shtml)  
+- [09-28-2022 時事觀察 第1節—霍詠強：美國如何成為歐洲掘墓人？](https://www.youtube.com/watch?v=KoTBUj5gLaM)  
+- [09-28-2022 時事觀察 第2節—霍詠強：破壞北溪管道是「反向的破釜沉舟」？](https://www.youtube.com/watch?v=pyH_8O6aMWU)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
