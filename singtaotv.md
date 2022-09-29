@@ -103,5 +103,7 @@
 - [谁是“北溪”管道泄露的幕后黑手？各方众说纷纭，美国回应 -- 观察者网](https://www.guancha.cn/internation/2022_09_28_659775.shtml)  
 - [前所未有！“北溪”管道发现3处“神秘泄露” -- 观察者网](https://www.guancha.cn/internation/2022_09_27_659707.shtml)  
 - [顿涅茨克等四地入俄公投结果公布 -- 观察者网](https://www.guancha.cn/internation/2022_09_28_659744.shtml)  
+- [俄罗斯就“北溪”事故点名拜登，美方回应 -- 观察者网](https://www.guancha.cn/internation/2022_09_29_659939.shtml)  
+- [瑞典海岸警卫队：在“北溪”管道发现第四个泄漏点 -- 观察者网](https://www.guancha.cn/internation/2022_09_29_659963.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
