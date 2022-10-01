@@ -620,6 +620,7 @@
 - [新毒株BA.4.6或掀另一波大流行？ 專家：逃逸性更強 已在歐美迅速擴散 -- 深喉](https://www.bastillepost.com/hongkong/article/11366412-%e6%96%b0%e6%af%92%e6%a0%aaba-4-6%e6%88%96%e6%8e%80%e5%8f%a6%e4%b8%80%e6%b3%a2%e5%a4%a7%e6%b5%81%e8%a1%8c%ef%bc%9f-%e5%b0%88%e5%ae%b6%ef%bc%9a%e9%80%83%e9%80%b8%e6%80%a7%e6%9b%b4%e5%bc%b7-%e5%b7%b2)  
 - [最新研究：以此推算，美国660万人因感染新冠出现脑损伤 -- 观察者网](https://www.guancha.cn/internation/2022_09_24_659366.shtml)  
 - [76%康復者患長新冠　「中西合璧」療效好 -- 大公文匯](https://www.tkww.hk/a/202209/26/AP6330e984e4b0a46902a8c69e.html)  
+- [** 我国首款mRNA新冠疫苗在印尼获准使用 -- 人民网](https://www.guancha.cn/internation/2022_09_30_660174.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
