@@ -111,5 +111,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 时间就是金钱，效率就是生命。 -- 中华人民共和国
 ```
+```
+行有不得，反求诸己 -- 孟子
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
