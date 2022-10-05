@@ -157,7 +157,7 @@ http://[monitoring_ip]:19999
 ```
 e.g. http://192.168.20.180:19999
 
-__Since netdata is now on the cloud and the performance of it is dropped a lot for some countries.  If you encounter the performance problem, you may consider to disable it.__  
+__Since netdata consumes a lot of resources, if you encounter any performance problem, you are recommended to disable it.__  
 
 ```
 sudo systemctl disable netdata
