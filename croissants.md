@@ -246,18 +246,18 @@ You can check the suricata.log at ```/var/log/suricata/suricata.log```.  Please 
 
 ### 5.0 FAQ
 
-#### What is the function of the third network interface? (Network Based)  
+#### (1) What is the function of the third network interface?   
 One is for incoming traffic (from modem or ISP) and the other is for outgoing traffic (to router or switch).  The third one is connected to the switch for management purpose.  It is also used for updating the rules and system.
 
-#### Which network interface is used for the installation? (Network Based)  
+#### (2) Which network interface is used for the installation?   
 The monitoring network interface is good for installation.  Incoming and outgoing network interfaces may cause problem during the installation.
 
-#### How to check what network interfaces are in my box? (Network Based)  
+#### (3) How to check what network interfaces are in my box?   
 ```bash
 ls /sys/class/net
 ```
 
-#### How to deploy Croissants?  
+#### (4) How to deploy Croissants?  
 The following is the recommended connection method of Croissants.  However, you can connect it behind router too.
 
 __Network Based__
@@ -276,8 +276,11 @@ Do not use the wifi that comes with 5G modem as the traffic flow does not protec
 
 ![](https://raw.githubusercontent.com/samiux/images/master/idps/croissants.png)    
 
-#### When will the rules are updated?
+#### (5) When will the rules are updated?
 Between 0200 and 0600 hours every day, Croissants will do the housekeeping and updating.  The defending work of Croissants may be interrupted during this period.  Outdated logs will be deleted at 0200 hours.  All blacklists will be updated at 0300 hours.  Croissants will be updated at 0400 hours (when necessary).  All rules will be updated at 0500 hours.  Ubuntu will be updated at 0600 hours (it will auto reboot when necessary).  
+
+#### (6) How many detecting / blocking rules in Croissants?  
+There are more than 37,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
 
 ### 6.0 To-Do-List
 
