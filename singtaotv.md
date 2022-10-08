@@ -24,6 +24,7 @@
 - [09-28-2022 時事觀察 第2節—霍詠強：破壞北溪管道是「反向的破釜沉舟」？](https://www.youtube.com/watch?v=pyH_8O6aMWU)  
 - [10-01-2022 星電視快評—余非：「北約之海」有美軍頻繁的活動紀錄；北溪管道被炸先看德國有何反應](https://www.youtube.com/watch?v=j8jOzrUq73U)  
 - [10-03-2022 時事觀察 余非：俄烏戰爭追蹤——四地公投；美國的超限戰；炸北溪管道驚醒了德國民眾？想戰爭長期化的是美國](https://www.youtube.com/watch?v=pl_dzl45kK0)  
+- [10-08-2022 星電視快評—余非：號外！北溪2號原來有B線；微觀一個歐洲家庭的省電生活](https://www.youtube.com/watch?v=4dxgaIcNvMs)  
 
 # 乌俄冲突
 
@@ -113,5 +114,6 @@
 - [09-28-2022 時事觀察 第2節—霍詠強：破壞北溪管道是「反向的破釜沉舟」？](https://www.youtube.com/watch?v=pyH_8O6aMWU)  
 - [10-01-2022 星電視快評—余非：「北約之海」有美軍頻繁的活動紀錄；北溪管道被炸先看德國有何反應](https://www.youtube.com/watch?v=j8jOzrUq73U)  
 - [10-03-2022 時事觀察 余非：俄烏戰爭追蹤——四地公投；美國的超限戰；炸北溪管道驚醒了德國民眾？想戰爭長期化的是美國](https://www.youtube.com/watch?v=pl_dzl45kK0)  
+- [10-08-2022 星電視快評—余非：號外！北溪2號原來有B線；微觀一個歐洲家庭的省電生活](https://www.youtube.com/watch?v=4dxgaIcNvMs)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
