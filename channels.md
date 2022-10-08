@@ -281,6 +281,8 @@
 - [因一件事北斗二号差点夭折，他被深深刺痛 -- 央视新闻](https://www.guancha.cn/politics/2022_09_28_659757.shtml)  
 - [中國自主研發「龍蝦眼」望遠鏡 視野範圍擴至1000個月亮 -- 科技控](https://www.bastillepost.com/hongkong/article/11402529-%e4%b8%ad%e5%9c%8b%e8%87%aa%e4%b8%bb%e7%a0%94%e7%99%bc%e3%80%8c%e9%be%8d%e8%9d%a6%e7%9c%bc%e3%80%8d%e6%9c%9b%e9%81%a0%e9%8f%a1-%e8%a6%96%e9%87%8e%e7%af%84%e5%9c%8d%e6%93%b4%e8%87%b31000%e5%80%8b)  
 - [国际首次！我国实现百公里自由空间时频传递 -- 央视新闻](https://www.guancha.cn/politics/2022_10_06_660823.shtml)  
+- [北斗精益求精　厘米級全球定位 -- 大公文匯](https://www.tkww.hk/a/202210/08/AP6340bcd0e4b0a46902aea728.html)  
+- [我陆基中段反导拦截试验画面首次披露 -- 观察者](https://www.guancha.cn/military-affairs/2022_10_08_661080.shtml)  
 
 ## Misc.
 
