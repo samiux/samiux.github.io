@@ -283,6 +283,7 @@
 - [国际首次！我国实现百公里自由空间时频传递 -- 央视新闻](https://www.guancha.cn/politics/2022_10_06_660823.shtml)  
 - [北斗精益求精　厘米級全球定位 -- 大公文匯](https://www.tkww.hk/a/202210/08/AP6340bcd0e4b0a46902aea728.html)  
 - [我陆基中段反导拦截试验画面首次披露 -- 观察者](https://www.guancha.cn/military-affairs/2022_10_08_661080.shtml)  
+- [喜迎二十大 - 聲學科技領軍　攻克智能語音芯片 -- 大公文匯](https://www.tkww.hk/a/202210/10/AP63438623e4b0a46902af951a.html)  
 
 ## Misc.
 
@@ -624,6 +625,7 @@
 - [最新研究：以此推算，美国660万人因感染新冠出现脑损伤 -- 观察者网](https://www.guancha.cn/internation/2022_09_24_659366.shtml)  
 - [76%康復者患長新冠　「中西合璧」療效好 -- 大公文匯](https://www.tkww.hk/a/202209/26/AP6330e984e4b0a46902a8c69e.html)  
 - [** 我国首款mRNA新冠疫苗在印尼获准使用 -- 人民网](https://www.guancha.cn/internation/2022_09_30_660174.shtml)  
+- [本港現首宗「XBB.1亞系」個案 50歲女子由美國返港 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11461385-%e7%96%ab%e6%83%85%ef%bd%9c%e7%be%8e%e5%9c%8b%e8%bf%94%e6%b8%af%e5%a5%b3%e5%ad%90%e5%b8%b6%e3%80%8cxbb-1%e4%ba%9e%e7%b3%bb%e3%80%8d%e6%9c%ac%e6%b8%af%e9%a6%96%e5%ae%97-%e5%82%b3%e6%9f%93%e6%80%a7)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
