@@ -39,7 +39,7 @@ His skills are :
 - Bash Script Programming
 - Python Script Programming
 - Lua Script Programming  
-- CTF - PWN (Linux)
+- CTF - PWN (Linux binary)
 
 He can be reached at :
 
