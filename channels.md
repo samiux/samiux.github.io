@@ -628,6 +628,7 @@
 - [** 我国首款mRNA新冠疫苗在印尼获准使用 -- 人民网](https://www.guancha.cn/internation/2022_09_30_660174.shtml)  
 - [本港現首宗「XBB.1亞系」個案 50歲女子由美國返港 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11461385-%e7%96%ab%e6%83%85%ef%bd%9c%e7%be%8e%e5%9c%8b%e8%bf%94%e6%b8%af%e5%a5%b3%e5%ad%90%e5%b8%b6%e3%80%8cxbb-1%e4%ba%9e%e7%b3%bb%e3%80%8d%e6%9c%ac%e6%b8%af%e9%a6%96%e5%ae%97-%e5%82%b3%e6%9f%93%e6%80%a7)  
 - [「BA.2.75.2」對阿斯利康藥有抗體藥性 醫管局：190病人已注射 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11462306-ba-2-75-2%e6%96%99%e5%b0%8d%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e6%8a%97%e9%ab%94%e8%97%a5%e6%9c%89%e6%8a%97%e8%97%a5%e6%80%a7-%e9%86%ab%e7%ae%a1%e5%b1%80%ef%bc%9a190%e7%97%85%e4%ba%ba%e5%b7%b2)  
+- [牛津鼻噴式新冠疫苗試驗失敗 -- 大公文匯](https://www.tkww.hk/a/202210/12/AP6346071ce4b0a46902b06d68.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
