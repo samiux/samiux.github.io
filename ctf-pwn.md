@@ -21,26 +21,19 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 ### Linux Binary Exploitation (Pwn) Challenges Lab
 
-PwnCTF 2022 is developed on CTFd Framework.  The challenges are mainly designed for Pwnable and Practical purpose.  Difficulty is basic to intermediate level.  No heap exploitation is involved.
+PwnCTF 22.04 is developed on CTFd Framework.  The challenges are mainly designed for Pwnable and Practical purpose.  Difficulty is basic to intermediate level.  No heap exploitation is involved.
 
-<!---
-PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is from Ubuntu 22.04 LTS while Glibc 2.31 is from Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
---->
-PwnCTF 2022 Now is based on Glibc 2.35.  There are a total of 10 challenges.
+PwnCTF 22.04 is based on Glibc 2.35 (Ubuntu22.04 LTS).  There are a total of 10 challenges.
 
 #### Usage
 
 Import the ova file into Virtualbox (or VMWare) and access the control panel at the server IP address on port 8000 with browser (e.g. http://192.168.56.50:8000).  It is well tested on Virtualbox.  Network interface is "Bridged Network" by default.  Please change the type of network interface on Virtualbox when necessary.   Please register at the control panel page for the challenges.   
 
-#### Download (NO LONGER AVAILABLE!)
-<!---
-- __sha256 : 99c024724fd8cf71da321c5461e9880969ad59a2f9c87ccaf9c95a763f85c471 -- PwnCTF 2022.ova (Glibc 2.31)__  
+#### Download 
 
-- [Download PwnCTF 2022.ova (5.9GB)](https://drive.google.com/file/d/1XgQ3PAbL4im6vJUMbfiMisXsov_gew_L/view?usp=sharing)  
---->
-- __sha256 : aa043339d91e98e16eeabd44b788526274a257eea2516ca3adb713c1b6245a5c -- PwnCTF 2022 Now.ova (Glibc 2.35)__  
+- __sha256 : 4a4ab10b1abc877ace601d7f376a726859a94f23569098df42aa50c723c342a0 -- PwnCTF 22.04.ova (Glibc 2.35)__  
 
-- [Download PwnCTF 2022 Now.ova (5.8GB)](https://drive.google.com/file/d/13qwOhI_6jV4FNnJeoAO0_K5CdZp_qp2J/view?usp=sharing)  
+- [Download PwnCTF 22.04.ova (7.61GB)](https://drive.google.com/file/d/1ISkouq3dJ75PPPn5P9n9AIJQ8aBJkeV6/view?usp=sharing)  
 
 #### Changelog
 
@@ -49,11 +42,11 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - May 21, 2022 - Version 2022.2 -- Increase 5 more challenges, a total of 10 challenges  
 - Aug 19, 2022 - Version 2022.3 -- Modify the Virtualbox settings for better implementation experience  
 - Sep 25, 2022 - Delete Glibc 2.31 version (PwnCTF 2022)
-- Oct 11, 2022 - All downloads are no longer available
+- Oct 15, 2022 - Version 22.04 -- Based on Ubuntu 22.04 LTS (GLib 2.35)  
 
 #### Demo
 
-[![](https://img.youtube.com/vi/dpziHIbRYXM/0.jpg)](https://youtu.be/dpziHIbRYXM "PwnCTF 2022 Now Demo")  
+[![](https://img.youtube.com/vi/dpziHIbRYXM/0.jpg)](https://youtu.be/dpziHIbRYXM "PwnCTF 22.04 Demo")  
 
 ## Tutorials & Writeups
 
