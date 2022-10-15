@@ -27,6 +27,7 @@
 - [10-08-2022 星電視快評—余非：號外！北溪2號原來有B線；微觀一個歐洲家庭的省電生活](https://www.youtube.com/watch?v=4dxgaIcNvMs)  
 - [10-10-2022 時事觀察 余非：俄烏之戰已進入需跟進的階段——談克里米亞大橋被恐襲；OPEC+減產於油價以外的意義](https://www.youtube.com/watch?v=C8YJc9FIUzU)  
 - [10-12-2022 時事觀察 第2節—霍詠強：為什麽「説好」中國故事這樣難？](https://www.youtube.com/watch?v=sAk1Pzah9oc)  
+- [10-15-2022 星電視快評—余非：對比660億美元援烏的道理，與普京的道理，是非對錯如何分辨？](https://www.youtube.com/watch?v=YbyUY08uSgY)  
 
 # 乌俄冲突
 
@@ -118,5 +119,6 @@
 - [10-03-2022 時事觀察 余非：俄烏戰爭追蹤——四地公投；美國的超限戰；炸北溪管道驚醒了德國民眾？想戰爭長期化的是美國](https://www.youtube.com/watch?v=pl_dzl45kK0)  
 - [10-08-2022 星電視快評—余非：號外！北溪2號原來有B線；微觀一個歐洲家庭的省電生活](https://www.youtube.com/watch?v=4dxgaIcNvMs)  
 - [10-10-2022 時事觀察 余非：俄烏之戰已進入需跟進的階段——談克里米亞大橋被恐襲；OPEC+減產於油價以外的意義](https://www.youtube.com/watch?v=C8YJc9FIUzU)  
+- [10-15-2022 星電視快評—余非：對比660億美元援烏的道理，與普京的道理，是非對錯如何分辨？](https://www.youtube.com/watch?v=YbyUY08uSgY)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
