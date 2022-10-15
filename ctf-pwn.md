@@ -23,7 +23,7 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 PwnCTF 22.04 is developed on CTFd Framework.  The challenges are mainly designed for Pwnable and Practical purpose.  Difficulty is basic to intermediate level.  No heap exploitation is involved.
 
-PwnCTF 22.04 is based on Glibc 2.35 (Ubuntu22.04 LTS).  There are a total of 10 challenges.
+PwnCTF 22.04 is based on Glibc 2.35 (Ubuntu 22.04 LTS).  There are a total of 10 challenges.
 
 #### Usage
 
