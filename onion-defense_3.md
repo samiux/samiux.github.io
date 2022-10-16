@@ -66,7 +66,7 @@
 
 ### 第四层
 
-如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 Decentraleyes。这些组件都是能够减少浏览网页时的风险。
+如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy、MalwareAI Browser Security 和 Decentraleyes。这些组件都是能够减少浏览网页时的风险。
 
 ### 第五层
 
@@ -91,6 +91,7 @@ OSCE  OSCP  OSWP
 二零二一年六月廿六日，中国香港  
 更新 二零二二年二月九日，中国香港  
 更新 二零二二年三月十二日，中国香港  
+更新 二零二二年十月十七日，中国香港  
 
 #### 参考连结：
 - [美國上半年受惡毒軟件襲擊贖金達5.9億 勢超越過去10年總和 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9433867-%e7%be%8e%e5%9c%8b%e4%b8%8a%e5%8d%8a%e5%b9%b4%e5%8f%97%e6%83%a1%e6%af%92%e8%bb%9f%e4%bb%b6%e8%a5%b2%e6%93%8a%e8%b4%96%e9%87%91%e9%81%945-9%e5%84%84-%e5%8b%a2%e8%b6%85%e8%b6%8a%e9%81%8e%e5%8e%bb10) 
