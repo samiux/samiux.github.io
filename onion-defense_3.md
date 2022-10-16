@@ -66,7 +66,7 @@
 
 ### 第四层
 
-如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard 和 Decentraleyes。这些组件都是能够减少浏览网页时的风险。
+如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 Decentraleyes。这些组件都是能够减少浏览网页时的风险。
 
 ### 第五层
 
