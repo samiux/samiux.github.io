@@ -80,7 +80,7 @@ Business Secure - 156.154.70.4 和 156.154.71.4
 
 ### 第四层
 
-如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 Decentraleyes。这些组件都是能够减少浏览网页时的风险。
+如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy、MalwareAI Browser Security 和 Decentraleyes。这些组件都是能够减少浏览网页时的风险。
 
 在「火狐」可以启动 DNS over HTTPS 设定。如果阁下已经在路由器设定了 neustar UltraDNS 的话是可以不必设定的，最好二选其一就比较妥当了。其设定为 CleanBrowsing 的产品，一共分为 Security、Adult 和 Family。
 
