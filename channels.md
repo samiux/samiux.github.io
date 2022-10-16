@@ -630,6 +630,7 @@
 - [「BA.2.75.2」對阿斯利康藥有抗體藥性 醫管局：190病人已注射 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11462306-ba-2-75-2%e6%96%99%e5%b0%8d%e9%98%bf%e6%96%af%e5%88%a9%e5%ba%b7%e6%8a%97%e9%ab%94%e8%97%a5%e6%9c%89%e6%8a%97%e8%97%a5%e6%80%a7-%e9%86%ab%e7%ae%a1%e5%b1%80%ef%bc%9a190%e7%97%85%e4%ba%ba%e5%b7%b2)  
 - [牛津鼻噴式新冠疫苗試驗失敗 -- 大公文匯](https://www.tkww.hk/a/202210/12/AP6346071ce4b0a46902b06d68.html)  
 - [9款國產變異株疫苗進入臨床 -- 大公文匯](https://www.tkww.hk/a/202210/14/AP63489828e4b0a46902b16754.html)  
+- [BQ.1及BQ.1.1變種快速擴散　美國面臨疫情新風險 -- 大公文匯](https://www.tkww.hk/a/202210/16/AP634b5f25e4b0a46902b26e0b.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
