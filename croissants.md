@@ -282,7 +282,7 @@ Between 0200 and 0600 hours every day, Croissants will do the housekeeping and u
 #### (6) How many detecting / blocking rules in Croissants?  
 There are more than 38,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
 
-#### (7) Do you recommend to access Croissants via internet?
+#### (7) Do you recommend to access Croissants via SSH in internet?
 For security purpose, it is not recommended to connect Croissants via SSH in internet.  However, you may connect Croissants via SSH in intranet.    
 
 ### 6.0 To-Do-List
