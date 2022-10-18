@@ -280,7 +280,7 @@ Do not use the wifi that comes with 5G modem as the traffic flow does not protec
 Between 0200 and 0600 hours every day, Croissants will do the housekeeping and updating.  The defending work of Croissants may be interrupted during this period.  Outdated logs will be deleted at 0200 hours.  All blacklists will be updated at 0300 hours.  Croissants will be updated at 0400 hours (when necessary).  All rules will be updated at 0500 hours.  Ubuntu will be updated at 0600 hours (it will auto reboot when necessary).  
 
 #### (6) How many detecting / blocking rules in Croissants?  
-There are more than 38,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
+There are more than 39,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
 
 #### (7) Do you recommend to access Croissants via SSH in internet?
 For security purpose, it is not recommended to connect Croissants via SSH in internet.  However, you may connect Croissants via SSH in intranet.    
