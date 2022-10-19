@@ -631,6 +631,7 @@
 - [牛津鼻噴式新冠疫苗試驗失敗 -- 大公文匯](https://www.tkww.hk/a/202210/12/AP6346071ce4b0a46902b06d68.html)  
 - [9款國產變異株疫苗進入臨床 -- 大公文匯](https://www.tkww.hk/a/202210/14/AP63489828e4b0a46902b16754.html)  
 - [BQ.1及BQ.1.1變種快速擴散　美國面臨疫情新風險 -- 大公文匯](https://www.tkww.hk/a/202210/16/AP634b5f25e4b0a46902b26e0b.html)  
+- [玩火！美大學合成新冠毒株　致死率80% -- 大公文匯](https://www.tkww.hk/a/202210/19/AP634f3727e4b0a46902b419bc.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
