@@ -290,7 +290,7 @@ Croissants cannot decrypt the SSL/TLS traffic well.  However, it can handle a li
 
 ### 6.0 To-Do-List
 
-Nil
+Croissants can be turned off and it is not required to operate 24/7.  The update will be carried out within an hour when the Croissants is booting up.  The Croissants may be reboot itself when necessary.  It is advised not to turn off the Croissants between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Croissants.    
 
 ### 7.0 See Also
 
