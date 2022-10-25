@@ -285,6 +285,9 @@ There are more than 39,000 rules in Croissants and they are all free of charge. 
 #### (7) Do you recommend to access Croissants via SSH in internet?
 For security purpose, it is not recommended to connect Croissants via SSH in internet.  However, you may connect Croissants via SSH in intranet.    
 
+#### (8) Can Croissants decrypt the SSL/TLS traffic?
+Croissants cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Croissants can detect and drop self signed SSL/TLS certificate traffic and etc.   
+
 ### 6.0 To-Do-List
 
 Nil
