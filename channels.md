@@ -286,6 +286,7 @@
 - [北斗精益求精　厘米級全球定位 -- 大公文匯](https://www.tkww.hk/a/202210/08/AP6340bcd0e4b0a46902aea728.html)  
 - [我陆基中段反导拦截试验画面首次披露 -- 观察者](https://www.guancha.cn/military-affairs/2022_10_08_661080.shtml)  
 - [喜迎二十大 - 聲學科技領軍　攻克智能語音芯片 -- 大公文匯](https://www.tkww.hk/a/202210/10/AP63438623e4b0a46902af951a.html)  
+- [國產手術機械人完成國內首例甲狀腺癌手術 -- 大公文匯](https://www.tkww.hk/a/202210/25/AP63577980e4b0a46902b7b5bb.html)  
 
 ## Misc.
 
