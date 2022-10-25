@@ -43,6 +43,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - Aug 19, 2022 - Version 2022.3 -- Modify the Virtualbox settings for better implementation experience  
 - Sep 25, 2022 - Delete Glibc 2.31 version (PwnCTF 2022)
 - Oct 15, 2022 - Version 22.04 -- Based on Ubuntu 22.04 LTS (GLib 2.35)  
+- Oct 25, 2022 - Version 20221025 -- Updated Ubuntu
 
 #### Demo
 
