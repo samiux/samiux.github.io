@@ -636,6 +636,7 @@
 - [玩火！美大學合成新冠毒株　致死率80% -- 大公文匯](https://www.tkww.hk/a/202210/19/AP634f3727e4b0a46902b419bc.html)  
 - [上海啟用吸入式疫苗全球首例 閉氣5秒完成像喝奶茶 -- 毛拍手](https://www.bastillepost.com/hongkong/article/11562070-%e4%b8%8a%e6%b5%b7%e5%95%9f%e7%94%a8%e5%90%b8%e5%85%a5%e5%bc%8f%e7%96%ab%e8%8b%97%e5%85%a8%e7%90%83%e9%a6%96%e4%be%8b-%e9%96%89%e6%b0%a35%e7%a7%92%e5%ae%8c%e6%88%90%e5%83%8f%e5%96%9d%e5%a5%b6%e8%8c%b6)  
 - [美專家警告今冬疫情捲土重來 多個變異毒株或「相互競爭」-- 深喉](https://www.bastillepost.com/hongkong/article/11560808-%e7%be%8e%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a%e4%bb%8a%e5%86%ac%e7%96%ab%e6%83%85%e6%8d%b2%e5%9c%9f%e9%87%8d%e4%be%86-%e5%a4%9a%e5%80%8b%e8%ae%8a%e7%95%b0%e6%af%92%e6%a0%aa%e6%88%96%e3%80%8c%e7%9b%b8)  
+- [新冠病毒對人類「從頭到腳」都有影響 -- 大公文匯](https://www.tkww.hk/a/202210/26/AP635881e0e4b0a46902b80d06.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
