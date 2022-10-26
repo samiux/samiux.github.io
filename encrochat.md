@@ -19,5 +19,7 @@ OSCE  OSCP  OSWP
 - [TG圖文並茂教唆殺警及自製地雷等 冷氣工程師判囚42個月 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11384812-%e4%bf%ae%e4%be%8b%e9%a2%a8%e6%b3%a2%ef%bd%9ctg%e5%9c%96%e6%96%87%e4%b8%a6%e8%8c%82%e6%95%99%e5%94%86%e8%a5%b2%e8%ad%a6%e8%a3%bd%e5%9c%b0%e9%9b%b7-%e5%86%b7%e6%b0%a3%e5%b7%a5%e7%a8%8b%e5%b8%ab-2?current_cat=1)  
 - [圖書管理員涉用Telegram煽惑他人刑毀　押本月26日判刑 -- 大公文匯](https://www.tkww.hk/a/202210/11/AP63453d13e4b0a46902b0386b.html)  
 - [涉TG發放襲警言論圖製武器案 警再拘2男共5人被控押11月審 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11467183-%e6%b6%89tg%e7%99%bc%e8%a5%b2%e8%ad%a6%e8%a8%80%e8%ab%96%e5%9c%96%e8%a3%bd%e6%ae%ba%e5%82%b7%e5%8a%9b%e6%ad%a6%e5%99%a8%e6%a1%88%e5%86%8d%e6%8b%982%e7%94%b7-5%e4%ba%ba%e8%a2%ab%e6%8e%a7%e4%b8%b2)  
+- [認TG煽惑他人「水攻」店鋪360 36歲圖書館助理員判囚2個月2周 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11561368-%e4%bf%ae%e4%be%8b%e9%a2%a8%e6%b3%a2%ef%bd%9c%e8%aa%8dtg%e7%85%bd%e6%83%91%e4%bb%96%e4%ba%ba%e6%b0%b4%e6%94%bb%e5%ba%97%e9%8b%aa360-%e5%ad%b8%e6%a0%a1%e5%9c%96%e6%9b%b8%e9%a4%a8%e5%8a%a9%e7%90%86?current_cat=1)  
+- [圖書館管理員「Telegram」煽惑破壞店舖　判囚2個月2周 -- 大公文匯](https://www.tkww.hk/a/202210/26/AP635900b0e4b0a46902b847a8.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
