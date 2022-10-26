@@ -185,6 +185,7 @@
 - [美元兑人民币破7，人民币累积跌幅超8%，2022全球主要货币暴跌，日元熊冠全球，为什么美国加息周期会直接影响全球金融体系？美国如何利用加息降息周期收割全世界](https://www.youtube.com/watch?v=dhEsJt7qo8o)  
 - [【短片】【屈穎妍在線】EP92:這是一場間接的長期恐襲](https://www.youtube.com/watch?v=xg4VcmiTI0M)  
 - [10-12-2022 時事觀察 第2節—霍詠強：為什麽「説好」中國故事這樣難？](https://www.youtube.com/watch?v=sAk1Pzah9oc)  
+- [How I view China after 12 years Living Here --  Trip Bitten](https://www.youtube.com/watch?v=FpkQ0_yHab4)  
 
 ### 贩卖人口骗案
 
