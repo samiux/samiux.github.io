@@ -187,6 +187,7 @@
 - [10-12-2022 時事觀察 第2節—霍詠強：為什麽「説好」中國故事這樣難？](https://www.youtube.com/watch?v=sAk1Pzah9oc)  
 - [How I view China after 12 years Living Here --  Trip Bitten](<https://www.youtube.com/watch?v=FpkQ0_yHab4>)  
 - [How I view the US after 12 years living abroad -- Trip Bitten](https://www.youtube.com/watch?v=bIwOclLlRts)  
+- [【短片】【屈穎妍在線】EP104：你的種族，我的印記](https://www.youtube.com/watch?v=8-aqBuEKMXA)  
 
 ### 贩卖人口骗案
 
