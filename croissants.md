@@ -277,7 +277,12 @@ Do not use the wifi that comes with 5G modem as the traffic flow does not protec
 <!--- ![](https://raw.githubusercontent.com/samiux/images/master/idps/croissants.png) --->    
 
 #### (5) When will the rules are updated?
+
+##### 24/7
 Between 0200 and 0600 hours every day, Croissants will do the housekeeping and updating.  The defending work of Croissants may be interrupted during this period.  Outdated logs will be deleted at 0200 hours.  All blacklists will be updated at 0300 hours.  Croissants will be updated at 0400 hours (when necessary).  All rules will be updated at 0500 hours.  Ubuntu will be updated at 0600 hours (it will auto reboot when necessary).  
+
+##### non 24/7
+Croissants can be turned off and it is not required to operate 24/7.  The update will be carried out within an hour when the Croissants is booting up.  The Croissants may be reboot itself when necessary.  It is advised not to turn off the Croissants between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Croissants.  Meanwhile, if you turn off the Croissants within one hour of the booting up, you may also break the system too.    
 
 #### (6) How many detecting / blocking rules in Croissants?  
 There are more than 39,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
@@ -290,7 +295,7 @@ Croissants cannot decrypt the SSL/TLS traffic well.  However, it can handle a li
 
 ### 6.0 To-Do-List
 
-Croissants can be turned off and it is not required to operate 24/7.  The update will be carried out within an hour when the Croissants is booting up.  The Croissants may be reboot itself when necessary.  It is advised not to turn off the Croissants between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Croissants.  Meanwhile, if you turn off the Croissants within one hour of the booting up, you may also break the system too.     
+Nil 
 
 ### 7.0 See Also
 
