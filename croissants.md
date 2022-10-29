@@ -295,7 +295,9 @@ Croissants cannot decrypt the SSL/TLS traffic well.  However, it can handle a li
 
 ### 6.0 To-Do-List
 
-Nil 
+#### 6.1 Upgrade to Ubuntu Server 24.04 LTS 
+
+N/A
 
 ### 7.0 See Also
 
