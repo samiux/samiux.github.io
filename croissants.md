@@ -299,6 +299,22 @@ Croissants cannot decrypt the SSL/TLS traffic well.  However, it can handle a li
 
 N/A
 
+#### 6.2 Better kernel for ZEN CPU
+
+If you are using AMD Ryzen series CPU, it is advised to install the following Linux kernel which is tuned for ZEN CPU.  The official site is [the better distro kernel](https://liquorix.net/).    
+
+Install
+```
+sudo add-apt-repository -y ppa:damentz/liquorix && sudo apt-get update
+sudo apt-get -y install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
+```
+
+Uninstall
+```
+sudo apt install ppa-purge
+sudo ppa-purge ppa:damentz/liquorix
+```
+
 ### 7.0 See Also
 
 [Minisforum Elitemini HM80](https://store.minisforum.com/collections/all-product/products/minisforum-hm80) is a Mini PC that ideal for home based or SOHO based Intrusion Detection and Prevention System (IDPS).  An external USB Ethernet dongle is required for the management purpose.  It comes with AMD Ryzen R7-4800U (8-core with 16 threading) CPU and the memory can be up to 64GB.
