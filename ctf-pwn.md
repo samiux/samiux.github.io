@@ -29,6 +29,8 @@ PwnCTF 22.04 is based on Glibc 2.35 (Ubuntu 22.04 LTS).  There are a total of 10
 
 Import the ova file into Virtualbox (or VMWare) and access the control panel at the server IP address on port 8000 with browser (e.g. http://192.168.56.50:8000).  It is well tested on Virtualbox.  Network interface is "Bridged Network" by default.  Please change the type of network interface on Virtualbox when necessary.   Please register at the control panel page for the challenges.   
 
+**WARNING - This lab is vulnerable and do NOT allow it to be connected to the internet.**  
+
 #### Download 
 
 - __sha256 : 35a750e1b888bd5783afee2a55b867a10dca8d37755f77e0cc4520099807620f -- PwnCTF 22.04_v20221025.ova (Glibc 2.35)__  
