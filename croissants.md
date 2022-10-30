@@ -307,6 +307,7 @@ Install
 ```
 sudo add-apt-repository -y ppa:damentz/liquorix && sudo apt-get update
 sudo apt-get -y install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
+sudo reboot
 ```
 
 Uninstall
