@@ -33,9 +33,9 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 
 #### Download 
 
-- __sha256 : 35a750e1b888bd5783afee2a55b867a10dca8d37755f77e0cc4520099807620f -- PwnCTF 22.04_v20221025.ova (Glibc 2.35)__  
+- __sha256 : 7b33aa5da18d31532b0e8f0335d19c733d0674eb106ec8e45b60a33ba9bdd006 -- PwnCTF 22.04_v20221104.ova (Glibc 2.35)__  
 
-- [Download PwnCTF 22.04 v20221025.ova (8.85GB)](<https://drive.google.com/file/d/1M6B7sEr55Ks_-vnF5R7xYGKwUcEnRc5M/view?usp=sharing>)  
+- [Download PwnCTF 22.04 v20221104.ova (8.88GB)](<https://drive.google.com/file/d/10VtBo2v0MtF8AwXAWM_JtfXKESIPksPn/view?usp=sharing>)  
 
 #### Changelog
 
@@ -46,6 +46,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - Sep 25, 2022 - Delete Glibc 2.31 version (PwnCTF 2022)
 - Oct 15, 2022 - Version 22.04 -- Based on Ubuntu 22.04 LTS (GLib 2.35)  
 - Oct 25, 2022 - Version 20221025 -- Updated Ubuntu
+- Nov 04, 2022 - Version 20221104 -- Updated Ubuntu (Fixed OpenSSL vulnerability)  
 
 #### Demo
 
