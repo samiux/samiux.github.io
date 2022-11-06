@@ -47,7 +47,8 @@ media.ffvpx.enabled ---> false
 media.rdd-vpx.enabled ---> false
 media.navigator.mediadatadecoder_vpx_enabled ---> true
 ```
---->
+---!>
+
 For better performance, you can toggle the following settings :
 
 ```
