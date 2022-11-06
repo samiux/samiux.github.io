@@ -388,7 +388,7 @@
 
 ### AMD Ryzen & Ubuntu
 
-- [AMD Ryzen CPU Performance Scaling Driver (amd-pstate) in Ubuntu 22.04.1 LTS](/amd-pstate)  
+- [AMD Ryzen CPU Performance Scaling Driver (amd-pstate) in Ubuntu 22.04.1 LTS](/amd-pstate.md)  
 
 ### Pentesting
 
