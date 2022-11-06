@@ -386,6 +386,10 @@
 
 ## Tutorials
 
+### AMD Ryzen & Ubuntu
+
+- [AMD Ryzen CPU Performance Scaling Driver (amd-pstate) in Ubuntu 22.04.1 LTS](/amd-pstate)  
+
 ### Pentesting
 
 - [Basic Buffer Overflow Exploit Made Easy](/bof_make_easy.md)
