@@ -389,6 +389,7 @@
 ### AMD Ryzen & Ubuntu
 
 - [AMD Ryzen CPU Performance Scaling Driver (amd-pstate) in Ubuntu 22.04.1 LTS](/amd-pstate.md)  
+- [AMD Ryzen 4000 series CPU OpenGL in Firefox 106.0.5 and Ubuntu 22.04.1 LTS](/amd-opengl-firefox.md)  
 
 ### Pentesting
 
