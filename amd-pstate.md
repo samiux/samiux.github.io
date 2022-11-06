@@ -85,6 +85,17 @@ analyzing CPU 0:
 
 After some experiments with this [documentation](https://www.kernel.org/doc/Documentation/cpu-freq/governors.txt), I find out that the lowest fan noise for my AMD Ryzen 7 4800U is by setting the CPU to ```conservative``` instead of ```ondemand``` or ```schedutil```.  You can set it with the following script.
 
+To check if ```conservative``` is supported in your CPU :
+
+```
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors
+```
+```
+conservative ondemand userspace powersave performance schedutil
+```
+
+The setting script ```cpufreq``` is advised to run it after each reboot :
+
 ```
 #!/bin/bash
 
