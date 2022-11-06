@@ -19,7 +19,7 @@ sudo apt install ppa-purge
 sudo ppa-purge ppa:netext/mesa-ryzen-stable
 ```
 
-Add the following to ```/etc//environment``` :
+Add the following to ```/etc//environment```, after the setting, you need to reboot your box :
 
 ```
 LIBVA_DRIVER_NAME=radeonsi
