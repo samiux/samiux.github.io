@@ -30,8 +30,7 @@ MOZ_X11_EGL=1
 MOZ_ENABLE_WAYLAND=1
 ```
 
-<!---
-At firefox, type ```about:config``` to toggle the following settings :
+<!---At firefox, type ```about:config``` to toggle the following settings :
 
 ```
 gfx.webgpu.force-enabled ---> true
@@ -46,8 +45,7 @@ media.ffmpeg.vaapi.enabled ---> true
 media.ffvpx.enabled ---> false
 media.rdd-vpx.enabled ---> false
 media.navigator.mediadatadecoder_vpx_enabled ---> true
-```
----!>
+```--->
 
 For better performance, you can toggle the following settings :
 
