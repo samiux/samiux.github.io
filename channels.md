@@ -215,6 +215,7 @@
 - [熱點追蹤 - 美國亂港的12招數　鐵證如山 -- 大公文匯](https://www.tkww.hk/a/202109/24/AP614d944ce4b0fc53535d0d27.html)  
 - [外交部一份重炮清單的含意 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9290744-%e5%a4%96%e4%ba%a4%e9%83%a8%e4%b8%80%e4%bb%bd%e9%87%8d%e7%82%ae%e6%b8%85%e5%96%ae%e7%9a%84%e5%90%ab%e6%84%8f)  
 - [（有片）驚天陰謀！美間諜潛香港　跟蹤偷拍孟晚舟 -- 大公文匯](https://www.tkww.hk/a/202211/08/AP63699448e4b0a46902be14f7.html)  
+- [（有片）孟晚舟在港被美跟蹤說明了什麼 -- 大公文匯](https://www.tkww.hk/a/202211/08/AP636a3207e4b0a46902be72cc.html)  
 
 ## Technology
 
