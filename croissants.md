@@ -285,7 +285,7 @@ Between 0200 and 0600 hours every day, Croissants will do the housekeeping and u
 Croissants can be turned off and it is not required to operate 24/7.  The update will be carried out within an hour when the Croissants is booting up.  The Croissants may be reboot itself when necessary.  It is advised not to turn off the Croissants between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Croissants.  Meanwhile, if you turn off the Croissants within one hour of the booting up, you may also break the system too.    
 
 #### (6) How many detecting / blocking rules in Croissants?  
-There are more than 39,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
+There are more than 40,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
 
 #### (7) Do you recommend to access Croissants via SSH in internet?
 For security purpose, it is not recommended to connect Croissants via SSH in internet.  However, you may connect Croissants via SSH in intranet.    
