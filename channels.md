@@ -289,6 +289,7 @@
 - [我陆基中段反导拦截试验画面首次披露 -- 观察者](https://www.guancha.cn/military-affairs/2022_10_08_661080.shtml)  
 - [喜迎二十大 - 聲學科技領軍　攻克智能語音芯片 -- 大公文匯](https://www.tkww.hk/a/202210/10/AP63438623e4b0a46902af951a.html)  
 - [國產手術機械人完成國內首例甲狀腺癌手術 -- 大公文匯](https://www.tkww.hk/a/202210/25/AP63577980e4b0a46902b7b5bb.html)  
+- [云南大学专家团队成功创制多年生稻，种植一次，可连续免耕收获3-4年 -- 观察者网](https://www.guancha.cn/industry-science/2022_11_09_665958.shtml)  
 
 ## Misc.
 
