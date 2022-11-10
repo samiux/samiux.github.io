@@ -195,7 +195,9 @@
 - [點觀香港 - 美媒曝孟晚舟事件內幕　凸顯反間諜立法重要性 -- 點新聞](https://www.dotdotnews.com/a/202211/07/AP6368e248e4b0adad9d6795f1.html)  
 - [（有片）驚天陰謀！美間諜潛香港　跟蹤偷拍孟晚舟 -- 大公文匯](https://www.tkww.hk/a/202211/08/AP63699448e4b0a46902be14f7.html)  
 - [（有片）孟晚舟在港被美跟蹤說明了什麼 -- 大公文匯](https://www.tkww.hk/a/202211/08/AP636a3207e4b0a46902be72cc.html)  
-- [短片】【屈穎妍在線】EP109:看不見的戰場](https://www.youtube.com/watch?v=FPA3gpB7XCo)  
+- [【短片】【屈穎妍在線】EP109:看不見的戰場](https://www.youtube.com/watch?v=FPA3gpB7XCo)  
+- [英國政治鬧劇只是頭盤？各國將面臨資不抵債危機？卓慧思迷你預算案如何拖垮英國經濟？ -- Lorey 快閃講](https://www.youtube.com/watch?v=COWKaVN8_V0)  
+- [盲目追求GDP導致無可挽回的經濟衰退？ -- #91 好書推介 《甜甜圈經濟學：破除成長迷思的7個經濟新思考》-- Lorey讀好書​​  20221104](https://www.youtube.com/watch?v=QyHK-RKGHzA)  
 
 ### 贩卖人口骗案
 
