@@ -46,6 +46,7 @@
 - [中國液體火箭動力重用首試成功　該技術將邁向工程應用 -- 大公文匯](https://www.tkww.hk/a/202209/15/AP6322834ae4b0a46902a320d7.html)  
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19914470)  
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 观察者网](https://www.guancha.cn/industry-science/2022_09_15_658026.shtml)  
+- [【中國焦點新聞】直面太空威脅，首次公開的國產SLC-18雷達成馬斯克星鏈殺手。烏鎮峰會吸引全球目光，中國願與世界共建網絡空間。22年11月10日](https://www.youtube.com/watch?v=hKxgkHFRsXU)  
 
 ### 翻墙违法了吗？
 
