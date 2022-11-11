@@ -641,6 +641,8 @@
 - [美專家警告今冬疫情捲土重來 多個變異毒株或「相互競爭」-- 深喉](https://www.bastillepost.com/hongkong/article/11560808-%e7%be%8e%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a%e4%bb%8a%e5%86%ac%e7%96%ab%e6%83%85%e6%8d%b2%e5%9c%9f%e9%87%8d%e4%be%86-%e5%a4%9a%e5%80%8b%e8%ae%8a%e7%95%b0%e6%af%92%e6%a0%aa%e6%88%96%e3%80%8c%e7%9b%b8)  
 - [新冠病毒對人類「從頭到腳」都有影響 -- 大公文匯](https://www.tkww.hk/a/202210/26/AP635881e0e4b0a46902b80d06.html)  
 - [解剖新冠死者驚揭：病毒直攻心臟「全身壞光光」 -- 深喉](https://www.bastillepost.com/hongkong/article/11559671-%e8%a7%a3%e5%89%96%e6%96%b0%e5%86%a0%e6%ad%bb%e8%80%85%e9%a9%9a%e6%8f%ad%ef%bc%9a%e7%97%85%e6%af%92%e7%9b%b4%e6%94%bb%e5%bf%83%e8%87%9f%e3%80%8c%e5%85%a8%e8%ba%ab%e5%a3%9e%e5%85%89%e5%85%89%e3%80%8d)  
+- [最新研究：反复感染新冠风险大，死亡风险比初次感染增加一倍多 -- 观察者网](https://www.guancha.cn/internation/2022_11_11_666234.shtml)  
+- [最新研究：反復感染新冠死亡風險翻倍 更易出現器官衰竭 -- 深喉](https://www.bastillepost.com/hongkong/article/11666472-%e6%9c%80%e6%96%b0%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%8f%8d%e5%be%a9%e6%84%9f%e6%9f%93%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e9%a2%a8%e9%9a%aa%e7%bf%bb%e5%80%8d-%e6%9b%b4%e6%98%93%e5%87%ba%e7%8f%be%e5%99%a8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
