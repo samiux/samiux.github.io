@@ -4,7 +4,7 @@
 
 ## Basic Knowledge Requirements
 
-- Linux  (Ubuntu, Parrot OS or Kali Linux is recommended)
+- Linux  (Ubuntu, Parrot Security or Kali Linux is recommended)
 - Linux security features  (RELRO, Canary, NX, PIE & etc)
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
