@@ -232,6 +232,7 @@
 - [更换部件后，美国新一代登月火箭加注测试再遭液氢泄露 -- 观察者网](https://www.guancha.cn/internation/2022_09_22_659065.shtml)  
 - [美国新一代登月火箭发射再次推迟，这次因为热带风暴 -- 观察者网](https://www.guancha.cn/internation/2022_09_25_659408.shtml)  
 - [擔憂颶風侵襲　NASA第三次推遲巨型探月火箭發射 -- 大公文匯](https://www.tkww.hk/a/202209/25/AP632fc806e4b0a46902a86aa5.html)  
+- [美國家航空航天局推遲新一代登月火箭發射計劃 -- 大公文匯](https://www.tkww.hk/a/202211/09/AP636b3592e4b0a46902becb75.html)  
 
 ## Text  
 
