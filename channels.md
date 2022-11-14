@@ -184,6 +184,7 @@
 - [《另一个香港》](https://samiux.blogspot.com/2020/05/blog-post_18.html)  
 - [《暗夜星辰》(Starry Night) -- 香港警察 Hong Kong Police](https://samiux.blogspot.com/2020/07/starry-night-hong-kong-police.html)  
 - [2021年警隊最新宣傳片《守城》• 震撼上映 -- 大公文匯](https://www.tkww.hk/a/202101/24/AP600caee1e4b07ecdffeafcfc.html)  
+- [《香港：被掩蓋的真相》Hong Kong Returns -- 大公文匯, 香港01](/hk_returns.md)  
 - [時事觀察 -- 2020-11-04 -- 霍詠強](https://samiux.blogspot.com/2020/11/2020-11-04.html)  
 - [妍之有理/本來，根本不會有跳舞群組\屈穎妍 -- 大公報](http://www.takungpao.com.hk/news/232109/2020/1202/527131.html)  
 - [12142020時事觀察 第1節 - 余非：買「敵國疫苗」？為何「無得揀」？-- 香港疫苗妙問與慎思](http://www.singtao.tv/main/newsreport/situation/12142020%e6%99%82%e4%ba%8b%e8%a7%80%e5%af%9f-%e7%ac%ac1%e7%af%80-%e4%bd%99%e9%9d%9e%ef%bc%9a%e8%b2%b7%e3%80%8c%e6%95%b5%e5%9c%8b%e7%96%ab%e8%8b%97%e3%80%8d%ef%bc%9f%e7%82%ba%e4%bd%95%e3%80%8c/)  
