@@ -199,6 +199,7 @@
 - [英國政治鬧劇只是頭盤？各國將面臨資不抵債危機？卓慧思迷你預算案如何拖垮英國經濟？ -- Lorey 快閃講](https://www.youtube.com/watch?v=COWKaVN8_V0)  
 - [盲目追求GDP導致無可挽回的經濟衰退？ -- #91 好書推介 《甜甜圈經濟學：破除成長迷思的7個經濟新思考》-- Lorey讀好書​​  20221104](https://www.youtube.com/watch?v=QyHK-RKGHzA)  
 - [** 美國功能性文盲達人口25%？ 前白宮發言人當選州長致力掃盲 -- 深喉](https://www.bastillepost.com/hongkong/article/11674135-%e7%be%8e%e5%9c%8b%e5%8a%9f%e8%83%bd%e6%80%a7%e6%96%87%e7%9b%b2%e9%81%94%e4%ba%ba%e5%8f%a325%ef%bc%9f-%e5%89%8d%e7%99%bd%e5%ae%ae%e7%99%bc%e8%a8%80%e4%ba%ba%e7%95%b6%e9%81%b8%e5%b7%9e%e9%95%b7)  
+- [【完整版】中美元首习近平和拜登首次面对面会晤，习近平开场发言完整版：找到中美关系发展正确方向，推动中美关系重回健康稳定发展轨道](https://www.youtube.com/watch?v=P2mT52NoxoY)  
 
 ### 贩卖人口骗案
 
