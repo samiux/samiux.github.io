@@ -47,6 +47,7 @@
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19914470)  
 - [亚轨道运输新技术立项，未来可一小时内到达全球各地 -- 观察者网](https://www.guancha.cn/industry-science/2022_09_15_658026.shtml)  
 - [【中國焦點新聞】直面太空威脅，首次公開的國產SLC-18雷達成馬斯克星鏈殺手。烏鎮峰會吸引全球目光，中國願與世界共建網絡空間。22年11月10日](https://www.youtube.com/watch?v=hKxgkHFRsXU)  
+- [【中國焦點新聞】導彈攻擊 太空捕捉 激光獵殺 中國反衛星戰術體系世界領先；中國出口最大直徑盾構機助力印尼高鐵建設。22年11月15日](https://www.youtube.com/watch?v=dMch6VEuKp0)  
 
 ### 翻墙违法了吗？
 
