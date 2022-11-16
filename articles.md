@@ -236,6 +236,7 @@
 - [美国新一代登月火箭发射再次推迟，这次因为热带风暴 -- 观察者网](https://www.guancha.cn/internation/2022_09_25_659408.shtml)  
 - [擔憂颶風侵襲　NASA第三次推遲巨型探月火箭發射 -- 大公文匯](https://www.tkww.hk/a/202209/25/AP632fc806e4b0a46902a86aa5.html)  
 - [美國家航空航天局推遲新一代登月火箭發射計劃 -- 大公文匯](https://www.tkww.hk/a/202211/09/AP636b3592e4b0a46902becb75.html)  
+- [美国新登月火箭发射升空，飞船将开展无人绕月测试 -- 观察者网](https://www.guancha.cn/internation/2022_11_16_667017.shtml)  
 
 ## Text  
 
