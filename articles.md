@@ -117,6 +117,7 @@
 - [《刺針》：新冠或來自美實驗室生物技術 -- 大公文匯](https://www.tkww.hk/a/202209/18/AP63265a3ae4b0a46902a48cad.html)  
 - [《柳葉刀》曝新冠起源的這份報告，信息量很大! -- 大公文匯](https://mp.weixin.qq.com/s/ldgvq2raqK0Lgf0-qrIGCg)  
 - [《刺針》批華府拒配合溯源調查　新冠或來自美實驗室 -- 點新聞](https://www.dotdotnews.com/a/202209/18/AP63265ea4e4b0adad9d5b0747.html)  
+- [《新冠肺炎疫情防控核酸检测实施办法》等4个文件印发 -- 国家卫健委网站](https://www.guancha.cn/politics/2022_11_21_667817.shtml)  
 
 ## Common Sense
 
