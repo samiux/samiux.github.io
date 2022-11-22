@@ -247,6 +247,7 @@
 - [NASA登月火箭升空　發射前數現故障 -- 大公文匯](https://www.tkww.hk/a/202211/17/AP63759711e4b0a46902c2961f.html)  
 - [日本登月探測器不見了 -- 大公文匯](https://mp.weixin.qq.com/s/ZyYvob6bcMj3r0FJ_fJVPQ)  
 - [屢戰屢敗　日本首個登月探測器「好客號」失聯 -- 大公文匯](https://www.tkww.hk/a/202211/22/AP637c0923e4b0a46902c4c5bb.html)  
+- [月球探测器“好客”失联，日本宣布放弃首次月面着陆计划 -- 观察者网](https://www.guancha.cn/internation/2022_11_22_667962.shtml)  
 
 ## Text  
 
