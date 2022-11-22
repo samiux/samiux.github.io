@@ -245,6 +245,8 @@
 - [美國家航空航天局推遲新一代登月火箭發射計劃 -- 大公文匯](https://www.tkww.hk/a/202211/09/AP636b3592e4b0a46902becb75.html)  
 - [美国新登月火箭发射升空，飞船将开展无人绕月测试 -- 观察者网](https://www.guancha.cn/internation/2022_11_16_667017.shtml)  
 - [NASA登月火箭升空　發射前數現故障 -- 大公文匯](https://www.tkww.hk/a/202211/17/AP63759711e4b0a46902c2961f.html)  
+- [日本登月探測器不見了 -- 大公文匯](https://mp.weixin.qq.com/s/ZyYvob6bcMj3r0FJ_fJVPQ)  
+- [屢戰屢敗　日本首個登月探測器「好客號」失聯 -- 大公文匯](https://www.tkww.hk/a/202211/22/AP637c0923e4b0a46902c4c5bb.html)  
 
 ## Text  
 
