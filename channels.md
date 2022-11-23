@@ -645,6 +645,7 @@
 - [最新研究：反复感染新冠风险大，死亡风险比初次感染增加一倍多 -- 观察者网](https://www.guancha.cn/internation/2022_11_11_666234.shtml)  
 - [最新研究：反復感染新冠死亡風險翻倍 更易出現器官衰竭 -- 深喉](https://www.bastillepost.com/hongkong/article/11666472-%e6%9c%80%e6%96%b0%e7%a0%94%e7%a9%b6%ef%bc%9a%e5%8f%8d%e5%be%a9%e6%84%9f%e6%9f%93%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e9%a2%a8%e9%9a%aa%e7%bf%bb%e5%80%8d-%e6%9b%b4%e6%98%93%e5%87%ba%e7%8f%be%e5%99%a8)  
 - [张伯礼谈“二十条优化”：新冠病毒变了，潜伏期短了，重症少了 -- 第一财经](https://www.guancha.cn/politics/2022_11_17_667185.shtml)  
+- [科兴：世卫将新冠疫苗克尔来福®推荐使用年龄扩展至3岁及以上 -- 观察者网](https://www.guancha.cn/politics/2022_11_23_668115.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
