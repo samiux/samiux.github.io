@@ -121,6 +121,6 @@
 - [10-10-2022 時事觀察 余非：俄烏之戰已進入需跟進的階段——談克里米亞大橋被恐襲；OPEC+減產於油價以外的意義](https://www.youtube.com/watch?v=C8YJc9FIUzU)  
 - [10-15-2022 星電視快評—余非：對比660億美元援烏的道理，與普京的道理，是非對錯如何分辨？](https://www.youtube.com/watch?v=YbyUY08uSgY)  
 - [“北溪”管道遭破坏处水下实景首次曝光 -- 观察者网](https://www.guancha.cn/internation/2022_10_18_662700.shtml)  
-- [【K2搜尋丨第二季】EP​56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
+- [【K2搜尋 - 第二季】EP​56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
