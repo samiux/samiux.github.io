@@ -122,5 +122,6 @@
 - [10-15-2022 星電視快評—余非：對比660億美元援烏的道理，與普京的道理，是非對錯如何分辨？](https://www.youtube.com/watch?v=YbyUY08uSgY)  
 - [“北溪”管道遭破坏处水下实景首次曝光 -- 观察者网](https://www.guancha.cn/internation/2022_10_18_662700.shtml)  
 - [【K2搜尋 - 第二季】EP56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
+- [俄安全局挫败一起乌方对“南溪”天然气管道的爆炸破坏企图](https://www.guancha.cn/internation/2022_11_24_668389.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
