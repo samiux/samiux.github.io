@@ -107,7 +107,7 @@
 - [美國操縱新疆敘事手法曝光 史丹福大學發表「五年來親西方秘密操縱輿論運動」報告 -- 深喉](https://www.bastillepost.com/hongkong/article/11309987-%e7%be%8e%e5%9c%8b%e6%93%8d%e7%b8%b1%e6%96%b0%e7%96%86%e6%95%98%e4%ba%8b%e6%89%8b%e6%b3%95%e6%9b%9d%e5%85%89-%e5%8f%b2%e4%b8%b9%e7%a6%8f%e5%a4%a7%e5%ad%b8%e7%99%bc%e8%a1%a8%e3%80%8c%e4%ba%94%e5%b9%b4)  
 - [【环球叶问】如何操纵网络舆论？美国手把手教会你！](https://www.youtube.com/watch?v=I9SbHK503KY)  
 - [揭秘反共话术！磊哥一个视频让反贼怀疑人生！王局们无论说什么最终目的都是反共、为什么说反共就是奥特曼打怪兽成功学传销大忽悠？为什么海外反贼民主派混的不如狗？因为从根子上就错了](https://www.youtube.com/watch?v=_ylNhWrJRhA)  
-- [【K2搜尋丨第二季】EP​56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
+- [【K2搜尋 - 第二季】EP56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
 
 ## 文明型国家
 
