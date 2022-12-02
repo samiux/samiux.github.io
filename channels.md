@@ -648,6 +648,7 @@
 - [科兴：世卫将新冠疫苗克尔来福®推荐使用年龄扩展至3岁及以上 -- 观察者网](https://www.guancha.cn/politics/2022_11_23_668115.shtml)  
 - [新冠康復者「生蛇」風險高近5倍 孔繁毅指高風險人士可接種蛇針 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11755182-%e6%96%b0%e5%86%a0%e5%ba%b7%e5%be%a9%e8%80%85%e3%80%8c%e7%94%9f%e8%9b%87%e3%80%8d%e9%a2%a8%e9%9a%aa%e9%ab%98%e8%bf%915%e5%80%8d-%e5%ad%94%e7%b9%81%e6%af%85%e6%8c%87%e5%85%8d%e7%96%ab%e5%8a%9b%e7%bc%ba)  
 - [中国生物：抗新冠单抗F61鼻用喷雾剂获批临床 -- 观察者网](https://www.guancha.cn/politics/2022_11_28_668894.shtml)  
+- [** 孫春蘭連開兩場疫情防控座談會 透露哪些重要信息？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/11808798-%e5%ad%ab%e6%98%a5%e8%98%ad%e9%80%a3%e9%96%8b%e5%85%a9%e5%a0%b4%e7%96%ab%e6%83%85%e9%98%b2%e6%8e%a7%e5%ba%a7%e8%ab%87%e6%9c%83-%e9%80%8f%e9%9c%b2%e5%93%aa%e4%ba%9b%e9%87%8d%e8%a6%81%e4%bf%a1%e6%81%af)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
