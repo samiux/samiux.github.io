@@ -650,6 +650,7 @@
 - [中国生物：抗新冠单抗F61鼻用喷雾剂获批临床 -- 观察者网](https://www.guancha.cn/politics/2022_11_28_668894.shtml)  
 - [** 孫春蘭連開兩場疫情防控座談會 透露哪些重要信息？ -- 毛拍手](https://www.bastillepost.com/hongkong/article/11808798-%e5%ad%ab%e6%98%a5%e8%98%ad%e9%80%a3%e9%96%8b%e5%85%a9%e5%a0%b4%e7%96%ab%e6%83%85%e9%98%b2%e6%8e%a7%e5%ba%a7%e8%ab%87%e6%9c%83-%e9%80%8f%e9%9c%b2%e5%93%aa%e4%ba%9b%e9%87%8d%e8%a6%81%e4%bf%a1%e6%81%af)  
 - [** 孫春蘭連續兩天召開疫情座談會　五大細節受關注 -- 大公文匯](https://www.tkww.hk/a/202212/02/AP6389796be4b0a46902ca341e.html)  
+- [** 专家解读：奥密克戎变异株毒力明显减弱 重症病例多表现为基础病加重 -- 央视新闻](https://www.guancha.cn/politics/2022_12_06_669944.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
