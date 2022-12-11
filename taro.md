@@ -102,7 +102,7 @@ __Make sure you edit ```nsm.conf``` before running ```nsm_install```__
 
 #### 1.2 ChangeLog
 
-N/A  
+[Taro ChangeLog](https://github.com/samiux/samiux.github.io/blob/master/taro_changelog.md)  
 
 ### 2.0 User Guide
 
