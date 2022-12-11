@@ -653,6 +653,8 @@
 - [** 专家解读：奥密克戎变异株毒力明显减弱 重症病例多表现为基础病加重 -- 央视新闻](https://www.guancha.cn/politics/2022_12_06_669944.shtml)  
 - [钟南山：奥密克戎感染不可怕，99%可在7-10天内完全恢复 -- 大象新闻](https://www.guancha.cn/politics/2022_12_09_670433.shtml)  
 - [感染奥密克戎变异株后会不会留下后遗症？专家解答 -- 央视新闻](https://www.guancha.cn/politics/2022_12_08_670364.shtml)  
+- [** 中医药管理局发布新冠病毒感染者居家中医药干预指引 -- 观察者网](https://www.guancha.cn/politics/2022_12_11_670807.shtml)  
+- [** 《新冠病毒感染者居家中医药干预指引》发布 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21119665)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
