@@ -216,7 +216,7 @@ N/A
 
 ### 7.0 See Also
 
-Besides, your server or desktop is required to be hardening on SSH, Web application and other applications, etc when necessary.  It is because Taro is not a silver bullet.  
+Besides, your server or desktop is required to be hardening on SSH, Web application and other applications, etc when necessary.  It is because that Taro is not a silver bullet.  
 
 ### 8.0 Bug Fixed
 
