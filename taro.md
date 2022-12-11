@@ -203,7 +203,7 @@ Between 0200 and 0600 hours every day, Taro will do the housekeeping and updatin
 Taro can be turned off and it is not required to operate 24/7.  The update will be carried out within an hour when the Taro is booting up.  The Taro may be reboot itself when necessary.  It is advised not to turn off the Taro between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Taro.  Meanwhile, if you turn off the Taro within one hour of the booting up, you may also break the system too.    
     
 #### (2) How many detecting / blocking rules in Taro?  
-There are more than 40,000 rules in Croissants and they are all free of charge.  The number of rules are increasing.    
+There are more than 40,000 rules in Taro and they are all free of charge.  The number of rules are increasing.    
 
 #### (3) Can Taro decrypt the SSL/TLS traffic?
 Taro cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Taro can detect and drop self signed SSL/TLS certificate traffic and etc.   
