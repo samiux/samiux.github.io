@@ -217,6 +217,7 @@
 - [** 美國功能性文盲達人口25%？ 前白宮發言人當選州長致力掃盲 -- 深喉](https://www.bastillepost.com/hongkong/article/11674135-%e7%be%8e%e5%9c%8b%e5%8a%9f%e8%83%bd%e6%80%a7%e6%96%87%e7%9b%b2%e9%81%94%e4%ba%ba%e5%8f%a325%ef%bc%9f-%e5%89%8d%e7%99%bd%e5%ae%ae%e7%99%bc%e8%a8%80%e4%ba%ba%e7%95%b6%e9%81%b8%e5%b7%9e%e9%95%b7)  
 - [** 【完整版】中美元首习近平和拜登首次面对面会晤，习近平开场发言完整版：找到中美关系发展正确方向，推动中美关系重回健康稳定发展轨道](https://www.youtube.com/watch?v=P2mT52NoxoY)  
 - [** 【時事評論】台媒：美國霸權的衰退和墮落。內媒：今屆 G20 主題為「共同復蘇、強勁復蘇」，各國切勿離題。22年11月14日](https://www.youtube.com/watch?v=38oxn_XErqs)  
+- [ 第168期：美国制度的困境是否会导致内战？听 #张维为 #范勇鹏 讲述美式民主的制度困境 --《#这就是中国》#ChinaNow EP168 20221128【东方卫视官方频道】 ](https://www.youtube.com/watch?v=KJh3etNIpn8)  
 
 ### 贩卖人口骗案
 
