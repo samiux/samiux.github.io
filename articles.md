@@ -62,12 +62,14 @@
 - [探秘中国航展的“无人之境”：国产先进无人机空中炫技 飞鸿-97A化身“忠诚僚机” 军用机器狗等大批无人作战装备集体出动！「兵器面面观」-- 军迷天下](https://www.youtube.com/watch?v=JBJgDxJzFKc)  
 - [我国成功完成空间燃料电池首次在轨实验 -- 央视新闻](https://www.guancha.cn/politics/2022_11_26_668617.shtml)  
 - [盧永雄「巴士的點評」中國建造最新發動機，美專家憂慮：16馬赫戰機也能造得了。 抗中牌失靈，武統似成真民進黨大敗，蔡英文挑動大陸軍演搞死自己。 22年11月27日](https://www.youtube.com/watch?v=vkmPo74N58I)  
+- [西工大仿生無人機破世界紀錄　單次充電翱翔154分鐘 -- 大公文匯](https://www.tkww.hk/a/202212/13/AP6397d5d3e4b01fafd0e6ad89.html)  
 
 ## 美国军工
 
 - [失败4次后 美军空射高超音速武器终于打完全程 -- 观察者网](https://www.guancha.cn/military-affairs/2022_12_13_671081.shtml)  
 - [美B-52轟炸機成功試射高超音速導彈 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11877151-%e8%88%87%e4%b8%ad%e4%bf%84%e8%bc%83%e5%8b%81-%e7%be%8eb-52%e8%bd%9f%e7%82%b8%e6%a9%9f%e6%88%90%e5%8a%9f%e8%a9%a6%e5%b0%84%e9%ab%98%e8%b6%85%e9%9f%b3%e9%80%9f%e5%b0%8e%e5%bd%88)  
 - [美「人造太陽」技術有突破 宣稱首度取得「能量淨增益」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11876082-%e7%be%8e%e3%80%8c%e4%ba%ba%e9%80%a0%e5%a4%aa%e9%99%bd%e3%80%8d%e6%8a%80%e8%a1%93%e7%aa%81%e7%a0%b4-%e5%ae%a3%e7%a8%b1%e9%a6%96%e5%ba%a6%e5%8f%96%e5%be%97%e8%83%bd%e9%87%8f%e6%b7%a8%e5%a2%9e-2?current_cat=6)  
+- [美研核聚變大突破　「能源聖杯」首現眉目 -- 大公文匯](https://www.tkww.hk/a/202212/13/AP6397ca62e4b01fafd0e6a492.html)  
 
 ### 翻墙违法了吗？
 
