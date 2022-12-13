@@ -655,6 +655,8 @@
 - [感染奥密克戎变异株后会不会留下后遗症？专家解答 -- 央视新闻](https://www.guancha.cn/politics/2022_12_08_670364.shtml)  
 - [** 中医药管理局发布新冠病毒感染者居家中医药干预指引 -- 观察者网](https://www.guancha.cn/politics/2022_12_11_670807.shtml)  
 - [** 《新冠病毒感染者居家中医药干预指引》发布 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21119665)  
+- [国产新冠口服药阿兹夫定即将开放线上问诊处方，售价为330元/瓶 -- 观察者网](https://www.guancha.cn/economy/2022_12_13_671146.shtml)  
+- [1药网回应卖辉瑞新冠口服药：根据联防联控规定提供新冠诊疗和用药服务 -- 界面新闻](https://www.guancha.cn/politics/2022_12_13_671168.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
