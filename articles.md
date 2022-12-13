@@ -40,6 +40,7 @@
 
 ## 中国军工
 
+- [「人造太陽」運行1056秒破紀錄 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9911388-%e3%80%8c%e4%ba%ba%e9%80%a0%e5%a4%aa%e9%99%bd%e3%80%8d%e9%81%8b%e8%a1%8c1056%e7%a7%92%e7%a0%b4%e7%b4%80%e9%8c%84-2)  
 - [領先全球 中國正在研製「又能飛、又能潛水的超音速導彈」-- 止戈堂](https://www.bastillepost.com/hongkong/article/11319405-%e9%a0%98%e5%85%88%e5%85%a8%e7%90%83-%e4%b8%ad%e5%9c%8b%e6%ad%a3%e5%9c%a8%e7%a0%94%e8%a3%bd%e3%80%8c%e5%8f%88%e8%83%bd%e9%a3%9b%e3%80%81%e5%8f%88%e8%83%bd%e6%bd%9b%e6%b0%b4%e7%9a%84%e8%b6%85%e9%9f%b3)  
 - [【中國焦點新聞】「又能飛、又能潛水的超音速導彈」，解放軍研發多模式反艦魚雷；告慰！「雙20同框」接志願軍烈士遺骸回國。22年9月14日](https://www.youtube.com/watch?v=34EIuYWFpC4)  
 - [我国科学家首次获得纳米级光雕刻三维结构 -- 央视新闻](https://www.guancha.cn/politics/2022_09_15_657947.shtml)  
@@ -65,6 +66,8 @@
 ## 美国军工
 
 - [失败4次后 美军空射高超音速武器终于打完全程 -- 观察者网](https://www.guancha.cn/military-affairs/2022_12_13_671081.shtml)  
+- [美B-52轟炸機成功試射高超音速導彈 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11877151-%e8%88%87%e4%b8%ad%e4%bf%84%e8%bc%83%e5%8b%81-%e7%be%8eb-52%e8%bd%9f%e7%82%b8%e6%a9%9f%e6%88%90%e5%8a%9f%e8%a9%a6%e5%b0%84%e9%ab%98%e8%b6%85%e9%9f%b3%e9%80%9f%e5%b0%8e%e5%bd%88)  
+- [美「人造太陽」技術有突破 宣稱首度取得「能量淨增益」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11876082-%e7%be%8e%e3%80%8c%e4%ba%ba%e9%80%a0%e5%a4%aa%e9%99%bd%e3%80%8d%e6%8a%80%e8%a1%93%e7%aa%81%e7%a0%b4-%e5%ae%a3%e7%a8%b1%e9%a6%96%e5%ba%a6%e5%8f%96%e5%be%97%e8%83%bd%e9%87%8f%e6%b7%a8%e5%a2%9e-2?current_cat=6)  
 
 ### 翻墙违法了吗？
 
