@@ -33,9 +33,9 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 
 #### Download 
 
-- __sha256 : b1b30ea8a38960c66613bfdc1cf3f69b6e579199c3f5c05b809ea305e2c1fe77 -- PwnCTF 22.04_v20221213.ova (Glibc 2.35)__  
+- __sha256 : a867805eb71d1b3f73e9791d5dfefddb84adae91d36f316c6414986664e298b1 -- PwnCTF 22.04_v20221215.ova (Glibc 2.35)__  
 
-- [Download PwnCTF 22.04 v20221104.ova (9.7GB)](<https://drive.google.com/file/d/1m1faWaQfbnFd9If9MA2V1EK40vKsciuJ/view?usp=sharing>)  
+- [Download PwnCTF 22.04_v20221215.ova (9.7GB)](<>)  
 
 #### Changelog
 
@@ -48,6 +48,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - Oct 25, 2022 - Version 20221025 -- Updated Ubuntu
 - Nov 04, 2022 - Version 20221104 -- Updated Ubuntu   
 - Dec 13, 2022 - Version 20221213 -- Updated Ubuntu  
+- Dec 15, 2022 - Version 20221215 -- Minor fixed  
 
 #### Demo
 
