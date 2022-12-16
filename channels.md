@@ -657,6 +657,7 @@
 - [** 《新冠病毒感染者居家中医药干预指引》发布 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21119665)  
 - [国产新冠口服药阿兹夫定即将开放线上问诊处方，售价为330元/瓶 -- 观察者网](https://www.guancha.cn/economy/2022_12_13_671146.shtml)  
 - [1药网回应卖辉瑞新冠口服药：根据联防联控规定提供新冠诊疗和用药服务 -- 界面新闻](https://www.guancha.cn/politics/2022_12_13_671168.shtml)  
+- [专家：新冠感染者连续三天抗原阴性，可认为不具备传染性 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21199575)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
