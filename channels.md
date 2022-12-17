@@ -659,6 +659,7 @@
 - [国产新冠口服药阿兹夫定即将开放线上问诊处方，售价为330元/瓶 -- 观察者网](https://www.guancha.cn/economy/2022_12_13_671146.shtml)  
 - [1药网回应卖辉瑞新冠口服药：根据联防联控规定提供新冠诊疗和用药服务 -- 界面新闻](https://www.guancha.cn/politics/2022_12_13_671168.shtml)  
 - [专家：新冠感染者连续三天抗原阴性，可认为不具备传染性 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21199575)  
+- [** 吳尊友預測今冬內地疫情「一峰三波」　感染率10%-30% -- 大公文匯](https://www.tkww.hk/a/202212/17/AP639d6419e4b01fafd0e8f705.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
