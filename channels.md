@@ -48,6 +48,7 @@
 - [新枪列装！解放军公开特战对抗完整过程 大量新装备集中亮相 多型武器现场展示火力打击能力！「军武零距离」20220919 -- 军迷天下](https://www.youtube.com/watch?v=idlzysPHZ6E)  
 - [《追光》](https://www.youtube.com/playlist?list=PLYG8vFcMYIaKe6TPmYDiUl5omfI0im-OE)  
 - [《军工巡礼 非凡十年》](https://www.youtube.com/playlist?list=PLYG8vFcMYIaJh2OJEDF22HNmhwCdId8vH)  
+- [辽宁号的战斗力 -- 观察者网](https://user.guancha.cn/main/content?id=892380)  
 
 ## China Police Story
 
