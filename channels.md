@@ -660,12 +660,19 @@
 - [1药网回应卖辉瑞新冠口服药：根据联防联控规定提供新冠诊疗和用药服务 -- 界面新闻](https://www.guancha.cn/politics/2022_12_13_671168.shtml)  
 - [专家：新冠感染者连续三天抗原阴性，可认为不具备传染性 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21199575)  
 - [** 吳尊友預測今冬內地疫情「一峰三波」　感染率10%-30% -- 大公文匯](https://www.tkww.hk/a/202212/17/AP639d6419e4b01fafd0e8f705.html)  
+- [苏州部分“核酸采样屋”变身“发热诊疗站”，网友：建议推广 -- 观察者网](https://www.guancha.cn/politics/2022_12_18_671813.shtml)  
+- [** 张文宏：走出疫情已成定局，今冬重点保护脆弱人群 -- 人民日报](https://www.guancha.cn/politics/2022_12_18_671805.shtml)  
+- [无症状感染者越来越少了？专家：他们是“沉默的大多数” -- 人民日报](https://www.guancha.cn/politics/2022_12_18_671806.shtml)  
+- [得了“幻阳症”？心理专家：别怕，对未知情况焦虑是正常反应 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_18_671787.shtml)  
+- [新华社四问老年人疫苗接种：必要吗？是否有效、安全、便利？ -- 新华社](https://www.thepaper.cn/newsDetail_forward_21215959)  
 
 ## 新冠过后中国经济
 
 - [中财办副主任韩文秀：明年我国经济运行有望总体回升 -- 央视新闻](https://www.guancha.cn/economy/2022_12_17_671727.shtml)  
 - [韩文秀：预计明年上半年特别是二季度社会生产生活秩序会加快恢复 -- 新华社](https://www.guancha.cn/politics/2022_12_18_671782.shtml)  
 - [疫情压制即将过去，明年下半年中国经济值得期待 -- 观察者网](https://www.guancha.cn/economy/2022_12_17_671747.shtml)  
+- [关键是提振信心”（微镜头·习近平总书记在中央经济工作会议上）-- 人民日报](http://politics.people.com.cn/n1/2022/1218/c1001-32588932.html)  
+- [关键时刻，中央开了一次很不寻常的会议 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21206933)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
