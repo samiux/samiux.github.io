@@ -665,6 +665,8 @@
 - [无症状感染者越来越少了？专家：他们是“沉默的大多数” -- 人民日报](https://www.guancha.cn/politics/2022_12_18_671806.shtml)  
 - [得了“幻阳症”？心理专家：别怕，对未知情况焦虑是正常反应 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_18_671787.shtml)  
 - [新华社四问老年人疫苗接种：必要吗？是否有效、安全、便利？ -- 新华社](https://www.thepaper.cn/newsDetail_forward_21215959)  
+- [全球近40项研究汇总，带你全面了解奥密克戎 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21215641)  
+- [新华时评：因时因势优化抗疫措施，始终掌握抗疫主动 -- 新华社](https://www.thepaper.cn/newsDetail_forward_21213000)  
 
 ## 新冠过后中国经济
 
