@@ -661,5 +661,11 @@
 - [专家：新冠感染者连续三天抗原阴性，可认为不具备传染性 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21199575)  
 - [** 吳尊友預測今冬內地疫情「一峰三波」　感染率10%-30% -- 大公文匯](https://www.tkww.hk/a/202212/17/AP639d6419e4b01fafd0e8f705.html)  
 
+## 新冠过后中国经济
+
+- [中财办副主任韩文秀：明年我国经济运行有望总体回升 -- 央视新闻](https://www.guancha.cn/economy/2022_12_17_671727.shtml)  
+- [韩文秀：预计明年上半年特别是二季度社会生产生活秩序会加快恢复 -- 新华社](https://www.guancha.cn/politics/2022_12_18_671782.shtml)  
+- [疫情压制即将过去，明年下半年中国经济值得期待 -- 观察者网](https://www.guancha.cn/economy/2022_12_17_671747.shtml)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
