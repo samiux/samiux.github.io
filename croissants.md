@@ -262,12 +262,12 @@ The following is the recommended connection method of Croissants.  However, you 
 __Network Based__
 
 ```bash
-Internet --- Modem (if any) --- Croissants --- Wifi Router --- Switch --- PCs
+Internet --- Modem (if any) --- Croissants --- Wifi AP ------- Switch --- PCs
                                     |                             |
                                     +-----------------------------+
 ```
 ```bash
-5G Modem --- Croissants --- Wifi Router --- Switch --- PCs
+5G Modem --- Croissants --- Wifi AP ------- Switch --- PCs
                  |                             |
                  +-----------------------------+
 ```
