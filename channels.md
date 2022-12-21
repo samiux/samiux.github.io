@@ -669,6 +669,7 @@
 - [新华时评：因时因势优化抗疫措施，始终掌握抗疫主动 -- 新华社](https://www.thepaper.cn/newsDetail_forward_21213000)  
 - [** 张文宏：产生传播力更强的病毒越来越困难，疫情向季节性、地方性流行过渡 -- 中国新闻网](https://www.guancha.cn/politics/2022_12_19_671900.shtml)  
 - [张文宏：奥密克戎有多种亚型毒株，第一批次疫苗难阻再次感染 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_21_672174.shtml)  
+- [美国称愿同中国分享疫苗来应对疫情，我外交部回应 -- 北京日报](https://www.guancha.cn/internation/2022_12_21_672256.shtml)  
 
 ## 新冠过后中国经济
 
