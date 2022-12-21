@@ -20,7 +20,6 @@
 - [《中华人民共和国反电信网络诈骗法（草案二次审议稿）》全文 ](https://mp.weixin.qq.com/s/NNTyzZBTINRW6zVYO_dbJw)  
 - [首部！《反电信网络诈骗法》通过，12月1日起施行 -- FreeBuf](https://www.freebuf.com/news/343637.html)  
 - [互联网信息服务深度合成管理规定](http://www.gov.cn/zhengce/zhengceku/2022-12/12/content_5731431.htm)  
-- [憲法傳萬家](/constitution.md)  
 - [《零容忍》](/zero_tolerance.md)  
 - [《中国的民主》白皮书 -- 中央人民政府驻香港特别行政区联络办公室](http://www.locpg.gov.cn/jsdt/2021-12/04/c_1211473574.htm)  
 - [【白皮書】「一國兩制」下香港的民主發展（全文）](https://www.tkww.hk/a/202112/20/AP61bfec65e4b07ec0fc45daa1.html)  
