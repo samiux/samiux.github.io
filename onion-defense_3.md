@@ -66,7 +66,9 @@
 
 ### 第四层
 
-如果是使用「火狐」(Firefox) 浏览器的话，建议安装以下组件 (Add-on)：uBlock Origin 及 Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 MalwareAI Browser Security。这些组件都是能够减少浏览网页时的风险。uBlock Origin、Ghostery 是可以阻挡已知有恶意的 JavaScript 程序和广告。Malwarebytes Browser Guard 经过适当的设定后，是可以阻挡已知有恶意的程序。Avast Online Security & Privacy 经过适当的设定后，是可以在使用搜索器 (Search Engine) 搜索时进行恶意程序扫描，有问题的连结会作出标识及提示。MalwareAI Browser Security 是可以扫描有恶意的 PDF 档案。
+如果是使用「火狐」(Firefox) 浏览器的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 MalwareAI Browser Security。这些组件都是能够减少浏览网页时的风险。
+
+uBlock Origin 及 Ghostery 是可以阻挡已知有恶意的 JavaScript 程序和广告。Malwarebytes Browser Guard 经过适当的设定后，是可以阻挡已知有恶意的程序。Avast Online Security & Privacy 经过适当的设定后，是可以在使用搜索器 (Search Engine) 搜索时进行恶意程序扫描，有问题的连结会作出标识及提示。MalwareAI Browser Security 是可以扫描有恶意的 PDF 档案。
 
 ### 第五层
 
