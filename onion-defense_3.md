@@ -10,7 +10,7 @@
 
 ### 第一层
 
-**不适用**
+避免使用非自家的虚拟私人网络 (Virtual Private Network, VPN) 进行金融活动或豋入各类账号。
 
 ### 第二层
 
@@ -51,6 +51,8 @@
 ## （二）桌面电脑篇
 
 ### 第一层
+
+避免使用非自家的虚拟私人网络 (Virtual Private Network, VPN) 进行金融活动或豋入各类账号。
 
 安装及使用「牛角包」(Croissants) 或「芋头」(Taro) 防御入侵系统 (Intrusion Detection and Prevention System)。这个系统由我独力开发，是免费提供给每一个人使用。它安装后是基本上不需要再理会或维护的设备。它是「随插即用，并且可以忘记之」的高效开源 (Open Source) 产品。
 
