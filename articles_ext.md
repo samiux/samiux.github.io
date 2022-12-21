@@ -66,6 +66,8 @@
 - [美「人造太陽」技術有突破 宣稱首度取得「能量淨增益」 -- 巴士的報](https://www.bastillepost.com/hongkong/article/11876082-%e7%be%8e%e3%80%8c%e4%ba%ba%e9%80%a0%e5%a4%aa%e9%99%bd%e3%80%8d%e6%8a%80%e8%a1%93%e7%aa%81%e7%a0%b4-%e5%ae%a3%e7%a8%b1%e9%a6%96%e5%ba%a6%e5%8f%96%e5%be%97%e8%83%bd%e9%87%8f%e6%b7%a8%e5%a2%9e-2?current_cat=6)  
 - [美研核聚變大突破　「能源聖杯」首現眉目 -- 大公文匯](https://www.tkww.hk/a/202212/13/AP6397ca62e4b01fafd0e6a492.html)  
 - [美国宣布首次实现核聚变净能量增益，距离商业化还有多远？ -- 观察者网](https://www.guancha.cn/economy/2022_12_14_671220.shtml)  
+- [美国B-2轰炸机队全部停飞 受损飞机仍滞留跑道 -- 观察者网](https://www.guancha.cn/military-affairs/2022_12_20_672083.shtml)  
+- [(附字幕) 盧永雄「巴士的點評」波音787渾身都是病，美國製造出事了。 美國跌一架機，唔見188億，B-2轟炸機全面停飛，中國轟-20快將亮相成本七分之一。 22年12月20日](https://www.youtube.com/watch?v=iV2G3fF1D9A)  
 
 ### 翻墙违法了吗？
 
