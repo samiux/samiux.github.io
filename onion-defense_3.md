@@ -14,19 +14,19 @@
 
 ### 第二层
 
-大多数的中国产的「安卓」手机或平板都预装防毒软件，当然都是只能够阻挡已知的病毒和恶意软件。
+大多数的中国产的「安卓」(Android) 手机或平板都预装防毒软件，当然都是只能够阻挡已知的病毒和恶意软件。
 
 最好就是取消「谷歌」(Google) 的广告设定了，因为它实在非常烦忧。
 
 ### 第三层
 
-「安卓」用户可以安装 Comodo Mobile Security Antivirus。其有免费的「防火墙」 (Firewall)、「安全上网」 (Safe Browsing) 和 「无綫网络安全」 (Wifi Security) 可供使用。「安全上网」能够增加在浏览网页时的安全性，而「无綫网络安全」能够在使用无綫网络时的安全性。当然又是只可以对付已知的威胁。
+「安卓」(Android) 用户可以安装 Comodo Mobile Security Antivirus。其有免费的「防火墙」 (Firewall)、「安全上网」 (Safe Browsing) 和 「无綫网络安全」 (Wifi Security) 可供使用。「安全上网」能够增加在浏览网页时的安全性，而「无綫网络安全」能够在使用无綫网络时的安全性。当然又是只可以对付已知的威胁。
 
 另一个要安装的是 Malwarebytes，它可以免费使用的恶意软件扫描器，但就需要人手每次进行扫描了。经常更新其资料库，并进行扫描整部手机或平板。但若果阁下的手机是华为品牌的话，暂时未有提供下载安装。
 
 ### 第四层
 
-如果是使用「火狐」(Firefox) 版本的话，可以安装以下组件 (Add-on)：uBlock Origin 和 Ghostery。这两个组件能够阻挡一些网页中的不受欢迎或恶意的脚本，例如  JavaScript 或广告 。
+如果是使用「火狐」(Firefox) 浏览器版本的话，可以安装以下组件 (Add-on)：uBlock Origin 和 Ghostery。这两个组件能够阻挡一些网页中的不受欢迎或恶意的脚本，例如  JavaScript 或广告 。尽量避免使用浏览器。
 
 ### 第五层
 
@@ -50,7 +50,7 @@
 
 ### 第一层
 
-安装及使用「牛角包」(Croissants) 防御入侵系统 (Intrusion Detection and Prevention System)。这个系统由我独力开发，是免费提供给每一个人使用。它安装后是基本上不需要再理会或维护的设备。它是「随插即用，并且可以忘记之」的高效开源 (Open Source) 产品。
+安装及使用「牛角包」(Croissants) 或「芋头」(Taro) 防御入侵系统 (Intrusion Detection and Prevention System)。这个系统由我独力开发，是免费提供给每一个人使用。它安装后是基本上不需要再理会或维护的设备。它是「随插即用，并且可以忘记之」的高效开源 (Open Source) 产品。
 
 它的特点是有效阻挡已知的恶意行为和有效阻挡已知的恶意软件，并且具有极低的延迟性能，可以播放 4K 多媒体和玩要求速度的网络游戏；它更会自动更新，并且兼容现有通用的所有作业系统 (Operating System)。
 
@@ -66,7 +66,7 @@
 
 ### 第四层
 
-如果是使用「火狐」的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 MalwareAI Browser Security。这些组件都是能够减少浏览网页时的风险。
+如果是使用「火狐」(Firefox) 浏览器的话，建议安装以下组件 (Add-on)：uBlock Origin 及 Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 MalwareAI Browser Security。这些组件都是能够减少浏览网页时的风险。uBlock Origin、Ghostery 是可以阻挡已知有恶意的 JavaScript 程序和广告。Malwarebytes Browser Guard 经过适当的设定后，是可以阻挡已知有恶意的程序。Avast Online Security & Privacy 经过适当的设定后，是可以在使用搜索器 (Search Engine) 搜索时进行恶意程序扫描，有问题的连结会作出标识及提示。MalwareAI Browser Security 是可以扫描有恶意的 PDF 档案。
 
 ### 第五层
 
@@ -92,6 +92,7 @@ OSCE  OSCP  OSWP
 更新 二零二二年二月九日，中国香港  
 更新 二零二二年三月十二日，中国香港  
 更新 二零二二年十月十七日，中国香港  
+更新 二零二二年十二月廿一日，中国香港  
 
 #### 参考连结：
 - [美國上半年受惡毒軟件襲擊贖金達5.9億 勢超越過去10年總和 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9433867-%e7%be%8e%e5%9c%8b%e4%b8%8a%e5%8d%8a%e5%b9%b4%e5%8f%97%e6%83%a1%e6%af%92%e8%bb%9f%e4%bb%b6%e8%a5%b2%e6%93%8a%e8%b4%96%e9%87%91%e9%81%945-9%e5%84%84-%e5%8b%a2%e8%b6%85%e8%b6%8a%e9%81%8e%e5%8e%bb10) 
