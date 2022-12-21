@@ -292,6 +292,9 @@ For security purpose, it is not recommended to connect Croissants via SSH in int
 #### (8) Can Croissants decrypt the SSL/TLS traffic?
 Croissants cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Croissants can detect and drop self signed SSL/TLS certificate traffic and etc.   
 
+#### (9) How about Croissants is turned off for a week or longer?
+It is recommended to run the install script once again to keep the Croissants up-to-date.  
+
 ### 6.0 To-Do-List
 
 #### 6.1 Upgrade to Ubuntu Server 24.04 LTS 
