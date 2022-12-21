@@ -208,6 +208,9 @@ There are more than 40,000 rules in Taro and they are all free of charge.  The n
 #### (3) Can Taro decrypt the SSL/TLS traffic?
 Taro cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Taro can detect and drop self signed SSL/TLS certificate traffic and etc.   
 
+#### (4) How about Taro is turned off for a week or longer?
+It is recommended to run the install script once again to keep the Taro up-to-date.  
+
 ### 6.0 To-Do-List
 
 #### 6.1 Upgrade to Ubuntu Server / Desktop 24.04 LTS 
