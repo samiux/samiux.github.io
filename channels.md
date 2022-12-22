@@ -670,6 +670,7 @@
 - [** 张文宏：产生传播力更强的病毒越来越困难，疫情向季节性、地方性流行过渡 -- 中国新闻网](https://www.guancha.cn/politics/2022_12_19_671900.shtml)  
 - [张文宏：奥密克戎有多种亚型毒株，第一批次疫苗难阻再次感染 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_21_672174.shtml)  
 - [美国称愿同中国分享疫苗来应对疫情，我外交部回应 -- 北京日报](https://www.guancha.cn/internation/2022_12_21_672256.shtml)  
+- [感染新冠后，身体痊愈的标准是什么？专家解读 -- 央视新闻](https://www.guancha.cn/politics/2022_12_22_672443.shtml)  
 
 ## 新冠过后中国经济
 
@@ -678,6 +679,7 @@
 - [疫情压制即将过去，明年下半年中国经济值得期待 -- 观察者网](https://www.guancha.cn/economy/2022_12_17_671747.shtml)  
 - [关键是提振信心”（微镜头·习近平总书记在中央经济工作会议上）-- 人民日报](http://politics.people.com.cn/n1/2022/1218/c1001-32588932.html)  
 - [关键时刻，中央开了一次很不寻常的会议 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21206933)  
+- [2023中国经济怎么稳怎么进？听三位经济学家深度解析 -- 观察者网](https://www.guancha.cn/politics/2022_12_22_672435.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
