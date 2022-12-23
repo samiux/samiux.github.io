@@ -671,6 +671,8 @@
 - [张文宏：奥密克戎有多种亚型毒株，第一批次疫苗难阻再次感染 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_21_672174.shtml)  
 - [美国称愿同中国分享疫苗来应对疫情，我外交部回应 -- 北京日报](https://www.guancha.cn/internation/2022_12_21_672256.shtml)  
 - [感染新冠后，身体痊愈的标准是什么？专家解读 -- 央视新闻](https://www.guancha.cn/politics/2022_12_22_672443.shtml)  
+- [新冠病毒疫苗接种量正快速攀升，连续两日超300万剂次 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_23_672513.shtml)  
+- [上海：阳性感染者同时满足这两个条件可结束居家隔离 -- 观察者网](https://www.guancha.cn/politics/2022_12_23_672592.shtml)  
 
 ## 新冠过后中国经济
 
