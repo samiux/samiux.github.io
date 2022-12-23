@@ -119,6 +119,7 @@
 - [【环球叶问】如何操纵网络舆论？美国手把手教会你！](https://www.youtube.com/watch?v=I9SbHK503KY)  
 - [揭秘反共话术！磊哥一个视频让反贼怀疑人生！王局们无论说什么最终目的都是反共、为什么说反共就是奥特曼打怪兽成功学传销大忽悠？为什么海外反贼民主派混的不如狗？因为从根子上就错了](https://www.youtube.com/watch?v=_ylNhWrJRhA)  
 - [【K2搜尋 - 第二季】EP56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
+- [持续至少5年，美军这一丑闻曝光！ -- 央视新闻](https://www.guancha.cn/internation/2022_12_23_672477.shtml)  
 
 ## 文明型国家
 
@@ -245,6 +246,7 @@
 
 - [第141期：张维为 范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？-《这就是中国》ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
 - [第142期：俄乌冲突对地缘政治将产生怎样的影响？听张维为 邱文平 从普京的演讲说开去，解析美西方肢解中国的招数 -《这就是中国》#ChinaNow EP142 20220509【东方卫视官方频道】](https://www.youtube.com/watch?v=p1dh2bXeq00)  
+- [持续至少5年，美军这一丑闻曝光！ -- 央视新闻](https://www.guancha.cn/internation/2022_12_23_672477.shtml)  
 
 ### 美国新豋月
 
