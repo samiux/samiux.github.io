@@ -58,6 +58,7 @@
 - [盧永雄「巴士的點評」中國建造最新發動機，美專家憂慮：16馬赫戰機也能造得了。 抗中牌失靈，武統似成真民進黨大敗，蔡英文挑動大陸軍演搞死自己。 22年11月27日](https://www.youtube.com/watch?v=vkmPo74N58I)  
 - [西工大仿生無人機破世界紀錄　單次充電翱翔154分鐘 -- 大公文匯](https://www.tkww.hk/a/202212/13/AP6397d5d3e4b01fafd0e6ad89.html)  
 - [【中國焦點新聞】美媒：中國東風26B威懾力大，可從4000公里外擊沉美軍航母。中國糧食產量連續8年站穩1.3萬億斤台階。22年12月25日](https://www.youtube.com/watch?v=_1ToR5T34SA)  
+- [央視首次曝光解放軍無人機航母 外媒：未來海戰扮演重要角色 -- 止戈堂](https://www.bastillepost.com/hongkong/article/11951445-%e5%a4%ae%e8%a6%96%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89%e8%a7%a3%e6%94%be%e8%bb%8d%e7%84%a1%e4%ba%ba%e6%a9%9f%e8%88%aa%e6%af%8d-%e5%a4%96%e5%aa%92%ef%bc%9a%e6%9c%aa%e4%be%86%e6%b5%b7%e6%88%b0%e6%89%ae)  
 
 ## 美国军工
 
