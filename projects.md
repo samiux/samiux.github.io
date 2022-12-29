@@ -13,6 +13,7 @@
 
 - [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)  (ACTIVE)  
 - [Taro 芋头 - Intrusion Detection and Prevention System](/taro.md)  (ACTIVE)  
+- [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  (ACTIVE)  
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 ## Capture The Flag (CTF)
