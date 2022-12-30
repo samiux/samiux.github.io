@@ -56,7 +56,7 @@ Then run the script to install ClamAV On-Access scanning.
 sudo chmod +x clamav-installer
 sudo ./clamav-installer
 ```
-
+Please allow about 1 to 2 minutes for ClamAV to load the signatures. 
 You can run this script at any time on the same Linux system box without any harm.
 
 ## Uninstall
@@ -84,6 +84,9 @@ If RPM package :
 ```
 sudo rpm -e clamav
 ```
+
+## Test file
+- [Eicar Test File](https://www.eicar.org/download-anti-malware-testfile/)  
 
 ## Known issues
 
