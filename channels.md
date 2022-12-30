@@ -677,6 +677,8 @@
 - [国家卫健委：《关于对新型冠状病毒感染实施“乙类乙管”的总体方案》解读问答 -- 观察者网](https://www.guancha.cn/politics/2022_12_26_672969.shtml)  
 - [15條！新型冠狀病毒感染「乙類乙管」個人防護指南發布 -- 大公文匯](https://www.tkww.hk/a/202212/27/AP63aa9771e4b01fafd0edd8d9.html)  
 - [科兴三针防感染率仅有8%？我们发现这并非真实世界的数据 -- 上观新闻](https://www.guancha.cn/politics/2022_12_28_673198.shtml)  
+- [专家：新冠病毒变异还远没达到饱和 -- 科技日报](https://www.guancha.cn/politics/2022_12_30_673405.shtml)  
+- [国产新冠药VV116临床3期试验结果积极，称疗效不劣于辉瑞 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_29_673393.shtml)  
 
 ## 新冠过后中国经济
 
