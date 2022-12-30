@@ -32,7 +32,10 @@ Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.1 (Dated DEC 28, 2022) (Latest)
+### Version 0.2 (Dated DEC 30, 2022) (Latest)  
+- Add uninstallers
+
+### Version 0.1 (Dated DEC 28, 2022)   
 - First release for ClamAV 1.0.0
 
 Remarks : This script is developed by Samiux and it is released under GPLv3.  It is an Open Source Project.
