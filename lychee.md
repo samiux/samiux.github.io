@@ -61,29 +61,17 @@ You can run this script at any time on the same Linux system box without any har
 
 ## Uninstall
 
+(a) DEB Package
 ```
-sudo systemctl stop clamav-freshclam.service
-sudo systemctl disable clamav-freshclam.service
-sudo systemctl unmask clamav-freshclam.service
-sudo systemctl stop clamav-daemon.service
-sudo systemctl disable clamav-daemon.service
-sudo systemctl unmask clamav-daemon.service
-sudo systemctl stop clamav-clamonacc.service
-sudo systemctl disable clamav-clamonacc.service
-sudo systemctl unmask clamav-clamonacc.service
-sudo rm -R /var/log/clamav
-sudo rm -R /var/lib/clamav
+sudo chmod +x deb-clamav-uninstaller
+sudo ./deb-clamav-uninstaller
 ``` 
 
-If DEB package :
+(b) RPM Package
 ```
-sudo dpkg -r clamav
-```
-
-If RPM package :
-```
-sudo rpm -e clamav
-```
+sudo chmod +x rpm-clamav-uninstaller
+sudo ./rpm-clamav-uninstaller
+``` 
 
 ## Test file
 - [Eicar Test File](https://www.eicar.org/download-anti-malware-testfile/)  
