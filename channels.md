@@ -679,6 +679,7 @@
 - [科兴三针防感染率仅有8%？我们发现这并非真实世界的数据 -- 上观新闻](https://www.guancha.cn/politics/2022_12_28_673198.shtml)  
 - [专家：新冠病毒变异还远没达到饱和 -- 科技日报](https://www.guancha.cn/politics/2022_12_30_673405.shtml)  
 - [国产新冠药VV116临床3期试验结果积极，称疗效不劣于辉瑞 -- 澎湃新闻](https://www.guancha.cn/politics/2022_12_29_673393.shtml)  
+- [张伯礼：没有所谓特效药，囤特效药不如囤“好身体” -- 央广网](https://www.guancha.cn/politics/2023_01_01_673792.shtml)  
 
 ## 新冠过后中国经济
 
