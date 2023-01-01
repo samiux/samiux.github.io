@@ -79,6 +79,11 @@ sudo chmod +x rpm-clamav-uninstaller
 sudo ./rpm-clamav-uninstaller
 ``` 
 
+(c) Remove lychee directory
+```
+sudo rm -R lychee
+```
+
 ## Test file
 - [Eicar Test File](https://www.eicar.org/download-anti-malware-testfile/)  
 
