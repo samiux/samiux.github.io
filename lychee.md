@@ -32,7 +32,10 @@ Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.2 (Dated DEC 30, 2022) (Latest)  
+### Version 0.3 (Dated JAN 01, 2023) (Latest)  
+- Add configure file
+
+### Version 0.2 (Dated DEC 30, 2022)   
 - Add uninstallers
 
 ### Version 0.1 (Dated DEC 28, 2022)   
@@ -51,7 +54,7 @@ Edit the related parts at the top parts of the script.
 ```
 cd lychee
 
-nano clamav-installer
+nano lychee.conf
 ```
 
 Then run the script to install ClamAV On-Access scanning.
