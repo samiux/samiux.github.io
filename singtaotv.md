@@ -29,6 +29,7 @@
 - [10-12-2022 時事觀察 第2節—霍詠強：為什麽「説好」中國故事這樣難？](https://www.youtube.com/watch?v=sAk1Pzah9oc)  
 - [10-15-2022 星電視快評—余非：對比660億美元援烏的道理，與普京的道理，是非對錯如何分辨？](https://www.youtube.com/watch?v=YbyUY08uSgY)  
 - [12-17-2022 星電視快評—余非：不宜忽略的、普京與士兵有關的三則新聞](https://www.youtube.com/watch?v=pUjTwIjez1Y)  
+- [12-31-2022 星電視快評—余非：俄檢視「特別軍事行動」的意義；赫爾松只取南岸能解決克里米亞淡水問題嗎？](https://www.youtube.com/watch?v=jZeG8bYpUCg)  
 
 # 乌俄冲突
 
