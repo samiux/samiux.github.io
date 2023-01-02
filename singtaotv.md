@@ -128,5 +128,6 @@
 - [12-17-2022 星電視快評—余非：不宜忽略的、普京與士兵有關的三則新聞](https://www.youtube.com/watch?v=pUjTwIjez1Y)  
 - [突发！俄罗斯一处通往欧洲天然气管道发生爆炸，已致3死 -- 观察者网](https://www.guancha.cn/internation/2022_12_21_672169.shtml)  
 - [俄阵亡士兵家属对普京的态度，“超出不少西方人的预计” -- 观察者网](https://www.guancha.cn/internation/2022_12_31_673661.shtml)  
+- [12-31-2022 星電視快評—余非：俄檢視「特別軍事行動」的意義；赫爾松只取南岸能解決克里米亞淡水問題嗎？](https://www.youtube.com/watch?v=jZeG8bYpUCg)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
