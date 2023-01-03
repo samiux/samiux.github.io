@@ -682,6 +682,7 @@
 - [张伯礼：没有所谓特效药，囤特效药不如囤“好身体” -- 央广网](https://www.guancha.cn/politics/2023_01_01_673792.shtml)  
 - [上海已测到XBB毒株，会二次感染吗？专家释疑 -- 央视网](https://www.guancha.cn/politics/2023_01_02_673920.shtml)  
 - [上海目前未发现境外输入毒株BQ.1和XBB的本土传播 -- 上观新闻](https://www.guancha.cn/politics/2023_01_02_673971.shtml)  
+- [国家卫健委：我国疫情防控工作重心从“防感染”转向“保健康、防重症” -- 央视新闻](https://www.guancha.cn/politics/2023_01_03_674060.shtml)  
 
 ## 新冠过后中国经济
 
