@@ -61,6 +61,7 @@
 - [央視首次曝光解放軍無人機航母 外媒：未來海戰扮演重要角色 -- 止戈堂](https://www.bastillepost.com/hongkong/article/11951445-%e5%a4%ae%e8%a6%96%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89%e8%a7%a3%e6%94%be%e8%bb%8d%e7%84%a1%e4%ba%ba%e6%a9%9f%e8%88%aa%e6%af%8d-%e5%a4%96%e5%aa%92%ef%bc%9a%e6%9c%aa%e4%be%86%e6%b5%b7%e6%88%b0%e6%89%ae)  
 - [盧永雄「巴士的點評」大家都同情阿富汗女學生，塔利班為何堅持禁返學？美國拍電影，中國來實現，「蜂群」巡飛彈世界領先，改變戰爭模式。 23年1月1日](https://www.youtube.com/watch?v=pAjMc7Z3Bjg)  
 - [【中國焦點新聞】東部戰區100架殲20形成完全戰鬥力，掌控東海上空絕對制空權。中國戰機「危險貼近」? 解放軍公開影片駁斥美軍顛倒黑白。23年1月1日](https://www.youtube.com/watch?v=-PX4f5Xs45M)  
+- [精准剔除“瑕疵” 提升良品率 激光退火仪在国内首条量子芯片生产线上投入使用 -- 科技日报](https://www.guancha.cn/industry-science/2023_01_04_674189.shtml)  
 
 ## 美国军工
 
