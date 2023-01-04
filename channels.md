@@ -178,6 +178,7 @@
 - [张维为、李伟建：美国在阿富汗的溃败 -- 观察者网](https://www.guancha.cn/ZhangWeiWei/2021_09_19_607802_s.shtml)  
 - [隐身无人机、巡飞弹，中国航天“飞鸿”无人机将首次亮相航展 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_14640308)  
 - [利剑新刃 -- 军迷天下](/pla_army_01.md)  
+- [第171期：非西方世界与西方世界的觉醒、中国的榜样作用对世界觉醒有何影响？和张维为一起聚焦世界进入“觉醒年代”！ --《#这就是中国》#ChinaNow EP171 20230102【东方卫视官方频道】](https://www.youtube.com/watch?v=M3rRWPD9SSg)  
 
 ## Hong Kong
 
