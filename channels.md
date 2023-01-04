@@ -292,6 +292,7 @@
 - [喜迎二十大 - 聲學科技領軍　攻克智能語音芯片 -- 大公文匯](https://www.tkww.hk/a/202210/10/AP63438623e4b0a46902af951a.html)  
 - [國產手術機械人完成國內首例甲狀腺癌手術 -- 大公文匯](https://www.tkww.hk/a/202210/25/AP63577980e4b0a46902b7b5bb.html)  
 - [云南大学专家团队成功创制多年生稻，种植一次，可连续免耕收获3-4年 -- 观察者网](https://www.guancha.cn/industry-science/2022_11_09_665958.shtml)  
+- [精准剔除“瑕疵” 提升良品率 激光退火仪在国内首条量子芯片生产线上投入使用 -- 科技日报](https://www.guancha.cn/industry-science/2023_01_04_674189.shtml)  
 
 ## Misc.
 
@@ -683,6 +684,7 @@
 - [上海已测到XBB毒株，会二次感染吗？专家释疑 -- 央视网](https://www.guancha.cn/politics/2023_01_02_673920.shtml)  
 - [上海目前未发现境外输入毒株BQ.1和XBB的本土传播 -- 上观新闻](https://www.guancha.cn/politics/2023_01_02_673971.shtml)  
 - [国家卫健委：我国疫情防控工作重心从“防感染”转向“保健康、防重症” -- 央视新闻](https://www.guancha.cn/politics/2023_01_03_674060.shtml)  
+- [XBB.1.5会否引发第二轮感染？致病性会更强吗？中疾控7问7答 -- 中国疾控动态](https://www.thepaper.cn/newsDetail_forward_21417122)  
 
 ## 新冠过后中国经济
 
