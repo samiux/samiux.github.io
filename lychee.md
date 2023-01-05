@@ -32,7 +32,10 @@ Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.3 (Dated JAN 01, 2023) (Latest)  
+### Version 0.4 (Dated JAN 05, 2023) (Latest)  
+- Minor modified
+
+### Version 0.3 (Dated JAN 01, 2023)   
 - Add configure file
 
 ### Version 0.2 (Dated DEC 30, 2022)   
