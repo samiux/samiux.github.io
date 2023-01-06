@@ -74,7 +74,7 @@
 
 uBlock Origin 及 Ghostery 是可以阻挡已知有恶意的 JavaScript 程序和广告。Malwarebytes Browser Guard 经过适当的设定后，是可以阻挡已知有恶意的程序。Avast Online Security & Privacy 经过适当的设定后，是可以在使用搜索器 (Search Engine) 搜索时进行恶意程序扫描，有问题的连结会作出标识及提示。MalwareAI Browser Security 是可以扫描有恶意的 PDF 档案。
 
-如遇可疑连结或档案可以利用 [VirusTotal](https://www.virustotal.com/) 来扫描，[扫描连结](https://www.virustotal.com/gui/home/url)和[扫描档案](https://www.virustotal.com/gui/home/upload)。
+如遇可疑连结或档案可以利用 [VirusTotal](https://www.virustotal.com/) 来扫描，[连结扫描](https://www.virustotal.com/gui/home/url)和[档案扫描](https://www.virustotal.com/gui/home/upload)。
 
 ### 第五层
 
