@@ -66,6 +66,8 @@
 
 桌面电脑必须安装或启动防火墙和安装防毒软件。不要使用侵权的防毒软件，这是会有一定的风险的。如果是微软视窗系统的话，可以使用其预载的防毒软件。更加要经常更新防毒资料库。
 
+如果是 Ubuntu 或 fedora 系统，可以安装由我独力开发的「芋头」(Taro) ClamAV 开源防毒软件，它能够实时侦测恶意软件。
+
 ### 第四层
 
 如果是使用「火狐」(Firefox) 浏览器的话，建议安装以下组件 (Add-on)：uBlock Origin、Ghostery、Malwarebytes Browser Guard、Avast Online Security & Privacy 和 MalwareAI Browser Security。这些组件都是能够减少浏览网页时的风险。
@@ -99,6 +101,8 @@ OSCE  OSCP  OSWP
 更新 二零二二年三月十二日，中国香港  
 更新 二零二二年十月十七日，中国香港  
 更新 二零二二年十二月廿一日，中国香港  
+更新 二零二三年一月六日，中国香港  
+
 
 #### 参考连结：
 - [美國上半年受惡毒軟件襲擊贖金達5.9億 勢超越過去10年總和 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9433867-%e7%be%8e%e5%9c%8b%e4%b8%8a%e5%8d%8a%e5%b9%b4%e5%8f%97%e6%83%a1%e6%af%92%e8%bb%9f%e4%bb%b6%e8%a5%b2%e6%93%8a%e8%b4%96%e9%87%91%e9%81%945-9%e5%84%84-%e5%8b%a2%e8%b6%85%e8%b6%8a%e9%81%8e%e5%8e%bb10) 
