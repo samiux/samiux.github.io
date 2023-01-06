@@ -686,6 +686,7 @@
 - [上海目前未发现境外输入毒株BQ.1和XBB的本土传播 -- 上观新闻](https://www.guancha.cn/politics/2023_01_02_673971.shtml)  
 - [国家卫健委：我国疫情防控工作重心从“防感染”转向“保健康、防重症” -- 央视新闻](https://www.guancha.cn/politics/2023_01_03_674060.shtml)  
 - [XBB.1.5会否引发第二轮感染？致病性会更强吗？中疾控7问7答 -- 中国疾控动态](https://www.thepaper.cn/newsDetail_forward_21417122)  
+- [XBB是否会引起二次感染？张伯礼解读 -- 新华社](https://www.guancha.cn/politics/2023_01_06_674466.shtml)  
 
 ## 新冠过后中国经济
 
