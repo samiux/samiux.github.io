@@ -687,6 +687,8 @@
 - [国家卫健委：我国疫情防控工作重心从“防感染”转向“保健康、防重症” -- 央视新闻](https://www.guancha.cn/politics/2023_01_03_674060.shtml)  
 - [XBB.1.5会否引发第二轮感染？致病性会更强吗？中疾控7问7答 -- 中国疾控动态](https://www.thepaper.cn/newsDetail_forward_21417122)  
 - [XBB是否会引起二次感染？张伯礼解读 -- 新华社](https://www.guancha.cn/politics/2023_01_06_674466.shtml)  
+- [《新型冠状病毒感染诊疗方案（试行第十版）》发布，增加抗原检测阳性为诊断标准 -- 观察者网](https://www.guancha.cn/politics/2023_01_06_674567.shtml)  
+- [张文宏：抗病毒药物+合理激素应用，72小时内大多数病人症状都能缓解 -- 观察者网](https://www.guancha.cn/politics/2023_01_06_674527.shtml)  
 
 ## 新冠过后中国经济
 
