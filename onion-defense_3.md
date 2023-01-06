@@ -26,7 +26,7 @@
 
 如果是使用「火狐」(Firefox) 浏览器版本的话，可以安装以下组件 (Add-on)：uBlock Origin 和 Ghostery。这两个组件能够阻挡一些网页中的不受欢迎或恶意的脚本，例如  JavaScript 或广告 。尽量避免使用浏览器。
 
-如遇可疑连结或档案可以利用 [VirusTotal](https://www.virustotal.com/) 来扫描，[扫描连结](https://www.virustotal.com/gui/home/url)和[扫描档案](https://www.virustotal.com/gui/home/upload)。
+如遇可疑连结或档案可以利用 [VirusTotal](https://www.virustotal.com/) 来扫描，[连结扫描](https://www.virustotal.com/gui/home/url)和[档案扫描](https://www.virustotal.com/gui/home/upload)。
 
 ### 第五层
 
