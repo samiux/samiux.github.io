@@ -24,6 +24,7 @@
 - [Red Teaming Experiments](https://www.ired.team/)  
 - [Penetration Testing with Kali Linux](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)  
 - [Cloudflare Bypass](/cloudflare_bypass.md)  
+- [攻擊方紅隊幫你，還是害你? -- HKCERT](https://www.youtube.com/watch?v=grGIYMRcYTc)  
 
 ### Defense
 
