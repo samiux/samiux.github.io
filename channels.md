@@ -294,6 +294,7 @@
 - [國產手術機械人完成國內首例甲狀腺癌手術 -- 大公文匯](https://www.tkww.hk/a/202210/25/AP63577980e4b0a46902b7b5bb.html)  
 - [云南大学专家团队成功创制多年生稻，种植一次，可连续免耕收获3-4年 -- 观察者网](https://www.guancha.cn/industry-science/2022_11_09_665958.shtml)  
 - [精准剔除“瑕疵” 提升良品率 激光退火仪在国内首条量子芯片生产线上投入使用 -- 科技日报](https://www.guancha.cn/industry-science/2023_01_04_674189.shtml)  
+- [“人造太阳”基础物理研究取得新进展 -- 央视新闻](https://www.guancha.cn/industry-science/2023_01_07_674629.shtml)  
 
 ## Misc.
 
