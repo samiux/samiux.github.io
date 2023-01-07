@@ -689,6 +689,8 @@
 - [XBB是否会引起二次感染？张伯礼解读 -- 新华社](https://www.guancha.cn/politics/2023_01_06_674466.shtml)  
 - [《新型冠状病毒感染诊疗方案（试行第十版）》发布，增加抗原检测阳性为诊断标准 -- 观察者网](https://www.guancha.cn/politics/2023_01_06_674567.shtml)  
 - [张文宏：抗病毒药物+合理激素应用，72小时内大多数病人症状都能缓解 -- 观察者网](https://www.guancha.cn/politics/2023_01_06_674527.shtml)  
+- [国务院联防联控机制印发《新型冠状病毒感染防控方案（第十版）》-- 观察者网 ](https://www.guancha.cn/politics/2023_01_07_674679.shtml)  
+- [张伯礼：绝大多数“新冠后遗症”可逆可恢复 -- 央广网](https://www.guancha.cn/politics/2023_01_06_674620.shtml)  
 
 ## 新冠过后中国经济
 
