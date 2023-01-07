@@ -198,10 +198,10 @@ You can check the suricata.log at ```/var/log/suricata/suricata.log```.  Please 
 
 The update will be carried out within an hour when the Garlic is booting up.  If you turn off the Garlic within one hour of the booting up, you may also break the system too.    
     
-#### (2) How many detecting / blocking rules in Taro?  
+#### (2) How many detecting / blocking rules in Garlic?  
 There are more than 40,000 rules in Garlic and they are all free of charge.  The number of rules are increasing.    
 
-#### (3) Can Taro decrypt the SSL/TLS traffic?
+#### (3) Can Garlic decrypt the SSL/TLS traffic?
 Garlic cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Garlic can detect and drop self signed SSL/TLS certificate traffic and etc.   
 
 #### (4) How about Garlic is turned off for a week or longer?
