@@ -18,6 +18,7 @@ He has some active projects about CyberSecurity, they are :
 
 - [Croissants 牛角面包 - Intrusion Detection and Prevention System](/croissants.md)
 - [Taro 芋头 - Intrusion Detection and Prevention System](/taro.md)  
+- [Garlic 大蒜- Intrusion Detection and Prevention System](/garlic.md)  
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)  
 
