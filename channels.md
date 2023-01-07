@@ -693,6 +693,7 @@
 - [国务院联防联控机制印发《新型冠状病毒感染防控方案（第十版）》-- 观察者网 ](https://www.guancha.cn/politics/2023_01_07_674679.shtml)  
 - [张伯礼：绝大多数“新冠后遗症”可逆可恢复 -- 央广网](https://www.guancha.cn/politics/2023_01_06_674620.shtml)  
 - [** 武大科学家发现病毒进化规律，设计新冠广谱疫苗对抗持续病毒突变 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21450985)  
+- [世衞：XBB.1.5最具傳染性變種毒株 -- 大公文匯](https://www.tkww.hk/a/202301/06/AP63b778e1e4b01fafd0f2d99c.html)  
 
 ## 新冠过后中国经济
 
