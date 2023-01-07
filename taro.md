@@ -15,7 +15,7 @@ Taro is designed by a hacker to defend against hackers. He knows what hackers ar
 - Easy and straight forward interfaces  
 - Compatible with Bittorrent and 4K video streaming  
 - Ultra-low latency for demanding online games  
-- Compatible with Ubuntu Linux Server and Ubuntu Linux Desktop 
+- Compatible with Ubuntu Linux Server  
 - No subscription fee  
 - Automatically update and upgrade  
 - Plug, Play and Forget!  
@@ -32,7 +32,7 @@ Taro is designed by a hacker to defend against hackers. He knows what hackers ar
 - 有效阻挡已知的恶意程序
 - 简单直接的用户介面
 - 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
-- 兼容 Ubuntu Linux 服务器 及 Ubuntu Linux 桌面电脑
+- 兼容 Ubuntu Linux 服务器 
 - 开源项目，完全免费
 - 自动更新
 - 随插即用，并且可以忘记之
