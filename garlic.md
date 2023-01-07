@@ -80,7 +80,7 @@ sudo apt install git net-tools
 
 git clone https://github.com/samiux/garlic
 
-cd taro
+cd garlic
 ```
 
 ```bash
