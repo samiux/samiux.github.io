@@ -703,6 +703,7 @@
 - [关键是提振信心”（微镜头·习近平总书记在中央经济工作会议上）-- 人民日报](http://politics.people.com.cn/n1/2022/1218/c1001-32588932.html)  
 - [关键时刻，中央开了一次很不寻常的会议 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21206933)  
 - [2023中国经济怎么稳怎么进？听三位经济学家深度解析 -- 观察者网](https://www.guancha.cn/politics/2022_12_22_672435.shtml)  
+- [新冠感染“乙类乙管”首日，首批入境旅客顺利通关 -- 观察者网 ](https://www.guancha.cn/politics/2023_01_08_674774.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
