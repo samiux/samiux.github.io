@@ -192,7 +192,17 @@ sudo systemctl restart suricata
 
 You can check the suricata.log at ```/var/log/suricata/suricata.log```.  Please allow about 5 minutes for Suricata fully starting.
 
-### 5.0 FAQ
+### 5.0 Uninstall
+
+```
+sudo -sH
+cd /root
+chmod +x garlic_uninstaller
+sudo ./garlic_uninstaller
+```
+Then reboot your personal computer.
+
+### 6.0 FAQ
 
 #### (1) When will the rules be updated?
 
@@ -207,21 +217,21 @@ Garlic cannot decrypt the SSL/TLS traffic well.  However, it can handle a limite
 #### (4) How about Garlic is turned off for a week or longer?
 It is recommended to run the install script once again to keep the Garlic up-to-date.  
 
-### 6.0 To-Do-List
+### 7.0 To-Do-List
 
-#### 6.1 Upgrade to Ubuntu Desktop 24.04 LTS 
+#### 7.1 Upgrade to Ubuntu Desktop 24.04 LTS 
 
 N/A
 
-### 7.0 See Also
+### 8.0 See Also
 
 Besides, your desktop is required to be hardening on SSH and other applications, etc when necessary.  It is because that Garlic is not a silver bullet.  Garlic is running behind router or Wifi router as well as Wifi hotpot.
 
-### 8.0 Bug Fixed
+### 9.0 Bug Fixed
 
 N/A
 
-### 9.0 Known Issues
+### 10.0 Known Issues
 
 N/A  
 
