@@ -36,6 +36,7 @@
 - [前所未有的震撼镜头！中国海军首部航母主题宣传片发布 片尾彩蛋透露重磅信息！20220422 -- 军迷天下](https://www.youtube.com/watch?v=54dG2yccI10)  
 - [玉渊谭天 - 用简单逻辑看复杂世界 -- 视频新闻 / 图文新闻](https://new.qq.com/omn/author/17419139)  
 - [中国军队国际形象网宣片《PLA》发布! ](https://mp.weixin.qq.com/s/GpMkKJaa0IWU4s5_OXkSxA)  
+- [罗思义：对比中西三年抗疫成绩单，新冠疫情是一面“照妖镜” -- 观察者网](https://www.guancha.cn/LuoSiYi/2023_01_09_674870_1.shtml)  
 
 ## Red Team vs Blue Team  (PLA)  
 
