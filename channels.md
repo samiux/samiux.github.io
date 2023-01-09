@@ -694,6 +694,7 @@
 - [张伯礼：绝大多数“新冠后遗症”可逆可恢复 -- 央广网](https://www.guancha.cn/politics/2023_01_06_674620.shtml)  
 - [** 武大科学家发现病毒进化规律，设计新冠广谱疫苗对抗持续病毒突变 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21450985)  
 - [世衞：XBB.1.5最具傳染性變種毒株 -- 大公文匯](https://www.tkww.hk/a/202301/06/AP63b778e1e4b01fafd0f2d99c.html)  
+- [防控政策调整时机是如何确定的？梁万年回应 -- 央视新闻](https://www.guancha.cn/politics/2023_01_09_674868.shtml)  
 
 ## 新冠过后中国经济
 
