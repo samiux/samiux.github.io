@@ -95,6 +95,7 @@ sudo rm -R lychee
 - [BUG : /home directory cannot be used](https://github.com/Cisco-Talos/clamav/issues/799)
 - / directory cannot be used as it will lockup the system.
 - Non-existent directory will caused high CPU usage.
+- USB flash drive cannot be used for On-Access Scanning.  
 
 ## Reference
 
