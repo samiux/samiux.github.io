@@ -92,6 +92,7 @@
 - [【短片】【有聲專欄】屈穎妍:世上無難事 只怕你關門  -- 港人講地](https://www.speakout.hk/%E6%9C%89%E8%81%B2%E5%B0%88%E6%AC%84/75778/-%E7%9F%AD%E7%89%87-%E6%9C%89%E8%81%B2%E5%B0%88%E6%AC%84-%E5%B1%88%E7%A9%8E%E5%A6%8D-%E4%B8%96%E4%B8%8A%E7%84%A1%E9%9B%A3%E4%BA%8B-%E5%8F%AA%E6%80%95%E4%BD%A0%E9%97%9C%E9%96%80)  
 - [這個口岸，只需排一次隊，最快20秒過關 -- 大公文匯](https://mp.weixin.qq.com/s/Ba4NL-Dak2QpctT-EzgXjw)  
 - [【短片】【有聲專欄】屈穎妍：我們都曾經跟悲劇擦身而過](https://www.youtube.com/watch?v=WIcMFdIw1Hc)  
+- [快快去打第4針 -- 盧永雄](https://www.bastillepost.com/hongkong/article/12050660-%e5%bf%ab%e5%bf%ab%e5%8e%bb%e6%89%93%e7%ac%ac4%e9%87%9d)  
 
 ## Misc
 
