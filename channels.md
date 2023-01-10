@@ -696,6 +696,7 @@
 - [** 武大科学家发现病毒进化规律，设计新冠广谱疫苗对抗持续病毒突变 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21450985)  
 - [世衞：XBB.1.5最具傳染性變種毒株 -- 大公文匯](https://www.tkww.hk/a/202301/06/AP63b778e1e4b01fafd0f2d99c.html)  
 - [防控政策调整时机是如何确定的？梁万年回应 -- 央视新闻](https://www.guancha.cn/politics/2023_01_09_674868.shtml)  
+- [多地研判已渡過第一波高峰 官媒調查農村疫情：村醫判斷有8成感染，逝世老人多長期臥床 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12048877-%e5%a4%9a%e5%9c%b0%e7%a0%94%e5%88%a4%e5%b7%b2%e6%b8%a1%e9%81%8e%e7%ac%ac%e4%b8%80%e6%b3%a2%e9%ab%98%e5%b3%b0-%e5%ae%98%e5%aa%92%e8%aa%bf%e6%9f%a5%e8%be%b2%e6%9d%91%e7%96%ab%e6%83%85%ef%bc%9a%e6%9d%91)  
 
 ## 新冠过后中国经济
 
@@ -706,6 +707,7 @@
 - [关键时刻，中央开了一次很不寻常的会议 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21206933)  
 - [2023中国经济怎么稳怎么进？听三位经济学家深度解析 -- 观察者网](https://www.guancha.cn/politics/2022_12_22_672435.shtml)  
 - [新冠感染“乙类乙管”首日，首批入境旅客顺利通关 -- 观察者网 ](https://www.guancha.cn/politics/2023_01_08_674774.shtml)  
+- [外媒：「三駕馬車」中，唯獨中國有望加速前進 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12045900-%e5%a4%96%e5%aa%92%ef%bc%9a%e3%80%8c%e4%b8%89%e9%a7%95%e9%a6%ac%e8%bb%8a%e3%80%8d%e4%b8%ad%ef%bc%8c%e5%94%af%e7%8d%a8%e4%b8%ad%e5%9c%8b%e6%9c%89%e6%9c%9b%e5%8a%a0%e9%80%9f%e5%89%8d%e9%80%b2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
