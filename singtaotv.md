@@ -130,5 +130,6 @@
 - [俄阵亡士兵家属对普京的态度，“超出不少西方人的预计” -- 观察者网](https://www.guancha.cn/internation/2022_12_31_673661.shtml)  
 - [12-31-2022 星電視快評—余非：俄檢視「特別軍事行動」的意義；赫爾松只取南岸能解決克里米亞淡水問題嗎？](https://www.youtube.com/watch?v=jZeG8bYpUCg)  
 - [乌克兰国防部长：我们正为“北约使命”而流血，望西方提供武器作为回报 -- 观察者网](https://www.guancha.cn/internation/2023_01_07_674735.shtml)  
+- [美媒爆猛料：英軍方非法間諜手段或傷及俄烏平民 -- 深喉](https://www.bastillepost.com/hongkong/article/12046222-%e7%be%8e%e5%aa%92%e7%88%86%e7%8c%9b%e6%96%99%ef%bc%9a%e8%8b%b1%e8%bb%8d%e6%96%b9%e9%9d%9e%e6%b3%95%e9%96%93%e8%ab%9c%e6%89%8b%e6%ae%b5%e6%88%96%e5%82%b7%e5%8f%8a%e4%bf%84%e7%83%8f%e5%b9%b3%e6%b0%91)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
