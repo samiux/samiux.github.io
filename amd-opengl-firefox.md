@@ -41,9 +41,14 @@ browser.sessionstore.interval ---> 15000000
 
 Now, your web based videos will be played in firefox with lesser CPU resources.  
 
+## Update
+
+Since the PPA updated recently and you are required to install the latest version of [LLVM](https://apt.llvm.org/).  
+
 Samiux    
 OSCE  OSCP  OSWP    
 November 6, 2022, Hong Kong, China    
+Update January 10, 2023, Hong Kong, China   
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
