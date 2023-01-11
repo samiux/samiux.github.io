@@ -143,6 +143,8 @@ fi
 # EOF
 ```
 
+[![](https://img.youtube.com/vi/IbOmBWb4hKY/0.jpg)](https://youtu.be/IbOmBWb4hKY "amd-pstate")  
+
 Samiux    
 OSCE  OSCP  OSWP    
 November 6, 2022, Hong Kong, China    
