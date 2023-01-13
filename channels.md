@@ -699,6 +699,8 @@
 - [防控政策调整时机是如何确定的？梁万年回应 -- 央视新闻](https://www.guancha.cn/politics/2023_01_09_674868.shtml)  
 - [多地研判已渡過第一波高峰 官媒調查農村疫情：村醫判斷有8成感染，逝世老人多長期臥床 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12048877-%e5%a4%9a%e5%9c%b0%e7%a0%94%e5%88%a4%e5%b7%b2%e6%b8%a1%e9%81%8e%e7%ac%ac%e4%b8%80%e6%b3%a2%e9%ab%98%e5%b3%b0-%e5%ae%98%e5%aa%92%e8%aa%bf%e6%9f%a5%e8%be%b2%e6%9d%91%e7%96%ab%e6%83%85%ef%bc%9a%e6%9d%91)  
 - [** 快快去打第4針 -- 盧永雄](https://www.bastillepost.com/hongkong/article/12050660-%e5%bf%ab%e5%bf%ab%e5%8e%bb%e6%89%93%e7%ac%ac4%e9%87%9d)  
+- [北大國發院報告：全國約9億人口已感染新冠 -- 大公文匯](https://www.tkww.hk/a/202301/13/AP63c1239be4b01fafd0f69a93.html)  
+- [研究：輕症者「長新冠」症狀一年內消失 -- 大公文匯](https://www.tkww.hk/a/202301/13/AP63c0b86be4b01fafd0f667bc.html)  
 
 ## 新冠过后中国经济
 
