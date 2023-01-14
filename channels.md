@@ -709,6 +709,11 @@
 - [暮雪：老人出现重症，大部分是“被耽误” -- 观察者网](https://www.guancha.cn/muxue/2023_01_14_675811.shtml)  
 - [我国三年抗疫实践：打有把握之仗，保障人民健康安全 -- 新华社](https://www.guancha.cn/politics/2023_01_14_675903.shtml)  
 - [** 死幾多人，又關你事？認識西方的新冠百態 -- 黃秉華](https://www.bastillepost.com/hongkong/article/12079885-%e6%ad%bb%e5%b9%be%e5%a4%9a%e4%ba%ba%ef%bc%8c%e5%8f%88%e9%97%9c%e4%bd%a0%e4%ba%8b%ef%bc%9f%e8%aa%8d%e8%ad%98%e8%a5%bf%e6%96%b9%e7%9a%84%e6%96%b0%e5%86%a0%e7%99%be%e6%85%8b%e3%80%82)  
+- [新冠疫情信息如何发布？全国重症病例有多少？这场发布会详答 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21562771)  
+- [如何保证发布的新冠疫情信息客观真实？国家疾控局答澎湃 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21562566)  
+- [国家卫健委主任马晓伟与世界卫生组织总干事谭德塞通电话 -- 国家卫健委官网](https://www.thepaper.cn/newsDetail_forward_21565241)  
+- [国家卫健委通报去年12月8日至今年1月12日全国新冠死亡病例情况 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21562574)  
+- [国家卫健委：我国对新冠感染死亡病例的判断标准与国际基本一致 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21562604)  
 
 ## 新冠过后中国经济
 
