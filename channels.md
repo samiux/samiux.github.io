@@ -705,6 +705,9 @@
 - [人民日报访中疾控专家：没有证据表明XBB变异株致病力增加 -- 人民日报](https://www.guancha.cn/politics/2023_01_14_675807.shtml)  
 - [美疾控中心：輝瑞新冠二價疫苗或增長者中風風險 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12077657-%e7%be%8e%e7%96%be%e6%8e%a7%e4%b8%ad%e5%bf%83%ef%bc%9a%e8%bc%9d%e7%91%9e%e6%96%b0%e5%86%a0%e4%ba%8c%e5%83%b9%e7%96%ab%e8%8b%97%e6%88%96%e8%88%87%e9%95%b7%e8%80%85%e4%b8%ad%e9%a2%a8%e6%9c%89%e9%97%9c?current_cat=6)  
 - [孔繁毅：XBB.1.5或成本港主流病毒 傳播力強但病徵輕微 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12077534-xbb-1-5%e6%88%96%e6%88%90%e6%9c%ac%e6%b8%af%e4%b8%bb%e6%b5%81%e7%97%85%e6%af%92-%e5%ad%94%e7%b9%81%e6%af%85%ef%bc%9a%e5%82%b3%e6%92%ad%e5%8a%9b%e5%bc%b7%e4%bd%86%e7%a0%b4%e5%a3%9e%e5%8a%9b%e4%bd%8e?current_cat=3)  
+- [国家卫健委通报去年12月8日至今年1月12日全国新冠死亡病例情况 -- 观察者网](https://www.guancha.cn/politics/2023_01_14_675905.shtml)  
+- [暮雪：老人出现重症，大部分是“被耽误” -- 观察者网](https://www.guancha.cn/muxue/2023_01_14_675811.shtml)  
+- [我国三年抗疫实践：打有把握之仗，保障人民健康安全 -- 新华社](https://www.guancha.cn/politics/2023_01_14_675903.shtml)  
 
 ## 新冠过后中国经济
 
