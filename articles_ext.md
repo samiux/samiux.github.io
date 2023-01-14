@@ -130,6 +130,9 @@
 - [揭秘反共话术！磊哥一个视频让反贼怀疑人生！王局们无论说什么最终目的都是反共、为什么说反共就是奥特曼打怪兽成功学传销大忽悠？为什么海外反贼民主派混的不如狗？因为从根子上就错了](https://www.youtube.com/watch?v=_ylNhWrJRhA)  
 - [【K2搜尋 - 第二季】EP56：少女博同情操控輿論似曾相識？美國自製世紀謊言出兵伊拉克](https://www.youtube.com/watch?v=aNd3_a2DB7A)  
 - [持续至少5年，美军这一丑闻曝光！ -- 央视新闻](https://www.guancha.cn/internation/2022_12_23_672477.shtml)  
+- [中方代表在聯合國安理會上點名美國 -- 通視](https://www.youtube.com/watch?v=5WXCs4QzR_M)  
+- [张军大使：在国际法治问题上要警惕双重标准和例外主义 -- 中华人民共和国常驻联合国代表团](http://un.china-mission.gov.cn/dbtxx/czdbzjds/zjdshd/202301/t20230113_11006710.htm)  
+- [张军大使：在国际法治问题上要警惕双重标准和例外主义](https://youtu.be/EX-RDBxeNEE)  
 
 ## 文明型国家
 
