@@ -702,6 +702,7 @@
 - [** 快快去打第4針 -- 盧永雄](https://www.bastillepost.com/hongkong/article/12050660-%e5%bf%ab%e5%bf%ab%e5%8e%bb%e6%89%93%e7%ac%ac4%e9%87%9d)  
 - [北大國發院報告：全國約9億人口已感染新冠 -- 大公文匯](https://www.tkww.hk/a/202301/13/AP63c1239be4b01fafd0f69a93.html)  
 - [研究：輕症者「長新冠」症狀一年內消失 -- 大公文匯](https://www.tkww.hk/a/202301/13/AP63c0b86be4b01fafd0f667bc.html)  
+- [人民日报访中疾控专家：没有证据表明XBB变异株致病力增加 -- 人民日报](https://www.guancha.cn/politics/2023_01_14_675807.shtml)  
 
 ## 新冠过后中国经济
 
