@@ -715,6 +715,8 @@
 - [国家卫健委通报去年12月8日至今年1月12日全国新冠死亡病例情况 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21562574)  
 - [国家卫健委：我国对新冠感染死亡病例的判断标准与国际基本一致 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21562604)  
 - [新冠重症管理标准调整，重症人数会激增吗？ -- 人民日报](https://www.guancha.cn/politics/2023_01_15_675955.shtml)  
+- [月咏幻：Paxlovid免费发，日本新冠死亡人数仍翻了数倍？ -- 观察者网](https://www.guancha.cn/yueyonghuan/2023_01_10_675075.shtml)  
+- [美疾控监测到“风险信号”：辉瑞二价疫苗或增加老年人中风风险 -- 观察者网](https://www.guancha.cn/internation/2023_01_14_675927.shtml)  
 
 ## 新冠过后中国经济
 
