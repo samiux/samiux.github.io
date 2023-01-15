@@ -200,7 +200,7 @@ You can check the suricata.log at ```/var/log/suricata/suricata.log```.  Please 
 Between 0200 and 0600 hours every day, Taro will do the housekeeping and updating.  The defending work of Taro may be interrupted during this period.  Outdated logs will be deleted at 0200 hours.  All blacklists will be updated at 0300 hours.  Taro will be updated at 0400 hours (when necessary).  All rules will be updated at 0500 hours.  Ubuntu will be updated at 0600 hours (it will auto reboot when necessary).  
 
 ##### non 24/7
-Taro can be turned off and it is not required to operate 24/7.  The update will be carried out within an hour when the Taro is booting up.  The Taro may be reboot itself when necessary.  It is advised not to turn off the Taro between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Taro.  Meanwhile, if you turn off the Taro within one hour of the booting up, you may also break the system too.    
+Taro can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Taro is booting up.  The Taro may be reboot itself when necessary.  It is advised not to turn off the Taro between 0300 and 0600 hours as it will do the update automatically.  If you do so, you may break the Taro.  Meanwhile, if you turn off the Taro within half an hour of the booting up, you may also break the system too.    
     
 #### (2) How many detecting / blocking rules in Taro?  
 There are more than 40,000 rules in Taro and they are all free of charge.  The number of rules are increasing.    
