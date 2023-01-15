@@ -50,6 +50,7 @@
 - [《追光》](https://www.youtube.com/playlist?list=PLYG8vFcMYIaKe6TPmYDiUl5omfI0im-OE)  
 - [《军工巡礼 非凡十年》](https://www.youtube.com/playlist?list=PLYG8vFcMYIaJh2OJEDF22HNmhwCdId8vH)  
 - [辽宁号的战斗力 -- 观察者网](https://user.guancha.cn/main/content?id=892380)  
+- [** 一周军评：太平洋两岸，到底谁能“吓阻”谁？ -- 观察者网](https://www.guancha.cn/XiYaZhou/2023_01_15_675956.shtml)  
 
 ## China Police Story
 
