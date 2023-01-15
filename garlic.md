@@ -53,7 +53,7 @@ __Garlic is designed and developed by Samiux based on Croissants (Croissants sin
 - 8GB DDR4 RAM or more (Garlic use at least 2GB RAM)  
 - 256GB hard drive or more (SSD for better performance)   
 - 1 Network Interface Card/Port   
-- CPU with AVX2 or better (at least SSSE3)  
+- CPU with AVX2 or AVX512 (at least SSSE3 or SSE4.2)  
 - More cores and faster CPU the better performance  
 
 ### Software
