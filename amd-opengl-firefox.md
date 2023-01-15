@@ -2,6 +2,8 @@
 
 # AMD Ryzen 4000 series CPU OpenGL in Firefox 106.0.5 and Ubuntu 22.04.1 LTS
 
+## REMARKS : It is fixed on Firefox 18.0.2.  The following steps are not working anymore!
+
 OpenGL is not supported by default for firefox in Ubuntu 22.04.1 LTS for my AMD Ryzen 7 4800U.  You are required to set it up.  If you perfer newest Mesa display driver, you can install the PPA version.
 
 Install :
