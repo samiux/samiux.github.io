@@ -206,7 +206,7 @@ Then reboot your personal computer.
 
 #### (1) When will the rules be updated?
 
-The update will be carried out within an hour when the Garlic is booting up.  If you turn off the Garlic within one hour of the booting up, you may also break the system too.    
+The update will be carried out within 15 minutes when the Garlic is booting up.  If you turn off the Garlic within 15 minutes of the booting up, you may also break the system too.    
     
 #### (2) How many detecting / blocking rules in Garlic?  
 There are more than 40,000 rules in Garlic and they are all free of charge.  The number of rules are increasing.    
