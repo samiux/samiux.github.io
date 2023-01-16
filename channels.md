@@ -299,6 +299,7 @@
 - [精准剔除“瑕疵” 提升良品率 激光退火仪在国内首条量子芯片生产线上投入使用 -- 科技日报](https://www.guancha.cn/industry-science/2023_01_04_674189.shtml)  
 - [“人造太阳”基础物理研究取得新进展 -- 央视新闻](https://www.guancha.cn/industry-science/2023_01_07_674629.shtml)  
 - [(附字幕) 盧永雄「巴士的點評」俄軍迎來久違的勝利，烏東奪城取巨大地下網絡。中國用「芯粒」新技術，突破4納米芯片量產，更定出中國標準 。 23年1月12日](https://www.youtube.com/watch?v=QScsScx1wiU)  
+- [科工力量：性能接近国际巨头后，龙芯将迎来什么？ -- 观察者网](https://www.guancha.cn/kegongliliang/2023_01_13_675646_1.shtml)  
 
 ## Misc.
 
@@ -718,6 +719,7 @@
 - [新冠重症管理标准调整，重症人数会激增吗？ -- 人民日报](https://www.guancha.cn/politics/2023_01_15_675955.shtml)  
 - [月咏幻：Paxlovid免费发，日本新冠死亡人数仍翻了数倍？ -- 观察者网](https://www.guancha.cn/yueyonghuan/2023_01_10_675075.shtml)  
 - [美疾控监测到“风险信号”：辉瑞二价疫苗或增加老年人中风风险 -- 观察者网](https://www.guancha.cn/internation/2023_01_14_675927.shtml)  
+- [为何新冠治疗药物也是艾滋病相关药物？专家解疑 -- 健康时报](https://www.guancha.cn/politics/2023_01_16_676064.shtml)  
 
 ## 新冠过后中国经济
 
