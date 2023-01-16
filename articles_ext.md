@@ -66,6 +66,7 @@
 - [(附字幕) 盧永雄「巴士的點評」俄軍迎來久違的勝利，烏東奪城取巨大地下網絡。中國用「芯粒」新技術，突破4納米芯片量產，更定出中國標準 。 23年1月12日](https://www.youtube.com/watch?v=QScsScx1wiU)  
 - [全球首艘全能無人航母交付 美海軍期待的無人作戰艦隊或先在中國出現？ -- 止戈堂](https://www.bastillepost.com/hongkong/article/12076359-%e5%85%a8%e7%90%83%e9%a6%96%e8%89%98%e5%85%a8%e8%83%bd%e7%84%a1%e4%ba%ba%e8%88%aa%e6%af%8d%e4%ba%a4%e4%bb%98-%e7%be%8e%e6%b5%b7%e8%bb%8d%e6%9c%9f%e5%be%85%e7%9a%84%e7%84%a1%e4%ba%ba%e4%bd%9c%e6%88%b0)  
 - [盧永雄「巴士的點評」中國全力打造「中國星鏈」，要射1萬粒衛星。 封控錯， 開放也錯，新華社轟西方媒體：中國怎麼做都是錯的。 23年1月15日](https://www.youtube.com/watch?v=bEx4Dwxw_mo)  
+- [科工力量：性能接近国际巨头后，龙芯将迎来什么？ -- 观察者网](https://www.guancha.cn/kegongliliang/2023_01_13_675646_1.shtml)  
 
 ## 美国军工
 
