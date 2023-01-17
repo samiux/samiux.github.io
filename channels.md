@@ -734,6 +734,7 @@
 - [新冠感染“乙类乙管”首日，首批入境旅客顺利通关 -- 观察者网 ](https://www.guancha.cn/politics/2023_01_08_674774.shtml)  
 - [外媒：「三駕馬車」中，唯獨中國有望加速前進 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12045900-%e5%a4%96%e5%aa%92%ef%bc%9a%e3%80%8c%e4%b8%89%e9%a7%95%e9%a6%ac%e8%bb%8a%e3%80%8d%e4%b8%ad%ef%bc%8c%e5%94%af%e7%8d%a8%e4%b8%ad%e5%9c%8b%e6%9c%89%e6%9c%9b%e5%8a%a0%e9%80%9f%e5%89%8d%e9%80%b2)  
 - [ 第172期：展望中国经济发展光明前景，如何去理解、把握高质量发展？听#张维为#李世默 谈谈高质量发展 --《#这就是中国》#ChinaNow EP172 20230116【东方卫视官方频道】 ](https://www.youtube.com/watch?v=m5xEu0V0jq0)  
+- [国家统计局：2022年中国GDP超121万亿元，比上年增长3.0% -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676240.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
