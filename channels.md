@@ -301,6 +301,8 @@
 - [“人造太阳”基础物理研究取得新进展 -- 央视新闻](https://www.guancha.cn/industry-science/2023_01_07_674629.shtml)  
 - [(附字幕) 盧永雄「巴士的點評」俄軍迎來久違的勝利，烏東奪城取巨大地下網絡。中國用「芯粒」新技術，突破4納米芯片量產，更定出中國標準 。 23年1月12日](https://www.youtube.com/watch?v=QScsScx1wiU)  
 - [科工力量：性能接近国际巨头后，龙芯将迎来什么？ -- 观察者网](https://www.guancha.cn/kegongliliang/2023_01_13_675646_1.shtml)  
+- [中国取得反激光技术的突破 -- 晨枫](https://user.guancha.cn/main/content?id=917727)  
+- [在AMD“地基”上造CPU，海光信息业绩增速为何大幅放缓 -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676316.shtml)  
 
 ## Misc.
 
