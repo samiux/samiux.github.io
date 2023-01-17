@@ -68,6 +68,8 @@
 - [盧永雄「巴士的點評」中國全力打造「中國星鏈」，要射1萬粒衛星。 封控錯， 開放也錯，新華社轟西方媒體：中國怎麼做都是錯的。 23年1月15日](https://www.youtube.com/watch?v=bEx4Dwxw_mo)  
 - [科工力量：性能接近国际巨头后，龙芯将迎来什么？ -- 观察者网](https://www.guancha.cn/kegongliliang/2023_01_13_675646_1.shtml)  
 - [【中國焦點新聞】山東艦停滿殲15，專家：航母保障和戰力已形成完整規範。美軍海軍陸戰隊幫忙修補第一島鏈，濱海作戰團能阻止解放軍進入西太？23年1月16日](https://www.youtube.com/watch?v=oedfjY-CZNM)  
+- [中国取得反激光技术的突破 -- 晨枫](https://user.guancha.cn/main/content?id=917727)  
+- [在AMD“地基”上造CPU，海光信息业绩增速为何大幅放缓 -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676316.shtml)  
 
 ## 美国军工
 
