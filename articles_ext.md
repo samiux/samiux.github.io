@@ -70,6 +70,7 @@
 - [【中國焦點新聞】山東艦停滿殲15，專家：航母保障和戰力已形成完整規範。美軍海軍陸戰隊幫忙修補第一島鏈，濱海作戰團能阻止解放軍進入西太？23年1月16日](https://www.youtube.com/watch?v=oedfjY-CZNM)  
 - [中国取得反激光技术的突破 -- 晨枫](https://user.guancha.cn/main/content?id=917727)  
 - [在AMD“地基”上造CPU，海光信息业绩增速为何大幅放缓 -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676316.shtml)  
+- [美国学者：中国偷窃美国技术？纯粹是无稽之谈 -- 观察者](https://www.guancha.cn/video/gczvideo/content.html?id=14771)  
 
 ## 美国军工
 
@@ -83,6 +84,8 @@
 - [【中國焦點新聞】東部戰區100架殲20形成完全戰鬥力，掌控東海上空絕對制空權。中國戰機「危險貼近」? 解放軍公開影片駁斥美軍顛倒黑白。23年1月1日](https://www.youtube.com/watch?v=-PX4f5Xs45M)  
 - [【中國焦點新聞】遼寧艦航母證實在第二島鏈打擊能力，美國開始考慮退守防衛夏威夷。新年開訓！東部戰區殲-20展開空對空對決。23年1月7日](https://www.youtube.com/watch?v=Y6hOXtRxIwg)  
 - [【中國焦點新聞】山東艦停滿殲15，專家：航母保障和戰力已形成完整規範。美軍海軍陸戰隊幫忙修補第一島鏈，濱海作戰團能阻止解放軍進入西太？23年1月16日](https://www.youtube.com/watch?v=oedfjY-CZNM)  
+- [美9萬噸巨艦改成無人機航母 美媒：中國無人母艦讓美軍感受到壓力 -- 止戈堂](https://www.bastillepost.com/hongkong/article/12104349-%e7%be%8e9%e8%90%ac%e5%99%b8%e5%b7%a8%e8%89%a6%e6%94%b9%e6%88%90%e7%84%a1%e4%ba%ba%e6%a9%9f%e8%88%aa%e6%af%8d-%e7%be%8e%e5%aa%92%ef%bc%9a%e4%b8%ad%e5%9c%8b%e7%84%a1%e4%ba%ba%e6%af%8d%e8%89%a6%e8%ae%93)  
+- [美国学者：中国偷窃美国技术？纯粹是无稽之谈 -- 观察者](https://www.guancha.cn/video/gczvideo/content.html?id=14771)  
 
 ### 翻墙违法了吗？
 
