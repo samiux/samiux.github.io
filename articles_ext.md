@@ -71,6 +71,8 @@
 - [中国取得反激光技术的突破 -- 晨枫](https://user.guancha.cn/main/content?id=917727)  
 - [在AMD“地基”上造CPU，海光信息业绩增速为何大幅放缓 -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676316.shtml)  
 - [美国学者：中国偷窃美国技术？纯粹是无稽之谈 -- 观察者](https://www.guancha.cn/video/gczvideo/content.html?id=14771)  
+- [F35 升级APG-85雷达，终于要追上我国十年前的技术水平了 -- 马上就好咕咕咕](https://user.guancha.cn/main/content?id=920030)  
+- [中美东海顶级交锋：F35加速逃离后，歼20飞行员这个动作太霸气了 -- 双马尾班长](https://mp.weixin.qq.com/s/hfoch3FNOm2W6yAaS9pU7w)  
 
 ## 美国军工
 
@@ -86,6 +88,8 @@
 - [【中國焦點新聞】山東艦停滿殲15，專家：航母保障和戰力已形成完整規範。美軍海軍陸戰隊幫忙修補第一島鏈，濱海作戰團能阻止解放軍進入西太？23年1月16日](https://www.youtube.com/watch?v=oedfjY-CZNM)  
 - [美9萬噸巨艦改成無人機航母 美媒：中國無人母艦讓美軍感受到壓力 -- 止戈堂](https://www.bastillepost.com/hongkong/article/12104349-%e7%be%8e9%e8%90%ac%e5%99%b8%e5%b7%a8%e8%89%a6%e6%94%b9%e6%88%90%e7%84%a1%e4%ba%ba%e6%a9%9f%e8%88%aa%e6%af%8d-%e7%be%8e%e5%aa%92%ef%bc%9a%e4%b8%ad%e5%9c%8b%e7%84%a1%e4%ba%ba%e6%af%8d%e8%89%a6%e8%ae%93)  
 - [美国学者：中国偷窃美国技术？纯粹是无稽之谈 -- 观察者](https://www.guancha.cn/video/gczvideo/content.html?id=14771)  
+- [F35 升级APG-85雷达，终于要追上我国十年前的技术水平了 -- 马上就好咕咕咕](https://user.guancha.cn/main/content?id=920030)  
+- [中美东海顶级交锋：F35加速逃离后，歼20飞行员这个动作太霸气了 -- 双马尾班长](https://mp.weixin.qq.com/s/hfoch3FNOm2W6yAaS9pU7w)  
 
 ### 翻墙违法了吗？
 
