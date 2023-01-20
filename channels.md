@@ -724,6 +724,8 @@
 - [美疾控监测到“风险信号”：辉瑞二价疫苗或增加老年人中风风险 -- 观察者网](https://www.guancha.cn/internation/2023_01_14_675927.shtml)  
 - [为何新冠治疗药物也是艾滋病相关药物？专家解疑 -- 健康时报](https://www.guancha.cn/politics/2023_01_16_676064.shtml)  
 - [为防感染老人不出门？专家：需综合判断，心理健康也很重要 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21580378)  
+- [** 专家：治疗新冠疗效相当，单疗程化湿败毒颗粒价格约为辉瑞Paxlovid十分之一 -- 人民日报](https://www.guancha.cn/politics/2023_01_20_676723.shtml)  
+- [国药集团：奥密克戎株新冠mRNA疫苗获国家药监局临床批件 -- 观察者网](https://www.guancha.cn/politics/2023_01_20_676738.shtml)  
 
 ## 新冠过后中国经济
 
