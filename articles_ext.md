@@ -146,6 +146,7 @@
 - [中方代表在聯合國安理會上點名美國 -- 通視](https://www.youtube.com/watch?v=5WXCs4QzR_M)  
 - [张军大使：在国际法治问题上要警惕双重标准和例外主义 -- 中华人民共和国常驻联合国代表团](http://un.china-mission.gov.cn/dbtxx/czdbzjds/zjdshd/202301/t20230113_11006710.htm)  
 - [张军大使：在国际法治问题上要警惕双重标准和例外主义](https://youtu.be/EX-RDBxeNEE)  
+- [美媒爆料索罗斯是多家媒体大金主，扎哈罗娃：美国民主被扔进了垃圾箱 -- 观察者网](https://www.guancha.cn/internation/2023_01_21_676870.shtml)  
 
 ## 文明型国家
 
