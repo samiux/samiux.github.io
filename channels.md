@@ -303,6 +303,7 @@
 - [科工力量：性能接近国际巨头后，龙芯将迎来什么？ -- 观察者网](https://www.guancha.cn/kegongliliang/2023_01_13_675646_1.shtml)  
 - [中国取得反激光技术的突破 -- 晨枫](https://user.guancha.cn/main/content?id=917727)  
 - [在AMD“地基”上造CPU，海光信息业绩增速为何大幅放缓 -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676316.shtml)  
+- [“奋斗者”号再探底！人类历史上首次抵达蒂阿蔓蒂那海沟最深点 -- 央视新闻](https://www.guancha.cn/politics/2023_01_22_676981.shtml)  
 
 ## Misc.
 
@@ -728,6 +729,7 @@
 - [国药集团：奥密克戎株新冠mRNA疫苗获国家药监局临床批件 -- 观察者网](https://www.guancha.cn/politics/2023_01_20_676738.shtml)  
 - [世衞研究：曾感染新冠並接種疫苗形成的免疫保護可持續一年 -- 大公文匯](https://www.tkww.hk/a/202301/20/AP63cab144e4b01fafd0f9d9a1.html)  
 - [吴尊友最新研判：春节期间出现第二波疫情的可能性很小 -- 观察者网](https://www.guancha.cn/politics/2023_01_21_676897.shtml)  
+- [1月13日至19日，31省区市在院新冠相关死亡病例12658例 -- 观察者网](https://www.guancha.cn/politics/2023_01_22_676985.shtml)  
 
 ## 新冠过后中国经济
 
