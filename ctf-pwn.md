@@ -35,7 +35,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 
 - __sha256 : 625f9dd09aec7e23584b5740b94f2bb5596261ce6ce8b9a0f4a2f37f0232ab3d -- PwnCTF 22.04_v20230122.ova (Glibc 2.35)__  
 
-- [Download PwnCTF 22.04_v20230122.ova (5.67GB)](<(https://drive.google.com/file/d/1ds6ldAXGV8JADhHU0pYuTGmyTyIaLjDa/view?usp=sharing)>)  
+- [Download PwnCTF 22.04_v20230122.ova (5.67GB)](<https://drive.google.com/file/d/1ds6ldAXGV8JADhHU0pYuTGmyTyIaLjDa/view?usp=sharing>)  
 
 #### Changelog
 
