@@ -727,6 +727,7 @@
 - [** 专家：治疗新冠疗效相当，单疗程化湿败毒颗粒价格约为辉瑞Paxlovid十分之一 -- 人民日报](https://www.guancha.cn/politics/2023_01_20_676723.shtml)  
 - [国药集团：奥密克戎株新冠mRNA疫苗获国家药监局临床批件 -- 观察者网](https://www.guancha.cn/politics/2023_01_20_676738.shtml)  
 - [世衞研究：曾感染新冠並接種疫苗形成的免疫保護可持續一年 -- 大公文匯](https://www.tkww.hk/a/202301/20/AP63cab144e4b01fafd0f9d9a1.html)  
+- [吴尊友最新研判：春节期间出现第二波疫情的可能性很小 -- 观察者网](https://www.guancha.cn/politics/2023_01_21_676897.shtml)  
 
 ## 新冠过后中国经济
 
