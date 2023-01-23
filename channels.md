@@ -730,6 +730,7 @@
 - [世衞研究：曾感染新冠並接種疫苗形成的免疫保護可持續一年 -- 大公文匯](https://www.tkww.hk/a/202301/20/AP63cab144e4b01fafd0f9d9a1.html)  
 - [吴尊友最新研判：春节期间出现第二波疫情的可能性很小 -- 观察者网](https://www.guancha.cn/politics/2023_01_21_676897.shtml)  
 - [1月13日至19日，31省区市在院新冠相关死亡病例12658例 -- 观察者网](https://www.guancha.cn/politics/2023_01_22_676985.shtml)  
+- [世衞：尚未發現「德爾塔克戎」有更強致病力 -- 大公文匯](https://www.tkww.hk/a/202301/19/AP63c95ac0e4b01fafd0f96dc1.html)  
 
 ## 新冠过后中国经济
 
