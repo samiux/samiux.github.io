@@ -732,6 +732,7 @@
 - [1月13日至19日，31省区市在院新冠相关死亡病例12658例 -- 观察者网](https://www.guancha.cn/politics/2023_01_22_676985.shtml)  
 - [世衞：尚未發現「德爾塔克戎」有更強致病力 -- 大公文匯](https://www.tkww.hk/a/202301/19/AP63c95ac0e4b01fafd0f96dc1.html)  
 - [以色列30万新冠轻症患者数据研究：“长新冠”可在一年内消退 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21642229)  
+- [春节健康手册：“阳过”“阳康”还能聚餐么？如何保护家中“未阳”老人？ -- 央广网](https://www.thepaper.cn/newsDetail_forward_21677074)  
 
 ## 新冠过后中国经济
 
