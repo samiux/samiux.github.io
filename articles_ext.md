@@ -73,6 +73,7 @@
 - [美国学者：中国偷窃美国技术？纯粹是无稽之谈 -- 观察者](https://www.guancha.cn/video/gczvideo/content.html?id=14771)  
 - [F35 升级APG-85雷达，终于要追上我国十年前的技术水平了 -- 马上就好咕咕咕](https://user.guancha.cn/main/content?id=920030)  
 - [中美东海顶级交锋：F35加速逃离后，歼20飞行员这个动作太霸气了 -- 双马尾班长](https://mp.weixin.qq.com/s/hfoch3FNOm2W6yAaS9pU7w)  
+- [盧永雄「巴士的點評」中國10個月起好超級工廠，德國2年未動土。美軍評估面對數千枚東風導彈，F35無機會升空，換打法仍難打。 23年1月24日](https://www.youtube.com/watch?v=v52CR4-nbng)  
 
 ## 美国军工
 
@@ -90,6 +91,7 @@
 - [美国学者：中国偷窃美国技术？纯粹是无稽之谈 -- 观察者](https://www.guancha.cn/video/gczvideo/content.html?id=14771)  
 - [F35 升级APG-85雷达，终于要追上我国十年前的技术水平了 -- 马上就好咕咕咕](https://user.guancha.cn/main/content?id=920030)  
 - [中美东海顶级交锋：F35加速逃离后，歼20飞行员这个动作太霸气了 -- 双马尾班长](https://mp.weixin.qq.com/s/hfoch3FNOm2W6yAaS9pU7w)  
+- [盧永雄「巴士的點評」中國10個月起好超級工廠，德國2年未動土。美軍評估面對數千枚東風導彈，F35無機會升空，換打法仍難打。 23年1月24日](https://www.youtube.com/watch?v=v52CR4-nbng)  
 
 ### 翻墙违法了吗？
 
