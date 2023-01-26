@@ -733,6 +733,7 @@
 - [世衞：尚未發現「德爾塔克戎」有更強致病力 -- 大公文匯](https://www.tkww.hk/a/202301/19/AP63c95ac0e4b01fafd0f96dc1.html)  
 - [以色列30万新冠轻症患者数据研究：“长新冠”可在一年内消退 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21642229)  
 - [春节健康手册：“阳过”“阳康”还能聚餐么？如何保护家中“未阳”老人？ -- 央广网](https://www.thepaper.cn/newsDetail_forward_21677074)  
+- [中疾控：在院新冠死亡病例較峰值下降79.0% 未發現新的變異株 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12147745-%e4%b8%ad%e7%96%be%e6%8e%a7%ef%bc%9a%e5%9c%a8%e9%99%a2%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e7%97%85%e4%be%8b%e8%bc%83%e5%b3%b0%e5%80%bc%e4%b8%8b%e9%99%8d79-0-%e6%9c%aa%e7%99%bc%e7%8f%be%e6%96%b0)  
 
 ## 新冠过后中国经济
 
