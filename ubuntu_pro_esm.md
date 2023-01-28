@@ -56,5 +56,6 @@ January 27, 2023, Hong Kong, China
 - [Ubuntu Pro](https://ubuntu.com/pro)  
 - [Ubuntu One](https://login.ubuntu.com/)  
 - [Ubuntu Pro Attach](https://ubuntu.com/pro/attach)  
+- [Ubuntu Pro Tutorial](https://ubuntu.com/pro/tutorial)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
