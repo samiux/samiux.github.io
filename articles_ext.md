@@ -75,6 +75,7 @@
 - [中美东海顶级交锋：F35加速逃离后，歼20飞行员这个动作太霸气了 -- 双马尾班长](https://mp.weixin.qq.com/s/hfoch3FNOm2W6yAaS9pU7w)  
 - [盧永雄「巴士的點評」中國10個月起好超級工廠，德國2年未動土。美軍評估面對數千枚東風導彈，F35無機會升空，換打法仍難打。 23年1月24日](https://www.youtube.com/watch?v=v52CR4-nbng)  
 - [观察 - 为打赢新型大国战争，美海军陆战队探索新“蛙跳战术” -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21673301)  
+- [塑料弹、无后坐力弹，中国轻武器又在鼓捣什么黑科技？- 轻武专栏 -- 军武次位面](https://user.guancha.cn/main/content?id=925225)  
 
 ## 美国军工
 
@@ -95,6 +96,7 @@
 - [盧永雄「巴士的點評」中國10個月起好超級工廠，德國2年未動土。美軍評估面對數千枚東風導彈，F35無機會升空，換打法仍難打。 23年1月24日](https://www.youtube.com/watch?v=v52CR4-nbng)  
 - [观察 - 为打赢新型大国战争，美海军陆战队探索新“蛙跳战术” -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21673301)  
 - [美智库再次模拟台海冲突：美或在7日内耗尽关键武器 -- 观察者网](https://www.guancha.cn/internation/2023_01_25_677277.shtml)  
+- [美军吸气式高超音速武器“最后一次成功试射” -- 观察者网](https://www.guancha.cn/military-affairs/2023_01_31_677970.shtml)  
 
 ### 翻墙违法了吗？
 
