@@ -6,7 +6,7 @@
 
 资料搜集工具有 nmap、gobuster 等。而网站或网页程序攻击和分析工具有 burp suite 等。至于攻击技术和技巧可以到 burp suite 的官网 (PortSwigger) 学习。官网有一个免费的靶场可供练习和学习，而且更提供有关证书考核呢。
 
-若果在入侵时需要用到后门的话，例如 Web Shell 等，可以到反向后门网站 (Reverse Shell Generator) 获得。
+若果在入侵时需要用到后门的话，例如 Web Shell 等，可以到反向后门产生器网站 (Reverse Shell Generator) 获得。
 
 至于入侵后的提权方法是需要在线上搜寻和学习了。因为每部靶机的设定都不大相同，所以方法各异。如果能够拿到 user.txt 的已经不错了，若果能够提权取下 root.txt 那就更好呢。
 
