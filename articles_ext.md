@@ -76,6 +76,7 @@
 - [盧永雄「巴士的點評」中國10個月起好超級工廠，德國2年未動土。美軍評估面對數千枚東風導彈，F35無機會升空，換打法仍難打。 23年1月24日](https://www.youtube.com/watch?v=v52CR4-nbng)  
 - [观察 - 为打赢新型大国战争，美海军陆战队探索新“蛙跳战术” -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21673301)  
 - [塑料弹、无后坐力弹，中国轻武器又在鼓捣什么黑科技？- 轻武专栏 -- 军武次位面](https://user.guancha.cn/main/content?id=925225)  
+- [中国量子计算机“悟空”即将问世，国内首条量子芯片生产线亮相 -- 观察者网](https://www.guancha.cn/industry-science/2023_02_01_678117.shtml)  
 
 ## 美国军工
 
