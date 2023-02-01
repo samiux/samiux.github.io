@@ -737,6 +737,7 @@
 - [中疾控：在院新冠死亡病例較峰值下降79.0% 未發現新的變異株 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12147745-%e4%b8%ad%e7%96%be%e6%8e%a7%ef%bc%9a%e5%9c%a8%e9%99%a2%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e7%97%85%e4%be%8b%e8%bc%83%e5%b3%b0%e5%80%bc%e4%b8%8b%e9%99%8d79-0-%e6%9c%aa%e7%99%bc%e7%8f%be%e6%96%b0)  
 - [国内已有五款新冠口服药上市，两款国产药同日获批 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21728903)  
 - [中疾控：CH.1.1短期内不会引起本土大规模流行 -- 中国疾控](https://www.thepaper.cn/newsDetail_forward_21748843)  
+- [中疾控：在院新冠感染死亡病例数1月30日下降至434例 -- 中疾控中心](https://www.thepaper.cn/newsDetail_forward_21761755)  
 
 ## 新冠过后中国经济
 
