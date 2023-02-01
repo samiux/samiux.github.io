@@ -6,7 +6,7 @@
 
 资料搜集工具有 nmap、gobuster 等。而网站或网页程序攻击和分析工具有 burp suite 等。至于攻击技术和技巧可以到 burp suite 的官网 (PortSwigger) 学习。官网有一个免费的靶场可供练习和学习，而且更提供有关证书考核呢。
 
-若果在入侵时需要用到后门的话，例如 Web Shell 等，可以到反向后门网站 (revshells) 获得。
+若果在入侵时需要用到后门的话，例如 Web Shell 等，可以到反向后门网站 (Reverse Shell Generator) 获得。
 
 至于入侵后的提权方法是需要在线上搜寻和学习了。因为每部靶机的设定都不大相同，所以方法各异。如果能够拿到 user.txt 的已经不错了，若果能够提权取下 root.txt 那就更好呢。
 
@@ -21,7 +21,7 @@ OSCE  OSCP  OSWP
 - [HackTheBox](https://www.hackthebox.com/)  
 - [burp suite 官网](https://portswigger.net/)  
 - [PortSwigger 学堂](https://portswigger.net/web-security/learning-path)  
-- [revshells](https://revshells.com)  
+- [Reverse Shell Generator](https://revshells.com)  
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/featured)  
 - [CryptoCat](https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ)  
 
