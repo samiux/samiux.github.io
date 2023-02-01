@@ -734,6 +734,8 @@
 - [以色列30万新冠轻症患者数据研究：“长新冠”可在一年内消退 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21642229)  
 - [春节健康手册：“阳过”“阳康”还能聚餐么？如何保护家中“未阳”老人？ -- 央广网](https://www.thepaper.cn/newsDetail_forward_21677074)  
 - [中疾控：在院新冠死亡病例較峰值下降79.0% 未發現新的變異株 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12147745-%e4%b8%ad%e7%96%be%e6%8e%a7%ef%bc%9a%e5%9c%a8%e9%99%a2%e6%96%b0%e5%86%a0%e6%ad%bb%e4%ba%a1%e7%97%85%e4%be%8b%e8%bc%83%e5%b3%b0%e5%80%bc%e4%b8%8b%e9%99%8d79-0-%e6%9c%aa%e7%99%bc%e7%8f%be%e6%96%b0)  
+- [国内已有五款新冠口服药上市，两款国产药同日获批 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21728903)  
+- [中疾控：CH.1.1短期内不会引起本土大规模流行 -- 中国疾控](https://www.thepaper.cn/newsDetail_forward_21748843)  
 
 ## 新冠过后中国经济
 
@@ -748,6 +750,7 @@
 - [ 第172期：展望中国经济发展光明前景，如何去理解、把握高质量发展？听#张维为#李世默 谈谈高质量发展 --《#这就是中国》#ChinaNow EP172 20230116【东方卫视官方频道】 ](https://www.youtube.com/watch?v=m5xEu0V0jq0)  
 - [国家统计局：2022年中国GDP超121万亿元，比上年增长3.0% -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676240.shtml)  
 - [人民币持续走强：中国经济强势复苏 -- 观察者网](https://www.guancha.cn/economy/2023_01_20_676746.shtml)  
+- [联合国报告预测：2023年世界经济增长1.9%，中国4.8% -- 央视新闻](https://www.guancha.cn/economy/2023_01_27_677490.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
