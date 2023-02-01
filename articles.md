@@ -36,6 +36,7 @@
 - [智能手机资安](/smartphone.md)
 - [网络空间安全及罪案消息 - 信用卡与电子支付](/e-pay.md)  
 - [Yet Another Cyber Defender](/cyberdefender.md)  
+- [我的 Ubuntu 笔记本](/ubuntu_laptop.md)  
 
 ### Hacker
 
