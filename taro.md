@@ -62,7 +62,7 @@ __Taro is designed and developed by Samiux based on Croissants (Croissants since
 
 ## MAIN COMPONENTS
 
-- Suricata 6.0.9  
+- Suricata 6.0.10  
 - Hyperscan 5.4.0 (Ubuntu 22.04)    
 
 ## DOCUMENTATION
