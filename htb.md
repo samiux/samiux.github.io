@@ -21,5 +21,7 @@ OSCE  OSCP  OSWP
 - [burp suite 官网](https://portswigger.net/)  
 - [PortSwigger 学堂](https://portswigger.net/web-security/learning-path)  
 - [revshells](https://revshells.com)  
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/featured)  
+- [CryptoCat](https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
