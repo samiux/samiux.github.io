@@ -753,6 +753,7 @@
 - [国家统计局：2022年中国GDP超121万亿元，比上年增长3.0% -- 观察者网](https://www.guancha.cn/economy/2023_01_17_676240.shtml)  
 - [人民币持续走强：中国经济强势复苏 -- 观察者网](https://www.guancha.cn/economy/2023_01_20_676746.shtml)  
 - [联合国报告预测：2023年世界经济增长1.9%，中国4.8% -- 央视新闻](https://www.guancha.cn/economy/2023_01_27_677490.shtml)  
+- [2022年全国城市GDP十强全部出炉，武汉超越杭州 -- 澎湃新闻](https://www.guancha.cn/economy/2023_02_01_678199.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
