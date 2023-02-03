@@ -96,6 +96,7 @@
 - [中文的信安电子书](/weread.md)  
 - [翻墙违法了吗？](/using_vpn.md)  
 - [1989 年春夏之交的政治风波 - 反革命暴乱](/june4.md)  
+- [若果中美不得不战](/china_usa.md)  
 
 ## Tutorials
 
