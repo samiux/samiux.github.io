@@ -134,5 +134,7 @@
 - [烏軍最快下周赴美接受愛國者系統訓練 俄駐美大使：美「參與」烏戰佐證 -- 深喉](https://www.bastillepost.com/hongkong/article/12063028-%e7%83%8f%e8%bb%8d%e6%9c%80%e5%bf%ab%e4%b8%8b%e5%91%a8%e8%b5%b4%e7%be%8e%e6%8e%a5%e5%8f%97%e6%84%9b%e5%9c%8b%e8%80%85%e7%b3%bb%e7%b5%b1%e8%a8%93%e7%b7%b4-%e4%bf%84%e9%a7%90%e7%be%8e%e5%a4%a7%e4%bd%bf)  
 - [费奥多尔·卢基扬诺夫：仗打到这个时候，俄罗斯看清这场冲突中的三个层次了吗？ -- 观察者网](https://www.guancha.cn/FyodorLukyanov/2023_01_16_676070_1.shtml)  
 - [大量出售高價油氣 美國借烏克蘭危機大發橫財 去年出口歐洲LNG暴漲154% -- 深喉](https://www.bastillepost.com/hongkong/article/12093983-%e5%a4%a7%e9%87%8f%e5%87%ba%e5%94%ae%e9%ab%98%e5%83%b9%e6%b2%b9%e6%b0%a3-%e7%be%8e%e5%9c%8b%e5%80%9f%e7%83%8f%e5%85%8b%e8%98%ad%e5%8d%b1%e6%a9%9f%e5%a4%a7%e7%99%bc%e6%a9%ab%e8%b2%a1-%e5%8e%bb%e5%b9%b4)  
+- [美国最新对乌军援，首次包含射程达150千米的远程精确制导火箭弹 -- 观察者网](https://www.guancha.cn/internation/2023_02_04_678523.shtml)  
+- [历史首次！美国批准将没收的俄罗斯寡头财产援助乌克兰 -- 观察者网](https://www.guancha.cn/internation/2023_02_04_678553.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
