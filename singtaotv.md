@@ -30,6 +30,7 @@
 - [10-15-2022 星電視快評—余非：對比660億美元援烏的道理，與普京的道理，是非對錯如何分辨？](https://www.youtube.com/watch?v=YbyUY08uSgY)  
 - [12-17-2022 星電視快評—余非：不宜忽略的、普京與士兵有關的三則新聞](https://www.youtube.com/watch?v=pUjTwIjez1Y)  
 - [12-31-2022 星電視快評—余非：俄檢視「特別軍事行動」的意義；赫爾松只取南岸能解決克里米亞淡水問題嗎？](https://www.youtube.com/watch?v=jZeG8bYpUCg)  
+- [01-30-2023 時事觀察 余非 俄烏戰事風險推高，不只是因軍援至坦克聯盟，是因為這有「毒」物質](https://www.youtube.com/watch?v=LBFcU3rheNM)  
 
 # 乌俄冲突
 
@@ -136,5 +137,6 @@
 - [大量出售高價油氣 美國借烏克蘭危機大發橫財 去年出口歐洲LNG暴漲154% -- 深喉](https://www.bastillepost.com/hongkong/article/12093983-%e5%a4%a7%e9%87%8f%e5%87%ba%e5%94%ae%e9%ab%98%e5%83%b9%e6%b2%b9%e6%b0%a3-%e7%be%8e%e5%9c%8b%e5%80%9f%e7%83%8f%e5%85%8b%e8%98%ad%e5%8d%b1%e6%a9%9f%e5%a4%a7%e7%99%bc%e6%a9%ab%e8%b2%a1-%e5%8e%bb%e5%b9%b4)  
 - [美国最新对乌军援，首次包含射程达150千米的远程精确制导火箭弹 -- 观察者网](https://www.guancha.cn/internation/2023_02_04_678523.shtml)  
 - [历史首次！美国批准将没收的俄罗斯寡头财产援助乌克兰 -- 观察者网](https://www.guancha.cn/internation/2023_02_04_678553.shtml)  
+- [01-30-2023 時事觀察 余非 俄烏戰事風險推高，不只是因軍援至坦克聯盟，是因為這有「毒」物質](https://www.youtube.com/watch?v=LBFcU3rheNM)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
