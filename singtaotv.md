@@ -138,5 +138,6 @@
 - [美国最新对乌军援，首次包含射程达150千米的远程精确制导火箭弹 -- 观察者网](https://www.guancha.cn/internation/2023_02_04_678523.shtml)  
 - [历史首次！美国批准将没收的俄罗斯寡头财产援助乌克兰 -- 观察者网](https://www.guancha.cn/internation/2023_02_04_678553.shtml)  
 - [01-30-2023 時事觀察 余非 俄烏戰事風險推高，不只是因軍援至坦克聯盟，是因為這有「毒」物質](https://www.youtube.com/watch?v=LBFcU3rheNM)  
+- [神聖不可侵犯的私有產權已經消失？ 美首次轉移俄寡頭資產助烏重建 -- 深喉](https://www.bastillepost.com/hongkong/article/12205204-%e7%a5%9e%e8%81%96%e4%b8%8d%e5%8f%af%e4%be%b5%e7%8a%af%e7%9a%84%e7%a7%81%e6%9c%89%e7%94%a2%e6%ac%8a%e5%b7%b2%e7%b6%93%e6%b6%88%e5%a4%b1%ef%bc%9f-%e7%be%8e%e9%a6%96%e6%ac%a1%e8%bd%89%e7%a7%bb%e4%bf%84)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
