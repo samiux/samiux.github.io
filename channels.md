@@ -739,6 +739,7 @@
 - [国内已有五款新冠口服药上市，两款国产药同日获批 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21728903)  
 - [中疾控：CH.1.1短期内不会引起本土大规模流行 -- 中国疾控](https://www.thepaper.cn/newsDetail_forward_21748843)  
 - [中疾控：在院新冠感染死亡病例数1月30日下降至434例 -- 中疾控中心](https://www.thepaper.cn/newsDetail_forward_21761755)  
+- [中國抗疫成功 -- 盧永雄](https://www.bastillepost.com/hongkong/article/12212838-%e4%b8%ad%e5%9c%8b%e6%8a%97%e7%96%ab%e6%88%90%e5%8a%9f)  
 
 ## 新冠过后中国经济
 
