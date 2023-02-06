@@ -99,6 +99,7 @@
 - [观察 - 为打赢新型大国战争，美海军陆战队探索新“蛙跳战术” -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21673301)  
 - [美智库再次模拟台海冲突：美或在7日内耗尽关键武器 -- 观察者网](https://www.guancha.cn/internation/2023_01_25_677277.shtml)  
 - [美军吸气式高超音速武器“最后一次成功试射” -- 观察者网](https://www.guancha.cn/military-affairs/2023_01_31_677970.shtml)  
+- [美军披露“福特”号航母去年出现4部挡焰板集体故障 -- 观察者网](https://www.guancha.cn/military-affairs/2023_02_06_678776.shtml)  
 
 ### 翻墙违法了吗？
 
@@ -157,6 +158,7 @@
 - [张军大使：在国际法治问题上要警惕双重标准和例外主义](https://youtu.be/EX-RDBxeNEE)  
 - [美媒爆料索罗斯是多家媒体大金主，扎哈罗娃：美国民主被扔进了垃圾箱 -- 观察者网](https://www.guancha.cn/internation/2023_01_21_676870.shtml)  
 - [無罪之「罪」——西班牙記者起底西方媒體抹黑中國的套路 -- 大公文匯](https://www.tkww.hk/a/202302/05/AP63df737ce4b0195a79d060f1.html)  
+- [西班牙記者揭外媒抹黑中國套路：好的一律不報　不好的添油加醋 -- 大公文匯](https://www.tkww.hk/a/202302/06/AP63e03660e4b0195a79d094e9.html)  
 
 ## 文明型国家
 
@@ -293,8 +295,7 @@
 
 - [美飛船今升空繞月　新登月計劃揭幕 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c1889e4b0a469029a2689.html)  
 - [美國新一代登月火箭發射推遲 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630cc092e4b0a469029a8150.html)  
-- [【交叉点评】盘点：美国历史上的6次载人登月任务，人类重返月球还要等多久？ -- 东方卫视环球交叉点
-](https://www.youtube.com/watch?v=TCU8kcwmWtA)  
+- [【交叉点评】盘点：美国历史上的6次载人登月任务，人类重返月球还要等多久？ -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=TCU8kcwmWtA)  
 - [瞞不住了！嫦娥5號這張高清照片打臉阿波羅！ -- 快看資訊](https://www.youtube.com/watch?v=tC_inJ_WJN4)  
 - [火箭引擎三難題威脅美新登月計劃　測試任務一波三折 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315455ce4b0a469029dcfdf.html)  
 - [更换部件后，美国新一代登月火箭加注测试再遭液氢泄露 -- 观察者网](https://www.guancha.cn/internation/2022_09_22_659065.shtml)  
