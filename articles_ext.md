@@ -78,6 +78,7 @@
 - [塑料弹、无后坐力弹，中国轻武器又在鼓捣什么黑科技？- 轻武专栏 -- 军武次位面](https://user.guancha.cn/main/content?id=925225)  
 - [中国量子计算机“悟空”即将问世，国内首条量子芯片生产线亮相 -- 观察者网](https://www.guancha.cn/industry-science/2023_02_01_678117.shtml)  
 - [量子通信网络更近一步！我国科学家实现模式匹配量子密钥分发 -- 央视新闻](https://www.guancha.cn/industry-science/2023_02_05_678629.shtml)  
+- [銀川艦萬里走單騎　連破三島鏈 -- 大公報](https://www.wenweipo.com/a/202302/06/AP63e09c8ce4b0ce76caa845c7.html)  
 
 ## 美国军工
 
