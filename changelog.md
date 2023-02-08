@@ -2,7 +2,7 @@
 
 ### Version - 6.0.10.1 [Stable, Latest]  
 Release date : 2023-02-08 - GMT+8  
-[+] Modified for Suricata 7.0.0    
+[+] Modified and prepared for Suricata 7.0.0    
 
 ### Version - 6.0.10.0   
 Release date : 2023-02-01 - GMT+8  
