@@ -31,6 +31,7 @@
 - [12-17-2022 星電視快評—余非：不宜忽略的、普京與士兵有關的三則新聞](https://www.youtube.com/watch?v=pUjTwIjez1Y)  
 - [12-31-2022 星電視快評—余非：俄檢視「特別軍事行動」的意義；赫爾松只取南岸能解決克里米亞淡水問題嗎？](https://www.youtube.com/watch?v=jZeG8bYpUCg)  
 - [01-30-2023 時事觀察 余非 俄烏戰事風險推高，不只是因軍援至坦克聯盟，是因為這有「毒」物質](https://www.youtube.com/watch?v=LBFcU3rheNM)  
+- [02-06-2023 時事觀察 余非 還拱火？看雙方死亡數字估算；德國豹2坦克觸動俄羅斯哪些記憶？俄烏戰事拖長跟中國及亞洲有何關聯？](https://www.youtube.com/watch?v=TwknB2op3io)  
 
 # 乌俄冲突
 
@@ -142,5 +143,6 @@
 - [普立茲獎得主爆猛料 「拜登下令炸北溪管道」-- 深喉](https://www.bastillepost.com/hongkong/article/12231753-%e6%99%ae%e7%ab%8b%e8%8c%b2%e7%8d%8e%e5%be%97%e4%b8%bb%e7%88%86%e7%8c%9b%e6%96%99-%e3%80%8c%e6%8b%9c%e7%99%bb%e4%b8%8b%e4%bb%a4%e7%82%b8%e5%8c%97%e6%ba%aa%e7%ae%a1%e9%81%93%e3%80%8d)  
 - [美国资深调查记者爆料“拜登下令炸北溪管道”，美俄回应 -- 观察者网](https://www.guancha.cn/internation/2023_02_09_679122.shtml)  
 - [美國炸毀「北溪」管道？俄外交部促美方回應 -- 大公文匯](https://www.tkww.hk/a/202302/09/AP63e46fc0e4b0195a79d2297a.html)  
+- [02-06-2023 時事觀察 余非 還拱火？看雙方死亡數字估算；德國豹2坦克觸動俄羅斯哪些記憶？俄烏戰事拖長跟中國及亞洲有何關聯？](https://www.youtube.com/watch?v=TwknB2op3io)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
