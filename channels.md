@@ -740,6 +740,7 @@
 - [中疾控：CH.1.1短期内不会引起本土大规模流行 -- 中国疾控](https://www.thepaper.cn/newsDetail_forward_21748843)  
 - [中疾控：在院新冠感染死亡病例数1月30日下降至434例 -- 中疾控中心](https://www.thepaper.cn/newsDetail_forward_21761755)  
 - [中國抗疫成功 -- 盧永雄](https://www.bastillepost.com/hongkong/article/12212838-%e4%b8%ad%e5%9c%8b%e6%8a%97%e7%96%ab%e6%88%90%e5%8a%9f)  
+- [中疾控：2月6日在院新冠病毒感染死亡病例下降至102例 -- 观察者网](https://www.guancha.cn/politics/2023_02_08_679109.shtml)  
 
 ## 新冠过后中国经济
 
@@ -756,6 +757,7 @@
 - [人民币持续走强：中国经济强势复苏 -- 观察者网](https://www.guancha.cn/economy/2023_01_20_676746.shtml)  
 - [联合国报告预测：2023年世界经济增长1.9%，中国4.8% -- 央视新闻](https://www.guancha.cn/economy/2023_01_27_677490.shtml)  
 - [2022年全国城市GDP十强全部出炉，武汉超越杭州 -- 澎湃新闻](https://www.guancha.cn/economy/2023_02_01_678199.shtml)  
+- [惠誉：中国经济迅速反弹，2023年经济增长预测调高至5% -- 观察者网](https://www.guancha.cn/internation/2023_02_08_679094.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
