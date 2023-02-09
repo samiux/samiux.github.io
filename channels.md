@@ -306,6 +306,7 @@
 - [“奋斗者”号再探底！人类历史上首次抵达蒂阿蔓蒂那海沟最深点 -- 央视新闻](https://www.guancha.cn/politics/2023_01_22_676981.shtml)  
 - [中国量子计算机“悟空”即将问世，国内首条量子芯片生产线亮相 -- 观察者网](https://www.guancha.cn/industry-science/2023_02_01_678117.shtml)  
 - [量子通信网络更近一步！我国科学家实现模式匹配量子密钥分发 -- 央视新闻](https://www.guancha.cn/industry-science/2023_02_05_678629.shtml)  
+- [世界首例内镜下脉冲电场肿瘤消融术在西安成功实施 -- 观察者网](https://www.guancha.cn/politics/2023_02_08_679095.shtml)  
 
 ## Misc.
 
