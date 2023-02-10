@@ -145,5 +145,7 @@
 - [美國炸毀「北溪」管道？俄外交部促美方回應 -- 大公文匯](https://www.tkww.hk/a/202302/09/AP63e46fc0e4b0195a79d2297a.html)  
 - [02-06-2023 時事觀察 余非 還拱火？看雙方死亡數字估算；德國豹2坦克觸動俄羅斯哪些記憶？俄烏戰事拖長跟中國及亞洲有何關聯？](https://www.youtube.com/watch?v=TwknB2op3io)  
 - [盧永雄「巴士的點評」民航機不易做，中國C919首飛，日本造飛機計劃泡湯了。普納茲獎得主爆料：美國潛水員在「北溪」管道放炸藥，挪威將之引爆。 23年2月9日](https://www.youtube.com/watch?v=CdTHzdFo_C8)  
+- [心里有鬼？著名记者爆料拜登政府密谋炸“北溪”，美媒却集体失声 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=g6AF7ScXXqg)  
+- [乌克兰要了坦克再要F16！拜登的援乌四步"套路":一勾二拒三拉四送 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=A6AYRGyouVE)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
