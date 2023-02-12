@@ -743,6 +743,7 @@
 - [中國抗疫成功 -- 盧永雄](https://www.bastillepost.com/hongkong/article/12212838-%e4%b8%ad%e5%9c%8b%e6%8a%97%e7%96%ab%e6%88%90%e5%8a%9f)  
 - [中疾控：2月6日在院新冠病毒感染死亡病例下降至102例 -- 观察者网](https://www.guancha.cn/politics/2023_02_08_679109.shtml)  
 - [吳尊友：近幾個月再出現新一波新冠疫情可能性較小 -- 大公文匯](https://www.tkww.hk/a/202302/09/AP63e4a773e4b0195a79d24365.html)  
+- [中疾控：2月3日至9日，全国累计在院新冠病毒感染相关死亡病例912例 -- 观察者网](https://www.guancha.cn/politics/2023_02_11_679471.shtml)  
 
 ## 新冠过后中国经济
 
