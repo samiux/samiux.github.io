@@ -79,6 +79,7 @@
 - [中国量子计算机“悟空”即将问世，国内首条量子芯片生产线亮相 -- 观察者网](https://www.guancha.cn/industry-science/2023_02_01_678117.shtml)  
 - [量子通信网络更近一步！我国科学家实现模式匹配量子密钥分发 -- 央视新闻](https://www.guancha.cn/industry-science/2023_02_05_678629.shtml)  
 - [銀川艦萬里走單騎　連破三島鏈 -- 大公報](https://www.wenweipo.com/a/202302/06/AP63e09c8ce4b0ce76caa845c7.html)  
+- [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
 
 ## 美国军工
 
@@ -101,6 +102,7 @@
 - [美智库再次模拟台海冲突：美或在7日内耗尽关键武器 -- 观察者网](https://www.guancha.cn/internation/2023_01_25_677277.shtml)  
 - [美军吸气式高超音速武器“最后一次成功试射” -- 观察者网](https://www.guancha.cn/military-affairs/2023_01_31_677970.shtml)  
 - [美军披露“福特”号航母去年出现4部挡焰板集体故障 -- 观察者网](https://www.guancha.cn/military-affairs/2023_02_06_678776.shtml)  
+- [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
 
 ### 翻墙违法了吗？
 
