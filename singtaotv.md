@@ -149,6 +149,8 @@
 - [心里有鬼？著名记者爆料拜登政府密谋炸“北溪”，美媒却集体失声 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=g6AF7ScXXqg)  
 - [乌克兰要了坦克再要F16！拜登的援乌四步"套路":一勾二拒三拉四送 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=A6AYRGyouVE)  
 - [02-13-2023 時事觀察 余非 讀美國資深記者長篇報導——看北溪管道被炸毀的過程、因何被炸；還有為何是挪威？](https://www.youtube.com/watch?v=jNkJ1OFt9uE)  
+- [How America Took Out The Nord Stream Pipeline -- Seymour Hersh](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream)  
+- [How America took out the Nord Stream Pipeline -- Seymour Hersh](https://peoplesdispatch.org/2023/02/10/how-america-took-out-the-nord-stream-pipeline/)  
 - [俄罗斯雅罗斯拉夫尔州天然气管道发生爆炸 -- 观察者网](https://www.guancha.cn/internation/2023_02_14_679713.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
