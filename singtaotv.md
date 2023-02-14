@@ -152,5 +152,7 @@
 - [How America Took Out The Nord Stream Pipeline -- Seymour Hersh](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream)  
 - [How America took out the Nord Stream Pipeline -- Seymour Hersh](https://peoplesdispatch.org/2023/02/10/how-america-took-out-the-nord-stream-pipeline/)  
 - [俄罗斯雅罗斯拉夫尔州天然气管道发生爆炸 -- 观察者网](https://www.guancha.cn/internation/2023_02_14_679713.shtml)  
+- [算法之战！“星链”卫星大量信息独家披露 揭秘“星链”卫星的军事潜力 激光武器能否与其对抗？「兵器面面观」-- 军迷天下](https://www.youtube.com/watch?v=RnnJrMqlJDU)  
+- [美记者爆料“北溪”事件后首次接受采访：这并不难查，我的同僚却成了政府掩护 -- 观察者网](https://www.guancha.cn/internation/2023_02_14_679833.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
