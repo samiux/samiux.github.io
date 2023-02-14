@@ -32,6 +32,7 @@
 - [12-31-2022 星電視快評—余非：俄檢視「特別軍事行動」的意義；赫爾松只取南岸能解決克里米亞淡水問題嗎？](https://www.youtube.com/watch?v=jZeG8bYpUCg)  
 - [01-30-2023 時事觀察 余非 俄烏戰事風險推高，不只是因軍援至坦克聯盟，是因為這有「毒」物質](https://www.youtube.com/watch?v=LBFcU3rheNM)  
 - [02-06-2023 時事觀察 余非 還拱火？看雙方死亡數字估算；德國豹2坦克觸動俄羅斯哪些記憶？俄烏戰事拖長跟中國及亞洲有何關聯？](https://www.youtube.com/watch?v=TwknB2op3io)  
+- [02-13-2023 時事觀察 余非 讀美國資深記者長篇報導——看北溪管道被炸毀的過程、因何被炸；還有為何是挪威？](https://www.youtube.com/watch?v=jNkJ1OFt9uE)  
 
 # 乌俄冲突
 
@@ -147,5 +148,7 @@
 - [盧永雄「巴士的點評」民航機不易做，中國C919首飛，日本造飛機計劃泡湯了。普納茲獎得主爆料：美國潛水員在「北溪」管道放炸藥，挪威將之引爆。 23年2月9日](https://www.youtube.com/watch?v=CdTHzdFo_C8)  
 - [心里有鬼？著名记者爆料拜登政府密谋炸“北溪”，美媒却集体失声 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=g6AF7ScXXqg)  
 - [乌克兰要了坦克再要F16！拜登的援乌四步"套路":一勾二拒三拉四送 -- 东方卫视环球交叉点](https://www.youtube.com/watch?v=A6AYRGyouVE)  
+- [02-13-2023 時事觀察 余非 讀美國資深記者長篇報導——看北溪管道被炸毀的過程、因何被炸；還有為何是挪威？](https://www.youtube.com/watch?v=jNkJ1OFt9uE)  
+- [俄罗斯雅罗斯拉夫尔州天然气管道发生爆炸 -- 观察者网](https://www.guancha.cn/internation/2023_02_14_679713.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
