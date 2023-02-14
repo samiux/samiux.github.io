@@ -272,6 +272,7 @@
 - [ 第168期：美国制度的困境是否会导致内战？听 #张维为 #范勇鹏 讲述美式民主的制度困境 --《#这就是中国》#ChinaNow EP168 20221128【东方卫视官方频道】 ](https://www.youtube.com/watch?v=KJh3etNIpn8)  
 - [惊现中国知名演员刘德华和周润发，国际反华组织捏造所谓“新疆警察名单”被群嘲 -- 观察者网](https://www.guancha.cn/internation/2023_01_11_675419_1.shtml)  
 - [逸语道破：读懂台湾问题的历史，你会发现情况正在发生重要变化 -- 观察者网](https://www.guancha.cn/ShenYi/2023_01_23_677059.shtml)  
+- [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 
 ### 贩卖人口骗案
 
