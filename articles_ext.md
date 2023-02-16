@@ -275,6 +275,7 @@
 - [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 - [美專家爆美國監視和顛覆中國案例 形容「可能是最厚顏無恥的秘密任務」-- 深喉](https://www.bastillepost.com/hongkong/article/12273708-%e7%be%8e%e5%b0%88%e5%ae%b6%e7%88%86%e7%be%8e%e5%9c%8b%e7%9b%a3%e8%a6%96%e5%92%8c%e9%a1%9b%e8%a6%86%e4%b8%ad%e5%9c%8b%e6%a1%88%e4%be%8b-%e5%bd%a2%e5%ae%b9%e3%80%8c%e5%8f%af%e8%83%bd%e6%98%af%e6%9c%80)  
 - [【K2搜尋 -- 第二季】EP66：炸地標、下令拆遷大興土木 「耿瘋子」市長竟萬民愛戴？](https://www.youtube.com/watch?v=5xk3WZNesUI)  
+- [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 
 ### 贩卖人口骗案
 
