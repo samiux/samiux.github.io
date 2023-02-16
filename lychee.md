@@ -25,24 +25,27 @@ CONFIG_FANOTIFY_ACCESS_PERMISSIONS is not set
 
 ## Softwares
 
-- ClamAV 1.0.0
+- ClamAV 1.0.1
 - Ubuntu 22.04.1 LTS and Fedora 37 are tested
 
 Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.4 (Dated JAN 05, 2023) (Latest)  
-- Minor modified
+### Version 0.5 (Dated FEB 16, 2023) (Latest)  
+- Updated to ClamAV 1.0.1  
+
+### Version 0.4 (Dated JAN 05, 2023)   
+- Minor modified  
 
 ### Version 0.3 (Dated JAN 01, 2023)   
-- Add configure file
+- Add configure file  
 
 ### Version 0.2 (Dated DEC 30, 2022)   
-- Add uninstallers
+- Add uninstallers  
 
 ### Version 0.1 (Dated DEC 28, 2022)   
-- First release for ClamAV 1.0.0
+- First release for ClamAV 1.0.0  
 
 Remarks : This script is developed by Samiux and it is released under GPLv3.  It is an Open Source Project.
 
