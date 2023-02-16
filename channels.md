@@ -183,6 +183,8 @@
 - [利剑新刃 -- 军迷天下](/pla_army_01.md)  
 - [第171期：非西方世界与西方世界的觉醒、中国的榜样作用对世界觉醒有何影响？和张维为一起聚焦世界进入“觉醒年代”！ --《#这就是中国》#ChinaNow EP171 20230102【东方卫视官方频道】](https://www.youtube.com/watch?v=M3rRWPD9SSg)  
 - [ 第172期：展望中国经济发展光明前景，如何去理解、把握高质量发展？听#张维为#李世默 谈谈高质量发展 --《#这就是中国》#ChinaNow EP172 20230116【东方卫视官方频道】 ](https://www.youtube.com/watch?v=m5xEu0V0jq0)  
+- [【K2搜尋 -- 第二季】EP66：炸地標、下令拆遷大興土木 「耿瘋子」市長竟萬民愛戴？](https://www.youtube.com/watch?v=5xk3WZNesUI)  
+- [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 
 ## Hong Kong
 
