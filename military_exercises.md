@@ -20,15 +20,15 @@
 森美力 (Samiux) (網名)  
 寫於二零一七年九月十八日，中國香港
 
-```sha256sum efa389c8a01475ddac06394c654c4b32fe6660a3c3527a8e3cc5c122a64f91d2  軍事演習-資安編-修訂二版.pdf```
+```sha256sum 948721145a22751122ece61a86f34f98b539fc86be1b04568ede2ce833dc708a  軍事演習-資安篇.pdf```
 
 如遇缺字或缺標點情況，請下載閱讀。
 
-下載 : [軍事演習-資安編-修訂二版.pdf](/pdf/軍事演習-資安編-修訂二版.pdf)
+下載 : [軍事演習-資安篇.pdf](/pdf/軍事演習-資安篇.pdf)
 
-<object data="/pdf/軍事演習-資安編-修訂二版.pdf" type="application/pdf" width="900px" height="700px">
-    <embed src="/pdf/軍事演習-資安編-修訂二版.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/軍事演習-資安編-修訂二版.pdf">Download PDF</a>.</p>
+<object data="/pdf/軍事演習-資安篇.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/軍事演習-資安篇.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/軍事演習-資安篇.pdf">Download PDF</a>.</p>
 </object>
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
