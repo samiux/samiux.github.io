@@ -95,7 +95,7 @@ sudo rm -R lychee
 
 ## Known issues
 
-- A more powerful CPU and more memory are required.  You will experience slow browsing speed of web pages when using Intel i7-4650U CPU (2 core 4 Threading).  ClamAV uses at least 3GB RAM.  
+- A more powerful CPU and more memory are required.  You will experience slow browsing speed of web pages when using Intel i7-4650U CPU and Intel i5-5300U (both are 2 core 4 Threading).  However, Intel i7-8750H and Intel i7-8550U as well as AMD R7-4800U have no such problem.  Meanwhile, ClamAV uses at least 3GB RAM.  
 - Non-existent directory will cause high CPU usage.  
 
 ## Reference
