@@ -80,7 +80,6 @@ sudo apt install git net-tools
 
 git clone https://github.com/samiux/taro
 
-cd taro
 ```
 
 ```bash
