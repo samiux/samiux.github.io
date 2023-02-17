@@ -95,7 +95,7 @@ sudo rm -R lychee
 
 ## Known issues
 
-Nil  
+A more powerful CPU and more memory are required.  You will experience slow launching speed of applications when using Intel i7-4650U CPU (2 core 4 Threading).  ClamAV uses at least 3GB RAM.  
 
 ## Reference
 
