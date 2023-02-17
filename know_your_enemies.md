@@ -22,7 +22,7 @@
 
 如遇缺字或缺標點情況，請下載閱讀。
 
-下載 : [知彼知己-資安編-修訂二版.pdf](/pdf/知彼知己-資安篇.pdf)
+下載 : [知彼知己-資安篇.pdf](/pdf/知彼知己-資安篇.pdf)
 
 <object data="/pdf/知彼知己-資安篇.pdf" type="application/pdf" width="900px" height="700px">
     <embed src="/pdf/知彼知己-資安篇.pdf">
