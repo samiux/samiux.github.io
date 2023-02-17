@@ -49,7 +49,7 @@ Remarks : ClamAV uses about 3GB RAM.
 
 Remarks : This script is developed by Samiux and it is released under GPLv3.  It is an Open Source Project.
 
-## Install
+## Install and/or Update
 
 Download the script.
 ```
