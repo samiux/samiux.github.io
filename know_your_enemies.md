@@ -18,15 +18,15 @@
 森美力 (Samiux) (網名)  
 寫於二零一七年八月廿六日，中國香港
 
-```sha256sum d8f86c145bd85501de0ba6f4937906f25453fcaa88419c10e145d31addaa7588  知彼知己-資安編-修訂二版.pdf```
+```sha256sum d10cc713be9db7e8eea183f933ccf36a4fd8f002acb8494d6bdaf3371a0709fa  知彼知己-資安篇.pdf```
 
 如遇缺字或缺標點情況，請下載閱讀。
 
-下載 : [知彼知己-資安編-修訂二版.pdf](/pdf/知彼知己-資安編-修訂二版.pdf)
+下載 : [知彼知己-資安編-修訂二版.pdf](/pdf/知彼知己-資安篇.pdf)
 
-<object data="/pdf/知彼知己-資安編-修訂二版.pdf" type="application/pdf" width="900px" height="700px">
-    <embed src="/pdf/知彼知己-資安編-修訂二版.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/知彼知己-資安編-修訂二版.pdf">Download PDF</a>.</p>
+<object data="/pdf/知彼知己-資安篇.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/知彼知己-資安篇.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/知彼知己-資安篇.pdf">Download PDF</a>.</p>
 </object>
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
