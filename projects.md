@@ -15,6 +15,7 @@
 - [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  (ACTIVE)  
 - [Garlic 大蒜- Intrusion Detection and Prevention System (Personal Computer)](/garlic.md)  (ACTIVE)   
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  (ACTIVE)  
+- [Kale 羽衣甘蓝 - Intrusion Detection System](/kale.md)  (ACTIVE)  
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 ## Capture The Flag (CTF)
