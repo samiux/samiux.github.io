@@ -747,6 +747,9 @@
 - [吳尊友：近幾個月再出現新一波新冠疫情可能性較小 -- 大公文匯](https://www.tkww.hk/a/202302/09/AP63e4a773e4b0195a79d24365.html)  
 - [中疾控：2月3日至9日，全国累计在院新冠病毒感染相关死亡病例912例 -- 观察者网](https://www.guancha.cn/politics/2023_02_11_679471.shtml)  
 - [中疾控：2月13日在院新冠病毒感染死亡病例数下降至9例 -- 中疾控网站](https://www.thepaper.cn/newsDetail_forward_21938682)  
+- [內地新增1例新冠變異株　中疾控最新通報 -- 大公文匯](https://www.tkww.hk/a/202302/16/AP63edd555e4b0195a79d5628c.html)  
+- [內地發現本土XBB變異株 專家指會否爆發大流行取決於兩點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12289312-%e5%b0%88%e5%ae%b6%e6%8c%87%e5%85%a7%e5%9c%b0%e5%85%8d%e7%96%ab%e5%b1%8f%e9%9a%9c%e7%89%a2%e5%9b%ba-%e6%96%b0%e5%a2%9e%e8%ae%8a%e7%95%b0%e6%a0%aa%e6%9c%83%e5%90%a6%e7%88%86%e7%99%bc%e5%a4%a7%e6%b5%81)  
+- [国内首次本土检出XBB.1.5，专家：短期内不会在国内引起大规模传播 -- 健康时报](https://www.guancha.cn/politics/2023_02_18_680322.shtml)  
 
 ## 新冠过后中国经济
 
