@@ -261,20 +261,30 @@ The following is the recommended connection method of Croissants.  However, you 
 
 __Network Based__
 
+
 ```bash
-                        (Incoming)            (Outgoing)
-Internet --- Modem (if any) --- Croissants ------------------ Switch --- PCs
-                                    |          Wifi AP ---------| |
-                                    +-----------------------------+
-                                             (Management)
+                                                                                +------- WIFI AP
+                                                                                |       (if any)
+         (Incoming)             (Outgoing, WAN)           (LAN)                 |
+   Modem ----------- Croissants ---------------- Router -------- Switch --------+
+                          |                      (WIFI)             |           |
+                          |                                         |           |
+                          +-----------------------------------------+           +------- PCs
+                                         (Monitoring)
+
 ```
 ```bash
-      (Incoming)           (Outgoing)
-5G Modem --- Croissants ------------------- Switch --- PCs
-                 |          Wifi AP ---------| |
-                 +-----------------------------+
-                         (Management)
+                                                                    +------- WIFI AP
+                                                                    |
+         (Incoming)            (Outgoing, Port #1)                  |
+5G Modem ----------- Croissants ---------------- Switch ------------+
+WIFI Router (unused)      |                        |                |
+                          |                        |                |
+                          +------------------------+                +------- PCs
+                                 (Monitoring)
+
 ```
+
 Do not use the wifi that comes with 5G modem as the traffic flow does not protected by Croissants.
 
 <!--- ![](https://raw.githubusercontent.com/samiux/images/master/idps/croissants.png) --->    
