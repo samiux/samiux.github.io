@@ -262,14 +262,18 @@ The following is the recommended connection method of Croissants.  However, you 
 __Network Based__
 
 ```bash
-Internet --- Modem (if any) --- Croissants --- Wifi AP ------- Switch --- PCs
-                                    |                             |
+                        (Incoming)            (Outgoing)
+Internet --- Modem (if any) --- Croissants ------------------ Switch --- PCs
+                                    |          Wifi AP ---------| |
                                     +-----------------------------+
+                                             (Management)
 ```
 ```bash
-5G Modem --- Croissants --- Wifi AP ------- Switch --- PCs
-                 |                             |
+      (Incoming)           (Outgoing)
+5G Modem --- Croissants ------------------- Switch --- PCs
+                 |          Wifi AP ---------| |
                  +-----------------------------+
+                         (Management)
 ```
 Do not use the wifi that comes with 5G modem as the traffic flow does not protected by Croissants.
 
