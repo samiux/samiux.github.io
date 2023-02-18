@@ -80,6 +80,7 @@
 - [量子通信网络更近一步！我国科学家实现模式匹配量子密钥分发 -- 央视新闻](https://www.guancha.cn/industry-science/2023_02_05_678629.shtml)  
 - [銀川艦萬里走單騎　連破三島鏈 -- 大公報](https://www.wenweipo.com/a/202302/06/AP63e09c8ce4b0ce76caa845c7.html)  
 - [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
+- [中国突破了高超音速飞机的关键技术 -- 晨枫](https://user.guancha.cn/main/content?id=936296&s=fwzxhfbt)  
 
 ## 美国军工
 
@@ -163,6 +164,7 @@
 - [無罪之「罪」——西班牙記者起底西方媒體抹黑中國的套路 -- 大公文匯](https://www.tkww.hk/a/202302/05/AP63df737ce4b0195a79d060f1.html)  
 - [西班牙記者揭外媒抹黑中國套路：好的一律不報　不好的添油加醋 -- 大公文匯](https://www.tkww.hk/a/202302/06/AP63e03660e4b0195a79d094e9.html)  
 - [美國資深傳媒人：中國不是我們的敵人，我們才是恐怖份子？ -- Lorey 快閃講](https://www.youtube.com/watch?v=_c956w__0EI)  
+- [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
 
 ## 文明型国家
 
@@ -276,6 +278,7 @@
 - [美專家爆美國監視和顛覆中國案例 形容「可能是最厚顏無恥的秘密任務」-- 深喉](https://www.bastillepost.com/hongkong/article/12273708-%e7%be%8e%e5%b0%88%e5%ae%b6%e7%88%86%e7%be%8e%e5%9c%8b%e7%9b%a3%e8%a6%96%e5%92%8c%e9%a1%9b%e8%a6%86%e4%b8%ad%e5%9c%8b%e6%a1%88%e4%be%8b-%e5%bd%a2%e5%ae%b9%e3%80%8c%e5%8f%af%e8%83%bd%e6%98%af%e6%9c%80)  
 - [【K2搜尋 -- 第二季】EP66：炸地標、下令拆遷大興土木 「耿瘋子」市長竟萬民愛戴？](https://www.youtube.com/watch?v=5xk3WZNesUI)  
 - [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
+- [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
 
 ### 贩卖人口骗案
 
