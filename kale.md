@@ -14,14 +14,20 @@
 
 ## Features
 
-- No UI
+- No UI, No overhead
 - Log marked with "wDrop" is susposed to be blocked by rule  
 - Auto update  
  
 ## License
  
- Kale is released under GPLv3 and is developed by Samiux.
- 
+Kale is released under GPLv3 and is developed by Samiux.
+
+## Change Log
+
+### Version 6.0.10.0 (Latest, Stable)  
+Released on Feb 18, 2023 (GMT +8)  
+- First released  
+
 ## Install
 
 ```bash
