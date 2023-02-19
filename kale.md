@@ -11,6 +11,9 @@
 ## Hardware Requirement
 
 - Management switch with port mirroring function  
+- Multi-core x86 CPU with AVX2 (at least SSE4.2)  
+- Kale uses at least 1GB RAM  
+- at least 128GB SSD  
 
 ## Features
 
