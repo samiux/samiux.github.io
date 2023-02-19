@@ -18,7 +18,7 @@
 - Log marked with "wDrop" is susposed to be blocked by rule  
 - Auto update  
  
- ## License
+## License
  
  Kale is released under GPLv3 and is developed by Samiux.
  
