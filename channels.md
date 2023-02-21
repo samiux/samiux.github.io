@@ -37,6 +37,7 @@
 - [玉渊谭天 - 用简单逻辑看复杂世界 -- 视频新闻 / 图文新闻](https://new.qq.com/omn/author/17419139)  
 - [中国军队国际形象网宣片《PLA》发布! ](https://mp.weixin.qq.com/s/GpMkKJaa0IWU4s5_OXkSxA)  
 - [罗思义：对比中西三年抗疫成绩单，新冠疫情是一面“照妖镜” -- 观察者网](https://www.guancha.cn/LuoSiYi/2023_01_09_674870_1.shtml)  
+- [美国的霸权霸道霸凌及其危害 -- 外交部](https://www.fmprc.gov.cn/wjbxw_new/202302/t20230220_11027619.shtml)  
 
 ## Red Team vs Blue Team  (PLA)  
 
