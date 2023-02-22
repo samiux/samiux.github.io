@@ -160,5 +160,6 @@
 - [俄军：乌军向俄军阵地投掷化学弹药，两名俄军士兵出现中毒反应 -- 观察者网](https://www.guancha.cn/internation/2023_02_18_680407.shtml)  
 - [俄烏戰爭周年　西方武器庫存告急 -- 大公文匯](https://www.tkww.hk/a/202302/18/AP63f0361be4b0195a79d62f0f.html)  
 - [俄官員：已收集到多名美烏人員在烏境內從事生物武器研究的證據 -- 大公文匯](https://www.tkww.hk/a/202302/20/AP63f31c30e4b0195a79d70fb5.html)  
+- [烏成「武器實驗室」　助西方篩選裝備 -- 大公文匯](https://www.tkww.hk/a/202302/22/AP63f56799e4b0195a79d7c678.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
