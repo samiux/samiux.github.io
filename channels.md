@@ -38,6 +38,7 @@
 - [中国军队国际形象网宣片《PLA》发布! ](https://mp.weixin.qq.com/s/GpMkKJaa0IWU4s5_OXkSxA)  
 - [罗思义：对比中西三年抗疫成绩单，新冠疫情是一面“照妖镜” -- 观察者网](https://www.guancha.cn/LuoSiYi/2023_01_09_674870_1.shtml)  
 - [美国的霸权霸道霸凌及其危害 -- 外交部](https://www.fmprc.gov.cn/wjbxw_new/202302/t20230220_11027619.shtml)  
+- [（多圖）為什麼中國不會成為另一個美國？　華春瑩給出原因 -- 大公文匯](https://www.tkww.hk/a/202302/22/AP63f5cdf6e4b0195a79d80e4f.html)  
 
 ## Red Team vs Blue Team  (PLA)  
 
