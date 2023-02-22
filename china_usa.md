@@ -24,5 +24,7 @@ OSCE  OSCP  OSWP
 
 - [盧永雄「巴士的點評」美國菲律賓加4基地挑釁中國。你有基地，我有「鷹擊-21」，還有更厲害的在後頭，你頂得住嗎？ 23年2月8日](https://www.youtube.com/watch?v=4m-jbn506_U)  
 - [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
+- [【中國焦點新聞】 陸基洲際彈道導彈發射裝置超過美國，美媒稱中國可能在玩空殼遊戲。神舟十五號航天員完成首次出艙任務。23年2月10日](https://www.youtube.com/watch?v=GRKBvRg87Rw)  
+- [【中國焦點新聞】長距離奔襲5000公里，解放軍轟6K領銜演練遠程體系打擊能力。首台國產HA級重型燃機在秦皇島下線。23年2月16日](https://www.youtube.com/watch?v=Pjz5S-BcwMM)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
