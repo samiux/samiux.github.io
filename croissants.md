@@ -261,7 +261,14 @@ The following is the recommended connection method of Croissants.  However, you 
 
 __Network Based__
 
-
+```bash
+         (Incoming)             (Outgoing, WAN)              (LAN)           
+   Modem ----------- Croissants ---------------- Router ----------------- PCs
+                          |                      (WIFI)                      
+                          |                        | (LAN)                   
+                          +------------------------+                                            
+                                 (Monitoring)
+```
 ```bash
                                                                                 +------- WIFI AP
                                                                                 |       (if any)
