@@ -167,12 +167,16 @@
 - [西班牙記者揭外媒抹黑中國套路：好的一律不報　不好的添油加醋 -- 大公文匯](https://www.tkww.hk/a/202302/06/AP63e03660e4b0195a79d094e9.html)  
 - [美國資深傳媒人：中國不是我們的敵人，我們才是恐怖份子？ -- Lorey 快閃講](https://www.youtube.com/watch?v=_c956w__0EI)  
 - [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
+- [美媒揭西方媒體反華報道「套路」：離譜且令人厭煩，凸顯對中國缺乏深入了解 -- 深喉](https://www.bastillepost.com/hongkong/article/12321394-%e7%be%8e%e5%aa%92%e6%8f%ad%e8%a5%bf%e6%96%b9%e5%aa%92%e9%ab%94%e5%8f%8d%e8%8f%af%e5%a0%b1%e9%81%93%e3%80%8c%e5%a5%97%e8%b7%af%e3%80%8d%ef%bc%9a%e9%9b%a2%e8%ad%9c%e4%b8%94%e4%bb%a4%e4%ba%ba%e5%8e%ad)  
+- [盧永雄「巴士的點評」華大姐連發3炮，轟美國偽造證據是慣匪。美國海軍部長承認「軍艦建設跟不上中國」，原因竟是中國造船廠用奴隸勞工…… 23年2月24日](https://www.youtube.com/watch?v=RDcc8ZgchNU)  
+- [ “监控帝国”规模惊人！所有人，所有信息，美国情报机构是怎么搞监控的？#环球叶问 ](https://www.youtube.com/watch?v=CxwwDhj-FFA)  
 
 ## 文明型国家
 
 - [第161期：听张维为谈谈西方对“文明型国家”的解读纷争！为何“文明型国家”会颠覆了西方长期坚持的“普世价值”？](https://www.youtube.com/watch?v=_nGpnk1NrkM)  
 - [第156期：“文明型国家”正在成为国际政治叙事中的某种“显学”，听张维为讲述“文明型国家”与全球政治叙事](https://www.youtube.com/watch?v=LtFGrh8vcf8)  
 - [第153期：什么是“文明型国家”？“中国独特性”和“美国例外论”的区别又在哪里？](https://www.youtube.com/watch?v=hJsl4PkCCdc)  
+- [第177期：谈谈“文明型国家”颠覆了什么？](https://www.youtube.com/watch?v=UVgMf_g1rJg)  
 
 ## 新冠病毒 COVID-19
 
