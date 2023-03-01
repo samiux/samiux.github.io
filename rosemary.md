@@ -91,4 +91,4 @@ For security purpose, it is not recommended to connect Rosemary via SSH in inter
 ### Can Rosemary decrypt the SSL/TLS traffic?
 Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic and etc.  
 
-## AVAILABLE SOON! 
+# AVAILABLE SOON! 
