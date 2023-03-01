@@ -41,7 +41,7 @@ The following is the recommended connection method of Rosemary.  However, you ca
 
 ```bash
             (WAN)             (LAN1 to Router's WAN)          (Router's LAN)          
-   Modem ----------- Rosemary ----------------------- Router ----------------- PCs
+   Modem ----------- Rosemary ----------------------- Router ----------------- PCs & Laptops
                           |                           (WIFI)                      
                           |                             | (Router's LAN)                   
                           +-----------------------------+
