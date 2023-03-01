@@ -13,6 +13,9 @@ Think like a criminal and act as professional
 
 Not only try harder but also try smarter!
 ```
+He has a product for selling :
+
+- [Rosemary 迷迭香 - Intrusion Detection and Prevention System](/rosemary.md)  
 
 He has some active projects about CyberSecurity, they are :
 
