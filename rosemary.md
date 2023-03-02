@@ -27,6 +27,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - 3 network interfaces (2 x 2.5Gbps, 1 x 1Gbps)   
 - Max. power consumption 5W, fanless, no noise  
 - Max. WAN traffic flow up to 2.5Gbps  
+- Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
 ### Model B (Black) (Not Recommended)
@@ -37,6 +38,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - 3 network interfaces  (2 x 2.5Gbps, 1 x 1Gbps)    
 - Max. power consumption 5W, fanless, no noise  
 - Max. WAN traffic flow up to 2.5Gbps  
+- Slightly larger than a credit card  
 - 94.5mm (L) x 68mm (W) x 30mm (H)  
 
 ## DEPLOYMENT  
