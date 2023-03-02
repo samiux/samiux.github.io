@@ -116,8 +116,8 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ## Pricing
 
-- Model A $2299-HK   
-- Model B $1699-HK   
+- Model A : $2299-HK   
+- Model B : $1699-HK   
 
 ## Build To Order (BTO)
 
