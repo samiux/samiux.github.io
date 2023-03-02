@@ -108,11 +108,11 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - MalwareAI Browser Security  
 - VT4Browsers  
 
-# AVAILABLE SOON! 
+# AVAILABLE NOW! 
 
 - Available in Hong Kong ONLY  
 - Full pre-payment is required  
-- Whatsapp, Telegram or Discord support (not sure at the moment)    
+- Discord support (@ samiux#3445)    
 
 ## Pricing
 
