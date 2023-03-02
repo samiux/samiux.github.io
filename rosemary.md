@@ -96,5 +96,6 @@ Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limi
 # AVAILABLE SOON! 
 
 - Available in Hong Kong only  
+- Full pre-payment is required  
 
 ## Build To Order (BTO)
