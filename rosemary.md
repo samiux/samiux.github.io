@@ -125,7 +125,6 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 - 1 x Rosemary device  
 - 2 x CAT 6 cables  
-- 1 x SD Card  
 - 1 x Power adaptor (UK)   
 - 1 x USB power cable  
  
