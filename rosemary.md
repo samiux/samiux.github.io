@@ -100,7 +100,7 @@ Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limi
 
 # AVAILABLE SOON! 
 
-- Available in Hong Kong only  
+- Available in Hong Kong ONLY  
 - Full pre-payment is required  
 - Whatsapp, Telegram or Discord support (not sure at the moment)    
 
