@@ -23,18 +23,20 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 - 8 cores CPU  
 - 8GB RAM  
-- 32GB Storge  
-- 3 Network interfaces  
+- 32GB storge  
+- 3 network interfaces  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
+- Max. power consumption 5W, fanless, no noise  
 
-### Model B (Black)
+### Model B (Black) (Not Recommended)
 
 - 4 cores CPU  
 - 4GB RAM  
-- 8GB Storge  
-- 3 Network interfaces  
+- 8GB storge  
+- 3 network interfaces  
 - 94.5mm (L) x 68mm (W) x 30mm (H)  
- 
+- Max. power consumption 5W, fanless, no noise  
+
 ## DEPLOYMENT  
 
 The following is the recommended connection method of Rosemary.  However, you can connect it behind router too.
