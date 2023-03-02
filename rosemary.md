@@ -25,9 +25,9 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - 8GB RAM  
 - 32GB storge  
 - 3 network interfaces (2 x 2.5Gbps, 1 x 1Gbps)   
-- 96.5mm (L) x 68mm (W) x 30mm (H)   
 - Max. power consumption 5W, fanless, no noise  
 - Max. WAN traffic flow up to 2.5Gbps  
+- 96.5mm (L) x 68mm (W) x 30mm (H)   
 
 ### Model B (Black) (Not Recommended)
 
@@ -35,9 +35,9 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - 4GB RAM  
 - 8GB storge  
 - 3 network interfaces  (2 x 2.5Gbps, 1 x 1Gbps)    
-- 94.5mm (L) x 68mm (W) x 30mm (H)  
 - Max. power consumption 5W, fanless, no noise  
 - Max. WAN traffic flow up to 2.5Gbps  
+- 94.5mm (L) x 68mm (W) x 30mm (H)  
 
 ## DEPLOYMENT  
 
