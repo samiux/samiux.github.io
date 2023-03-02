@@ -16,7 +16,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - Automatically update  
 - Plug, Play and Forget!  
 - Totally transparent  
-- Setup is NOT required   
+- Setup is not required   
 
 ## HARDWARE
 
