@@ -99,7 +99,7 @@ For security purpose, it is NOT recommended to connect Rosemary via SSH in inter
 Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic and etc.  
 
 ### Do I also need anti-virus?
-Yes, anti-virus is required.  You are also advised to install the following add-ons or extensions for your browser such as Firefox or Chrome in order to increase the security of surfing the internet.
+Yes, anti-virus is required.  You are also advised to install the following add-ons or extensions for your browser such as Firefox or Chrome in order to increase the security for surfing the internet.
 
 - uBlock Origin  
 - Ghostery  
