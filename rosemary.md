@@ -114,4 +114,17 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - Full pre-payment is required  
 - Whatsapp, Telegram or Discord support (not sure at the moment)    
 
+## Pricing
+
+- Model A $2299-HK   
+- Model B $1699-HK   
+
 ## Build To Order (BTO)
+
+### What is included in the box?
+
+- 1 x Rosemary device  
+- 2 x CAT 6 cables  
+- 1 x Power adaptor (UK)   
+- 1 x USB power cable  
+ 
