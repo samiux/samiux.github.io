@@ -102,6 +102,6 @@ Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limi
 
 - Available in Hong Kong only  
 - Full pre-payment is required  
-- Whatsapp or Telegram support  
+- Whatsapp, Telegram or Discord support (not sure at the moment)    
 
 ## Build To Order (BTO)
