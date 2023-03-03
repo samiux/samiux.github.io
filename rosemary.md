@@ -1,6 +1,6 @@
 # Rosemary 迷迭香 - Intrusion Detection and Prevention System  防御入侵系统
 
-Networks and computers that are opened to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our Rosemary is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Rosemary is available in low price that everyone can afford.  It is ideal for home and Small Office Home Office (SOHO). 
+Networks and computers that are opened to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our Rosemary is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Rosemary is available free of charge that everyone can afford.  It is ideal for home and Small Office Home Office (SOHO). 
 
 Not a Network Security Monitoring (NSM) or Information Security (InfoSec) expert?  No problem!  Our Rosemary really is the "Plug, Play and Forget" system of your dreams, it is totally transparent.  Don't be the next cyber crime victims, try Rosemary now!
 
@@ -20,7 +20,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 ## HARDWARE
 
-### Model A (Black)
+### NanoPI R6S
 
 - 8 cores CPU  
 - 8GB RAM  
@@ -31,7 +31,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
-### Model B (Black) (Not Recommended)
+### NanoPi R5S (Not Recommended)
 
 - 4 cores CPU  
 - 4GB RAM  
@@ -41,6 +41,20 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - Max. WAN traffic flow up to 2.5Gbps  
 - Slightly larger than a credit card  
 - 94.5mm (L) x 68mm (W) x 30mm (H)  
+
+* A 16GB SD Card (at least Class 10) is required  
+
+## INSTALLATION
+
+```
+git clone https://github.com/samiux/rosemary
+
+Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn to the SD Card.
+```
+
+### Checksum
+
+sha256 a7e9d911a9298e677cbfd0dffbfa4a497f4f346056374ef4d0a765ab5aab5fe1  rk3588-sd-rosemary-5.10-arm64-20230304.img
 
 ## DEPLOYMENT  
 
@@ -108,23 +122,11 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - MalwareAI Browser Security  
 - VT4Browsers  
 
-# AVAILABLE NOW! 
+## YOUTUBE REVIEW
 
-- Available in Hong Kong ONLY  
-- Full pre-payment is required  
-- Discord support (@ samiux#3445)    
+- [NanoPi R6S - Unboxing and Quick Overview](https://www.youtube.com/watch?v=-rlJ_80d01U)  
+- [NanoPi R6S Linux Review - Rockchip RK3588S with dual 2.5GbE + 1GbE](https://www.youtube.com/watch?v=gCBNWGhp8gM)  
+- [NanoPi R6S - Wireguard & OpenVPN Throughput Test](https://www.youtube.com/watch?v=YC16CsEYN6g)  
+- [NanoPi R6S - 2.35Gbps Throughput with only 5W of Power Consumption](https://www.youtube.com/watch?v=UMbTibi3n2k)  
+- [NanoPi R6S Bootup - Firmware Update (eMMC) - PPPoE Speedtest](https://www.youtube.com/watch?v=WylvVwlDrFg)  
 
-## Pricing
-
-- Model A : $2299-HK   
-- Model B : $1699-HK   
-
-## Build To Order (BTO)
-
-### What is included in the box?
-
-- 1 x Rosemary device  
-- 2 x CAT 6 cables  
-- 1 x Power adaptor (UK)   
-- 1 x USB power cable  
- 
