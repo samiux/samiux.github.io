@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # Rosemary 迷迭香 - Intrusion Detection and Prevention System  防御入侵系统
 
 Networks and computers that are opened to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our Rosemary is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Rosemary is available free of charge that everyone can afford.  It is ideal for home and Small Office Home Office (SOHO). 
@@ -130,3 +132,4 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - [NanoPi R6S - 2.35Gbps Throughput with only 5W of Power Consumption](https://www.youtube.com/watch?v=UMbTibi3n2k)  
 - [NanoPi R6S Bootup - Firmware Update (eMMC) - PPPoE Speedtest](https://www.youtube.com/watch?v=WylvVwlDrFg)  
 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
