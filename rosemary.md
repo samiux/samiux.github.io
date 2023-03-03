@@ -44,9 +44,9 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - Slightly larger than a credit card  
 - 94.5mm (L) x 68mm (W) x 30mm (H)  
 
-* A 16GB SD Card (at least Class 10) is required  
-
 ## INSTALLATION
+
+A 16GB SD Card (at least Class 10) is required for the installation.  
 
 ```
 git clone https://github.com/samiux/rosemary
