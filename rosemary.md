@@ -48,13 +48,13 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 A 16GB SD Card (at least Class 10) is required for the installation.  
 
-```
-git clone https://github.com/samiux/rosemary
-```
+Download the [SD Card image]() at Google Drive.
+
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn to the SD Card.
 
 ### Checksum
 
+sha256 d757b5a84571d6fb8862f3496e3923988e104be2b38ca14891fcad9002846081  rk3588-sd-rosemary-5.10-arm64-20230304.zip
 sha256 a7e9d911a9298e677cbfd0dffbfa4a497f4f346056374ef4d0a765ab5aab5fe1  rk3588-sd-rosemary-5.10-arm64-20230304.img
 
 ## DEPLOYMENT  
