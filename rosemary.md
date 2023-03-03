@@ -50,9 +50,8 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 ```
 git clone https://github.com/samiux/rosemary
-
-Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn to the SD Card.
 ```
+Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn to the SD Card.
 
 ### Checksum
 
