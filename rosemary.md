@@ -125,6 +125,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ## YOUTUBE REVIEW
 
+- [The New Nanopi R6s Sbc: A Powerful Arm Board With A Huge Performance Edge Over The Pi4!](https://www.youtube.com/watch?v=CfaWB9q4xOI)  
 - [NanoPi R6S - Unboxing and Quick Overview](https://www.youtube.com/watch?v=-rlJ_80d01U)  
 - [NanoPi R6S Linux Review - Rockchip RK3588S with dual 2.5GbE + 1GbE](https://www.youtube.com/watch?v=gCBNWGhp8gM)  
 - [NanoPi R6S - Wireguard & OpenVPN Throughput Test](https://www.youtube.com/watch?v=YC16CsEYN6g)  
