@@ -48,7 +48,7 @@ sha256 a7e9d911a9298e677cbfd0dffbfa4a497f4f346056374ef4d0a765ab5aab5fe1  rk3588-
 
 ## LICENSE
 
-Rosemary is developed by Samiux and it is released under GPLv3 for FREE OF CHARGE.
+Rosemary is developed by Samiux based on Croissants project which is since 2012 and it is released under GPLv3 for FREE OF CHARGE.
 
 ## DEPLOYMENT  
 
