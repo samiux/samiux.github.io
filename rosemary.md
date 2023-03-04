@@ -24,7 +24,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 ### NanoPI R6S
 
-- 8 cores ARM CPU  
+- 8 cores ARM CPU (Quad-core ARM Cortex™-A76 & Quad-core ARM Cortex™-A55)  
 - 8GB RAM  
 - 32GB storge  
 - 3 network interfaces (2 x 2.5Gbps, 1 x 1Gbps)   
