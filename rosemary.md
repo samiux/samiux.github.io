@@ -46,6 +46,10 @@ Download [Balena Etcher](https://www.balena.io/etcher) at its official site and 
 sha256 d757b5a84571d6fb8862f3496e3923988e104be2b38ca14891fcad9002846081  rk3588-sd-rosemary-5.10-arm64-20230304.zip  
 sha256 a7e9d911a9298e677cbfd0dffbfa4a497f4f346056374ef4d0a765ab5aab5fe1  rk3588-sd-rosemary-5.10-arm64-20230304.img  
 
+## LICENSE
+
+Rosemary is developed by Samiux and it is released under GPLv3 in FREE OF CHARGE.
+
 ## DEPLOYMENT  
 
 The following is the recommended connection method of Rosemary.  However, you can connect it behind router too.
