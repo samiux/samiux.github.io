@@ -101,7 +101,7 @@ Rosemary can be turned off and it is not required to operate 24/7.  The update w
 There are over 40,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
 
 ### Do you recommend to access Rosemary via SSH in internet?
-For security purpose, it is NOT recommended to connect Rosemary via SSH in internet.  However, you may connect Rosemary via SSH in intranet.  The username and password are "rosemary".    
+For security purpose, it is NOT recommended to connect Rosemary via SSH in internet.  However, you may connect Rosemary via SSH in intranet.  The username and password are "rosemary".  The IP address of the Rosemary is 192.168.x.200, e.g. 192.168.0.200.    
 
 ### Can Rosemary decrypt the SSL/TLS traffic?
 Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic and etc.  
@@ -124,5 +124,9 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - [NanoPi R6S - Wireguard & OpenVPN Throughput Test](https://www.youtube.com/watch?v=YC16CsEYN6g)  
 - [NanoPi R6S - 2.35Gbps Throughput with only 5W of Power Consumption](https://www.youtube.com/watch?v=UMbTibi3n2k)  
 - [NanoPi R6S Bootup - Firmware Update (eMMC) - PPPoE Speedtest](https://www.youtube.com/watch?v=WylvVwlDrFg)  
+
+## SUPPORT
+
+Discord @ samiux#3445   
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
