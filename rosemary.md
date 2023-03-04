@@ -39,7 +39,7 @@ A 16GB SD Card (at least Class 10) is required for the installation.
 
 Download the [SD Card image (467MB)](https://drive.google.com/file/d/17DbJ0On05b1-672aO-Zq1PLGT5ljAP4F/view?usp=sharing) at Google Drive.
 
-Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn to the SD Card.
+Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.
 
 ### Checksum
 
