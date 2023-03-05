@@ -39,7 +39,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 ## INSTALLATION
 
-A 16GB SD Card (at least Class 10) is required for the installation.  
+A 16GB micro SD Card (at least Class 10) is required for the installation.  
 
 Download the [SD Card image (505.6MB)](<https://drive.google.com/file/d/1MJb8dr_HluJGBsF92l08QITGFPvrzA-t/view?usp=sharing>) at Google Drive and extract it.
 
