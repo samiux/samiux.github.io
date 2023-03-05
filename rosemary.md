@@ -41,7 +41,7 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 
 A 16GB SD Card (at least Class 10) is required for the installation.  
 
-Download the [SD Card image (505.6MB)](<https://drive.google.com/file/d/1MJb8dr_HluJGBsF92l08QITGFPvrzA-t/view?usp=sharing>) at Google Drive.
+Download the [SD Card image (505.6MB)](<https://drive.google.com/file/d/1MJb8dr_HluJGBsF92l08QITGFPvrzA-t/view?usp=sharing>) at Google Drive and extract it.
 
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R6S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
