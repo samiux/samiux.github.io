@@ -33,18 +33,22 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
+## IDPS ENGINE
+
+- Suricata 6.0.10  
+
 ## INSTALLATION
 
 A 16GB SD Card (at least Class 10) is required for the installation.  
 
-Download the [SD Card image (467MB)](https://drive.google.com/file/d/17DbJ0On05b1-672aO-Zq1PLGT5ljAP4F/view?usp=sharing) at Google Drive.
+Download the [SD Card image (505.6MB)](<https://drive.google.com/file/d/1MJb8dr_HluJGBsF92l08QITGFPvrzA-t/view?usp=sharing>) at Google Drive.
 
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R6S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
 ### Checksum
 
-sha256 d757b5a84571d6fb8862f3496e3923988e104be2b38ca14891fcad9002846081  rk3588-sd-rosemary-5.10-arm64-20230304.zip  
-sha256 a7e9d911a9298e677cbfd0dffbfa4a497f4f346056374ef4d0a765ab5aab5fe1  rk3588-sd-rosemary-5.10-arm64-20230304.img  
+sha256 4dbdc489f50aed0e1cf6cac6126041c20babaac87eb5992be8bd2d715a125991  rk3588-sd-rosemary-5.10-arm64-20230305.zip  
+sha256 b3945c990a77a958714c3376c2bc85b7771cf819814683e8f3f5bff584462457  rk3588-sd-rosemary-5.10-arm64-20230305.img  
 
 ## LICENSE
 
