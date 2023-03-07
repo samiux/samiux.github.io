@@ -22,7 +22,7 @@ Garland is designed by a hacker to defend against hackers. He knows what hackers
 
 ## HARDWARE
 
-### NanoPI R6S
+### NanoPI R5S
 
 - 4 cores ARM CPU (Quad-core ARM Cortex™-A55)  
 - 4GB RAM  
@@ -72,8 +72,8 @@ The following is the recommended connection method of Garland.  However, you can
 ```bash
                                                                                 +------- Laptops
                                                                                 |
-            (LAN1)           (LAN2 to Router's WAN)     (Switch's LAN)           |
-   Modem ----------- Garland ------------------ Router -------- Switch --------+
+            (LAN1)           (LAN2 to Router's WAN)     (Switch's LAN)          |
+   Modem ----------- Garland ------------------ Router -------- Switch ---------+
                           |                      (WIFI)             |           |
                           |                                         |           |
                           +-----------------------------------------+           +------- PCs
@@ -83,12 +83,12 @@ The following is the recommended connection method of Garland.  However, you can
 ```bash
                                                                     +------- WIFI AP
                                                                     |
-            (LAN1)          (LAN2 to Switch Port #1)                 |
-5G Modem ----------- Garland ------------------ Switch ------------+
+            (LAN1)          (LAN2 to Switch Port #1)                |
+5G Modem ----------- Garland ------------------ Switch -------------+
 WIFI Router (unused)      |                        |                |
                           |                        |                |
                           +------------------------+                +------- PCs & Laptops
-                                    (WAN)
+                            (WAN to Switch's LAN)
 
 ```
 
