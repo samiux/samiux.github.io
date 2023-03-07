@@ -4,6 +4,8 @@
 
 ## Offensive
 
+### INACTIVE
+
 - [Chameleon 变色龙 - Website IP Address Seeker](/chameleon.md)
 - [Sandcastle 沙堡 - Amazon AWS S3 Bucket Enumeration](/sandcastle.md)
 - [Shodan Eye - Security Search Engine](/shodan-eye.md)
@@ -13,9 +15,9 @@
 
 ### ACTIVE
 
-- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)  (ACTIVE)  
-- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)  (ACTIVE)    
-- [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  (ACTIVE)  
+- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)    
+- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)      
+- [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
 
 ### INACTIVE
 
@@ -26,6 +28,8 @@
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
 ## Capture The Flag (CTF)
+
+### INACTIVE
 
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)     
 
