@@ -15,8 +15,8 @@
 - [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  (ACTIVE)  
 - [Garlic 大蒜- Intrusion Detection and Prevention System (Personal Computer)](/garlic.md)  (ACTIVE)   
 - [Kale 羽衣甘蓝 - Intrusion Detection System (Port Mirroring)](/kale.md)  (ACTIVE)  
-- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S](/garland.md)  
-- [Rosemary 迷迭香 - Intrusion Detection and Prevention System](/rosemary.md)  (ACTIVE)  
+- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)  (ACTIVE)    
+- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)  (ACTIVE)  
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  (ACTIVE)  
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
 
