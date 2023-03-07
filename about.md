@@ -20,6 +20,7 @@ He has some active projects about CyberSecurity, they are :
 - [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  
 - [Garlic 大蒜- Intrusion Detection and Prevention System (Pesonal Computer)](/garlic.md)  
 - [Kale 羽衣甘蓝 - Intrusion Detection System (Port Mirroring)](/kale.md)  
+- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S](/garland.md)  
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System](/rosemary.md)  
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)  
