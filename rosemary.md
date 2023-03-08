@@ -105,7 +105,7 @@ Between 0600 and 0630 hours every day, Rosemary will do the housekeeping and upd
 Rosemary can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Rosemary is booting up.  It is advised NOT to turn off the Rosemary between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Rosemary.  Meanwhile, if you turn off the Rosemary within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Rosemary?  
-There are over 40,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
+There are over 46,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
 
 ### Do you recommend to access Rosemary via SSH in internet?
 For security purpose, it is NOT recommended to connect Rosemary via SSH in internet.  However, you may connect Rosemary via SSH in intranet.  The username and password are "rosemary".  The IP address of the Rosemary is 192.168.x.200, e.g. 192.168.0.200.  
