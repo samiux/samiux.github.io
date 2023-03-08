@@ -132,4 +132,8 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 Discord @samiux#3445  
 
+## SEE ALSO
+
+- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
