@@ -46,7 +46,7 @@ A 16GB micro SD Card (at least Class 10) is required for the installation.
 
 Download the [SD Card image (564.6MB)](<https://drive.google.com/file/d/1jaNzXoQWMmv-Zflq06MMymNNIJHl6JFn/view?usp=sharing>) at Google Drive and extract it.
 
-Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R6S with the SD Card.  Therefore, faster the SD Card is better the performance.  
+Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R5S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
 ### Checksum
 
