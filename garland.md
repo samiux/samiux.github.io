@@ -123,6 +123,10 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - MalwareAI Browser Security  
 - VT4Browsers  
 
+## KNOWN ISSUES
+
+Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot of the burning SD Card__) after half an hour in order to get the current local time.  
+
 ## REFERENCE
 
 - [FriendlyElec NanoPi R5S Offical Site](https://www.friendlyelec.com/index.php?route=product/product&product_id=287)  
