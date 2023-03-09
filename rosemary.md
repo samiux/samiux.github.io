@@ -123,7 +123,11 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - MalwareAI Browser Security  
 - VT4Browsers  
 
-## YOUTUBE REVIEW
+## KNOWN ISSUES
+
+Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot of the burning SD Card__) after half an hour in order to get the current local time.  
+
+## REFERENCE
 
 - [FriendlyElec NanoPi R6S Official Site](https://www.friendlyelec.com/index.php?route=product/product&product_id=289)  
 - [The New Nanopi R6s Sbc: A Powerful Arm Board With A Huge Performance Edge Over The Pi4!](https://www.youtube.com/watch?v=CfaWB9q4xOI)  
