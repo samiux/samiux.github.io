@@ -174,7 +174,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 是否建议在互联网中利用 SSH 接驳防御入侵系统？
 
-不建议，但可以在内网连接。其用户名称和密码都是 "rosemary"。至于网址是 192.168.x.200，例如 192.168.0.209。
+不建议，但可以在内网连接。其用户名称和密码都是 "rosemary"。至于网址是 192.168.x.200，例如 192.168.0.200。
 
 ### 防御入侵系统是否能够解密所有加密的连接？
 
