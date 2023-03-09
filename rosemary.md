@@ -8,6 +8,12 @@ Not a Network Security Monitoring (NSM) or Information Security (InfoSec) expert
 
 Rosemary is designed by a hacker to defend against hackers. He knows what hackers are doing and thinking, regardless of whether they are ethical or malicious.
 
+每当电脑或网络连接互联网时，我们的电脑或网络就有机会被恶意黑客的攻击。为免成为下一个网络罪行的受害者，我们的「迷迭香」可以助你免于被袭击。不像其他知名的商业品牌，她是完全免费，每个人都能够负担的入侵防御系统。
+
+我们的「迷迭香」是随插即用，用户的参与性极少，适合一般大众使用。
+
+「迷迭香」是由黑客设计来对付黑客的有效工具，不论其为道德黑客抑或是恶意黑客。
+
 ## FEATURES
 
 - Blocks known malicious activities  
@@ -19,6 +25,17 @@ Rosemary is designed by a hacker to defend against hackers. He knows what hacker
 - Plug, Play and Forget!  
 - Totally transparent  
 - Setup is not required   
+
+功能概览
+
+- 有效阻挡已知的恶意行为
+- 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
+- 兼容微软视窗、苹果电脑、Linux 及 Apple iOS、Google Android、Huawei HarmonyOS 等各大移动系统
+- 开源项目，完全免费
+- 自动更新
+- 随插即用，并且可以忘记之
+- 完全透明
+- 无需设定
 
 ## HARDWARE
 
