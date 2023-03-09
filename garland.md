@@ -44,7 +44,7 @@ Garland is designed by a hacker to defend against hackers. He knows what hackers
 
 - 4 cores ARM CPU (Quad-core ARM Cortex™-A55)  
 - 4GB RAM  
-- 16GB storge  
+- 16GB eMMC  
 - 3 network interfaces (2 x 2.5Gbps, 1 x 1Gbps)   
 - Max. power consumption 5W, fanless, no noise  
 - Max. WAN traffic flow up to 2.5Gbps  
