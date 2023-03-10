@@ -115,6 +115,17 @@ The following is the recommended connection method of Rosemary.  However, you ca
                                                                     +------- WIFI AP
                                                                     |
             (WAN)          (LAN1 to Switch Port #1)                 |
+Modem with ----------- Rosemary ---------------- Switch ------------+
+WIFI Router (unused)      |                        |                |
+                          |                        |                |
+                          +------------------------+                +------- PCs & Laptops
+                            (LAN2 to Switch's LAN)
+
+```
+```bash
+                                                                    +------- WIFI AP
+                                                                    |
+            (WAN)          (LAN1 to Switch Port #1)                 |
 5G Modem ----------- Rosemary ------------------ Switch ------------+
 WIFI Router (unused)      |                        |                |
                           |                        |                |
