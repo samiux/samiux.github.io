@@ -170,7 +170,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统内有多少条规则？
 
-所有规则都是免费的，已经超过 4 万 6 千多条，而且亦每日增加中。
+所有规则都是免费的，已经超过 4 万 6 千多条，而且亦每日在增加中。
 
 ### 是否建议在互联网中利用 SSH 接驳防御入侵系统？
 
@@ -180,7 +180,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量。
 
-### 我仍是否需要安装防毒软件？
+### 我仍是否需要在电脑上安装防毒软件？
 
 需要。除此之外，我更建议在「火狐」或 Chrome 浏览器安装以下附加组件，使得上网时更安全。
 
