@@ -144,9 +144,9 @@ WIFI Router (unused)      |                        |                |
                             (LAN2 to Switch's LAN)
 ```
 
-Do NOT use the wifi that comes with 5G modem as the traffic flow will NOT be protected by Rosemary.
+Do NOT use the wifi that comes with 5G modem or modem with WIFI router as the traffic flow will NOT be protected by Rosemary.
 
-不要使用 5G 调解器的无线网络，因为其无线网络不受「迷迭香」的保护。
+不要使用 5G 调解器或调解器有无线网络功能的无线网络，因为其无线网络不受「迷迭香」的保护。
 
 ## FAQ  
 
