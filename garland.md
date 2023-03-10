@@ -92,6 +92,7 @@ Garland is developed by Samiux based on Croissants project which is since 2012 a
 The following is the recommended connection method of Garland.  However, you can connect it behind router too.
 
 建议将防御入侵系统放置于路由器之前，但亦可以放置在路由器之后。
+
 ```bash
             (LAN1)             (LAN2 to Router's WAN)          (Router's LAN)          
    Modem ----------- Garland ----------------------- Router ----------------- PCs & Laptops
