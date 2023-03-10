@@ -112,6 +112,17 @@ The following is the recommended connection method of Rosemary.  However, you ca
 
 ```
 ```bash
+                                                                   
+                                                                    
+            (WAN)          (LAN1 to WIFI AP's WAN)                  
+Modem with ----------- Rosemary --------------- WIFI AP -------------------- PCs & Laptops
+WIFI Router (unused)      |                        |               
+                          |                        |               
+                          +------------------------+              
+                            (LAN2 to WIFI AP's LAN)
+
+```
+```bash
                                                                     +------- WIFI AP
                                                                     |
             (WAN)          (LAN1 to Switch Port #1)                 |
@@ -131,7 +142,6 @@ WIFI Router (unused)      |                        |                |
                           |                        |                |
                           +------------------------+                +------- PCs & Laptops
                             (LAN2 to Switch's LAN)
-
 ```
 
 Do NOT use the wifi that comes with 5G modem as the traffic flow will NOT be protected by Rosemary.
