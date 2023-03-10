@@ -125,7 +125,7 @@ WIFI Router (unused)      |                        |
 ```bash
                                                                     +------- WIFI AP
                                                                     |
-            (WAN)          (LAN1 to Switch Port #1)                 |
+            (WAN)          (LAN1 to Switch's Port #1)               |
 Modem with ----------- Rosemary ---------------- Switch ------------+
 WIFI Router (unused)      |                        |                |
                           |                        |                |
@@ -136,7 +136,7 @@ WIFI Router (unused)      |                        |                |
 ```bash
                                                                     +------- WIFI AP
                                                                     |
-            (WAN)          (LAN1 to Switch Port #1)                 |
+            (WAN)          (LAN1 to Switch's Port #1)               |
 5G Modem ----------- Rosemary ------------------ Switch ------------+
 WIFI Router (unused)      |                        |                |
                           |                        |                |
