@@ -70,9 +70,9 @@ Download [Balena Etcher](https://www.balena.io/etcher) at its official site and 
 
 你需要一张至少 16GB (规格 10) 的 SD 卡。
 
-从谷歌云盘下载镜像文件，然后解压文件。
+从[谷歌云盘](<https://drive.google.com/file/d/1jaNzXoQWMmv-Zflq06MMymNNIJHl6JFn/view?usp=sharing>)下载镜像文件，然后解压文件。
 
-从 Balena Etcher 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
+从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
 
 ### Checksum
 
