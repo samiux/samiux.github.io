@@ -22,6 +22,7 @@ OSCE  OSCP  OSWP
 - [上半年 111 名银行客户受网络钓鱼攻击影响 涉款 2200 万元 -- 巴士的报](https://www.bastillepost.com/hongkong/article/8746848)   
 - [偽冒香港郵政騙取信用卡資料購物 兩男被捕涉呃33萬 -- 巴士的報](https://www.bastillepost.com/hongkong/article/8753828-%e5%81%bd%e5%86%92%e9%a6%99%e6%b8%af%e9%83%b5%e6%94%bf%e9%a8%99%e5%8f%96%e4%bf%a1%e7%94%a8%e5%8d%a1%e8%b3%87%e6%96%99-%e5%85%a9%e7%94%b7%e8%a2%ab%e6%8d%95%e6%b6%89%e5%91%8333%e8%90%ac%e3%80%80)  
 - [美國上半年受惡毒軟件襲擊贖金達5.9億 勢超越過去10年總和 -- 巴士的報](https://www.bastillepost.com/hongkong/article/9433867-%e7%be%8e%e5%9c%8b%e4%b8%8a%e5%8d%8a%e5%b9%b4%e5%8f%97%e6%83%a1%e6%af%92%e8%bb%9f%e4%bb%b6%e8%a5%b2%e6%93%8a%e8%b4%96%e9%87%91%e9%81%945-9%e5%84%84-%e5%8b%a2%e8%b6%85%e8%b6%8a%e9%81%8e%e5%8e%bb10)  
+- [警方3個月內接報近千宗釣魚SMS騙案 一文拆解詐騙手法 -- Sebastian](https://www.bastillepost.com/hongkong/article/12445440-%e8%ad%a6%e6%96%b93%e5%80%8b%e6%9c%88%e5%85%a7%e6%8e%a5%e5%a0%b1%e8%bf%91%e5%8d%83%e5%ae%97%e9%87%a3%e9%ad%9asms%e9%a8%99%e6%a1%88-%e4%b8%80%e6%96%87%e6%8b%86%e8%a7%a3%e8%a9%90%e9%a8%99%e6%89%8b)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
