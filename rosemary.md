@@ -92,7 +92,7 @@ The following is the recommended connection method of Rosemary.  However, you ca
 
 建议将防御入侵系统放置于路由器之前，但亦可以放置在路由器之后。
 
-```bash
+```
             (WAN)             (LAN1 to Router's WAN)          (Router's LAN)          
    Modem ----------- Rosemary ----------------------- Router ----------------- PCs & Laptops
                           |                           (WIFI)                      
@@ -100,7 +100,7 @@ The following is the recommended connection method of Rosemary.  However, you ca
                           +-----------------------------+
                               (LAN2 to Router's LAN)
 ```
-```bash
+```
                                                                                 +------- Laptops
                                                                                 |
             (WAN)           (LAN1 to Router's WAN)     (Switch's LAN)           |
@@ -111,7 +111,7 @@ The following is the recommended connection method of Rosemary.  However, you ca
                                    (LAN2 to Switch's LAN)
 
 ```
-```bash
+```
                                                                    
                                                                     
             (WAN)          (LAN1 to WIFI AP's WAN)                  
@@ -122,7 +122,7 @@ WIFI Router (unused)      |                        |
                             (LAN2 to WIFI AP's LAN)
 
 ```
-```bash
+```
                                                                     +------- WIFI AP
                                                                     |
             (WAN)          (LAN1 to Switch's Port #1)               |
@@ -133,7 +133,7 @@ WIFI Router (unused)      |                        |                |
                             (LAN2 to Switch's LAN)
 
 ```
-```bash
+```
                                                                     +------- WIFI AP
                                                                     |
             (WAN)          (LAN1 to Switch's Port #1)               |
@@ -159,7 +159,7 @@ Between 0600 and 0630 hours every day, Rosemary will do the housekeeping and upd
 Rosemary can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Rosemary is booting up.  It is advised NOT to turn off the Rosemary between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Rosemary.  Meanwhile, if you turn off the Rosemary within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Rosemary?  
-There are over 46,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
+There are over 47,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
 
 ### Do you recommend to access Rosemary via SSH in internet?
 For security purpose, it is NOT recommended to connect Rosemary via SSH in internet.  However, you may connect Rosemary via SSH in intranet.  The username and password are "rosemary".  The IP address of the Rosemary is 192.168.x.200, e.g. 192.168.0.200.  
