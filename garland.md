@@ -28,7 +28,7 @@ Garland is designed by a hacker to defend against hackers. He knows what hackers
 
 ## 功能概览
 
-- 有效阻挡已知的恶意行为
+- 有效阻挡已知的恶意行为, 例如网络攻击等  
 - 简单直接的用户介面
 - 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
 - 兼容微软视窗、苹果电脑、Linux 及 Apple iOS、Google Android、Huawei HarmonyOS 等各大移动系统
