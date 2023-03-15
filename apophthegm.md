@@ -114,5 +114,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 行有不得，反求诸己 -- 孟子
 ```
+```
+当认为是最安全的时候，就是最危险的时候。 -- Samiux
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
