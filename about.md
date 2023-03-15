@@ -12,6 +12,8 @@ While you do not know attack, how can you know about defense? (未知攻,焉知�
 Think like a criminal and act as professional
 
 Not only try harder but also try smarter!
+
+当认为是最安全的时候，就是最危险的时候。
 ```
 
 He has some active projects about CyberSecurity, they are :
