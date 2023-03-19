@@ -48,7 +48,7 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 ## HARDWARE
 
-### NanoPI R5S
+### FriendlyElec NanoPi R5S
 
 - 4 cores ARM CPU (Quad-core ARM Cortex™-A55)  
 - 4GB RAM  
