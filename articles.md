@@ -38,6 +38,7 @@
 - [Yet Another Cyber Defender](/cyberdefender.md)  
 - [我的 Ubuntu 笔记本](/ubuntu_laptop.md)  
 - [平价适合家用的防御入侵系统](/nanopi.md)  
+- [Rosemary IPS: 轻松保护家庭和小型办公室网络 (Easy Network Protection for Home and SOHO)](/rosemary_ips.md)  
 
 ### Hacker
 
