@@ -8,7 +8,7 @@ One of the most significant benefits of Rosemary is its user-friendly design, ma
 
 Rosemary's creator is an experienced white hat hacker, so the cybersecurity solution's design effectively detects and prevents sophisticated cyber threats. The Rosemary Intrusion Detection and Prevention System utilizes the malicious hacker's inside knowledge of current and potential malicious hacker tactics. And it provides complete transparency and is hassle-free for users.
 
-Protecting digital assets should be a priority, and Rosemary Intrusion Detection and Prevention System meets this need. With this reliable and easy-to-use cybersecurity solution, individuals and small businesses can feel secure knowing that their digital assets are protected, and their data is secured against cyberattacks.
+Protecting digital assets should be a priority, and Rosemary Intrusion Detection and Prevention System meets this need. With this reliable and easy-to-use cybersecurity solution, individuals and small office/home office businesses can feel secure knowing that their digital assets are protected, and their data is secured against cyberattacks.
 
 In summary, Rosemary Intrusion Detection and Prevention System is an effective, user-friendly, and accessible cybersecurity solution that can cater to the varying security needs of individuals and small office/home office businesses.
 
@@ -18,7 +18,7 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 
 「迷迭香」的设计者是一位经验丰富的「白帽黑客」，因此这个网络安全方案的设计可以有效地检测和防范复杂的网络威胁。「迷迭香」入侵防御系统利用恶意黑客对当前和潜在的恶意黑客策略的深入了解，为用户提供完全透明、无麻烦的网络安全解决方案。
 
-保护数字资产应该是一个优先考虑的问题，「迷迭香」入侵防御系统可以满足这一需求。有了这个可靠且易于使用的网络安全方案，个人和小型企业可以放心，他们的数字资产得到了保护，他们的数据得到了安全的保护，不会受到网络攻击的侵害。
+保护数字资产应该是一个优先考虑的问题，「迷迭香」入侵防御系统可以满足这一需求。有了这个可靠且易于使用的网络安全方案，个人和小型办公室/家庭办公室可以放心，他们的数字资产得到了保护，他们的数据得到了安全的保护，不会受到网络攻击的侵害。
 
 总之，「迷迭香」入侵防御系统是一个有效、用户友好且易于获取的网络安全解决方案，可以满足个人和小型办公室/家庭办公室不同的安全需求。
 
