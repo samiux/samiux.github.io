@@ -47,7 +47,7 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 
 ## HARDWARE
 
-### NanoPI R6S
+### FriendlyElec NanoPi R6S
 
 - 8 cores ARM CPU (Quad-core ARM Cortex™-A76 & Quad-core ARM Cortex™-A55)  
 - 8GB RAM  
