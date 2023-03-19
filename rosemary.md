@@ -2,17 +2,25 @@
 
 # Rosemary 迷迭香 - Intrusion Detection and Prevention System  防御入侵系统
 
-Networks and computers that are opened to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our Rosemary is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Rosemary is available free of charge that everyone can afford.  It is ideal for home and Small Office Home Office (SOHO). 
+As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Rosemary Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
-Not a Network Security Monitoring (NSM) or Information Security (InfoSec) expert?  No problem!  Our Rosemary really is the "Plug, Play and Forget" system of your dreams, it is totally transparent.  Don't be the next cyber crime victims, try Rosemary now!
+One of the most significant benefits of Rosemary is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Rosemary is completely free of charge, making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
 
-Rosemary is designed by a hacker to defend against hackers. He knows what hackers are doing and thinking, regardless of whether they are ethical or malicious.
+Rosemary's creator is an experienced white hat hacker, so the cybersecurity solution's design effectively detects and prevents sophisticated cyber threats. The Rosemary Intrusion Detection and Prevention System utilizes the malicious hacker's inside knowledge of current and potential malicious hacker tactics. And it provides complete transparency and is hassle-free for users.
 
-每当电脑或网络连接互联网时，我们的电脑或网络就有机会被恶意黑客的攻击。为免成为下一个网络罪行的受害者，我们的「迷迭香」可以助你免于被袭击。不像其他知名的商业品牌，她是完全免费，每个人都能够负担的入侵防御系统。
+Protecting digital assets should be a priority, and Rosemary Intrusion Detection and Prevention System meets this need. With this reliable and easy-to-use cybersecurity solution, individuals and small businesses can feel secure knowing that their digital assets are protected, and their data is secured against cyberattacks.
 
-我们的「迷迭香」是随插即用，用户的参与性极少，适合一般大众使用。
+In summary, Rosemary Intrusion Detection and Prevention System is an effective, user-friendly, and accessible cybersecurity solution that can cater to the varying security needs of individuals and small office/home office businesses.
 
-「迷迭香」是由黑客设计来对付黑客的有效工具，不论其为道德黑客抑或是恶意黑客。
+当技术不断进步时，网络安全威胁也会不断增加，这可能使个人和小型企业容易受到网络犯罪的侵害。公共网络和电脑面临来自世界各地黑客的日常攻击，而「迷迭香」入侵防御系统（IDPS）则为应对此类威胁提供了高效、超低延迟的解决方案。
+
+「迷迭香」的主要优势之一是其用户友好设计，它可供任何人使用，无论其在网络安全监控（NSM）或信息安全（InfoSec）方面的技术水平如何。此外，「迷迭香」以 「随插即用，并且可以忘记之」的方式运行，无需进行复杂的配置或维护。同时，「迷迭香」 是完全免费的，这使其成为适合家庭和小型办公室/家庭办公室（SOHO）设置的负担得起的解决方案。
+
+「迷迭香」的设计者是一位经验丰富的「白帽黑客」，因此这个网络安全方案的设计可以有效地检测和防范复杂的网络威胁。「迷迭香」入侵防御系统利用恶意黑客对当前和潜在的恶意黑客策略的深入了解，为用户提供完全透明、无麻烦的网络安全解决方案。
+
+保护数字资产应该是一个优先考虑的问题，「迷迭香」入侵防御系统可以满足这一需求。有了这个可靠且易于使用的网络安全方案，个人和小型企业可以放心，他们的数字资产得到了保护，他们的数据得到了安全的保护，不会受到网络攻击的侵害。
+
+总之，「迷迭香」入侵防御系统是一个有效、用户友好且易于获取的网络安全解决方案，可以满足个人和小型办公室/家庭办公室不同的安全需求。
 
 ## FEATURES
 
