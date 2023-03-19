@@ -2,7 +2,7 @@
 
 # Who am I?
 
-Samiux is a CyberSecurity Enthusiast.  He has been OSCE, OSCP and OSWP since 2012.  He is a blogger and running this personal website.  He builds things and also breaks things.  When in spare time, he will do some programming and reading.  He is very enjoy in his penetration testing lab.  However, he know nothing about cyber security!
+A cybersecurity enthusiast at heart, Samiux has been an OSCE, OSCP, and OSWP certified professional since 2012. While he runs his personal website and is an active blogger, Samiux also engages in building and breaking things, for a deeper understanding of cybersecurity. In his spare time, he can be found programming and reading, all the while enjoying his time in his penetration testing lab. Despite his vast experience in the field, Samiux modestly claims to know nothing about cybersecurity, always eager to learn more and continuously improve his skills.
 
 His slogan are :
 
