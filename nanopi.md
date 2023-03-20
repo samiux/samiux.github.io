@@ -38,7 +38,7 @@ OSCE  OSCP  OSWP
 - [零死角无线网络](/mesh.md)  
 - [小心被钓鱼](/phishing.md)  
 - [网络空间安全及罪案消息 - 信用卡与电子支付](/e-pay.md)  
-- [Rosemary IPS: 轻松保护家庭和小型办公室网络 (Easy Network Protection for Home and SOHO)](/rosemary_ips.md)  
+- [使用 Rosemary IPS 和 Nano Pi R6S 轻松保护您的家庭网络安全](/rosemary_ips.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
