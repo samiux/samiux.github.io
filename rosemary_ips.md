@@ -14,7 +14,7 @@ Rosemary IPS 专为 FriendlyElec Nano Pi R6S 设计，帮助您轻松保护家�
 
 安装 Rosemary IPS 需便携友好的 Nano Pi R6S，除此之外只需迅速建立网络连接即可工作，无需进行复杂配置。我们的服务完全免费，无需冗长的注册过程或任何隐藏成本。
 
-使用 Rosemary IPS，实现无缝的家庭和SOHO网络安全保护，为您的所有在线事务提供可靠安全保障。现在下载并安装 Rosemary IPS！
+使用 Rosemary IPS，实现无缝的家庭和 SOHO 网络安全保护，为您的所有在线事务提供可靠安全保障。现在下载并安装 Rosemary IPS！
 
 Samiux  
 OSCE OSCP OSWP  
