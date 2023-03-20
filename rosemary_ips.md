@@ -1,28 +1,20 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# Rosemary IPS: Easy Network Protection for Home and SOHO
+# Effortlessly Secure Your Home Network with Rosemary IPS and Nano Pi R6S
 
-In today's digital world, cybersecurity is a top priority for home users and small office home office (SOHO) businesses. Protecting your devices and data against advanced cyber threats requires an effective intrusion prevention system (IPS) that can provide real-time protection 24/7. Rosemary IPS is a network-based IPS solution that is designed to keep you and your business safe while being incredibly user-friendly.
+Rosemary IPS is designed specifically for use with FriendlyElec Nano Pi R6S, providing easy network security for your home or small office home office (SOHO). With our advanced intrusion detection technology, Rosemary IPS is able to monitor network activity in real-time, detecting harmful traffic and data theft to keep your personal and business data safe.
 
-Unlike traditional IPS systems that require complicated configurations and management interfaces, Rosemary IPS is designed to be easy to install and operate without requiring any specialist knowledge or technical expertise. This makes it an ideal solution for home users and SOHO businesses that want to protect their devices and data but may not have the resources to manage complex security systems.
+Installation of Rosemary IPS requires only the portable and user-friendly Nano Pi R6S and a network connection, with no complicated configuration required. And with our service being completely free of charge and no hidden costs or lengthy sign-up procedures, you can easily protect your network and data against online threats.
 
-Rosemary IPS is specifically designed for home users and SOHO businesses, and it’s completely free to use. This makes it an affordable choice for anyone who wants to enhance their online security without spending a lot of money. Its sophisticated threat detection engine effectively safeguards against a wide range of cyber threats, including malware, phishing, ransomware, and more. Rosemary IPS is updated continuously with the latest cybersecurity intelligence, ensuring that your devices and data are always protected.
+Enjoy a seamless online experience with reliable protection using Rosemary IPS - the ultimate home and SOHO network security solution. Download and install Rosemary IPS now!
 
-Moreover, Rosemary IPS provides hands-off protection, meaning once installed, you don't need to configure or manage it. You can simply let it run in the background and focus on your core operations, without worrying about cyber threats affecting your business.
+# 使用 Rosemary IPS 和 Nano Pi R6S 轻松保护您的家庭网络安全
 
-In summary, if you're looking for a reliable, user-friendly, and free intrusion prevention system for your home or SOHO business, Rosemary IPS is the perfect solution. Its simplicity, real-time protection, and affordability make it an ideal choice for anyone who wants to secure their online activities and sensitive data without breaking the bank. Try Rosemary IPS today and rest easy knowing that you're well-protected.
+Rosemary IPS 专为 FriendlyElec Nano Pi R6S 设计，帮助您轻松保护家庭或小型 SOHO 办公室的网络安全。使用我们的高级入侵检测技术，实时监测网络活动，可捕捉有害流量和数据窃取，确保您的个人数据和商业信息安全。
 
-# Rosemary IPS: 轻松保护家庭和小型办公室网络
+安装 Rosemary IPS 需便携友好的 Nano Pi R6S，除此之外只需迅速建立网络连接即可工作，无需进行复杂配置。我们的服务完全免费，无需冗长的注册过程或任何隐藏成本。
 
-当今数字化的世界里，网络安全是家庭用户和小型办公室居家办公企业 (SOHO) 的首要任务。保护设备和数据不受先进的网络威胁侵害需要一种有效的入侵防范系统（IPS），可以提供实时保护 24/7。Rosemary IPS 是一种基于网络的 IPS 解决方案，旨在在非常易于使用的同时保护您和您的企业的网络安全。
-
-与需要复杂的配置和管理界面的传统 IPS 系统不同，Rosemary IPS 被设计成易于安装且不需要专业知识或技术专长。这使其成为家庭用户和 SOHO 企业的理想解决方案，想保护您的设备和数据，但可能无法管理复杂安全系统的资源。
-
-Rosemary IPS 专门为家庭用户和 SOHO 企业设计，完全免费使用。这使得它成为任何想要增强网络安全而不想花费大量资金的人的经济选择。其复杂的威胁检测引擎可以有效地防范各种网络威胁，包括恶意软件、网络钓鱼、勒索软件等。Rosemary IPS 随时更新最新的网络安全情报，确保您的设备和数据始终受保护。
-
-此外，Rosemary IPS 提供无需管理的保护，这意味着一旦安装，您无需进行配置或管理。您只需让它在后台运行，专注于核心运营，无需担心网络威胁影响您的业务。
-
-综上所述，如果您正在寻找一个可靠、易于使用和免费的入侵防范系统，供您的家庭或 SOHO 企业使用，那么Rosemary IPS 是完美的解决方案。其简易性、实时保护性和经济性使其成为任何想要保护其在线活动和敏感数据而不花费大量资金的人的理想选择。立即尝试 Rosemary IPS，放心知道您得到了充分的保护。
+使用 Rosemary IPS，实现无缝的家庭和SOHO网络安全保护，为您的所有在线事务提供可靠安全保障。现在下载并安装 Rosemary IPS！
 
 Samiux  
 OSCE OSCP OSWP  
