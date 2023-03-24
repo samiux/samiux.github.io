@@ -199,7 +199,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统内有多少条规则？
 
-所有规则都是免费的，已经超过 4 万 6 千多条，而且亦每日在增加中。
+所有规则都是免费的，已经超过 4 万 7 千多条，而且亦每日在增加中。
 
 ### 是否建议在互联网中利用 SSH 接驳防御入侵系统？
 
