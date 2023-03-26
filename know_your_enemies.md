@@ -18,7 +18,7 @@
 森美力 (Samiux) (網名)  
 寫於二零一七年八月廿六日，中國香港
 
-```sha256sum d10cc713be9db7e8eea183f933ccf36a4fd8f002acb8494d6bdaf3371a0709fa  知彼知己-資安篇.pdf```
+```sha256sum 10c613e8ed62c69bac890e1f3b9e4032bd1207283bf53c7c303c56dbc50aea46  知彼知己-資安篇.pdf```
 
 如遇缺字或缺標點情況，請下載閱讀。
 
