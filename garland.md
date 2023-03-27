@@ -70,7 +70,7 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 A 16GB micro SD Card (at least Class 10) is required for the installation.  
 
-Download the [SD Card image (565.5MB)](<https://drive.google.com/file/d/1xlKt9UPNRYXNbFiHtEVNLI0RjyzWPfN3/view?usp=sharing>) at Google Drive and extract it.
+Download the [SD Card image](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>) at Google Drive and extract it.
 
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R5S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
@@ -78,14 +78,14 @@ Download [Balena Etcher](https://www.balena.io/etcher) at its official site and 
 
 你需要一张至少 16GB (规格 10) 的 SD 卡。
 
-从[谷歌云盘](<https://drive.google.com/file/d/1xlKt9UPNRYXNbFiHtEVNLI0RjyzWPfN3/view?usp=sharing>)下载镜像文件，然后解压文件。
+从[谷歌云盘](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>)下载镜像文件，然后解压文件。
 
 从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
 
 ### Checksum
 
-sha256 57d091d907c6e442520746f1ee2d15b82c8b11bf4060d7b5bf63a5223cfacde8  rk3568-r5s-sd-garland-6.0.10-5.10-arm64-20230313.zip  
-sha256 28ba0c815a794e31f64f71097e9959577963982e9d5a8a0b18d1d11461d43f53  rk3568-r5s-sd-garland-6.0.10-5.10-arm64-20230313.img  
+sha256 e272053b25c564ce6e94b1b6fea25770f7096c0538d1ddc9e6f20f223b38b63f  rk3568-r5s-sd-garland-6.0.10-5.10-arm64-20230327.zip  
+sha256 8ed59d56c9cc2bec2b60acaa333958bbb38fd10cba902f612a648d1329ec8664  rk3568-r5s-sd-garland-6.0.10-5.10-arm64-20230327.img  
 
 ## LICENSE
 
