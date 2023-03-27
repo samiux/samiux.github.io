@@ -226,9 +226,13 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot of the burning SD Card__) after half an hour in order to get the current local time.  
 
+__Speed is about 200Mbps.__
+
 ## 已知问题
 
 因为防御入侵系统没有时钟电池，所以在烧录后第一次开机时，应在半小时后重启一次就可以更正时钟了。
+
+__速度大概只有 200Mbps 左右。__
 
 ## REFERENCE
 
