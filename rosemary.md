@@ -69,7 +69,7 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 
 A 16GB micro SD Card (at least Class 10) is required for the installation.  
 
-Download the [SD Card image (568.7MB)](<https://drive.google.com/file/d/1DTXfDHVHJ6UPq64EHpJ8mswBV_Z_C_PB/view?usp=sharing>) at Google Drive and extract it.
+Download the [SD Card image](<>https://drive.google.com/file/d/1nK99uLtqJdiTQuKoAZbj8eP2T1sn70bG/view?usp=sharing) at Google Drive and extract it.
 
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R6S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
@@ -77,14 +77,14 @@ Download [Balena Etcher](https://www.balena.io/etcher) at its official site and 
 
 你需要一张至少 16GB (规格 10) 的 SD 卡。
 
-从[谷歌云盘](<https://drive.google.com/file/d/1DTXfDHVHJ6UPq64EHpJ8mswBV_Z_C_PB/view?usp=sharing>)下载镜像文件，然后解压文件。
+从[谷歌云盘](<https://drive.google.com/file/d/1nK99uLtqJdiTQuKoAZbj8eP2T1sn70bG/view?usp=sharing>)下载镜像文件，然后解压文件。
 
 从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
 
 ### Checksum
 
-sha256 f8b63ec5f3714ee1694a308051401ba464dc1ba6aee58358eac7c3d5ca0112dd  rk3588-r6s-sd-rosemary-6.0.10-5.10-arm64-20230313.zip  
-sha256 e581317910e773f179ee7cbb66fcb63fae44db3e51b7142dafe75a878ee0a657  rk3588-r6s-sd-rosemary-6.0.10-5.10-arm64-20230313.img  
+sha256 286d89b15d6e1e23e1ada77ad32ef107b05bb0eec7e4565d71997db22e3eaefb  rk3588-r6s-sd-rosemary-6.0.10-5.10-arm64-20230327.zip  
+sha256 2ee2a1ec79d644f39903be90fbea06b8baa5977cf398e60bf747574220554161  rk3588-r6s-sd-rosemary-6.0.10-5.10-arm64-20230327.img  
 
 ## LICENSE
 
