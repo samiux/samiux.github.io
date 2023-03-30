@@ -105,6 +105,7 @@ OSCE  OSCP  OSWP
 更新 二零二三年一月七日，中国香港  
 
 #### 参考连结：
+- [平价适合家用的防御入侵系统](/nanopi.md)  
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R6S)](/rosemary.md)  
 - [Garland 茼蒿 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R5S](/garland.md)  
 - [武裝自己 (資安編)](/armour_yourself.md)  
