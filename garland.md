@@ -226,7 +226,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot of the burning SD Card__) after half an hour in order to get the current local time.  
 
-__Bottleneck is no CPU, speed is about 200 to 300Mbps.__
+__Bottleneck is on CPU, speed is about 200 to 300Mbps.__
 
 ## 已知问题
 
