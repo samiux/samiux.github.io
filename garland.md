@@ -226,13 +226,13 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot of the burning SD Card__) after half an hour in order to get the current local time.  
 
-__Speed is about 200Mbps.__
+__Bottleneck is no CPU, speed is about 200 to 300Mbps.__
 
 ## 已知问题
 
 因为防御入侵系统没有时钟电池，所以在烧录后第一次开机时，应在半小时后重启一次就可以更正时钟了。
 
-__速度大概只有 200Mbps 左右。__
+__瓶颈是在处理器，速度大概只有 200 至 300Mbps 左右。__
 
 ## REFERENCE
 
