@@ -2,6 +2,8 @@
 
 # Garland 茼蒿 - Intrusion Detection and Prevention System  防御入侵系统
 
+# DISCONTINUED DUE TO THE PERFORMANCE NOT UP TO THE STANDARD!!!
+
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
 One of the most significant benefits of Garland is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Garland is completely free of charge, making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
@@ -70,16 +72,18 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 A 16GB micro SD Card (at least Class 10) is required for the installation.  
 
+<!--
 Download the [SD Card image](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>) at Google Drive and extract it.
-
+-->
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R5S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
 ## 安装
 
 你需要一张至少 16GB (规格 10) 的 SD 卡。
 
+<!--
 从[谷歌云盘](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>)下载镜像文件，然后解压文件。
-
+-->
 从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
 
 ### Checksum
