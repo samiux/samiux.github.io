@@ -67,7 +67,7 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 
 ## INSTALLATION
 
-A 16GB micro SD Card (at least Class 10) is required for the installation.  
+A 64GB micro SD Card (at least Class 10) is required for the installation.  
 
 Download the [SD Card image](<>https://drive.google.com/file/d/1nK99uLtqJdiTQuKoAZbj8eP2T1sn70bG/view?usp=sharing) at Google Drive and extract it.
 
