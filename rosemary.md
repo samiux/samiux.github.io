@@ -75,7 +75,7 @@ Download [Balena Etcher](https://www.balena.io/etcher) at its official site and 
 
 ## 安装
 
-你需要一张至少 16GB (规格 10) 的 SD 卡。
+你需要一张至少 64GB (规格 10) 的 SD 卡。
 
 从[谷歌云盘](<https://drive.google.com/file/d/1nK99uLtqJdiTQuKoAZbj8eP2T1sn70bG/view?usp=sharing>)下载镜像文件，然后解压文件。
 
