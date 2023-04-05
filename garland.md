@@ -70,20 +70,18 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 ## INSTALLATION
 
-A 16GB micro SD Card (at least Class 10) is required for the installation.  
+A 64GB micro SD Card (at least Class 10) is required for the installation.  
 
-<!--
 Download the [SD Card image](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>) at Google Drive and extract it.
--->
+
 Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R5S with the SD Card.  Therefore, faster the SD Card is better the performance.  
 
 ## 安装
 
-你需要一张至少 16GB (规格 10) 的 SD 卡。
+你需要一张至少 64GB (规格 10) 的 SD 卡。
 
-<!--
 从[谷歌云盘](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>)下载镜像文件，然后解压文件。
--->
+
 从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
 
 ### Checksum
