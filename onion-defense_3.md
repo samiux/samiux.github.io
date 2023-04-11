@@ -52,7 +52,7 @@
 
 避免使用非自家的虚拟私人网络 (Virtual Private Network, VPN) 进行金融活动或豋入各类账号。
 
-安装及使用「迷迭香」(Rosemary) 或「茼蒿」(Garland) 防御入侵系统 (Intrusion Detection and Prevention System)。这个系统由我独力开发，是免费提供给每一个人使用。它安装后是基本上不需要再理会或维护的设备。它是「随插即用，并且可以忘记之」的高效开源 (Open Source) 产品。
+安装及使用「迷迭香」(Rosemary) 防御入侵系统 (Intrusion Detection and Prevention System)。这个系统由我独力开发，是免费提供给每一个人使用。它安装后是基本上不需要再理会或维护的设备。它是「随插即用，并且可以忘记之」的高效开源 (Open Source) 产品。
 
 它的特点是有效阻挡已知的恶意行为和有效阻挡已知的恶意软件，并且具有极低的延迟性能，可以播放 4K 多媒体和玩要求速度的网络游戏；它更会自动更新，并且兼容现有通用的所有作业系统 (Operating System)。
 
@@ -108,7 +108,6 @@ OSCE  OSCP  OSWP
 #### 参考连结：
 - [平价适合家用的防御入侵系统](/nanopi.md)  
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R6S)](/rosemary.md)  
-- [Garland 茼蒿 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R5S](/garland.md)  
 - [武裝自己 (資安編)](/armour_yourself.md)  
 - [知彼知己 (資安編)](/know_your_enemies.md)  
 - [軍事演習 (資安編)](/military_exercises.md)  
