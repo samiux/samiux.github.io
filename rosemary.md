@@ -254,5 +254,6 @@ Discord @samiux#3445
 - [Rosemary IDPS Dashboard Beta 1](https://youtu.be/wm0pQjfdeGs)  
 - [Rosemary IDPS Dashboard Beta 2](https://youtu.be/BbaheXssJfM)  
 - [Rosemary IDPS Dashboard RC 1](https://youtu.be/M7Nbw7EsP-A)  
+- [Rosemary IDPS Dashboard RC 2](https://youtu.be/dD0PAkybtDw)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
