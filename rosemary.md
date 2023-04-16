@@ -253,5 +253,6 @@ Discord @samiux#3445
 - [使用 Rosemary IPS 和 Nano Pi R6S 轻松保护您的家庭网络安全](/rosemary_ips.md)  
 - [Rosemary IDPS Dashboard Beta 1](https://youtu.be/wm0pQjfdeGs)  
 - [Rosemary IDPS Dashboard Beta 2](https://youtu.be/BbaheXssJfM)  
+- [Rosemary IDPS Dashboard RC 1](https://youtu.be/M7Nbw7EsP-A)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
