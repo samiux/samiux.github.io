@@ -14,6 +14,8 @@
 
 欢迎回报可疑网址或钓鱼网址等恶意网站。  
 
+最后，若果你想支持、打赏我这个开源项目的话，务请捐款支持「香港癌症基金会」，多谢大家。
+
 祝各位安全地在网络上冲浪！并祝女神节快乐！  
 
 Samiux  
@@ -27,6 +29,10 @@ OSCE  OSCP  OSWP
 ## 淘宝参考网址：
 
 - [FriendlyElec NanoPi R6S](https://m.tb.cn/h.UpplqOd?tk=T2SLdRuyGZJ)  
+
+## 支持、打赏务请捐款至「香港癌症基金会」
+
+- [香港癌症基金会](https://www.cancer-fund.org)  
 
 ## 参考：
 
