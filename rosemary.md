@@ -57,7 +57,7 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 - Max. WAN traffic flow up to 2.5Gbps  
 - 1 HDMI 2.0  
 - 1 USB 3.0 Type-A, 1 USB 2.0 Type-A  
-- 1 SD Card Slot  
+- 1 micro SD Card Slot  
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
