@@ -33,6 +33,7 @@ OSCE  OSCP  OSWP
 - [鸡蛋营养价值的误区](https://zhuanlan.zhihu.com/p/38169491)  
 - [每天吃四顆蛋的原因,柏格醫生 Dr Berg](https://www.youtube.com/watch?v=GVK-Ia2SdM8)  
 - [大錯誤:雞蛋增加心臟風險？柏格醫生](https://www.youtube.com/watch?v=fHCwKqZdUsU)  
+- [避食雞蛋膽固醇仍高？ 2類食物是元兇 營養師教降膽固醇飲食 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12618645-%e9%81%bf%e9%a3%9f%e9%9b%9e%e8%9b%8b%e8%86%bd%e5%9b%ba%e9%86%87%e4%bb%8d%e9%ab%98%ef%bc%9f-2%e9%a1%9e%e9%a3%9f%e7%89%a9%e6%98%af%e5%85%83%e5%85%87-%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e9%99%8d?current_cat=8)  
 - [心臟血管鈣化指數是甚麼？](https://www.rsroc.org.tw/knowledge/education/content.asp?ID=47)  
 - [冠狀動脈鈣化](https://baike.baidu.hk/item/%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E9%88%A3%E5%8C%96/10538893)  
 - [冠状动脉钙化](https://www.thepaper.cn/newsDetail_forward_8912607)  
