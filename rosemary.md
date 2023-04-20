@@ -67,19 +67,19 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 
 ## INSTALLATION
 
-A 64GB micro SD Card (at least Class 10) is required for the installation.  
+A 64GB micro SD Card (at least Class V30) is required for the installation.  
 
 Download the [SD Card image](<https://drive.google.com/file/d/1nK99uLtqJdiTQuKoAZbj8eP2T1sn70bG/view?usp=sharing>) at Google Drive and extract it.
 
-Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the SD Card.  Then boot the NanoPi R6S with the SD Card.  Therefore, faster the SD Card is better the performance.  
+Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the micro SD Card.  Then boot the NanoPi R6S with the micro SD Card.  Therefore, faster the micro SD Card is better the performance.  
 
 ## 安装
 
-你需要一张至少 64GB (规格 10) 的 micro SD 卡。
+你需要一张至少 64GB (规格 V30) 的 micro SD 卡。
 
 从[谷歌云盘](<https://drive.google.com/file/d/1nK99uLtqJdiTQuKoAZbj8eP2T1sn70bG/view?usp=sharing>)下载镜像文件，然后解压文件。
 
-从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 SD 卡中，再将 SD 卡启动 NanoPi。所以速度快的 SD 卡在效能上较为占优。
+从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 micro SD 卡中，再将 micro SD 卡启动 NanoPi。所以速度快的 micro SD 卡在效能上较为占优。
 
 ### Checksum
 
