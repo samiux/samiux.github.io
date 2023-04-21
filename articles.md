@@ -11,7 +11,7 @@
 - [知彼知己 (資安編)](/know_your_enemies.md)
 - [軍事演習 (資安編)](/military_exercises.md)
 
-## Text  
+## InfoSec  
 
 ### Red Team
 
