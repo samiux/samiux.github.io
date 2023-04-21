@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/samiux/update-scripts/master/default.cust
 
 ```[,]``` for page up when the words list menu is on.
 
-You can even change the number of words to be displayed in the words list menu at ```schema.yaml```, such as ```quick5.schema.yaml```.
+You can even change the number of words to be displayed in the words list menu (```page_size```) at ```schema.yaml```, such as ```quick5.schema.yaml```.
 
 ```
 nano ~/.config/ibus/rime/build/quick5.schema.yaml
