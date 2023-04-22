@@ -171,7 +171,7 @@ Between 0600 and 0630 hours every day, Garland will do the housekeeping and upda
 Garland can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Garland is booting up.  It is advised NOT to turn off the Garland between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Garland.  Meanwhile, if you turn off the Garland within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Garland?  
-There are over 38,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
+There are over 32,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
 
 ### Do you recommend to access Garland via SSH in internet?
 For security purpose, it is NOT recommended to connect Garland via SSH in internet.  However, you may connect Garland via SSH in intranet.  The username and password are "garland".  The IP address of the garland is 192.168.x.200, e.g. 192.168.0.200.  
@@ -203,7 +203,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统内有多少条规则？
 
-所有规则都是免费的，已经超过 3 万 8 千多条，而且亦每日在增加中。
+所有规则都是免费的，已经超过 3 万 2 千多条，而且亦每日在增加中。
 
 ### 是否建议在互联网中利用 SSH 接驳防御入侵系统？
 
