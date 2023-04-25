@@ -39,6 +39,7 @@
 - [我的 Ubuntu 笔记本](/ubuntu_laptop.md)  
 - [平价适合家用的防御入侵系统](/nanopi.md)  
 - [使用 Rosemary IPS 和 Nano Pi R6S 轻松保护您的家庭网络安全](/rosemary_ips.md)  
+- [如何成为反网络诈骗专家？](/anti-scam.md)  
 
 ### Hacker
 
