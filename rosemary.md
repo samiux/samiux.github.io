@@ -61,9 +61,12 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
-## IDPS ENGINE
+## MAIN COMPONENTS
+
+All are open source projects.
 
 - Suricata 6.0.11  
+- Debian
 
 ## INSTALLATION
 
