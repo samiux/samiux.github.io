@@ -29,5 +29,6 @@ Samiux
 
 - [AlipayHK連大陸小店都用到！仲可以用嚟搭地鐵/巴士！北上幾乎唔駛唱錢?!](https://www.youtube.com/watch?v=tGDwynMg0X4)  
 - [八達通銀聯卡 內地用港幣極速支付！仲有$100回贈！](https://www.youtube.com/watch?v=cbPmPKZy9M0)  
+- [超簡單！港人開大陸銀行戶口攻略！連人民幣都唔駛帶?! 點匯錢入大陸戶口？](https://www.youtube.com/watch?v=7sNM1pcROYM)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
