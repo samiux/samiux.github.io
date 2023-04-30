@@ -80,7 +80,7 @@
 - [切勿以身试法 (加密通讯软件篇)](/encrochat.md)
 - [切勿以身试法 (掩耳盗铃篇)](/stealring.md)  
 
-### Misc.
+## Misc.
 
 - [年近六十，心脏血管年龄少于卅五！](/egg.md)  
 - [《手帶 app 有幾安全？》一文之閱後感](/is_xss_1.md)
@@ -100,6 +100,7 @@
 - [翻墙违法了吗？](/using_vpn.md)  
 - [1989 年春夏之交的政治风波 - 反革命暴乱](/june4.md)  
 - [若果中美不得不战](/china_usa.md)  
+- [深圳福田一日游 (支付篇)](/china_payment_2023.md)  
 
 ## Tutorials
 
