@@ -95,6 +95,7 @@ sudo rm -R lychee
 
 ## Test file
 - [Eicar Test File](https://www.eicar.org/download-anti-malware-testfile/)  
+- [AMTSO Security Features Check Tools -- Desktop](https://www.amtso.org/security-features-check/)  
 
 ## Known issues
 
