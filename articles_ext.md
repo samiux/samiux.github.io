@@ -105,11 +105,11 @@
 - [美军披露“福特”号航母去年出现4部挡焰板集体故障 -- 观察者网](https://www.guancha.cn/military-affairs/2023_02_06_678776.shtml)  
 - [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
 
-### 翻墙违法了吗？
+## 翻墙违法了吗？
 
 - [翻墙违法了吗？](/using_vpn.md)  
 
-### 网络攻击
+## 网络攻击
 
 - [美国网军“酸狐狸平台”的事实与逻辑 -- 环球网 ](https://opinion.huanqiu.com/article/49HwiYUPXIx)  
 - [美国利用“酸狐狸平台”进行全球网络攻击，还为中国和俄罗斯设置专门服务器 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_18827820)  
@@ -137,7 +137,15 @@
 - [揭秘黑客組織ATW ：對華瘋狂實施網絡攻擊、數據竊取和披露炒作活動 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12301515-%e6%8f%ad%e7%a7%98%e9%bb%91%e5%ae%a2%e7%b5%84%e7%b9%94atw-%ef%bc%9a%e5%b0%8d%e8%8f%af%e7%98%8b%e7%8b%82%e5%af%a6%e6%96%bd%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a%e3%80%81%e6%95%b8%e6%93%9a%e7%ab%8a)  
 - [斩断危害中国数据安全的魔手 —— 揭秘疯狂对华实施数据窃取的ATW组织 -- 奇安盘古实验室](https://www.pangulab.cn/post/the_atw_mystery/)  
 
-### 社会工程（渗透测试）- 网络安全教育
+## CIA
+
+- [「黑客帝國」調查報告——美國中央情報局（CIA）（之一）-- 大公文匯網](https://www.tkww.hk/a/202305/04/AP64532312e4b0e38b8436ef6d.html)  
+- [中情局用5種手段在超50國策劃「顏色革命」-- 大公文匯網](https://www.tkww.hk/a/202305/04/AP64531c16e4b0e38b8436ecb9.html)  
+- [報告披露：CIA5種手段策劃「顏色革命」-- 大公文匯網](https://www.tkww.hk/a/202305/05/AP645447cde4b0e38b84373c52.html)  
+- [美方五卑劣手段　炮製50國「顏色革命」-- 大公文匯網](https://www.tkww.hk/a/202305/05/AP64544c22e4b0e38b84373eba.html)  
+- [中情局在超过50国策划“颜色革命”，5种手段被中方曝光 -- 观察者网](https://www.guancha.cn/politics/2023_05_04_690919.shtml)  
+
+## 社会工程（渗透测试）- 网络安全教育
 
 - [中科大给师生们发了一封钓鱼邮件 ，结果3000多人上当了 -- 观察者](https://user.guancha.cn/main/content?id=847334)  
 - [网上这些“陷阱”，千万要小心！ -- 东部战区](https://mp.weixin.qq.com/s/Yaw_PgCfUkANqnfzujc1BQ)  
@@ -286,7 +294,7 @@
 - [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 - [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
 
-### 贩卖人口骗案
+## 贩卖人口骗案
 
 - [Lorey都收到騙徒誘騙邀請？ 假借一帶一路專呃貪心無知青少年！ 3個不可不聽嘅tips教你避開死亡騙局！-- Lorey快閃講](https://www.youtube.com/watch?v=t85afUI_ygs)  
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
@@ -296,19 +304,19 @@
 
 - [专题视听频道](/channels.md)  
 
-### 【影子战争】
+## 【影子战争】
 
 - [玉渊谭天 -【影子战争】5629份合同，揭秘美国海外生物实验室布局 (上集)](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6144575045419452381&share_to=wechat&toc_style_id=feeds_default&track_id=4161f2a3-f7a8-4cb5-adf6-9a7f2ad88ea7)  
 - [玉渊谭天 -【影子战争】深挖美国海外生物实验室，我们有新的发现 (下集)](https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&share_to=wechat&item_id=7723114297582648859&track_id=0386631E-94D6-4938-9CB5-DFFA70A9089E_673402759345)  
 - [影子戰爭 - 深挖美國海外生物實驗室，我們有新的發現 -- 大公文匯](https://www.tkww.hk/a/202205/06/AP6274de0fe4b0a46902605c94.html)  
 
-### 信息战
+## 信息战
 
 - [第141期：张维为 范勇鹏 分析俄乌军事行动背后的信息战会对未来战争产生的影响；中国能从中得到怎样的启发与警示？-《这就是中国》ChinaNow EP141 20220502【东方卫视官方频道】](https://www.youtube.com/watch?v=At26PXNJOGs)  
 - [第142期：俄乌冲突对地缘政治将产生怎样的影响？听张维为 邱文平 从普京的演讲说开去，解析美西方肢解中国的招数 -《这就是中国》#ChinaNow EP142 20220509【东方卫视官方频道】](https://www.youtube.com/watch?v=p1dh2bXeq00)  
 - [持续至少5年，美军这一丑闻曝光！ -- 央视新闻](https://www.guancha.cn/internation/2022_12_23_672477.shtml)  
 
-### 美国新豋月
+## 美国新豋月
 
 - [美飛船今升空繞月　新登月計劃揭幕 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630c1889e4b0a469029a2689.html)  
 - [美國新一代登月火箭發射推遲 -- 大公文匯](https://www.tkww.hk/a/202208/29/AP630cc092e4b0a469029a8150.html)  
