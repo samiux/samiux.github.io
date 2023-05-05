@@ -104,6 +104,7 @@
 - [美军吸气式高超音速武器“最后一次成功试射” -- 观察者网](https://www.guancha.cn/military-affairs/2023_01_31_677970.shtml)  
 - [美军披露“福特”号航母去年出现4部挡焰板集体故障 -- 观察者网](https://www.guancha.cn/military-affairs/2023_02_06_678776.shtml)  
 - [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
+- [美空军称AIM-260将在今年投产，未来将装备“忠诚僚机” -- 观察者网](https://www.guancha.cn/military-affairs/2023_05_05_691072.shtml)  
 
 ## 翻墙违法了吗？
 
