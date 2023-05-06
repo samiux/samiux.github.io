@@ -29,4 +29,8 @@
 Samiux    
 二零二三年四月卅日，中国香港      
 
+## 参考：
+
+- [大陸用Alipayhk或Wechat pay HK畀錢攻略！外賣、call車都用得？大陸仲收唔收現金？](https://www.youtube.com/watch?v=4ohRP5d9CYI&list=PLeBpjA8b8SJWgKNxRwD6YccWwHvgi1RPs&index=14)  
+- [AlipayHK連大陸小店都用到！仲可以用嚟搭地鐵/巴士！北上幾乎唔駛唱錢?!](https://www.youtube.com/watch?v=tGDwynMg0X4&list=PLeBpjA8b8SJWgKNxRwD6YccWwHvgi1RPs&index=30)  
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
