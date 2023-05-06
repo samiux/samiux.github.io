@@ -146,6 +146,7 @@
 - [報告披露：CIA5種手段策劃「顏色革命」-- 大公文匯網](https://www.tkww.hk/a/202305/05/AP645447cde4b0e38b84373c52.html)  
 - [美方五卑劣手段　炮製50國「顏色革命」-- 大公文匯網](https://www.tkww.hk/a/202305/05/AP64544c22e4b0e38b84373eba.html)  
 - [中情局在超过50国策划“颜色革命”，5种手段被中方曝光 -- 观察者网](https://www.guancha.cn/politics/2023_05_04_690919.shtml)  
+- [【短片】【有聲專欄】盧展常：中方揭破 CIA猙獰面孔 以五手段輸出「顏色革命」-- Speakout 港人講地](https://www.youtube.com/watch?v=Dwjt5mGFgyc)  
 
 ## 社会工程（渗透测试）- 网络安全教育
 
