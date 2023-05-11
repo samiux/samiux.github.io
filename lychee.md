@@ -74,6 +74,26 @@ sudo ./clamav-installer
 Please allow about 1 to 2 minutes for ClamAV to load the signatures.   
 You can run this script at any time on the same Linux system box without any harm.
 
+## Modification
+
+If you require to make change to the clamd.conf (for example, include or exclude some directories), you can edit it.
+
+```
+sudo nano /usr/local/etc/clamd.conf
+```
+
+After the edit, you should restart the ClamAV On-Access function.
+
+```
+sudo systemctl restart clamav-clamonacc.service
+```
+
+To vertify the startup.
+
+```
+sudo cat /var/log/clamav/clamonacc.log
+```
+
 ## Uninstall
 
 ```
