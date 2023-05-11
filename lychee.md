@@ -88,7 +88,7 @@ After the edit, you should restart the ClamAV On-Access function.
 sudo systemctl restart clamav-clamonacc.service
 ```
 
-To vertify the startup.
+To verify the startup.
 
 ```
 sudo cat /var/log/clamav/clamonacc.log
