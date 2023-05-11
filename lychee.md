@@ -26,7 +26,7 @@ CONFIG_FANOTIFY_ACCESS_PERMISSIONS is not set
 ## Softwares
 
 - ClamAV 1.1.0
-- Ubuntu 22.04.1 LTS and Fedora 37 are tested
+- Ubuntu 22.04.1 LTS is tested
 
 Remarks : ClamAV uses about 3GB RAM.
 
@@ -76,19 +76,12 @@ You can run this script at any time on the same Linux system box without any har
 
 ## Uninstall
 
-(a) DEB Package
 ```
 sudo chmod +x deb-clamav-uninstaller
 sudo ./deb-clamav-uninstaller
 ``` 
 
-(b) RPM Package
-```
-sudo chmod +x rpm-clamav-uninstaller
-sudo ./rpm-clamav-uninstaller
-``` 
-
-(c) Remove lychee directory
+### Remove lychee directory
 ```
 sudo rm -R lychee
 ```
