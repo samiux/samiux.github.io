@@ -37,5 +37,6 @@ OSCE  OSCP  OSWP
 - [涉轉載羊村下載網址留言「有本事來捉我」 中大前學生會成員王浩鏘還柙 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12021579-%e6%b6%89%e8%bd%89%e8%bc%89%e7%be%8a%e6%9d%91%e4%b8%8b%e8%bc%89%e7%b6%b2%e5%9d%80%e7%95%99%e8%a8%80%e3%80%8c%e6%9c%89%e6%9c%ac%e4%ba%8b%e4%be%86%e6%8d%89%e6%88%91%e3%80%8d-%e4%b8%ad%e5%a4%a7%e5%89%8d)  
 - [國安處拘涉煽「獨」連登仔 -- 大公文匯](https://www.tkww.hk/a/202301/06/AP63b795c9e4b01fafd0f2e9da.html)  
 - [TG頻道搞手煽惑罪成囚6年半　不服定罪上訴被駁回 -- 大公文匯](https://www.tkww.hk/a/202303/18/AP64153199e4b0195a79e40c64.html)  
+- [認鼓吹傷害法官警察等3罪 連登「雲海」判囚11個月 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12783449-%e8%aa%8d%e9%bc%93%e5%90%b9%e5%82%b7%e5%ae%b3%e6%b3%95%e5%ae%98%e8%ad%a6%e5%af%9f%e7%ad%893%e7%bd%aa-%e9%80%a3%e7%99%bb%e3%80%8c%e9%9b%b2%e6%b5%b7%e3%80%8d%e5%88%a4%e5%9b%9a11%e5%80%8b%e6%9c%88)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
