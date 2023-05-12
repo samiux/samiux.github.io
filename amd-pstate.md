@@ -8,7 +8,7 @@ According to the [Admin Guide of Kernel](https://docs.kernel.org/admin-guide/pm/
 
 According to [bug tracking thread of Ubuntu](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1956509), the kernel starting from 5.15.0-35-generic can use amd-pstate driver.  The current Ubuntu 22.04.1 LTS kernel is 5.15.0-52-generic (as at this writing), you can set it up with no pain.  However, CPPC setting is a must in your BIOS.  The Ryzen 4000 series or later supports CPPC in the features.
 
-Furthermore, as at kernel version 5.19.0-41 (Ubuntu 22.04.2), the kernel parameter has been changed.
+Furthermore, as at kernel version 5.19.0-41 (Ubuntu 22.04.2) and 6.3.0 or later, the kernel parameter has been changed.
 
 First of all, make sure your BIOS, CPU and kernel is support for amd-pstate.
 
