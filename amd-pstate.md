@@ -8,6 +8,8 @@ According to the [Admin Guide of Kernel](https://docs.kernel.org/admin-guide/pm/
 
 According to [bug tracking thread of Ubuntu](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1956509), the kernel starting from 5.15.0-35-generic can use amd-pstate driver.  The current Ubuntu 22.04.1 LTS kernel is 5.15.0-52-generic (as at this writing), you can set it up with no pain.  However, CPPC setting is a must in your BIOS.  The Ryzen 4000 series or later supports CPPC in the features.
 
+Furthermore, as at kernel version 5.19.0-41 (Ubuntu 22.04.2), the kernel parameter has been changed.
+
 First of all, make sure your BIOS, CPU and kernel is support for amd-pstate.
 
 ```
@@ -27,11 +29,19 @@ CONFIG_X86_INTEL_PSTATE=y
 CONFIG_X86_AMD_PSTATE=y
 ```
 
-Make sure you ```Enable``` ```CPPC``` setting in your BIOS.  Then add ```amd_pstate.enable=1``` to the ```/etc/default/grub```.
+Make sure you ```Enable``` ```CPPC``` setting in your BIOS.  Then add ```amd_pstate.enable=1``` (kernel version 5.15.0) or ```amd_pstate=passive``` (kernel version 5.19.0) to the ```/etc/default/grub```.  When the kernel version is 6.3.0 or later, the kernel parameter should be ```amd_pstate=active```.
 
 For example :
 ```
-GRUB_CMDLINE_LINUX_DEFAULT="amd_pstate.enable=1 acpi_enforce_resources=lax trace_clock=local tsc=unstable amdgpu.cik_support=1 amdgpu.si_support=1 libata.force=noncq iommu.strict=1 iommu.passthrough=1 scsi_mod.use_blk_mq=1 quiet splash"
+GRUB_CMDLINE_LINUX_DEFAULT="amd_pstate.enable=1 libata.force=noncq iommu.strict=1 iommu.passthrough=1 quiet splash"
+```
+or 
+```
+GRUB_CMDLINE_LINUX_DEFAULT="amd_pstate=passive libata.force=noncq iommu.strict=1 iommu.passthrough=1 quiet splash"
+```
+or
+```
+GRUB_CMDLINE_LINUX_DEFAULT="amd_pstate=active libata.force=noncq iommu.strict=1 iommu.passthrough=1 quiet splash"
 ```
 
 Run ```sudo update-grub``` and then reboot your box.
@@ -148,5 +158,6 @@ fi
 Samiux    
 OSCE  OSCP  OSWP    
 November 6, 2022, Hong Kong, China    
+Updated May 13, 2023, Hong Kong, China  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
