@@ -40,6 +40,7 @@
 - [美国的霸权霸道霸凌及其危害 -- 外交部](https://www.fmprc.gov.cn/wjbxw_new/202302/t20230220_11027619.shtml)  
 - [（多圖）為什麼中國不會成為另一個美國？　華春瑩給出原因 -- 大公文匯](https://www.tkww.hk/a/202302/22/AP63f5cdf6e4b0195a79d80e4f.html)  
 - [「為什麼中國不會成為另一個美國」？華春瑩推特發圖給出10點原因 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12316956-%e3%80%8c%e7%82%ba%e4%bb%80%e9%ba%bc%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%9c%83%e6%88%90%e7%82%ba%e5%8f%a6%e4%b8%80%e5%80%8b%e7%be%8e%e5%9c%8b%e3%80%8d%ef%bc%9f%e8%8f%af%e6%98%a5%e7%91%a9%e6%8e%a8%e7%89%b9)  
+- [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 |《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
 
 ## Red Team vs Blue Team  (PLA)  
 
@@ -188,6 +189,7 @@
 - [ 第172期：展望中国经济发展光明前景，如何去理解、把握高质量发展？听#张维为#李世默 谈谈高质量发展 --《#这就是中国》#ChinaNow EP172 20230116【东方卫视官方频道】 ](https://www.youtube.com/watch?v=m5xEu0V0jq0)  
 - [【K2搜尋 -- 第二季】EP66：炸地標、下令拆遷大興土木 「耿瘋子」市長竟萬民愛戴？](https://www.youtube.com/watch?v=5xk3WZNesUI)  
 - [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
+- [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 |《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
 
 ## Hong Kong
 
