@@ -29,9 +29,9 @@ OSCE  OSCP  OSWP
 
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R6S)](/rosemary.md)  
 
-## 淘宝参考网址：
+## 参考网址：
 
-- [FriendlyElec NanoPi R6S](https://m.tb.cn/h.UEl70Qo?tk=2YhBdnCq6aB)  
+- [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289)  
 
 ## 支持、打赏务请捐款至「香港癌症基金会」
 
