@@ -31,7 +31,7 @@ OSCE  OSCP  OSWP
 
 ## 淘宝参考网址：
 
-- [FriendlyElec NanoPi R6S](https://m.tb.cn/h.UEI70Qo?tk=2YhBdnCq6aB)  
+- [FriendlyElec NanoPi R6S](https://m.tb.cn/h.UEl70Qo?tk=2YhBdnCq6aB)  
 
 ## 支持、打赏务请捐款至「香港癌症基金会」
 
