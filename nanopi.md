@@ -33,6 +33,7 @@ OSCE  OSCP  OSWP
 ## 参考网址：
 
 - [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289)  
+- [SanDisk Extreme Pro MicroSDXC UHS-I U3 A2 V30 64GB + 轉接器 ](https://www.amazon.com/-/zh_TW/SanDisk-Extreme-64GB-%E9%99%84%E8%BD%89%E6%8E%A5%E5%99%A8%E3%80%82%E5%85%A8%E9%AB%98%E6%B8%85%E5%92%8C-%E8%B6%85%E9%AB%98%E7%95%AB%E8%B3%AA%E5%BD%B1%E7%89%87%E9%8C%84%E8%A3%BD/dp/B07G3GMRYF)  
 
 ## 支持、打赏务请捐款至「香港癌症基金会」
 
