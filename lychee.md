@@ -4,7 +4,7 @@
 
 ClamAV's On-Access scanning can detect the known malwares/virus in real time.  Any Debian/RPM based Linux system can install this script when FANOTIFY is configured in your Linux kernel.
 
-According to the developers of ClamAV that is mainly designed for files upload, files downloads and file transfers.
+According to the developers that ClamAV is mainly designed for files upload, files downloads and file transfers.
 
 ## Verify
 
