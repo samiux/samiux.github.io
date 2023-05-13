@@ -20,17 +20,17 @@
 
 * 后记，理论上安装这个防御入侵系统并不需要任何网络知识，但我遇到有一个个案是需要在路由器上设定外网地址为固定地址；又另一个案例是用户的网速是 30Mpbs 而只可用上 NanoPi R5S (Garland)。
 
-# Affordable Intrusion Detection System Suitable for Home Use
+# Affordable Intrusion Prevention System Suitable for Home Use
 
-Although FriendlyElec's NanoPi R6S was originally designed as a router, I have modified them into an intrusion detection system. Intrusion defense systems are different from anti-virus software and firewalls, all three of which need to be used simultaneously. For large, medium and small enterprises, intrusion defense systems are one of the essential network security devices. Even home users need such equipment.
+Although FriendlyElec's NanoPi R6S was originally designed as a router, I have modified them into an intrusion prevention system. Intrusion prevention systems are different from anti-virus software and firewalls, all three of which need to be used simultaneously. For large, medium and small enterprises, intrusion prevention systems are one of the essential network security devices. Even home users need such equipment.
 
-I have developed an intrusion defense system based on embedded Linux, suitable for NanoPi R6S (Rosemary). Some users have tested download speeds of around 800Mbps or more. This intrusion defense system has extremely low power consumption, averaging only 5W, and runs silently, with a very small size about the size of a credit card. The hardware can be purchased on Taobao at a price slightly higher than HKD 1,000. Compared with enterprise-level intrusion defense systems that cost tens of thousands of Hong Kong Dollar, these devices are very affordable.
+I have developed an intrusion prevention system based on embedded Linux, suitable for NanoPi R6S (Rosemary). Some users have tested download speeds of around 800Mbps or more. This intrusion prevention system has extremely low power consumption, averaging only 5W, and runs silently, with a very small size about the size of a credit card. The hardware can be purchased on Taobao at a price slightly higher than HKD 1,000. Compared with enterprise-level intrusion prevention systems that cost tens of thousands of Hong Kong Dollar, these devices are very affordable.
 
 Installation is simple and direct, just burn the image file to a micro SD card to use. There is no need for setup or debugging, it is plug-and-play, and it is especially convenient for general home users or small companies. These intrusion defense devices can achieve network speeds of up to 1000Mbps, with extremely low network latency that allows you to enjoy 4K videos on YouTube or play online games, and even use BT downloads.
 
 Regarding the choice of micro SD card, it is recommended to use a V30 specification high-speed micro SD card with a read speed of 200Mbps and a write speed of 90Mbps, as its speed may affect the device's performance. In addition, in order to make the device operate normally, you need to prepare a regular mobile phone adapter and USB Type-C cable, as well as two additional CAT 6 network cables.
 
-All image files are created using free open source software, so they can be obtained for free. If you are interested in this but do not know how to make a micro SD card, you can contact me and I can provide you with a production service, which is completely free (only for friends and family). In fact, the website has provided detailed production methods. My goal is to promote network security and make the use of intrusion defense systems a universal phenomenon. In addition, I am also using this device myself. I have adopted the NanoPi R6S and hope to share this good device with more people.
+All image files are created using free open source software, so they can be obtained for free. If you are interested in this but do not know how to make a micro SD card, you can contact me and I can provide you with a production service, which is completely free (only for friends and family). In fact, the website has provided detailed production methods. My goal is to promote network security and make the use of intrusion prevention systems a universal phenomenon. In addition, I am also using this device myself. I have adopted the NanoPi R6S and hope to share this good device with more people.
 
 Welcome to report suspicious websites or phishing websites and other malicious sites.
 
