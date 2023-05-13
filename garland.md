@@ -2,7 +2,7 @@
 
 # Garland 茼蒿 - Intrusion Detection and Prevention System  防御入侵系统
 
-# DISCONTINUED DUE TO THE PERFORMANCE NOT UP TO THE STANDARD!!!
+# BEWARE!!! THE PERFORMANCE NOT UP TO THE STANDARD!!!
 
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
