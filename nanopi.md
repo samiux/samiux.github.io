@@ -34,7 +34,7 @@ All image files are created using free open source software, so they can be obta
 
 Welcome to report suspicious websites or phishing websites and other malicious sites.
 
-Finally, if you want to support and donate to my open source project, please donate to the "Hong Kong Cancer Fund". Thank you very much.
+Finally, if you want to support and donate to my open source project, please donate to the "Cancer Fund". Thank you very much.
 
 I wish everyone a safe surfing experience on the internet! And happy International Women's Day!
 
