@@ -38,7 +38,7 @@ Finally, if you want to support and donate to my open source project, please don
 
 I wish everyone a safe surfing experience on the internet! And happy International Women's Day!
 
-Postscript: In theory, installing this intrusion prevention system does not require any network knowledge, but I encountered a case where it was necessary to set the external network address as a fixed address on the router, and another case where the user's network speed was 30Mbps and only the NanoPi R5S (Garland) could be used.
+* Postscript: In theory, installing this intrusion prevention system does not require any network knowledge, but I encountered a case where it was necessary to set the external network address as a fixed address on the router, and another case where the user's network speed was 30Mbps and only the NanoPi R5S (Garland) could be used.
 
 Samiux  
 OSCE  OSCP  OSWP   
