@@ -4,6 +4,8 @@
 
 # BEWARE!!! THE PERFORMANCE NOT UP TO THE STANDARD, IT JUST UP TO 200MBPS!!!
 
+# 小心！！！效能不合标准，最高速为每秒 200M！！！
+
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
 One of the most significant benefits of Garland is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Garland is completely free of charge, making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
