@@ -30,6 +30,7 @@ OSCE  OSCP  OSWP
 
 - [Scam Adviser](https://www.scamadviser.com/zh/home)  
 - [VirusTotal](https://www.virustotal.com/gui/home/url)  
+- [「+852」字頭 SMS 詐騙【附辨別和防範方法】-- ezone](https://ezone.ulifestyle.com.hk/article/3531283/%E3%80%8C%2B852%E3%80%8D%E5%AD%97%E9%A0%AD%20SMS%20%E8%A9%90%E9%A8%99%E3%80%90%E9%99%84%E8%BE%A8%E5%88%A5%E5%92%8C%E9%98%B2%E7%AF%84%E6%96%B9%E6%B3%95%E3%80%91)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
