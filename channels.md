@@ -756,6 +756,10 @@
 - [內地發現本土XBB變異株 專家指會否爆發大流行取決於兩點 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12289312-%e5%b0%88%e5%ae%b6%e6%8c%87%e5%85%a7%e5%9c%b0%e5%85%8d%e7%96%ab%e5%b1%8f%e9%9a%9c%e7%89%a2%e5%9b%ba-%e6%96%b0%e5%a2%9e%e8%ae%8a%e7%95%b0%e6%a0%aa%e6%9c%83%e5%90%a6%e7%88%86%e7%99%bc%e5%a4%a7%e6%b5%81)  
 - [国内首次本土检出XBB.1.5，专家：短期内不会在国内引起大规模传播 -- 健康时报](https://www.guancha.cn/politics/2023_02_18_680322.shtml)  
 - [世衞：新冠疫情不再構成國際關注的突發公共衞生事件 -- 大公文匯網](https://www.tkww.hk/a/202305/05/AP645506ffe4b0e38b84378952.html)  
+- [US 'intentionally released Covid virus in Wuhan' EU summit told -- The Standard](https://www.thestandard.com.hk/section-news/section/11/252653/US-'intentionally-released-Covid-virus-in-Wuhan'-EU-summit-told)  
+- [International Covid Summit III - part 1 - European Parliament, Brussels](https://m.youtube.com/watch?v=bFLPWWCAHfQ)  
+- [International Covid Summit III - part 2 - European Parliament, Brussels](https://m.youtube.com/watch?v=vJ93mW_sMPo)  
+- [最新消息！歐議會確認美國設計新冠及釋放，東昇西降感絕望，美國致命武器發動武漢生化戰爭！【屈基論 EP56】](https://youtu.be/Lms0axWA2Ss)  
 
 ## 新冠过后中国经济
 
