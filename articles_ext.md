@@ -197,6 +197,10 @@
 - [《新冠肺炎疫情防控核酸检测实施办法》等4个文件印发 -- 国家卫健委网站](https://www.guancha.cn/politics/2022_11_21_667817.shtml)  
 - [罗思义：对比中西三年抗疫成绩单，新冠疫情是一面“照妖镜” -- 观察者网](https://www.guancha.cn/LuoSiYi/2023_01_09_674870_1.shtml)  
 - [防控政策调整时机是如何确定的？梁万年回应 -- 央视新闻](https://www.guancha.cn/politics/2023_01_09_674868.shtml)  
+- [US 'intentionally released Covid virus in Wuhan' EU summit told -- The Standard](https://www.thestandard.com.hk/section-news/section/11/252653/US-'intentionally-released-Covid-virus-in-Wuhan'-EU-summit-told)  
+- [International Covid Summit III - part 1 - European Parliament, Brussels](https://m.youtube.com/watch?v=bFLPWWCAHfQ)  
+- [International Covid Summit III - part 2 - European Parliament, Brussels](https://m.youtube.com/watch?v=vJ93mW_sMPo)  
+- [最新消息！歐議會確認美國設計新冠及釋放，東昇西降感絕望，美國致命武器發動武漢生化戰爭！【屈基論 EP56】](https://youtu.be/Lms0axWA2Ss)  
 
 ## Common Sense
 
