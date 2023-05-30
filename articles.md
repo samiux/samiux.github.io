@@ -102,7 +102,7 @@
 - [若果中美不得不战](/china_usa.md)  
 - [深圳福田一日游 2023 (支付篇)](/china_payment_2023.md)  
 - [美欧银行危机与去美元化](/usa_2023.md)  
-- [Dr David Martin speech at International Covid Summit III - European Parliament, Brussels](/us_released_covid19.md)  
+- [Dr David Martin gives speech at International Covid Summit III - European Parliament, Brussels](/us_released_covid19.md)  
 
 ## Tutorials
 
