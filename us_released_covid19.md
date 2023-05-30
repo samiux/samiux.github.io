@@ -2,7 +2,7 @@
 
 # Dr David Martin speech at International Covid Summit III - European Parliament, Brussels
 
-[![](https://img.youtube.com/vi/bFLPWWCAHfQ/0.jpg)](https://www.youtube.com/watch?v=bFLPWWCAHfQ?t=783 "Dr David Martin speech at International Covid Summit III - Part I - European Parliament, Brussels")
+[![](https://img.youtube.com/vi/bFLPWWCAHfQ/0.jpg)](https://www.youtube.com/watch?t=783?v=bFLPWWCAHfQ "Dr David Martin speech at International Covid Summit III - Part I - European Parliament, Brussels")
 
 Dr David Martin speech between [13:03](https://youtu.be/bFLPWWCAHfQ?t=783) and [34:25](https://youtu.be/bFLPWWCAHfQ?t=2068) on May 3, 2023 at International Covid Summit III - European Parliament, Brussels.
 
