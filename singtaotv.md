@@ -33,6 +33,7 @@
 - [01-30-2023 時事觀察 余非 俄烏戰事風險推高，不只是因軍援至坦克聯盟，是因為這有「毒」物質](https://www.youtube.com/watch?v=LBFcU3rheNM)  
 - [02-06-2023 時事觀察 余非 還拱火？看雙方死亡數字估算；德國豹2坦克觸動俄羅斯哪些記憶？俄烏戰事拖長跟中國及亞洲有何關聯？](https://www.youtube.com/watch?v=TwknB2op3io)  
 - [02-13-2023 時事觀察 余非 讀美國資深記者長篇報導——看北溪管道被炸毀的過程、因何被炸；還有為何是挪威？](https://www.youtube.com/watch?v=jNkJ1OFt9uE)  
+- [06-03-2023 星電視快評--余非：烏克蘭的家當於此時被大規模出售，受益者是誰？](https://www.youtube.com/watch?v=BMqkLGIZPPw)  
 
 # 乌俄冲突
 
@@ -162,5 +163,6 @@
 - [俄官員：已收集到多名美烏人員在烏境內從事生物武器研究的證據 -- 大公文匯](https://www.tkww.hk/a/202302/20/AP63f31c30e4b0195a79d70fb5.html)  
 - [烏成「武器實驗室」　助西方篩選裝備 -- 大公文匯](https://www.tkww.hk/a/202302/22/AP63f56799e4b0195a79d7c678.html)  
 - [俄军被曝成功干扰美援乌“海马斯”，使其无法击中目标 -- 观察者网](https://www.guancha.cn/internation/2023_05_07_691305.shtml)  
+- [06-03-2023 星電視快評--余非：烏克蘭的家當於此時被大規模出售，受益者是誰？](https://www.youtube.com/watch?v=BMqkLGIZPPw)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
