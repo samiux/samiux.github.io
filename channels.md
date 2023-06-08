@@ -761,6 +761,7 @@
 - [International Covid Summit III - part 2 - European Parliament, Brussels](https://m.youtube.com/watch?v=vJ93mW_sMPo)  
 - [最新消息！歐議會確認美國設計新冠及釋放，東昇西降感絕望，美國致命武器發動武漢生化戰爭！【屈基論 EP56】](https://youtu.be/Lms0axWA2Ss)  
 - [“二阳”后还会“三阳”吗？多次感染对身体的危害有多大？专家解读 -- 健康时报](https://www.guancha.cn/politics/2023_06_02_695084.shtml)  
+- [我国首个针对XBB疫苗获批紧急使用 -- 观察者网](https://www.guancha.cn/politics/2023_06_08_696074.shtml)  
 
 ## 新冠过后中国经济
 
