@@ -26,6 +26,7 @@
 - [國務院港澳辦負責人就《「一國兩制」下香港的民主發展》白皮書答記者問 -- 大公文匯](https://www.tkww.hk/a/202112/20/AP61bfec66e4b07ec0fc45daa3.html)  
 - [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
 - [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
+- [《人工智能安全标准化白皮书（2023版）》发布](https://www.freebuf.com/news/368952.html)  
 
 ## 香港從來都不是殖民地
 
