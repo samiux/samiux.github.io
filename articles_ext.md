@@ -304,7 +304,7 @@
 - [【K2搜尋 -- 第二季】EP66：炸地標、下令拆遷大興土木 「耿瘋子」市長竟萬民愛戴？](https://www.youtube.com/watch?v=5xk3WZNesUI)  
 - [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 - [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
-- [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 |《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
+- [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 --《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
 
 ## 贩卖人口骗案
 
