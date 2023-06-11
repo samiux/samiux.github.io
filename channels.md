@@ -783,6 +783,7 @@
 - [惠誉：中国经济迅速反弹，2023年经济增长预测调高至5% -- 观察者网](https://www.guancha.cn/internation/2023_02_08_679094.shtml)  
 - [1月份CPI同比涨2.1%，PPI降0.8%，国家统计局解读 -- 观察者网](https://www.guancha.cn/politics/2023_02_10_679293.shtml)  
 - [ 第176期：如何读懂当下的中国经济发展？听#张维为 #连平 讨论中国经济的复苏 --《#这就是中国》#ChinaNow EP176 20230220【东方卫视官方频道】 ](https://www.youtube.com/watch?v=VApBT3ZAhSM)  
+- [31省份5月CPI出炉：11地涨幅低于全国，9地物价降了 -- 中新经纬](https://www.guancha.cn/politics/2023_06_11_696385.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
