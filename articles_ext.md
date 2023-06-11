@@ -82,6 +82,7 @@
 - [銀川艦萬里走單騎　連破三島鏈 -- 大公報](https://www.wenweipo.com/a/202302/06/AP63e09c8ce4b0ce76caa845c7.html)  
 - [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
 - [中国突破了高超音速飞机的关键技术 -- 晨枫](https://user.guancha.cn/main/content?id=936296&s=fwzxhfbt)  
+- [美國關鍵軍事技術不敵中國，澳洲承認西方科技對華無優勢！ -- 中國十大領先美軍軍事武器，解放軍超前突圍！【屈姬主播 EP153】](https://www.youtube.com/watch?v=Ige-qb6q-jw)  
 
 ## 美国军工
 
