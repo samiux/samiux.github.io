@@ -764,6 +764,7 @@
 - [“二阳”后还会“三阳”吗？多次感染对身体的危害有多大？专家解读 -- 健康时报](https://www.guancha.cn/politics/2023_06_02_695084.shtml)  
 - [我国首个针对XBB疫苗获批紧急使用 -- 观察者网](https://www.guancha.cn/politics/2023_06_08_696074.shtml)  
 - [內地首款XBB疫苗獲批緊急使用　最快1個月可接種 -- 大公文匯](https://www.tkww.hk/a/202306/09/AP6482de71e4b068c215a607ba.html)  
+- [中疾控：5月新增新冠死亡病例164例 -- 观察者网](https://www.guancha.cn/politics/2023_06_12_696461.shtml)  
 
 ## 新冠过后中国经济
 
