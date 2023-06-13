@@ -35,6 +35,7 @@
 - [02-13-2023 時事觀察 余非 讀美國資深記者長篇報導——看北溪管道被炸毀的過程、因何被炸；還有為何是挪威？](https://www.youtube.com/watch?v=jNkJ1OFt9uE)  
 - [06-03-2023 星電視快評--余非：烏克蘭的家當於此時被大規模出售，受益者是誰？](https://www.youtube.com/watch?v=BMqkLGIZPPw)  
 - [星電視快評--余非：炸毀的是卡霍夫卡水電站大壩，但劍指的可能又是甚麼？](https://www.youtube.com/watch?v=PMURkfP1om4)  
+- [時事觀察--余非：烏方六月大反攻情況跟進；普京首度評估戰情；加拿大總理扣留俄機的意義](https://www.youtube.com/watch?v=OcvhdtIoW7Y)  
 
 # 乌俄冲突
 
@@ -166,5 +167,6 @@
 - [俄军被曝成功干扰美援乌“海马斯”，使其无法击中目标 -- 观察者网](https://www.guancha.cn/internation/2023_05_07_691305.shtml)  
 - [06-03-2023 星電視快評--余非：烏克蘭的家當於此時被大規模出售，受益者是誰？](https://www.youtube.com/watch?v=BMqkLGIZPPw)  
 - [星電視快評--余非：炸毀的是卡霍夫卡水電站大壩，但劍指的可能又是甚麼？](https://www.youtube.com/watch?v=PMURkfP1om4)  
+- [時事觀察--余非：烏方六月大反攻情況跟進；普京首度評估戰情；加拿大總理扣留俄機的意義](https://www.youtube.com/watch?v=OcvhdtIoW7Y)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
