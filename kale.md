@@ -2,6 +2,8 @@
 
 # Kale 羽衣甘蓝 - Intrusion Detection System  侦测入侵系统 (Port Mirroring)
 
+# DISCONTINUED - Deprecated
+
 ## Main Components
 
 - Suricata 6.0.12  
