@@ -23,13 +23,13 @@ He has some active projects about CyberSecurity, they are :
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 - [Croissants 牛角面包 - Intrusion Detection and Prevention System (Network)](/croissants.md)
 - [Garlic 大蒜- Intrusion Detection and Prevention System (Pesonal Computer)](/garlic.md)  
+- [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  
 
 Some of his projects are now inactive, they are :
 
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)  
 - [Chameleon 变色龙 - Website IP Address Seeker](/chameleon.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
-- [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  
 - [Kale 羽衣甘蓝 - Intrusion Detection System (Port Mirroring)](/kale.md)  
 
 Forked from others :
