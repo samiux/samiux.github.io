@@ -16,7 +16,6 @@
 ### INACTIVE
 
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
-- [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  
 - [Kale 羽衣甘蓝 - Intrusion Detection System (Port Mirroring)](/kale.md)  
 
 ## Capture The Flag (CTF)
