@@ -26,5 +26,6 @@ OSCE  OSCP  OSWP
 - [涉轉載羊村下載網址留言「有本事來捉我」 中大前學生會成員王浩鏘還柙 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12021579-%e6%b6%89%e8%bd%89%e8%bc%89%e7%be%8a%e6%9d%91%e4%b8%8b%e8%bc%89%e7%b6%b2%e5%9d%80%e7%95%99%e8%a8%80%e3%80%8c%e6%9c%89%e6%9c%ac%e4%ba%8b%e4%be%86%e6%8d%89%e6%88%91%e3%80%8d-%e4%b8%ad%e5%a4%a7%e5%89%8d)  
 - [國安處拘涉煽「獨」連登仔 -- 大公文匯](https://www.tkww.hk/a/202301/06/AP63b795c9e4b01fafd0f2e9da.html)  
 - [TG頻道搞手煽惑罪成囚6年半　不服定罪上訴被駁回 -- 大公文匯](https://www.tkww.hk/a/202303/18/AP64153199e4b0195a79e40c64.html)  
+- [涉入侵「myTV Super」盜逾3萬客戶資料 40歲屋邨黑客被捕 -- 巴士的報](https://www.bastillepost.com/hongkong/article/12966422-tvb%e4%b8%b2%e6%b5%81%e5%b9%b3%e5%8f%b0%e3%80%8cmytv-super%e3%80%8d%e9%81%ad%e5%85%a5%e4%be%b5-%e9%80%be3%e8%90%ac%e5%ae%a2%e6%88%b6%e8%b3%87%e6%96%99%e8%a2%ab%e7%9b%9c-%e8%ad%a6%e6%8b%9840%e6%ad%b2)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
