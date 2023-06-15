@@ -786,6 +786,9 @@
 - [1月份CPI同比涨2.1%，PPI降0.8%，国家统计局解读 -- 观察者网](https://www.guancha.cn/politics/2023_02_10_679293.shtml)  
 - [ 第176期：如何读懂当下的中国经济发展？听#张维为 #连平 讨论中国经济的复苏 --《#这就是中国》#ChinaNow EP176 20230220【东方卫视官方频道】 ](https://www.youtube.com/watch?v=VApBT3ZAhSM)  
 - [31省份5月CPI出炉：11地涨幅低于全国，9地物价降了 -- 中新经纬](https://www.guancha.cn/politics/2023_06_11_696385.shtml)  
+- [国家统计局：5月社会消费品零售总额同比增长12.7% -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696892.shtml)  
+- [国家统计局：随基数提升，经济运行会回到常态化增长水平 -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696899.shtml)  
+- [国家统计局：5月16-24岁劳动力调查失业率为20.8% -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696894.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
