@@ -789,6 +789,7 @@
 - [国家统计局：5月社会消费品零售总额同比增长12.7% -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696892.shtml)  
 - [国家统计局：随基数提升，经济运行会回到常态化增长水平 -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696899.shtml)  
 - [国家统计局：5月16-24岁劳动力调查失业率为20.8% -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696894.shtml)  
+- [国家统计局：我国总共600多万青年人失业 -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696951.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
