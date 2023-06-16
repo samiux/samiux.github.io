@@ -70,7 +70,7 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 All are open source projects.
 
-- Suricata 6.0.12  
+- Suricata 6.0.13  
 - Debian
 
 ## INSTALLATION
