@@ -8,7 +8,7 @@ Release date : 2023-06-16 - GMT+8
 Release date : 2023-02-08 - GMT+8  
 [+] Modified and prepared for Suricata 7.0.0    
 
-### Version - 6.0.10.0 [Stable, Latest]  
+### Version - 6.0.10.0  
 Release date : 2023-02-01 - GMT+8  
 [+] Suricata upgrade to 6.0.10  
 
