@@ -62,7 +62,7 @@ __Garlic is designed and developed by Samiux based on Croissants (Croissants sin
 
 ## MAIN COMPONENTS
 
-- Suricata 6.0.12  
+- Suricata 6.0.13  
 - Hyperscan 5.4.0 (Ubuntu 22.04)    
 
 ## DOCUMENTATION
