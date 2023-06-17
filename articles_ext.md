@@ -307,6 +307,7 @@
 - [ 第174期：听#张维为 #范勇鹏 解析中国民主的优势在哪里 --《#这就是中国》#ChinaNow EP174 20230206【东方卫视官方频道】 ](https://www.youtube.com/watch?v=YrDrNxWtH3E)  
 - [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
 - [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 --《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
+- [拜登這才發現犯了巨大的錯 -- 大公報](https://mp.weixin.qq.com/s/Xe58e16SnvUehu3yiSZwdw)  
 
 ## 贩卖人口骗案
 
