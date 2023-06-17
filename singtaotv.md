@@ -36,6 +36,7 @@
 - [06-03-2023 星電視快評--余非：烏克蘭的家當於此時被大規模出售，受益者是誰？](https://www.youtube.com/watch?v=BMqkLGIZPPw)  
 - [星電視快評--余非：炸毀的是卡霍夫卡水電站大壩，但劍指的可能又是甚麼？](https://www.youtube.com/watch?v=PMURkfP1om4)  
 - [時事觀察--余非：烏方六月大反攻情況跟進；普京首度評估戰情；加拿大總理扣留俄機的意義](https://www.youtube.com/watch?v=OcvhdtIoW7Y)  
+- [星電視快評--余非：說得準確，那是「放射性恐怖主義行為」！日本傷害地球是罪行](https://www.youtube.com/watch?v=lrhbeYxGbRQ)  
 
 # 乌俄冲突
 
