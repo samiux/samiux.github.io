@@ -40,8 +40,9 @@
 - [美国的霸权霸道霸凌及其危害 -- 外交部](https://www.fmprc.gov.cn/wjbxw_new/202302/t20230220_11027619.shtml)  
 - [（多圖）為什麼中國不會成為另一個美國？　華春瑩給出原因 -- 大公文匯](https://www.tkww.hk/a/202302/22/AP63f5cdf6e4b0195a79d80e4f.html)  
 - [「為什麼中國不會成為另一個美國」？華春瑩推特發圖給出10點原因 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12316956-%e3%80%8c%e7%82%ba%e4%bb%80%e9%ba%bc%e4%b8%ad%e5%9c%8b%e4%b8%8d%e6%9c%83%e6%88%90%e7%82%ba%e5%8f%a6%e4%b8%80%e5%80%8b%e7%be%8e%e5%9c%8b%e3%80%8d%ef%bc%9f%e8%8f%af%e6%98%a5%e7%91%a9%e6%8e%a8%e7%89%b9)  
-- [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 |《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
+- [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 --《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
 - [张维为《这就是中国》第190期：向“台独”亮剑，加速统一进程 -- 观察者网](https://www.guancha.cn/ZhangWeiWei/2023_06_11_696364.shtml)  
+- [外交部美大司司长：中美两军交流合作首先要移除障碍，包括单边制裁 -- 央视新闻](https://www.guancha.cn/politics/2023_06_21_697706.shtml)  
 
 ## Red Team vs Blue Team  (PLA)  
 
