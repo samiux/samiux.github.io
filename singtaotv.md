@@ -173,5 +173,6 @@
 - [瓦格纳创始人被诉武装叛乱，俄国民警卫队中央区军官进入紧急状态 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23597447)  
 - [普京：我们正面临叛乱，不允许分裂重演 -- 观察者网 ](https://www.guancha.cn/internation/2023_06_24_698022.shtml)  
 - [普京：俄武装力量已收到命令，消灭那些组织武装暴动的人 -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_23598720)  
+- [普京：我们正面临叛乱，不允许分裂重演 -- 观察者网](https://www.guancha.cn/internation/2023_06_24_698022.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
