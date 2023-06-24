@@ -170,5 +170,8 @@
 - [星電視快評--余非：炸毀的是卡霍夫卡水電站大壩，但劍指的可能又是甚麼？](https://www.youtube.com/watch?v=PMURkfP1om4)  
 - [時事觀察--余非：烏方六月大反攻情況跟進；普京首度評估戰情；加拿大總理扣留俄機的意義](https://www.youtube.com/watch?v=OcvhdtIoW7Y)  
 - [普京公布乌克兰中立条约草案，指责基辅“背弃协议” -- 观察者网](https://www.guancha.cn/internation/2023_06_18_697297.shtml)  
+- [瓦格纳创始人被诉武装叛乱，俄国民警卫队中央区军官进入紧急状态 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23597447)  
+- [普京：我们正面临叛乱，不允许分裂重演 -- 观察者网 ](https://www.guancha.cn/internation/2023_06_24_698022.shtml)  
+- [普京：俄武装力量已收到命令，消灭那些组织武装暴动的人 -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_23598720)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
