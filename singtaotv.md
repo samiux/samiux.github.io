@@ -176,5 +176,6 @@
 - [普京：我们正面临叛乱，不允许分裂重演 -- 观察者网](https://www.guancha.cn/internation/2023_06_24_698022.shtml)  
 - [瓦格纳撤兵回营，普里戈任刑事立案将被撤销并前往白俄罗斯 -- 观察者网](https://www.guancha.cn/internation/2023_06_25_698072.shtml)  
 - [克宫解释为何卢卡申科成调停人：他与普里戈任有20年交情 -- 环球网](https://www.thepaper.cn/newsDetail_forward_23603949)  
+- [熱點追蹤 -- 普里戈任　何許人也？ -- 大公文匯](https://www.tkww.hk/a/202306/25/AP6497c4c6e4b068c215b37cfc.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
