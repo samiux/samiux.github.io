@@ -109,6 +109,7 @@
 - [盧永雄「巴士的點評」美國玩制裁搞死自己，電池高成本阻礙電動車普及。你有矛，我有盾，中國再領先一代，研發攔截高超音速飛彈。 23年2月12日](https://www.youtube.com/watch?v=_pDLRlde8Hw)  
 - [美空军称AIM-260将在今年投产，未来将装备“忠诚僚机” -- 观察者网](https://www.guancha.cn/military-affairs/2023_05_05_691072.shtml)  
 - [美海军陆战队计划为F35B搭配“无人电战机” -- 观察者网](https://www.guancha.cn/military-affairs/2023_05_05_691071.shtml)  
+- [不能容忍解放军领先：F-35要用激光炮与歼-20空战 -- 观察者网](https://user.guancha.cn/main/content?id=1025314)  
 
 ## 翻墙违法了吗？
 
