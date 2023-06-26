@@ -178,5 +178,6 @@
 - [克宫解释为何卢卡申科成调停人：他与普里戈任有20年交情 -- 环球网](https://www.thepaper.cn/newsDetail_forward_23603949)  
 - [熱點追蹤 -- 普里戈任　何許人也？ -- 大公文匯](https://www.tkww.hk/a/202306/25/AP6497c4c6e4b068c215b37cfc.html)  
 - [瓦格纳终被“收编”，一日“兵变”到底图啥？ -- 观察者网](https://www.guancha.cn/internation/2023_06_25_698157_1.shtml)  
+- [美官员称瓦格纳兵变没有造成俄防御漏洞，没有任何俄军撤离前线 -- 观察者网](https://www.guancha.cn/internation/2023_06_26_698349.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
