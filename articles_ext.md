@@ -27,6 +27,7 @@
 - [铲除弹窗推送“牛皮癣”，国家出手了 -- 大湾区之声](https://mp.weixin.qq.com/s/32vDhrhlAh11QJyRlks7Kg)    
 - [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
 - [《人工智能安全标准化白皮书（2023版）》发布](https://www.freebuf.com/news/368952.html)  
+- [中华人民共和国对外关系法（全文）-- 观察者网](https://www.guancha.cn/politics/2023_06_28_698688.shtml)  
 
 ## 香港從來都不是殖民地
 
