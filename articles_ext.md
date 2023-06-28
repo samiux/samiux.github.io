@@ -309,6 +309,8 @@
 - [【短片】【屈穎妍在線】EP144：大家都無知地墮入偏見的騙局](https://www.youtube.com/watch?v=M5-R9YYvFuU)  
 - [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 --《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
 - [拜登這才發現犯了巨大的錯 -- 大公報](https://mp.weixin.qq.com/s/Xe58e16SnvUehu3yiSZwdw)  
+- [我科学家开发出具有自主知识产权的基因编辑技术 -- 光明日报](https://www.guancha.cn/politics/2023_06_28_698541.shtml)  
+- [全国中成药集采药品拟中选结果公布，平均降价49.36% -- 央视新闻](https://www.guancha.cn/politics/2023_06_28_698533.shtml)  
 
 ## 贩卖人口骗案
 
