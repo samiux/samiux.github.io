@@ -43,6 +43,7 @@
 - [第186期：为什么中国不会成为另一个美国？听#张维为 #刘扬声 谈我们质疑美国 --《#这就是中国》#ChinaNow EP186 20230508【东方卫视官方频道】 ](https://www.youtube.com/watch?v=McPvUXKXuos)  
 - [张维为《这就是中国》第190期：向“台独”亮剑，加速统一进程 -- 观察者网](https://www.guancha.cn/ZhangWeiWei/2023_06_11_696364.shtml)  
 - [外交部美大司司长：中美两军交流合作首先要移除障碍，包括单边制裁 -- 央视新闻](https://www.guancha.cn/politics/2023_06_21_697706.shtml)  
+- [【#这就是中国EP191】现阶段中美关系异常矛盾 听#张维为 #金灿荣 解析中美关系新特点 - China Now - Full |【SMG上海电视台官方频道】 ](https://www.youtube.com/watch?v=bFQzSNLuLIw)  
 
 ## Red Team vs Blue Team  (PLA)  
 
