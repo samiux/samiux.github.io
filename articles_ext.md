@@ -311,6 +311,7 @@
 - [拜登這才發現犯了巨大的錯 -- 大公報](https://mp.weixin.qq.com/s/Xe58e16SnvUehu3yiSZwdw)  
 - [我科学家开发出具有自主知识产权的基因编辑技术 -- 光明日报](https://www.guancha.cn/politics/2023_06_28_698541.shtml)  
 - [全国中成药集采药品拟中选结果公布，平均降价49.36% -- 央视新闻](https://www.guancha.cn/politics/2023_06_28_698533.shtml)  
+- [“5G网络演进的必然之路”，孟晚舟所说的5.5G是什么？ -- 观察者网](https://www.guancha.cn/industry-science/2023_06_28_698666.shtml)  
 
 ## 贩卖人口骗案
 
