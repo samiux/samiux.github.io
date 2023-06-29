@@ -34,6 +34,6 @@ Samiux
 - [大陸用Alipayhk或Wechat pay HK畀錢攻略！外賣、call車都用得？大陸仲收唔收現金？](https://www.youtube.com/watch?v=4ohRP5d9CYI&list=PLeBpjA8b8SJWgKNxRwD6YccWwHvgi1RPs&index=14)  
 - [AlipayHK連大陸小店都用到！仲可以用嚟搭地鐵/巴士！北上幾乎唔駛唱錢?!](https://www.youtube.com/watch?v=tGDwynMg0X4&list=PLeBpjA8b8SJWgKNxRwD6YccWwHvgi1RPs&index=30)  
 - [內地支付寶支援香港信用卡　綁卡消費有望返現（附攻略）-- 大公文匯](https://www.tkww.hk/a/202306/27/AP649ac514e4b068c215b578c1.html)  
-- [微信支付將支援綁定國際信用卡 7月中下旬開始 -- 巴士的報](https://www.bastillepost.com/hongkong/article/13069526-%e9%a8%b0%e8%a8%8a%e5%ae%a3%e5%b8%83%e5%be%ae%e4%bf%a1%e6%94%af%e6%8f%b4%e7%b6%81%e5%ae%9a%e5%9c%8b%e9%9a%9b%e4%bf%a1%e7%94%a8%e5%8d%a1-7%e6%9c%88%e4%b8%ad%e4%b8%8b%e6%97%ac%e9%96%8b%e5%a7%8b)  
+- [內地微信支付7月中支持境外信用卡　衣食住行全覆蓋 -- 大公文匯](https://www.tkww.hk/a/202306/29/AP649cffade4b068c215b6c391.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
