@@ -85,6 +85,7 @@
 - [中国突破了高超音速飞机的关键技术 -- 晨枫](https://user.guancha.cn/main/content?id=936296&s=fwzxhfbt)  
 - [美國關鍵軍事技術不敵中國，澳洲承認西方科技對華無優勢！ -- 中國十大領先美軍軍事武器，解放軍超前突圍！【屈姬主播 EP153】](https://www.youtube.com/watch?v=Ige-qb6q-jw)  
 - [大白菜打败激光武器？没错 -- 观察者](https://user.guancha.cn/main/content?id=1016095)  
+- [特别呈现！中国兵器装备集团首次公开“20式”新型训练枪系统！军迷亲自上手体验新型训练枪 关键细节逐一展示 “杀伤威力”意想不到！「军迷行天下」20230628 -- 军迷天下](https://www.youtube.com/watch?v=EPf4BkM8RwM)  
 
 ## 美国军工
 
