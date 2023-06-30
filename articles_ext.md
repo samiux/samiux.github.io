@@ -86,6 +86,7 @@
 - [美國關鍵軍事技術不敵中國，澳洲承認西方科技對華無優勢！ -- 中國十大領先美軍軍事武器，解放軍超前突圍！【屈姬主播 EP153】](https://www.youtube.com/watch?v=Ige-qb6q-jw)  
 - [大白菜打败激光武器？没错 -- 观察者](https://user.guancha.cn/main/content?id=1016095)  
 - [特别呈现！中国兵器装备集团首次公开“20式”新型训练枪系统！军迷亲自上手体验新型训练枪 关键细节逐一展示 “杀伤威力”意想不到！「军迷行天下」20230628 -- 军迷天下](https://www.youtube.com/watch?v=EPf4BkM8RwM)  
+- [《智战》| 机械化 信息化 智能化！聚焦中国武器装备最新成果！《军武零距离》×《兵器面面观》联合推出](https://www.youtube.com/playlist?list=PLYG8vFcMYIaIjznnHqPzEStjK62Ae8Wqt)  
 
 ## 美国军工
 
@@ -314,6 +315,7 @@
 - [我科学家开发出具有自主知识产权的基因编辑技术 -- 光明日报](https://www.guancha.cn/politics/2023_06_28_698541.shtml)  
 - [全国中成药集采药品拟中选结果公布，平均降价49.36% -- 央视新闻](https://www.guancha.cn/politics/2023_06_28_698533.shtml)  
 - [“5G网络演进的必然之路”，孟晚舟所说的5.5G是什么？ -- 观察者网](https://www.guancha.cn/industry-science/2023_06_28_698666.shtml)  
+- [外媒“唱衰”中国经济，转头就被数据“打脸”：中国就是颗“定心丸”！#环球叶问 ](https://www.youtube.com/watch?v=4GZ91Nb31d4)  
 
 ## 贩卖人口骗案
 
