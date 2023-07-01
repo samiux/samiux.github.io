@@ -38,6 +38,7 @@
 - [時事觀察--余非：烏方六月大反攻情況跟進；普京首度評估戰情；加拿大總理扣留俄機的意義](https://www.youtube.com/watch?v=OcvhdtIoW7Y)  
 - [星電視快評--余非：說得準確，那是「放射性恐怖主義行為」！日本傷害地球是罪行](https://www.youtube.com/watch?v=lrhbeYxGbRQ)  
 - [時事觀察--余非：瓦格納創辦人普里戈任兵變幾面觀察——炸他營地是真？與軍方關係是非對錯？](https://www.youtube.com/watch?v=jD1KR_mJ0VY)  
+- [星電視快評—余非：普京的主要考慮已轉為甚麼？法國「保護撤離」的一批烏克蘭財寶，將來命運如何？](https://www.youtube.com/watch?v=vHgpPUB-534)  
 
 # 乌俄冲突
 
@@ -181,5 +182,6 @@
 - [瓦格纳终被“收编”，一日“兵变”到底图啥？ -- 观察者网](https://www.guancha.cn/internation/2023_06_25_698157_1.shtml)  
 - [美官员称瓦格纳兵变没有造成俄防御漏洞，没有任何俄军撤离前线 -- 观察者网](https://www.guancha.cn/internation/2023_06_26_698349.shtml)  
 - [時事觀察--余非：瓦格納創辦人普里戈任兵變幾面觀察——炸他營地是真？與軍方關係是非對錯？](https://www.youtube.com/watch?v=jD1KR_mJ0VY)  
+- [星電視快評—余非：普京的主要考慮已轉為甚麼？法國「保護撤離」的一批烏克蘭財寶，將來命運如何？](https://www.youtube.com/watch?v=vHgpPUB-534)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
