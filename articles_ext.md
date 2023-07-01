@@ -113,6 +113,7 @@
 - [美空军称AIM-260将在今年投产，未来将装备“忠诚僚机” -- 观察者网](https://www.guancha.cn/military-affairs/2023_05_05_691072.shtml)  
 - [美海军陆战队计划为F35B搭配“无人电战机” -- 观察者网](https://www.guancha.cn/military-affairs/2023_05_05_691071.shtml)  
 - [不能容忍解放军领先：F-35要用激光炮与歼-20空战 -- 观察者网](https://user.guancha.cn/main/content?id=1025314)  
+- [ChatGPT母公司被集體起訴 　索償234億 -- 大公文匯](https://www.tkww.hk/a/202307/01/AP649f6a49e4b068c215b84151.html)  
 
 ## 翻墙违法了吗？
 
