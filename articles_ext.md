@@ -122,6 +122,7 @@
 - [中国管制半导体关键材料出口，日韩接连回应 -- 观察者网](https://www.guancha.cn/internation/2023_07_04_699510.shtml)  
 - [【中國焦點新聞】中國果然出手了，限制出口鎵和鍺，美軍的F35戰鬥機恐怕會成瞎子。中國新能源汽車突破2000萬輛，產銷規模全球第一。23年7月4日](https://www.youtube.com/watch?v=c2ncSTRxVjM)  
 - [中國反擊，西方話「未驚過」-- 深藍](https://www.bastillepost.com/hongkong/article/13095399-%e4%b8%ad%e5%9c%8b%e5%8f%8d%e6%93%8a%ef%bc%8c%e8%a5%bf%e6%96%b9%e8%a9%b1%e3%80%8c%e6%9c%aa%e9%a9%9a%e9%81%8e%e3%80%8d)  
+- [盧永雄「巴士的點評」印度油公司為何要用人民幣買俄油？芯片戰升級，美國招數用老，中國出招，對鎵和鍺實行出口管制 。 23年7月4日](https://www.youtube.com/watch?v=NUxkykdgDSE)  
 
 ## 翻墙违法了吗？
 
