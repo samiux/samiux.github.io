@@ -184,5 +184,6 @@
 - [時事觀察--余非：瓦格納創辦人普里戈任兵變幾面觀察——炸他營地是真？與軍方關係是非對錯？](https://www.youtube.com/watch?v=jD1KR_mJ0VY)  
 - [星電視快評—余非：普京的主要考慮已轉為甚麼？法國「保護撤離」的一批烏克蘭財寶，將來命運如何？](https://www.youtube.com/watch?v=vHgpPUB-534)  
 - [交叉点道：俄乌恩仇录 -- 穿越千年看冲突始末](https://www.youtube.com/watch?v=HKtwtEJOBC8)  
+- [绍伊古：俄军摧毁了几乎所有波兰葡萄牙援乌豹2坦克 -- 观察者网](https://www.guancha.cn/military-affairs/2023_07_04_699482.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
