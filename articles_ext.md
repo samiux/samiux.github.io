@@ -115,7 +115,7 @@
 - [不能容忍解放军领先：F-35要用激光炮与歼-20空战 -- 观察者网](https://user.guancha.cn/main/content?id=1025314)  
 - [ChatGPT母公司被集體起訴 　索償234億 -- 大公文匯](https://www.tkww.hk/a/202307/01/AP649f6a49e4b068c215b84151.html)  
 
-## 中国出口管
+## 中国出口管制
 
 - [中国出口管制芯片重要原材料，美企子公司：将积极向中方申请许可 -- 观察者网](https://www.guancha.cn/internation/2023_07_04_699491.shtml)  
 - [外交部：中方依法对相关物项实施出口管制，不针对任何特定国家 -- 北京日报](https://www.guancha.cn/internation/2023_07_04_699481.shtml)  
