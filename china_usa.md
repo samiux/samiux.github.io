@@ -27,5 +27,6 @@ OSCE  OSCP  OSWP
 - [【中國焦點新聞】長距離奔襲5000公里，解放軍轟6K領銜演練遠程體系打擊能力。首台國產HA級重型燃機在秦皇島下線。23年2月16日](https://www.youtube.com/watch?v=Pjz5S-BcwMM)  
 - [【中國焦點新聞】六代機技術開始起飛，AI開戰鬥機，解放軍殲-20的進化走在前面。中俄南舉行第2次海上聯合演習。23年2月19日](https://www.youtube.com/watch?v=1nI1Wf0eg_o)  
 - [【中國焦點新聞】美海軍陸戰隊演練「今晚開戰」，解放軍導彈無死角覆蓋第一島鏈。東部戰區海軍展開實兵實彈訓練。23年2月20日](https://www.youtube.com/watch?v=JPegErVa_QA)  
+- [【中國焦點新聞】身處距中國大陸1500海里外的美國航母， 美海軍上將坦承：擔心被解放軍導彈擊沉。國防部批美對台軍售：加速把台灣變成「火藥桶」。23年7月5日](https://www.youtube.com/watch?v=acE9Q2O7D2o)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
