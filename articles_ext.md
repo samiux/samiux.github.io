@@ -115,7 +115,7 @@
 - [不能容忍解放军领先：F-35要用激光炮与歼-20空战 -- 观察者网](https://user.guancha.cn/main/content?id=1025314)  
 - [ChatGPT母公司被集體起訴 　索償234億 -- 大公文匯](https://www.tkww.hk/a/202307/01/AP649f6a49e4b068c215b84151.html)  
 
-## 中国出口管制
+## 中国反制
 
 - [中国出口管制芯片重要原材料，美企子公司：将积极向中方申请许可 -- 观察者网](https://www.guancha.cn/internation/2023_07_04_699491.shtml)  
 - [外交部：中方依法对相关物项实施出口管制，不针对任何特定国家 -- 北京日报](https://www.guancha.cn/internation/2023_07_04_699481.shtml)  
@@ -123,6 +123,9 @@
 - [【中國焦點新聞】中國果然出手了，限制出口鎵和鍺，美軍的F35戰鬥機恐怕會成瞎子。中國新能源汽車突破2000萬輛，產銷規模全球第一。23年7月4日](https://www.youtube.com/watch?v=c2ncSTRxVjM)  
 - [中國反擊，西方話「未驚過」-- 深藍](https://www.bastillepost.com/hongkong/article/13095399-%e4%b8%ad%e5%9c%8b%e5%8f%8d%e6%93%8a%ef%bc%8c%e8%a5%bf%e6%96%b9%e8%a9%b1%e3%80%8c%e6%9c%aa%e9%a9%9a%e9%81%8e%e3%80%8d)  
 - [盧永雄「巴士的點評」印度油公司為何要用人民幣買俄油？芯片戰升級，美國招數用老，中國出招，對鎵和鍺實行出口管制 。 23年7月4日](https://www.youtube.com/watch?v=NUxkykdgDSE)  
+- [商务部原副部长魏建国：中国出口管制芯片重要原材料只是开始，中国反制的工具还有很多 -- 中国日报](https://www.guancha.cn/politics/2023_07_05_699592.shtml)  
+- [一年只能卖几百吨的镓、锗，凭啥值得我们限制出口？ -- 观察者](https://user.guancha.cn/main/content?id=1032950)  
+- [镓和锗：这才叫以其人之道还治其人之身 -- 观察者](https://user.guancha.cn/main/content?id=1032926)  
 
 ## 翻墙违法了吗？
 
