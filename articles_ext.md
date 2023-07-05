@@ -117,6 +117,7 @@
 
 ## 中国反制
 
+- [中华人民共和国对外关系法（全文）-- 观察者网](https://www.guancha.cn/politics/2023_06_28_698688.shtml)  
 - [中国出口管制芯片重要原材料，美企子公司：将积极向中方申请许可 -- 观察者网](https://www.guancha.cn/internation/2023_07_04_699491.shtml)  
 - [外交部：中方依法对相关物项实施出口管制，不针对任何特定国家 -- 北京日报](https://www.guancha.cn/internation/2023_07_04_699481.shtml)  
 - [中国管制半导体关键材料出口，日韩接连回应 -- 观察者网](https://www.guancha.cn/internation/2023_07_04_699510.shtml)  
@@ -126,6 +127,8 @@
 - [商务部原副部长魏建国：中国出口管制芯片重要原材料只是开始，中国反制的工具还有很多 -- 中国日报](https://www.guancha.cn/politics/2023_07_05_699592.shtml)  
 - [一年只能卖几百吨的镓、锗，凭啥值得我们限制出口？ -- 观察者](https://user.guancha.cn/main/content?id=1032950)  
 - [镓和锗：这才叫以其人之道还治其人之身 -- 观察者](https://user.guancha.cn/main/content?id=1032926)  
+- [坐不住了？荷兰敦促欧盟回应中方对镓、锗实施出口管制 -- 观察者网](https://www.guancha.cn/internation/2023_07_05_699687.shtml)  
+- [外交部：对镓、锗相关物项实施出口管制是国际通行做法 -- 澎湃新闻](https://www.guancha.cn/internation/2023_07_05_699644.shtml)  
 
 ## 翻墙违法了吗？
 
