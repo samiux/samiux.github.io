@@ -129,6 +129,7 @@
 - [镓和锗：这才叫以其人之道还治其人之身 -- 观察者](https://user.guancha.cn/main/content?id=1032926)  
 - [坐不住了？荷兰敦促欧盟回应中方对镓、锗实施出口管制 -- 观察者网](https://www.guancha.cn/internation/2023_07_05_699687.shtml)  
 - [外交部：对镓、锗相关物项实施出口管制是国际通行做法 -- 澎湃新闻](https://www.guancha.cn/internation/2023_07_05_699644.shtml)  
+- [美国商务部回应中国出口管制镓和锗：将与盟友伙伴协商解决 -- 观察者网](https://www.guancha.cn/internation/2023_07_06_699744.shtml)  
 
 ## 翻墙违法了吗？
 
@@ -227,6 +228,7 @@
 - [钟南山：全国约12亿人感染过新冠 -- 大公报](http://www.takungpao.com/news/232108/2023/0516/850715.html)  
 - [我国首个针对XBB疫苗获批紧急使用 -- 观察者网](https://www.guancha.cn/politics/2023_06_08_696074.shtml)  
 - [內地首款XBB疫苗獲批緊急使用　最快1個月可接種 -- 大公文匯](https://www.tkww.hk/a/202306/09/AP6482de71e4b068c215a607ba.html)  
+- [中疾控：6月26日至7月2日，流感样病例新冠阳性率降至15.4% -- 观察者网](https://www.guancha.cn/politics/2023_07_06_699757.shtml)  
 
 ## Common Sense
 
