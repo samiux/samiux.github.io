@@ -186,5 +186,6 @@
 - [交叉点道：俄乌恩仇录 -- 穿越千年看冲突始末](https://www.youtube.com/watch?v=HKtwtEJOBC8)  
 - [绍伊古：俄军摧毁了几乎所有波兰葡萄牙援乌豹2坦克 -- 观察者网](https://www.guancha.cn/military-affairs/2023_07_04_699482.shtml)  
 - [俄罗斯民众的涂鸦发生了变化 -- 观察者](https://user.guancha.cn/main/content?id=1032358)  
+- [瓦格纳集团负责人普里戈任返俄：收回100亿卢布和被扣武器，包括俄防长绍伊古送他的手枪 -- 观察者网](https://www.guancha.cn/internation/2023_07_06_699775.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
