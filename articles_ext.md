@@ -88,6 +88,7 @@
 - [特别呈现！中国兵器装备集团首次公开“20式”新型训练枪系统！军迷亲自上手体验新型训练枪 关键细节逐一展示 “杀伤威力”意想不到！「军迷行天下」20230628 -- 军迷天下](https://www.youtube.com/watch?v=EPf4BkM8RwM)  
 - [《智战》- 机械化 信息化 智能化！聚焦中国武器装备最新成果！《军武零距离》×《兵器面面观》联合推出](https://www.youtube.com/playlist?list=PLYG8vFcMYIaIjznnHqPzEStjK62Ae8Wqt)  
 - [新一代数字地球技术平台星图地球智脑引擎发布 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_06_699766.shtml)  
+- [176比特量子计算云平台上线，量子技术能否与AI产业结合？ -- 观察者网](https://www.guancha.cn/politics/2023_07_08_700120.shtml)  
 
 ## 美国军工
 
