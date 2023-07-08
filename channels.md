@@ -318,6 +318,7 @@
 - [量子通信网络更近一步！我国科学家实现模式匹配量子密钥分发 -- 央视新闻](https://www.guancha.cn/industry-science/2023_02_05_678629.shtml)  
 - [世界首例内镜下脉冲电场肿瘤消融术在西安成功实施 -- 观察者网](https://www.guancha.cn/politics/2023_02_08_679095.shtml)  
 - [新一代数字地球技术平台星图地球智脑引擎发布 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_06_699766.shtml)  
+- [176比特量子计算云平台上线，量子技术能否与AI产业结合？ -- 观察者网](https://www.guancha.cn/politics/2023_07_08_700120.shtml)  
 
 ## Misc.
 
