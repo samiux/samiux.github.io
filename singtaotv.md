@@ -188,5 +188,10 @@
 - [俄罗斯民众的涂鸦发生了变化 -- 观察者](https://user.guancha.cn/main/content?id=1032358)  
 - [瓦格纳集团负责人普里戈任返俄：收回100亿卢布和被扣武器，包括俄防长绍伊古送他的手枪 -- 观察者网](https://www.guancha.cn/internation/2023_07_06_699775.shtml)  
 - [美国宣布向乌克兰提供集束弹药，俄罗斯回应：绝望之举 -- 观察者网](https://www.guancha.cn/internation/2023_07_08_700042.shtml)  
+- [瓦格納事件後　普京和普里戈任見面了 -- 點新聞](https://www.dotdotnews.com/a/202307/10/AP64abea4de4b08eeabfe6b83d.html)  
+- [克宫：瓦格纳事件5天后，普京会见了普利戈任 -- 观察者网](https://www.guancha.cn/internation/2023_07_10_700343.shtml)  
+- [普京會見了普里戈任　會議持續近3個小時 -- 大公文匯網](https://www.tkww.hk/a/202307/10/AP64abeefee4b068c215c063b3.html)  
+- [“瓦格纳”事件后，俄武装力量总参谋长首次公开露面 -- 观察者网](https://www.guancha.cn/internation/2023_07_10_700365.shtml)  
+- [佩斯科夫：俄土两国已就土将亚速营人员移交乌政府一事展开会谈 -- 观察者网](https://www.guancha.cn/internation/2023_07_10_700350.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
