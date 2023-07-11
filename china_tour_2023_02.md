@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# 深圳地铁沿线一日游 2023 - 海山站 (美食篇 二)
+# 深圳地铁沿线一日游 2023 - 莲塘口岸站，海山站 (美食篇 二)
 
 二零二三年七月三日星期一，刚过七一回归纪念日，我和女朋友到深圳一日游。
 
