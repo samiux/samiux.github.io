@@ -117,6 +117,8 @@
 - [美海军陆战队计划为F35B搭配“无人电战机” -- 观察者网](https://www.guancha.cn/military-affairs/2023_05_05_691071.shtml)  
 - [不能容忍解放军领先：F-35要用激光炮与歼-20空战 -- 观察者网](https://user.guancha.cn/main/content?id=1025314)  
 - [ChatGPT母公司被集體起訴 　索償234億 -- 大公文匯](https://www.tkww.hk/a/202307/01/AP649f6a49e4b068c215b84151.html)  
+- [近四成美军攻击型潜艇停用待修，美媒又扯中国 -- 观察者网](https://www.guancha.cn/internation/2023_07_11_700526.shtml)  
+- [164年来首次！美海军陆战队遇“领导真空”，因参议员抗议美国防部堕胎福利 -- 观察者网](https://www.guancha.cn/internation/2023_07_11_700447.shtml)  
 
 ## 中国反制
 
