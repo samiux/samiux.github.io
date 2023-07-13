@@ -193,5 +193,6 @@
 - [普京會見了普里戈任　會議持續近3個小時 -- 大公文匯網](https://www.tkww.hk/a/202307/10/AP64abeefee4b068c215c063b3.html)  
 - [“瓦格纳”事件后，俄武装力量总参谋长首次公开露面 -- 观察者网](https://www.guancha.cn/internation/2023_07_10_700365.shtml)  
 - [佩斯科夫：俄土两国已就土将亚速营人员移交乌政府一事展开会谈 -- 观察者网](https://www.guancha.cn/internation/2023_07_10_700350.shtml)  
+- [乌官员：已收到美国集束弹药，暂未使用 -- 观察者网 ](https://www.guancha.cn/internation/2023_07_13_700812.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
