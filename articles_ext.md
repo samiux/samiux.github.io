@@ -28,6 +28,7 @@
 - [22部门印发《科研失信行为调查处理规则》，新增7种行为 -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_19886928)  
 - [《人工智能安全标准化白皮书（2023版）》发布](https://www.freebuf.com/news/368952.html)  
 - [中华人民共和国对外关系法（全文）-- 观察者网](https://www.guancha.cn/politics/2023_06_28_698688.shtml)  
+- [国家网信办等七部门联合公布《生成式人工智能服务管理暂行办法》-- 网信中国](https://www.guancha.cn/politics/2023_07_13_700752.shtml)  
 
 ## 香港從來都不是殖民地
 
