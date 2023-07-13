@@ -91,6 +91,8 @@
 - [新一代数字地球技术平台星图地球智脑引擎发布 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_06_699766.shtml)  
 - [176比特量子计算云平台上线，量子技术能否与AI产业结合？ -- 观察者网](https://www.guancha.cn/politics/2023_07_08_700120.shtml)  
 - [我国成功发射卫星互联网技术试验卫星 -- 观察者网 ](https://www.guancha.cn/economy/2023_07_09_700240.shtml)  
+- [贵州发现新类型稀土资源，应用前景广阔 -- 多彩贵州网](https://www.guancha.cn/politics/2023_07_13_700760.shtml)  
+- [“零”的突破！全球首台海南昌江“玲龙一号”反应堆核心模块竣工验收 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_13_700758.shtml)  
 
 ## 美国军工
 
