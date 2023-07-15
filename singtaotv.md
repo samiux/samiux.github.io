@@ -39,6 +39,7 @@
 - [星電視快評--余非：說得準確，那是「放射性恐怖主義行為」！日本傷害地球是罪行](https://www.youtube.com/watch?v=lrhbeYxGbRQ)  
 - [時事觀察--余非：瓦格納創辦人普里戈任兵變幾面觀察——炸他營地是真？與軍方關係是非對錯？](https://www.youtube.com/watch?v=jD1KR_mJ0VY)  
 - [星電視快評—余非：普京的主要考慮已轉為甚麼？法國「保護撤離」的一批烏克蘭財寶，將來命運如何？](https://www.youtube.com/watch?v=vHgpPUB-534)  
+- [星電視快評--余非：美國又再出動集束彈，但這次遇到反彈，且看意義何在？](https://www.youtube.com/watch?v=8TqGMBeAFV8)  
 
 # 乌俄冲突
 
@@ -195,5 +196,6 @@
 - [佩斯科夫：俄土两国已就土将亚速营人员移交乌政府一事展开会谈 -- 观察者网](https://www.guancha.cn/internation/2023_07_10_700350.shtml)  
 - [乌官员：已收到美国集束弹药，暂未使用 -- 观察者网 ](https://www.guancha.cn/internation/2023_07_13_700812.shtml)  
 - [【短片】【屈穎妍在線】EP183：殘酷的雨彈](https://www.youtube.com/watch?v=PsG2BOMrmyo)  
+- [星電視快評--余非：美國又再出動集束彈，但這次遇到反彈，且看意義何在？](https://www.youtube.com/watch?v=8TqGMBeAFV8)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
