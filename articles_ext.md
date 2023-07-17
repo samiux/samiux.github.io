@@ -346,6 +346,7 @@
 - [全国中成药集采药品拟中选结果公布，平均降价49.36% -- 央视新闻](https://www.guancha.cn/politics/2023_06_28_698533.shtml)  
 - [“5G网络演进的必然之路”，孟晚舟所说的5.5G是什么？ -- 观察者网](https://www.guancha.cn/industry-science/2023_06_28_698666.shtml)  
 - [外媒“唱衰”中国经济，转头就被数据“打脸”：中国就是颗“定心丸”！#环球叶问 ](https://www.youtube.com/watch?v=4GZ91Nb31d4)  
+- [因担心美国间谍活动，俄罗斯多个部门在工作中禁用苹果设备 -- 观察者网](https://www.guancha.cn/internation/2023_07_16_701193.shtml)  
 
 ## 贩卖人口骗案
 
