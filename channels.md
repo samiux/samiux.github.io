@@ -800,6 +800,10 @@
 - [国家统计局：我国总共600多万青年人失业 -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696951.shtml)  
 - [国家统计局：上半年GDP为593034亿元同比增长5.5%，二季度同比增长6.3% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878385)  
 - [2023上半年经济数据发布：CPI同比增长0.7% -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_23878860)  
+- [国家统计局：上半年固定资产投资243113亿元，同比增长3.8% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878370)  
+- [国家统计局：6月份全国城镇调查失业率为5.2% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878381)  
+- [国家统计局：6月社会消费品零售总额同比增长3.1% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878376)  
+- [国家统计局：6月份全国规模以上工业增加值同比增长4.4% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878391)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
