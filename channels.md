@@ -798,6 +798,8 @@
 - [国家统计局：随基数提升，经济运行会回到常态化增长水平 -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696899.shtml)  
 - [国家统计局：5月16-24岁劳动力调查失业率为20.8% -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696894.shtml)  
 - [国家统计局：我国总共600多万青年人失业 -- 观察者网](https://www.guancha.cn/politics/2023_06_15_696951.shtml)  
+- [国家统计局：上半年GDP为593034亿元同比增长5.5%，二季度同比增长6.3% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878385)  
+- [2023上半年经济数据发布：CPI同比增长0.7% -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_23878860)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
