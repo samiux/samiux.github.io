@@ -197,5 +197,6 @@
 - [乌官员：已收到美国集束弹药，暂未使用 -- 观察者网 ](https://www.guancha.cn/internation/2023_07_13_700812.shtml)  
 - [【短片】【屈穎妍在線】EP183：殘酷的雨彈](https://www.youtube.com/watch?v=PsG2BOMrmyo)  
 - [星電視快評--余非：美國又再出動集束彈，但這次遇到反彈，且看意義何在？](https://www.youtube.com/watch?v=8TqGMBeAFV8)  
+- [因担心美国间谍活动，俄罗斯多个部门在工作中禁用苹果设备 -- 观察者网](https://www.guancha.cn/internation/2023_07_16_701193.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
