@@ -40,6 +40,7 @@
 - [時事觀察--余非：瓦格納創辦人普里戈任兵變幾面觀察——炸他營地是真？與軍方關係是非對錯？](https://www.youtube.com/watch?v=jD1KR_mJ0VY)  
 - [星電視快評—余非：普京的主要考慮已轉為甚麼？法國「保護撤離」的一批烏克蘭財寶，將來命運如何？](https://www.youtube.com/watch?v=vHgpPUB-534)  
 - [星電視快評--余非：美國又再出動集束彈，但這次遇到反彈，且看意義何在？](https://www.youtube.com/watch?v=8TqGMBeAFV8)  
+- [時事觀察--余非：談法國6月底的暴動，以及如何看待幕後黑手與陰謀論等](https://www.youtube.com/watch?v=KUWXZmFHvWw)  
 
 # 乌俄冲突
 
