@@ -65,7 +65,7 @@ In summary, Rosemary Intrusion Detection and Prevention System is an effective, 
 
 All are open source projects.
 
-- Suricata 7.0.0  
+- Suricata 6.0.13  
 - Debian
 
 ## INSTALLATION
