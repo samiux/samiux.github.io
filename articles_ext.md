@@ -174,6 +174,7 @@
 - [（有片）外交部：美國長期無差別監聽中國手機用戶　非法竊取用戶短訊內容 -- 大公文匯](https://www.tkww.hk/a/202209/05/AP6315bdcee4b0a469029e1adf.html)  
 - [揭秘黑客組織ATW ：對華瘋狂實施網絡攻擊、數據竊取和披露炒作活動 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12301515-%e6%8f%ad%e7%a7%98%e9%bb%91%e5%ae%a2%e7%b5%84%e7%b9%94atw-%ef%bc%9a%e5%b0%8d%e8%8f%af%e7%98%8b%e7%8b%82%e5%af%a6%e6%96%bd%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a%e3%80%81%e6%95%b8%e6%93%9a%e7%ab%8a)  
 - [斩断危害中国数据安全的魔手 —— 揭秘疯狂对华实施数据窃取的ATW组织 -- 奇安盘古实验室](https://www.pangulab.cn/post/the_atw_mystery/)  
+- [武汉市应急管理局：地震监测中心部分地震速报数据前端台站采集点网络设备遭受境外组织的网络攻击 -- 观察者网](https://www.guancha.cn/politics/2023_07_26_702405.shtml)  
 
 ## CIA
 
