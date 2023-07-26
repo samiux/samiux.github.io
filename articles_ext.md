@@ -175,6 +175,7 @@
 - [揭秘黑客組織ATW ：對華瘋狂實施網絡攻擊、數據竊取和披露炒作活動 -- 毛拍手](https://www.bastillepost.com/hongkong/article/12301515-%e6%8f%ad%e7%a7%98%e9%bb%91%e5%ae%a2%e7%b5%84%e7%b9%94atw-%ef%bc%9a%e5%b0%8d%e8%8f%af%e7%98%8b%e7%8b%82%e5%af%a6%e6%96%bd%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a%e3%80%81%e6%95%b8%e6%93%9a%e7%ab%8a)  
 - [斩断危害中国数据安全的魔手 —— 揭秘疯狂对华实施数据窃取的ATW组织 -- 奇安盘古实验室](https://www.pangulab.cn/post/the_atw_mystery/)  
 - [武汉市应急管理局：地震监测中心部分地震速报数据前端台站采集点网络设备遭受境外组织的网络攻击 -- 观察者网](https://www.guancha.cn/politics/2023_07_26_702405.shtml)  
+- [武漢地震監測中心遭網絡攻擊 證據顯示黑客疑來自美國 -- 毛拍手](https://www.bastillepost.com/hongkong/article/13172891-%e6%ad%a6%e6%bc%a2%e5%9c%b0%e9%9c%87%e7%9b%a3%e6%b8%ac%e4%b8%ad%e5%bf%83%e9%81%ad%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a-%e8%ad%89%e6%93%9a%e9%a1%af%e7%a4%ba%e9%bb%91%e5%ae%a2%e7%96%91%e4%be%86%e8%87%aa)  
 
 ## CIA
 
@@ -387,5 +388,6 @@
 - [日本登月探測器不見了 -- 大公文匯](https://mp.weixin.qq.com/s/ZyYvob6bcMj3r0FJ_fJVPQ)  
 - [屢戰屢敗　日本首個登月探測器「好客號」失聯 -- 大公文匯](https://www.tkww.hk/a/202211/22/AP637c0923e4b0a46902c4c5bb.html)  
 - [月球探测器“好客”失联，日本宣布放弃首次月面着陆计划 -- 观察者网](https://www.guancha.cn/internation/2022_11_22_667962.shtml)  
+- [NASA因大楼停电与国际空间站短暂失联，在俄系统帮助下恢复联系 -- 观察者网](https://www.guancha.cn/internation/2023_07_26_702447.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
