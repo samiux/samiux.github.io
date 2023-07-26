@@ -185,6 +185,7 @@
 - [美方五卑劣手段　炮製50國「顏色革命」-- 大公文匯網](https://www.tkww.hk/a/202305/05/AP64544c22e4b0e38b84373eba.html)  
 - [中情局在超过50国策划“颜色革命”，5种手段被中方曝光 -- 观察者网](https://www.guancha.cn/politics/2023_05_04_690919.shtml)  
 - [【短片】【有聲專欄】盧展常：中方揭破 CIA猙獰面孔 以五手段輸出「顏色革命」-- Speakout 港人講地](https://www.youtube.com/watch?v=Dwjt5mGFgyc)  
+- [美亂港「幕後搞手」在台招兵 對港「軟攻勢」仍未停止 -- 時人物語](https://www.bastillepost.com/hongkong/article/13175352-%e7%be%8e%e4%ba%82%e6%b8%af%e3%80%8c%e5%b9%95%e5%be%8c%e6%90%9e%e6%89%8b%e3%80%8d%e5%9c%a8%e5%8f%b0%e6%8b%9b%e5%85%b5-%e5%b0%8d%e6%b8%af%e3%80%8c%e8%bb%9f%e6%94%bb%e5%8b%a2%e3%80%8d%e4%bb%8d%e6%9c%aa)  
 
 ## 社会工程（渗透测试）- 网络安全教育
 
@@ -349,6 +350,7 @@
 - [“5G网络演进的必然之路”，孟晚舟所说的5.5G是什么？ -- 观察者网](https://www.guancha.cn/industry-science/2023_06_28_698666.shtml)  
 - [外媒“唱衰”中国经济，转头就被数据“打脸”：中国就是颗“定心丸”！#环球叶问 ](https://www.youtube.com/watch?v=4GZ91Nb31d4)  
 - [因担心美国间谍活动，俄罗斯多个部门在工作中禁用苹果设备 -- 观察者网](https://www.guancha.cn/internation/2023_07_16_701193.shtml)  
+- [美亂港「幕後搞手」在台招兵 對港「軟攻勢」仍未停止 -- 時人物語](https://www.bastillepost.com/hongkong/article/13175352-%e7%be%8e%e4%ba%82%e6%b8%af%e3%80%8c%e5%b9%95%e5%be%8c%e6%90%9e%e6%89%8b%e3%80%8d%e5%9c%a8%e5%8f%b0%e6%8b%9b%e5%85%b5-%e5%b0%8d%e6%b8%af%e3%80%8c%e8%bb%9f%e6%94%bb%e5%8b%a2%e3%80%8d%e4%bb%8d%e6%9c%aa)  
 
 ## 贩卖人口骗案
 
