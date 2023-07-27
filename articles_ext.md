@@ -178,6 +178,7 @@
 - [武漢地震監測中心遭網絡攻擊 證據顯示黑客疑來自美國 -- 毛拍手](https://www.bastillepost.com/hongkong/article/13172891-%e6%ad%a6%e6%bc%a2%e5%9c%b0%e9%9c%87%e7%9b%a3%e6%b8%ac%e4%b8%ad%e5%bf%83%e9%81%ad%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a-%e8%ad%89%e6%93%9a%e9%a1%af%e7%a4%ba%e9%bb%91%e5%ae%a2%e7%96%91%e4%be%86%e8%87%aa)  
 - [玉渊谭天：美国为何会攻击中国的地震监测中心？ -- 玉渊谭天](https://www.guancha.cn/yuyuantantian/2023_07_26_702470.shtml)  
 - [盧永雄「巴士的點評」美國為何會攻擊中國的地震監測中心? 無面俾! 美中情局長剛說「重建中國情報網」，中國就踢爆美國黑客攻擊 。 23年7月27日](https://www.youtube.com/watch?v=IVA50PxIkXk)  
+- [【中國焦點新聞】網絡攻擊武漢地震監測中心威脅國家安全？美軍方一直研究利用核打擊來誘發地震。內媒警告：不汲取朝鮮戰爭教訓，美國還要吃苦頭。23年7月27日](https://www.youtube.com/watch?v=aCRnFYuJOKE)  
 
 ## CIA
 
