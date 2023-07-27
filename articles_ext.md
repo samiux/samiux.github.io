@@ -189,6 +189,7 @@
 - [中情局在超过50国策划“颜色革命”，5种手段被中方曝光 -- 观察者网](https://www.guancha.cn/politics/2023_05_04_690919.shtml)  
 - [【短片】【有聲專欄】盧展常：中方揭破 CIA猙獰面孔 以五手段輸出「顏色革命」-- Speakout 港人講地](https://www.youtube.com/watch?v=Dwjt5mGFgyc)  
 - [美亂港「幕後搞手」在台招兵 對港「軟攻勢」仍未停止 -- 時人物語](https://www.bastillepost.com/hongkong/article/13175352-%e7%be%8e%e4%ba%82%e6%b8%af%e3%80%8c%e5%b9%95%e5%be%8c%e6%90%9e%e6%89%8b%e3%80%8d%e5%9c%a8%e5%8f%b0%e6%8b%9b%e5%85%b5-%e5%b0%8d%e6%b8%af%e3%80%8c%e8%bb%9f%e6%94%bb%e5%8b%a2%e3%80%8d%e4%bb%8d%e6%9c%aa)  
+- [【直播】【焦點短打】EP356：美在華諜網遭搗破密謀「重建」 港23條設間諜罪刻不容緩](https://www.youtube.com/watch?v=u9uRVMiMlI0)  
 
 ## 社会工程（渗透测试）- 网络安全教育
 
