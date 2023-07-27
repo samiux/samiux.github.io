@@ -176,6 +176,7 @@
 - [斩断危害中国数据安全的魔手 —— 揭秘疯狂对华实施数据窃取的ATW组织 -- 奇安盘古实验室](https://www.pangulab.cn/post/the_atw_mystery/)  
 - [武汉市应急管理局：地震监测中心部分地震速报数据前端台站采集点网络设备遭受境外组织的网络攻击 -- 观察者网](https://www.guancha.cn/politics/2023_07_26_702405.shtml)  
 - [武漢地震監測中心遭網絡攻擊 證據顯示黑客疑來自美國 -- 毛拍手](https://www.bastillepost.com/hongkong/article/13172891-%e6%ad%a6%e6%bc%a2%e5%9c%b0%e9%9c%87%e7%9b%a3%e6%b8%ac%e4%b8%ad%e5%bf%83%e9%81%ad%e7%b6%b2%e7%b5%a1%e6%94%bb%e6%93%8a-%e8%ad%89%e6%93%9a%e9%a1%af%e7%a4%ba%e9%bb%91%e5%ae%a2%e7%96%91%e4%be%86%e8%87%aa)  
+- [玉渊谭天：美国为何会攻击中国的地震监测中心？ -- 玉渊谭天](https://www.guancha.cn/yuyuantantian/2023_07_26_702470.shtml)  
 
 ## CIA
 
