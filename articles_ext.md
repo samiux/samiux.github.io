@@ -358,6 +358,7 @@
 - [Lorey都收到騙徒誘騙邀請？ 假借一帶一路專呃貪心無知青少年！ 3個不可不聽嘅tips教你避開死亡騙局！-- Lorey快閃講](https://www.youtube.com/watch?v=t85afUI_ygs)  
 - [必看！東南亞高薪工作招聘？你才是那塊「會行走的黃金」！千萬不能墮入的販賣人口騙案！-- 沖出黎Vlog](https://www.youtube.com/watch?v=E_krfWksQDk)  
 - [泰國網友親身分享：販賣人口騙案及最新詐騙手法「佛跳牆」-- 沖出黎Vlog](https://www.youtube.com/watch?v=vvBQQjpZpQU)  
+- [臥底4月，緬甸放人 -- 大公文汇](https://mp.weixin.qq.com/s/hcvqTlTkLda-HtZ9x4diIg)  
 
 ## 专题视听频道
 
