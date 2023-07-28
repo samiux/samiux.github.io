@@ -142,6 +142,7 @@
 - [中國出手限制鎵和鍺出口 美日荷坐不住了 -- 毛拍手](https://www.bastillepost.com/hongkong/article/13101439-%e4%b8%ad%e5%9c%8b%e5%87%ba%e6%89%8b%e9%99%90%e5%88%b6%e9%8e%b5%e5%92%8c%e9%8d%ba%e5%87%ba%e5%8f%a3-%e7%be%8e%e6%97%a5%e8%8d%b7%e5%9d%90%e4%b8%8d%e4%bd%8f%e4%ba%86)  
 - [中方对镓锗出口管制，德国回应：我们在做准备 -- 观察者网](https://www.guancha.cn/internation/2023_07_06_699817.shtml)  
 - [美国国防部回应两种关键金属储备情况：锗有战略储备，但镓没有 -- 观察者网](https://www.guancha.cn/internation/2023_07_07_699887.shtml)  
+- [中方出口管制后，美国防部宣布计划从废料中回收镓 -- 观察者网](https://www.guancha.cn/internation/2023_07_28_702761.shtml)  
 
 ## 翻墙违法了吗？
 
