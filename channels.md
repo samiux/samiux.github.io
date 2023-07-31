@@ -805,6 +805,7 @@
 - [国家统计局：6月份全国城镇调查失业率为5.2% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878381)  
 - [国家统计局：6月社会消费品零售总额同比增长3.1% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878376)  
 - [国家统计局：6月份全国规模以上工业增加值同比增长4.4% -- 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23878391)  
+- [31省份上半年GDP出炉：15地跑赢全国，上海增势最猛 -- 中新经纬](https://www.guancha.cn/politics/2023_07_31_703189.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
