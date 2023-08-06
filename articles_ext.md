@@ -94,6 +94,8 @@
 - [贵州发现新类型稀土资源，应用前景广阔 -- 多彩贵州网](https://www.guancha.cn/politics/2023_07_13_700760.shtml)  
 - [“零”的突破！全球首台海南昌江“玲龙一号”反应堆核心模块竣工验收 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_13_700758.shtml)  
 - [新一代飞行器摇篮！JF-22超高速风洞通过验收，可复现30倍声速飞行条件 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_15_701097.shtml)  
+- [這不是科幻！這是解放軍科研成果 -- 大公文匯網](https://www.tkww.hk/a/202308/06/AP64cf06cce4b068c215d6f102.html)  
+- [这不是科幻！这是我军科研成果！-- 央视军事](https://www.guancha.cn/military-affairs/2023_08_06_704136.shtml)  
 
 ## 美国军工
 
