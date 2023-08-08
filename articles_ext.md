@@ -126,6 +126,7 @@
 - [ChatGPT母公司被集體起訴 　索償234億 -- 大公文匯](https://www.tkww.hk/a/202307/01/AP649f6a49e4b068c215b84151.html)  
 - [近四成美军攻击型潜艇停用待修，美媒又扯中国 -- 观察者网](https://www.guancha.cn/internation/2023_07_11_700526.shtml)  
 - [164年来首次！美海军陆战队遇“领导真空”，因参议员抗议美国防部堕胎福利 -- 观察者网](https://www.guancha.cn/internation/2023_07_11_700447.shtml)  
+- [美国两栖战舰建造仍在“战略暂停”，陆战队前司令担忧老舰难退役 -- 观察者网](https://www.guancha.cn/military-affairs/2023_08_08_704399.shtml)  
 
 ## 中国反制
 
