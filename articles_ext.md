@@ -97,6 +97,7 @@
 - [這不是科幻！這是解放軍科研成果 -- 大公文匯網](https://www.tkww.hk/a/202308/06/AP64cf06cce4b068c215d6f102.html)  
 - [这不是科幻！这是我军科研成果！-- 央视军事](https://www.guancha.cn/military-affairs/2023_08_06_704136.shtml)  
 - [【#这就是中国 EP195】中国的#国防工业 是如何发展的？ 和#张维为 #杜文龙 谈谈从抗美援朝胜利到国防工业的飞跃发展 | China Now | Full --【SMG上海电视台官方频道】 ](https://www.youtube.com/watch?v=apYV2XZncV4)  
+- [中国人民解放军建军96周年特别报道 -- 军迷天下](https://www.youtube.com/playlist?list=PLYG8vFcMYIaLPgoshxbiVfpxWPpnryd48)  
 
 ## 美国军工
 
