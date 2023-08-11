@@ -48,6 +48,7 @@ To delete the partition ```/dev/mmcblk1p4```.
 ```bash
 sudo fdisk /dev/mmcblk1
 ```
+Type ```d``` to delete.
 
 Select ```4``` (or default is already 4).
 
