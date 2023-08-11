@@ -31,7 +31,7 @@ Update the hosts file.
 sudo nano /etc/hosts
 ```
 
-Add starfive next to the ```127.0.0.1 localhost``` making it to look like ```127.0.0.1 localhost starfive```.
+Add ```starfive``` next to the ```127.0.0.1 localhost``` making it to look like ```127.0.0.1 localhost starfive```.
 
 ## Step 4 :
 
