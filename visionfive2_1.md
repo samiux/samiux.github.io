@@ -39,7 +39,7 @@ Add ```starfive``` next to the ```127.0.0.1 localhost``` making it to look like 
 
 ## Step 4 :
 
-Resize the partition to fit the SD card.
+Resize the partition to fit the larger size SD card.  It is because the official image is only around 3GB size that is insufficient to install any software.
 
 ```bash
 df -h
