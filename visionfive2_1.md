@@ -128,7 +128,7 @@ Make sure you have installed ```net-tools```.  Otherwise, you cannot run ```sudo
 
 ## KNOWN ISSUE : 
 
-```sudo reboot``` does not really reboot the device, it just only turn it off instead.  To power on the device, you can either re-plug in the power cable or using toothpick to press the power button once.  Wait for a few seconds.  When green light is flashing, the device is turning on.  
+```sudo reboot``` does not really reboot the device, it just only turn it off instead.  To power on the device, you can either re-plug in the power cable or using toothpick to press the ```Reset``` button once.  Wait for a few seconds.  When green light is flashing, the device is turning on.  
 
 Samiux  
 OSCE  OSCP  OSWP    
@@ -136,6 +136,7 @@ August 12, 2023, Hong Kong, China
 
 ### REFERENCE
 
+- [StarFive VisionFive2 Single Board Computer](https://www.starfivetech.com/en/site/boards)  
 - [StarFive Official VisionFive2 Debian images](https://debian.starfivetech.com/)  
 - [WaveShare Wiki VisionFive2 SD Card Switch Setting - Chinese](https://www.waveshare.net/wiki/VisionFive2#.E5.BC.80.E6.9C.BA)  
 - [VisionFive2 Github](https://github.com/starfive-tech/VisionFive2)  
