@@ -74,7 +74,7 @@ df -h
 
 ## Step 5 :
 
-Change the SSH setting to use password to login.
+Change the SSH setting to use user's password to login.
 
 ```bash
 sudo nano /etc/ssh/sshd_config
@@ -109,7 +109,7 @@ Update the system.
 sudo nano /etc/apt/source.list
 ```
 
-Change to the following.
+Replace with the following.
 
 ```bash
 deb https://deb.debian.org/debian/ unstable main contrib
