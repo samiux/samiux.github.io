@@ -140,5 +140,7 @@ August 12, 2023, Hong Kong, China
 - [WaveShare Wiki VisionFive2 SD Card Switch Setting - Chinese](https://www.waveshare.net/wiki/VisionFive2#.E5.BC.80.E6.9C.BA)  
 - [VisionFive2 Github](https://github.com/starfive-tech/VisionFive2)  
 - [Howto create VisionFive2 SD Card Image](https://huggingface.co/csukuangfj/visionfive2-sd-card-img)  
+- [VisionFive2 Metal Case - Passive Cooling](https://forum.rvspace.org/t/new-arrival-visionfive-2-new-metal-case/3073)  
+- [VisionFive2 Metal Case - Active Cooling](https://www.waveshare.com/visionfive2-case-a.htm)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
