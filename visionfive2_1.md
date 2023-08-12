@@ -1,6 +1,6 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-# Howto Custom made VisionFive2 SD Card Image (RISC-V)
+# Howto Custom Made VisionFive2 SD Card Image (RISC-V)
 
 VisionFive2 is a single board computer with RISC-V JH7110 CPU that is making by StarFive.  It comes with either 4GB or 8GB RAM and your can choose NVMe SSD or eMMC model.  You even can have both NVMe SSD and eMMC on one single board too.  It comes with SD Card slot by default.  It runs with normal smartphone SuperCharge 3.0 charger.  The temperature of the CPU is between 50°c and 85°c when turning on.  I recommend to run the board with heatsink or metal case.
 
