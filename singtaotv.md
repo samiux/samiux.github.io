@@ -201,5 +201,6 @@
 - [因担心美国间谍活动，俄罗斯多个部门在工作中禁用苹果设备 -- 观察者网](https://www.guancha.cn/internation/2023_07_16_701193.shtml)  
 - [克里米亚大桥遇袭，俄军对乌克兰境内目标进行“报复性袭击” -- 观察者网](https://www.guancha.cn/internation/2023_07_18_701444.shtml)  
 - [克里米亚大桥遭袭，乌克兰外长：谁说这桥是民用设施了？ -- 观察者网](https://www.guancha.cn/internation/2023_07_18_701393.shtml)  
+- [克里米亚大桥升起浓烟，俄方回应：击落两枚乌克兰导弹，大桥未受损 -- 观察者网](https://www.guancha.cn/internation/2023_08_12_704886.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
