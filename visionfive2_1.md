@@ -131,6 +131,7 @@ August 12, 2023, Hong Kong, China
 ### REFERENCE
 
 - [StarFive Official VisionFive2 Debian images](https://debian.starfivetech.com/)  
+- [WaveShare Wiki VisionFive2 SD Card Switch Setting - Chinese](https://www.waveshare.net/wiki/VisionFive2#.E5.BC.80.E6.9C.BA)  
 - [VisionFive2 Github](https://github.com/starfive-tech/VisionFive2)  
 - [Howto create VisionFive2 SD Card Image](https://huggingface.co/csukuangfj/visionfive2-sd-card-img)  
 
