@@ -20,7 +20,7 @@ Placing the VisionFive2 with Ethernet ports at the bottom.  Set the switch on th
 
 Boot up VisionFive2 with the SD Card and login to the mininal desktop.  Username is ```user``` and password is ```starfive```, while root username is ```root``` and password is also ```starfive```.  If you do not need GNOME, just uninstall it.
 
-Select ```Terminal``` and type the following commands to uninstall the GNOME desktop.
+Select ```Terminal``` and type the following commands to uninstall the GNOME desktop to make the device command line only and it is optional.
 
 ```bash
 sudo apt update
