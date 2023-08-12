@@ -122,6 +122,8 @@ sudo apt update && sudo apt full-upgrade && sudo apt autoremove
 
 Then you can install your desired softwares.
 
+Make sure you have installed ```net-tools```.  Otherwise, you cannot run ```sudo ifconfig``` command.
+
 ## KNOWN ISSUE : 
 
 ```sudo reboot``` does not really reboot the device, it just only turn it off instead.  To power on the device, you can either re-plug in the power cable or using toothpick to press the power button once.  Wait for a few seconds.  When green light is flashing, the device is turning on.  
