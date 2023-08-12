@@ -66,7 +66,7 @@ sudo resize2fs /dev/mmcblk1p4
 
 Type ```Enter``` for all the questions or inputs.
 
-Double check the partition.
+Double check the partition and to confirm that the ```/``` partition is occupied all the capacity of the SD card.
 
 ```bash
 df -h
