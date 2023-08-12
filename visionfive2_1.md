@@ -90,6 +90,14 @@ Reset the current time zone.
 sudo dpkg-reconfigure tzdata
 ```
 
+Generate English locales. 
+
+```bash
+sudo dpkg-reconfigure locales
+```
+
+Select all prefix is ```en``` items and set your country as default.
+
 ## Step 7 :
 
 Set /tmp to tmpfs.
