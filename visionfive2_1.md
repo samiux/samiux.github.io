@@ -2,6 +2,8 @@
 
 # Howto Custom made VisionFive2 SD Card Image (RISC-V)
 
+VisionFive2 is a single board computer with RISC-V CPU that is making by StarFive.  It comes with either 4GB or 8GB RAM and your can choose NVMe SSD or eMMC model too.  It comes with SD Card slot by default.  It runs with normal smartphone SuperCharge 3.0 charger.  The temperature of the CPU is over 50°c and below 80°c.  I recommend to run the board with heatsink or metal case.
+
 ## Step 1 :
 
 Download the latest version of VisionFive2 Debian Desktop SD Card image.
