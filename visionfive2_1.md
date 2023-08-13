@@ -130,7 +130,11 @@ Save it and run the following commands to update the system.
 sudo apt update && sudo apt full-upgrade && sudo apt autoremove
 ```
 
-Then you can install your desired softwares.
+Then you can install your desired softwares.  Such as 
+
+```bash
+sudo apt install lsof pciutils
+```
 
 Make sure you have installed ```net-tools```.  Otherwise, you cannot run ```sudo ifconfig``` command.
 
