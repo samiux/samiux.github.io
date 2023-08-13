@@ -133,7 +133,7 @@ sudo apt update && sudo apt full-upgrade && sudo apt autoremove
 Then you can install your desired softwares.  Such as 
 
 ```bash
-sudo apt install lsof pciutils
+sudo apt install net-tools lsof pciutils
 ```
 
 Make sure you have installed ```net-tools```.  Otherwise, you cannot run ```sudo ifconfig``` command.
