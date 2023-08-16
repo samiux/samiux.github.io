@@ -324,6 +324,7 @@
 - [我国成功发射卫星互联网技术试验卫星 -- 观察者网 ](https://www.guancha.cn/economy/2023_07_09_700240.shtml)  
 - [贵州发现新类型稀土资源，应用前景广阔 -- 多彩贵州网](https://www.guancha.cn/politics/2023_07_13_700760.shtml)  
 - [“零”的突破！全球首台海南昌江“玲龙一号”反应堆核心模块竣工验收 -- 央视新闻](https://www.guancha.cn/industry-science/2023_07_13_700758.shtml)  
+- [天津大学成功研发5.5G/6G多频段多标准兼容毫米波芯片套片 -- 观察者网](https://www.guancha.cn/industry-science/2023_08_16_705197.shtml)  
 
 ## Misc.
 
