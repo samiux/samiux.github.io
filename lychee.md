@@ -79,6 +79,12 @@ sudo ./clamav-installer
 Please allow about 1 to 2 minutes for ClamAV to load the signatures.   
 You can run this script at any time on the same Linux system box without any harm.
 
+Or simply just download the latest ClamAV debian package from [ClamAV Releases](https://github.com/Cisco-Talos/clamav/releases/) and install the package by issuing the following command, for example.
+
+```
+sudo dpkg -i clamav-1.1.1.linux.x86_64.deb
+```
+
 ## Modification
 
 If you require to make change to the clamd.conf (for example, include or exclude some directories), you can edit it.
