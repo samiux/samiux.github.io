@@ -777,6 +777,7 @@
 - [內地首款XBB疫苗獲批緊急使用　最快1個月可接種 -- 大公文匯](https://www.tkww.hk/a/202306/09/AP6482de71e4b068c215a607ba.html)  
 - [中疾控：5月新增新冠死亡病例164例 -- 观察者网](https://www.guancha.cn/politics/2023_06_12_696461.shtml)  
 - [中疾控：6月26日至7月2日，流感样病例新冠阳性率降至15.4% -- 观察者网](https://www.guancha.cn/politics/2023_07_06_699757.shtml)  
+- [新冠病毒EG.5变异株是什么？流行情况如何？国家疾控局解答 -- 观察者网](https://www.guancha.cn/politics/2023_08_19_705574.shtml)  
 
 ## 新冠过后中国经济
 
