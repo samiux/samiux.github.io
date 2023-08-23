@@ -130,6 +130,7 @@
 - [164年来首次！美海军陆战队遇“领导真空”，因参议员抗议美国防部堕胎福利 -- 观察者网](https://www.guancha.cn/internation/2023_07_11_700447.shtml)  
 - [美国两栖战舰建造仍在“战略暂停”，陆战队前司令担忧老舰难退役 -- 观察者网](https://www.guancha.cn/military-affairs/2023_08_08_704399.shtml)  
 - [美研製新型高功率「微波武器」成無人機剋星 -- 巴士的報](https://www.bastillepost.com/hongkong/article/13200480-%e7%be%8e%e7%a0%94%e8%a3%bd%e6%96%b0%e5%9e%8b%e9%ab%98%e5%8a%9f%e7%8e%87%e3%80%8c%e5%be%ae%e6%b3%a2%e6%ad%a6%e5%99%a8%e3%80%8d%e6%88%90%e7%84%a1%e4%ba%ba%e6%a9%9f%e5%89%8b%e6%98%9f)  
+- [美军试射“项目被取消”的高超导弹 但拒绝透露是否成功 -- 观察者网](https://www.guancha.cn/military-affairs/2023_08_23_706030.shtml)  
 
 ## 中国反制
 
