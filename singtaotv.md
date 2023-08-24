@@ -202,5 +202,6 @@
 - [克里米亚大桥遇袭，俄军对乌克兰境内目标进行“报复性袭击” -- 观察者网](https://www.guancha.cn/internation/2023_07_18_701444.shtml)  
 - [克里米亚大桥遭袭，乌克兰外长：谁说这桥是民用设施了？ -- 观察者网](https://www.guancha.cn/internation/2023_07_18_701393.shtml)  
 - [克里米亚大桥升起浓烟，俄方回应：击落两枚乌克兰导弹，大桥未受损 -- 观察者网](https://www.guancha.cn/internation/2023_08_12_704886.shtml)  
+- [俄罗斯瓦格纳集团创始人普里戈任在坠机事故中遇难 -- 观察者网综合](https://www.guancha.cn/internation/2023_08_24_706096.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
