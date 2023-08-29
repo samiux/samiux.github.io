@@ -27,14 +27,17 @@ CONFIG_FANOTIFY_ACCESS_PERMISSIONS is not set
 
 ## Softwares
 
-- ClamAV 1.1.1
+- ClamAV 1.2.0
 - Ubuntu 22.04.3 LTS  
 
 Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.8 (Dated AUG 24, 2023) (Latest)  
+### Version 0.9 (Dated AUG 29, 2023) (Latest)  
+- Updated to ClamAV 1.2.0  
+
+### Version 0.8 (Dated AUG 24, 2023)  
 - Minor modified  
 
 ### Version 0.7 (Dated AUG 18, 2023)  
@@ -85,7 +88,7 @@ You can run this script at any time on the same Linux system box without any har
 Or simply just download the latest ClamAV debian package from [ClamAV Releases](https://github.com/Cisco-Talos/clamav/releases/) and install the package by issuing the following command, for example.
 
 ```
-sudo dpkg -i clamav-1.1.1.linux.x86_64.deb
+sudo dpkg -i clamav-1.2.0.linux.x86_64.deb
 ```
 
 ## Modification
