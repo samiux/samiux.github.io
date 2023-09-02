@@ -140,7 +140,7 @@ Make sure you have installed ```net-tools```.  Otherwise, you cannot run ```sudo
 
 ## KNOWN ISSUE : 
 
-```sudo reboot``` does not really reboot the device, it just only turn it off instead.  To power on the device, you can either re-plug in the power cable or using toothpick to press the ```Reset``` button once.  Wait for a few seconds.  When green light is flashing, the device is turning on.  
+```sudo reboot``` does not really reboot the device, it just only turn it off instead.  To power on the device, you can either re-plug in the power cable.  Wait for a few seconds.  When green light is flashing, the device is turning on.  
 
 There is no SWAP partition.
 
