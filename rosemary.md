@@ -176,7 +176,7 @@ There are over 32,000 rules in Rosemary and they are all free of charge.  The nu
 For security purpose, it is NOT recommended to connect Rosemary via SSH in internet.  However, you may connect Rosemary via SSH in intranet.  The username and password are "rosemary".  The IP address of the Rosemary is 192.168.x.200, e.g. 192.168.0.200.  
 
 ### Can Rosemary decrypt the SSL/TLS traffic?
-Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic and etc.  
+Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic, detect and drop malicious JA3 Fingerprint and etc.  
 
 ### Do I also need anti-virus on my computer or laptop?
 Yes, anti-virus is required.  You are also advised to install the following add-ons or extensions for your browser such as Firefox or Chrome in order to increase the security for surfing the internet.
@@ -210,7 +210,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统是否能够解密所有加密的连接？
 
-不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量。
+不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量及能够识别及阻挡恶意 JA3 指纹等。
 
 ### 我仍是否需要安在电脑上装防毒软件？
 
