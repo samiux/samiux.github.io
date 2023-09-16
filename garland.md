@@ -73,35 +73,6 @@ All are open source projects.
 - Suricata 7.0.1  
 - Debian
 
-## INSTALLATION
-
-A 64GB micro SD Card (at least Class V30) is required for the installation.  
-
-Download the [SD Card image](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>) at Google Drive and extract it.
-
-Download [Balena Etcher](https://www.balena.io/etcher) at its official site and burn the image to the micro SD Card.  Then boot the NanoPi R5S with the micro SD Card.  Therefore, faster the micro SD Card is better the performance.  
-
-## 安装
-
-你需要一张至少 64GB (规格 V30) 的 SD 卡。
-
-从[谷歌云盘](<https://drive.google.com/file/d/16Fkf9riQJV82K23ocVUhUEmyfL2ivTsR/view?usp=sharing>)下载镜像文件，然后解压文件。
-
-从 [Balena Etcher](https://www.balena.io/etcher) 官网下载，并将镜像文件烧录到 micro SD 卡中，再将 micro SD 卡启动 NanoPi。所以速度快的 micro SD 卡在效能上较为占优。
-
-### Checksum
-
-sha256 e272053b25c564ce6e94b1b6fea25770f7096c0538d1ddc9e6f20f223b38b63f  rk3568-r5s-sd-garland-6.0.10-5.10-arm64-20230327.zip  
-sha256 8ed59d56c9cc2bec2b60acaa333958bbb38fd10cba902f612a648d1329ec8664  rk3568-r5s-sd-garland-6.0.10-5.10-arm64-20230327.img  
-
-## LICENSE
-
-Garland is developed by Samiux based on Croissants project which is since 2012 and it is released under GPLv3 and FREE OF CHARGE.  
-
-## 版权
-
-「茼蒿」是由 Samiux 基于他另一个开源项目「牛角面包」开发，该项目始于 2012 年。「茼蒿」亦是一项基于 GPLv3 的开源项目。
-
 ## DEPLOYMENT  
 
 The following is the recommended connection method of Garland.  However, you can connect it behind router too.
