@@ -29,6 +29,7 @@
 - [《人工智能安全标准化白皮书（2023版）》发布](https://www.freebuf.com/news/368952.html)  
 - [中华人民共和国对外关系法（全文）-- 观察者网](https://www.guancha.cn/politics/2023_06_28_698688.shtml)  
 - [国家网信办等七部门联合公布《生成式人工智能服务管理暂行办法》-- 网信中国](https://www.guancha.cn/politics/2023_07_13_700752.shtml)  
+- [什么是网络间谍行为？境外间谍情报机关攻击目标都是哪里？一文了解 -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_24638555)  
 
 ## 香港從來都不是殖民地
 
@@ -189,6 +190,7 @@
 - [武漢地震中心遭網攻　美國幕後黑手 -- 大公文匯](https://www.tkww.hk/a/202307/27/AP64c1bd64e4b068c215ce553d.html)  
 - [盧永雄「巴士的點評」美國為何會攻擊中國的地震監測中心? 無面俾! 美中情局長剛說「重建中國情報網」，中國就踢爆美國黑客攻擊 。 23年7月27日](https://www.youtube.com/watch?v=IVA50PxIkXk)  
 - [【中國焦點新聞】網絡攻擊武漢地震監測中心威脅國家安全？美軍方一直研究利用核打擊來誘發地震。內媒警告：不汲取朝鮮戰爭教訓，美國還要吃苦頭。23年7月27日](https://www.youtube.com/watch?v=aCRnFYuJOKE)  
+- [什么是网络间谍行为？境外间谍情报机关攻击目标都是哪里？一文了解 -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_24638555)
 
 ## CIA
 
