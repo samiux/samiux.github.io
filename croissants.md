@@ -2,6 +2,8 @@
 
 # Croissants 牛角面包 - Intrusion Detection and Prevention System  防御入侵系统 (Network)
 
+# DISCONTINUED
+
 Networks and computers that are opened to the public facing hacker attacks from all over the world every day.  Once we are compromised, we would be one of the cyber crime victims.  Our tasty Croissants is a high performance and ultra-low latency Intrusion Detection and Prevention System (IDPS).  Unlike well known and famous brands for large business enterprises in the market,  Croissants is available free of charge that everyone can afford.  It is ideal for home, Small Office Home Office (SOHO) and Small Medium Business (SMB).
 
 Not a Network Security Monitoring (NSM) or Information Security (InfoSec) expert?  No problem!  Our Croissants really is the "Plug, Play and Forget" system of your dreams.  Don't be the next cyber crime victims, try Croissants now!
