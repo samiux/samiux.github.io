@@ -7,7 +7,6 @@
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)    
 - [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)      
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
-- [Croissants 牛角面包 - Intrusion Detection and Prevention System (Network)](/croissants.md)
 
 # Projects (INACTIVE)
 
