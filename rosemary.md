@@ -230,9 +230,9 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 - [NanoPi R6S - 2.35Gbps Throughput with only 5W of Power Consumption](https://www.youtube.com/watch?v=UMbTibi3n2k)  
 - [NanoPi R6S Bootup - Firmware Update (eMMC) - PPPoE Speedtest](https://www.youtube.com/watch?v=WylvVwlDrFg)  
 
-## SUPPORT
+## SUPPORT AND ENQUIRY
 
-Discord @samiux#3445  
+Discord samiux @samiux   (#3445)  
 
 ## SEE ALSO
 
