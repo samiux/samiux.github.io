@@ -55,7 +55,7 @@ He can be reached at :
 - [CyberSecurity Ninjas](https://samiux.github.io) 
 - [Gitee](https://gitee.com/samiux)  
 - [GitHub](https://github.com/samiux)  
-- Discord @samiux#3445  
+- Discord samiux @samiux    (#3445)  
 
 ## **Reference**
 
