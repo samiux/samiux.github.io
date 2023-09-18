@@ -2,9 +2,9 @@
 
 # Garland 茼蒿 - Intrusion Detection and Prevention System  防御入侵系统
 
-# BEWARE!!! THE PERFORMANCE NOT UP TO THE STANDARD, IT JUST UP TO 200MBPS!!!
+# BEWARE!!! THE PERFORMANCE NOT UP TO THE STANDARD, IT AROUND 250MBPS TO 300MBPS!!!
 
-# 小心！！！效能不合标准，最高速为每秒 200M！！！
+# 小心！！！效能不合标准，最高速为大概每秒 200MB 至 300MB 左右！！！
 
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
