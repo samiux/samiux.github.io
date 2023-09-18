@@ -43,7 +43,6 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 - 有效阻挡已知的恶意行为, 例如网络攻击等  
 - 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
 - 兼容微软视窗、苹果电脑、Linux 及 Apple iOS、Google Android、Huawei HarmonyOS 等各大移动系统
-- 开源项目，完全免费
 - 自动更新
 - 随插即用，并且可以忘记之
 - 完全透明
