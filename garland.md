@@ -2,7 +2,7 @@
 
 # Garland 茼蒿 - Intrusion Detection and Prevention System  防御入侵系统
 
-# BEWARE!!! THE PERFORMANCE AROUNDS 200MBPS TO 300MBPS!!!
+# BEWARE!!! THE PERFORMANCE IS AROUND 200MBPS TO 300MBPS!!!
 
 # 小心！！！效能最高速为大概每秒 200MB 至 300MB 左右！！！
 
