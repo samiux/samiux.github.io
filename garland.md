@@ -64,13 +64,6 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 - Slightly larger than a credit card  
 - 94.5mm (L) x 68mm (W) x 30mm (H)   
 
-## MAIN COMPONENTS
-
-All are open source projects.
-
-- Suricata 7.0.1  
-- Debian
-
 ## DEPLOYMENT  
 
 The following is the recommended connection method of Garland.  However, you can connect it behind router too.
