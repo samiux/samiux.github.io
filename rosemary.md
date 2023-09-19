@@ -135,9 +135,6 @@ Rosemary can be turned off and it is not required to operate 24/7.  The update w
 ### How many detecting / blocking rules in Rosemary?  
 There are over 32,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
 
-### Do you recommend to access Rosemary via SSH in internet?
-For security purpose, it is NOT recommended to connect Rosemary via SSH in internet.  However, you may connect Rosemary via SSH in intranet.  The username and password are "rosemary".  The IP address of the Rosemary is 192.168.x.200, e.g. 192.168.0.200.  
-
 ### Can Rosemary decrypt the SSL/TLS traffic?
 Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic, detect and drop malicious JA3 Fingerprint and etc.  
 
