@@ -2,7 +2,7 @@
 
 # Rosemary 迷迭香 - Intrusion Detection and Prevention System  防御入侵系统
 
-## Performance is lower than Garland as the CPU power is different!!!
+## Performance is higher than Garland as the CPU power is different!!!
 
 ## 因处理器不同，其效能比「茼蒿」要高!!!
 
