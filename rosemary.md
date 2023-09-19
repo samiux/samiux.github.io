@@ -4,7 +4,7 @@
 
 ## Performance is lower than Garland as the CPU power is different!!!
 
-## 因处理器不同，其效能比「茼蒿」要快!!!
+## 因处理器不同，其效能比「茼蒿」要高!!!
 
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Rosemary Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
