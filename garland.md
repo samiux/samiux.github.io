@@ -2,9 +2,9 @@
 
 # Garland 茼蒿 - Intrusion Detection and Prevention System  防御入侵系统
 
-# BEWARE!!! THE PERFORMANCE IS AROUND 200MBPS TO 300MBPS!!!
+## Performance is lower than Rosemary as the CPU power is different!!!
 
-# 小心！！！效能最高速为大概每秒 200MB 至 300MB 左右！！！
+## 因处理器不同，其效能比「迷迭香」要慢!!!
 
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
