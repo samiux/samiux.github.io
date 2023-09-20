@@ -235,6 +235,10 @@ Copyright (c) 2023 Samiux
 
 Discord samiux @samiux   (#3445)  
 
+## 支援及查询
+
+Discord samiux @samiux   (#3445)  
+
 ## SEE ALSO
 
 - [Rosemary IDPS and 4K Video playback](https://youtu.be/w4cVVp3t23o)  
