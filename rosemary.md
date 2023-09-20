@@ -211,11 +211,11 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 
 ## PRICE
 
-System price : $5,000-HK  
+System price : $5,000-HK  (NOT including hardware)
 
 ## 售价
 
-系统售价 ：港幤五千元正  
+系统售价 ：港幤五千元正  (不包括敢体)
 
 ## REFERENCE
 
