@@ -222,14 +222,18 @@ Copyright (c) 2023 Samiux
 
 版欋 (c) 2023 Samiux  
 
+## SUPPORT AND ENQUIRY
+
+Discord samiux @samiux   (#3445)  
+
+## 支援及查询
+
+Discord samiux @samiux   (#3445) 
+
 ## REFERENCE
 
 - [FriendlyElec NanoPi R5S Offical Site](https://www.friendlyelec.com/index.php?route=product/product&product_id=287)  
 - [NanoPi R5S评测-全面超越R2S 配置全面 接口丰富 小白用户首选](https://www.youtube.com/watch?v=AMLvqHbQwMI)  
-
-## SUPPORT AND ENQUIRY
-
-Discord samiux @samiux   (#3445)  
 
 ## SEE ALSO
 
