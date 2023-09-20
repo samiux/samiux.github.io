@@ -34,7 +34,7 @@ OSCE  OSCP  OSWP
 二零二三年五月十三日，中国香港    
 二零二三年九月廿日，中国香港    
 
-## 项目：
+## 付费项目：
 
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R6S)](/rosemary.md)  
 - [Garland 茼蒿 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R5S)](/garland.md)      
