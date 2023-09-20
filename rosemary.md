@@ -185,7 +185,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ## KNOWN ISSUES
 
-Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot of the burning SD Card__) after half an hour in order to get the current local time.  
+Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot__) after half an hour in order to get the current local time.  
 
 Public Secure DNS will encrypt the DNS query that will affect the ability of blocking of IDPS, those secure DNS cannot be used, such as 
 
