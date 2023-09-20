@@ -8,7 +8,7 @@
 
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
-One of the most significant benefits of Garland is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Garland is completely free of charge, making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
+One of the most significant benefits of Garland is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Garland is making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
 
 Garland's creator is an experienced white hat hacker, so the cybersecurity solution's design effectively detects and prevents sophisticated cyber threats. The Garland Intrusion Detection and Prevention System utilizes the malicious hacker's inside knowledge of current and potential malicious hacker tactics. And it provides complete transparency and is hassle-free for users.
 
@@ -18,7 +18,7 @@ In summary, Garland Intrusion Detection and Prevention System is an effective, u
 
 当技术不断进步时，网络安全威胁也会不断增加，这可能使个人和小型企业容易受到网络犯罪的侵害。公共网络和电脑面临来自世界各地黑客的日常攻击，而「茼蒿」入侵防御系统（IDPS）则为应对此类威胁提供了高效、超低延迟的解决方案。
 
-「茼蒿」的主要优势之一是其用户友好设计，它可供任何人使用，无论其在网络安全监控（NSM）或信息安全（InfoSec）方面的技术水平如何。此外，「茼蒿」以「随插即用，并且可以忘记之」的方式运行，无需进行复杂的配置或维护。同时，「茼蒿」 是完全免费的，这使其成为适合家庭和小型办公室/家庭办公室（SOHO）设置的负担得起的解决方案。
+「茼蒿」的主要优势之一是其用户友好设计，它可供任何人使用，无论其在网络安全监控（NSM）或信息安全（InfoSec）方面的技术水平如何。此外，「茼蒿」以「随插即用，并且可以忘记之」的方式运行，无需进行复杂的配置或维护。同时，「茼蒿」使其成为适合家庭和小型办公室/家庭办公室（SOHO）设置的负担得起的解决方案。
 
 「茼蒿」的设计者是一位经验丰富的「白帽黑客」，因此这个网络安全方案的设计可以有效地检测和防范复杂的网络威胁。「茼蒿」入侵防御系统利用恶意黑客对当前和潜在的恶意黑客策略的深入了解，为用户提供完全透明、无麻烦的网络安全解决方案。
 
