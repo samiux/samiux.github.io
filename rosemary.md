@@ -221,6 +221,14 @@ Copyright (c) 2023 Samiux
 
 版欋 (c) 2023 Samiux  
 
+## SUPPORT AND ENQUIRY
+
+Discord samiux @samiux   (#3445)  
+
+## 支援及查询
+
+Discord samiux @samiux   (#3445)  
+
 ## REFERENCE
 
 - [FriendlyElec NanoPi R6S Official Site](https://www.friendlyelec.com/index.php?route=product/product&product_id=289)  
@@ -230,14 +238,6 @@ Copyright (c) 2023 Samiux
 - [NanoPi R6S - Wireguard & OpenVPN Throughput Test](https://www.youtube.com/watch?v=YC16CsEYN6g)  
 - [NanoPi R6S - 2.35Gbps Throughput with only 5W of Power Consumption](https://www.youtube.com/watch?v=UMbTibi3n2k)  
 - [NanoPi R6S Bootup - Firmware Update (eMMC) - PPPoE Speedtest](https://www.youtube.com/watch?v=WylvVwlDrFg)  
-
-## SUPPORT AND ENQUIRY
-
-Discord samiux @samiux   (#3445)  
-
-## 支援及查询
-
-Discord samiux @samiux   (#3445)  
 
 ## SEE ALSO
 
