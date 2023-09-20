@@ -210,6 +210,14 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 - OpenDNS
 - DNSWatch
 
+## PRICE
+
+System price : $5,000-HK  
+
+## 售价
+
+系统售价 ：港幤五千元正  
+
 ## REFERENCE
 
 - [FriendlyElec NanoPi R5S Offical Site](https://www.friendlyelec.com/index.php?route=product/product&product_id=287)  
