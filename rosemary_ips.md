@@ -10,7 +10,7 @@ Enjoy a seamless online experience with reliable protection using Rosemary IPS -
 
 Rosemary IPS 专为 FriendlyElec Nano Pi R6S 设计，帮助您轻松保护家庭或小型 SOHO 办公室的网络安全。使用我们的高级入侵检测技术，实时监测网络活动，可捕捉有害流量和数据窃取，确保您的个人数据和商业信息安全。
 
-使用 Rosemary IPS，实现无缝的家庭和 SOHO 网络安全保护，为您的所有在线事务提供可靠安全保障。Y
+使用 Rosemary IPS，实现无缝的家庭和 SOHO 网络安全保护，为您的所有在线事务提供可靠安全保障。
 
 Samiux  
 OSCE OSCP OSWP  
