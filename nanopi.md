@@ -18,7 +18,7 @@
 
 Although FriendlyElec's NanoPi R6S was originally designed as a router, I have modified them into an intrusion prevention system. Intrusion prevention systems are different from anti-virus software and firewalls, all three of which need to be used simultaneously. For large, medium and small enterprises, intrusion prevention systems are one of the essential network security devices. Even home users need such equipment.
 
-I have developed an intrusion prevention system based on embedded Linux, suitable for NanoPi R6S (Rosemary). Some users have tested download speeds of around 900Mbps or more. This intrusion prevention system has extremely low power consumption, averaging only 5W, and runs silently, with a very small size about the size of a credit card. The hardware price about several thousands of Hong Kong dollar. Compared with enterprise-level intrusion prevention systems that cost several hundred thousands of Hong Kong Dollar, these devices are very affordable.
+I have developed an intrusion prevention system based on embedded Linux, suitable for NanoPi R6S. Some users have tested download speeds of around 900Mbps or more. This intrusion prevention system has extremely low power consumption, averaging only 5W, and runs silently, with a very small size about the size of a credit card. The hardware price about several thousands of Hong Kong dollar. Compared with enterprise-level intrusion prevention systems that cost several hundred thousands of Hong Kong Dollar, these devices are very affordable.
 
 Installation is simple and direct, there is no need for setup or debugging, it is plug-and-play, and it is especially convenient for general home users or small companies. These intrusion defense devices can achieve network speeds of up to 1000Mbps, with extremely low network latency that allows you to enjoy 4K videos on YouTube or play online games, and even use BT downloads.
 
@@ -37,7 +37,6 @@ OSCE  OSCP  OSWP
 ## 付费项目：
 
 - [Rosemary 迷迭香 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R6S)](/rosemary.md)  
-- [Garland 茼蒿 - Intrusion Detection and Prevention System 防御入侵系统 (NanoPi R5S)](/garland.md)      
 
 ## 参考网址：
 
