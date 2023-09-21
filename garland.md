@@ -186,8 +186,6 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ## KNOWN ISSUES
 
-Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot__) after half an hour in order to get the current local time.  
-
 Public Secure DNS will encrypt the DNS query that will affect the ability of blocking of IDPS, those secure DNS cannot be used, such as 
 
 - Cloudflare
@@ -198,8 +196,6 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 - DNSWatch
 
 ## 已知问题
-
-因为防御入侵系统没有时钟电池，所以在烧录后第一次开机时，应在半小时后重启一次就可以更正时钟了。
 
 公共网域名称系统会将网域查询加宻而影响防御入侵系统的防御能力，所以不能使用此等设定，例如：
 
