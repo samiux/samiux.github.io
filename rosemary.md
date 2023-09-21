@@ -2,10 +2,6 @@
 
 # Rosemary 迷迭香 - Intrusion Detection and Prevention System  防御入侵系统
 
-## Performance is higher than Garland as the CPU power is different!!!
-
-## 因处理器不同，其效能比「茼蒿」要高!!!
-
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Rosemary Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
 One of the most significant benefits of Rosemary is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Rosemary is making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
@@ -185,8 +181,6 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ## KNOWN ISSUES
 
-Since there is no Real-Time-Clock battery in the device, you are required to reboot the device (__the FIRST boot__) after half an hour in order to get the current local time.  
-
 Public Secure DNS will encrypt the DNS query that will affect the ability of blocking of IDPS, those secure DNS cannot be used, such as 
 
 - Cloudflare
@@ -197,8 +191,6 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 - DNSWatch
 
 ## 已知问题
-
-因为防御入侵系统没有时钟电池，所以在烧录后第一次开机时，应在半小时后重启一次就可以更正时钟了。
 
 公共网域名称系统会将网域查询加宻而影响防御入侵系统的防御能力，所以不能使用此等设定，例如：
 
