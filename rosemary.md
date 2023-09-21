@@ -133,7 +133,7 @@ Between 0600 and 0630 hours every day, Rosemary will do the housekeeping and upd
 Rosemary can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Rosemary is booting up.  It is advised NOT to turn off the Rosemary between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Rosemary.  Meanwhile, if you turn off the Rosemary within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Rosemary?  
-There are over 32,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
+There are over 34,000 rules in Rosemary and they are all free of charge.  The number of rules are increasing.    
 
 ### Can Rosemary decrypt the SSL/TLS traffic?
 Rosemary cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Rosemary can detect and drop self signed SSL/TLS certificate traffic, detect and drop malicious JA3 Fingerprint and etc.  
