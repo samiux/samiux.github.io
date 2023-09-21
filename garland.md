@@ -138,7 +138,7 @@ Between 0600 and 0630 hours every day, Garland will do the housekeeping and upda
 Garland can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Garland is booting up.  It is advised NOT to turn off the Garland between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Garland.  Meanwhile, if you turn off the Garland within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Garland?  
-There are over 32,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
+There are over 34,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
 
 ### Can Garland decrypt the SSL/TLS traffic?
 Garland cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Garland can detect and drop self signed SSL/TLS certificate traffic, detect and drop malicious JA3 Fingerprint and etc.  
