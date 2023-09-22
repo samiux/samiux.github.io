@@ -203,13 +203,13 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 
 ## PRICE
 
-System price : Contact Samiux  (NOT including postage)
+System price : $6,500-HKD or $840-USD  (NOT including postage)
 
 Copyright (c) 2023 Samiux  
 
 ## 售价
 
-系统售价 ：联络 Samiux  (不包括邮费)
+系统售价 ：$6,500-HKD 或 $840-USD  (不包括邮费)
 
 版欋 (c) 2023 Samiux  
 
