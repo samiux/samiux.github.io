@@ -185,9 +185,9 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 Public Secure DNS will encrypt the DNS query that will affect the ability of blocking of IDPS, those secure DNS cannot be used, such as 
 
-- Cloudflare
+- Cloudflare DNS
 - Google Public DNS
-- Quad9
+- Quad9 DNS
 - NextDNS
 - OpenDNS
 - DNSWatch
