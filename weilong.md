@@ -164,7 +164,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统内有多少条规则？
 
-所有规则都是免费的，已经超过 3 万 2 千多条，而且亦每日在增加中。
+所有规则都是免费的，已经超过 3 万 4 千多条，而且亦每日在增加中。
 
 ### 防御入侵系统是否能够解密所有加密的连接？
 
