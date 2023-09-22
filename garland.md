@@ -2,10 +2,6 @@
 
 # Garland 茼蒿 - Intrusion Detection and Prevention System  防御入侵系统
 
-## Performance is lower than Rosemary as the CPU power is different!!!
-
-## 因处理器不同，其效能比「迷迭香」要低!!!
-
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Garland Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
 One of the most significant benefits of Garland is its user-friendly design, making it accessible to everyone, regardless of their technical expertise in Network Security Monitoring (NSM) or Information Security (InfoSec). This "Plug, Play and Forget" system efficiently eliminates the need for any complex configurations or maintenance. Also, Garland is making it an affordable and ideal solution for home and small office/home office (SOHO) setups.
@@ -234,7 +230,6 @@ Discord samiux @samiux   (#3445)
 ## SEE ALSO
 
 - [Garland IDPS and 4K video playback]( https://youtu.be/3D4knrZNr8U)  
-- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)  
 - [平价适合家用的防御入侵系统](/nanopi.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
