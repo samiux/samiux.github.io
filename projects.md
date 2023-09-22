@@ -4,8 +4,7 @@
 
 ## Defensive
 
-- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)    
-- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)      
+- [威龙  Weilong - Intrusion Detection and Prevention System (NanoPi R6S)](/weilong.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
 
 # Projects (INACTIVE)
