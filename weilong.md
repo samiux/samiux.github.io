@@ -194,9 +194,9 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 
 公共网域名称系统会将网域查询加宻而影响防御入侵系统的防御能力，所以不能使用此等设定，例如：
 
-- Cloudflare
+- Cloudflare DNS
 - Google Public DNS
-- Quad9
+- Quad9 DNS
 - NextDNS
 - OpenDNS
 - DNSWatch
