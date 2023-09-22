@@ -38,7 +38,6 @@
 - [Yet Another Cyber Defender](/cyberdefender.md)  
 - [我的 Ubuntu 笔记本](/ubuntu_laptop.md)  
 - [平价适合家用的防御入侵系统](/nanopi.md)  
-- [使用 Rosemary IPS 和 Nano Pi R6S 轻松保护您的家庭网络安全](/rosemary_ips.md)  
 - [如何成为反网络诈骗专家？](/anti-scam.md)  
 - [安全产品漏洞这个事，瞒不住了 -- Freebuf](https://www.freebuf.com/articles/376479.html)  
 - [零攻破—2023全球黑客挑战赛落下帷幕 -- Freebuf](https://www.freebuf.com/articles/378447.html)  
