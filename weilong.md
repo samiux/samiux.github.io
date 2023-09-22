@@ -240,5 +240,6 @@ Discord samiux @samiux   (#3445)
 ## SEE ALSO
 
 - [平价适合家用的防御入侵系统](/nanopi.md)  
+- [Intrusion Detection, Intrusion Prevention, and Antivirus: The Differences](https://bestructured.com/intrusion-detection-intrusion-prevention-and-antivirus-the-differences/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
