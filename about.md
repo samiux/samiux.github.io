@@ -18,8 +18,7 @@ Not only try harder but also try smarter!
 
 He has some active projects about CyberSecurity, they are :
 
-- [Rosemary 迷迭香 - Intrusion Detection and Prevention System (NanoPi R6S)](/rosemary.md)    
-- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)      
+- [威龙  Weilong - Intrusion Detection and Prevention System (NanoPi R6S)](/weilong.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 
 Some of his projects are now inactive, they are :
@@ -31,6 +30,7 @@ Some of his projects are now inactive, they are :
 - [Garlic 大蒜- Intrusion Detection and Prevention System (Pesonal Computer)](/garlic.md)  
 - [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  
 - [Kale 羽衣甘蓝 - Intrusion Detection System (Port Mirroring)](/kale.md)  
+- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)
 
 Forked from others :
 
