@@ -132,7 +132,7 @@ http://192.168.x.200:5636
 
 For example, ```http://192.168.0.200:5636```.
 
-__WARNING : Please DO NOT allow this interface to be accessed in the internet as it is insecure to your network.__
+__WARNING : Please DO NOT allow this interface to be accessed in the internet as it will endanger to your network.__
 
 ## 使用者介面
 
