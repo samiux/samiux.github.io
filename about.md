@@ -30,7 +30,7 @@ Some of his projects are now inactive, they are :
 - [Garlic 大蒜- Intrusion Detection and Prevention System (Pesonal Computer)](/garlic.md)  
 - [Taro 芋头 - Intrusion Detection and Prevention System (Server)](/taro.md)  
 - [Kale 羽衣甘蓝 - Intrusion Detection System (Port Mirroring)](/kale.md)  
-- [Garland 茼蒿 - Intrusion Detection and Prevention System (NanoPi R5S)](/garland.md)
+- [Garland 茼蒿 - Intrusion Detection and Prevention System](/garland.md)
 
 Forked from others :
 
