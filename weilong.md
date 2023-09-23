@@ -48,17 +48,9 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 
 ## HARDWARE
 
-### FriendlyElec NanoPi R6S
-
-- 8 cores ARM CPU (Quad-core ARM Cortex™-A76 & Quad-core ARM Cortex™-A55)  
-- 8GB RAM  
-- 32GB eMMC  
-- 3 network interfaces (2 x 2.5Gbps, 1 x 1Gbps)   
+- 8 cores CPU
+- 8GB RAM
 - Max. power consumption 5W, fanless, no noise  
-- Max. WAN traffic flow up to 2.5Gbps  
-- 1 HDMI 2.0  
-- 1 USB 3.0 Type-A, 1 USB 2.0 Type-A  
-- 1 micro SD Card Slot  
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
@@ -247,19 +239,8 @@ Discord samiux @samiux   (#3445)
 
 Discord samiux @samiux   (#3445)  
 
-## REFERENCE
-
-- [FriendlyElec NanoPi R6S Official Site](https://www.friendlyelec.com/index.php?route=product/product&product_id=289)  
-- [The New Nanopi R6s Sbc: A Powerful Arm Board With A Huge Performance Edge Over The Pi4!](https://www.youtube.com/watch?v=CfaWB9q4xOI)  
-- [NanoPi R6S - Unboxing and Quick Overview](https://www.youtube.com/watch?v=-rlJ_80d01U)  
-- [NanoPi R6S Linux Review - Rockchip RK3588S with dual 2.5GbE + 1GbE](https://www.youtube.com/watch?v=gCBNWGhp8gM)  
-- [NanoPi R6S - Wireguard & OpenVPN Throughput Test](https://www.youtube.com/watch?v=YC16CsEYN6g)  
-- [NanoPi R6S - 2.35Gbps Throughput with only 5W of Power Consumption](https://www.youtube.com/watch?v=UMbTibi3n2k)  
-- [NanoPi R6S Bootup - Firmware Update (eMMC) - PPPoE Speedtest](https://www.youtube.com/watch?v=WylvVwlDrFg)  
-
 ## SEE ALSO
 
-- [平价适合家用的防御入侵系统](/nanopi.md)  
 - [Intrusion Detection, Intrusion Prevention, and Antivirus: The Differences](https://bestructured.com/intrusion-detection-intrusion-prevention-and-antivirus-the-differences/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
