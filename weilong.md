@@ -225,7 +225,7 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 
 ## PRICE
 
-System price : $6,500-HKD or $840-USD  (NOT including postage)
+System price : Please contact Samiux  (NOT including postage)
 
 Package included : NanoPi R6S x 1, regular mobile phone adapter x 1 and USB Type-C cable x 1, as well as CAT 6 network cables x 2.
 
@@ -233,7 +233,7 @@ Copyright (c) 2023 Samiux
 
 ## 售价
 
-系统售价 ：港幤 $6,500-HKD 或 美元 $840-USD  (不包括邮费)
+系统售价 ：请联络 Samiux  (不包括邮费)
 
 整套设备包括 ：NanoPi R6S x 1，普通手机电源适配器 x 1 和 USB Type-C 线 x 1，以及 CAT 6 网络线 x 2。
 
