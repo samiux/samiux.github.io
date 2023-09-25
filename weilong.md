@@ -62,7 +62,7 @@ You are recommended to connect the Weilong behind router.  However, you can conn
 建议将防御入侵系统放置于路由器之后，但亦可以放置在路由器之前，分别在于，如果放在路由器之前是看不到内网的。
 
 
-- 下图不能看见内网。
+- 图一，下图不能看见内网。
 
 ```
             (WAN)             (LAN1 to Router's WAN)          (Router's LAN)          
@@ -73,7 +73,7 @@ You are recommended to connect the Weilong behind router.  However, you can conn
                               (LAN2 to Router's LAN)
 ```
 
-- 下图不能看见内网。
+- 图二，下图不能看见内网。
 
 ```
                                                                                 +------- Laptops
@@ -87,7 +87,7 @@ You are recommended to connect the Weilong behind router.  However, you can conn
 
 ```
 
-- 下图可以看见内网。
+- 图三，下图可以看见内网。
 
 ```
                                                                                 +------- Laptops
@@ -101,7 +101,7 @@ You are recommended to connect the Weilong behind router.  However, you can conn
 
 ```
 
-- 下图可以看见内网。
+- 图四，下图可以看见内网。
 
 ```
                                                                    
@@ -115,7 +115,7 @@ WIFI Router (unused)      |                        |
 
 ```
 
-- 下图可以看见内网。
+- 图五，下图可以看见内网。
 
 ```
                                                                     +------- WIFI AP
@@ -129,7 +129,7 @@ WIFI Router (unused)      |                        |                |
 
 ```
 
-- 下图可以看见内网。
+- 图六，下图可以看见内网。
 
 ```
                                                                     +------- WIFI AP
