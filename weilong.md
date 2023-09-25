@@ -2,7 +2,9 @@
 
 # 威龙  Weilong - Intrusion Detection and Prevention System  防御入侵系统
 
-「威龙」是我国第五代隐形战机 歼-20 的称号。
+### 「威龙」是我国第五代隐形战机 歼-20 的称号。
+
+### The callsign of our country - China's fifth generation invisiable jet fighter J-20.
 
 As technology advances, so do cybersecurity threats, which can leave individuals and small businesses vulnerable to cybercrime. Public-facing networks and computers are highly susceptible to daily hacker attacks from around the world. In response to this need, the Weilong Intrusion Detection and Prevention System (IDPS) was developed as a highly efficient and ultra-low latency security solution.
 
