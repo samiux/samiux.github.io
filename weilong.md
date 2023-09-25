@@ -56,9 +56,9 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 
 ## DEPLOYMENT  
 
-The following is the recommended connection method of Weilong.  However, you can connect it behind router too.
+You are recommended to connect the Weilong behind router.  However, you can connect it in front of router too.  If you connect the Weilong in front of router, you cannot see the intranet.
 
-建议将防御入侵系统放置于路由器之前，但亦可以放置在路由器之后。
+建议将防御入侵系统放置于路由器之后，但亦可以放置在路由器之前，分别在于，如果放在路由器之前是看不到内网的。
 
 ```
             (WAN)             (LAN1 to Router's WAN)          (Router's LAN)          
