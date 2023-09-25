@@ -29,7 +29,7 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 - Compatible with Bittorrent and 4K video streaming  
 - Ultra-low latency for demanding online games  
 - Compatible with Microsoft Windows, GNU Linux, Apple macOS, Apple iOS, Google Android and Huawei HarmonyOS  
-- No subscription fee  
+- No subscription and annual fee  
 - Automatically update  
 - Plug, Play and Forget!  
 - Totally transparent  
@@ -41,6 +41,7 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 - 有效阻挡已知的恶意软件，例如勒索软件等
 - 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
 - 兼容微软视窗、苹果电脑、Linux 及 Apple iOS、Google Android、Huawei HarmonyOS 等各大移动系统
+- 无需年费或使用费
 - 自动更新
 - 随插即用，并且可以忘记之
 - 完全透明
