@@ -57,7 +57,15 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
 
-## DEPLOYMENT  
+## 硬体
+
+- 八核处理器
+- 8GB 内存
+- 最高功耗 5W，无风扇无噪
+- 大小约大于一张信用卡
+- 96.5mm (长) x 68mm (濶) x 30mm (高)
+
+## DEPLOYMENT  安装配置
 
 You are recommended to connect the Weilong behind router.  However, you can connect it in front of router too.  If you connect the Weilong in front of router, you cannot see the intranet.
 
@@ -273,7 +281,7 @@ Discord samiux @samiux   (#3445)
 
 Discord samiux @samiux   (#3445)  
 
-## SEE ALSO
+## SEE ALSO  更多资讯
 
 - [Intrusion Detection, Intrusion Prevention, and Antivirus: The Differences](https://bestructured.com/intrusion-detection-intrusion-prevention-and-antivirus-the-differences/)  
 
