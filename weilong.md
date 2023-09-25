@@ -93,11 +93,11 @@ You are recommended to connect the Weilong behind router.  However, you can conn
                                                                                 +------- Laptops
                                                                                 |
             (WAN)           (LAN1 to Router's WAN)     (Switch's LAN)           |
-   Modem ----------- Weilong ------------------ Router -------- Switch ---------+------- WIFI AP
-                          |                      (WIFI)             |           |
-                          |                                         |           |
-                          +-----------------------------------------+           +------- PCs
-                                   (LAN2 to Switch's LAN)
+   Modem ----------- Router ------------------ Weilong -------- Switch ---------+------- WIFI AP
+                                                  |                 |           |
+                                                  |                 |           |
+                                                  +-----------------+           +------- PCs
+                                                 (LAN2 to Switch's LAN)
 
 ```
 
