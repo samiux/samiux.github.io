@@ -178,7 +178,7 @@ http://192.168.x.200:5636
 
 __警告 ：切勿开放此网址到互联网，因为这样做会危害内网的安全。__
 
-[![](https://img.youtube.com/vi/MGkS28dqfWA/0.jpg)](https://www.youtube.com/watch?v=MGkS28dqfWA "Weilong Intrusion Detection and Prevention System")  
+[![](https://img.youtube.com/vi/OiP0h8bUrO8/0.jpg)](https://www.youtube.com/watch?v=OiP0h8bUrO8 "Weilong Intrusion Detection and Prevention System")  
 
 ## FAQ  
 
