@@ -90,6 +90,20 @@ You are recommended to connect the Weilong behind router.  However, you can conn
 - 下图可以看见内网。
 
 ```
+                                                                                +------- Laptops
+                                                                                |
+            (WAN)           (LAN1 to Router's WAN)     (Switch's LAN)           |
+   Modem ----------- Weilong ------------------ Router -------- Switch ---------+-------- AP
+                          |                      (WIFI)             |           |
+                          |                                         |           |
+                          +-----------------------------------------+           +------- PCs
+                                   (LAN2 to Switch's LAN)
+
+```
+
+- 下图可以看见内网。
+
+```
                                                                    
                                                                     
             (WAN)          (LAN1 to WIFI AP's WAN)                  
