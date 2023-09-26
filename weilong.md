@@ -28,7 +28,7 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 
 ## FEATURES
 
-- Blocks known malicious activities, e.g. internet attacks
+- Blocks known malicious activities, e.g. attack attempts
 - Blocks known malwares, e.g. ransomwares  
 - Compatible with Bittorrent and 4K video streaming  
 - Ultra-low latency for demanding online games  
