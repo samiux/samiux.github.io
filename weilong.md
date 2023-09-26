@@ -166,7 +166,7 @@ http://192.168.x.200:5636
 
 For example, ```http://192.168.0.200:5636```.
 
-__WARNING : Please DO NOT allow this interface to be accessed in the internet as it will endanger to your network.__
+__WARNING : Please DO NOT allow this user interface to be accessed in the internet as it will endanger your network.__
 
 ## 使用者介面
 
@@ -182,7 +182,7 @@ __警告 ：切勿开放此网址到互联网，因为这样做会危害内网�
 
 ## FAQ  
 
-### When will the rules are updated?
+### When will the rules be updated?
 
 #### 24/7
 Between 0600 and 0630 hours every day, Weilong will do the housekeeping and updating.  The defending work of Weilong may be interrupted during this period.  
@@ -261,7 +261,7 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 
 ## PRICE
 
-System price : Please contact Samiux  (NOT including postage)
+System price : Please contact Samiux  (NOT including delivery)
 
 Package included : device x 1, power adapter x 1 and USB Type-C cable x 1, as well as CAT 6 network cables x 2.
 
