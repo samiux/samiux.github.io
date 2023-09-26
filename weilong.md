@@ -79,8 +79,8 @@ You are recommended to connect the Weilong behind router.  However, you can conn
 ```
             (WAN)             (LAN1 to Router's WAN)          (Router's LAN)          
    Modem ----------- Weilong ----------------------- Router ----------------- PCs & Laptops
-                          |                           (WIFI)                      
-                          |                             | (Router's LAN)                   
+   (or with WIFI)         |                           (WIFI)                      
+     (unused)             |                             | (Router's LAN)                   
                           +-----------------------------+
                               (LAN2 to Router's LAN)
 ```
@@ -92,8 +92,8 @@ You are recommended to connect the Weilong behind router.  However, you can conn
                                                                                 |
             (WAN)           (LAN1 to Router's WAN)     (Switch's LAN)           |
    Modem ----------- Weilong ------------------ Router -------- Switch ---------+
-                          |                      (WIFI)             |           |
-                          |                                         |           |
+   (or with WIFI)         |                      (WIFI)             |           |
+     (unused)             |                                         |           |
                           +-----------------------------------------+           +------- PCs
                                    (LAN2 to Switch's LAN)
 
