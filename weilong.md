@@ -166,6 +166,8 @@ http://192.168.x.200:5636
 
 For example, ```http://192.168.0.200:5636```.
 
+Login details : username = weilong, password = weilongidps
+
 __WARNING : Please DO NOT allow this user interface to be accessed in the internet as it will endanger your network.__
 
 ## 使用者介面
@@ -175,6 +177,8 @@ http://192.168.x.200:5636
 ```
 
 例如 ```http://192.168.0.200:5636```.
+
+登入资料 ：用户名称 = weilong， 宻码 = weilongidps
 
 __警告 ：切勿开放此网址到互联网，因为这样做会危害内网的安全。__
 
