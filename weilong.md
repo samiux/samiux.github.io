@@ -31,6 +31,7 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 - Blocks known malicious activities, e.g. attack attempts
 - Blocks known malwares, e.g. ransomwares  
 - Blocks known malicious and phishing websites  
+- Monitoring and inspecting traffic for analysis  
 - Compatible with Bittorrent and 4K video streaming  
 - Ultra-low latency for demanding online games  
 - Compatible with Microsoft Windows, GNU Linux, Apple macOS, Apple iOS, Google Android and Huawei HarmonyOS  
@@ -45,6 +46,7 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 - 有效阻挡已知的恶意行为，例如网络攻击等
 - 有效阻挡已知的恶意软件，例如勒索软件等
 - 有效阻挡已知的恶意网站及钓鱼网站等  
+- 监控、检测网络流量以作分析  
 - 极低的延迟性能有效地播放 4K 多媒体和玩要求速度的网络游戏
 - 兼容微软视窗、苹果电脑、Linux 及 Apple iOS、Google Android、Huawei HarmonyOS 等各大移动系统
 - 无需年费或使用费
