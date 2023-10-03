@@ -202,7 +202,7 @@ Weilong can be turned off and it is not required to operate 24/7.  The update wi
 There are over 34,000 rules in Weilong and they are all free of charge.  The number of rules are increasing.    
 
 ### Can Weilong decrypt the SSL/TLS traffic?
-Weilong cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Weilong can detect and drop self signed SSL/TLS certificate traffic, detect and drop malicious JA3 Fingerprint and etc.  
+Weilong cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Weilong can detect and drop self signed SSL/TLS certificate traffic and etc.  
 
 ### Do I also need anti-virus on my computer or laptop?
 Yes, anti-virus is required.  You are also advised to install the following add-ons or extensions for your browser such as Firefox or Chrome in order to increase the security for surfing the internet.
@@ -232,7 +232,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统是否能够解密所有加密的连接？
 
-不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量及能够识别及阻挡恶意 JA3 指纹等。
+不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量等。
 
 ### 我仍是否需要安在电脑上装防毒软件？
 
