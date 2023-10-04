@@ -6,7 +6,6 @@
 
 - [威龙  Weilong - Intrusion Detection and Prevention System](/weilong.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
-- [Garland 茼蒿 - Intrusion Detection and Prevention System](/garland.md)
 
 # Projects (INACTIVE)
 
