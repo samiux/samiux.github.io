@@ -137,7 +137,7 @@ Garland can be turned off and it is not required to operate 24/7.  The update wi
 There are over 34,000 rules in Garland and they are all free of charge.  The number of rules are increasing.    
 
 ### Can Garland decrypt the SSL/TLS traffic?
-Garland cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Garland can detect and drop self signed SSL/TLS certificate traffic, detect and drop malicious JA3 Fingerprint and etc.  
+Garland cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Garland can detect and drop self signed SSL/TLS certificate traffic and etc.  
 
 ### Do I also need anti-virus on my computer or laptop?
 Yes, anti-virus is required.  You are also advised to install the following add-ons or extensions for your browser such as Firefox or Chrome in order to increase the security for surfing the internet.
@@ -163,11 +163,11 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统内有多少条规则？
 
-所有规则都是免费的，已经超过 3 万 2 千多条，而且亦每日在增加中。
+所有规则都是免费的，已经超过 3 万 4 千多条，而且亦每日在增加中。
 
 ### 防御入侵系统是否能够解密所有加密的连接？
 
-不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量及能够识别及阻挡恶意 JA3 指纹等。
+不能。但她能够识别及阻挡自签 SSL/TLS 证书的流量等。
 
 ### 我仍是否需要在电脑上安装防毒软件？
 
@@ -204,7 +204,7 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 
 ## PRICE
 
-System price : Contact Samiux  (NOT including postage)
+System price : Contact Samiux  (NOT including delivery)
 
 Copyright (c) 2023 Samiux  
 
