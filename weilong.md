@@ -73,6 +73,8 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 
 ![](https://raw.githubusercontent.com/samiux/images/master/weilong/Weilong_IDPS.jpg)  
 
+- where IR receiver is useless
+
 ## DEPLOYMENT  安装配置
 
 You are recommended to connect the Weilong behind router.  However, you can connect it in front of router too.  If you connect the Weilong in front of router, you cannot see the intranet.
