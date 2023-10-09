@@ -299,7 +299,7 @@ Discord samiux @samiux   (#3445)
 
 ## SEE ALSO  更多资讯
 
->[!TIPS]
+>[!TIP]
 >
 >* [Intrusion Detection, Intrusion Prevention, and Antivirus: The Differences](https://bestructured.com/intrusion-detection-intrusion-prevention-and-antivirus-the-differences/)  
 >* [洋葱式防御 - 网络空间安全篇 (最新篇）](/onion-defense_3.md)
