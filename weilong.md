@@ -254,7 +254,6 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 Public Secure DNS will encrypt the DNS query that will affect the ability of blocking of IDPS, those secure DNS cannot be used, such as 
 
 - Cloudflare DNS
-- Google Public DNS
 - Quad9 DNS
 - NextDNS
 - OpenDNS
@@ -265,7 +264,6 @@ Public Secure DNS will encrypt the DNS query that will affect the ability of blo
 公共网域名称系统会将网域查询加宻而影响防御入侵系统的防御能力，所以不能使用此等设定，例如：
 
 - Cloudflare DNS
-- Google Public DNS
 - Quad9 DNS
 - NextDNS
 - OpenDNS
