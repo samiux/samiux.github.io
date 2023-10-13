@@ -55,6 +55,30 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 - 完全透明
 - 无需设定
 
+## CHARACTERISTICS
+
+The standout feature of this intrusion defense and prevention system compared to other similar products is its ability to confuse hackers.
+
+For example, when a thief wants to break into a room, they usually enter through doors or windows. But if the thief cannot find or see any doors or windows, even though they actually exist, how can they break into the room?
+
+Similarly, if hackers cannot find or see any points of intrusion, how can they invade your computer or network?
+
+This is a design concept that strikes at the source, and has been proven to be feasible, reliable, and practical. It is highly effective in preventing hacker intrusions.
+
+After a hacker invasion, they can leave or take any information they want, and they can also use your computer or network for any purpose, including using it as a jumping point to invade other computers or networks.
+
+## 特点
+
+此入侵防御系统与其他同类型产品出类拨萃之处在于其能够迷惑黑客。
+
+举个例子，如果有贼人要爆窃一间屋时，通常会经门窗进入。但是如果贼人找不到或看不见门窗，虽然这间屋的门窗其实是存在的，他如何爆窃这间屋呢？
+
+同样道理，黑客找不到或看不见任何入侵点，他们如何入侵你的电脑或网络呢？
+
+这个是源头打击的设计概念，经试验证实可行、可靠及实用，非常有效御防黑客的入侵。
+
+黑客入侵后是可以留下或拿走任何资料，而且更可以利用你的电脑或网络做任何事情，包括用以作为跳板入侵其他的电脑或网络等。
+
 ## HARDWARE
 
 - 8 cores CPU
