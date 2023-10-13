@@ -61,7 +61,7 @@ The standout feature of this intrusion detection and prevention system compared 
 
 For example, when a thief wants to break into a room, they usually enter through doors or windows. But if the thief cannot find or see any doors or windows, even though they actually exist, how can they break into the room?
 
-Similarly, if hackers cannot find or see any points of intrusion, how can they invade your computer or network?
+Similarly, if hackers cannot find or see any points of intrusion, even though they actually exist, how can they invade your computer or network?
 
 This is a design concept that strikes at the source, and has been proven to be feasible, reliable, and practical. It is highly effective in preventing hacker intrusions.
 
@@ -73,7 +73,7 @@ After a hacker invasion, they can leave or take any information they want, and t
 
 举个例子，如果有贼人要爆窃一间屋时，通常会经门窗进入。但是如果贼人找不到或看不见门窗，虽然这间屋的门窗其实是存在的，他如何爆窃这间屋呢？
 
-同样道理，黑客找不到或看不见任何入侵点，他们如何入侵你的电脑或网络呢？
+同样道理，黑客找不到或看不见任何入侵点，虽然入侵点其实是存在的，他们如何入侵你的电脑或网络呢？
 
 这个是源头打击的设计概念，经试验证实可行、可靠及实用，非常有效御防黑客的入侵。
 
