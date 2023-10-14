@@ -57,7 +57,7 @@ In summary, Weilong Intrusion Detection and Prevention System is an effective, u
 
 ## CHARACTERISTICS
 
-The standout feature of this intrusion detection and prevention system compared to other similar products is its ability to confuse hackers.
+The standout feature of Weilong Intrusion Detection and Prevention System compared to other similar products is its ability to confuse hackers.
 
 For example, when a thief wants to break into a room, they usually enter through doors or windows. But if the thief cannot find or see any doors or windows, even though they actually exist, how can they break into the room?
 
