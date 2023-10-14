@@ -65,6 +65,8 @@ Similarly, if hackers cannot find or see any points of intrusion, even though th
 
 This is a design concept that strikes at the source, and has been proven to be feasible, reliable, and practical. It is highly effective in preventing hacker intrusions.
 
+## THREAT OF INVASION
+
 After a hacker invasion, they can leave or take any information they want, and they can also use your computer or network for any purpose, including using it as a jumping point to invade other computers or networks.
 
 ## 特点
@@ -76,6 +78,8 @@ After a hacker invasion, they can leave or take any information they want, and t
 同样道理，黑客找不到或看不见任何入侵点，虽然入侵点其实是存在的，他们如何入侵你的电脑或网络呢？
 
 这个是源头打击的设计概念，经试验证实可行、可靠及实用，非常有效御防黑客的入侵。
+
+## 被入侵后之威脋
 
 黑客入侵后是可以留下或拿走任何资料，而且更可以利用你的电脑或网络做任何事情，包括用以作为跳板入侵其他的电脑或网络等。
 
