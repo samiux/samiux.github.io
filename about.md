@@ -7,7 +7,7 @@ A cybersecurity enthusiast at heart, Samiux has been an OSCE, OSCP, and OSWP cer
 His slogan are :
 
 ```
-While you do not know attack, how can you know about defense? (未知攻,焉知防?)
+While you do not know attack, how can you know about defence? (未知攻,焉知防?)
 
 Think like a criminal and act as professional
 
