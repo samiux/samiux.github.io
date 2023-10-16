@@ -144,9 +144,17 @@ Make sure you have installed ```net-tools```.  Otherwise, you cannot run ```sudo
 
 There is no SWAP partition.
 
+### WORKAROUND 
+
+```
+sudo apt -y install watchdog
+sudo systemctl enable watchdog.service
+sudo systemctl start watchdog.service
+```
 Samiux  
 OSCE  OSCP  OSWP    
 August 12, 2023, Hong Kong, China    
+Updated on October 17, 2023, Hong Kong, China
 
 ### REFERENCE
 
