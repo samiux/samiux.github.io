@@ -30,6 +30,7 @@
 - [中华人民共和国对外关系法（全文）-- 观察者网](https://www.guancha.cn/politics/2023_06_28_698688.shtml)  
 - [国家网信办等七部门联合公布《生成式人工智能服务管理暂行办法》-- 网信中国](https://www.guancha.cn/politics/2023_07_13_700752.shtml)  
 - [什么是网络间谍行为？境外间谍情报机关攻击目标都是哪里？一文了解 -- 央视新闻](https://www.thepaper.cn/newsDetail_forward_24638555)  
+- [开源软件有漏洞，作者需要负责吗？是的！ -- FreeBuf](https://www.freebuf.com/news/381043.html)  
 
 ## 香港從來都不是殖民地
 
