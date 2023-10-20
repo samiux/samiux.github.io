@@ -105,11 +105,11 @@ After a hacker invasion, they can leave or take any information they want, and t
 
 ## DEPLOYMENT  安装配置
 
-You are recommended to connect the Weilong behind router.  However, you can connect it in front of router too.  If you connect the Weilong in front of router, you cannot see the intranet.
+You are recommended to connect the Weilong in front of router.  However, you can connect it behind router too.  If you connect the Weilong in front of router, you cannot see the intranet.
 
 If it is deployed in front of router, it will generate a lot of alerts and may be too noisy.  However, if situation is allowed and some ports are opened, it is recommended to place it in front of router.
 
-建议将防御入侵系统放置于路由器之后，但亦可以放置在路由器之前，分别在于，如果放在路由器之前是看不到内网的。
+建议将防御入侵系统放置于路由器之前，但亦可以放置在路由器之后，分别在于，如果放在路由器之前是看不到内网的。
 
 若果将其配罝到路由器之前将会有很多告警产生。但是若果情况许可而又有端口开放的话，建议将其放在路由器前面。
 
