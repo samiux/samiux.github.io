@@ -197,32 +197,6 @@ Do NOT use the wifi that comes with 5G modem or modem with WIFI router as the tr
 
 不要使用 5G 调解器或调解器有无线网络功能的无线网络，因为其无线网络不受「威龙」的保护。
 
-## USER INTERFACE
-
-```
-http://192.168.x.200:5636
-```
-
-For example, ```http://192.168.0.200:5636```.
-
-Login details : username = weilong, password = weilongidps
-
-__WARNING : Please DO NOT allow this user interface to be accessed in the internet as it will endanger your network.__
-
-## 使用者介面
-
-```
-http://192.168.x.200:5636
-```
-
-例如 ```http://192.168.0.200:5636```.
-
-登入资料 ：用户名称 = weilong， 宻码 = weilongidps
-
-__警告 ：切勿开放此网址到互联网，因为这样做会危害内网的安全。__
-
-[![](https://img.youtube.com/vi/OiP0h8bUrO8/0.jpg)](https://www.youtube.com/watch?v=OiP0h8bUrO8 "Weilong Intrusion Detection and Prevention System")  
-
 ## FAQ  
 
 ### When will the rules be updated?
