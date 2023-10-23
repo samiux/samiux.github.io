@@ -26,7 +26,6 @@ Some of his projects are now inactive, they are :
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)  
 - [Chameleon 变色龙 - Website IP Address Seeker](/chameleon.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
-- [Croissants 牛角面包 - Intrusion Detection and Prevention System (Network)](/croissants.md)  
 
 Forked from others :
 
