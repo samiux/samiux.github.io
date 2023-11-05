@@ -2,7 +2,7 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 
-# CyberSecurity Ninjas 网安忍者
+# CyberSecurity Ninjas 网络空间安全忍者
 
 ## What is Cyber Security?
 
@@ -12,7 +12,7 @@
 
 [Ninja](https://www.dictionary.com/browse/ninja) is a person who is expert or highly skilled in a specified field or activity.
 
-## What is CyberSecurity Ninjas (网安忍者)?
+## What is CyberSecurity Ninjas (网络空间安全忍者)?
 
 Make it simple.  We specialize in Information Security. Our slogans are ```Think like a criminal and act as a professional``` and ```While you do not know attack, how can you know about defence? (未知攻,焉知防?)``` as well as ```Not only try harder but also try smarter!```.
 
