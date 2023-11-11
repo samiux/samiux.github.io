@@ -87,7 +87,9 @@
 - [年近六十，心脏血管年龄少于卅五！](/egg.md)  
 - [《手帶 app 有幾安全？》一文之閱後感](/is_xss_1.md)
 - [「好心做壞事」？](/good_thing.md)
+<!--
 - [灭声](/banned.md)  
+-->
 - [给所有中国人！](/life.md)  
 - [恶意网站追蹤记](/malicious_site_tracking.md)  
 - [谈「安心出行」应用程式的短板](/leavehomesafe.md)  
