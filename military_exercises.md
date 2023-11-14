@@ -20,7 +20,7 @@
 森美力 (Samiux) (網名)  
 寫於二零一七年九月十八日，中國香港
 
-```sha256sum 2ddd3e2dfacee843f85d10c2c19d6047a54041c9a46cc70bc432ce5dc7ed0261  軍事演習-資安篇.pdf```
+```sha256sum cb71f44ef290f21950a7f7055bdf651614768caa6e7f4e9bf64b5b1bad5d15f2  軍事演習-資安篇.pdf```
 
 如遇缺字或缺標點情況，請下載閱讀。
 
