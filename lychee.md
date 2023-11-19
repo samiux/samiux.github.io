@@ -27,14 +27,17 @@ CONFIG_FANOTIFY_ACCESS_PERMISSIONS is not set
 
 ## Softwares
 
-- ClamAV 1.2.0
+- ClamAV 1.2.1
 - Ubuntu 22.04.3 LTS  
 
 Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.9 (Dated AUG 29, 2023) (Latest)  
+### Version 0.10 (Dated NOV 01, 2023) (Latest)  
+- Updated to ClamAV 1.2.1  
+
+### Version 0.9 (Dated AUG 29, 2023)   
 - Updated to ClamAV 1.2.0  
 
 ### Version 0.8 (Dated AUG 24, 2023)  
