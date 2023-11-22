@@ -68,6 +68,11 @@ Remarks : This script is developed by Samiux and it is released under GPLv3.  It
 
 ## Install and/or Update
 
+Enable RAR format file detection.
+```
+sudo apt install p7zip-rar libclamunrar
+```
+
 Download the script.
 ```
 git clone https://github.com/samiux/lychee
