@@ -2,7 +2,7 @@
 
 # Lychee 荔枝 - ClamAV On-Access Scanning Installer Script
 
-ClamAV's On-Access scanning can detect the known malwares/virus in real time.  Any Debian/RPM based Linux system can install this script when FANOTIFY is configured in your Linux kernel.
+ClamAV's On-Access scanning can detect the known malwares/virus in real time.  Any Ubuntu Linux system can install this script when FANOTIFY is configured in your Linux kernel.
 
 According to the developers that ClamAV is mainly designed for files upload, files downloads and file transfers.
 
