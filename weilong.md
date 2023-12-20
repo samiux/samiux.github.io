@@ -208,7 +208,7 @@ Between 0600 and 0630 hours every day, Weilong will do the housekeeping and upda
 Weilong can be turned off and it is not required to operate 24/7.  The update will be carried out within half an hour when the Weilong is booting up.  It is advised NOT to turn off the Weilong between 0600 and 0630 hours as it will do the update automatically.  If you do so, you may break the Weilong.  Meanwhile, if you turn off the Weilong within half an hour of the booting up, you may also break the system too.    
 
 ### How many detecting / blocking rules in Weilong?  
-There are over 34,000 rules in Weilong and they are all free of charge.  The number of rules are increasing.    
+There are over 35,000 rules in Weilong and they are all free of charge.  The number of rules are increasing.    
 
 ### Can Weilong decrypt the SSL/TLS traffic?
 Weilong cannot decrypt the SSL/TLS traffic well.  However, it can handle a limited SSL/TLS traffic flow.  Therefore, it is not ideal for using it as Web Application Firewall (WAF).  For example, Weilong can detect and drop self signed SSL/TLS certificate traffic and etc.  
@@ -237,7 +237,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 
 ### 防御入侵系统内有多少条规则？
 
-所有规则都是免费的，已经超过 3 万 4 千多条，而且亦每日在增加中。
+所有规则都是免费的，已经超过 3 万 5 千多条，而且亦每日在增加中。
 
 ### 防御入侵系统是否能够解密所有加密的连接？
 
