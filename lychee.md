@@ -27,14 +27,17 @@ CONFIG_FANOTIFY_ACCESS_PERMISSIONS is not set
 
 ## Softwares
 
-- ClamAV 1.2.1
+- ClamAV 1.3.0
 - Ubuntu 22.04.3 LTS  
 
 Remarks : ClamAV uses about 3GB RAM.
 
 ## Change Log
 
-### Version 0.10 (Dated OCT 26, 2023) (Latest)  
+### Version 0.11 (Dated FEB 08, 2024) (Latest)  
+- Updated to ClamAV 1.3.0  
+
+### Version 0.10 (Dated OCT 26, 2023)   
 - Updated to ClamAV 1.2.1  
 
 ### Version 0.9 (Dated AUG 29, 2023)   
@@ -91,7 +94,7 @@ You can run this script at any time on the same Linux system box without any har
 When only update or just simply download the latest ClamAV debian package from [ClamAV Releases](https://github.com/Cisco-Talos/clamav/releases/) and install the package by issuing the following command, for example.
 
 ```
-sudo dpkg -i clamav-1.2.0.linux.x86_64.deb
+sudo dpkg -i clamav-1.3.0.linux.x86_64.deb
 ```
 
 ## Modification
@@ -134,7 +137,7 @@ sudo rm -R lychee
 
 - ~~[BUG : /home and it's sub-directories cannot be used in OnAccessIncludePath](https://github.com/Cisco-Talos/clamav/issues/799)~~  
 - ClamAV uses at least 3GB RAM.  
-- Non-existent directory will cause high CPU usage.  
+- ~~Non-existent directory will cause high CPU usage.~~  
 - Cannot detect virus on Pen Drive (i.e. external mounted directories).  
 
 ## Reference
