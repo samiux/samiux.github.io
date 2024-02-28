@@ -1,7 +1,7 @@
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 # 威龙  Weilong - Intrusion Detection and Prevention System  防御入侵系统
-# Model 6
+# Model 6 Version 2
 
 ### 「威龙」是我国第五代隐形战机 歼-20 的称号。
 
