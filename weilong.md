@@ -98,11 +98,7 @@ After a hacker invasion, they can leave or take any information they want, and t
 - 8GB 内存
 - 最高功耗 5W，无风扇无噪
 - 大小约大于一张信用卡
-- 96.5mm (长) x 68mm (濶) x 30mm (高)
-
-![](https://raw.githubusercontent.com/samiux/images/master/weilong/Weilong_IDPS.jpg)  
-
-- where IR receiver is useless
+- 96.5mm (长) x 68mm (濶) x 30mm (高)  
 
 ## DEPLOYMENT  安装配置
 
