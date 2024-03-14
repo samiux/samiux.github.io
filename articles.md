@@ -121,6 +121,7 @@
 - [AMD Ryzen 4000 series CPU OpenGL in Firefox 106.0.5 and Ubuntu 22.04.1 LTS](/amd-opengl-firefox.md)  
 - [How to enable Ubuntu Pro Expanded Security Maintenance with 5 Free Machines](/ubuntu_pro_esm.md)  
 - [Howto Custom Made VisionFive2 SD Card Image (RISC-V)](/visionfive2_1.md)
+- [TP-Link Archer TX20U Nano on Ubuntu 22.04 LTS](/tplink_tx20u_nano.md)  
 
 ### Pentesting
 
