@@ -206,7 +206,6 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 需要。除此之外，我更建议在「火狐」或 Chrome 浏览器安装以下附加组件，使得上网时更安全。
 
 - uBlock Origin  
-- Ghostery  
 - Malwarebytes Browser Guard  
 - Avast Online Security & Privacy  
 - MalwareAI Browser Security  
