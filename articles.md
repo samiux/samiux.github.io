@@ -105,6 +105,7 @@
 - [若果中美不得不战](/china_usa.md)  
 - [美欧银行危机与去美元化](/usa_2023.md)  
 - [Dr David Martin gives speech at International Covid Summit III - European Parliament, Brussels](/us_released_covid19.md)  
+- [美国德州移民事件事件该如何看待？美国是否会分裂？张维为携手范勇鹏共同分析美国内部政治状况 -- 这就是中国 EP228](https://www.youtube.com/watch?v=IwqsDEoSOPo)  
 
 ## 深圳游
 
