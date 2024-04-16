@@ -38,6 +38,17 @@ You can also check the status of dkms by issuing the following command :
 dkms status
 ```
 
+## Update or Re-installation
+
+```
+cd rtl8852bu
+git pull
+
+sudo dkms remove -m rtl8852bu -v 1.19.3
+sudo dkms build -m rtl8852bu -v 1.19.3
+sudo dkms install -m rtl8852bu -v 1.19.3
+```
+
 # Reference 
 
 - [TP-Link Archer TX20U Nano](https://www.tp-link.com/hk/home-networking/adapter/archer-tx20u-nano/)  
