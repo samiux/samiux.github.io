@@ -4,7 +4,7 @@
 
 The release date of Ubuntu 24.04 LTS is April 25, 2024 (US Time).  I tried to upgrade my Ubuntu 22.04.4 LTS to Ubuntu 24.04 LTS on April 16, 2024 (GMT +8).
 
-It is no problem to use the daily build dated April 15, 2024 for fresh install.  However, when you upgrade from Ubuntu 22.04.4 LTS to Ubuntu 24.04 LTS, you may reach ```"Oh no!  Something has gone wrong!"``` or ```black``` screen (when you are in Virtualbox) error in the middle of the installation.  Don't panic, you can fix it with a few simple steps.  Please do not reboot your box or you may lost your internet connection.
+It is no problem to use the daily build dated April 15, 2024 for fresh install.  However, when you upgrade from Ubuntu 22.04.4 LTS to Ubuntu 24.04 LTS, you may reach ```"Oh no!  Something has gone wrong!"``` or ```black``` screen (when you are in Virtualbox) error in the middle of the installation.  Don't panic, you can fix it with a few simple steps.  Please do NOT reboot your box or you may lost your internet connection.
 
 ## Step 1 - Upgrade
 
@@ -51,6 +51,6 @@ sudo reboot
 
 Your Ubuntu 22.04.4 LTS is upgraded to Ubuntu 24.04 LTS now.
 
-The gnome-shell-extension-manager has been changed, some extensions will not be available, such as ```Harddisk LED```.  Official release of Virtualbox do not compatible with Ubuntu 24.04 LTS at the moment, you can install it from Ubuntu 24.04 LTS respository.
+The ```gnome-shell-extension-manager``` has been changed, some extensions will not be available, such as ```Harddisk LED```.  Official release of Virtualbox do not compatible with Ubuntu 24.04 LTS at the moment, you can install it from Ubuntu 24.04 LTS respository.
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
