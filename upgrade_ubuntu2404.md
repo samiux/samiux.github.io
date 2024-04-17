@@ -32,11 +32,12 @@ sudo dhclient
 sudo dpkg --configure -a
 sudo apt --fix-broken install
 
-sudo apt update && sudo apt full-upgrade
+sudo apt update && sudo apt -y full-upgrade
 
 sudo apt install linux-image-generic-hwe-24.04
 
-sudo apt update && sudo apt full-upgrade
+sudo apt update && sudo apt -y full-upgrade
+sudo apt autoclean && sudo apt -y autoremove
 
 sudo apt install resolvconf
 sudo systemctl enable systemd-resolved.service
