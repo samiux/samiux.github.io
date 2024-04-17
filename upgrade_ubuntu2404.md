@@ -8,6 +8,10 @@ It is no problem to use the daily build dated April 15, 2024 for fresh install. 
 
 ## Step 1 - Upgrade
 
+```
+sudo apt update && sudo apt -y full-upgrade
+```
+
 ### Desktop
 ```
 sudo update-manager -d
