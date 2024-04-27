@@ -60,6 +60,6 @@ The ```gnome-shell-extension-manager``` has been changed, some extensions will n
 
 ## Update on April 27, 2024 (GMT+8)
 
-According to the [Noble Numbat Release Notes](https://discourse.ubuntu.com/t/noble-numbat-release-notes/39890) that the upgrade from Ubuntu 22.04 LTS will be starting automatically for August 15, 2024 and beyond.  At this moment, you cannot upgrade Ubuntu 22.04 LTS to 24.04 LTS by any method mentioned above.
+According to the [Noble Numbat Release Notes](https://discourse.ubuntu.com/t/noble-numbat-release-notes/39890) that the upgrade from Ubuntu 22.04 LTS will be starting automatically on August 15, 2024 and beyond.  At this moment, you cannot upgrade Ubuntu 22.04 LTS to 24.04 LTS by any method mentioned above.
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
