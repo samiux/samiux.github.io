@@ -72,7 +72,7 @@ Double check the partition and to confirm that the ```/``` partition is occupied
 df -h
 ```
 
-~~## Step 5 :
+<strike>## Step 5 :
 
 Change the SSH setting to use user's password to login.
 
@@ -80,7 +80,7 @@ Change the SSH setting to use user's password to login.
 sudo nano /etc/ssh/sshd_config
 ```
 
-Uncomment ```#PasswordAuthentication yes``` to ```PasswordAuthentication yes```.~~
+Uncomment ```#PasswordAuthentication yes``` to ```PasswordAuthentication yes```.</strike>
 
 ## Step 6 :
 
