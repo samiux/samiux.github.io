@@ -72,17 +72,7 @@ Double check the partition and to confirm that the ```/``` partition is occupied
 df -h
 ```
 
-<strike>## Step 5 :
-
-Change the SSH setting to use user's password to login.
-
-```bash
-sudo nano /etc/ssh/sshd_config
-```
-
-Uncomment ```#PasswordAuthentication yes``` to ```PasswordAuthentication yes```.</strike>
-
-## Step 6 :
+## Step 5 :
 
 Reset the current time zone.
 
@@ -98,7 +88,7 @@ sudo dpkg-reconfigure locales
 
 Select all prefix is ```en``` items and set your country as default.
 
-## Step 7 :
+## Step 6 :
 
 Set /tmp to tmpfs.
 
@@ -109,7 +99,7 @@ sudo systemctl enable tmp.mount
 sudo systemctl start tmp.mount
 ```
 
-## Step 8 :
+## Step 7 :
 
 Update the system.
 
