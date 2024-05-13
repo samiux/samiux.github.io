@@ -24,7 +24,7 @@ Select ```Terminal``` and type the following commands to uninstall the GNOME des
 
 ```bash
 sudo apt update
-sudo apt autoremove --purge gnome*
+sudo apt autoremove --purge gnome* libreoffice* nodejs* qt* chromium* libcamera* opencv* firefox
 ```
 
 ## Step 3 :
