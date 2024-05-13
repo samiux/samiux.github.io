@@ -24,7 +24,7 @@ Select ```Terminal``` and type the following commands to uninstall the GNOME des
 
 ```bash
 sudo apt update
-sudo apt autoremove --purge gnome* libreoffice* nodejs* qt* chromium* libcamera* opencv* firefox
+sudo apt autoremove --purge gnome* libreoffice* nodejs* qt* chromium* libcamera* opencv* firefox ffmpeg libasound2-plugins libgd3 libsdl2-2.0-0 libswresample4 libvlc-bin libvlc5 libvlccore9 vlc-data vlc-plugin-access-extra vlc-plugin-base vlc-plugin-fluidsynth vlc-plugin-jack vlc-plugin-notify vlc-plugin-qt vlc-plugin-samba vlc-plugin-skins2 vlc-plugin-svg vlc-plugin-video-splitter vlc-plugin-visualization libavcodec59 libavdevice59 libavfilter8 libavformat59
 ```
 
 ## Step 3 :
