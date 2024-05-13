@@ -166,5 +166,6 @@ Updated on October 17, 2023, Hong Kong, China
 - [VisionFive2 Metal Case - Passive Cooling](https://forum.rvspace.org/t/new-arrival-visionfive-2-new-metal-case/3073)  
 - [VisionFive2 Metal Case - Active Cooling](https://www.waveshare.com/visionfive2-case-a.htm)
 - [StarFive VisionFive 2 - Ubuntu wiki](https://wiki.ubuntu.com/RISC-V/StarFive%20VisionFive%202)  
+- [StarFive 2 Documentation Centre](https://doc-en.rvspace.org/Doc_Center/visionfive_2.html)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
