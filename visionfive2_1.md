@@ -18,7 +18,7 @@ Extract it and burn the .img file to SD card (16GB or more) with balenaEtcher.
 
 Placing the VisionFive2 with Ethernet ports at the bottom.  Set the switch on the top left corner of the board to ```ON``` for the upper row (1) and set the switch on the lower row (2) to ```OFF``` in order to boot from SD Card.  Default is both ```ON```.
 
-Boot up VisionFive2 with the SD Card and login to the mininal desktop.  Username is ```user``` and password is ```starfive```, <stike>while root username is ```root``` and password is also ```starfive```</strike>.  If you do not need GNOME, just uninstall it.
+Boot up VisionFive2 with the SD Card and login to the mininal desktop.  Username is ```user``` and password is ```starfive```, <strike>while root username is ```root``` and password is also ```starfive```</strike>.  If you do not need GNOME, just uninstall it.
 
 Select ```Terminal``` and type the following commands to uninstall the GNOME desktop to make the device command line only and it is optional.
 
