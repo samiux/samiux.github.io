@@ -10,7 +10,7 @@ Download the latest version of VisionFive2 Debian Desktop SD Card image.
 
 [StarFive Official VisionFive2 Debian images](https://debian.starfivetech.com/)  
 
-Select ```OneDrive```, folder ```202306``` and folder ```sd``` to download the image file, where ```202306``` is the latest at the time of this writing.
+Select ```OneDrive```, folder ```202405``` and folder ```sd``` to download the image file, where ```202405``` is the latest at the time of this writing.
 
 Extract it and burn the .img file to SD card (16GB or more) with balenaEtcher.
 
@@ -72,7 +72,7 @@ Double check the partition and to confirm that the ```/``` partition is occupied
 df -h
 ```
 
-## Step 5 :
+~~## Step 5 :
 
 Change the SSH setting to use user's password to login.
 
@@ -80,7 +80,7 @@ Change the SSH setting to use user's password to login.
 sudo nano /etc/ssh/sshd_config
 ```
 
-Uncomment ```#PasswordAuthentication yes``` to ```PasswordAuthentication yes```.
+Uncomment ```#PasswordAuthentication yes``` to ```PasswordAuthentication yes```.~~
 
 ## Step 6 :
 
@@ -154,7 +154,8 @@ sudo systemctl start watchdog.service
 Samiux  
 OSCE  OSCP  OSWP    
 August 12, 2023, Hong Kong, China    
-Updated on October 17, 2023, Hong Kong, China
+Updated on October 17, 2023, Hong Kong, China  
+Updated on May 13, 2024, Hong Kong, China  
 
 ### REFERENCE
 
