@@ -164,7 +164,7 @@ Yes, anti-virus is required.  You are also advised to install the following add-
 - uBlock Origin  
 - Ghostery  
 - Malwarebytes Browser Guard  
-- Avast Online Security & Privacy  
+- Avast Online Security & Privacy  (except Firefox)  
 - MalwareAI Browser Security  
 - VT4Browsers  
 
