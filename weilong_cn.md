@@ -167,7 +167,7 @@ WIFI Router (unused)      |                        |                |
 
 - uBlock Origin  
 - Malwarebytes Browser Guard  
-- Avast Online Security & Privacy  
+- Avast Online Security & Privacy  (Firefox 除外）  
 - MalwareAI Browser Security  
 - VT4Browsers  
 
