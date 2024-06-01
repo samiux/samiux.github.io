@@ -43,6 +43,7 @@
 - [安全产品漏洞这个事，瞒不住了 -- Freebuf](https://www.freebuf.com/articles/376479.html)  
 - [零攻破—2023全球黑客挑战赛落下帷幕 -- Freebuf](https://www.freebuf.com/articles/378447.html)  
 - [威龙 Weilong (Model 6) - Intrusion Detection and Prevention System 防御入侵系统](/weilong_cn.md)  
+- [如何避免无差别的网络攻击？](/cyber_attack.md)
 
 ### Hacker
 
