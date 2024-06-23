@@ -37,5 +37,6 @@ Samiux
 - [呢兩日突然又有人問番Pura 70 Ultra嘅5G,有圖有真相,各位睇片 -- 三禾電氣 (国行)](https://www.facebook.com/Trinityelectronic/videos/%E5%91%A2%E5%85%A9%E6%97%A5%E7%AA%81%E7%84%B6%E5%8F%88%E6%9C%89%E4%BA%BA%E5%95%8F%E7%95%AApura-70-ultra%E5%98%855g%E6%9C%89%E5%9C%96%E6%9C%89%E7%9C%9F%E7%9B%B8%E5%90%84%E4%BD%8D%E7%9D%87%E7%89%87/805934984251913/)  
 - [[初步評價] 華為 Nova12S 外觀吸引, 但... 拿上手就立即放回去？之後… -- hokoonho (港行)](https://www.youtube.com/watch?v=f6rFEPZQBsw)  
 - [華為手機只有4G？我不想再解釋了.... 事實就是事實... Huawei Pura70 Ultra 網速測試 -- hokoonho (国行)](https://www.youtube.com/watch?v=4BHu24esPnU)  
+- [三禾電氣華為手機6月份最新報告 -- 三禾電氣](https://www.youtube.com/watch?v=ga9izwT6Kbg)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
