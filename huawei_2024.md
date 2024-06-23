@@ -39,5 +39,6 @@ Samiux
 - [[初步評價] 華為 Nova12S 外觀吸引, 但... 拿上手就立即放回去？之後… -- hokoonho (港行)](https://www.youtube.com/watch?v=f6rFEPZQBsw)  
 - [華為手機只有4G？我不想再解釋了.... 事實就是事實... Huawei Pura70 Ultra 網速測試 -- hokoonho (国行)](https://www.youtube.com/watch?v=4BHu24esPnU)  
 - [三禾電氣華為手機6月份最新報告 -- 三禾電氣](https://www.youtube.com/watch?v=ga9izwT6Kbg)
+- [这回，我总算能给你们爆点原生鸿蒙的猛料了！ -- 观察者](https://user.guancha.cn/main/content?id=1255079)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
