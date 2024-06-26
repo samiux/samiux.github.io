@@ -10,6 +10,8 @@
 
 鸿蒙 4.2 版本的 nova 12 Pro 在香港使用时，有很多香港常用的 App 需要在其他地方下载。因我在手机输入中文文字时通常会「打繁出简」，所以使用了谷歌的 GBoard，而广东话语音输入就用华为的小艺输入法。基本上没有太大的问题。虽然如此，但仍有有些 App 不能安装或使用，例如 Udemy 或九巴等。因为 App 不是由华为应用市场安装，所以需要经常要自己检查有否更新，那就比较麻烦了。亦可以考虑安装开源的 Aurora Store，因其可以安装大部份 App，例如 Firefox 和 Github 等，但仍然有些 App 不能全面使用，例如九巴 App 等，但亦可以带来一些方便，不需要经常要自己到处检查更新。
 
+不过，我们仍然可以前往 microG Project 官网下载华为版本的 micoG，就是 com.google.android.gms-hw 及 com.android.vending-hw。那么就可以使用大部份的 App 了，例如九巴 App 及 Udemy 等。再配合 Aurora Store 就天衣无缝了。
+
 另外，我友人的 HarmonyOS 4.2 Pura 70 Ultra 可以在华为应用商店安装华为版的 microG，而且可以运行大部份安卓软体，例如九巴 App。
 
 EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG，此乃开源的 GMS，当然不是百份百与 GMS 一样，但其可以做到大概九成的效果。再下载开源的 Aurora Store 来安装香港常用的 App，效果也非常好。当然可以安装谷歌钱包 (Google Wallet) 及 Google Pay，但我并没有测试是否可用。有网红说 Google Pay 可以付款，但并没有说信用卡可否绑卡及付款。至于广东话语音输入法就不能使用，包括 GBoard 及小艺，取而代之是要安装 Google (Search) App，并在输入法里激活，来输入广东话，但输出是繁体中文，并不是我想要的简体中文。
