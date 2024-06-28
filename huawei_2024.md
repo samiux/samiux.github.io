@@ -33,7 +33,7 @@ EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG，此乃
 另外，我更在运行 EMUI 13 的国际版 Mate 40 Pro 安装华为版的 microG，虽然权限要自行设置，但在效果方面与 EMUI 14.2 及 HarmonyOS 4.2 的没有太大的分别。
 
 利申：  
-2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra。
+2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。
 
 Samiux  
 二零二四年六月十九日，中国香港  
