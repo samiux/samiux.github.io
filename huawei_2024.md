@@ -50,7 +50,7 @@ EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG，此乃
 
 如果不需要以 Google Pay 来付款的话，microG 及 Aurora Store 可以不必登入 Google 账号。
 
-北斗卫星通讯在国际版本的 Pura 70 Ultra 是没有的。
+北斗卫星通讯和电话录音功能在国际版本的 Pura 70 Ultra 是没有的。
 
 利申：  
 2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。还有国内版本鸿蒙 4.0 的华为手錶 GT3 Pro。
