@@ -22,9 +22,9 @@
 
 EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG，此乃开源的 GMS，当然不是百份百与 GMS 一样，但其可以做到大概九成的效果。再下载开源的 Aurora Store 来安装香港常用的 App，效果也非常好。
 
-当然可以安装谷歌钱包 (Google Wallet) 及 Google Pay，在 NFC 里不能选择 Google Pay，所以不能以 NFC 使用 Google Pay；至于 Google Wallet 和 Google Pay 我并没有测试是否可用。
+当然可以安装谷歌钱包 (Google Wallet) 及 Google Pay，在 NFC 里不能选择 Google Pay，所以不能以 NFC 使用 Google Pay；至于 Google Wallet 和 Google Pay 我并没有测试是否可用。有网红说可以在游戏里付款，但并没有说明信用卡可否绑卡及付款。
 
-但 Play Store 里安装的八达通 App 是不能激活手机八达通的，除非在华为应用商店内安装，而且你的手机亦被支援才可以使用手机八达通 (这个情况是在 microG 并没有登入 Google 账号下)。有网红说可以在游戏里付款，但并没有说明信用卡可否绑卡及付款。
+但 Play Store 里安装的八达通 App 是不能激活手机八达通的 (这个情况是在 microG 并没有登入 Google 账号下)，除非在华为应用商店内安装，而且你的手机亦被支援才可以使用手机八达通。
 
 至于广东话语音输入法就不能使用，包括 GBoard 及小艺，取而代之是要安装 Google (Search) App，并在输入法里激活，来输入广东话，但输出是繁体中文，并不是我想要的简体中文。
 
