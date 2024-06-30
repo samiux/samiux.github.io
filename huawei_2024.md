@@ -81,6 +81,7 @@ Samiux
 - [三禾電氣華為手機6月份最新報告 -- 三禾電氣](https://www.youtube.com/watch?v=ga9izwT6Kbg)
 - [这回，我总算能给你们爆点原生鸿蒙的猛料了！ -- 观察者](https://user.guancha.cn/main/content?id=1255079)  
 - [大厦室内5G覆盖标籤计划 -- OFCA](https://www.ofca.gov.hk/sc/consumer_focus/guide/help_for_consumers/indoor5g/index.html)  
+- [DOXMARK - Huawei Pura 70 Ultra](https://www.dxomark.com/smartphones/Huawei/Pura-70-Ultra)  
 - [microG Project](https://microg.org/download.html)  
 - [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
 
