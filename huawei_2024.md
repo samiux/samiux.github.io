@@ -59,7 +59,7 @@ EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG，此乃
 亦成功为国际版鸿蒙 2.0 的 MatePad Pro 5G 安装 microG 和 Aroura Store，而且大部份的 App 也能使用。
 
 利申：  
-2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。还有国内版本鸿蒙 4.0 的华为手錶 GT3 Pro 及 国际版鸿蒙 2.0 的 MatePad Pro 5G，以及国际版 EMUI 12 的 P30。
+2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。还有国内版本鸿蒙 4.0 的华为手錶 GT3 Pro 及 国际版鸿蒙 2.0 的 MatePad Pro 5G，以及国际版 EMUI 12 有 Google 的 P30。
 
 Samiux  
 二零二四年六月十九日，中国香港  
