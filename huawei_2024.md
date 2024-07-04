@@ -63,7 +63,7 @@ EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG，此乃
 利申：  
 2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。还有国内版本鸿蒙 4.0 的华为手錶 GT3 Pro 及 国际版鸿蒙 2.0 的 MatePad Pro 5G，以及国际版 EMUI 12 有 GMS 和 HMS 的 P30。
 
-### 后言
+### 后记
 
 如果你有兴趣购买荣耀手机的话，请不要认为国行版的 MagicOS 能够安装 microG 成功及可用。小米国行版的 HyperOS 可以安装 Google Play Store 等谷歌软体。
 
