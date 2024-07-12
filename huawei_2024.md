@@ -89,5 +89,6 @@ Samiux
 - [DOXMARK - Huawei Pura 70 Ultra](https://www.dxomark.com/smartphones/Huawei/Pura-70-Ultra)  
 - [microG Project](https://microg.org/download.html)  
 - [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
+- [中国成功搭建！“6G关键技术迎来新突破” -- 观察者](https://www.guancha.cn/industry-science/2024_07_12_741223.shtml)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
