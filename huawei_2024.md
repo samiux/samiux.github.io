@@ -90,5 +90,6 @@ Samiux
 - [microG Project](https://microg.org/download.html)  
 - [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
 - [中国成功搭建！“6G关键技术迎来新突破” -- 观察者](https://www.guancha.cn/industry-science/2024_07_12_741223.shtml)  
+- [2024年7月华为手机鸿蒙4.2系统HarmonyOS 4.2最新版安装谷歌服务框架GMS -- Youtube](https://www.youtube.com/watch?v=eK78luv5A3Y)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
