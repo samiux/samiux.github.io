@@ -20,7 +20,7 @@
 
 ## EMUI 14.2
 
-EMUI 14.2 系统可以在 microG 官方网站下载官方版本的 microG Services、microG Companion 及 Services Framework Proxy，此乃开源的 GMS，当然不是百份百与 GMS 一样，但其可以做到大概九成的效果。再下载开源的 Aurora Store 来安装香港常用的 App，效果也非常好。切记要容许 microG Services 在上层运行及设置 microG Services 及 microG Companion 权限。
+EMUI 14.2 系统可以在 microG 官方网站下载最新版 (现时是 Preview 版本) 官方版本的 microG Services、microG Companion 及 Services Framework Proxy，此乃开源的 GMS，当然不是百份百与 GMS 一样，但其可以做到大概九成的效果。再下载开源的 Aurora Store 来安装香港常用的 App，效果也非常好。切记要容许 microG Services 在上层运行及设置 microG Services 及 microG Companion 权限。
 
 当然可以安装谷歌钱包 (Google Wallet) 及 Google Pay，在 NFC 里不能选择 Google Pay，所以不能以 NFC 使用 Google Pay；至于 Google Wallet 和 Google Pay 我并没有测试是否可用。有网红说可以在游戏里付款，但并没有说明信用卡可否绑卡及付款。
 
