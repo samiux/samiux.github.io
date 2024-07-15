@@ -14,13 +14,13 @@
 
 鸿蒙 4.2 版本的 nova 12 Pro 在香港使用时，有很多香港常用的 App 需要在其他地方下载。因我在手机输入中文文字时通常会「打繁出简」，所以使用了谷歌的 GBoard，而广东话语音输入就用华为的小艺输入法。基本上没有太大的问题。虽然如此，但仍有有些 App 不能安装或使用，例如 Udemy 或九巴等。因为 App 不是由华为应用市场安装，所以需要经常要自己检查有否更新，那就比较麻烦了。亦可以考虑安装开源的 Aurora Store，因其可以安装大部份 App，例如 Firefox 和 Github 等，但仍然有些 App 不能全面使用，例如九巴 App 等，但亦可以带来一些方便，不需要经常要自己到处检查更新。
 
-不过，我们仍然可以前往 microG Project 官网下载华为版本的 microG，就是 com.google.android.gms-hw，com.android.vending-hw 及 com.google.android.gsf (Services Framework Proxy)，再配合 Aurora Store 就天衣无缝了。那么就可以使用大部份的 App 了，例如九巴 App (但地图内不能显示巴士路线) 及 Udemy 等。
+不过，我们仍然可以前往 microG Project 官网下载华为版本的 microG，就是 com.google.android.gms-hw，com.android.vending-hw 及 com.google.android.gsf (Services Framework Proxy)，再配合 Aurora Store 就天衣无缝了。那么就可以使用大部份的 App 了，例如九巴 App (可以显示九巴地图) 及 Udemy 等。切记要容许 microG Services 在上层运行及设置权限。
 
 另外，我友人的 HarmonyOS 4.2 Pura 70 Ultra 可以在华为应用商店安装华为版的 microG，而且可以运行大部份安卓软体，例如九巴 App。
 
 ## EMUI 14.2
 
-EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG 及 com.google.android.gsf (Services Framework Proxy)，此乃开源的 GMS，当然不是百份百与 GMS 一样，但其可以做到大概九成的效果。再下载开源的 Aurora Store 来安装香港常用的 App，效果也非常好。
+EMUI 14.2 系统可以在 microG 官方网站下载官方版本的 microG Services、microG Companion 及 Services Framework Proxy，此乃开源的 GMS，当然不是百份百与 GMS 一样，但其可以做到大概九成的效果。再下载开源的 Aurora Store 来安装香港常用的 App，效果也非常好。切记要容许 microG Services 在上层运行及设置权限。
 
 当然可以安装谷歌钱包 (Google Wallet) 及 Google Pay，在 NFC 里不能选择 Google Pay，所以不能以 NFC 使用 Google Pay；至于 Google Wallet 和 Google Pay 我并没有测试是否可用。有网红说可以在游戏里付款，但并没有说明信用卡可否绑卡及付款。
 
@@ -48,9 +48,9 @@ EMUI 14.2 系统可以在华为应用市场安装华为版本的 microG 及 com.
 
 最后，鸿蒙星河版是否可以使用香港常用的 App 暂时仍是不清楚的。我认为以现在的华为应用商店规模来看，内里的 App 应该会全面兼容鸿蒙星河版，不然会有很多 App 用不了而影响鸿蒙系统的占有率。所以，以目前来说，香港用户是没有必要一定要购买国际版本的华为手机了。但是担心将来的鸿蒙星河版是否会兼容 APK 的话，还是选择国际版好了。
 
-至于 Aurora Store 是需要用户定时自行到官网 F-Droid 更新。如果不是在华为应用商店安装的华为版 microG 的话，用户亦需要到 microG Project 官网自行下载安装华为版的 microG。建议将华为应用商店内安装的 App 及华为版本的 microG 在 Aurora Store 内列入黑名单以免被 Aurora Store 自动更新而做成不知名的影响。
+至于 Aurora Store 是需要用户定时自行到官网 F-Droid 更新。如果不是在华为应用商店安装的华为版 microG 的话，用户亦需要到 microG Project 官网自行下载安装官方版或华为版的 microG。建议将华为应用商店内安装的 App 及官方或华为版本的 microG 在 Aurora Store 内列入黑名单以免被 Aurora Store 自动更新而做成不知名的影响。
 
-另外，我更在运行 EMUI 13 的国际版 Mate 40 Pro 安装华为版的 microG，虽然权限要自行设置，但在效果方面与 EMUI 14.2 及 HarmonyOS 4.2 的没有太大的分别。
+另外，我更在运行 EMUI 13 的国际版 Mate 40 Pro 安装官方版的 microG Services、microG Companion 及 Services Framework Proxy，虽然权限要自行设置，但在效果方面与 EMUI 14.2 及 HarmonyOS 4.2 的没有太大的分别。
 
 再者，如果是虚拟私人网络 (VPN) 或「防骗视伏器 App」之类，鸿蒙 4.2 系统就在权限设置内允许上层运行，而 EMUI 14.2 系统就在电池启动管理设置内设定为手动启动管理，以免连接断开或不能连接网络。
 
