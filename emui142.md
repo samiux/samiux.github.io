@@ -1,3 +1,5 @@
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 # 华为手机国际版 EMUI 14.2 攻略
 
 华为国际版 EMUI 14.2 如果安装 microG Project 的话是能够大部份兼容谷歌框架 (Google Mobile Services, GMS)，除了谷歌钱包 (Google Wallet) 及 谷歌支付 (Google Pay) 外，更有说订阅游戏等支付亦支援，基本上是九成兼容 GMS 的。
@@ -24,4 +26,6 @@ Samiux
 ## 参考资料
 
 - [microG Project](https://microg.org/download.html)    
-- [Aurora Store](https://f-droid.org/packages/com.aurora.store)    
+- [Aurora Store](https://f-droid.org/packages/com.aurora.store)
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
