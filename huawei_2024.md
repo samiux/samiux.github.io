@@ -91,9 +91,10 @@ Samiux
 - [这回，我总算能给你们爆点原生鸿蒙的猛料了！ -- 观察者](https://user.guancha.cn/main/content?id=1255079)  
 - [大厦室内5G覆盖标籤计划 -- OFCA](https://www.ofca.gov.hk/sc/consumer_focus/guide/help_for_consumers/indoor5g/index.html)  
 - [DOXMARK - Huawei Pura 70 Ultra](https://www.dxomark.com/smartphones/Huawei/Pura-70-Ultra)  
-- [microG Project](https://microg.org/download.html)  
-- [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
 - [中国成功搭建！“6G关键技术迎来新突破” -- 观察者](https://www.guancha.cn/industry-science/2024_07_12_741223.shtml)  
 - [2024年7月华为手机鸿蒙4.2系统HarmonyOS 4.2最新版安装谷歌服务框架GMS -- Youtube](https://www.youtube.com/watch?v=eK78luv5A3Y)  
+- [「花生」HarmonyOS NEXT显微镜级观察：极致流畅全新动画，从零做起真挺好～ -- Youtube](https://www.youtube.com/watch?v=5sg-bbpza1w)  
+- [microG Project](https://microg.org/download.html)  
+- [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
