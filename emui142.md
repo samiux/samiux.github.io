@@ -1,0 +1,27 @@
+# 华为手机国际版 EMUI 14.2 攻略
+
+华为国际版 EMUI 14.2 如果安装 microG Project 的话是能够大部份兼容谷歌框架 (Google Mobile Services, GMS)，除了谷歌钱包 (Google Wallet) 及 谷歌支付 (Google Pay) 外，更有说订阅游戏等支付亦支援，基本上是九成兼容 GMS 的。
+
+方法如下：
+
+到 microG Project 官网下载官方的最新版 (现在是预览版，Preview) 的 microG Services、microG Companion 及 Services Framework Proxy。华为应用市场内的 microG Services 是不支援「九巴」App 的路线地图的。
+
+安装完成后，设置 microG Services 及 microG Companion 所有权限。并且检查 microG Services 是否伪装成功，如果不能伪装就表示你的手机不支持 microG Project 了。
+
+接着就是到 Aurora Store 官网下载 Aurora Store，此乃 Google Play 的兼容版，所有在其内下载的 App 都是从 Google Play 下载的。再在黑名单内设置华为应用市场下载的 App 以免有不良后果，当然也包括 microG Project 的 App 了。为何我不直接安装 Google Play 呢？这是因为我不想登入谷歌账号，如果你不介意登入的话，是可以直接安装 Google Play 而不需要 Aurora Store 的。
+
+再者，在不登入谷歌账号 (Google Account) 也能运作正常。因为我不想登入谷歌账号，所以无法测试如果登入了有那些方便的使用体验。如果你不介意登入的话可以一试。
+
+在 EMUI 14.2 的 NFC 内是不能选择 Google Pay 的 (有可能是我没有登入谷歌账号吧)，所以不能绑信用卡了。
+
+这时，你的华为手机己经可以使用大部份的谷歌 App 了。
+
+至于国行版就只需要安装华为应用市场内的 microG Services 及 microG Project 官网内的 Services Framework Proxy，再加上 Aurora Store 就可以了，其他操作是一模一样的。
+
+Samiux    
+二零二四年七月十八日，中国香港    
+
+## 参考资料
+
+- [microG Project](https://microg.org/download.html)    
+- [Aurora Store](https://f-droid.org/packages/com.aurora.store)    
