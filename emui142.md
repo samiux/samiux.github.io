@@ -18,7 +18,7 @@
 
 这时，你的华为手机己经可以使用大部份的谷歌 App 了。
 
-至于国行版 HarmonyOS 4.2 就只需要安装华为应用市场内的 microG Services 及 microG Project 官网内的 Services Framework Proxy，再加上 Aurora Store 就可以了，其他操作是一模一样的。这样九巴 App 也支援路线地图呢。
+至于国行版 HarmonyOS 4.2 就只需要安装华为应用市场内的 microG Services 及 microG Project 官网内的 Services Framework Proxy，再加上 Aurora Store 就可以了，其他操作是一模一样的。这样九巴 App 也支援路线地图呢。HarmonyOS 3.0 或以下就要安装官方 microG Project 的 App。
 
 Samiux    
 二零二四年七月十八日，中国香港    
