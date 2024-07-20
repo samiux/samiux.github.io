@@ -94,6 +94,7 @@ Samiux
 - [中国成功搭建！“6G关键技术迎来新突破” -- 观察者](https://www.guancha.cn/industry-science/2024_07_12_741223.shtml)  
 - [2024年7月华为手机鸿蒙4.2系统HarmonyOS 4.2最新版安装谷歌服务框架GMS -- Youtube](https://www.youtube.com/watch?v=eK78luv5A3Y)  
 - [「花生」HarmonyOS NEXT显微镜级观察：极致流畅全新动画，从零做起真挺好～ -- Youtube](https://www.youtube.com/watch?v=5sg-bbpza1w)  
+- [安卓Apk可以转换为鸿蒙Hap？Android原生也能实现跨平台！  -- Android出海](https://mp.weixin.qq.com/s/o58z9fsRoUiwAFR_3QbuTw)  
 - [microG Project](https://microg.org/download.html)  
 - [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
 
