@@ -25,6 +25,7 @@ Samiux
 
 ## 参考资料
 
+- [2024 年第一季的华为手机试用报告](huawei_2024.md)  
 - [microG Project](https://microg.org/download.html)    
 - [Aurora Store](https://f-droid.org/packages/com.aurora.store)
 
