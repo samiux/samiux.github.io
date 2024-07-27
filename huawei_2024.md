@@ -69,6 +69,10 @@ EMUI 14.2 系统可以在 microG 官方网站下载最新版 (现时是 Preview 
 
 如果你有兴趣购买荣耀 X7b 5G 手机的话，请不要认为国行版的 MagicOS 能够安装 microG 成功及可用。小米国行版的 HyperOS 可以安装 Google Play Store 等谷歌软体。
 
+### 已知问题
+
+「麦当劳」App 并不兼容 EMUI 14.2 及 HarmonyOS 4.2
+
 Samiux  
 二零二四年六月十九日，中国香港  
 更新 二零二四年六月廿三日，中国香港  
