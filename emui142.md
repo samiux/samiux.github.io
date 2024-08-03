@@ -22,7 +22,7 @@
 
 ### 已知问题
 
-「麦当劳」App 及 HK Express App 并不兼容 EMUI 14.2 及 HarmonyOS 4.2
+「麦当劳」App 及 HK Express App 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。
 
 Samiux    
 二零二四年七月十八日，中国香港    
