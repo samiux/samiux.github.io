@@ -12,9 +12,11 @@
 
 ## 鸿蒙 4.2
 
-鸿蒙 4.2 版本的 nova 12 Pro 在香港使用时，有很多香港常用的 App 需要在其他地方下载。因我在手机输入中文文字时通常会「打繁出简」，所以使用了谷歌的 GBoard，而广东话语音输入就用华为的小艺输入法。基本上没有太大的问题。虽然如此，但仍有有些 App 不能安装或使用，例如 Udemy 或九巴等。因为 App 不是由华为应用市场安装，所以需要经常要自己检查有否更新，那就比较麻烦了。亦可以考虑安装开源的 Aurora Store，因其可以安装大部份 App，例如 Firefox 和 Github 等，但仍然有些 App 不能全面使用，例如九巴 App 等，但亦可以带来一些方便，不需要经常要自己到处检查更新。
+鸿蒙 4.2 版本的 nova 12 Pro 在香港使用时，有很多香港常用的 App 需要在其他地方下载。因我在手机输入中文文字时通常会「打繁出简」，所以使用了谷歌的 GBoard，而广东话语音输入就用华为的小艺输入法，基本上没有太大的问题。虽然如此，但仍有有些 App 不能安装或使用，例如 Udemy 或九巴等。因为 App 不是由华为应用市场安装，所以需要经常要自己检查有否更新，那就比较麻烦了。亦可以考虑安装开源的 Aurora Store，因其可以安装大部份 App，例如 Firefox 和 Github 等，但仍然有些 App 不能全面使用，例如九巴 App 等，但亦可以带来一些方便，不需要经常要自己到处检查更新。
 
 不过，我们仍然可以前往 microG Project 官网下载华为版本的 microG Services，就是 com.google.android.gms-hw，com.android.vending-hw 及 com.google.android.gsf (Services Framework Proxy)，再配合 Aurora Store 就天衣无缝了。那么就可以使用大部份的 App 了，例如九巴 App (可以显示九巴路线地图，不需要安装 Google Map) 及 Udemy 等。切记要设置 microG Services 及 microG Companion 的权限。
+
+广东话输入也可以在 Aurora Store 安装 Speech Recognition and Synthesis (新版) 使得在 Whatsapp 或 Telegram 内使用。
 
 另外，我友人的 HarmonyOS 4.2 Pura 70 Ultra 可以在华为应用商店安装华为版的 microG Services，至于 microG Companion 会自动下载，而 Services Framework Proxy 就需要到官网下载，而且可以运行大部份安卓软体，例如九巴 App。
 
