@@ -63,7 +63,7 @@ EMUI 14.2 系统可以在 microG 官方网站下载最新版 (现时是 Preview 
 实验得知鸿蒙 4.0 以下及 EMUI 13 或以上是需要安装官方的 microG，而鸿蒙 4.0 或以上 (暂时不包括鸿蒙星河版，HarmonyOS Next) 是需要安装华为版的 microG。
 
 利申：  
-2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。还有国内版本鸿蒙 4.0 的华为手錶 GT3 Pro 及 国际版鸿蒙 2.0 的 MatePad Pro 5G，以及国际版 EMUI 12 有 GMS 和 HMS 的 P30。我还有运行鸿蒙 2.0 的 国际版 MatePad Pro 5G。
+2024 年第一季时，我持有国内版本鸿蒙 4.2 的 nova 12 Pro 和国际版本 EMUI 14.2 的 Pura 70 Ultra，以及国际版的 EMUI 13 的 Mate 40 Pro。还有国内版本鸿蒙 4.0 的华为手錶 GT3 Pro 及 国际版鸿蒙 2.0 的 MatePad Pro 5G，以及国际版 EMUI 12 有 GMS 和 HMS 的 P30。
 
 ### 后记
 
