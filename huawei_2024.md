@@ -16,6 +16,8 @@
 
 不过，我们仍然可以前往 microG Project 官网下载华为版本的 microG Services，就是 com.google.android.gms-hw，com.android.vending-hw 及 com.google.android.gsf (Services Framework Proxy)，再配合 Aurora Store 就天衣无缝了。那么就可以使用大部份的 App 了，例如九巴 App (可以显示九巴路线地图，不需要安装 Google Map) 及 Udemy 等。切记要设置 microG Services 及 microG Companion 的权限。
 
+至于广东话语音输入是可以以小艺输入法去完成。
+
 另外，我友人的 HarmonyOS 4.2 Pura 70 Ultra 可以在华为应用商店安装华为版的 microG Services，至于 microG Companion 会自动下载，而 Services Framework Proxy 就需要到官网下载，而且可以运行大部份安卓软体，例如九巴 App。
 
 ## EMUI 14.2
