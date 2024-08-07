@@ -8,6 +8,8 @@ Military Grid Reference System (MGRS) 军用座标系统是香港常用的座标
 
 [MGRS Locator 的网址](https://cybersecurity-ninjas.com/mgrs.html)  
 
+欢迎免费使用。祝远足活动安全快乐！
+
 ## 如何阅读座标？
 
 例如 50QKK1234567890
@@ -29,8 +31,6 @@ KK -- 是 50Q 网格内的香港军用地图的网格，香港绝大部份位置
 使用 Firefox 渕览器，并允许 cybersecurity-ninjas.com:443 获取定位位置。
 
 经测试后，除了 Firefox 外，其他的浏览器有可能不支援 HTML5 的定位要求，或者首先授权浏览器使用定位。
-
-欢迎免费使用。祝远足活动安全快乐！
 
 Samiux    
 二零二四年八月七日，中国香港    
