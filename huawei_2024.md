@@ -73,7 +73,7 @@ EMUI 14.2 系统可以在 microG 官方网站下载最新版 (现时是 Preview 
 
 ### 已知问题
 
-「麦当劳」App 及 HK Express App 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。
+「麦当劳」App、 HK Express App 及 Chrome 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。
 
 Samiux  
 二零二四年六月十九日，中国香港  
