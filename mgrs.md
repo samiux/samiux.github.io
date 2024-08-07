@@ -32,6 +32,8 @@ KK -- 是 50Q 网格内的香港军用地图的网格，香港绝大部份位置
 
 经测试后，除了 Firefox 及 Safari 外，其他的浏览器，如 Chrome 及 Edge 有可能不支援 HTML5 的定位要求，或者首先授权浏览器使用定位。
 
+[Using the Geolocation API Example](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API/Using_the_Geolocation_API#result)
+
 Samiux    
 二零二四年八月七日，中国香港    
 
