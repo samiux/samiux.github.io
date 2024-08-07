@@ -6,7 +6,11 @@ Military Grid Reference System (MGRS) 军用座标系统是香港常用的座标
 
 现在我开发了一个网页版的 MGRS 座标定位，只要有网络或卫星通讯就可以使用，卫星通讯方面，例如中国电信的天通卫星。如果使用天通卫星可以使用华为的 Pura 70 Ultra 手机或类似的服务及设备。天通卫星通讯需要有该服务的 SIM 卡，而且需要付费。
 
+请先允许获取定位位置。
+
 [MGRS Locator 的网址](https://cybersecurity-ninjas.com/mgrs.html)  
+
+[MGRS Locator (Async) 的网址](https://cybersecurity-ninjas.com/mgrs_async.html)  
 
 欢迎免费使用。祝远足活动安全快乐！
 
@@ -25,14 +29,6 @@ KK -- 是 50Q 网格内的香港军用地图的网格，香港绝大部份位置
 在手机开启卫星定位 (GPS)，打开网页，获取座标，截图并传送给救援人员，或向救援人员读出或报告座标。救援人员就可以从军用地图中得知被救援者的正确位置了。
 
 如果身处在香港的话，不需要报告 50Q，只需报告 KK1234567890 这段座标就可以了。
-
-### 已知问题：
-
-如果使用 Firefox 渕览器，请先允许 cybersecurity-ninjas.com:443 获取定位位置。
-
-经测试后，除了 Firefox 及 Safari 外，其他的浏览器，如 Chrome 及 Edge 有可能不支援 HTML5 的定位要求，或者首先授权浏览器使用定位。
-
-最后经多次实验同测试，与及在这个网址 [Using the Geolocation API Example](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API/Using_the_Geolocation_API#result) 用 Chrome、Edge 及 Android 预设的浏览器测试，证实这些浏览器与 HTML5 Geolocation API 及 mgrs.min.js 库转换不兼容。
 
 Samiux    
 二零二四年八月七日，中国香港    
