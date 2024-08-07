@@ -120,6 +120,7 @@
 
 - [2024 年第一季的华为手机试用报告](/huawei_2024.md)  
 - [华为手机国际版 EMUI 14.2 攻略](/emui142.md)  
+- [MGRS Locator 军用座标定位](/mgrs.md)  
 
 ## Tutorials
 
