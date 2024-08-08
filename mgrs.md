@@ -10,8 +10,6 @@ Military Grid Reference System (MGRS) 军用座标系统是香港常用的座标
 
 [MGRS Locator 的网址](https://cybersecurity-ninjas.com/mgrs.html)  
 
-[MGRS Locator (Async) 的网址](https://cybersecurity-ninjas.com/mgrs_async.html)  
-
 欢迎免费使用。祝远足活动安全快乐！
 
 ## 如何阅读座标？
