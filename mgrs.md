@@ -28,6 +28,13 @@ KK -- 是 50Q 网格内的香港军用地图的网格，香港绝大部份位置
 
 如果身处在香港的话，不需要报告 50Q，只需报告 KK1234567890 这段座标就可以了。
 
+## 如何阅读结果
+
+MGRS -- MGRS 座标
+Horizontal Accuracy -- 水平的准确度，以米计
+Altitude -- 高度，以米计
+Altitude Accuracy -- 高度的准确度，以米计
+
 ### 已知问题
 
 华为国际版 Pura 70 Ultra、华为国行版 nova 12 Pro、华为国际版 Mate 40 Pro、华为国际版 MatePad Pro 5G 大部份时间都不能显示高度，除华为国际版 P30 外。
