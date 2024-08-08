@@ -30,10 +30,10 @@ KK -- 是 50Q 网格内的香港军用地图的网格，香港绝大部份位置
 
 ## 如何阅读结果
 
-MGRS -- MGRS 座标
-Horizontal Accuracy -- 水平的准确度，以米计
-Altitude -- 高度，以米计
-Altitude Accuracy -- 高度的准确度，以米计
+MGRS -- MGRS 座标  
+Horizontal Accuracy -- 水平的准确度，以米计  
+Altitude -- 高度，以米计  
+Altitude Accuracy -- 高度的准确度，以米计    
 
 ### 已知问题
 
