@@ -40,6 +40,7 @@ Altitude Accuracy -- 高度的准确度，以米计
 华为国际版 Pura 70 Ultra、华为国行版 nova 12 Pro、华为国际版 Mate 40 Pro、华为国际版 MatePad Pro 5G 大部份时间都不能显示高度，除华为国际版 P30 外。
 
 Samiux    
-二零二四年八月七日，中国香港    
+二零二四年八月七日，中国香港  
+更新 二零二四年八月八日，中国香港    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
