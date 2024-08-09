@@ -21,6 +21,10 @@ He has some active projects about CyberSecurity, they are :
 - [威龙  Weilong - Intrusion Detection and Prevention System](/weilong.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 
+And not related to CyberSecurity :
+
+- [MGRS Locator 军用座标定位](/mgrs.md)  
+
 Some of his projects are now inactive, they are :
 
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)  
