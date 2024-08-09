@@ -6,7 +6,7 @@ Military Grid Reference System (MGRS) 军用座标系统是香港常用的座标
 
 现在我开发了一个网页版的 MGRS 座标定位，只要有网络或卫星通讯就可以使用，卫星通讯方面，例如中国电信的天通卫星。如果使用天通卫星可以使用华为的 Pura 70 Ultra 手机或类似的服务及设备。天通卫星通讯需要有该服务的 SIM 卡，而且需要付费。
 
-请先允许获取定位位置。
+请先允许获取定位位置及其权限。
 
 [MGRS Locator 的网址](https://cybersecurity-ninjas.com/mgrs.html)  
 
