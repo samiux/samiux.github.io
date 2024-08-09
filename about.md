@@ -18,7 +18,7 @@ Not only try harder but also try smarter!
 
 He has some active projects about CyberSecurity, they are :
 
-- [威龙  Weilong - Intrusion Detection and Prevention System](/weilong.md)    
+- [威龙  Weilong - Intrusion Detection and Prevention System](/weilong_en.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 
 And not related to CyberSecurity :
