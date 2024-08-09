@@ -6,6 +6,10 @@
 
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
 
+## Others
+
+- [MGRS Locator 军用座标定位](/mgrs.md)  
+
 # Projects (INACTIVE)
 
 ## Offensive & Defensive
