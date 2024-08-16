@@ -104,6 +104,7 @@ Samiux
 - [2024年7月华为手机鸿蒙4.2系统HarmonyOS 4.2最新版安装谷歌服务框架GMS -- Youtube](https://www.youtube.com/watch?v=eK78luv5A3Y)  
 - [「花生」HarmonyOS NEXT显微镜级观察：极致流畅全新动画，从零做起真挺好～ -- Youtube](https://www.youtube.com/watch?v=5sg-bbpza1w)  
 - [安卓Apk可以转换为鸿蒙Hap？Android原生也能实现跨平台！  -- Android出海](https://mp.weixin.qq.com/s/o58z9fsRoUiwAFR_3QbuTw)  
+- [通話清晰有驚喜，HUAWEI Pura 70 Ultra 天通衛星通話實測! -- Mobile Magazine](https://www.mobilemagazinehk.com/2024/08/huawei-pura-70-ultra-tiantong-satellite-service-test.html)  
 - [华为手机国际版 EMUI 14.2 攻略](/emui142.md)  
 - [microG Project](https://microg.org/download.html)  
 - [Aurora Store](https://f-droid.org/packages/com.aurora.store/)  
