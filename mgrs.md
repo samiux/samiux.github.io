@@ -55,6 +55,8 @@ Samiux
 二零二四年八月七日，中国香港  
 更新 二零二四年八月八日，中国香港   
 
+## 参考资料
+
 - [通話清晰有驚喜，HUAWEI Pura 70 Ultra 天通衛星通話實測! -- Mobile Magazine](https://www.mobilemagazinehk.com/2024/08/huawei-pura-70-ultra-tiantong-satellite-service-test.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
