@@ -1,6 +1,6 @@
-|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
-
 # Lychee 荔枝 - ClamAV On-Access Scanning Installer Script
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 ClamAV's On-Access scanning can detect the known malwares/virus in real time.  Any Ubuntu Linux system can install this script when FANOTIFY is configured in your Linux kernel.
 
