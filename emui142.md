@@ -30,8 +30,9 @@ Samiux
 ## 参考资料
 
 - [2024 年第一季的华为手机试用报告](huawei_2024.md)  
-- [microG Project](https://microg.org/download.html)    
-- [Aurora Store](https://f-droid.org/packages/com.aurora.store)
 - [通話清晰有驚喜，HUAWEI Pura 70 Ultra 天通衛星通話實測! -- Mobile Magazine](https://www.mobilemagazinehk.com/2024/08/huawei-pura-70-ultra-tiantong-satellite-service-test.html)  
+- [【Harmony OS 專區】口講輸入無難度，EMUI 14 廣東話語音輸入教學! -- Mobile Magazine](https://www.mobilemagazinehk.com/2024/08/harmony-os-emui-14-microsoft-swiftkey-ai-keyboard.html)  
+- [microG Project](https://microg.org/download.html)    
+- [Aurora Store](https://f-droid.org/packages/com.aurora.store)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
