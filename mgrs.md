@@ -57,6 +57,7 @@ Samiux
 
 ## 参考资料
 
+- [MGRS Locator 与 HKSOS 比较](/hksos_vs_mgrs.md)  
 - [通話清晰有驚喜，HUAWEI Pura 70 Ultra 天通衛星通話實測! -- Mobile Magazine](https://www.mobilemagazinehk.com/2024/08/huawei-pura-70-ultra-tiantong-satellite-service-test.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
