@@ -1,6 +1,8 @@
 # MGRS Locator 与 HKSOS 比较
 
-## MGRS Locator V4.0 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
+## MGRS Locator
 
 ### 优点：
 
@@ -31,6 +33,18 @@
 
 ### MGRS Locator
 
+- [MGRS Locator 军用座标定位](/mgrs.md)  
+- [MGRS Locator 的网址](https://cybersecurity-ninjas.com/mgrs.html)  
 
 ### HKSOS
 
+- [HKSOS -- HKPF](https://www.police.gov.hk/isw/hksos/)  
+- [【 警隊101分鐘 • HKSOS 】-- Youtube](https://www.youtube.com/watch?v=ugs3GUtT8C0)  
+- [HKSOS，全程守護你 -- Youtube](https://www.youtube.com/watch?v=D7PC5FXyeCs)  
+- [【 HKSOS • 收到收唔到 • 一樣用得到！】-- Youtube](https://www.youtube.com/watch?v=WiUrdEJzQrg)  
+- [【行山必裝】HKSOS山野求救app -- Youtube](https://www.youtube.com/watch?v=a0kKqfX1Qx0)  
+- [凝聚香港 - HKSOS，啟動你要SET -- Youtube](https://www.youtube.com/watch?v=M9dn7w-Pyx8)  
+- [【 HKSOS • 安裝及使用教學 (Android) 】-- Youtube](https://www.youtube.com/watch?v=NECzmaLA0iQ)  
+- [【 HKSOS • 安裝及使用教學 (iOS) 】-- Youtube](https://www.youtube.com/watch?v=EV_EJeyA8FQ)  
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
