@@ -20,6 +20,8 @@
 
 至于国行版 HarmonyOS 4.2 就只需要安装华为应用市场内的 microG Services 及 microG Project 官网内的 Services Framework Proxy，再加上 Aurora Store 就可以了，其他操作是一模一样的。这样九巴 App 也支援路线地图呢 (但不甚稳定，有时会显示 Petal 地图)。HarmonyOS 3.0 或以下就要安装官方 microG Project 的 App。
 
+最后，以我观察所得，EMUI 14.2 有可能係 HarmonyOS 3.0 来的。
+
 ### 已知问题
 
 「麦当劳」App、 HK Express App 及 Chrome 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。有时 Aurora Store 会显示他国文字，但迟一些时间就回復了。
