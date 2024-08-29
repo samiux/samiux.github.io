@@ -56,7 +56,7 @@ EMUI 14.2 系统可以在 microG 官方网站下载最新版 (现时是 Preview 
 
 另外，我更在运行 EMUI 13 的国际版 Mate 40 Pro 安装官方版的 microG Services、microG Companion 及 Services Framework Proxy，虽然权限要自行设置，但在效果方面与 EMUI 14.2 及 HarmonyOS 4.2 的没有太大的分别。
 
-再者，如果是虚拟私人网络 (VPN) 或「防骗视伏器 App」之类，鸿蒙 4.2 系统就在权限设置内允许上层运行，而 EMUI 14.2 系统就在电池启动管理设置内设定为手动启动管理，以免连接断开或不能连接网络。
+再者，如果是虚拟私人网络 (VPN) 或「防骗视伏器 App」之类，鸿蒙 4.2 系统就在权限设置内允许上层运行，而 EMUI 14.2 系统就在电池启动管理设置内设定为手动启动管理，以免连接断开或不能连接网络，并启动休眠时始终打开网络连接选项。
 
 如果不需要以 Google Pay 来付款的话 (但我没有测试过)，microG 及 Aurora Store 可以不必登入 Google 账号。
 
