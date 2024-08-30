@@ -70,6 +70,10 @@ The result will be :
 Dynamic Preempt: full
 ```
 
+## IMPORTANT 
+
+Do NOT try to boot from Real Time Kernel as your desktop/server will lockup.
+
 ## Reference
 
 - [Fine-Tuning the Ubuntu 24.04 Kernel for low latency, throughput, and power efficiency](https://discourse.ubuntu.com/t/fine-tuning-the-ubuntu-24-04-kernel-for-low-latency-throughput-and-power-efficiency/44834)  
