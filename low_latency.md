@@ -32,7 +32,7 @@ preempt=full nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1
 
 The final looking is 
 ``` bash
-GRUB_CMDLINE_LINUX_DEFAULT="amd_pstate=guided preempt=full nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1 quiet splash"
+GRUB_CMDLINE_LINUX_DEFAULT="preempt=full nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1 quiet splash"
 ```
 
 Additional tuning for the performance.
