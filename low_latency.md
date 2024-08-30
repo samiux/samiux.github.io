@@ -10,6 +10,14 @@ Typical server of high performance computing workloads may be prefer a less resp
 
 However, Intrusion Detection and Prevention System (IDPS) is suitable for fully preemptible kernel in my own opinion.
 
+Check if the kernel is ready for low-latency settings :
+
+```bash
+uname -ra
+```
+
+If the output contains ``` PREEMPT_DYNAMIC```, it is ready for that settings.
+
 The most simply way is to set to kernel boot parameters.
 
 ```bash
