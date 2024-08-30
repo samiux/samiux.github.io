@@ -34,6 +34,9 @@ The final looking is
 ``` bash
 GRUB_CMDLINE_LINUX_DEFAULT="preempt=full nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1 quiet splash"
 ```
+```bash
+sudo update-grub
+```
 
 Additional tuning for the performance.
 
@@ -57,7 +60,7 @@ vm.dirty_ratio=5
 vm.dirty_background_ratio=5
 ```
 
-To check if it works :
+To check if it works after reboot :
 ```bash
 sudo dmesg | grep Preempt
 ```
