@@ -4,9 +4,9 @@
 
 Linux kernel version 6.1.x or above can be configured to low latency kernel.  Ubuntu 22.04 comes with 6.8.x kernel while Debian 12.5 comes with 6.1.x kernel.  
 
-A fully preemptible kernel is most suitable for low-latency workloads, such as gaming, live streaming, multimedia and etc.
+"A fully preemptible kernel is most suitable for low-latency workloads, such as gaming, live streaming, multimedia and etc."
 
-Typical server of high performance computing workloads may be prefer a less responsive kernel with fewer interruptions, yet capable of sustaining higher computational performance. In such a scenario, voluntary preemption may be preferred.
+"Typical server of high performance computing workloads may be prefer a less responsive kernel with fewer interruptions, yet capable of sustaining higher computational performance. In such a scenario, voluntary preemption may be preferred."
 
 However, Intrusion Detection and Prevention System (IDPS) is suitable for fully preemptible kernel in my own opinion.
 
