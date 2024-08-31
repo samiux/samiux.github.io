@@ -16,7 +16,7 @@ Check if the kernel is ready for low-latency settings :
 uname -ra
 ```
 
-If the output contains ``` PREEMPT_DYNAMIC```, it is ready for that settings.
+If the output contains ```PREEMPT_DYNAMIC```, it is ready for that settings.
 
 The most simply way is to set to kernel boot parameters.
 
