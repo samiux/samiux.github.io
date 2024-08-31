@@ -72,7 +72,8 @@ Dynamic Preempt: full
 
 ## IMPORTANT 
 
-Do NOT try to boot from Real Time Kernel as your desktop/server will lockup.
+Do NOT try to boot from Real Time Kernel as your desktop/server will be locked up.  In the case of lock up, you need to press either ```ESC``` or ```Shift``` key, depends on whether it is EFI or BIOS, when boot up to go to GRUB boot menu in order to boot from previous kernel.
+
 
 ## Reference
 
