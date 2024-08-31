@@ -87,7 +87,7 @@ sudo apt install linux-tools-generic-hwe-24.04
 
 ## IMPORTANT 
 
-Do NOT try to boot from Real Time Kernel as your desktop/server will be locked up.  In the case of lock up, you need to press either ```ESC``` or ```Shift``` key, depends on whether it is EFI or BIOS, when boot up to go to GRUB boot menu in order to boot from previous kernel.
+Do NOT try to boot from Real Time Kernel as your desktop/server will be locked up when your SSD/harddisk is encrypted (I am not tried for unencrypted SSD/harddisk).  In the case of lock up, you need to press either ```ESC``` or ```Shift``` key, depends on whether it is EFI or BIOS, when boot up to go to GRUB boot menu in order to boot from previous kernel.
 
 
 ## Reference
