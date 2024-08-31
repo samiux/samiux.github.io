@@ -69,6 +69,21 @@ The result will be :
 ```bash
 Dynamic Preempt: full
 ```
+## Extra
+
+To install HWE kernel :
+
+```bash
+sudo apt install linux-generic-hwe-24.04 linux-headers-generic-hwe-24.04 linux-image-generic-hwe-24.04
+```
+
+To install HWE kernel tools :
+
+```bash
+sudo apt install linux-tools-generic-hwe-24.04
+```
+
+* Remark : You are not required to uninstall the generic kernel.
 
 ## IMPORTANT 
 
