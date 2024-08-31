@@ -8,7 +8,7 @@ Linux kernel version 6.1.x or above can be configured to low latency kernel.  Ub
 
 "Typical server of high performance computing workloads may be prefer a less responsive kernel with fewer interruptions, yet capable of sustaining higher computational performance. In such a scenario, voluntary preemption may be preferred."
 
-However, Intrusion Detection and Prevention System (IDPS) is suitable for fully preemptible kernel in my own opinion.
+However, Intrusion Detection and Prevention System (IDPS) is suitable for fully preemptible kernel in my own opinion.  Meanwhile, the desktop and server performance are also boosted a lot under the low latency kernel.
 
 Check if the kernel is ready for low-latency settings :
 
