@@ -27,7 +27,7 @@ sudo nano /etc/default/grub
 Add the following to the ```GRUB_CMDLINE_LINUX_DEFAULT```
 
 ```bash
-preempt=full nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1
+preempt=full nohz=on nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1
 ```
 
 The final looking is 
