@@ -32,7 +32,7 @@ preempt=full nohz=on nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_l
 
 The final looking is 
 ``` bash
-GRUB_CMDLINE_LINUX_DEFAULT="preempt=full nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1 quiet splash"
+GRUB_CMDLINE_LINUX_DEFAULT="preempt=full nohz=on nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1 quiet splash"
 ```
 ```bash
 sudo update-grub
