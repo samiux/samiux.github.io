@@ -1,4 +1,4 @@
-# Series on Cybersecurity (Part II) – Virtual Servers
+# Series on Cybersecurity (Part Two) – Virtual Servers
 
 [中文](/defense_02_vps.md)  
 
