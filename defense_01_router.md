@@ -1,5 +1,7 @@
 # 除暴安良系列 (一) -- 路由器
 
+[English](/defense_01_router_en.md)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 日前我的朋友投诉他的网络奇慢，网速由 900Mbps 以上骤跌至 300Mbps 左右。起初怀疑是我的入侵防御系统 (IDPS) 拖慢了，我当然不相信，除暴安良行动就此展开。
