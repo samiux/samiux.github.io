@@ -1,5 +1,7 @@
 # 除暴安良系列 (二) -- 虚拟服务器
 
+[English](/defense_02_vps_en.md)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 大概两年前左右，我的朋友有一部虚拟服务器 (VPS) 用作网站，他的供应商投诉他的 VPS 攻击他人的 VPS，要求他停止这个行为，但我的朋友没有理会，随后他的 VPS 服务被中止了。此时朋友就求助于我。经过一轮交涉，供应商终于答应重开他的 VPS。除暴安良行动就此展开。
