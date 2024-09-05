@@ -111,6 +111,11 @@
 - [重磅！《创新引领·国安砺剑》：“十大反间谍案例”专题展播](https://mp.weixin.qq.com/s/FBMMEIP5ZUJOJ4y5HZXRrg)  
 - [食飽飯好眼瞓 竟然是身體警號 - 長期血糖胰島素失調 害你脂肪肝兼患癌 - 不戒口可控糖？血糖女神教你1招解決 -- 健康嗎‪@HealthCodeHK【迷途書房】](https://www.youtube.com/watch?v=H3y3c6cnVh0)
 
+## 美國經濟
+
+- [美國經濟分析 2024（一）-- Lorey快閃講](https://www.youtube.com/watch?v=0a-o3kEPgVI)  
+- [美國經濟分析 2024（二）-- Lorey快閃講](https://www.youtube.com/watch?v=sXR-zyX36MY)  
+
 ## 深圳游
 
 - [深圳福田一日游 2023 (支付篇)](/china_payment_2023.md)
