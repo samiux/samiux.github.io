@@ -1,6 +1,8 @@
-|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
-
 # 如何避免无差别的网络攻击？
+
+[English](/cyber_attack_en.md)  
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 恶意黑客 (Malicious Hacker) 通常会在被入侵后的网络设备中装置网络攻击机器人 (Bot)，这些被入侵的设备通常是网站、个人电脑、服务器 (Server) 或手机系统、路由器 (Router)、联网设备 (IoT) 等。此等被入侵的设备就会组成殭尸网络 (Botnet) 来进行网络攻击 (Cyber Attack)。
 
@@ -13,6 +15,10 @@
 这样如何做得到呢？最简单的方法是安装「入侵防御系统」(Intrusion Detection and Prevention System, IDPS) 或者是「入侵检测系统」(Intrusion Detection System, IDS)。「入侵防御系统」可以实时拦截所有网络攻击，而「入侵检测系统」就会对那些攻击发出警示。当然「入侵防御系统」比较实用又不需要专业人员操作；而「入侵检测系统」则需要专业人员操作。所以「入侵防御系统」就比较适合家庭用户或中小企业了。
 
 再者，「入侵防御系统」好比大厦保安人员，具有实时检测和识别能力来拦截不速之客，是你的第一防线；而杀毒软件 (Anti-Virus) 或防火墙 (Firewall) 就好比你的门锁和钢闸等，是你的最后防线了。当然，浏览器 (Browser) 的加固 (Hardening) 也不可忽视的。
+
+Samiux  
+OSCE  OSCP  OSWP  
+
 
 - [网安忍者 CyberSecurity Ninjas](https://cybersecurity-ninjas.com)  
 
