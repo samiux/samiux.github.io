@@ -117,6 +117,7 @@
 - [美國經濟分析 2024（一）-- Lorey快閃講](https://www.youtube.com/watch?v=0a-o3kEPgVI)  
 - [美國經濟分析 2024（二）-- Lorey快閃講](https://www.youtube.com/watch?v=sXR-zyX36MY)  
 - [美國經濟分析 2024（三) -- Lorey快閃講](https://www.youtube.com/watch?v=K0G4QSpIeHA)  
+- [美國經濟分析 2024（四) -- 屈姬主播](https://www.youtube.com/watch?v=yy_cb71M5Wk)  
 
 ## 深圳游
 
