@@ -69,6 +69,13 @@ The result will be :
 ```bash
 Dynamic Preempt: full
 ```
+
+My CPU is AMD Ryzen 7 4800U and the grub setting is :
+
+```
+GRUB_CMDLINE_LINUX_DEFAULT="amd_pstate=guided preempt=full nohz=on nohz_full=all threadirqs rcu_nocbs=all rcutree.enable_rcu_lazy=1 libata.force=noncq iommu.strict=1 iommu.passthrough=1 quiet splash"
+```
+
 ## Extra
 
 To install HWE kernel :
@@ -87,7 +94,7 @@ sudo apt install linux-tools-generic-hwe-24.04
 
 ## IMPORTANT 
 
-Do NOT try to boot from Real Time Kernel if your CPU is AMD as it may lock up when boot (May be my hardware not standard).  In the case of lock up, you need to press either ```ESC``` or ```Shift``` key, depends on whether it is BIOS or EFI, when boot up to go to GRUB boot menu in order to boot from previous kernel.  I tried on VirtualBox guest  without lock up.
+In the case of lock up when boot, you need to press either ```ESC``` or ```Shift``` key, depends on whether it is BIOS or EFI, when boot up to go to GRUB boot menu in order to boot from previous kernel. 
 
 ## Reference
 
