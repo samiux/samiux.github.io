@@ -39,5 +39,6 @@ Virtualbox does not work on realtime kernel on my desktop for example.  It is be
 ## Reference
 
 - [Tuning a real-time kernel](https://ubuntu.com/blog/real-time-kernel-tuning)  
+- [Low latency Kernel for Ubuntu 24.04 LTS and Debian 12.5](/low_latency.md)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
