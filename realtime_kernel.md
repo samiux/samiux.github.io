@@ -34,6 +34,8 @@ sudo update-grub
 
 In the case of lock up when boot, you need to press either ```ESC``` or ```Shift``` key, depends on whether it is BIOS or EFI, when boot up to go to GRUB boot menu in order to boot from previous kernel. 
 
+Virtualbox does not work on realtime kernel on my desktop.  It is because not all applications can work for realtime kernel.  Meanwhile, the boot up time is slower than low-latency kernel.  I think low-latency kernel is more suitable for desktop usage.
+
 ## Reference
 
 - [Tuning a real-time kernel](https://ubuntu.com/blog/real-time-kernel-tuning)  
