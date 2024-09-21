@@ -52,5 +52,6 @@ Samiux
 - [凝聚香港 - HKSOS，啟動你要SET -- Youtube](https://www.youtube.com/watch?v=M9dn7w-Pyx8)  
 - [【 HKSOS • 安裝及使用教學 (Android) 】-- Youtube](https://www.youtube.com/watch?v=NECzmaLA0iQ)  
 - [【 HKSOS • 安裝及使用教學 (iOS) 】-- Youtube](https://www.youtube.com/watch?v=EV_EJeyA8FQ)  
+- [【Madam 話你知】警方拯救系統，連獲國際大獎，推出大半年助70個遇險市民。](https://www.youtube.com/watch?v=Ok-NPOwOZXg)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
