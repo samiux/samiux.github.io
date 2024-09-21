@@ -144,7 +144,8 @@
 - [Howto Custom Made VisionFive2 SD Card Image (RISC-V)](/visionfive2_1.md)
 - [TP-Link Archer TX20U Nano on Ubuntu 22.04 LTS](/tplink_tx20u_nano.md)  
 - [Upgrade from Ubuntu 22.04 LTS to Ubuntu 24.04 LTS](/upgrade_ubuntu2404.md)
-- [Low latency Kernel for Ubuntu 24.04 LTS and Debian 12.5](/low_latency.md)  
+- [Low latency Kernel for Ubuntu 24.04 LTS and Debian 12.5](/low_latency.md)
+- [Realtime Kernel for Ubuntu 24.04 LTS](/realtime_kernel.md)  
 
 ### Pentesting
 
