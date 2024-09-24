@@ -2,6 +2,30 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+A low-latency Linux kernel is designed to minimize the time it takes for the kernel to respond to events. This responsiveness is crucial for applications that require real-time or near-real-time performance. Here are the primary advantages of using a low-latency Linux kernel:
+
+1. **Improved Responsiveness**: The low-latency kernel can respond to interrupts and scheduling requests more quickly, making it ideal for applications where timing is critical, such as in audio processing, video processing, or gaming.
+
+2. **Better Real-Time Performance**: For real-time applications, having a kernel that can guarantee or significantly reduce latency is essential. The low-latency kernel supports real-time scheduling policies, making it suitable for applications that require deterministic response times.
+
+3. **Enhanced Multithreading Support**: Applications that utilize multiple threads benefit from improved context switching and scheduling, allowing threads to be processed in a more timely manner, which can result in smoother performance.
+
+4. **Lower Jitter**: Jitter refers to the variability in delays experienced by packets or data. A low-latency kernel provides more consistent processing times, which is especially important in audio and video streaming applications.
+
+5. **Optimized Scheduling**: The scheduler in a low-latency kernel is optimized for preemption, allowing high-priority tasks to run without significant delay, which can be beneficial for interactive applications.
+
+6. **Suitable for Embedded Systems**: Many embedded systems that require real-time capabilities can leverage a low-latency kernel, making it appropriate for applications like robotics, industrial automation, and telecommunications.
+
+7. **Improved Performance Under Load**: In scenarios where multiple processes compete for CPU resources, a low-latency kernel can manage these processes more effectively, minimizing delays even under heavy load conditions.
+
+8. **Support for High-Frequency Devices**: Devices with high sampling rates, such as audio interfaces and sensors, benefit from low-latency performance, which allows them to keep up with data input and minimize delays in processing.
+
+9. **Compatibility with Real-Time Extensions**: Many low-latency kernels are designed to work with or provide a foundation for real-time extensions (like the PREEMPT-RT patches), allowing for even tighter control over task scheduling and execution.
+
+In summary, using a low-latency Linux kernel is crucial for applications where timing is paramount. It allows for improved performance, reduces response times, and enhances the overall user experience in real-time and interactive applications.
+
+## Setting it up
+
 Linux kernel version 6.1.x or above can be configured to low latency kernel.  Ubuntu 22.04 comes with 6.8.x kernel while Debian 12.5 comes with 6.1.x kernel.  
 
 "A fully preemptible kernel is most suitable for low-latency workloads, such as gaming, live streaming, multimedia and etc."
