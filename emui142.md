@@ -24,10 +24,11 @@
 
 ### 已知问题
 
-「麦当劳」App、 HK Express App 及 Chrome 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。有时 Aurora Store 会显示他国文字，但迟一些时间就回復了。
+「麦当劳」App、 HK Express App 及 Chrome 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。有时 Aurora Store 会显示他国文字，但迟一些时间就回復了。但如果 Aurora Store 更新到 4.6.0 就没有那个问题了。
 
 Samiux    
-二零二四年七月十八日，中国香港    
+二零二四年七月十八日，中国香港  
+更新 二零二四年九月廿七日，中国香港      
 
 ## 参考资料
 
