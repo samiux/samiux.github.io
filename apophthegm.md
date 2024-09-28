@@ -120,5 +120,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 以德报怨，何以报德？ -- 孔子
 ```
+```
+最终，不是我们说什么说服他人，而是因为他们因为理解而被说服。-- 约翰 麦斯威尔
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
