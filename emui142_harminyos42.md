@@ -1,4 +1,4 @@
-# 华为国际版 EMUI 14.2 及国行版 HarmonyOS 4.2 攻略
+# 华为国际版 EMUI 14.2 及国行版 HarmonyOS 4.2 香港攻略
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
