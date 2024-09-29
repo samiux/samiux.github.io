@@ -30,11 +30,11 @@
 
 以下应用并不兼容 microG Service 的：
 
-香港地区的「麦当劳」App、Google Authenticator。
+香港地区的「麦当劳」App。
 
 以下应用有小瑕疵：
 
-「KMB, LWB」App 不能显示路线地图。
+「KMB, LWB」App 不能显示路线地图。Google Authenticator 不能使用扫描器。但 microG Service 官网版本没有这问题。
 
 ### 版本
 
