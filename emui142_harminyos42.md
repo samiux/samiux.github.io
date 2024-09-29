@@ -36,6 +36,8 @@
 
 「KMB, LWB」App 不能显示路线地图。Google Authenticator 不能使用扫描器。但 microG Service 官网版本没有这问题。
 
+但「华为应用市场」内的 microG Service 并不能在 Aurora Store 列入黑名单。
+
 ### 版本
 
 microG Service 华为版是 0.3.3.1.240913-hw
