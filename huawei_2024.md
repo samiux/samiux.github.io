@@ -77,7 +77,7 @@ EMUI 14.2 系统可以在 microG 官方网站下载最新版 (现时是 Preview 
 
 「麦当劳」App、 HK Express App 及 Chrome 并不兼容 EMUI 14.2 及 HarmonyOS 4.2。有时 Aurora Store 会显示他国文字，但迟一些时间就回復了。但如果 Aurora Store 更新到 4.6.0 或以上版本就没有那个问题了。
 
-今天 (二零二四年九月廿九日) 华为应用市场更新了已在 microG Project 安装的 microG 为 0.3.3.1.240913-hw 版本，暂时已知九巴 App 不能显示路线地图；至于「麦当劳」App，HK Express App 及 Chrome 已经能使用无误了。但 Google Authenticator 并不能使用扫描器。其他的正在观察中。暂时不会转回 microG 官方版本，因为官网的最新版本为 0.3.3.240913。
+今天 (二零二四年九月廿九日) 华为应用市场更新了已在 microG Project 安装的 microG 为 0.3.3.1.240913-hw 版本，暂时已知九巴 App 不能显示路线地图；至于 HK Express App 及 Chrome 已经能使用无误了。但 Google Authenticator 并不能使用扫描器。其他的正在观察中。暂时不会转回 microG 官方版本，因为官网的最新版本为 0.3.3.240913。
 
 Samiux  
 二零二四年六月十九日，中国香港  
