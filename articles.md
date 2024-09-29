@@ -133,6 +133,7 @@
 
 - [2024 年第一季的华为手机试用报告](/huawei_2024.md)  
 - [华为手机国际版 EMUI 14.2 攻略](/emui142.md)  
+- [华为国际版 EMUI 14.2 及国行版 HarmonyOS 4.2 攻略](emui142_harminyos42.md)    
 - [MGRS Locator 军用座标定位](/mgrs.md)  
 - [MGRS Locator 与 HKSOS 比较](/hksos_vs_mgrs.md)  
 
