@@ -122,6 +122,10 @@
 - [美国经济分析 2024（五）-- 有理儿有面](https://mp.weixin.qq.com/s/yoRHO9ZDCRqs5mudnuN5Cg)  
 - [美國經濟分析 2024（六）–- Lorey快閃講](https://www.youtube.com/watch?v=Hq54NjqS3Fc)  
 
+## 美式民主制度
+
+- [美式民主的制度困境,中国和美国民主对比有何不同 ？ -- 这就是中国 ](https://www.youtube.com/watch?v=UaXCUZMjEIE)  
+
 ## 深圳游
 
 - [深圳福田一日游 2023 (支付篇)](/china_payment_2023.md)
