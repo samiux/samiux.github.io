@@ -160,6 +160,7 @@
 - [斷食不只減肥還能治病？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ute2e0msd_M)  
 - [斷食不止為減肥 營養師分享斷食的3大好處 -- 鄭丹瑞《健康旦》](https://www.youtube.com/watch?v=rqO-YsoHse4)  
 - [《治未病之病》【斷食迷思】你有諗過以斷食減重嗎？ -- 香港糖尿病專科中心](https://www.youtube.com/watch?v=e8SvW5CDW0c)  
+- [許志忠教授講解斷食好處 -- 鄭丹瑞《健康旦》](https://www.youtube.com/watch?v=du5l9N6hghk)  
 
 ## Tutorials
 
