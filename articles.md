@@ -146,6 +146,18 @@
 - [MGRS Locator 军用座标定位](/mgrs.md)  
 - [MGRS Locator 与 HKSOS 比较](/hksos_vs_mgrs.md)  
 
+## 糖尿病 脂肪肝
+
+- [糖尿病人如何知道內臟脂肪有多少？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=GFs_qkpXpbI)  
+- [逆轉二型糖尿病，必先改善代謝健康 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_ZT-LTTx6xo)  
+- [生酮飲食可以改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_0QQqHVnHUg)  
+- [戒這樣東西就可以「逆轉」脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=Yc1bKr2ZNqw)  
+- [只需兩星期就可以大幅度改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DRc5ah77U5M)  
+- [問﹕如何預防二型糖尿病？答﹕「逆轉」脂肪肝 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=h711mqkUBPY)  
+- [間歇性斷食可以逆轉脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DwaPQQiJiCU)  
+- [內臟脂肪不只是脂肪肝，還有「脂肪腎」 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=6OFmMgOeWuw)  
+- [糖尿腎病讀書會Life in the fasting lane 《斷食生活》 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=FRbRmFsmDcU)  
+
 ## Tutorials
 
 ### AMD Ryzen & Ubuntu & SBC
