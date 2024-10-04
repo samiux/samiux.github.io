@@ -113,6 +113,15 @@
 - [食飽飯好眼瞓 竟然是身體警號 - 長期血糖胰島素失調 害你脂肪肝兼患癌 - 不戒口可控糖？血糖女神教你1招解決 -- 健康嗎‪@HealthCodeHK【迷途書房】](https://www.youtube.com/watch?v=H3y3c6cnVh0)
 - [苹果发布会透露哪些讯息？华为发布会相比之下有哪些与众不同,华为为何能在行业“遥遥领先”？ -- 这就是中国 ](https://www.youtube.com/watch?v=LP0qCu3sYEs)  
 
+## 军迷天下
+
+- [ 《淬火》 1](https://www.youtube.com/watch?v=wHTRhV57v5Y)  
+- [ 《淬火》 2](https://www.youtube.com/watch?v=0-VZy2gUVys)  
+- [ 《淬火》 3](https://www.youtube.com/watch?v=pvEWcpz3gfw)  
+- [ 《淬火》 4](https://www.youtube.com/watch?v=7bqnBE6fhCk)  
+- [ 《淬火》 5](https://www.youtube.com/watch?v=wlqJhTowCWo)  
+- [ 《淬火》 6](https://www.youtube.com/watch?v=6rwvHywCnq4)  
+
 ## 庆祝中华人民共和国成立75周年！
 
 - [中国人生活水平的国际比较,作为中国人有多幸福？ -- 这就是中国](https://www.youtube.com/watch?v=80eBC0jWNRY)  
