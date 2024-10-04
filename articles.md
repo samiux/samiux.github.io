@@ -146,7 +146,7 @@
 - [MGRS Locator 军用座标定位](/mgrs.md)  
 - [MGRS Locator 与 HKSOS 比较](/hksos_vs_mgrs.md)  
 
-## 糖尿病 脂肪肝
+## 糖尿病 脂肪肝 斷食
 
 - [糖尿病人如何知道內臟脂肪有多少？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=GFs_qkpXpbI)  
 - [逆轉二型糖尿病，必先改善代謝健康 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_ZT-LTTx6xo)  
