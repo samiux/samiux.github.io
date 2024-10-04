@@ -38,6 +38,8 @@
 
 但「华为应用市场」内的 microG Service 并不能在 Aurora Store 列入黑名单。
 
+在我看来，EMUI 是外贸版，而 HarmonyOS 4.2 是内贸。相信未来的 HarmonyOS Next 都是内贸版。
+
 ### 版本
 
 microG Service 华为版是 0.3.3.1.240913-hw
