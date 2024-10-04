@@ -53,7 +53,8 @@ Services Framework Proxy 官网版是 0.1.0
 Aurora Store 4.6.1
 
 Samiux    
-二零二四年九月卅日，中国香港            
+二零二四年九月卅日，中国香港      
+更新 二零二四年十月四日，中国香港          
 
 
 ## 参考资料
