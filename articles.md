@@ -157,6 +157,7 @@
 - [間歇性斷食可以逆轉脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DwaPQQiJiCU)  
 - [內臟脂肪不只是脂肪肝，還有「脂肪腎」 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=6OFmMgOeWuw)  
 - [糖尿腎病讀書會Life in the fasting lane 《斷食生活》 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=FRbRmFsmDcU)  
+- [斷食不只減肥還能治病？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ute2e0msd_M)  
 
 ## Tutorials
 
