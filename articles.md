@@ -155,6 +155,18 @@
 - [MGRS Locator 军用座标定位](/mgrs.md)  
 - [MGRS Locator 与 HKSOS 比较](/hksos_vs_mgrs.md)  
 
+## 慢性疾病共同治理先導計劃
+
+- [慢性疾病共同治理先導計劃介紹 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=O0g_a78pg1s)  
+- [慢性疾病共同治理先導計劃介紹 -- WTSDHC 黃大仙地區康健中心 ](https://www.youtube.com/watch?v=5YTqZ2_p_pc)  
+- [慢性疾病共同治理先導計劃 -- 香港特區政府新聞處](https://www.youtube.com/watch?v=RwgQMLFufF4)  
+- [慢性疾病共同治理先導計劃的介紹 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/introduction.html)  
+- [搜尋家庭醫生 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/doctor_search.html)  
+- [最新消息 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/news.html)  
+- [地區康健中心/地區康健站聯絡資料 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/dhc_list.html)  
+- [常見問題 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/faq.html)  
+- [香港的基層醫療 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/primary_healthcare_in_hk.html)  
+
 ## 糖尿病 脂肪肝 斷食
 
 - [糖尿病人如何知道內臟脂肪有多少？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=GFs_qkpXpbI)  
@@ -169,6 +181,10 @@
 - [斷食不只減肥還能治病？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ute2e0msd_M)  
 - [《治未病之病》【斷食迷思】你有諗過以斷食減重嗎？ -- 香港糖尿病專科中心](https://www.youtube.com/watch?v=e8SvW5CDW0c)  
 - [對付糖尿病從早餐開始 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ZzFU0cmMQYU)  
+
+## 高血壓
+
+- [高血壓成因及風險分析 上壓高比下壓高危險？ -- 人類健康研究所](https://www.youtube.com/watch?v=zVwiC7rQMNw)  
 
 ## Tutorials
 
