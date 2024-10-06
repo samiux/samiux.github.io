@@ -186,6 +186,7 @@
 
 - [高血壓成因及風險分析 上壓高比下壓高危險？ -- 人類健康研究所](https://www.youtube.com/watch?v=zVwiC7rQMNw)  
 - [油≠脂肪：選對食用油反而增加好膽固醇！ -- 人類健康研究所](https://www.youtube.com/watch?v=LIcte9P1qaw)  
+- [三酸甘油酯高vs膽固醇高 飲食建議不同！ -- 人類健康研究所](https://www.youtube.com/watch?v=i7dvNgtVCEQ)  
 
 ## Tutorials
 
