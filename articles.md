@@ -157,6 +157,7 @@
 
 ## 慢性疾病共同治理先導計劃
 
+- [【你有得揀 - 健康人生計劃】 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=LMXZB8TizkQ)  
 - [慢性疾病共同治理先導計劃介紹 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=O0g_a78pg1s)  
 - [慢性疾病共同治理先導計劃介紹 -- WTSDHC 黃大仙地區康健中心 ](https://www.youtube.com/watch?v=5YTqZ2_p_pc)  
 - [慢性疾病共同治理先導計劃 -- 香港特區政府新聞處](https://www.youtube.com/watch?v=RwgQMLFufF4)  
@@ -187,6 +188,12 @@
 - [高血壓成因及風險分析 上壓高比下壓高危險？ -- 人類健康研究所](https://www.youtube.com/watch?v=zVwiC7rQMNw)  
 - [油≠脂肪：選對食用油反而增加好膽固醇！ -- 人類健康研究所](https://www.youtube.com/watch?v=LIcte9P1qaw)  
 - [三酸甘油酯高vs膽固醇高 飲食建議不同！ -- 人類健康研究所](https://www.youtube.com/watch?v=i7dvNgtVCEQ)  
+- [【控壓識食我有計】 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=j1dNcYLZ880)  
+
+## 延緩衰老的科研新發現
+
+- [延緩衰老的科研新發現 -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=aMuo4d0ICQc)  
+- [斷食不止減肥還能治病 -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=QuZlPRrb8FM)  
 
 ## Tutorials
 
