@@ -23,8 +23,8 @@
 ## 参考资料
 
 理想血压： 上压 120mmHg、下压 80mmHg    
-非糖尿病人要低于：上压 140mmHg、下压 80mmHg    
-糖尿病人要低于：上压 130mmHg、下压 80mmHg    
+非糖尿病人血压要低于：上压 140mmHg、下压 80mmHg    
+糖尿病人血压要低于：上压 130mmHg、下压 80mmHg    
 
 Samiux   
 OSCE  OSCP  OSWP   
