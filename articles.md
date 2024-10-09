@@ -187,6 +187,7 @@
 - [發現血糖高後第一件要做的事 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=btrK0S-aRJk)  
 - [糖尿病人選擇水果的秘訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=vIKvohkqUCM)  
 - [糖尿腎病讀書會The Diabetes Code -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=bd_p-Fw_PYw)  
+- [精靈一點：糖尿病 -- RTHK 香港電台](https://www.youtube.com/watch?v=HzG2Ul9WB9U)  
 
 ## 高血壓
 
