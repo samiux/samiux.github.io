@@ -184,6 +184,7 @@
 - [對付糖尿病從早餐開始 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ZzFU0cmMQYU)  
 - [食飽飯好眼瞓 竟然是身體警號 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=H3y3c6cnVh0)  
 - [168斷食最精簡整合 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=de1FNqBrRwQ)  
+- [發現血糖高後第一件要做的事 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=btrK0S-aRJk)  
 
 ## 高血壓
 
