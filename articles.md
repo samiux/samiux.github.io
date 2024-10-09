@@ -186,6 +186,7 @@
 - [168斷食最精簡整合 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=de1FNqBrRwQ)  
 - [發現血糖高後第一件要做的事 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=btrK0S-aRJk)  
 - [糖尿病人選擇水果的秘訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=vIKvohkqUCM)  
+- [糖尿腎病讀書會The Diabetes Code -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=bd_p-Fw_PYw)  
 
 ## 高血壓
 
