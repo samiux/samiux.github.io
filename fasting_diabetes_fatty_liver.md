@@ -1,6 +1,6 @@
 # 斷食 糖尿病 脂肪肝 高血壓
 
-
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 ## 慢性疾病共同治理先導計劃
 
@@ -57,3 +57,4 @@
 - [益生菌是廿一世紀的治病良方 -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=jrxSSo7x3y0)  
 - [膽固醇是魔鬼還是天使？ -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=E3rIezx06C0)
 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
