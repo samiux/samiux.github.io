@@ -112,6 +112,7 @@
 - [重磅！《创新引领·国安砺剑》：“十大反间谍案例”专题展播](https://mp.weixin.qq.com/s/FBMMEIP5ZUJOJ4y5HZXRrg)  
 - [食飽飯好眼瞓 竟然是身體警號 - 長期血糖胰島素失調 害你脂肪肝兼患癌 - 不戒口可控糖？血糖女神教你1招解決 -- 健康嗎‪@HealthCodeHK【迷途書房】](https://www.youtube.com/watch?v=H3y3c6cnVh0)
 - [苹果发布会透露哪些讯息？华为发布会相比之下有哪些与众不同,华为为何能在行业“遥遥领先”？ -- 这就是中国 ](https://www.youtube.com/watch?v=LP0qCu3sYEs)  
+- [斷食 脂肪肝 糖尿病 高血壓](/fasting_diabetes_fatty_liver.md)  
 
 ## 军迷天下
 
