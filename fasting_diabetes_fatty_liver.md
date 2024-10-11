@@ -50,6 +50,13 @@
 - [三酸甘油酯高vs膽固醇高 飲食建議不同！ -- 人類健康研究所](https://www.youtube.com/watch?v=i7dvNgtVCEQ)  
 - [【控壓識食我有計】 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=j1dNcYLZ880)  
 
+## 逆轉脂肪肝
+
+- [生酮飲食可以改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_0QQqHVnHUg)  
+- [戒這樣東西就可以「逆轉」脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=Yc1bKr2ZNqw)  
+- [只需兩星期就可以大幅度改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DRc5ah77U5M)  
+- [間歇性斷食可以逆轉脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DwaPQQiJiCU)  
+
 ## 延緩衰老的科研新發現 斷食
 
 - [延緩衰老的科研新發現 -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=aMuo4d0ICQc)  
