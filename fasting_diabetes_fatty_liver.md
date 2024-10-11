@@ -1,4 +1,4 @@
-# 斷食 糖尿病 脂肪肝 高血壓
+# 斷食 脂肪肝 糖尿病 高血壓
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
