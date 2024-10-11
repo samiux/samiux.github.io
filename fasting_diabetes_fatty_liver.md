@@ -1,4 +1,4 @@
-# 斷食 脂肪肝 糖尿病 高血壓 「低碳高脂 一日两餐」
+#「低碳高脂 一日两餐」
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
