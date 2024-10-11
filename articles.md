@@ -213,5 +213,6 @@
 - [有关徴收胶袋费建议](/epd_1.md)  
 - [华为正式发布HarmonyOS 3：设备破3亿，9月启动升级 -- 观察者网](https://www.guancha.cn/ChanJing/2022_07_28_651276.shtml)  
 - [华为今晚发布的鸿蒙3.0，要拯救我的华为老手机了。-- 观察者网](https://user.guancha.cn/main/content?id=814544)  
+- [斷食 脂肪肝 糖尿病 高血壓](/fasting_diabetes_fatty_liver.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
