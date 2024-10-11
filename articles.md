@@ -189,6 +189,13 @@
 - [糖尿腎病讀書會The Diabetes Code -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=bd_p-Fw_PYw)  
 - [精靈一點：糖尿病 -- RTHK 香港電台](https://www.youtube.com/watch?v=HzG2Ul9WB9U)  
 
+## 糖尿病 
+
+- [想逆轉糖尿病嗎？請記住這兩句口訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=HlcyZOsMBFc)  
+- [糖尿病人必看：逆轉糖尿病的終極秘訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=2YMyB4uTkEE)  
+- [逆轉糖尿病的三大關鍵荷爾蒙 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DvndvV0k8Kw)  
+- [讀100本書後得出的「逆轉糖尿病智慧」 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=lywF5Qpv2uc)  
+
 ## 高血壓
 
 - [高血壓成因及風險分析 上壓高比下壓高危險？ -- 人類健康研究所](https://www.youtube.com/watch?v=zVwiC7rQMNw)  
