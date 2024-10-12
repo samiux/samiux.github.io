@@ -47,6 +47,10 @@
 - [糖尿病人必看：逆轉糖尿病的終極秘訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=2YMyB4uTkEE)  
 - [逆轉糖尿病的三大關鍵荷爾蒙 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DvndvV0k8Kw)  
 - [讀100本書後得出的「逆轉糖尿病智慧」 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=lywF5Qpv2uc)  
+- [糖尿病人吃雞蛋要注意的三件事 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=vZHEheNNIPM)  
+- [「壞」膽固醇並非你想像中咁壞 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=sYCKNR9WRTE)  
+- [糖尿病人選擇水果的秘訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=vIKvohkqUCM)  
+- [三種糖尿病不可以吃的地雷食物 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=Ph_syuqDVtI)  
 
 ## 高血壓
 
