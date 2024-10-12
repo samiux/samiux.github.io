@@ -10,9 +10,9 @@
 甘油三酯（TG） / 低密度脂蛋白胆固醇（LDL-C）     
 ```
 
-结果解读：  
-- 比率小于 0.87 毫摩尔 (mmol) 表示胆固醇水平良好。  
-- 而比率大于 1.74 毫摩尔 (mmol) 则表示胆固醇水平不佳。  
+解读结果：  
+- 低于 0.87 mmol/L 的比率表明胆固醇水平良好。  
+- 相反，高于 1.74 mmol/L 的比率则表明胆固醇水平不佳。  
 
 了解这些数值可以帮助你做出明智的胆固醇健康决策。
 
@@ -27,8 +27,8 @@ Triglycerides (TG) / Low-Density Lipoprotein Cholesterol (LDL-C)
 ```
 
 Interpreting the results:  
-- A ratio of less than 0.87 mmol indicates a favorable cholesterol profile.  
-- Conversely, a ratio greater than 1.74 mmol suggests a less favorable cholesterol profile.  
+- A ratio of less than 0.87 mmol/L indicates a favorable cholesterol profile.  
+- Conversely, a ratio greater than 1.74 mmol/L suggests a less favorable cholesterol profile.  
 
 Understanding these values can help you make informed decisions about your cholesterol health.
 
