@@ -112,7 +112,7 @@
 - [重磅！《创新引领·国安砺剑》：“十大反间谍案例”专题展播](https://mp.weixin.qq.com/s/FBMMEIP5ZUJOJ4y5HZXRrg)  
 - [食飽飯好眼瞓 竟然是身體警號 - 長期血糖胰島素失調 害你脂肪肝兼患癌 - 不戒口可控糖？血糖女神教你1招解決 -- 健康嗎‪@HealthCodeHK【迷途書房】](https://www.youtube.com/watch?v=H3y3c6cnVh0)
 - [苹果发布会透露哪些讯息？华为发布会相比之下有哪些与众不同,华为为何能在行业“遥遥领先”？ -- 这就是中国 ](https://www.youtube.com/watch?v=LP0qCu3sYEs)  
-- [「低碳高脂 一日两餐」](/fasting_diabetes_fatty_liver.md)  
+- [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 
 ## 军迷天下
 
@@ -215,6 +215,6 @@
 - [华为正式发布HarmonyOS 3：设备破3亿，9月启动升级 -- 观察者网](https://www.guancha.cn/ChanJing/2022_07_28_651276.shtml)  
 - [华为今晚发布的鸿蒙3.0，要拯救我的华为老手机了。-- 观察者网](https://user.guancha.cn/main/content?id=814544)  
 - [【快速學倉頡】真正10分鐘完美KO倉頡輸入法（涵蓋所有字形，用盡26個字母！） -- 語音研究所](https://www.youtube.com/watch?v=ZKOjwgIdM3k)  
-- [「低碳高脂 一日两餐」](/fasting_diabetes_fatty_liver.md)  
+- [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
