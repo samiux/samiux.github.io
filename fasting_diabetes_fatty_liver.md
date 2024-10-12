@@ -61,6 +61,7 @@
 - [戒這樣東西就可以「逆轉」脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=Yc1bKr2ZNqw)  
 - [只需兩星期就可以大幅度改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DRc5ah77U5M)  
 - [間歇性斷食可以逆轉脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=DwaPQQiJiCU)  
+- [脂肪肝,要吃生酮飲食,燃燒肝脂肪,柏格醫生 Dr Berg -- 柏格醫生中文 健康知識](https://www.youtube.com/watch?v=qczPxQ27lEw)  
 
 ## 延緩衰老的科研新發現 斷食
 
