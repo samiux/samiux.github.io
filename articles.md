@@ -214,6 +214,7 @@
 - [有关徴收胶袋费建议](/epd_1.md)  
 - [华为正式发布HarmonyOS 3：设备破3亿，9月启动升级 -- 观察者网](https://www.guancha.cn/ChanJing/2022_07_28_651276.shtml)  
 - [华为今晚发布的鸿蒙3.0，要拯救我的华为老手机了。-- 观察者网](https://user.guancha.cn/main/content?id=814544)  
+- [【快速學倉頡】真正10分鐘完美KO倉頡輸入法（涵蓋所有字形，用盡26個字母！） -- 語音研究所](https://www.youtube.com/watch?v=ZKOjwgIdM3k)  
 - [「低碳高脂 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
