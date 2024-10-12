@@ -36,6 +36,38 @@ Understanding these values can help you make informed decisions about your chole
 
 - [Triglyceride/low-density-lipoprotein cholesterol ration is the most valuable predictor for increased small, dense LDL in type 2 diabetes patients (Published 07 January 2022)](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01612-8)
 
+### 文章摘要
+
+本文探讨了甘油三酯/低密度脂蛋白胆固醇（TG/LDL-C）比率与2型糖尿病患者小、致密低密度脂蛋白（sd-LDL）之间的关系。研究发现，TG/LDL-C比率是sd-LDL的可靠替代脂质标志物，优于非高密度脂蛋白胆固醇（non-HDL-C）在未接受他汀治疗的2型糖尿病患者中对sd-LDL水平的预测。
+
+主要发现
+
+- TG/LDL-C比率与2型糖尿病患者的sd-LDL水平呈正相关。
+- 对于未使用他汀的患者，TG/LDL-C比率的曲线下面积（AUC）高于non-HDL-C。
+- TG/LDL-C比率的最佳切割点为1.1（摩尔比），与他汀治疗无关。
+- 在未使用他汀的患者中，TG/LDL-C比率的敏感性和特异性高于non-HDL-C。
+
+结论
+
+研究表明，TG/LDL-C比率是2型糖尿病患者sd-LDL水平的重要预测指标，可作为临床实践中sd-LDL的替代标志物。
+
+### TG/LDL-C比率的解读
+
+TG/LDL-C比率被认为是2型糖尿病患者小、致密低密度脂蛋白（sd-LDL）水平的有价值预测指标。较低的TG/LDL-C比率通常被认为更好。
+
+最佳切割点
+
+根据研究，TG/LDL-C比率的最佳切割点为1.1（摩尔比），与他汀治疗无关。这意味着TG/LDL-C比率低于1.1与较低的sd-LDL水平相关，这是一种理想的情况。
+
+理想的TG/LDL-C比率
+
+良好的TG/LDL-C比率应为：
+
+- 低于1.1（摩尔比），表明sd-LDL水平较低
+- 较低的数值表示心血管疾病风险较低
+
+需要注意的是，TG/LDL-C比率的解读应结合其他脂质谱和健康指标，并考虑个体患者的特征和病史。
+
 ### Summary of the Article
 
 The article discusses the relationship between the triglyceride/low-density-lipoprotein cholesterol (TG/LDL-C) ratio and small, dense low-density lipoprotein (sd-LDL) in type 2 diabetes patients. The study found that the TG/LDL-C ratio is a reliable surrogate lipid marker of sd-LDL and is superior to non–high-density-lipoprotein cholesterol (non–HDL-C) in predicting sd-LDL levels in type 2 diabetes patients not treated with statins.
