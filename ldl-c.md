@@ -55,11 +55,11 @@ Understanding these values can help you make informed decisions about your chole
 
 TG/LDL-C比率被认为是2型糖尿病患者小、致密低密度脂蛋白（sd-LDL）水平的有价值预测指标。较低的TG/LDL-C比率通常被认为更好。
 
-最佳切割点
+#### 最佳切割点
 
 根据研究，TG/LDL-C比率的最佳切割点为1.1（摩尔比），与他汀治疗无关。这意味着TG/LDL-C比率低于1.1与较低的sd-LDL水平相关，这是一种理想的情况。
 
-理想的TG/LDL-C比率
+#### 理想的TG/LDL-C比率
 
 良好的TG/LDL-C比率应为：
 
@@ -87,11 +87,11 @@ The study suggests that the TG/LDL-C ratio is a valuable predictor of sd-LDL lev
 
 The TG/LDL-C ratio is considered a valuable predictor of small, dense low-density lipoprotein (sd-LDL) levels in type 2 diabetes patients. A lower TG/LDL-C ratio is generally considered better.
 
-Optimal Cut-off Point
+#### Optimal Cut-off Point
 
 According to the study, the optimal cut-off point for the TG/LDL-C ratio for increased sd-LDL is 1.1 (molar ratio) regardless of statin treatment. This means that a TG/LDL-C ratio below 1.1 is associated with lower sd-LDL levels, which is desirable.
 
-What a Good TG/LDL-C Ratio Looks Like
+#### What a Good TG/LDL-C Ratio Looks Like
 
 A good TG/LDL-C ratio would be:
 
