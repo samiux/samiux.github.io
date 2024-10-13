@@ -11,8 +11,8 @@
 ```
 
 解读结果：  
-- 低于 1.1 mmol/L 的比率表明胆固醇水平良好。  
-- 相反，高于1.1 mmol/L的比率则表明胆固醇水平不佳。
+- 低于 1.1 的比率表明胆固醇水平良好。  
+- 相反，高于1.1 的比率则表明胆固醇水平不佳。
 
 了解这些数值可以帮助你做出明智的胆固醇健康决策。
 
@@ -27,8 +27,8 @@ Triglycerides (TG) / Low-Density Lipoprotein Cholesterol (LDL-C)
 ```
 
 Interpreting the results:  
-- A ratio of less than 1.1 mmol/L indicates a favorable cholesterol profile.  
-- Conversely, a ratio greater than 1.1 mmol/L suggests a less favorable cholesterol profile.  
+- A ratio of less than 1.1 indicates a favorable cholesterol profile.  
+- Conversely, a ratio greater than 1.1 suggests a less favorable cholesterol profile.  
 
 Understanding these values can help you make informed decisions about your cholesterol health.
 
