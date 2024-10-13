@@ -100,4 +100,7 @@ A good TG/LDL-C ratio would be:
 
 It's essential to note that the TG/LDL-C ratio should be interpreted in conjunction with other lipid profiles and health markers, as well as in the context of individual patient characteristics and medical history.
 
+Samiux  
+二零二四年十月十三日，中国香港    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
