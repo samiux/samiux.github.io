@@ -19,6 +19,7 @@
 - [常見問題 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/faq.html)  
 - [香港的基層醫療 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/primary_healthcare_in_hk.html)  
 - [成年人體重指標計算器 -- 医务卫生局](https://www.dhc.gov.hk/tc/bmi_calculator.html)  
+- [BMR (基础代谢率) 计算器](https://bikelab.cn/bmr/)   
 
 ## 糖尿病 脂肪肝 斷食
 
