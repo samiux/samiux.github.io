@@ -138,7 +138,7 @@
 - [美國經濟分析 2024（六）-- Lorey快閃講](https://www.youtube.com/watch?v=Hq54NjqS3Fc)  
 - [美國經濟分析 2024（七）-- Lorey快閃講](https://www.youtube.com/watch?v=jB4iqjgGOik)  
 - [美國經濟分析 2024（八）-- 这就是中国 ](https://www.youtube.com/watch?v=FxM3Cd3IB5E)  
-- [美國經濟分析 2024（九） -- 【屈機觀察 EP194】](https://www.youtube.com/watch?v=6pTOYWc52oc)  
+- [美國經濟分析 2024（九）-- 屈機觀察 EP194](https://www.youtube.com/watch?v=6pTOYWc52oc)  
 
 ## 美式民主制度
 
