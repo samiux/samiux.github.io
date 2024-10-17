@@ -142,6 +142,7 @@
 ## 美式民主制度
 
 - [美式民主的制度困境,中国和美国民主对比有何不同 ？ -- 这就是中国 ](https://www.youtube.com/watch?v=UaXCUZMjEIE)  
+- [英媒靈魂拷問：美國，你還有羞恥心嗎？美國國務院發言人，北約秘書長全部是謊言大師！ 24年10月17日 -- 盧永雄「巴士的點評」](https://www.youtube.com/watch?v=ikHzKlcjA24)  
 
 ## 深圳游
 
