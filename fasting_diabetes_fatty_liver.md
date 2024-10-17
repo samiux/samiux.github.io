@@ -27,6 +27,7 @@
 
 ## 糖尿病 脂肪肝 斷食
 
+- [糖尿腎病讀書會The Diabetes Code -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=bd_p-Fw_PYw)  
 - [糖尿病人如何知道內臟脂肪有多少？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=GFs_qkpXpbI)  
 - [逆轉二型糖尿病，必先改善代謝健康 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_ZT-LTTx6xo)  
 - [生酮飲食可以改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_0QQqHVnHUg)  
@@ -39,13 +40,12 @@
 - [斷食不只減肥還能治病？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ute2e0msd_M)  
 - [《治未病之病》【斷食迷思】你有諗過以斷食減重嗎？ -- 香港糖尿病專科中心](https://www.youtube.com/watch?v=e8SvW5CDW0c)  
 - [對付糖尿病從早餐開始 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=ZzFU0cmMQYU)  
-- [食飽飯好眼瞓 竟然是身體警號 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=H3y3c6cnVh0)  
-- [168斷食最精簡整合 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=de1FNqBrRwQ)  
 - [發現血糖高後第一件要做的事 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=btrK0S-aRJk)  
 - [糖尿病人選擇水果的秘訣 -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=vIKvohkqUCM)  
-- [糖尿腎病讀書會The Diabetes Code -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=bd_p-Fw_PYw)  
 - [精靈一點：糖尿病 -- RTHK 香港電台](https://www.youtube.com/watch?v=HzG2Ul9WB9U)  
 - [逆轉脂肪肝 必須戒3食物 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=EWpXGCqM4Xg)  
+- [食飽飯好眼瞓 竟然是身體警號 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=H3y3c6cnVh0)  
+- [168斷食最精簡整合 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=de1FNqBrRwQ)  
 
 ## 逆轉糖尿病秘訣
 
