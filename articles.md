@@ -143,6 +143,7 @@
 
 - [美式民主的制度困境,中国和美国民主对比有何不同 ？ -- 这就是中国 ](https://www.youtube.com/watch?v=UaXCUZMjEIE)  
 - [英媒靈魂拷問：美國，你還有羞恥心嗎？美國國務院發言人，北約秘書長全部是謊言大師！ 24年10月17日 -- 盧永雄「巴士的點評」](https://www.youtube.com/watch?v=ikHzKlcjA24)  
+- [白宮經濟數據自相矛盾，美聯儲降息製造美元潮汐，特朗普揭真相高關稅救美國！ -- 【屈機觀察 EP194】](https://www.youtube.com/watch?v=6pTOYWc52oc)  
 
 ## 深圳游
 
