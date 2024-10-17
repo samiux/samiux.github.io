@@ -33,6 +33,9 @@ sudo amdgpu-install
 
 If the driver is installed successfully, reboot your system.
 
+Samiux  
+October 17, 2024, Hong Kong, China  
+
 ## REFERENCE
 
 - [Linux® Drivers for AMD Radeon™ Graphics](https://www.amd.com/en/support/download/linux-drivers.html)  
