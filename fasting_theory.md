@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
- (節錄自「168 間歇性斷食」一書，作者冯子新博士)
+ (節錄自「168 間歇性斷食」一書，作者冯子新博士 Dr Jason Fung)
 
 从纯医学的角度来看，许多疾病在一定程度上都是身体脂肪过多引起的。过度肥胖增加了罹患心脏病、脑卒中和癌症的风险。体重减轻能让高密度脂蛋白(HDL)或“有益”胆固醇的水平上升，并让甘油三酯的水平下降，这有助于降低罹患这些疾病的风险。
 
