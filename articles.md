@@ -114,6 +114,7 @@
 - [苹果发布会透露哪些讯息？华为发布会相比之下有哪些与众不同,华为为何能在行业“遥遥领先”？ -- 这就是中国 ](https://www.youtube.com/watch?v=LP0qCu3sYEs)  
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [低密度脂蛋白胆固醇（LDL-C）被认为是有害的吗？](/ldl-c.md)  
+-[间歇性断食理论 -- 冯子新博士](/fasting_theory.md)   
 
 ## 军迷天下
 
