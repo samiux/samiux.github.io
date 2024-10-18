@@ -8,6 +8,8 @@
 
 **断食不适合儿童、发育中青少年、孕妇、一型糖尿病患者。**   
 
+- [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
+
 ## 慢性疾病共同治理先導計劃
 
 - [【你有得揀 - 健康人生計劃】 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=LMXZB8TizkQ)  
