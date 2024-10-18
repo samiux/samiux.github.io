@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
- (節錄自「168 間歇性斷食」一書，作者冯子新博士 Dr Jason Fung)  
+ (節錄自「168 間歇性斷食」一書 (翻譯本)，作者冯子新博士 Dr Jason Fung)  
 
 **断食不适合儿童、发育中青少年、孕妇、一型糖尿病患者。**   
 
