@@ -60,6 +60,8 @@ BMR提高很可能是一种生存反应。假设你是一个原始人，眼下�
 ### 更多资料
 
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
+- [断食减肥法的原理 -- 消费者委员会](https://www.consumer.org.hk/sc/article/550-intermittent-fasting/550-intermittent-fasting-principle#tab)    
+- [断食小知识 -- 消费者委员会](https://www.consumer.org.hk/sc/article/550-intermittent-fasting/550-intermittent-fasting-knowledge#tab)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
