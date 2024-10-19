@@ -9,6 +9,8 @@
 **断食不适合儿童、发育中青少年、孕妇、一型糖尿病患者。**   
 
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
+- [断食减肥法的原理 -- 消费者委员会](https://www.consumer.org.hk/sc/article/550-intermittent-fasting/550-intermittent-fasting-principle#tab)    
+- [断食小知识 -- 消费者委员会](https://www.consumer.org.hk/sc/article/550-intermittent-fasting/550-intermittent-fasting-knowledge#tab)    
 
 ## 慢性疾病共同治理先導計劃
 
