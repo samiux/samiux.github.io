@@ -51,7 +51,7 @@ His skills are :
 He can be reached at :
 
 - [CyberSecurity Ninjas Limited 网安忍者有限公司](https://cybersecurity-ninjas.com) 
-- [Gitee](https://gitee.com/login?redirect_to_url=%2F)  
+- [Gitee](https://gitee.com/samiux)  
 - [GitHub](https://github.com/samiux)  
 - Discord samiux @samiux    (#3445)  
 
