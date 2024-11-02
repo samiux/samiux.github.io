@@ -11,6 +11,8 @@
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
 - [断食减肥法的原理 -- 消费者委员会](https://www.consumer.org.hk/sc/article/550-intermittent-fasting/550-intermittent-fasting-principle#tab)    
 - [断食小知识 -- 消费者委员会](https://www.consumer.org.hk/sc/article/550-intermittent-fasting/550-intermittent-fasting-knowledge#tab)    
+- [五分鐘帶你認識血酮！ -- Medimart ](https://www.medimart.com.hk/5-mins-ketone-ketosis-keto-diet)  
+- [Glucose Ketone Index -- keto mojo](https://keto-mojo.com/glucose-ketone-index-gki/)  
 
 ## 慢性疾病共同治理先導計劃
 
