@@ -16,6 +16,8 @@
 - [Jason Fung](https://www.youtube.com/@MyChannel-j3r)  
 - [Insulin Blocks Fat Burning - The Key to Weight Loss -- Jason Fung](https://www.youtube.com/watch?v=Y92SE4j_m50)  
 - [How to Lose Weight the Scientific Way - Intermittent Fasting -- Jason Fung](https://www.youtube.com/watch?v=6aiR1mFD7Gw)  
+- [Top Intermittent Fasting Mistakes -- Jason Fung](https://www.youtube.com/watch?v=1Gmyqs5bTbc)  
+- [How to Make Intermittent Fasting EASY 2023 -- Jason Fung](https://www.youtube.com/watch?v=9PdjjrhW5uA)  
 
 ## 慢性疾病共同治理先導計劃
 
