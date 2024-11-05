@@ -33,6 +33,7 @@
 - [香港的基層醫療 -- 醫務衞生局](https://www.primaryhealthcare.gov.hk/cdcc/tc/gp/primary_healthcare_in_hk.html)  
 - [成年人體重指標計算器 -- 医务卫生局](https://www.dhc.gov.hk/tc/bmi_calculator.html)  
 - [BMR (基础代谢率) 计算器 -- BikeLab](https://bikelab.cn/bmr/)   
+- [hba1c Calculator](https://www.hba1cnet.com/hba1c-calculator/)   
 - [糖尿腎病讀書會《肥胖大解密》（精華） -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=IcbUY0IYoDk)  
 - [如何使用电子血压计量度血压 -- 卫生署](https://m.youtube.com/watch?v=7FyByk3ZWns)    
 - [认识高血压 -- 医院管理局智友站](https://www21.ha.org.hk/smartpatient/SPW/zh-hk/Disease-Information/Disease/?guid=d41c67f5-f6f6-4d12-a1e4-b659ef2fbe43)    
