@@ -19,6 +19,7 @@
 - [Top Intermittent Fasting Mistakes -- Jason Fung](https://www.youtube.com/watch?v=1Gmyqs5bTbc)  
 - [How to Make Intermittent Fasting EASY 2023 -- Jason Fung](https://www.youtube.com/watch?v=9PdjjrhW5uA)  
 - [Glucose Revolution -- Jessie Inchauspé](https://www.youtube.com/@GlucoseRevolution)  
+- [Science Show -- Glucose Revolution](https://www.youtube.com/watch?v=J6KHmymKE9M&list=PLANGBhsiwLJJ_dm8Lfxj7fQuWhdPGeIxX)  
 
 ## 慢性疾病共同治理先導計劃
 
