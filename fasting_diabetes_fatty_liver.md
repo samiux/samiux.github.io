@@ -96,4 +96,9 @@
 - [益生菌是廿一世紀的治病良方 -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=jrxSSo7x3y0)  
 - [膽固醇是魔鬼還是天使？ -- HKCCF香港脊骨神經科醫學院基金](https://www.youtube.com/watch?v=E3rIezx06C0)
 
+## 便秘
+
+- [【問問崔博士】便秘篇 上集 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=YyqD0FW08jw)  
+- [【問問崔博士】便秘篇 下集 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=Rqen3LqacUQ)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
