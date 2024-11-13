@@ -5,6 +5,8 @@
 - [精靈一點：香港骨科醫學院系列 - 骨質疏鬆脆性骨折 -- RTHK 香港電台](https://www.youtube.com/watch?v=7qcTNb2v6KQ)  
 - [骨質疏鬆檢查：你也可以看懂報告？osteoporosis: what are T and Z scores and what should I do about it? -- Dr. Rex 醫學幼稚園](https://www.youtube.com/watch?v=ylvZHAg-BCQ)  
 - [骨質疏鬆症講座 - 郭維達醫生 -- AAMG Doctors 美亞醫療集團](https://www.youtube.com/watch?v=rfa2u-3Ilvo)  
+- [骨質疏鬆與骨折（上） -- 人類健康研究所](https://www.youtube.com/watch?v=4GAz1feuSIY)  
+- [骨質疏鬆與骨折（下） -- 人類健康研究所](https://www.youtube.com/watch?v=XP0HIGf0RZg)  
 
 ## 運動
 
