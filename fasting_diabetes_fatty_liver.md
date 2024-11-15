@@ -101,4 +101,20 @@
 - [【問問崔博士】便秘篇 上集 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=YyqD0FW08jw)  
 - [【問問崔博士】便秘篇 下集 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=Rqen3LqacUQ)  
 
+## Glucose, INSULIN RESISTANCE & Metabolic Health
+
+- [Dr. Robert Lustig: How Sugar & Processed Foods Impact Your Health -- Andrew Huberman](https://www.youtube.com/watch?v=n28W4AmvMDE)  
+- [The ULTIMATE Guide to Glucose, INSULIN RESISTANCE & Metabolic Health Compilation - Dr. Robert Lustig -- Levels](https://www.youtube.com/watch?v=zG4XD116uy8)  
+- [Professor Robert Lustig: Can you exercise your way out of a bad diet?  -- Emery Pharma](https://www.youtube.com/watch?v=Nbmqo-HNHC4)  
+- [Sugar: THE BITTER TRUTH -- University of California Television (UCTV)](https://www.youtube.com/watch?v=dBnniua6-oM)  
+- [Dr. Lustig: Type 2 Diabetes Is "Processed Food Disease" -- 
+CrossFit](https://www.youtube.com/watch?v=f1oRlVKwrio)  
+- [Obesogens: The Hidden Driver of Obesity - Dr. Robert Lustig -- Metabolic Health Summit](https://www.youtube.com/watch?v=YxO4KKdCtCs)  
+- [Everything You Knew About Obesity is Wrong! - Dr. Robert Lustig -- Emery Pharma](https://www.youtube.com/watch?v=k10chQmT1Eg)  
+- [What we’re getting WRONG about metabolic health & weight: Robert Lustig, M.D. -- the mindbodygreen podcast](https://www.youtube.com/watch?v=lTSE6btw9xM)  
+- [The BITTER TRUTH About Sugar & How It CAUSES DISEASE! - Dr. Robert Lustig -- Mark Hyman, MD](https://www.youtube.com/watch?v=Lpsmq6S7BMQ)  
+- [You May Never Eat Sugar Again After Watching This - Quit For 7 Days To Heal - Dr. Robert Lustig -- The Doctor's Kitchen](https://www.youtube.com/watch?v=VBmvvP53818)  
+- [Robert Lustig](https://www.youtube.com/channel/UC0Rnz8dv1-25An6Q8DK5uLg)  
+- [Robert H. Lustig, MD, MSL](https://robertlustig.com/)  
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
