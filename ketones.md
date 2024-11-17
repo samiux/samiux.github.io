@@ -123,5 +123,6 @@ Without treatment, DKA can progress fast (within 24 hours or even less). Symptom
 ### REFERENCE
 
 - [Ketones -- Cleveland Clinic](https://my.clevelandclinic.org/health/body/25177-ketones)  
+- [Keto and Intermittent Fasting: A Beginner's Guide -- Ketone-IQ](https://ketone.com/blogs/blog/keto-diet-keto-and-intermittent-fasting-a-beginners-guide)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
