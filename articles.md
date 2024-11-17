@@ -119,6 +119,7 @@
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
 - [骨質疏鬆](/osteoporosis.md)
 - [酮体](/ketones.md)  
+- [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)  
 
 ## 军迷天下
 
