@@ -117,8 +117,8 @@
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [低密度脂蛋白胆固醇（LDL-C）被认为是有害的吗？](/ldl-c.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
-- [骨質疏鬆](/osteoporosis.md)  
-
+- [骨質疏鬆](/osteoporosis.md)
+- [酮体](/ketones.md)  
 
 ## 军迷天下
 
