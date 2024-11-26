@@ -41,6 +41,11 @@
 - [认识高血压 -- 医院管理局智友站](https://www21.ha.org.hk/smartpatient/SPW/zh-hk/Disease-Information/Disease/?guid=d41c67f5-f6f6-4d12-a1e4-b659ef2fbe43)    
 - [少啲盐 健康啲 -- 卫生防护中心](https://www.chp.gov.hk/files/her/less_salt_for_better_health_infographic.pdf)    
 
+<object data="/pdf/认识糖尿病 - 地区康健中心.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/认识糖尿病 - 地区康健中心.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/认识糖尿病 - 地区康健中心.pdf">Download PDF</a>.</p>
+</object>
+
 ## 糖尿病 脂肪肝 斷食
 
 - [糖尿腎病讀書會The Diabetes Code -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=bd_p-Fw_PYw)  
