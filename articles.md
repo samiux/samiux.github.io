@@ -121,24 +121,6 @@
 - [酮体](/ketones.md)  
 - [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)  
 
-## 军迷天下
-
-- [ 《淬火》 1](https://www.youtube.com/watch?v=wHTRhV57v5Y)  
-- [ 《淬火》 2](https://www.youtube.com/watch?v=0-VZy2gUVys)  
-- [ 《淬火》 3](https://www.youtube.com/watch?v=pvEWcpz3gfw)  
-- [ 《淬火》 4](https://www.youtube.com/watch?v=7bqnBE6fhCk)  
-- [ 《淬火》 5](https://www.youtube.com/watch?v=wlqJhTowCWo)  
-- [ 《淬火》 6](https://www.youtube.com/watch?v=6rwvHywCnq4)  
-
-## 庆祝中华人民共和国成立75周年！
-
-- [中国人生活水平的国际比较,作为中国人有多幸福？ -- 这就是中国](https://www.youtube.com/watch?v=80eBC0jWNRY)  
-
-## 美式民主制度
-
-- [美式民主的制度困境,中国和美国民主对比有何不同 ？ -- 这就是中国 ](https://www.youtube.com/watch?v=UaXCUZMjEIE)  
-- [英媒靈魂拷問：美國，你還有羞恥心嗎？美國國務院發言人，北約秘書長全部是謊言大師！ 24年10月17日 -- 盧永雄「巴士的點評」](https://www.youtube.com/watch?v=ikHzKlcjA24)  
-
 ## 深圳游
 
 - [深圳福田一日游 2023 (支付篇)](/china_payment_2023.md)
