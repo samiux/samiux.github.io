@@ -94,6 +94,11 @@
 - [壞膽固醇每降一度心血管疾病風險降20% -- 人類健康研究所](https://www.youtube.com/watch?v=WLE6YQMLCpI&list=PLHW9VckgbhA0WS2VXJzeHaJhdurPV0ZaK&index=6)  
 - [BMI每高5度心臟風險高三成 -- 人類健康研究所](https://www.youtube.com/watch?v=oO9p4b-nxYY&list=PLHW9VckgbhA0WS2VXJzeHaJhdurPV0ZaK&index=29)  
 
+## 心臟病
+
+- [心臟病運動迷思（上）-- 人類健康研究所](https://www.youtube.com/watch?v=gdrXa7vP5DE&list=PLHW9VckgbhA0WS2VXJzeHaJhdurPV0ZaK&index=21)  
+- [心臟病運動迷思（下）-- 人類健康研究所](https://www.youtube.com/watch?v=wCdxYMokVOs&list=PLHW9VckgbhA0WS2VXJzeHaJhdurPV0ZaK&index=24)  
+
 ## 逆轉脂肪肝
 
 - [生酮飲食可以改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_0QQqHVnHUg)  
