@@ -89,6 +89,11 @@
 - [三酸甘油酯高vs膽固醇高 飲食建議不同！ -- 人類健康研究所](https://www.youtube.com/watch?v=i7dvNgtVCEQ)  
 - [【控壓識食我有計】 -- 屯門地區康健中心 TMDHC](https://www.youtube.com/watch?v=j1dNcYLZ880)  
 
+## 膽固醇
+
+- [壞膽固醇每降一度心血管疾病風險降20% -- 人類健康研究所](https://www.youtube.com/watch?v=WLE6YQMLCpI&list=PLHW9VckgbhA0WS2VXJzeHaJhdurPV0ZaK&index=6)  
+- [BMI每高5度心臟風險高三成 -- 人類健康研究所](https://www.youtube.com/watch?v=oO9p4b-nxYY&list=PLHW9VckgbhA0WS2VXJzeHaJhdurPV0ZaK&index=29)  
+
 ## 逆轉脂肪肝
 
 - [生酮飲食可以改善脂肪肝？ -- 糖尿腎病互動專區](https://www.youtube.com/watch?v=_0QQqHVnHUg)  
