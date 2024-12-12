@@ -139,6 +139,7 @@
 - [輕斷食瘦身11點 -- Dr Eric Berg](https://www.youtube.com/watch?v=yrwR1CF7jO4)  
 - [生酮吃多少卡熱量? 輕斷食,低碳減肥,吃飽足不挨餓！ -- Dr Eric Berg](https://www.youtube.com/watch?v=QWH0Jl8B6Fo)  
 - [斷食體內變化：抗衰老、自噬、燃燒脂肪、強化免疫力、癒合腸道關節炎等 -- Dr Eric Berg](https://www.youtube.com/watch?v=SlzBMJvtGHo) 
+- [會生酮的好蛋白質, 那些生酮食物? -- Dr Eric Berg](https://www.youtube.com/watch?v=EHs6TkmZbGQ)  
 - [柏格醫生中文 健康知識](https://www.youtube.com/@drbergchinese/videos)  
 
 ## Glucose, INSULIN RESISTANCE & Metabolic Health
