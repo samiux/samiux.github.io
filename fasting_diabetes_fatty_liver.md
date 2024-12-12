@@ -119,6 +119,28 @@
 - [【問問崔博士】便秘篇 上集 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=YyqD0FW08jw)  
 - [【問問崔博士】便秘篇 下集 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=Rqen3LqacUQ)  
 
+## 生酮飲食  斷食
+
+- [生酮飲食加斷食, 燃燒脂肪,降低胰島素.不會餓減肥! -- Dr Eric Berg](https://www.youtube.com/watch?v=VVZQIMKUWvU)  
+- [第二步生酮飲食吃什麼?燃燒脂肪,輕斷食 -- Dr Eric Berg](https://www.youtube.com/watch?v=Nd1RNTymyvM)  
+- [生酮飲食和斷食,啟動細胞自噬,減肥不餓肚子,完整篇 -- Dr Eric Berg](https://www.youtube.com/watch?v=ixRVov7w9Dc)  
+- [如何燃燒脂肪?? 生酮飲食最簡單的減肥法 -- Dr Eric Berg](https://www.youtube.com/watch?v=Lxk7J6_Cjc0)  
+- [生酮飲食5件你需要知道的事,燃燒脂肪 -- Dr Eric Berg](https://www.youtube.com/watch?v=QNlgW4Ss5B4)  
+- [斷食,刺激生長激素與燃燒脂肪,健康又減肥 -- Dr Eric Berg](https://www.youtube.com/watch?v=RfiRjYUH9JQ)  
+- [生酮飲食與燃燒脂肪, 3重要的事，輕鬆入門! -- Dr Eric Berg](https://www.youtube.com/watch?v=ey6NBYMKqjE)  
+- [如何讓身體燃燒脂肪?啟動身體荷爾蒙,控制胰島素.為何身體儲存脂肪？ -- Dr Eric Berg](https://www.youtube.com/watch?v=e7c3IARTdR4)  
+- [加速代謝9技巧, 修復胰島素阻抗.燃燒腹部脂肪 -- Dr Eric Berg](https://www.youtube.com/watch?v=W-GzeFKsAxo)  
+- [如何啟動燃燒脂肪？為何不燃燒脂肪?(減肥入門) -- Dr Eric Berg](https://www.youtube.com/watch?v=l7rG2GC5TEk)  
+- [防彈咖啡妨礙細胞自噬作用？什麼會停止細胞自噬？ -- Dr Eric Berg](https://www.youtube.com/watch?v=as7rFXT-p3k)  
+- [斷食可吃喝14樣飲料食物.生酮飲料和間歇性斷食 -- Dr Eric Berg](https://www.youtube.com/watch?v=Uj4vwu8RgD4)  
+- [16項生酮飲食副作用：頭暈、疲勞、抽筋、心悸、寒冷、便秘等營養修正 -- Dr Eric Berg](https://www.youtube.com/watch?v=wfdIZQg3cxA)  
+- [斷食增長肌肉？多少食物？需要營養素？ -- Dr Eric Berg](https://www.youtube.com/watch?v=RtJ4CWkdhS0)  
+- [生酮與斷食吃多少總熱量？食物分配？ -- Dr Eric Berg](https://www.youtube.com/watch?v=e5RNuvJrCdU)  
+- [輕斷食瘦身11點 -- Dr Eric Berg](https://www.youtube.com/watch?v=yrwR1CF7jO4)  
+- [生酮吃多少卡熱量? 輕斷食,低碳減肥,吃飽足不挨餓！ -- Dr Eric Berg](https://www.youtube.com/watch?v=QWH0Jl8B6Fo)  
+- [斷食體內變化：抗衰老、自噬、燃燒脂肪、強化免疫力、癒合腸道關節炎等 -- Dr Eric Berg](https://www.youtube.com/watch?v=SlzBMJvtGHo) 
+- [柏格醫生中文 健康知識](https://www.youtube.com/@drbergchinese/videos)  
+
 ## Glucose, INSULIN RESISTANCE & Metabolic Health
 
 - [Dr. Robert Lustig: How Sugar & Processed Foods Impact Your Health -- Andrew Huberman](https://www.youtube.com/watch?v=n28W4AmvMDE)  
