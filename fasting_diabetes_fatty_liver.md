@@ -148,7 +148,7 @@
 - [Why do we get Fat? (The Obesity Code Lecture Part 1) -- Dr Jason Fung](https://www.youtube.com/watch?v=YpllomiDMX0)  
 - [Hormones in Weight Loss (The Obesity Code Lecture part 2) -- Dr Jason Fung](https://www.youtube.com/watch?v=ZbnshVO4PRM)  
 - [Reversing Insulin Resistance (The Obesity Code Lecture part 3) -- Dr Jason Fung](https://www.youtube.com/watch?v=dimP7IdM2Og)  
-- [Fructose and Fasting (The Obesity Code Lecture 4) -- Dr Jason Fung](https://www.youtube.com/watch?v=pG89j432w-Y)  
+- [Fructose and Fasting (The Obesity Code Lecture Part 4) -- Dr Jason Fung](https://www.youtube.com/watch?v=pG89j432w-Y)  
 - [Diet and Disease (The Obesity Code Lecture part 5) -- Dr Jason Fung](https://www.youtube.com/watch?v=2yoOx_7MLn0)  
 - [Is Saturated Fat Bad? (Science says... No!) (The Obesity Code Lecture Part 6) -- Dr Jason Fung](https://www.youtube.com/watch?v=QetsIU-3k7Y)  
 - [Why Salt does NOT Increase Risk of Heart Disease -- Dr Jason Fung](https://www.youtube.com/watch?v=cZgTsFOppfM)  
