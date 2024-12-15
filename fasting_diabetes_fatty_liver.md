@@ -143,6 +143,32 @@
 - [生酮飲食常犯的3大錯誤 -- Dr Eric Berg](https://www.youtube.com/watch?v=RNfyAaQ0oM8)  
 - [柏格醫生中文 健康知識](https://www.youtube.com/@drbergchinese/videos)  
 
+## Intermittent Fasting
+
+- [Why do we get Fat? (The Obesity Code Lecture Part 1) -- Dr Jason Fung](https://www.youtube.com/watch?v=YpllomiDMX0)  
+- [Hormones in Weight Loss (The Obesity Code Lecture part 2) -- Dr Jason Fung](https://www.youtube.com/watch?v=ZbnshVO4PRM)  
+- [Reversing Insulin Resistance (The Obesity Code Lecture part 3) -- Dr Jason Fung](https://www.youtube.com/watch?v=dimP7IdM2Og)  
+- [Fructose and Fasting (The Obesity Code Lecture 4) -- Dr Jason Fung](https://www.youtube.com/watch?v=pG89j432w-Y)  
+- [Diet and Disease (The Obesity Code Lecture part 5) -- Dr Jason Fung](https://www.youtube.com/watch?v=2yoOx_7MLn0)  
+- [Is Saturated Fat Bad? (Science says... No!) (The Obesity Code Lecture Part 6) -- Dr Jason Fung](https://www.youtube.com/watch?v=QetsIU-3k7Y)  
+- [Why Salt does NOT Increase Risk of Heart Disease -- Dr Jason Fung](https://www.youtube.com/watch?v=cZgTsFOppfM)  
+- [Is Salt Actually Bad For You? -- Dr Jason Fung](https://www.youtube.com/watch?v=BIwhVshA1Nk)  
+- [Weight Loss Plateau (7 Quick Strategies to Break Through) -- Dr Jason Fung](https://www.youtube.com/watch?v=dRO5xSx1flw)  
+- [How to Reverse Fatty Liver Disease Naturally -- Dr Jason Fung](https://www.youtube.com/watch?v=_oBkdmsRu0Y)  
+- [Is The Keto Diet Healthy? (Saturated Fats) -- Dr Jason Fung](https://www.youtube.com/watch?v=s1l8Rq4ywQ8)  
+- [How to Lose Weight (Analysis of Carbs) -- Dr Jason Fung](https://www.youtube.com/watch?v=lwAksfOjf2w)  
+- [Top Intermittent Fasting Mistakes -- Dr Jason Fung](https://www.youtube.com/watch?v=1Gmyqs5bTbc)  
+- [The Ultimate Weight Loss Cause (Hormones vs. Calories) -- Dr Jason Fung](https://www.youtube.com/watch?v=wPGGOhsK29o)  
+- [Top Autophagy Benefits (Weight Loss) -- Dr Jason Fung](https://www.youtube.com/watch?v=XLj2Qu4SuNQ)  
+- [Top Intermittent Fasting Advantages -- Dr Jason Fung](https://www.youtube.com/watch?v=NonbgdrGNGo)  
+- [How to Break a Fast -- Dr Jason Fung](https://www.youtube.com/watch?v=PVJCdREj4Og)  
+- [Why You're Cutting Calories but NOT Losing Weight -- Dr Jason Fung](https://www.youtube.com/watch?v=iPNzwUY486A)  
+- [Intermittent Fasting reduces cardiac risk -- Dr Jason Fung](https://www.youtube.com/watch?v=eCKcdclqFnY)  
+- [How Vinegar Helps Weight Loss -- Dr Jason Fung](https://www.youtube.com/watch?v=Et0GY94ebBQ)  
+- [Why Fructose causes insulin resistance -- Dr Jason Fung](https://www.youtube.com/watch?v=lV4eckv8bQQ)  
+- [What causes Insulin Resistance? -- Dr Jason Fung](https://www.youtube.com/watch?v=CRzPdhO6HOM)  
+- [Insulin Blocks Fat Burning - The Key to Weight Loss -- Dr Jason Fung](https://www.youtube.com/watch?v=Y92SE4j_m50)  
+
 ## Glucose, INSULIN RESISTANCE & Metabolic Health
 
 - [Dr. Robert Lustig: How Sugar & Processed Foods Impact Your Health -- Andrew Huberman](https://www.youtube.com/watch?v=n28W4AmvMDE)  
