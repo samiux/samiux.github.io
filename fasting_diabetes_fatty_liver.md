@@ -170,6 +170,7 @@
 - [What causes Insulin Resistance? -- Dr Jason Fung](https://www.youtube.com/watch?v=CRzPdhO6HOM)  
 - [Insulin Blocks Fat Burning - The Key to Weight Loss -- Dr Jason Fung](https://www.youtube.com/watch?v=Y92SE4j_m50)  
 - [Exercise while Fasting - How to time your workouts with fasting -- Jason Fung](https://www.youtube.com/watch?v=Hun9pmORChw)
+- [Intermittent Fasting - Busting the Myths Lecture -- Dr Jason Fung](https://www.youtube.com/watch?v=S8AsjlM-nwI)  
 
 ## Glucose, INSULIN RESISTANCE & Metabolic Health
 
