@@ -172,6 +172,8 @@
 - [Exercise while Fasting - How to time your workouts with fasting -- Dr Jason Fung](https://www.youtube.com/watch?v=Hun9pmORChw)
 - [Intermittent Fasting - Busting the Myths Lecture -- Dr Jason Fung](https://www.youtube.com/watch?v=S8AsjlM-nwI)  
 - [Exercise Doesn't Make You Lose Weight! -- Dr Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)  
+- [How to Burn Belly Fat EXTREMELY Fast with Dr. Berg's 5 Expert Tips - Dr Eric Berg](https://www.youtube.com/watch?v=Xc34u7wmCIE)  
+- [Dr. Berg's Healthy Keto® Diet Plan - Intermittent Fasting and Fat Burning -- Dr Eric Berg](https://www.youtube.com/watch?v=vMZfyEy_jpI&list=PLVLP-bhbxACaX7DOMjU7352UIer1WHhdw)  
 
 ## Glucose, INSULIN RESISTANCE & Metabolic Health
 
