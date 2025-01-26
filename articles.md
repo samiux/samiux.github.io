@@ -12,6 +12,11 @@
 - [知彼知己 (資安編)](/know_your_enemies.md)
 - [軍事演習 (資安編)](/military_exercises.md)
 
+## 2025 最新防騙攻略
+
+- [訊不對等係受騙關鍵？點樣可以避免成為囊中物？ -- Lorey快閃講](https://www.youtube.com/watch?v=Y8NuSSwebw8)  
+- [2025 最新防騙攻略懶人包！ -- Lorey快閃講](https://www.youtube.com/watch?v=_1pSyjSYWLY)  
+
 ## InfoSec  
 
 ### Red Team
