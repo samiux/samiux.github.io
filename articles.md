@@ -156,6 +156,10 @@
 - [Realtime Kernel for Ubuntu 24.04 LTS](/realtime_kernel.md)  
 - [AMD Graphics Cards Open Source Driver by AMD](/amdgpu-install.md)  
 
+### DeepSeek and LLM
+
+- [DeepSeek R1 Distill Deployment](/deepseek-r1.md)  
+
 ### Pentesting
 
 - [Basic Buffer Overflow Exploit Made Easy](/bof_make_easy.md)
