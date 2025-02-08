@@ -158,7 +158,7 @@
 
 ### DeepSeek and LLM
 
-- [DeepSeek R1 Distill Deployment](/deepseek-r1.md)  
+- [DeepSeek R1 Distill Deployment on Ubuntu 24.04 LTS](/deepseek-r1.md)  
 
 ### Pentesting
 
