@@ -109,7 +109,7 @@ sudo chown root:root ~/AnythingLLMDesktop/anythingllm-desktop/chrome-sandbox
 sudo chmod 4755 ~/AnythingLLMDesktop/anythingllm-desktop/chrome-sandbox
 ```
 
-To run the front end :
+To run the frontend :
 
 ```
 ./AnythingLLMDesktop/start
