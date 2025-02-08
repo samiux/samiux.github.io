@@ -90,7 +90,7 @@ sudo docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backe
 sudo docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 ```
 
-Once "With Login" is implemented, you are very hard to disable it unless you re-install Docker, Ollama and Open WebUI.
+Once ```With Login``` is implemented, you are very hard to disable it unless you re-install Docker, Ollama and Open WebUI.
 
 Once Open WebUI installed, you can access the frontend by going to :
 
