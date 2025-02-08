@@ -1,4 +1,4 @@
-# DeepSeek R1 Distill Deployment
+# DeepSeek R1 Distill Deployment on Ubuntu 24.04 LTS
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
