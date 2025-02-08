@@ -125,7 +125,10 @@ Install PocketPal AI from the Google Play Store or Apple Store and import models
 
 - [DeepSeek Official Site](https://www.deepseek.com/)  
 - [DeepSeek GitHub](https://github.com/deepseek-ai/DeepSeek-R1)  
-- [Ollama Official Site](https://ollama.com/)  
+- [Ollama Official Site](https://ollama.com/)
+- [Open WebUI Official Site](https://openwebui.com/)  
+- [Open WebUI GitHub](https://github.com/open-webui/open-webui)  
+- [Huggingface - bartowski](https://huggingface.co/bartowski)  
 - [Anything LLM Desktop](https://anythingllm.com/desktop)  
 - [PocketPal AI Google Play Store](https://play.google.com/store/apps/details?id=com.pocketpalai)  
 - [PocketPal AI GitHub](https://github.com/a-ghorbani/pocketpal-ai)  
