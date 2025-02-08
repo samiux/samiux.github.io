@@ -68,7 +68,7 @@ sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-
 sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF:Q4_0
 ```
 
-### Multi-core CPU and 32GB RAM
+### Multi-core CPU and 64GB RAM
 
 ```
 sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q4_0
