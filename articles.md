@@ -159,6 +159,8 @@
 ### DeepSeek and LLM
 
 - [DeepSeek R1 Distill Deployment on Ubuntu 24.04 LTS](/deepseek-r1.md)  
+- [DeepSeek彎路炒車！？違法抄襲？準備被告？拆解美國科技界的震撼彈！ -- 沖出黎講](https://www.youtube.com/watch?v=zCSxUDelZXM)  
+- [詳解DeepSeek憑什麼打贏美國AI巨頭：廉價、高效LLM證明拜登、特朗普「都錯了」？ -- Jack Talk](https://www.youtube.com/watch?v=aXaWJeNAwF8)  
 
 ### Pentesting
 
