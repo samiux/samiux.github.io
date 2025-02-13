@@ -127,4 +127,6 @@
 
 通过以上措施，用户可以最大限度降低风险，安全利用 AI 技术提升效率，同时规避潜在隐患。
 
+**注意：以上内容由 DeepSeek R1 生成。**
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
