@@ -53,6 +53,7 @@
 - [除暴安良系列 (二) -- 虚拟服务器](/defense_02_vps.md)   
 - [可能正受到攻击!](/under_attack.md)  
 - [WPA3 降級漏洞防禦策略](/wpa3_downgrade.md)   
+- [防御零日漏洞的利用](/0day.md)  
 
 ### Hacker
 
