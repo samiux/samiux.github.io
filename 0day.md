@@ -45,7 +45,7 @@
 
 3. **入侵检测系统 (IDS/IPS)**  
 
-   - 配置基于行为的规则（如 Suricata、Snort），检测异常流量（如C2通信）。
+   - 配置基于行为的规则（如 Suricata、Snort），检测异常流量（如 C2 通信）。
 
 4. **欺骗技术 (Deception Technology)**  
 
