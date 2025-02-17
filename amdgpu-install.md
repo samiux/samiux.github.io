@@ -22,23 +22,33 @@ For Ubuntu, it supports 24.04.1 HWE and 22.04.5 HWE Kernel at the time of this w
 
 Made sure your APT Ubuntu Source supports to install i386 libraries.
 
-For example, 24.04.1 HWE version driver is downloaded from  ```https://repo.radeon.com/amdgpu-install/6.2.3/ubuntu/noble/amdgpu-install_6.2.60203-1_all.deb```
+For example, 24.04.1 HWE version driver is downloaded from :
+
+```
+wget https://repo.radeon.com/amdgpu-install/6.3.2/ubuntu/noble/amdgpu-install_6.3.60302-1_all.deb
+```
 
 Install :
 
 ```
-sudo dpkg -i amdgpu-install_6.2.60203-1_all.deb
-sudo amdgpu-install
+sudo dpkg -i amdgpu-install_6.3.60302-1_all.deb
+sudo amdgpu-install -usecase=graphics,rocm,dkms
+```
+
+```
+sudo usermod -a -G render,video $LOGNAME
 ```
 
 If the driver is installed successfully, reboot your system.
 
 Samiux  
 October 17, 2024, Hong Kong, China  
+Updated Feburary 17, 2025, Hong Kong, China  
 
 ## REFERENCE
 
 - [Linux® Drivers for AMD Radeon™ Graphics](https://www.amd.com/en/support/download/linux-drivers.html)  
 - [Radeon™ Software for Linux® Installation](https://amdgpu-install.readthedocs.io/en/latest/)  
+- [AMD Radeon™ Graphics ROCm Driver Official Installation Guide](https://rocm.docs.amd.com/projects/radeon/en/latest/docs/install/native_linux/install-radeon.html)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
