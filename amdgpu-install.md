@@ -41,6 +41,14 @@ sudo usermod -a -G render,video $LOGNAME
 
 If the driver is installed successfully, reboot your system.
 
+Install monitoring tool :
+
+```
+sudo apt install radeontop
+
+sudo radeontop -c
+```
+
 Samiux  
 October 17, 2024, Hong Kong, China  
 Updated Feburary 17, 2025, Hong Kong, China  
