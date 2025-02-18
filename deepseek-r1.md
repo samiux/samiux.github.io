@@ -42,6 +42,8 @@ sudo docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name olla
 
 ### AMD Display Card only
 
+You need to install ROCm driver beforehand.
+
 ```
 sudo docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama -p 11434:11434 --name ollama --restart always ollama/ollama:rocm
 ```
