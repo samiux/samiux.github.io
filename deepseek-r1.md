@@ -98,24 +98,29 @@ Once Open WebUI installed, you can access the frontend by going to :
 http://localhost:3000
 ```
 
-## 06 Install AnythingLLMDesktop (Optional)
-
-Install and Update :
+## 06 Install AnythingLLM (Optional)
 
 ```
-curl -fsSL https://cdn.anythingllm.com/latest/installer.sh | sh
+sudo docker pull mintplexlabs/anythingllm
 
-sudo chown root:root ~/AnythingLLMDesktop/anythingllm-desktop/chrome-sandbox
-sudo chmod 4755 ~/AnythingLLMDesktop/anythingllm-desktop/chrome-sandbox
+export STORAGE_LOCATION=$HOME/anythingllm && \
+mkdir -p $STORAGE_LOCATION && \
+touch "$STORAGE_LOCATION/.env" && \
+
+sudo docker run -d -p 3001:3001 \
+--cap-add SYS_ADMIN \
+-v ${STORAGE_LOCATION}:/app/server/storage \
+-v ${STORAGE_LOCATION}/.env:/app/server/.env \
+-e STORAGE_DIR="/app/server/storage" \
+--restart always \
+mintplexlabs/anythingllm
 ```
 
 To run the frontend :
 
 ```
-./AnythingLLMDesktop/start
+http://localhost:3001
 ```
-
-Make sure ```http://127.0.0.1:11434``` is registered and LLM is/are displayed.
 
 ## 07 Mobile Phone (Optional)
 
