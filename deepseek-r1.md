@@ -104,11 +104,11 @@ http://localhost:3000
 
 ```
 sudo docker pull mintplexlabs/anythingllm
-
+```
+```
 export STORAGE_LOCATION=$HOME/anythingllm && \
 mkdir -p $STORAGE_LOCATION && \
 touch "$STORAGE_LOCATION/.env" && \
-
 sudo docker run -d -p 3001:3001 \
 --cap-add SYS_ADMIN \
 -v ${STORAGE_LOCATION}:/app/server/storage \
