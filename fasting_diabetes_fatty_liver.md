@@ -70,6 +70,7 @@
 - [逆轉脂肪肝 必須戒3食物 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=EWpXGCqM4Xg)  
 - [食飽飯好眼瞓 竟然是身體警號 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=H3y3c6cnVh0)  
 - [168斷食最精簡整合 -- 健康嗎 Health Code](https://www.youtube.com/watch?v=de1FNqBrRwQ)  
+- [脂肪肝易變癌 飲食次序影響吸收？ -- 健康嗎 Health Code](https://www.youtube.com/watch?v=hgPjBdTn8RM)  
 
 ## 逆轉糖尿病秘訣
 
