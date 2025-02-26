@@ -91,6 +91,8 @@ sudo docker exec -it ollama ollama pull deepseek-r1:8b
 Set up Python Virtualenv that does not mess up with the original OS.
 
 ```
+sudo apt install python3-virtualenv
+
 virtualenv -p python3 venv
 source venv/bin/activate
 ```
