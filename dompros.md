@@ -127,6 +127,34 @@ Run the following command and follows the instruction on the screen.
 ./dompros.py
 ```
 
+```
+[+] Ollama is ready!
+
+    ▓█████▄  ▒█████   ███▄ ▄███▓ ██▓███   ██▀███   ▒█████   ██████ 
+    ▒██▀ ██▌▒██▒  ██▒▓██▒▀█▀ ██▒▓██░  ██▒▓██ ▒ ██▒▒██▒  ██▒▒██    ▒ 
+    ░██   █▌▒██░  ██▒▓██    ▓██░▓██░ ██▓▒▓██ ░▄█ ▒▒██░  ██▒░ ▓██▄   
+    ░▓█▄   ▌▒██   ██░▒██    ▒██ ▒██▄█▓▒ ▒▒██▀▀█▄  ▒██   ██░  ▒   ██▒
+    ░▒████▓ ░ ████▓▒░▒██▒   ░██▒▒██▒ ░  ░░██▓ ▒██▒░ ████▓▒░▒██████▒▒
+     ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒░   ░  ░▒▓▒░ ░  ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░
+     ░ ▒  ▒   ░ ▒ ▒░ ░  ░      ░░▒ ░       ░▒ ░ ▒░  ░ ▒ ▒░ ░ ░▒  ░ ░
+     ░ ░  ░ ░ ░ ░ ▒  ░      ░   ░░         ░░   ░ ░ ░ ░ ▒  ░  ░  ░  
+       ░        ░ ░         ░               ░         ░ ░        ░  
+    
+	AI-Powered Penetration Testing Assistant
+	DOMPROS Version 1.0 | Copyright DeepSeek R1
+	Dated Feb 26, 2025
+
+
+Main Menu:
+1. Search Exploit Procedure
+2. Analyze Findings
+3. Brainstorm Problem
+4. Suggest Tools
+0. Exit
+
+[?] Enter your choice (0-4): 
+```
+
 The ```pentest_assistant.log``` can be found at the current directory.
 
 ## Configuration
