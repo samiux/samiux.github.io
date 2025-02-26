@@ -7,6 +7,10 @@
 - [威龙  Weilong - Intrusion Detection and Prevention System](/weilong_en.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
 
+## Offensive & Defensive
+
+- [DOMPROS - AI-Powered Penetration Testing Assistant](/dompros.md)  
+
 ## Others
 
 - [MGRS Locator 军用座标定位](/mgrs.md)  
