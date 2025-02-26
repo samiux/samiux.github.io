@@ -47,6 +47,12 @@ sudo apt-get install docker-ce
 ### 0x02 Docker on Ubuntu 24.04 LTS
 
 ```
+sudo snap install docker
+```
+
+or
+
+```
 sudo install -m 0755 -d /etc/apt/keyrings
 
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
