@@ -124,7 +124,15 @@ chmod +x dompros.py
 Run the following command and follows the instruction on the screen.
 
 ```
-./dompros.py
+source venv/bin/activate
+
+./dompros/dompros.py
+```
+
+Quit :
+
+```
+deactivate
 ```
 
 ```
