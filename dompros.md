@@ -97,6 +97,8 @@ DeepSeek-R1-Distill-Llama-8B
 sudo docker exec -it ollama ollama pull deepseek-r1:8b
 ```
 
+You can choose from 1.5B, 7B/8B, 14B, 32B and 70B, the larger number the more RAM you required.  For example, 7B/8B needs 8GB RAM, while 14B requires 16GB RAM.
+
 ### 0x05 DOMPROS
 
 Set up Python Virtualenv that does not mess up with the original OS.
