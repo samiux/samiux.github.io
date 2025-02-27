@@ -22,7 +22,7 @@ You can use any LLM (Large Language Model) in the market while it is running on 
 
 ## Installation
 
-### 0x01 Docker on Kali Linux v2024.4
+### 0x01 Docker on Kali Linux 2024.4
 
 ```
 sudo apt-get update
@@ -160,6 +160,10 @@ The ```pentest_assistant.log``` can be found at the current directory.
 ## Configuration
 
 You can either use ```deepseek-r1:7b (DeepSeek-R1-Distill-Qwen-7B)``` or ```deepseek-r1:8b (DeepSeek-R1-Distill-Llama-8B)``` by modifiy the ```MODEL``` at ```dompros.py```.  Default is using ```deepseek-r1:7b (DeepSeek-R1-Distill-Qwen-7B)```.
+
+## ChangeLog
+
+Version 1.0.0 - Feb 26, 2025 First release.
 
 ## License
 
