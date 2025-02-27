@@ -176,7 +176,7 @@ Version 1.0.1 - Feb 28, 2025 Enhanced the "Search Exploit Procedure".
 
 ## Known Issues
 
-- It may provide the answer in Chinese or with some Chinese characters when it read some Chinese content websites or refers to a Chinese website. 
+- It may response in Chinese or with some Chinese characters when it read some Chinese content websites or refers to a Chinese website. 
 
 ## License
 
