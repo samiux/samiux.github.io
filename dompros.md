@@ -183,7 +183,7 @@ Version 1.0.1 - Feb 28, 2025 Enhanced the "Search Exploit Procedure" and some mi
 
 ## Known Issues
 
-- It may response in Chinese or with some Chinese characters when it read some Chinese content websites or refers to a Chinese website even you ask in English. 
+- It may response in Chinese or with some Chinese characters when it read some Chinese content websites or refers to a Chinese website even you ask in English when 1.5B/7B/8B is used.  
 
 ## License
 
