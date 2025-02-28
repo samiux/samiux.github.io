@@ -152,7 +152,7 @@ deactivate
        ░        ░ ░         ░               ░         ░ ░        ░  
     
 	AI-Powered Penetration Testing Assistant
-	DOMPROS Version 1.0.1 | Copyright DeepSeek R1
+	DOMPROS Version 1.0.1 | Copyright DeepSeek R1 & Samiux
 	Dated Feb 28, 2025
 
 
