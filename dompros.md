@@ -195,6 +195,7 @@ Feburary 26, 2025, Hong Kong, China
 - [DeepSeek Github](https://github.com/deepseek-ai)  
 - [Ollama](https://ollama.com/)  
 - [Ollama Github](https://github.com/ollama/ollama)  
+- [How to use advanced syntax on DuckDuckGo Search](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
