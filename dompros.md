@@ -151,7 +151,7 @@ deactivate
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
     DOMPROS - AI-Powered Penetration Testing Assistant
-    Version 0.0.3 | MIT License | Secure your systems!
+    Version 0.0.4 | MIT License | Secure your systems!
     by DeepSeek R1 and Samiux
     Dated Mar 01, 2025
 
@@ -178,6 +178,7 @@ You can use ```deepseek-r1:7b (DeepSeek-R1-Distill-Qwen-7B)``` or ```deepseek-r1
 Version 0.0.1 - Feb 26, 2025 First release.  
 Version 0.0.2 - Feb 28, 2025 Enhancement and some minor changes.  
 Version 0.0.3 - Mar 01, 2025 Re-designed.  New release.
+Version 0.0.4 - Mar 01, 2025 Modified for streaming.
 
 ## License
 
