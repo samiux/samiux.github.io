@@ -109,7 +109,7 @@ source venv/bin/activate
 Install dependencies
 
 ```
-pip3 install colorama requests duckduckgo_search
+pip3 install colorama requests duckduckgo_search prompt_toolkit
 ```
 
 Install DOMPROS
@@ -139,31 +139,32 @@ deactivate
 ```
 
 ```
-[+] Ollama is ready!
-
-    ▓█████▄  ▒█████   ███▄ ▄███▓ ██▓███   ██▀███   ▒█████   ██████ 
-    ▒██▀ ██▌▒██▒  ██▒▓██▒▀█▀ ██▒▓██░  ██▒▓██ ▒ ██▒▒██▒  ██▒▒██    ▒ 
-    ░██   █▌▒██░  ██▒▓██    ▓██░▓██░ ██▓▒▓██ ░▄█ ▒▒██░  ██▒░ ▓██▄   
-    ░▓█▄   ▌▒██   ██░▒██    ▒██ ▒██▄█▓▒ ▒▒██▀▀█▄  ▒██   ██░  ▒   ██▒
-    ░▒████▓ ░ ████▓▒░▒██▒   ░██▒▒██▒ ░  ░░██▓ ▒██▒░ ████▓▒░▒██████▒▒
-     ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒░   ░  ░▒▓▒░ ░  ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░
-     ░ ▒  ▒   ░ ▒ ▒░ ░  ░      ░░▒ ░       ░▒ ░ ▒░  ░ ▒ ▒░ ░ ░▒  ░ ░
-     ░ ░  ░ ░ ░ ░ ▒  ░      ░   ░░         ░░   ░ ░ ░ ░ ▒  ░  ░  ░  
-       ░        ░ ░         ░               ░         ░ ░        ░  
-    
-	AI-Powered Penetration Testing Assistant
-	DOMPROS Version 0.0.2 | Copyright DeepSeek R1 & Samiux
-	Dated Feb 28, 2025
+[+] Ollama service: RUNNING
+[+] deepseek-r1:7b: LOADING
 
 
-Main Menu:
-1. Search Exploit Procedure
-2. Analyze Findings
-3. Brainstorm Problem
-4. Suggest Tools
-0. Exit
+██████╗  ██████╗ ███╗   ███╗██████╗ ██████╗  ██████╗ ███████╗
+██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔═══██╗██╔════╝
+██║  ██║██║   ██║██╔████╔██║██████╔╝██████╔╝██║   ██║███████╗
+██║  ██║██║   ██║██║╚██╔╝██║██╔═══╝ ██╔══██╗██║   ██║╚════██║
+██████╔╝╚██████╔╝██║ ╚═╝ ██║██║     ██║  ██║╚██████╔╝███████║
+╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-[?] Enter your choice (0-4): 
+    DOMPROS - AI-Powered Penetration Testing Assistant
+    Version 0.0.3 | MIT License | Secure your systems!
+    by DeepSeek R1 and Samiux
+    Dated Mar 01, 2025
+
+Available commands:
+  search <query>     - Search for vulnerabilities
+  analyze            - Analyze security findings
+  brainstorm         - Generate attack ideas
+  suggest <category> - Get tool recommendations
+  help               - Get help
+  exit               - Quit the program
+
+ 
+pentest> .
 ```
 
 The ```pentest_assistant.log``` can be found at the current directory.
@@ -176,6 +177,7 @@ You can use ```deepseek-r1:7b (DeepSeek-R1-Distill-Qwen-7B)``` or ```deepseek-r1
 
 Version 0.0.1 - Feb 26, 2025 First release.  
 Version 0.0.2 - Feb 28, 2025 Enhancement and some minor changes.  
+Version 0.0.3 - Mar 01, 2025 Re-designed.  New release.
 
 ## License
 
@@ -193,4 +195,3 @@ Feburary 26, 2025, Hong Kong, China
 - [Ollama Github](https://github.com/ollama/ollama)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
-
