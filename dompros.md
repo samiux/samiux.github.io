@@ -151,7 +151,7 @@ deactivate
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
     DOMPROS - AI-Powered Penetration Testing Assistant
-    Version 0.0.6 | MIT License | Secure your systems!
+    Version 0.0.7 | MIT License | Secure your systems!
     by DeepSeek R1 and Samiux
     Dated Mar 02, 2025
 
@@ -181,6 +181,7 @@ Version 0.0.3 - Mar 01, 2025 Re-designed.  New release.
 Version 0.0.4 - Mar 01, 2025 Modified for streaming.  
 Version 0.0.5 - Mar 01, 2025 Minor bugs fixed.  
 Version 0.0.6 - Mar 02, 2025 Minor bugs fixed.  
+Version 0.0.7 - Mar 02, 2025 Enhancement.  
 
 ## License
 
