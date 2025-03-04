@@ -140,7 +140,6 @@ deactivate
 
 ```
 
-
 ██████╗  ██████╗ ███╗   ███╗██████╗ ██████╗  ██████╗ ███████╗
 ██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔═══██╗██╔════╝
 ██║  ██║██║   ██║██╔████╔██║██████╔╝██████╔╝██║   ██║███████╗
@@ -149,18 +148,34 @@ deactivate
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
     DOMPROS - AI-Powered Penetration Testing Assistant
-    Version 0.0.10 | MIT License | Secure your systems!
+    Version 0.0.12 | MIT License | Secure your systems!
     by DeepSeek R1 and Samiux
-    Dated Mar 03, 2025
+    Dated Mar 05, 2025
 
-Start chatting naturally or use commands:
-  search <query>  - Security research
-  analyze         - Analyze findings
-  brainstorm      - Generate attack ideas
-  tools <query>   - Tool recommendations
-  help            - Show commands
-  exit            - Quit program
 
+[ Command Reference ]
+
+Core Commands
+  search <query>    - Security research with DuckDuckGo
+  analyze           - Analyze security findings
+  brainstorm        - Generate attack ideas
+  tools <query>     - Tool recommendations
+  shelldb [category]- Show stored commands/payloads
+
+Shell Database Categories
+  webshells         - Executes system commands via GET parameters commands
+  reverse_shells    - Python reverse shell connecting to attacker's IP:PORT commands
+  linux_priv_esc    - Find SUID binaries for privilege escalation commands
+  windows_priv_esc  - Find services with weak permissions commands
+  tunneling         - Port forwarding through firewall commands
+  payload_generators- Generate Linux reverse shell payload commands
+
+Utility Commands
+  help              - Show this help menu
+  exit              - Exit the program
+
+Example: shelldb reverse_shells
+         search 'apache struts vulnerability'
  
 You: 
 
@@ -183,6 +198,7 @@ Version 0.0.6 - Mar 02, 2025 Minor bugs fixed.
 Version 0.0.7 - Mar 02, 2025 Enhancement.  
 Version 0.0.10 - Mar 03, 2025 Re-designed.  New release.  
 Version 0.0.11 - Mar 04, 2025 Enhancement.  
+Version 0.0.12 - Mar 05, 2025 Bug fixed.  
 
 ## License
 
@@ -198,6 +214,7 @@ Feburary 26, 2025, Hong Kong, China
 - [DeepSeek Github](https://github.com/deepseek-ai)  
 - [Ollama](https://ollama.com/)  
 - [Ollama Github](https://github.com/ollama/ollama)  
-- [DeepSeek R1 Distill Deployment on Ubuntu 24.04 LTS](/deepseek-r1.md)  
+- [DeepSeek R1 Distill Deployment on Ubuntu 24.04 LTS](https://samiux.github.io/deepseek-r1.html)
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
