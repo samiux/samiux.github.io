@@ -6,7 +6,7 @@
 
 ### What is DeepSeek R1?
 
-DeepSeek-R1 is an AI model developed by Chinese artificial intelligence startup DeepSeek. Released in 20th January 2025, R1 holds its own against (and in some cases surpasses) the reasoning capabilities of some of the world’s most advanced foundation models — but at a fraction of the operating cost, according to the company. R1 is also open sourced under an MIT license, allowing free commercial and academic use.
+DeepSeek-R1 is an AI model developed by Chinese artificial intelligence startup DeepSeek. Released on 20th January 2025, R1 holds its own against (and in some cases surpasses) the reasoning capabilities of some of the world’s most advanced foundation models — but at a fraction of the operating cost, according to the company. R1 is also open sourced under an MIT license, allowing free commercial and academic use.
 
 There are three key ideas behind DeepSeek R1:
 
