@@ -117,9 +117,6 @@ Install DOMPROS
 ```
 git clone https://github.com/samiux/dompros
 
-cd dompros
-
-chmod +x dompros.py
 ```
 
 ## Run
@@ -129,7 +126,7 @@ Run the following command and follows the instruction on the screen.
 ```
 source venv/bin/activate
 
-./dompros/dompros.py
+python ~/dompros/dompros.py
 ```
 
 Quit :
