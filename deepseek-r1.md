@@ -83,13 +83,13 @@ When the model is imported, you can try to interactive with the model.  To quit 
 ### Without Login
 
 ```
-sudo docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data -e WEBUI_AUTH=False --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
+sudo docker run -d --network=host -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data -e WEBUI_AUTH=False --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 ```
 
 ### With Login
 
 ```
-sudo docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
+sudo docker run -d --network=host -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 ```
 
 Once ```With Login``` is implemented, you are very hard to disable it unless you re-install Docker, Ollama and Open WebUI.
@@ -109,7 +109,7 @@ sudo docker pull mintplexlabs/anythingllm
 export STORAGE_LOCATION=$HOME/anythingllm && \
 mkdir -p $STORAGE_LOCATION && \
 touch "$STORAGE_LOCATION/.env" && \
-sudo docker run -d -p 3001:3001 \
+sudo docker run -d --network=host -p 3001:3001 \
 --cap-add SYS_ADMIN \
 -v ${STORAGE_LOCATION}:/app/server/storage \
 -v ${STORAGE_LOCATION}/.env:/app/server/.env \
