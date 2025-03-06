@@ -37,7 +37,7 @@ sudo docker run -d -v ollama:/root/.ollama --network=host -p 11434:11434 --name 
 ### NVIDIA Display Card only
 
 ```
-sudo docker run -d --gpus=all -v ollama:/root/.ollama --network=host -p 11434:11434 --name ollama --restart always ollama/ollama
+sudo docker run -d --gpus=all -v ollama:/root/.ollama --network=host -p 11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama
 ```
 
 ### AMD Display Card only
