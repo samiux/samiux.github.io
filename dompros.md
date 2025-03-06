@@ -184,6 +184,8 @@ The logs are inside ```logs``` directory which can be found at the current direc
 
 You can use ```deepseek-r1:7b (DeepSeek-R1-Distill-Qwen-7B)``` or ```deepseek-r1:14b (DeepSeek-R1-Distill-Qwen-14B)``` or ```deepseek-r1:8b (DeepSeek-R1-Distill-Llama-8B)``` by modifiy the ```MODEL_NAME``` at ```dompros.py```.  Default is using ```deepseek-r1:7b (DeepSeek-R1-Distill-Qwen-7B)```.
 
+If you are using 14B or above, you may consider to change ```TEMPERATURE``` to ```0.6```.  The default value of ```TEMPERATURE``` for 7B is ```0.7```.  
+
 ## ChangeLog
 
 Version 0.0.1 - Feb 26, 2025 First release.  
