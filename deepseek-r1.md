@@ -45,7 +45,7 @@ sudo docker run -d --gpus=all -v ollama:/root/.ollama --network=host -p 11434:11
 You need to install ROCm driver beforehand.
 
 ```
-sudo docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama --network=host -p 11434:11434 --name ollama --restart always ollama/ollama:rocm
+sudo docker run -d -v ollama:/root/.ollama --network=host -p 11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 --name ollama --restart always ollama/ollama:rocm
 ```
 
 ## 04 Import DeepSeek R1 Distill Models
@@ -139,5 +139,7 @@ Install PocketPal AI from the Google Play Store or Apple Store and import models
 - [Anything LLM Desktop](https://anythingllm.com/desktop)  
 - [PocketPal AI Google Play Store](https://play.google.com/store/apps/details?id=com.pocketpalai)  
 - [PocketPal AI GitHub](https://github.com/a-ghorbani/pocketpal-ai)  
+- [ROCm on Linux detailed installation overview](https://rocm.docs.amd.com/projects/install-on-linux/en/latest/install/detailed-install.html)  
+- [Custom Flags for Ollama in Docker Needed with Rocm 6.2?](https://community.amd.com/t5/ai-discussions/custom-flags-for-ollama-in-docker-needed-with-rocm-6-2/m-p/717031)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
