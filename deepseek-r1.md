@@ -161,5 +161,6 @@ Mar 06, 2025, Hong Kong, China
 - [PocketPal AI GitHub](https://github.com/a-ghorbani/pocketpal-ai)  
 - [ROCm on Linux detailed installation overview](https://rocm.docs.amd.com/projects/install-on-linux/en/latest/install/detailed-install.html)  
 - [Custom Flags for Ollama in Docker Needed with Rocm 6.2?](https://community.amd.com/t5/ai-discussions/custom-flags-for-ollama-in-docker-needed-with-rocm-6-2/m-p/717031)  
+- [Docker cleanup: How to remove Images, containers, and volumes](https://middleware.io/blog/docker-cleanup/)  
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
