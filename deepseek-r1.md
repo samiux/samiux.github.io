@@ -118,7 +118,7 @@ http://localhost:3001
 
 ## 06 Install Open WebUI (Optional)  
 
-The port 3000 is opened for all and it is not recommended due to security matter.  
+The port 3000 is opened for all and it is not recommended due to security concern.  
 
 ### Without Login
 
