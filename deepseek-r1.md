@@ -55,28 +55,42 @@ The followings are 4bit models.
 ### Multi-core CPU and 8GB RAM
 
 ```
-sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:Q4_0
+sudo docker exec -it ollama ollama pull deepseek-r1:1.5b
+
+or
+
+sudo docker exec -it ollama ollama pull hf.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:Q4_0
 ```
 
 ### Multi-core CPU and 16GB RAM
 
 ```
-sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF:Q4_0
+sudo docker exec -it ollama ollama pull deepseek-r1:7b
+
+or
+
+sudo docker exec -it ollama ollama pull hf.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF:Q4_0
 ```
 
 ### Multi-core CPU and 32GB RAM
 
 ```
-sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF:Q4_0
+sudo docker exec -it ollama ollama pull deepseek-r1:14b
+
+or
+
+sudo docker exec -it ollama ollama pull hf.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF:Q4_0
 ```
 
 ### Multi-core CPU and 64GB RAM
 
 ```
-sudo docker exec -it ollama ollama run hf.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q4_0
-```
+sudo docker exec -it ollama ollama pull deepseek-r1:32b
 
-When the model is imported, you can try to interactive with the model.  To quit is to enter ```/bye```.
+or
+
+sudo docker exec -it ollama ollama pull hf.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q4_0
+```
 
 ## 05 Install Open WebUI
 
