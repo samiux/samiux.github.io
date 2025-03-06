@@ -97,13 +97,13 @@ sudo docker exec -it ollama ollama pull hf.co/bartowski/DeepSeek-R1-Distill-Qwen
 ### Without Login
 
 ```
-sudo docker run -d --network=host -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data -e WEBUI_AUTH=False --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
+sudo docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data -e WEBUI_AUTH=False --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 ```
 
 ### With Login
 
 ```
-sudo docker run -d --network=host -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
+sudo docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 ```
 
 Once ```With Login``` is implemented, you are very hard to disable it unless you re-install Docker, Ollama and Open WebUI.
