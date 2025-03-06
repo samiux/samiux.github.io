@@ -92,7 +92,31 @@ or
 sudo docker exec -it ollama ollama pull hf.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q4_0
 ```
 
-## 05 Install Open WebUI
+## 05 Install AnythingLLM
+
+```
+sudo docker pull mintplexlabs/anythingllm
+```
+```
+export STORAGE_LOCATION=$HOME/anythingllm && \
+mkdir -p $STORAGE_LOCATION && \
+touch "$STORAGE_LOCATION/.env" && \
+sudo docker run -d --network=host -p 3001:3001 \
+--cap-add SYS_ADMIN \
+-v ${STORAGE_LOCATION}:/app/server/storage \
+-v ${STORAGE_LOCATION}/.env:/app/server/.env \
+-e STORAGE_DIR="/app/server/storage" \
+--restart always \
+mintplexlabs/anythingllm
+```
+
+To run the frontend :
+
+```
+http://localhost:3001
+```
+
+## 06 Install Open WebUI (Optional)  
 
 ### Without Login
 
@@ -112,30 +136,6 @@ Once Open WebUI installed, you can access the frontend by going to :
 
 ```
 http://localhost:3000
-```
-
-## 06 Install AnythingLLM (Optional)
-
-```
-sudo docker pull mintplexlabs/anythingllm
-```
-```
-export STORAGE_LOCATION=$HOME/anythingllm && \
-mkdir -p $STORAGE_LOCATION && \
-touch "$STORAGE_LOCATION/.env" && \
-sudo docker run -d -p 3001:3001 \
---cap-add SYS_ADMIN \
--v ${STORAGE_LOCATION}:/app/server/storage \
--v ${STORAGE_LOCATION}/.env:/app/server/.env \
--e STORAGE_DIR="/app/server/storage" \
---restart always \
-mintplexlabs/anythingllm
-```
-
-To run the frontend :
-
-```
-http://localhost:3001
 ```
 
 ## 07 Mobile Phone (Optional)
