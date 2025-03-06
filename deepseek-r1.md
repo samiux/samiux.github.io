@@ -142,6 +142,10 @@ http://localhost:3001
 
 Install PocketPal AI from the Google Play Store or Apple Store and import models to the phone.  Make sure use 1.5b or 7b/8b depends on the amount of RAM on your phone.
 
+Samiux  
+OSCE  OSCP  OSWP  
+Mar 06, 2025, Hong Kong, China  
+
 ## Reference
 
 - [DeepSeek Official Site](https://www.deepseek.com/)  
