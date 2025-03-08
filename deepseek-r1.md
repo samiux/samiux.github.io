@@ -160,6 +160,7 @@ Mar 06, 2025, Hong Kong, China
 - [PocketPal AI Google Play Store](https://play.google.com/store/apps/details?id=com.pocketpalai)  
 - [PocketPal AI GitHub](https://github.com/a-ghorbani/pocketpal-ai)  
 - [ROCm on Linux detailed installation overview](https://rocm.docs.amd.com/projects/install-on-linux/en/latest/install/detailed-install.html)  
+- [Linux® Drivers for AMD Radeon™ Graphics](https://www.amd.com/en/support/download/linux-drivers.html)  
 - [Custom Flags for Ollama in Docker Needed with Rocm 6.2?](https://community.amd.com/t5/ai-discussions/custom-flags-for-ollama-in-docker-needed-with-rocm-6-2/m-p/717031)  
 - [Docker cleanup: How to remove Images, containers, and volumes](https://middleware.io/blog/docker-cleanup/)  
 
