@@ -207,7 +207,7 @@ DOMPROS is open sourced under an MIT license, allowing free commercial and acade
 
 ## Known Issues
 
-- Since duckduckgo_search 7.5.0 is buggy, you should install 6.3.5 instead.  ```pip3 install -U duckduckgo_search==6.3.5```.  
+- Since duckduckgo_search 7.5.0 is buggy and caused ratelimit error, you should install 7.4.4 instead.  ```pip3 install -U duckduckgo_search==7.4.4```.  
 
 Samiux  
 OSCE  OSCP  OSWP  
