@@ -45,7 +45,7 @@ sudo docker run -d --gpus=all -v ollama:/root/.ollama --network=host -p 11434:11
 You need to install ROCm driver beforehand.
 
 ```
-sudo docker run -d -v ollama:/root/.ollama --network=host -p 11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama:rocm
+sudo docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama --network=host -p 11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama:rocm
 ```
 
 ## 04 Import DeepSeek R1 Distill Models
