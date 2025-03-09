@@ -119,6 +119,12 @@ git clone https://github.com/samiux/dompros
 
 ```
 
+Update the outdated dependencies
+
+```
+pip3 install -U `pip3 list --outdated | awk 'NR>2 {print $1}'`
+```
+
 ## Run
 
 Run the following command and follows the instruction on the screen.
