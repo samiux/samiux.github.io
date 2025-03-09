@@ -216,6 +216,13 @@ DOMPROS is open sourced under an MIT license, allowing free commercial and acade
 
 - Since duckduckgo_search 7.5.0 is buggy and caused ratelimit error, you should install 7.4.4 instead.  ```pip3 install -U duckduckgo_search==7.4.4```.  This bug has been fixed on 7.5.1 on Mar 09, 2025.  
 
+## Testing Scenarios
+
+- Intel i7-8750H with NVIDA GeForce GTX 1060 and 16GB RAM Laptop
+- AMD Ryzen R7-4800U with 32GB RAM Mini-PC
+
+Both hardware can run Dompros with DeepSeek R1 7B model smoothly but GTX 1060 has better performance.
+
 Samiux  
 OSCE  OSCP  OSWP  
 Feburary 26, 2025, Hong Kong, China  
