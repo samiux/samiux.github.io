@@ -24,7 +24,7 @@ sudo apt install docker-ce
 
 ## 02 Install NVIDIA Container Toolkit and cuDNN (Optional)
 
-If you have NVIDIA Display Card and the proprietary driver has been installed.  You need to install [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation) in order to allow NVIDIA driver to communicate with Docker Container.  Make sure that you are also installed cuDNN library.
+If you have NVIDIA Display Card and the proprietary driver with CUDA has been installed.  You need to install [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation) in order to allow NVIDIA driver to communicate with Docker Container.  Make sure that you are also installed [cuDNN library](https://developer.nvidia.com/cudnn).
 
 ## 03 Install Ollama
 
