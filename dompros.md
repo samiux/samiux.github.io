@@ -147,8 +147,8 @@ deactivate
 ██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔═══██╗██╔════╝
 ██║  ██║██║   ██║██╔████╔██║██████╔╝██████╔╝██║   ██║███████╗
 ██║  ██║██║   ██║██║╚██╔╝██║██╔═══╝ ██╔══██╗██║   ██║╚════██║
-██████╔╝╚██████╔╝██║ ╚═╝ ██║██║      ██║  ██║╚██████╔╝███████║
-╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+██████╔╝╚██████╔╝██║ ╚═╝ ██║██║     ██║  ██║╚██████╔╝███████║
+╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
 DOMPROS - AI-Powered Penetration Testing Assistant
 Version 0.0.15 | MIT License | By DeepSeek R1, Qwen QwQ-32B & Samiux
@@ -161,6 +161,7 @@ Core Commands:
   search <query>     - Perform security research via DuckDuckGo
   analyze            - Analyze security findings
   brainstorm         - Generate attack ideas and PoCs
+  web <query>        - General security chat via DuckDuckGo
   tools <query>      - Get tool recommendations via DuckDuckGo
   shelldb <category> - Access command/payload database
 
@@ -207,6 +208,7 @@ Version 0.0.12 - Mar 05, 2025 Bug fixed.
 Version 0.0.13 - Mar 07, 2025 Enhancement.  
 Version 0.0.14 - Mar 08, 2025 Improve system prompts.  
 Version 0.0.15 - Mar 09, 2025 Improvement.  
+Version 0.0.16 - Mar 11, 2025 Improvement.  
 
 ## License
 
@@ -214,7 +216,7 @@ DOMPROS is open sourced under an MIT license, allowing free commercial and acade
 
 ## Known Issues
 
-- Since duckduckgo_search 7.5.0 is buggy and caused ratelimit error, you should install 7.4.4 instead.  ```pip3 install -U duckduckgo_search==7.4.4```.  This bug has been fixed on 7.5.1 on Mar 09, 2025.  
+- Since duckduckgo_search 7.5.0 is buggy and caused ratelimit error.  UPDATE : This bug has been fixed on 7.5.1 on Mar 09, 2025.  
 
 ## Testing Scenarios
 
