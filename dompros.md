@@ -151,8 +151,8 @@ deactivate
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
 DOMPROS - AI-Powered Penetration Testing Assistant
-Version 0.0.15 | MIT License | By DeepSeek R1, Qwen QwQ-32B & Samiux
-Dated Mar 09, 2025
+Version 0.0.16 | MIT License | By DeepSeek R1, Qwen QwQ-32B & Samiux
+Dated Mar 11, 2025
     
 
 [ DOMPROS Command Reference ]
