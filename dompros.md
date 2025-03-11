@@ -73,7 +73,7 @@ sudo apt install docker-ce
 ### 0x03 Ollama
 
 ```
-sudo docker run -d -v ollama:/root/.ollama --network=host -p 11434:11434 --name ollama --restart always ollama/ollama
+sudo docker run -d -v ollama:/root/.ollama -p 127.0.0.1:11434:11434 --name ollama --restart always ollama/ollama
 ```
 
 ### 0x04 LLM
