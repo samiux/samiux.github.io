@@ -31,13 +31,13 @@ If you have NVIDIA Display Card and the proprietary driver with CUDA has been in
 ### CPU only
 
 ```
-sudo docker run -d -v ollama:/root/.ollama --network=host -p 11434:11434 --name ollama --restart always ollama/ollama
+sudo docker run -d -v ollama:/root/.ollama -p 1127.0.0.1:1434:11434 --name ollama --restart always ollama/ollama
 ```
 
 ### NVIDIA Display Card only
 
 ```
-sudo docker run -d --gpus=all -v ollama:/root/.ollama --network=host -p 11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama
+sudo docker run -d --gpus=all -v ollama:/root/.ollama -p 127.0.0.1:11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama
 ```
 
 ### AMD Display Card only
@@ -45,7 +45,7 @@ sudo docker run -d --gpus=all -v ollama:/root/.ollama --network=host -p 11434:11
 You need to install ROCm driver beforehand.
 
 ```
-sudo docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama --network=host -p 11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama:rocm
+sudo docker run -d --device /dev/kfd --device /dev/dri -v ollama:/root/.ollama -p 127.0.0.1:11434:11434 -e HSA_OVERRIDE_GFX_VERSION=11.0.0 -e HIP_VISIBLE_DEVICES=1 --name ollama --restart always ollama/ollama:rocm
 ```
 
 ## 04 Import DeepSeek R1 Distill Models
