@@ -147,6 +147,7 @@ Install PocketPal AI from the Google Play Store or Apple Store and import models
 Samiux  
 OSCE  OSCP  OSWP  
 Mar 06, 2025, Hong Kong, China  
+Update Mar 12, 2025, Hong Kong, China  
 
 ## Reference
 
