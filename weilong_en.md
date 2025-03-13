@@ -182,7 +182,7 @@ System price : Please contact Samiux  (NOT including delivery)
 
 Package included : device x 1, power adapter x 1 and USB Type-C cable x 1, as well as CAT 6 network cables x 2.
 
-Copyright (c) 2012-2024 Samiux  
+Copyright (c) 2012-2025 Samiux  
 
 ## SUPPORT AND ENQUIRY
 
