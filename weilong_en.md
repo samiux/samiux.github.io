@@ -48,8 +48,6 @@ After a hacker invasion, they can leave or take any information they want, and t
 
 ## HARDWARE
 
-- 8 cores CPU
-- 8GB RAM
 - Max. power consumption 5W, fanless, no noise  
 - Slightly larger than a credit card  
 - 96.5mm (L) x 68mm (W) x 30mm (H)   
