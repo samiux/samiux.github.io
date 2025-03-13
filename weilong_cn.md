@@ -185,7 +185,7 @@ WIFI Router (unused)      |                        |                |
 
 整套设备包括 ：设备 x 1，电源适配器 x 1，USB Type-C 线 x 1，以及 CAT 6 网络线 x 2。
 
-版欋 (c) 2012-2024 Samiux  
+版欋 (c) 2012-2025 Samiux  
 
 ## 支援及查询
 
