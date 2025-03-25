@@ -15,7 +15,6 @@
 
 - [MGRS Locator 军用座标定位](/mgrs.md)
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)
-- [RCCC HKI Duty App](/rccchki.md)  
 
 # Projects (INACTIVE)
 
