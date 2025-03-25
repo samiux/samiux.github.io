@@ -4,9 +4,13 @@
 
 軍事網格參考系統（Military Grid Reference System，MGRS）是香港常用的座標系統之一，許多政府部門皆採用此系統，例如香港警務處及香港消防處等。在陸地救援行動中亦廣泛應用，例如搜救登山遇險者等。
 
-請先允許應用程式取得定位權限。
+請先允許應用程式取得所有定位權限。
+
+安卓 (Android) 版本下載：  
 
 - [mgrsgps-0.0.8.apk](https://drive.google.com/file/d/1srNxX9c45eYtLJAJ31lagKCnobG7d7IV/view?usp=sharing)  
+
+按紅色座標標誌顯示 MGRS 座標。  
 
 歡迎免費使用，祝您遠足活動安全愉快！
 
