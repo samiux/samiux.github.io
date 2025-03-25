@@ -13,7 +13,9 @@
 
 ## Others
 
-- [MGRS Locator 军用座标定位](/mgrs.md)  
+- [MGRS Locator 军用座标定位](/mgrs.md)
+- [MGRS GPS 軍事網格參考系統](/mgrsgps.md)
+- [RCCC HKI](/rccchki.md)  
 
 # Projects (INACTIVE)
 
