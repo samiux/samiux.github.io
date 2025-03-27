@@ -196,6 +196,7 @@
 - [Create Windows 10 21H2 UEFI USB on Ubuntu 20.04 LTS](https://www.youtube.com/watch?v=Cq8XTTJW3fo)  
 - [How to install Chinese Input Method in Ubuntu 22.04 LTS with RIME](/rime.md)
 - [Ventoy - A New Bootable USB Solution on Ubuntu 22.04 LTS](/ventoy.md)  
+- [Docker without sudo](/docker_sudo.md)  
 
 ## Extra
 
