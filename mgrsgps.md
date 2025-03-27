@@ -8,7 +8,7 @@
 
 安卓 (Android) 版本下載：  
 
-- [mgrsgps-0.0.9.apk](https://drive.google.com/file/d/1LAbwaa9dwtodCcd4EhRr8DXIvtnGwhe5/view?usp=sharing)  
+- [mgrsgps-0.0.9.apk](https://drive.google.com/file/d/1ArbL-s0g1FR5Qclh4D3apH6ndEzNENaP/view?usp=sharing)  
 
 按紅色座標標誌顯示 MGRS 座標。  
 
