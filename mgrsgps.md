@@ -26,4 +26,8 @@ KK ── 代表 50Q 網格中香港於軍用地圖的次級網格，全港絕�
 
 本應用程式不會收集任何個人資料或定位資訊，所有數據僅在您裝置上即時顯示且不留存。
 
+Samiux .  
+OSCE  OSCP  OSWP .  
+二零二五年三月廿七日，中國香港    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
