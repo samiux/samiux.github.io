@@ -31,7 +31,7 @@ If you have NVIDIA Display Card and the proprietary driver with CUDA has been in
 ### CPU only
 
 ```
-sudo docker run -d -v ollama:/root/.ollama -p 1127.0.0.1:1434:11434 --name ollama --restart always ollama/ollama
+sudo docker run -d -v ollama:/root/.ollama -p 127.0.0.1:1434:11434 --name ollama --restart always ollama/ollama
 ```
 
 ### NVIDIA Display Card only
