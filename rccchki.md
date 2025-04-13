@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-Unofficial RCCC HKI Duty List Android App for all colleague of RCCC HKI.
+Unofficial RCCC HKI Duty List Android App for all officers of RCCC HKI.
 
 RCCC HKI Duty List Android APK download :  
 
