@@ -10,6 +10,8 @@
 
 - [mgrsgps-0.0.10.apk](https://drive.google.com/file/d/16OSecL43tpGUGZi9SsN1vDC_6GM3Copk/view?usp=sharing)  
 
+sha256sum 91a2a6b9817b9869d74d9fb98617da351d6fec598455a7e82a8dc0bb4ee1c368  mgrsgps-0.0.10.apk    
+
 按紅色座標標誌顯示 MGRS 座標。  
 
 歡迎免費使用，祝您遠足活動安全愉快！
