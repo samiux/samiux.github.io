@@ -54,6 +54,7 @@
 - [可能正受到攻击!](/under_attack.md)  
 - [WPA3 降級漏洞防禦策略](/wpa3_downgrade.md)   
 - [防御零日漏洞的利用](/0day.md)  
+- [The Security Tools Gap](/security_tools_gap.md)  
 
 ### Hacker
 
