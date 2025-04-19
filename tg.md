@@ -94,5 +94,9 @@
 
 注意：以上内容由 DeepSeek R1 生成。
 
+### 补充资料
+
+- [糖尿病人降血脂](https://mp.weixin.qq.com/s/2-EKh9avk_jHI9n_PzzV2w)    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
