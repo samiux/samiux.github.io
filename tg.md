@@ -21,9 +21,9 @@
 - **LDL-C与非HDL-C**：  
   - 糖尿病患者的“小而密LDL”（sdLDL）比例增高，致动脉粥样硬化风险升高（*Eur Heart J, 2023*）。  
   - **目标值（2024 ESC指南）**：
-    - 风险分层: 高风险（糖尿病无CVD） 
-      LDL-C目标: <2.6 mmol/L（<100 mg/dL） 
-      非HDL-C目标: <3.0 mmol/L（<116 mg/dL）  
+    - 风险分层: 高风险（糖尿病无CVD）   
+      LDL-C目标: <2.6 mmol/L（<100 mg/dL）   
+      非HDL-C目标: <3.0 mmol/L（<116 mg/dL）    
           
     - 风险分层: 极高风险（糖尿病+CVD）  
       LDL-C目标: **<1.4 mmol/L（<55 mg/dL）**   
