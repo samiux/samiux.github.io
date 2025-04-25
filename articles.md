@@ -129,7 +129,6 @@
 - [酮体](/ketones.md)  
 - [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)  
 - [甘油三酯与胆固醇及血糖指数的关联](/tg.md)  
-- [Dr. Rex 醫學幼稚園](https://www.youtube.com/@DrRex-lb7gn)    
 
 ## 深圳游
 
