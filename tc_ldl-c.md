@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-
+高甘油三酯（TG）和低密度脂蛋白胆固醇（LDL-C）升高与糖尿病（尤其是2型糖尿病）之间存在密切关联，其机制涉及代谢紊乱、胰岛素抵抗和慢性炎症等多方面。以下是详细的关联分析：
 
 ---
 
