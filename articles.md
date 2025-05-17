@@ -132,6 +132,7 @@
 - [书评 - 間歇斷食減重全指南](/fasting_book.md)   
 - [高血压与糖尿病之关联](/hypertension_diabetes.md)    
 - [高甘油三酯及高低密度胆固醇与糖尿病之关联](/tc_ldl-c.md)    
+- [三高之间的关联](/three_hypers.md)    
 
 ## 深圳游
 
