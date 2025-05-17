@@ -130,6 +130,7 @@
 - [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)  
 - [甘油三酯与胆固醇及血糖指数的关联](/tg.md)  
 - [书评 - 間歇斷食減重全指南](/fasting_book.md)   
+- [高血压与糖尿病之关联](/hypertension_diabetes.md)    
 
 ## 深圳游
 
