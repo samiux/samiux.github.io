@@ -135,6 +135,8 @@
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
 - [细胞自噬与癌症](/autophagy_cancer.md)    
+- [轻断食期间，曾经有生酮状态，甘油三酯略高是否正常？](tg_ldl_high_fasting.md)
+- [何时进行胆固醇及血糖与血酮测试？](tc_ketones_test.md)  
 
 ## 深圳游
 
