@@ -138,6 +138,7 @@
 - [轻断食期间，曾经有生酮状态，甘油三酯略高是否正常？](tg_ldl_high_fasting.md)
 - [何时进行胆固醇及血糖与血酮测试？](tc_ketones_test.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
+- [淡水与海水鱼类DHA/EPA含量比较](/fish.md)  
 
 ## 深圳游
 
