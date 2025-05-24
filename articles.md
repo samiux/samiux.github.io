@@ -140,6 +140,7 @@
 - [何时进行胆固醇及血糖与血酮测试？](tc_ketones_test.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
 - [淡水与海水鱼类DHA/EPA含量比较](/fish.md)  
+- [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)   
 
 ## 深圳游
 
