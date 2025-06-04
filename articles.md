@@ -143,6 +143,7 @@
 - [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
 - [胆固醇的生理功能与健康管理](/tc_function.md)   
 - [糖尿病併发症分类及预防措施](/diabetes.md)   
+- [甘油三酯与健康影响最新研究](/tg_study.md)    
 
 ## 深圳游
 
