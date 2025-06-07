@@ -150,7 +150,7 @@
 - [甘油三酯与脂蛋白a区别及影响](/tg_lpa.md)    
 - [甘油三酯脂蛋白a低密度脂蛋白关系解析](/tg_lpa_ldl-c.md)    
 - [甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
-- [生酮状态下低密度脂蛋白和血糖变化机制](/ketone_ldl-c_sugar.md)    
+- [生酮状态下低密度脂蛋白和血糖变化机制](/ketone_ldl-c_blood.md)    
 
 ## 深圳游
 
