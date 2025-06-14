@@ -153,6 +153,7 @@
 - [生酮状态下低密度脂蛋白和血糖变化机制](/ketone_ldl-c_blood.md)    
 - [断食期肝脏双轨供能机制解析](/ketone_transition.md)    
 - [甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
+- [非HDL-C对健康影响及管理策略](/non-hdl-c.md)    
 
 ## 深圳游
 
