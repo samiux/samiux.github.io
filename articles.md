@@ -154,6 +154,7 @@
 - [断食期肝脏双轨供能机制解析](/ketone_transition.md)    
 - [甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
 - [非HDL-C对健康影响及管理策略](/non-hdl-c.md)    
+- [吓了一跳](/shocked.md)    
 
 ## 深圳游
 
