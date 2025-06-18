@@ -40,11 +40,13 @@
 - [断食期肝脏双轨供能机制解析](/ketone_transition.md)    
 - [甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
 - [非HDL-C对健康影响及管理策略](/non-hdl-c.md)    
+- [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 
 ## 断食杂谈
 
 - [吓了一跳](/shocked.md)    
-- [低 TG 水平下 LDL 和 non-HDL 计算方法](/ldl_calulate.md)    
+- [低 TG 水平下 LDL 和 non-HDL 计算方法](/ldl_calulate.md)      
+- [纯净断食生酮入门理论与操作指南](/clean_fasting_ketone.md)      
 
 ## ebooks
 
