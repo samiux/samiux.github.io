@@ -41,6 +41,7 @@
 - [甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
 - [甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
+- [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
 
 ## 断食杂谈
 
