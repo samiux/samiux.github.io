@@ -38,8 +38,8 @@
 - [高甘油三酯及高低密度胆固醇与糖尿病之关联](/tc_ldl-c.md)    
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
-- [甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
-- [甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
+- [TG/HDL甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
+- [TG/LDL甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
 
