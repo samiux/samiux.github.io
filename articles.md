@@ -48,6 +48,7 @@
 - [吓了一跳](/shocked.md)    
 - [低 TG 水平下 LDL 和 non-HDL 计算方法](/ldl_calulate.md)      
 - [纯净断食生酮入门理论与操作指南](/clean_fasting_ketone.md)      
+- [断食与脂肪肝代谢优化策略](/fatty_liver_fasting.md)    
 
 ## ebooks
 
