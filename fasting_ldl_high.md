@@ -84,4 +84,6 @@ D --> G[激活LDL受体]
 
 当前状态很可能是断食诱导的良性生理适应。建议优先关注non-HDL下降趋势及LDL颗粒特性，而非单纯LDL-C数值。保持TG/HDL<0.5的核心优势，将获得显著代谢保护效应。
 
+- [参考资料](https://mp.weixin.qq.com/s/qD8Um8ZbIS_YCsNko_XJ2Q)  
+
 [Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
