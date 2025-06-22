@@ -2,7 +2,7 @@
 
 [Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-以最新硏究及断食科学详述分析以下血脂值当 20:4 断食中，已经断食了 18 小时，但 TG 低而 LDL 高的原因。如有问题并提供改善方向。
+以最新硏究及断食科学详述分析以下血脂值当 20:4 断食中，已经断食了 18 小时，但 TG 低而 LDL 高的原因。
 
 TC              7.58       
 HDL             2.74        
