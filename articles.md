@@ -53,6 +53,7 @@
 - [内脏脂肪优先燃烧机制解析](/fat_burning.md)    
 - [高饱和脂肪对血糖影响研究分析](/fat_saturated.md)    
 - [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
+- [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)    
 
 ## ebooks
 
