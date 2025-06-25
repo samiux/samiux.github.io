@@ -50,6 +50,7 @@
 - [纯净断食生酮入门理论与操作指南](/clean_fasting_ketone.md)      
 - [断食与脂肪肝代谢优化策略](/fatty_liver_fasting.md)    
 - [断食期血脂异常分析与改善建议](/fasting_ldl_high.md)    
+- [内脏脂肪优先燃烧机制解析](/fat_burning.md)    
 
 ## ebooks
 
