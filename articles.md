@@ -52,6 +52,7 @@
 - [断食期血脂异常分析与改善建议](/fasting_ldl_high.md)    
 - [内脏脂肪优先燃烧机制解析](/fat_burning.md)    
 - [高饱和脂肪对血糖影响研究分析](/fat_saturated.md)    
+- [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
 
 ## ebooks
 
