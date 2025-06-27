@@ -43,6 +43,7 @@
 ## 断食杂谈
 
 - [吓了一跳](/shocked.md)    
+- [长期断食与胰岛素敏感度提升策略](/fasting_improve.md)    
 - [纯净断食生酮入门理论与操作指南](/clean_fasting_ketone.md)      
 - [内脏脂肪优先燃烧机制解析](/fat_burning.md)    
 - [断食与脂肪肝代谢优化策略](/fatty_liver_fasting.md)    
