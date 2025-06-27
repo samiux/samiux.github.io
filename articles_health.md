@@ -1,4 +1,6 @@
-# 健康与断食
+# 健康与断食杂谈
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 ## 健康
 
@@ -56,3 +58,4 @@
 - [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
 - [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)
 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
