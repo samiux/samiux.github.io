@@ -60,6 +60,7 @@
 - [断食与肌肉流失的科学分析](/fasting_muscle.md)    
 - [断食科学解析与生酮减脂机制](/fasting_howto.md)    
 - [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
+- [断食与炎症关系最新科学分析](/fasting_inflammation.md)    
 
 ## ebooks
 
