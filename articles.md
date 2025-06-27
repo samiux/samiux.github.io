@@ -6,61 +6,9 @@
 ## Articles Extensions
 - [Articles Extensions](/articles_ext.md)  
 -->
-## 健康
+## 健康与断食
 
-- [书评 - 間歇斷食減重全指南](/fasting_book.md)   
-- [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
-- [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
-- [中老年人蛋白质摄入最新研究分析](/protein.md)   
-- [骨質疏鬆](/osteoporosis.md)
-- [酮体](/ketones.md)  
-- [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)
-- [生酮饮食与间歇断食对比分析](fasting_ketones_02.md)  
-- [细胞自噬与癌症](/autophagy_cancer.md)    
-- [轻断食期间，曾经有生酮状态，甘油三酯略高是否正常？](tg_ldl_high_fasting.md)    
-- [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)
-- [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
-- [糖尿病併发症分类及预防措施](/diabetes.md)   
-- [糖淀粉碳水化合物摄入与健康影响分析](/sugar.md)    
-- [胆固醇的生理功能与健康管理](/tc_function.md)   
-- [低密度脂蛋白胆固醇（LDL-C）被认为是有害的吗？](/ldl-c.md)    
-- [非HDL-C对健康影响及管理策略](/non-hdl-c.md)    
-- [脂肪吸收对人体的生理重要性](/fat.md)    
-- [甘油三酯与健康影响最新研究](/tg_study.md)    
-- [甘油三酯与脂蛋白a区别及影响](/tg_lpa.md)    
-- [甘油三酯脂蛋白a低密度脂蛋白关系解析](/tg_lpa_ldl-c.md)    
-- [高甘油三酯及高低密度胆固醇与糖尿病之关联](/tc_ldl-c.md)    
-- [甘油三酯与胆固醇及血糖指数的关联](/tg.md)  
-- [生酮状态下低密度脂蛋白和血糖变化机制](/ketone_ldl-c_blood.md)    
-- [断食期肝脏双轨供能机制解析](/ketone_transition.md)    
-- [淡水与海水鱼类DHA/EPA含量比较](/fish.md)  
-- [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
-- [脉压差研究与临床管理指南](/blood_pressure.md)    
-- [高血压与糖尿病之关联](/hypertension_diabetes.md)    
-- [三高之间的关联](/three_hypers.md)   
-- [三高与癌症的关联](/three_hypers_cancer.md)    
-- [TG/HDL甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
-- [TG/LDL甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
-- [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
-- [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
-
-## 断食杂谈
-
-- [吓了一跳](/shocked.md)    
-- [纯净断食生酮入门理论与操作指南](/clean_fasting_ketone.md)      
-- [内脏脂肪优先燃烧机制解析](/fat_burning.md)    
-- [断食与脂肪肝代谢优化策略](/fatty_liver_fasting.md)    
-- [高饱和脂肪对血糖影响研究分析](/fat_saturated.md)    
-- [断食期血脂异常分析与改善建议](/fasting_ldl_high.md)    
-- [低 TG 水平下 LDL 和 non-HDL 计算方法](/ldl_calulate.md)      
-- [断食科学对血糖AUC的影响分析](/auc.md)  
-- [黑咖啡对血糖影响的多维度分析](/black_coffee.md)    
-- [断食与肌肉流失的科学分析](/fasting_muscle.md)    
-- [断食科学解析与生酮减脂机制](/fasting_howto.md)    
-- [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
-- [断食与炎症关系最新科学分析](/fasting_inflammation.md)    
-- [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
-- [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)    
+- [健康与断食](/articles_health.md)     
 
 ## ebooks
 
