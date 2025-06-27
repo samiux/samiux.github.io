@@ -57,6 +57,7 @@
 - [断食科学对血糖AUC的影响分析](/auc.md)  
 - [黑咖啡对血糖影响的多维度分析](/black_coffee.md)    
 - [断食与肌肉流失的科学分析](/fasting_muscle.md)    
+- [断食科学解析与生酮减脂机制](/fasting_howto.md)    
 
 ## ebooks
 
