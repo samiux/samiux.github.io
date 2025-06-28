@@ -60,5 +60,6 @@
 - [断食与炎症关系最新科学分析](/fasting_inflammation.md)    
 - [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
 - [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)
+- [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
