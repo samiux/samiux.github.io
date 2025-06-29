@@ -62,5 +62,6 @@
 - [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)
 - [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
 - [断食科学与天然食物电解质分析](/fasting_electrolyte.md)    
+- [餐后血糖波幅分析与逆转策略](/after_meal.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
