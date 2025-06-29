@@ -63,5 +63,6 @@
 - [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
 - [断食科学与天然食物电解质分析](/fasting_electrolyte.md)    
 - [餐后血糖波幅分析与逆转策略](/after_meal.md)    
+- [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
