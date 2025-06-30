@@ -76,7 +76,7 @@
 
 如需探讨特定生理机制（如自噬检测方法）或个性化方案设计，可进一步提供科学细节。
 
-## 
+## 英文参考视频
 - [STOP Eating for 3 Days - Part I](https://www.youtube.com/watch?v=aE1O5dG2MZE)    
 - [STOP Eating for 3 Days?! (72 Hours) - Part II](https://www.youtube.com/watch?v=ig3l3I4PARA)    
 
