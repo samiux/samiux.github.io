@@ -56,4 +56,7 @@
 
 > 苹果醋应视为健康饮食的**辅助工具**，其效应需结合低碳水饮食及定期运动方能显效。未来需≥6个月的大规模RCT试验验证长期安全性及效能。
 
+## 英文参考视频
+- [What Happens If You Drink Apple Cider Vinegar BEFORE Bedtime -- Ben Azadi](https://www.youtube.com/watch?v=LuCWDqlPLeI)    
+
 [Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
