@@ -17,4 +17,7 @@
 Samiux    
 二零二五年六月十六日，中国香港    
 
+# 
+- [https://www.youtube.com/watch?v=BQoxFKzBMA4](https://www.youtube.com/watch?v=BQoxFKzBMA4)
+
 [Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
