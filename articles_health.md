@@ -64,5 +64,6 @@
 - [断食科学与天然食物电解质分析](/fasting_electrolyte.md)    
 - [餐后血糖波幅分析与逆转策略](/after_meal.md)    
 - [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
+- [72小时纯净断食科学分析](/fasting_72hrs.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
