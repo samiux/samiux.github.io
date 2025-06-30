@@ -103,4 +103,7 @@ It's essential to note that the TG/LDL-C ratio should be interpreted in conjunct
 Samiux  
 二零二四年十月十三日，中国香港    
 
+## 英文视频参考
+- [The Shocking Benefits of Eating 4 Eggs Everyday for 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
