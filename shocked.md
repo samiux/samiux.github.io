@@ -18,6 +18,6 @@ Samiux
 二零二五年六月十六日，中国香港    
 
 # 英文视频参考
-- [https://www.youtube.com/watch?v=BQoxFKzBMA4](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
+- [The Shocking Benefits of Eating 4 Eggs Everyday for 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
 
 [Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
