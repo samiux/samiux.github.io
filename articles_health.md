@@ -66,5 +66,6 @@
 - [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
 - [72小时纯净断食科学分析](/fasting_72hrs.md)    
 - [72小时纯净断食期间的自噬检测方法](/fasting_autophagy.md)    
+- [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
