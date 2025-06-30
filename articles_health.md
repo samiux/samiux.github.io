@@ -39,6 +39,7 @@
 - [TG/LDL甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
+- [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
 
 ## 断食杂谈
 
