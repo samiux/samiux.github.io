@@ -80,4 +80,7 @@
 
 **结论**：苹果醋作为断食佐剂，在血糖调控、脂代谢与自噬方面具协同作用，但需严格遵循剂量与医学监测（尤其慢性病患者）。未来需更多RCT研究长期效应（>6个月）及个性化方案优化。
 
+## 英文参考视频
+- [What Happens If You Drink Apple Cider Vinegar BEFORE Bedtime -- Ben Azadi](https://www.youtube.com/watch?v=LuCWDqlPLeI)    
+
 [Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
