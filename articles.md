@@ -123,6 +123,7 @@
 - [美国德州移民事件事件该如何看待？美国是否会分裂？张维为携手范勇鹏共同分析美国内部政治状况 -- 这就是中国 EP228](https://www.youtube.com/watch?v=IwqsDEoSOPo)  
 - [重磅！《创新引领·国安砺剑》：“十大反间谍案例”专题展播](https://mp.weixin.qq.com/s/FBMMEIP5ZUJOJ4y5HZXRrg)  
 - [苹果发布会透露哪些讯息？华为发布会相比之下有哪些与众不同,华为为何能在行业“遥遥领先”？ -- 这就是中国 ](https://www.youtube.com/watch?v=LP0qCu3sYEs)  
+- [香港食肆困境与转型策略分析](/hk_rest.md)   
 
 ## 深圳游
 
