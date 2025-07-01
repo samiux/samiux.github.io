@@ -58,6 +58,7 @@
 - [断食与肌肉流失的科学分析](/fasting_muscle.md)    
 - [断食科学解析与生酮减脂机制](/fasting_howto.md)    
 - [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
+- [血糖血酮比值的临床应用分析](gki.md)    
 - [断食与炎症关系最新科学分析](/fasting_inflammation.md)    
 - [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
 - [断食科学与天然食物电解质分析](/fasting_electrolyte.md)    
