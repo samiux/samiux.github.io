@@ -69,5 +69,6 @@
 - [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)     
 - [72小时纯净断食科学分析](/fasting_72hrs.md)    
 - [72小时纯净断食期间的自噬检测方法](/fasting_autophagy.md)    
+- [餐后血糖飙升的危害与防治策略](/glucose_spike.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
