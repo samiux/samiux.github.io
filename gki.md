@@ -66,4 +66,7 @@
 > - Puchalska P et al. (2024). *Hepatic ketogenesis during prolonged fasting*. Cell Reports 43(1): 113591.  
 > - Keto-Med Consortium (2024). *Standardization of therapeutic ketosis monitoring*. Journal of Metabolic Health 7(1): e230021.
 
+## 参考资料
+- [Glucose Ketone Index GKI](https:/)keto-mojo.com/glucose-ketone-index-gki)    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
