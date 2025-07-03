@@ -1,8 +1,8 @@
-# 健康与断食杂谈
+# 健康与断食研究杂谈
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-## 健康
+## 健康研究杂谈
 
 - [书评 - 間歇斷食減重全指南](/fasting_book.md)   
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
@@ -44,7 +44,7 @@
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
 
-## 断食杂谈
+## 断食研究杂谈
 
 - [长期断食与胰岛素敏感度提升策略](/fasting_improve.md)    
 - [断食模式与血糖调控科学分析](/fasting_blood_sugar_level.md)    
@@ -70,7 +70,7 @@
 - [餐后血糖飙升的危害与防治策略](/glucose_spike.md)    
 - [空腹血糖与餐后血糖指标重要性分析](/blood_sugar.md)   
 
-###  苹果醋
+### 苹果醋研究
 
 - [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)    
 - [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
