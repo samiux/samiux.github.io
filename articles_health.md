@@ -81,5 +81,6 @@
 
 - [书评 - 間歇斷食減重全指南](/fasting_book.md)   
 - [吓了一跳](/shocked.md)    
+- [苹果醋亲身实验](/acv.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
