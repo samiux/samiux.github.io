@@ -68,6 +68,7 @@
 - [餐后血糖波幅分析与逆转策略](/after_meal.md)    
 - [餐后血糖飙升的危害与防治策略](/glucose_spike.md)    
 - [空腹血糖与餐后血糖指标重要性分析](/blood_sugar.md)   
+- [断食期间健行运动对皮质醇及代谢影响](fasting_walking.md)    
 
 ### 苹果醋研究
 
