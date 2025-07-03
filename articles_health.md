@@ -35,11 +35,14 @@
 - [高血压与糖尿病之关联](/hypertension_diabetes.md)    
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
+- [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
+
+### 比值研究
+
 - [TG/HDL甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
 - [TG/LDL甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
-- [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
 
 ## 断食杂谈
 
@@ -62,15 +65,18 @@
 - [断食与炎症关系最新科学分析](/fasting_inflammation.md)    
 - [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
 - [断食科学与天然食物电解质分析](/fasting_electrolyte.md)    
-- [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)
-- [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
-- [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
-- [纯净断食饮用苹果醋方法与健康影响](/fasting_acv_02.md)    
-- [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)     
 - [72小时纯净断食科学分析](/fasting_72hrs.md)    
 - [72小时纯净断食期间的自噬检测方法](/fasting_autophagy.md)    
 - [餐后血糖波幅分析与逆转策略](/after_meal.md)    
 - [餐后血糖飙升的危害与防治策略](/glucose_spike.md)    
 - [空腹血糖与餐后血糖指标重要性分析](/blood_sugar.md)   
+
+###  苹果醋
+
+- [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)    
+- [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
+- [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
+- [纯净断食饮用苹果醋方法与健康影响](/fasting_acv_02.md)    
+- [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)     
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
