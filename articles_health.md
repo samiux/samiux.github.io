@@ -46,7 +46,6 @@
 
 ## 断食杂谈
 
-- [吓了一跳](/shocked.md)    
 - [长期断食与胰岛素敏感度提升策略](/fasting_improve.md)    
 - [断食模式与血糖调控科学分析](/fasting_blood_sugar_level.md)    
 - [断食运动血糖变化科学分析](/fasting_exe_blood_sugar.md)    
@@ -77,6 +76,10 @@
 - [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
 - [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
 - [纯净断食饮用苹果醋方法与健康影响](/fasting_acv_02.md)    
-- [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)     
+- [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)    
+
+### 断食散文
+
+- [吓了一跳](/shocked.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
