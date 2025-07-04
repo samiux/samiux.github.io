@@ -35,6 +35,7 @@
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
 - [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
+- [如何逆转胰岛素抵抗？方法都在这里了](https://mp.weixin.qq.com/s/JinZCwVomNu7d6iPPkqZhQ)    
 
 ### 比值研究
 
