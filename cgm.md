@@ -22,4 +22,12 @@ Samiux
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/三诺动态血糖仪报告_15天_redacted.pdf">Download PDF</a>.</p>
 </object>
 
+
+```sha256sum f895da08f02049277e4cf3366ac3c646257dbbaa50e564df73ba7a15b9767974  Continuous Glucose Monitoring System - A Guide for Beginners_CHI_ENG.pdf```
+
+<object data="/pdf/Continuous\ Glucose\ Monitoring\ System\ -\ A\ Guide\ for\ Beginners_CHI_ENG.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/Continuous\ Glucose\ Monitoring\ System\ -\ A\ Guide\ for\ Beginners_CHI_ENG.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Continuous\ Glucose\ Monitoring\ System\ -\ A\ Guide\ for\ Beginners_CHI_ENG.pdf">Download PDF</a>.</p>
+</object>
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
