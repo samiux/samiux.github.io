@@ -84,5 +84,6 @@
 - [吓了一跳](/shocked.md)    
 - [回顾 2025](/review_2025.md)    
 - [苹果醋亲身实验](/acv.md)    
+- [我是如何使用动态血糖仪 CGM 的](/cgm.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
