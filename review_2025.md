@@ -13,11 +13,4 @@
 Samiux    
 二零二五年七月二日，中国香港        
 
-```sha256sum 5f6d39e4cee173cca402ca7d418446c1bf01c3a4bc2dcb491c749db7af1824fd  三诺动态血糖仪报告_15天_redacted.pdf```
-
-<object data="/pdf/三诺动态血糖仪报告_15天_redacted.pdf" type="application/pdf" width="900px" height="700px">
-    <embed src="/pdf/三诺动态血糖仪报告_15天_redacted.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/三诺动态血糖仪报告_15天_redacted.pdf">Download PDF</a>.</p>
-</object>
-
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
