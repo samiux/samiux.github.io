@@ -77,6 +77,7 @@
 - [断食复食策略与苹果醋应用详解](/fasting_eat_acv.md)    
 - [纯净断食饮用苹果醋方法与健康影响](/fasting_acv_02.md)    
 - [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)    
+- [断食与血糖管理改善策略 (苹果醋的迷思)](/fasting_acv_problem.md)    
 
 ### 断食散文
 
