@@ -72,7 +72,7 @@
 - [空腹血糖与餐后血糖指标重要性分析](/blood_sugar.md)   
 - [断食期间健行运动对皮质醇及代谢影响](fasting_walking.md)    
 - [断食科学执行与注意事项详解](/fasting_204_48hrs.md)    
-- [断食科学入门指南](/fasting_boot_camp.md)    
+- [断食入门方案及科学依据详解](/fasting_boot_camp.md)    
 
 ### 苹果醋研究
 
