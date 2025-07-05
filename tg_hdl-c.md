@@ -64,4 +64,8 @@
 ## 结论  
 TG/HDL-C比值作为脂质代谢紊乱的整合指标，在mmol/L单位体系下具有明确病理意义：比值>0.8即提示残余心血管风险，>1.37时需启动综合干预。其在预测心脑血管事件、糖尿病及跨系统疾病中的价值已获循证支持，未来研究将聚焦人群特异性阈值及分子机制深化。
 
+## 参考资料
+
+- [胆固醇高，一定要吃他汀吗？](https://mp.weixin.qq.com/s/GFa6iytdQhx34KZKYA2WTA)    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
