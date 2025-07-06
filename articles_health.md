@@ -44,6 +44,7 @@
 - [TG/LDL甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
+- [断食科学分析TG/HDL与TG/LDL比值](/fasting_tg-hdl_tg-ldl.md)    
 
 ## 断食研究杂谈
 
