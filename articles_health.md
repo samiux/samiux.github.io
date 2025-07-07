@@ -37,6 +37,7 @@
 - [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
 - [如何逆转胰岛素抵抗？方法都在这里了](https://mp.weixin.qq.com/s/JinZCwVomNu7d6iPPkqZhQ)    
 - [糖尿病 HbA1c 达标，血糖就没问题了？那你就错了！](https://mp.weixin.qq.com/s/qFETo0plzGt8DBEYZDb7eg)    
+- [血脂正常心血管斑块预防策略分析](/cvrisk.md)    
 
 ### 比值研究
 
