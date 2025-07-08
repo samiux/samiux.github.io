@@ -86,7 +86,7 @@
 - [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)    
 - [断食与血糖管理改善策略 (苹果醋的迷思)](/fasting_acv_problem.md)    
 
-## 黄连素 Berberine  
+### 黄连素 Berberine  
 
 - [黄连素对二型糖尿病的科学分析](/berberine_t2dm.md)   
 - [黄连素对健康人群作用分析](/berberine_health.md)    
