@@ -89,7 +89,7 @@
 ## 黄连素 Berberine  
 
 - [黄连素对二型糖尿病的科学分析](/berberine_t2dm.md)   
- 
+- [黄连素对健康人群作用分析](/berberine_health.md)    
 
 ### 断食散文
 
