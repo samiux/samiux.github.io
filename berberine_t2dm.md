@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-以下基于最新科学研究（截至2025年）及断食科学，对黄连素（Berberine，又称Barbarine）在2型糖尿病（T2DM）治疗中的作用机制、有效性及遗传因素关联进行综合分析，所有数据均采用国际单位制（SI）：
+以下基于最新科学研究（截至2025年）及断食科学，对黄连素（Berberine）在2型糖尿病（T2DM）治疗中的作用机制、有效性及遗传因素关联进行综合分析，所有数据均采用国际单位制（SI）：
 
 ---
 
