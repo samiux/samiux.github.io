@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-以下基于最新科研文献（截至2025年初）及断食科学机制，对黄连素（小檗碱，Barbarine）补充剂在健康人群中的作用进行客观分析：
+以下基于最新科研文献（截至2025年初）及断食科学机制，对黄连素（小檗碱，Berberine）补充剂在健康人群中的作用进行客观分析：
 
 ---
 
