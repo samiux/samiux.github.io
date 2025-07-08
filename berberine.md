@@ -65,4 +65,8 @@
 
 如果你正在关注血糖或代谢健康，小檗碱确实是一个值得了解的选择，但务必在专业指导下安全使用哦。
 
+### 参考资料
+
+- [小檗鹼鹽酸鹽與植物膠囊：哪一種適合您？](https://hk.iherb.com/blog/berberine-benefits-types/1940)    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
