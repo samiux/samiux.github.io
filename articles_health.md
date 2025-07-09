@@ -39,6 +39,7 @@
 - [糖尿病 HbA1c 达标，血糖就没问题了？那你就错了！](https://mp.weixin.qq.com/s/qFETo0plzGt8DBEYZDb7eg)    
 - [血脂正常心血管斑块预防策略分析](/cvrisk.md)    
 - [新发现：餐后1小时血糖水平越低，寿命越长](https://mp.weixin.qq.com/s/CGIRF_vV9v0bzYZv1sOuNg)    
+- [【问题】LDL-C 也是人体组织的“建设者”，降太低会反噬健康吗？](https://mp.weixin.qq.com/s/wNY8aRe4wDRA6GGtDE8d-Q)    
 
 ### 比值研究
 
