@@ -45,6 +45,7 @@
 - [新发现：餐后1小时血糖水平越低，寿命越长](https://mp.weixin.qq.com/s/CGIRF_vV9v0bzYZv1sOuNg)    
 - [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
 - [高同型半胱氨酸血症是什么？如何诊治？](https://mp.weixin.qq.com/s/u1eY6pqPLQWPOTQzZTMM6A)    
+- [没吃饭，血糖也高，一般与这3种现象有关！](https://mp.weixin.qq.com/s/SEwuz4ACZutsntsLSYxD5Q)   
 
 ### 比值研究
 
