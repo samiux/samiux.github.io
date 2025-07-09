@@ -42,6 +42,7 @@
 - [【问题】LDL-C 也是人体组织的“建设者”，降太低会反噬健康吗？](https://mp.weixin.qq.com/s/wNY8aRe4wDRA6GGtDE8d-Q)    
 - [甘油三酯升高对身体的危害有哪些？特别是第2种？](https://mp.weixin.qq.com/s/3KVSj1G8TnYLfzW7reWF0Q)      
 - [血脂管理：甘油三酯（TG）升高，何时应用降血脂药物？](https://mp.weixin.qq.com/s/0GLTUXuTh0D6LNbKETVeSw)      
+- [新发现：餐后1小时血糖水平越低，寿命越长](https://mp.weixin.qq.com/s/CGIRF_vV9v0bzYZv1sOuNg)    
 
 ### 比值研究
 
