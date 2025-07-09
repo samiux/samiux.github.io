@@ -48,6 +48,7 @@
 - [没吃饭，血糖也高，一般与这3种现象有关！](https://mp.weixin.qq.com/s/SEwuz4ACZutsntsLSYxD5Q)   
 - [关于维生素D，你可能不知道的事](https://mp.weixin.qq.com/s/e4s5iaGEhkKFUP2IpxkiCQ)    
 - [斯坦福发现：升糖指数不靠谱，每天吃粗粮，红薯，玉米的人，心都碎了……](https://mp.weixin.qq.com/s/HoFrfHNqbqYopYlB_ksG3Q)   
+- [主动干预从追查杀死一半人类的真凶开始](https://mp.weixin.qq.com/s/FXrfa8lldzqoaGRUnatI4Q)    
 
 ### 比值研究
 
