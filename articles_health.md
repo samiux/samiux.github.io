@@ -43,6 +43,8 @@
 - [甘油三酯升高对身体的危害有哪些？特别是第2种？](https://mp.weixin.qq.com/s/3KVSj1G8TnYLfzW7reWF0Q)      
 - [血脂管理：甘油三酯（TG）升高，何时应用降血脂药物？](https://mp.weixin.qq.com/s/0GLTUXuTh0D6LNbKETVeSw)      
 - [新发现：餐后1小时血糖水平越低，寿命越长](https://mp.weixin.qq.com/s/CGIRF_vV9v0bzYZv1sOuNg)    
+- [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
+- [高同型半胱氨酸血症是什么？如何诊治？](https://mp.weixin.qq.com/s/u1eY6pqPLQWPOTQzZTMM6A)    
 
 ### 比值研究
 
