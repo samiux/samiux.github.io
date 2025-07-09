@@ -61,10 +61,6 @@
 - [断食科学对血糖AUC的影响分析](/auc.md)  
 - [黑咖啡对血糖影响的多维度分析](/black_coffee.md)    
 - [断食与肌肉流失的科学分析](/fasting_muscle.md)    
-- [断食科学解析与生酮减脂机制](/fasting_howto.md)    
-- [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
-- [GKI 血糖血酮比值的临床应用分析](gki.md)    
-- [血酮数值与葡萄糖酮症指数解读](/ketone_gki.md)    
 - [断食与炎症关系最新科学分析](/fasting_inflammation.md)    
 - [奇亚籽营养与健康效应全面分析](/chia_seed.md)    
 - [断食科学与天然食物电解质分析](/fasting_electrolyte.md)    
@@ -76,7 +72,14 @@
 - [断食期间健行运动对皮质醇及代谢影响](fasting_walking.md)    
 - [断食科学执行与注意事项详解](/fasting_204_48hrs.md)    
 - [断食入门方案及科学依据详解](/fasting_boot_camp.md)    
-- [断食与复食期血糖动态分析](/fasting_health_sugar.md)    
+- [断食与复食期血糖动态分析](/fasting_health_sugar.md)   
+
+### 生酮相关
+
+- [断食科学解析与生酮减脂机制](/fasting_howto.md)    
+- [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
+- [GKI 血糖血酮比值的临床应用分析](gki.md)    
+- [血酮数值与葡萄糖酮症指数解读](/ketone_gki.md)     
 
 ### 苹果醋研究
 
