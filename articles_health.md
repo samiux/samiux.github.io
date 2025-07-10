@@ -50,6 +50,7 @@
 - [斯坦福发现：升糖指数不靠谱，每天吃粗粮，红薯，玉米的人，心都碎了……](https://mp.weixin.qq.com/s/HoFrfHNqbqYopYlB_ksG3Q)   
 - [主动干预从追查杀死一半人类的真凶开始](https://mp.weixin.qq.com/s/FXrfa8lldzqoaGRUnatI4Q)    
 - [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)   
+- [糖的真相：代谢路径里的血脂危机](https://mp.weixin.qq.com/s/jDZ4jpD4AvoMtnNCbWcbDQ)    
 
 ### 比值研究
 
