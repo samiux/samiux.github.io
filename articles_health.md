@@ -53,6 +53,7 @@
 - [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)   
 - [糖的真相：代谢路径里的血脂危机](https://mp.weixin.qq.com/s/jDZ4jpD4AvoMtnNCbWcbDQ)    
 - [有助降糖的微量元素，糖友该如何补？](https://mp.weixin.qq.com/s/XYptvGa1zDUNj-k5o2UdlA)    
+- [糖化要不要控到5.8%？为何专家建议“控制在7以内”就够了呢？不要卷糖化！](https://mp.weixin.qq.com/s/m51zKj1E03jnOBtA-ID53w)    
 
 ### 比值研究
 
