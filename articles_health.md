@@ -57,8 +57,6 @@
 - [吃素，血管一定干净？医生提醒：这3种素食也容易堵血管！](https://mp.weixin.qq.com/s/w-bnaA405d4f71vshMwUIg)      
 - [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)    
 - [中年飲食危機 - 鄒重璂醫生](https://www.youtube.com/watch?v=X0e1ghsgBoo)    
-- [膽固醇高，唔使戒口？- 鄒重璂醫生](https://www.youtube.com/watch?v=q3rX73FReKU)    
-- [點解努力戒口尿酸仍然高？- 鄒重璂醫生](https://www.youtube.com/watch?v=d5Fb9bMBao8)    
 
 ### 比值研究
 
