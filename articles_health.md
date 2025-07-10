@@ -90,6 +90,7 @@
 - [断食入门方案及科学依据详解](/fasting_boot_camp.md)    
 - [断食与复食期血糖动态分析](/fasting_health_sugar.md)   
 - [减肥新宠--轻断食，到底是什么？](https://mp.weixin.qq.com/s/EfXhfD74Gt_9goj-NxYpvw)    
+- [轻断食不光能减肥，还有这些优势](https://mp.weixin.qq.com/s/5E3gs8uvCZO4N3SLyKRXhg)  
 
 ### 生酮相关
 
