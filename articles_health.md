@@ -55,6 +55,7 @@
 - [有助降糖的微量元素，糖友该如何补？](https://mp.weixin.qq.com/s/XYptvGa1zDUNj-k5o2UdlA)    
 - [糖化要不要控到5.8%？为何专家建议“控制在7以内”就够了呢？不要卷糖化！](https://mp.weixin.qq.com/s/m51zKj1E03jnOBtA-ID53w)    
 - [吃素，血管一定干净？医生提醒：这3种素食也容易堵血管！](https://mp.weixin.qq.com/s/w-bnaA405d4f71vshMwUIg)      
+- [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)    
 
 ### 比值研究
 
