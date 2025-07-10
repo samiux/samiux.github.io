@@ -87,6 +87,7 @@
 - [断食科学执行与注意事项详解](/fasting_204_48hrs.md)    
 - [断食入门方案及科学依据详解](/fasting_boot_camp.md)    
 - [断食与复食期血糖动态分析](/fasting_health_sugar.md)   
+- [减肥新宠--轻断食，到底是什么？](https://mp.weixin.qq.com/s/EfXhfD74Gt_9goj-NxYpvw)    
 
 ### 生酮相关
 
