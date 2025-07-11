@@ -125,5 +125,6 @@
 - [回顾 2025](/review_2025.md)    
 - [苹果醋亲身实验](/acv.md)    
 - [我是如何使用动态血糖仪 CGM 的](/cgm.md)    
+- [断食与生酮代谢的血脂分析](/fasting_analysis_report.md)    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
