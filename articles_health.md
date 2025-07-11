@@ -94,6 +94,7 @@
 - [断食与复食期血糖动态分析](/fasting_health_sugar.md)   
 - [减肥新宠--轻断食，到底是什么？](https://mp.weixin.qq.com/s/EfXhfD74Gt_9goj-NxYpvw)    
 - [轻断食不光能减肥，还有这些优势](https://mp.weixin.qq.com/s/5E3gs8uvCZO4N3SLyKRXhg)  
+- [轻断食并不适合所有人，这几类人群不要轻易尝试](https://mp.weixin.qq.com/s/sTS_lV_Y6ldql_dh9yVVlA)        
 
 ### 生酮相关
 
