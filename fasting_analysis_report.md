@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-在断食期间，亦在中等生酮状态下，甘油三酯极低，但低密度脂蛋白胆固醇值高于标准。其他的比值都远低于标准。以下是血脂、血糖及血酮数据。
+在断食了 14 多小时期间，亦在中等生酮状态下，甘油三酯极低，但低密度脂蛋白胆固醇值高于标准。其他的比值都远低于标准。以下是血脂、血糖及血酮数据。
 
 TC                6.76    
 HDL             2.88    
