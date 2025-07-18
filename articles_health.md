@@ -103,6 +103,7 @@
 - [GKI 血糖血酮比值的临床应用分析](gki.md)    
 - [血酮数值与葡萄糖酮症指数解读](/ketone_gki.md)     
 - [奇亚籽对生酮饮食效果影响分析](/fasting_chia_seed.md)    
+- [断食科学中丙酮与血酮的换算方法](/fasting_acetone.md)    
 
 ### 苹果醋研究
 
