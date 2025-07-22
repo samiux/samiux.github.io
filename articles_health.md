@@ -105,6 +105,7 @@
 - [奇亚籽对生酮饮食效果影响分析](/fasting_chia_seed.md)    
 - [断食科学中丙酮与血酮的换算方法](/fasting_acetone.md)    
 - [椰子油与MCT油对生酮影响分析](/fasting_mct_oil.md)    
+- [牛油果对断食与生酮的影响分析](/fasting_avocado.md)    
 
 ### 苹果醋研究
 
