@@ -104,6 +104,7 @@
 - [血酮数值与葡萄糖酮症指数解读](/ketone_gki.md)     
 - [奇亚籽对生酮饮食效果影响分析](/fasting_chia_seed.md)    
 - [断食科学中丙酮与血酮的换算方法](/fasting_acetone.md)    
+- [椰子油与MCT油对生酮影响分析](/fasting_mct_oil.md)    
 
 ### 苹果醋研究
 
