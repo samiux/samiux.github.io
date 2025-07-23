@@ -58,7 +58,9 @@
 - [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)    
 - [中年飲食危機 - 鄒重璂醫生](https://www.youtube.com/watch?v=X0e1ghsgBoo)    
 - [研究表明同样的食物对每个人的反应不同](https://mp.weixin.qq.com/s/_NLWffCJyzvSYDwTlB87KA)     
-- [Body fat percentage charts for men and women](https://www.medicalnewstoday.com/articles/body-fat-percentage-chart)     
+- [Body fat percentage charts for men and women](https://www.medicalnewstoday.com/articles/body-fat-percentage-chart)    
+- [亚洲人基础代谢率算法及影响因素](/bmr_asian.md)    
+ 
 
 ### 比值研究
 
