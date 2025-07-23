@@ -106,7 +106,7 @@
 - [断食科学中丙酮与血酮的换算方法](/fasting_acetone.md)    
 - [椰子油与MCT油对生酮影响分析](/fasting_mct_oil.md)    
 - [牛油果对断食与生酮的影响分析](/fasting_avocado.md)    
-- [](/fasting_ketines_04.md)    
+- [断食营养生酮与酮体指数分析](/fasting_ketines_04.md)    
 
 ### 苹果醋研究
 
