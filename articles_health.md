@@ -60,7 +60,7 @@
 - [研究表明同样的食物对每个人的反应不同](https://mp.weixin.qq.com/s/_NLWffCJyzvSYDwTlB87KA)     
 - [Body fat percentage charts for men and women](https://www.medicalnewstoday.com/articles/body-fat-percentage-chart)    
 - [亚洲人基础代谢率算法及影响因素](/bmr_asian.md)    
- 
+- [胆固醇是生命的基础，而不是敌人](https://mp.weixin.qq.com/s/1hP2XGeeUVhCmFvepi5r5A)    
 
 ### 比值研究
 
