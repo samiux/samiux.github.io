@@ -16,6 +16,11 @@
 
 Samiux    
 二零二五年六月十六日，中国香港    
+更新 二零二五年七月廿六日，中国香港    
+
+### 更新
+
+昨晚做了一次糖化血糖蛋白 HbA1c 自测，其结果为 5.4%。经过大概一个月的纯净断食，HbAc1 已经回復正常范围了。    
 
 ## 英文视频参考
 - [The Shocking Benefits of Eating 4 Eggs Everyday for 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
