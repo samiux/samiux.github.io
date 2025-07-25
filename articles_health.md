@@ -4,6 +4,7 @@
 
 ## 健康研究杂谈
 
+- [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
 - [中老年人蛋白质摄入最新研究分析](/protein.md)   
