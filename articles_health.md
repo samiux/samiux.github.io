@@ -68,6 +68,7 @@
 - [脂肪续篇 饱和脂肪酸促炎？对人有害？大可不必那么怕~](https://mp.weixin.qq.com/s/7Bf4qmEeBbffG7W9zju-Rg)    
 - [自然.医学：用土豆“试出”你的胰岛功能！斯坦福团队发现，吃土豆后血糖反应高，可能预示这些问题……](https://mp.weixin.qq.com/s/JixR6g01tfd522eqpzF06w)    
 - [如何燃烧内脏脂肪？什么是肌肉脂肪浸润？](https://mp.weixin.qq.com/s/LlcfffCdY8esrU8Xt1XPZQ)    
+- [超重必看：减肥必需的5个步骤](https://mp.weixin.qq.com/s/MIOZQEitYpR_mm5htLgOlw)    
 
 ### 比值研究
 
