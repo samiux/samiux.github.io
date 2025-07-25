@@ -64,6 +64,8 @@
 - [胆固醇是生命的基础，而不是敌人](https://mp.weixin.qq.com/s/1hP2XGeeUVhCmFvepi5r5A)    
 - [铁子们！你的体脂率到多少了？](https://mp.weixin.qq.com/s/2l1HzPqvcmykSoo8yXzi4A)    
 - [碳水真的有助于减肥？看看指南的变化](https://mp.weixin.qq.com/s/pvOwFv5vAO_hkNiHj1JxYA)    
+- [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)    
+- [脂肪续篇 饱和脂肪酸促炎？对人有害？大可不必那么怕~](https://mp.weixin.qq.com/s/7Bf4qmEeBbffG7W9zju-Rg)    
 
 ### 比值研究
 
