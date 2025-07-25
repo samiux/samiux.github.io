@@ -61,6 +61,7 @@
 - [Body fat percentage charts for men and women](https://www.medicalnewstoday.com/articles/body-fat-percentage-chart)    
 - [亚洲人基础代谢率算法及影响因素](/bmr_asian.md)    
 - [胆固醇是生命的基础，而不是敌人](https://mp.weixin.qq.com/s/1hP2XGeeUVhCmFvepi5r5A)    
+- [铁子们！你的体脂率到多少了？](https://mp.weixin.qq.com/s/2l1HzPqvcmykSoo8yXzi4A)    
 
 ### 比值研究
 
