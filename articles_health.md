@@ -66,6 +66,7 @@
 - [碳水真的有助于减肥？看看指南的变化](https://mp.weixin.qq.com/s/pvOwFv5vAO_hkNiHj1JxYA)    
 - [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)    
 - [脂肪续篇 饱和脂肪酸促炎？对人有害？大可不必那么怕~](https://mp.weixin.qq.com/s/7Bf4qmEeBbffG7W9zju-Rg)    
+- [自然.医学：用土豆“试出”你的胰岛功能！斯坦福团队发现，吃土豆后血糖反应高，可能预示这些问题……](https://mp.weixin.qq.com/s/JixR6g01tfd522eqpzF06w)    
 
 ### 比值研究
 
