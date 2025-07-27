@@ -79,6 +79,7 @@
 - [TC/HDL-C比值临床意义及研究进展](/tc_hdl-c.md)    
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
 - [断食科学分析TG/HDL与TG/LDL比值](/fasting_tg-hdl_tg-ldl.md)    
+- [断食与血脂管理科学解析](/fasting_lipoproteins.md)    
 
 ## 断食研究杂谈
 
@@ -110,7 +111,6 @@
 - [轻断食并不适合所有人，这几类人群不要轻易尝试](https://mp.weixin.qq.com/s/sTS_lV_Y6ldql_dh9yVVlA)        
 - [#1 Fasting Doctor: The FASTEST Way To Lose Weight (Calories Don't Work) Dr Jason Fung](https://www.youtube.com/watch?v=bREYYm_8xiQ)    
 - [断食与血脂管理科学解析](/fasting_lipoproteins.md)    
-
 
 ### 生酮相关
 
