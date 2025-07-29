@@ -4,6 +4,7 @@
 
 ## 健康研究杂谈
 
+- [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
