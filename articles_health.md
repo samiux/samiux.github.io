@@ -72,6 +72,7 @@
 - [心血管疾病风险标志物与管理策略](/sdldl-c_apob_lpa.md)    
 - [为什么经常发低血糖，体重却仍在增加？](https://mp.weixin.qq.com/s/lPvKmkYp9upwp9BWe3x9gA)     
 - [人为什么要吃肉？大脑缺肉真的会“饿坏”](https://mp.weixin.qq.com/s/no3xMYav_AbKhgJ6fPVwnQ)   
+- [Dr Paul Mason: #1 Proven Way To Lose Weight FAST (Calories Doesn't Work)](https://www.youtube.com/watch?v=c8_WeDz1uXw)    
 
 ### 比值研究
 
