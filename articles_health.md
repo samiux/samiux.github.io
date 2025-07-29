@@ -126,8 +126,14 @@
 - [椰子油与MCT油对生酮影响分析](/fasting_mct_oil.md)    
 - [牛油果对断食与生酮的影响分析](/fasting_avocado.md)    
 - [断食营养生酮与酮体指数分析](/fasting_ketones_04.md)    
+
+### MCT 油
+
 - [MCT油与断食生酮关系及使用时机](/mct_oil.md)    
 - [Why MCT Oil Boosts Your Ketones: Dr. Bikman Explains](https://www.youtube.com/watch?v=VNMpToV8_UY)      
+- [How to Properly Use MCT Oil when Intermittent Fasting](https://www.youtube.com/watch?v=khyBJRPmZkY)     
+- [MCT Oil and Fasting: Does It Break A Fast?](https://www.youtube.com/watch?v=TrPbIiKL-Ao)    
+- [Will MCT Oil REALLY Help You Lose Weight & Reach KETOSIS Faster?](https://www.youtube.com/watch?v=vo_5K9zBdJ0)     
 
 ### 苹果醋研究
 
