@@ -66,6 +66,8 @@ Samiux
 - [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)  
 - [没吃饭，血糖也高，一般与这3种现象有关！](https://mp.weixin.qq.com/s/SEwuz4ACZutsntsLSYxD5Q)    
 
+![](https://raw.githubusercontent.com/samiux/images/master/cgm/gi_gl.jpg)  
+
 ```sha256sum 5f6d39e4cee173cca402ca7d418446c1bf01c3a4bc2dcb491c749db7af1824fd  三诺动态血糖仪报告_15天_redacted.pdf```
 
 <object data="/pdf/三诺动态血糖仪报告_15天_redacted.pdf" type="application/pdf" width="900px" height="700px">
