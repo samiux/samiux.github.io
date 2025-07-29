@@ -4,6 +4,7 @@
 
 ## 健康研究杂谈
 
+- [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
@@ -126,6 +127,7 @@
 - [牛油果对断食与生酮的影响分析](/fasting_avocado.md)    
 - [断食营养生酮与酮体指数分析](/fasting_ketones_04.md)    
 - [MCT油与断食生酮关系及使用时机](/mct_oil.md)    
+- [Why MCT Oil Boosts Your Ketones: Dr. Bikman Explains](https://www.youtube.com/watch?v=VNMpToV8_UY)      
 
 ### 苹果醋研究
 
