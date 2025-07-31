@@ -80,4 +80,16 @@
 
 > 临床提示：居家监测脉压差时，若连续3日 >60 mmHg 或伴随头晕、胸闷症状，需尽早就医评估动脉硬化程度及靶器官损害。
 
+更新 二零二五年八月一日，中国香港    
+
+脉压差计算方法：
+
+上压 - 下压 = 压差
+
+过高或过低也不好
+
+20 - 40   视为正常    
+40 - 60   熬夜、疲勞    
+60+       血管、心脏疾病    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
