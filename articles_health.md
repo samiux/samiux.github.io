@@ -135,6 +135,7 @@
 
 - [MCT油与断食生酮关系及使用时机](/mct_oil.md)    
 - [MCT油与断食生酮关系及使用时机 2](/mct_oil_02.md)    
+- [断食生酮与MCT油血酮提升策略](/mct_oil_03.md)     
 - [Why MCT Oil Boosts Your Ketones: Dr. Bikman Explains](https://www.youtube.com/watch?v=VNMpToV8_UY)      
 - [How to Properly Use MCT Oil when Intermittent Fasting](https://www.youtube.com/watch?v=khyBJRPmZkY)     
 - [MCT Oil and Fasting: Does It Break A Fast?](https://www.youtube.com/watch?v=TrPbIiKL-Ao)    
