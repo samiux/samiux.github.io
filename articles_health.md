@@ -120,6 +120,7 @@
 - [5 EPIC FASTING MISTAKES That Make You Gain Weight](https://www.youtube.com/watch?v=hm-LLgBmbKI)    
 - [Nobody Tells You THIS Happens After 48 Hours Without Food](https://www.youtube.com/watch?v=9zjX6uaoJ1Q)     
 - [多种断食方式，逆转2型糖尿病](https://mp.weixin.qq.com/s/OXg-QQiotVbBU-lxeWaT3w)     
+- [脂蛋白a与血脂代谢关系研究](/lpa.md)    
 
 ### 生酮相关
 
