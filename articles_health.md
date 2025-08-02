@@ -135,6 +135,7 @@
 - [断食营养生酮与酮体指数分析](/fasting_ketones_04.md)    
 - [生酮状态数值与GKI研究详述](/fasting_ketones_05.md)    
 - [生酮断食数值波动及维持策略分析](/fasting_ketones_06.md)    
+- [断食期酮值低原因及提升策略解析](/fasting_ketones_07.md)    
 
 ### MCT 油
 
