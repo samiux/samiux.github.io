@@ -133,6 +133,7 @@
 - [椰子油与MCT油对生酮影响分析](/fasting_mct_oil.md)    
 - [牛油果对断食与生酮的影响分析](/fasting_avocado.md)    
 - [断食营养生酮与酮体指数分析](/fasting_ketones_04.md)    
+- [生酮状态数值与GKI研究详述](/fasting_ketones_05.md)    
 
 ### MCT 油
 
