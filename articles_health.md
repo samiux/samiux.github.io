@@ -122,6 +122,8 @@
 - [Nobody Tells You THIS Happens After 48 Hours Without Food](https://www.youtube.com/watch?v=9zjX6uaoJ1Q)     
 - [多种断食方式，逆转2型糖尿病](https://mp.weixin.qq.com/s/OXg-QQiotVbBU-lxeWaT3w)     
 - [脂蛋白a与血脂代谢关系研究](/lpa.md)    
+- [丹神的间歇性高碳减肥法](http://www.chinalowcarb.com/carb-cycling/)
+- [丹神的增肌减脂法](http://www.chinalowcarb.com/danshen2/)   
 
 ### 生酮相关
 
