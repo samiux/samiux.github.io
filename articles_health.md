@@ -85,6 +85,7 @@
 - [LDL/HDL比值最新研究综述](/ldl_hdl.md)    
 - [断食科学分析TG/HDL与TG/LDL比值](/fasting_tg-hdl_tg-ldl.md)    
 - [断食与血脂管理科学解析](/fasting_lipoproteins.md)    
+- [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)      
 
 ## 断食研究杂谈
 
