@@ -87,6 +87,7 @@
 - [断食与血脂管理科学解析](/fasting_lipoproteins.md)    
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)      
 - [比BMI更准！新型肥胖指标预测中风风险，这个模型能提前预警](https://mp.weixin.qq.com/s/Y8JoN6BI9Ffw2oy06TNACQ)    
+- [标准体重计算法](/std_weight.md)    
 
 ## 断食研究杂谈
 
