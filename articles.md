@@ -153,6 +153,7 @@
 - [Low latency Kernel for Ubuntu 24.04 LTS and Debian 12.5](/low_latency.md)
 - [Realtime Kernel for Ubuntu 24.04 LTS](/realtime_kernel.md)  
 - [AMD Graphics Cards Open Source Driver by AMD](/amdgpu-install.md)  
+- [rc.local on Ubuntu 24.04 LTS](/rclocal.md)    
 
 ### DeepSeek and LLM
 
