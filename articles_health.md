@@ -143,6 +143,7 @@
 - [断食期酮值低原因及提升策略解析](/fasting_ketones_07.md)    
 - [断食生酮持续执行与体脂标准详解](/fasting_ketones_08.md)    
 - [生酮饮食不是高蛋白饮食！如何科学生酮饮食？](http://www.chinalowcarb.com/two-major-misunderstandings-about-the-ketogenic-diet/)     
+- [血酮值降低原因及改善策略分析](/fasting_ketones_low.md)     
 
 ### MCT 油
 
