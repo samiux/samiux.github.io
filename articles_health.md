@@ -127,6 +127,7 @@
 - [多种断食方式，逆转2型糖尿病](https://mp.weixin.qq.com/s/OXg-QQiotVbBU-lxeWaT3w)     
 - [脂蛋白a与血脂代谢关系研究](/lpa.md)    
 - [丹神的间歇性高碳减肥法](http://www.chinalowcarb.com/carb-cycling/)
+- [断食科学提升代谢率燃烧脂肪](fasting_fat_burning.md)     
 
 ### 生酮相关
 
