@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RCCC HKI Duty List Search</title>
+    <base href="https://websim.ai" />
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+            color: #333;
+            min-height: 100vh;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 25px 0;
+            background: linear-gradient(to right, #1a5276, #2874a6);
+            color: white;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: -1px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 2.2rem;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+        
+        .header a {
+            color: #aed6f1;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        
+        .header a:hover {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+        
+        .container {
+            background-color: white;
+            border-radius: 0 0 8px 8px;
+            padding: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        
+        .input-section {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: flex-end;
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 6px;
+            border: 1px solid #e9ecef;
+        }
+        
+        .input-group {
+            flex: 1;
+            min-width: 250px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        input[type="date"] {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #d1d8e0;
+            border-radius: 6px;
+            font-size: 1rem;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+        
+        input[type="date"]:focus {
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+            outline: none;
+        }
+        
+        button {
+            background: linear-gradient(to bottom, #27ae60, #2ecc71);
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            min-height: 46px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        button:hover {
+            background: linear-gradient(to bottom, #219653, #27ae60);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+        
+        button:active {
+            transform: translateY(0);
+        }
+        
+        .result-section {
+            margin-top: 25px;
+            padding: 0;
+            background-color: #e7f3fe;
+            border-left: 5px solid #2196F3;
+            border-radius: 6px;
+            overflow: hidden;
+        }
+        
+        .result-header {
+            background-color: #2196F3;
+            color: white;
+            padding: 15px 20px;
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+        
+        .result-content {
+            padding: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        
+        th {
+            background-color: #2c3e50;
+            color: white;
+            text-align: left;
+            padding: 14px 15px;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e1e1e1;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        tr:hover {
+            background-color: #edf7ff;
+        }
+        
+        .duty-code {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-weight: bold;
+            text-align: center;
+            min-width: 40px;
+        }
+        
+        .team-1 .duty-code { background-color: #e8f6f3; color: #00897b; }
+        .team-2 .duty-code { background-color: #e3f2fd; color: #1565c0; }
+        .team-3 .duty-code { background-color: #ffecb3; color: #ff8f00; }
+        .team-4 .duty-code { background-color: #fce4ec; color: #c2185b; }
+        
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 25px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 6px;
+            border: 1px solid #e9ecef;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+        }
+        
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+        }
+        
+        .legend-1 { background-color: #e8f6f3; border: 1px solid #00897b; }
+        .legend-2 { background-color: #e3f2fd; border: 1px solid #1565c0; }
+        .legend-3 { background-color: #ffecb3; border: 1px solid #ff8f00; }
+        .legend-4 { background-color: #fce4ec; border: 1px solid #c2185b; }
+        
+        @media (max-width: 768px) {
+            .input-section {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            button {
+                width: 100%;
+            }
+            
+            th, td {
+                padding: 10px 8px;
+                font-size: 0.9rem;
+            }
+            
+            .header h1 {
+                font-size: 1.8rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                padding: 20px 15px;
+            }
+            
+            th, td {
+                padding: 8px 6px;
+                font-size: 0.85rem;
+            }
+            
+            .duty-code {
+                padding: 3px 8px;
+                min-width: 35px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>RCCC HKI Duty List Search</h1>
+        <p>Version 0.6 by Samiux (<a href="https://samiux.github.io">https://samiux.github.io</a>)</p>
+    </div>
+    
+    <div class="container">
+        <div class="input-section">
+            <div class="input-group">
+                <label for="date">Enter the date:</label>
+                <input type="date" id="date" required>
+            </div>
+            <button onclick="searchDuty()">Search Duty Schedule</button>
+        </div>
+        
+        <div id="result" class="result-section">
+            <div class="result-header">Duty Schedule</div>
+            <div class="result-content">
+                <p>Select a date and click "Search Duty Schedule" to view the duty roster.</p>
+            </div>
+        </div>
+        
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color legend-1"></div>
+                <span>Team 1</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-2"></div>
+                <span>Team 2</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-3"></div>
+                <span>Team 3</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-4"></div>
+                <span>Team 4</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const list = ['C1', 'C2', 'C3', 'C4', 'L ', 'TO', 'B1', 'B2', 'B3', 'B4', 'L ', 'A1', 'A2', 'A3', 'A4', 'L '];
+        const defaultDateList = [
+            new Date(1990, 7, 5),
+            new Date(1990, 7, 17),
+            new Date(1990, 7, 13),
+            new Date(1990, 7, 9)
+        ];
+        
+        // Set today's date as default
+        window.onload = function() {
+            const today = new Date();
+            const formattedDate = today.toISOString().split('T')[0];
+            document.getElementById('date').value = formattedDate;
+        };
+
+        function searchDuty() {
+            const targetDateInput = document.getElementById('date').value;
+            
+            if (!targetDateInput) {
+                document.getElementById('result').innerHTML = `
+                    <div class="result-header">Error</div>
+                    <div class="result-content">
+                        <p>Please select a valid date.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            const targetDate = new Date(targetDateInput);
+            let tableHTML = `
+                <div class="result-header">Duty Schedule for ${targetDate.toDateString()}</div>
+                <div class="result-content">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Team</th>
+                                <th>Target Day Duty</th>
+                                <th>Next Day Duty</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+            `;
+            
+            for (let i = 0; i < 4; i++) {
+                const numOfDate = Math.floor((targetDate - defaultDateList[i]) / (1000 * 60 * 60 * 24));
+                const dayPattern = numOfDate % 16;
+                const currentDay = list[dayPattern];
+                const nextDay = list[(dayPattern + 1) % 16];
+                
+                tableHTML += `
+                    <tr class="team-${i+1}">
+                        <td>Team ${i + 1}</td>
+                        <td><span class="duty-code">${currentDay}</span></td>
+                        <td><span class="duty-code">${nextDay}</span></td>
+                    </tr>
+                `;
+            }
+            
+            tableHTML += `
+                        </tbody>
+                    </table>
+                </div>
+            `;
+            
+            document.getElementById('result').innerHTML = tableHTML;
+        }
+    </script>
+</body>
+</html>
