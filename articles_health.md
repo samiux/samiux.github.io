@@ -2,6 +2,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+- [代谢健康指标计算器](/metabolism_index_calculator.html)    
+
 ## 健康研究杂谈
 
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
