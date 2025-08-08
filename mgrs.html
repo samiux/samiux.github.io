@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MGRS Locator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 30px;
+            width: 90%;
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 25px;
+            font-size: 2.2rem;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        button {
+            padding: 14px 28px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            background: linear-gradient(to right, #3498db, #2980b9);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+            margin: 15px 0;
+            width: 100%;
+            max-width: 300px;
+        }
+        button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4);
+        }
+        button:active {
+            transform: translateY(1px);
+        }
+        button:disabled {
+            background: linear-gradient(to right, #bdc3c7, #95a5a6);
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        .data-container {
+            margin-top: 25px;
+            text-align: left;
+            width: 100%;
+        }
+        .data-item {
+            background: #f8f9fa;
+            padding: 15px;
+            margin: 12px 0;
+            border-radius: 10px;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+            font-size: 17px;
+        }
+        .data-label {
+            font-weight: bold;
+            color: #3498db;
+            display: block;
+            margin-bottom: 5px;
+        }
+        #mgrs {
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            font-size: 19px;
+            color: #e74c3c;
+            letter-spacing: 1px;
+        }
+        #loading {
+            margin: 25px 0;
+            font-size: 17px;
+            color: #3498db;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+        .spinner {
+            border: 4px solid rgba(52, 152, 219, 0.2);
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 24px;
+            height: 24px;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        #explain {
+            font-size: 15px;
+            color: #7f8c8d;
+            margin-top: 20px;
+            font-style: italic;
+        }
+        #error {
+            color: #e74c3c;
+            margin: 20px 0;
+            padding: 15px;
+            background: #fdeded;
+            border-radius: 8px;
+            display: none;
+        }
+        .status {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 25px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+        .accuracy-good { color: #27ae60; }
+        .accuracy-medium { color: #f39c12; }
+        .accuracy-poor { color: #e74c3c; }
+    </style>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+
+<body>
+    <div class="container">
+        <h1>MGRS Locator V4.1</h1>
+        <button id="get-location">Start Location Tracking</button>
+        
+        <div id="loading">
+            <div class="spinner"></div>
+            <span>Active tracking - Fetching location data...</span>
+        </div>
+        
+        <div id="error"></div>
+        
+        <div class="data-container">
+            <div class="data-item">
+                <span class="data-label">MGRS Coordinates</span>
+                <div id="mgrs">--</div>
+            </div>
+            
+            <div class="data-item">
+                <span class="data-label">Horizontal Accuracy</span>
+                <div id="horizontalAccuracy">--</div>
+            </div>
+            
+            <div class="data-item">
+                <span class="data-label">Altitude</span>
+                <div id="altitude">--</div>
+            </div>
+            
+            <div class="data-item">
+                <span class="data-label">Altitude Accuracy</span>
+                <div id="altitudeAccuracy">--</div>
+            </div>
+            
+            <div class="data-item">
+                <span class="data-label">Current Date</span>
+                <div id="date">--</div>
+            </div>
+            
+            <div class="data-item">
+                <span class="data-label">Current Time (24h format)</span>
+                <div id="time">--</div>
+            </div>
+        </div>
+        
+        <div id="explain">Note: Altitude accuracy may vary significantly between devices and environments.</div>
+        
+        <div class="status">
+            <div id="copyright"></div>
+            <div id="timer">00:00</div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/mgrs/dist/mgrs.min.js"></script>
+    <script>
+        let watchId = null;
+        let timeIntervalId = null;
+        let elapsedIntervalId = null;
+        let elapsedSeconds = 0;
+        const maxTrackingTime = 300; // 5 minutes
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('get-location').addEventListener('click', handleGetLocation);
+            updateCopyrightYear();
+        });
+
+        async function handleGetLocation() {
+            const button = document.getElementById('get-location');
+            if (watchId) {
+                // If already tracking, stop tracking
+                cleanup();
+                button.textContent = 'Start Location Tracking';
+                return;
+            }
+            
+            button.textContent = 'Stop Tracking';
+            document.getElementById('error').style.display = 'none';
+            document.getElementById('loading').style.display = 'flex';
+            document.getElementById('explain').style.display = 'block';
+            
+            // Reset and start elapsed time counter
+            elapsedSeconds = 0;
+            updateTimerDisplay();
+            elapsedIntervalId = setInterval(() => {
+                elapsedSeconds++;
+                updateTimerDisplay();
+                if (elapsedSeconds >= maxTrackingTime) {
+                    cleanup();
+                }
+            }, 1000);
+            
+            // Start time display updates
+            timeIntervalId = setInterval(() => {
+                displayCurrentTime();
+                displayCurrentDate();
+            }, 1000);
+            
+            // Start geolocation tracking
+            if (navigator.geolocation) {
+                watchId = navigator.geolocation.watchPosition(
+                    position => handlePositionSuccess(position),
+                    error => handlePositionError(error),
+                    {
+                        maximumAge: 0,
+                        timeout: 10000,
+                        enableHighAccuracy: true
+                    }
+                );
+            } else {
+                displayError('Geolocation is not supported by this browser.');
+                cleanup();
+            }
+        }
+
+        function handlePositionSuccess(position) {
+            displayMGRS(position);
+            displayHorizontalAccuracy(position);
+            displayAltitude(position);
+            displayAltitudeAccuracy(position);
+        }
+
+        function handlePositionError(error) {
+            let errorMessage;
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                    errorMessage = "Location access denied. Please enable location permissions in your browser settings.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    errorMessage = "Location information is unavailable. Please check your connection and try again.";
+                    break;
+                case error.TIMEOUT:
+                    errorMessage = "The request to get location timed out. Please try again.";
+                    break;
+                default:
+                    errorMessage = "An unknown error occurred while fetching location.";
+            }
+            displayError(errorMessage);
+        }
+
+        function displayMGRS(position) {
+            try {
+                const lat = position.coords.latitude;
+                const lon = position.coords.longitude;
+                const mgrsCode = mgrs.forward([lon, lat]);
+                document.getElementById('mgrs').innerText = mgrsCode;
+            } catch (e) {
+                document.getElementById('mgrs').innerText = "Conversion error";
+                console.error("MGRS conversion error:", e);
+            }
+        }
+
+        function displayHorizontalAccuracy(position) {
+            const acc = position.coords.accuracy;
+            if (acc === null || acc === undefined) {
+                document.getElementById('horizontalAccuracy').innerText = "Unavailable";
+                return;
+            }
+            
+            let accuracyClass = '';
+            if (acc <= 10) accuracyClass = 'accuracy-good';
+            else if (acc <= 30) accuracyClass = 'accuracy-medium';
+            else accuracyClass = 'accuracy-poor';
+            
+            document.getElementById('horizontalAccuracy').innerHTML = 
+                `<span class="${accuracyClass}">${acc.toFixed(2)} meters</span>`;
+        }
+
+        function displayAltitude(position) {
+            const alt = position.coords.altitude;
+            document.getElementById('altitude').innerText = 
+                alt !== null ? `${alt.toFixed(2)} meters` : "Unavailable";
+        }
+
+        function displayAltitudeAccuracy(position) {
+            const acc = position.coords.altitudeAccuracy;
+            document.getElementById('altitudeAccuracy').innerText = 
+                acc !== null ? `${acc.toFixed(2)} meters` : "Unavailable";
+        }
+
+        function displayCurrentDate() {
+            const currentDate = new Date().toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+            document.getElementById('date').innerText = currentDate;
+        }
+
+        function displayCurrentTime() {
+            const currentTime = new Date().toLocaleTimeString('en-US', { 
+                hour: '2-digit', 
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false 
+            });
+            document.getElementById('time').innerText = currentTime;
+        }
+
+        function displayError(message) {
+            const errorElement = document.getElementById('error');
+            errorElement.innerText = `Error: ${message}`;
+            errorElement.style.display = 'block';
+        }
+
+        function updateTimerDisplay() {
+            const minutes = Math.floor(elapsedSeconds / 60).toString().padStart(2, '0');
+            const seconds = (elapsedSeconds % 60).toString().padStart(2, '0');
+            document.getElementById('timer').innerText = `${minutes}:${seconds}`;
+        }
+
+        function cleanup() {
+            // Stop geolocation tracking
+            if (watchId) {
+                navigator.geolocation.clearWatch(watchId);
+                watchId = null;
+            }
+            
+            // Stop time updates
+            if (timeIntervalId) {
+                clearInterval(timeIntervalId);
+                timeIntervalId = null;
+            }
+            
+            // Stop elapsed timer
+            if (elapsedIntervalId) {
+                clearInterval(elapsedIntervalId);
+                elapsedIntervalId = null;
+            }
+            
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('get-location').textContent = 'Start Location Tracking';
+        }
+
+        function updateCopyrightYear() {
+            const currentYear = new Date().getFullYear();
+            document.getElementById('copyright').innerHTML = `&copy; ${currentYear} Samiux`;
+        }
+    </script>
+</body>
+</html>
