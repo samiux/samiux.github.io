@@ -89,6 +89,7 @@
 - [比BMI更准！新型肥胖指标预测中风风险，这个模型能提前预警](https://mp.weixin.qq.com/s/Y8JoN6BI9Ffw2oy06TNACQ)    
 - [标准体重计算法](/std_weight.md)    
 - [肌酐值计算与改善方法详解](/creatinine.md)    
+- [TyG指数及其衍生指标临床意义解析](/tyg.md)    
 
 ## 断食研究杂谈
 
