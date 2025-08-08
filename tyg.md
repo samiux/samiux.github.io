@@ -116,6 +116,7 @@ TyG系列指标异常早于糖尿病确诊5–10年，每日减少300 kcal摄入
 > - 甘油三酯（TG）：mmol/L（国际标准单位）  
 > - 血糖（FPG）：mmol/L  
 > - 腰围/身高：cm  
+> - 体重：kg    
 > - 能量：kcal（1 kcal = 4.184 kJ）
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
