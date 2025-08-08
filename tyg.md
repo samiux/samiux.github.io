@@ -2,6 +2,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+- [代谢健康指标计算器](/metabolism_index_calculator.html)    
+
 以下是根据最新研究（截至2025年）对TyG系列指标的完整说明，严格采用**国际单位制**（甘油三酯：mmol/L；血糖：mmol/L；腰围/身高：cm；体重：kg），**能量单位统一为千卡（kcal）**，包含临床切点值，并以纯文本形式呈现：
 
 ---
