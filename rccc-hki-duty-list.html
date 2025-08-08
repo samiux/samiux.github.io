@@ -310,7 +310,6 @@
             const today = new Date();
             const timezoneOffset = today.getTimezoneOffset() * 60000;
             const formattedDate = (new Date(today - timezoneOffset)).toISOString().split('T')[0];
-//            const formattedDate = today.toISOString().split('T')[0];
             document.getElementById('date').value = formattedDate;
         };
 
