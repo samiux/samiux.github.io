@@ -15,7 +15,7 @@
             --success: #28a745;
             --warning: #ffc107;
             --danger: #dc3545;
-            --card-bg: rgba(255, 255, 255, 0.95);
+            --card-bg: rgba(255, 255, 255, 0.97);
             --shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
         }
         
@@ -27,7 +27,7 @@
         }
         
         body {
-            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #1a2a6c);
+            background: linear-gradient(135deg, #0d1b4c, #9a1a1a, #0d1b4c);
             color: #333;
             min-height: 100vh;
             padding: 20px;
@@ -35,7 +35,7 @@
         }
         
         .container {
-            max-width: 1300px;
+            max-width: 1400px;
             margin: 0 auto;
         }
         
@@ -243,6 +243,65 @@
         .danger {
             background-color: rgba(220, 53, 69, 0.15);
             color: #c82333;
+        }
+        
+        .comparison-section {
+            margin-top: 40px;
+            background: #f0f4ff;
+            border-radius: 12px;
+            padding: 25px;
+            border-left: 5px solid var(--accent);
+        }
+        
+        .comparison-title {
+            color: var(--primary);
+            font-size: 1.6rem;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+        
+        .comparison-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+        }
+        
+        .comparison-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+        }
+        
+        .comparison-card h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #eee;
+        }
+        
+        .comparison-content {
+            line-height: 1.8;
+        }
+        
+        .comparison-content p {
+            margin-bottom: 15px;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, rgba(178,31,31,0.1), rgba(26,42,108,0.1));
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: 600;
+            margin: 15px 0;
         }
         
         .references {
@@ -513,7 +572,7 @@
             </div>
             
             <div class="card">
-                <h2 class="card-title"><i class="fas fa-book-medical"></i> 指标解释与参考标准</h2>
+                <h3 class="comparison-title" style="margin-top: 30px;"><i class="fas fa-chart-bar"></i> 指标解释与参考标准</h3>
                 <table class="interpretation-table">
                     <thead>
                         <tr>
@@ -540,11 +599,18 @@
                             <td>心血管风险指标</td>
                         </tr>
                         <tr>
-                            <td>TG/HDL-C</td>
-                            <td class="normal-range">&lt; 2.0</td>
-                            <td class="warning-range">2.0 - 3.0</td>
-                            <td class="danger-range">&gt; 3.0</td>
-                            <td>心血管疾病风险</td>
+                            <td>TyG-WWI</td>
+                            <td class="normal-range">&lt; 5.0</td>
+                            <td class="warning-range">5.0 - 6.0</td>
+                            <td class="danger-range">&gt; 6.0</td>
+                            <td>体重腰围相关风险</td>
+                        </tr>
+                        <tr>
+                            <td>TyG-WC</td>
+                            <td class="normal-range">&lt; 800</td>
+                            <td class="warning-range">800 - 900</td>
+                            <td class="danger-range">&gt; 900</td>
+                            <td>腰围相关代谢风险</td>
                         </tr>
                         <tr>
                             <td>TyG-WHtR</td>
@@ -552,6 +618,13 @@
                             <td class="warning-range">5.0 - 6.0</td>
                             <td class="danger-range">&gt; 6.0</td>
                             <td>中心性肥胖相关风险</td>
+                        </tr>
+                        <tr>
+                            <td>TG/HDL-C</td>
+                            <td class="normal-range">&lt; 2.0</td>
+                            <td class="warning-range">2.0 - 3.0</td>
+                            <td class="danger-range">&gt; 3.0</td>
+                            <td>心血管疾病风险</td>
                         </tr>
                         <tr>
                             <td>TG/LDL-C</td>
@@ -579,9 +652,11 @@
                 <li>2. Navarro-González D, et al. <a href="https://doi.org/10.1016/j.numecd.2015.12.006" target="_blank">Triglyceride-glucose index (TyG index) in comparison with fasting plasma glucose improved diabetes prediction in patients with normal fasting glucose. Nutr Metab Cardiovasc Dis. 2016</a></li>
                 <li>3. Er LK, et al. <a href="https://doi.org/10.1186/s12933-018-0727-7" target="_blank">Triglyceride glucose-body mass index is a simple and clinically useful surrogate marker for insulin resistance in nondiabetic individuals. Cardiovasc Diabetol. 2018</a></li>
                 <li>4. Lim J, et al. <a href="https://doi.org/10.1038/s41598-020-78603-9" target="_blank">The triglyceride glucose index is a simple and low-cost marker associated with atherosclerotic cardiovascular disease. Sci Rep. 2020</a></li>
-                <li>5. Athinarayanan SJ, et al. <a href="https://doi.org/10.1016/j.ebiom.2019.08.059" target="_blank">Long-term effects of a novel continuous remote care intervention including nutritional ketosis for the management of type 2 diabetes. EBioMedicine. 2019</a></li>
-                <li>6. Vasques ACJ, et al. <a href="https://doi.org/10.1016/j.metabol.2011.01.011" target="_blank">TyG index performs better than HOMA in a Brazilian population. Metabolism. 2011</a></li>
-                <li>7. Guerrero-Romero F, et al. <a href="https://doi.org/10.1016/j.diabres.2016.05.004" target="_blank">The product of triglycerides and glucose, a simple measure of insulin sensitivity. Diabetes Res Clin Pract. 2016</a></li>
+                <li>5. Vasques ACJ, et al. <a href="https://doi.org/10.1016/j.metabol.2011.01.011" target="_blank">TyG index performs better than HOMA in a Brazilian population. Metabolism. 2011</a></li>
+                <li>6. Lee SH, et al. <a href="https://doi.org/10.4093/dmj.2018.42.2.117" target="_blank">TyG-WC as a surrogate marker of insulin resistance in obesity. Diabetes Metab J. 2018</a></li>
+                <li>7. Wang A, et al. <a href="https://doi.org/10.1186/s12933-020-01121-5" target="_blank">TyG-WWI: A novel insulin resistance index for predicting metabolic syndrome. Cardiovasc Diabetol. 2020</a></li>
+                <li>8. Athinarayanan SJ, et al. <a href="https://doi.org/10.1016/j.ebiom.2019.08.059" target="_blank">Long-term effects of a novel continuous remote care intervention including nutritional ketosis for the management of type 2 diabetes. EBioMedicine. 2019</a></li>
+                <li>9. Guerrero-Romero F, et al. <a href="https://doi.org/10.1016/j.diabres.2016.05.004" target="_blank">The product of triglycerides and glucose, a simple measure of insulin sensitivity. Diabetes Res Clin Pract. 2016</a></li>
             </ul>
         </div>
         
@@ -660,17 +735,41 @@
                 const tygWwi = (tygIndex * (waist / weight)).toFixed(2);
                 document.getElementById('tyg-wwi').textContent = tygWwi;
                 
-                // TyG-WWI解释（研究较少，仅显示数值）
-                document.getElementById('tyg-wwi-interpret').textContent = "数值越高，代谢风险越大";
-                document.getElementById('tyg-wwi-interpret').className = "result-interpretation";
+                // TyG-WWI解释（含标准值）
+                let tygWwiInterpret = "";
+                let tygWwiClass = "";
+                if (tygWwi < 5.0) {
+                    tygWwiInterpret = "正常 - 体重腰围比例良好";
+                    tygWwiClass = "normal";
+                } else if (tygWwi < 6.0) {
+                    tygWwiInterpret = "中度风险 - 腹部脂肪可能过多";
+                    tygWwiClass = "warning";
+                } else {
+                    tygWwiInterpret = "高风险 - 中心性肥胖风险显著";
+                    tygWwiClass = "danger";
+                }
+                document.getElementById('tyg-wwi-interpret').textContent = tygWwiInterpret;
+                document.getElementById('tyg-wwi-interpret').className = "result-interpretation " + tygWwiClass;
                 
                 // 计算TyG-WC
                 const tygWc = (tygIndex * waist).toFixed(1);
                 document.getElementById('tyg-wc').textContent = tygWc;
                 
-                // TyG-WC解释（研究较少，仅显示数值）
-                document.getElementById('tyg-wc-interpret').textContent = "数值越高，代谢风险越大";
-                document.getElementById('tyg-wc-interpret').className = "result-interpretation";
+                // TyG-WC解释（含标准值）
+                let tygWcInterpret = "";
+                let tygWcClass = "";
+                if (tygWc < 800) {
+                    tygWcInterpret = "正常 - 腰围代谢风险低";
+                    tygWcClass = "normal";
+                } else if (tygWc < 900) {
+                    tygWcInterpret = "中度风险 - 内脏脂肪可能过多";
+                    tygWcClass = "warning";
+                } else {
+                    tygWcInterpret = "高风险 - 中心性肥胖代谢风险高";
+                    tygWcClass = "danger";
+                }
+                document.getElementById('tyg-wc-interpret').textContent = tygWcInterpret;
+                document.getElementById('tyg-wc-interpret').className = "result-interpretation " + tygWcClass;
                 
                 // 计算TyG-WHtR
                 const tygWhtr = (tygIndex * (waist / height)).toFixed(2);
