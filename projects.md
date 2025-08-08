@@ -13,7 +13,7 @@
 
 ## Others
 
-- [MGRS Locator 军用座标定位](/mgrs.md)    
+- [MGRS Locator 军用座标定位](/mgrs_page.md)    
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)    
 - [RCCC HKI Duty List](/rccchki.md)    
 
