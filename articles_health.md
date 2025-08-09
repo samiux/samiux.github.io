@@ -80,6 +80,8 @@
 - [人为什么要吃肉？大脑缺肉真的会“饿坏”](https://mp.weixin.qq.com/s/no3xMYav_AbKhgJ6fPVwnQ)   
 - [Dr Paul Mason: #1 Proven Way To Lose Weight FAST (Calories Doesn't Work)](https://www.youtube.com/watch?v=c8_WeDz1uXw)    
 - [Eat HIGH FAT for 30 Days: Fix Your Heart (Shocking Effect on LDL Cholesterol)](https://www.youtube.com/watch?v=4k2Ymio6w3o)    
+- [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)    
+- [The REAL Cause of Clogged Arteries & How FASTING Can Help - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)    
 
 ### 比值研究
 
