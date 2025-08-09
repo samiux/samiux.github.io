@@ -17,6 +17,7 @@
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)    
 - [RCCC HKI Duty List](/rccchki.md)    
 - [代谢健康指标计算器](/metabolism_index_calculator.html)
+- [代谢健康指标计算器 (增强版)](/metabolism_index_calculator_plus.html)    
 
 # Projects (INACTIVE)
 
