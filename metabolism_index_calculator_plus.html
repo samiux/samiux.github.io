@@ -1,0 +1,1474 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>代谢健康指标计算器 (增强版)</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #ff7e5f;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --success: #28a745;
+            --warning: #ffc107;
+            --danger: #dc3545;
+            --card-bg: rgba(255, 255, 255, 0.97);
+            --shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            --history-bg: rgba(255, 255, 255, 0.92);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #0d1b4c, #9a1a1a, #0d1b4c);
+            color: #333;
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 30px 20px;
+            color: white;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            margin-bottom: 20px;
+        }
+        
+        header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+            padding: 30px;
+            margin-bottom: 30px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+        }
+        
+        .card-title {
+            color: var(--primary);
+            font-size: 1.8rem;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .card-title i {
+            font-size: 1.6rem;
+            color: var(--secondary);
+        }
+        
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+        
+        .input-group {
+            margin-bottom: 22px;
+            position: relative;
+        }
+        
+        .input-group label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: var(--dark);
+            font-size: 1.05rem;
+        }
+        
+        .input-group input, .input-group select {
+            width: 100%;
+            padding: 14px 18px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 1.05rem;
+            transition: all 0.3s;
+            background: #fdfdfd;
+        }
+        
+        .input-group input:focus, .input-group select:focus {
+            border-color: var(--primary);
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(26, 42, 108, 0.15);
+            background: white;
+        }
+        
+        .input-group .unit {
+            position: absolute;
+            right: 15px;
+            top: 42px;
+            color: #777;
+            font-size: 0.95rem;
+        }
+        
+        .btn {
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            color: white;
+            border: none;
+            padding: 16px 32px;
+            font-size: 1.15rem;
+            font-weight: 600;
+            border-radius: 10px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin: 30px auto 0;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            width: 100%;
+            max-width: 400px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+            background: linear-gradient(to right, #23338d, #c62a2a);
+        }
+        
+        .btn:active {
+            transform: translateY(1px);
+        }
+        
+        .btn-sm {
+            padding: 8px 16px;
+            font-size: 0.9rem;
+            max-width: 150px;
+            margin: 0;
+        }
+        
+        .btn-danger {
+            background: linear-gradient(to right, var(--danger), #b21f1f);
+        }
+        
+        .btn-success {
+            background: linear-gradient(to right, var(--success), #0d7a33);
+        }
+        
+        .results-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 22px;
+            margin-top: 30px;
+        }
+        
+        .result-card {
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            border-radius: 12px;
+            padding: 22px;
+            text-align: center;
+            box-shadow: 0 5px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--primary);
+            transition: transform 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .result-card:hover {
+            transform: scale(1.03);
+        }
+        
+        .result-card h3 {
+            font-size: 1.15rem;
+            color: var(--primary);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .result-value {
+            font-size: 2.2rem;
+            font-weight: 800;
+            color: var(--secondary);
+            margin: 10px 0;
+            text-shadow: 0 2px 3px rgba(0,0,0,0.1);
+        }
+        
+        .result-interpretation {
+            font-size: 0.95rem;
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        
+        .normal {
+            background-color: rgba(40, 167, 69, 0.15);
+            color: #218838;
+        }
+        
+        .warning {
+            background-color: rgba(255, 193, 7, 0.15);
+            color: #e0a800;
+        }
+        
+        .danger {
+            background-color: rgba(220, 53, 69, 0.15);
+            color: #c82333;
+        }
+        
+        .comparison-section {
+            margin-top: 40px;
+            background: #f0f4ff;
+            border-radius: 12px;
+            padding: 25px;
+            border-left: 5px solid var(--accent);
+        }
+        
+        .comparison-title {
+            color: var(--primary);
+            font-size: 1.6rem;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+        
+        .comparison-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+        }
+        
+        .comparison-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+        }
+        
+        .comparison-card h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #eee;
+        }
+        
+        .comparison-content {
+            line-height: 1.8;
+        }
+        
+        .comparison-content p {
+            margin-bottom: 15px;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, rgba(178,31,31,0.1), rgba(26,42,108,0.1));
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: 600;
+            margin: 15px 0;
+        }
+        
+        .references {
+            margin-top: 40px;
+        }
+        
+        .references h2 {
+            color: white;
+            margin-bottom: 25px;
+            text-align: center;
+            font-size: 2rem;
+        }
+        
+        .references ul {
+            list-style-type: none;
+        }
+        
+        .references li {
+            background: rgba(255,255,255,0.1);
+            margin-bottom: 16px;
+            padding: 18px;
+            border-radius: 10px;
+            color: white;
+            transition: transform 0.3s;
+        }
+        
+        .references li:hover {
+            transform: translateX(5px);
+            background: rgba(255,255,255,0.15);
+        }
+        
+        .references a {
+            color: #a3d9ff;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .references a:hover {
+            text-decoration: underline;
+            color: #80c8ff;
+        }
+        
+        .interpretation-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 25px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        
+        .interpretation-table th, .interpretation-table td {
+            padding: 15px 18px;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .interpretation-table th {
+            background-color: var(--primary);
+            color: white;
+            font-weight: 600;
+        }
+        
+        .interpretation-table tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        .interpretation-table tr:hover {
+            background-color: #eef2f7;
+        }
+        
+        .interpretation-table .normal-range {
+            color: var(--success);
+            font-weight: 600;
+        }
+        
+        .interpretation-table .warning-range {
+            color: var(--warning);
+            font-weight: 600;
+        }
+        
+        .interpretation-table .danger-range {
+            color: var(--danger);
+            font-weight: 600;
+        }
+        
+        .note {
+            background: #fff8e1;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 25px;
+            border-left: 5px solid var(--warning);
+            font-size: 1.05rem;
+        }
+        
+        .note h3 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+            color: #856404;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 25px;
+            color: rgba(255,255,255,0.7);
+            font-size: 0.95rem;
+            margin-top: 20px;
+        }
+        
+        /* 历史记录部分 */
+        .history-section {
+            background: var(--history-bg);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: var(--shadow);
+        }
+        
+        .history-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--primary);
+        }
+        
+        .history-header h2 {
+            color: var(--primary);
+            font-size: 1.8rem;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .search-container {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .search-container input, .search-container select {
+            padding: 12px 15px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 1rem;
+            min-width: 200px;
+        }
+        
+        .history-table-container {
+            overflow-x: auto;
+            max-height: 500px;
+            overflow-y: auto;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        
+        .history-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        
+        .history-table th {
+            background-color: var(--primary);
+            color: white;
+            padding: 15px 20px;
+            text-align: left;
+            position: sticky;
+            top: 0;
+        }
+        
+        .history-table td {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .history-table tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        .history-table tr:hover {
+            background-color: #e9f7ff;
+        }
+        
+        .action-cell {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .no-records {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 1.2rem;
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.7);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal-content {
+            background: white;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 800px;
+            max-height: 90vh;
+            overflow-y: auto;
+            padding: 30px;
+            position: relative;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+        }
+        
+        .close-modal {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 2rem;
+            cursor: pointer;
+            color: #999;
+            transition: color 0.3s;
+        }
+        
+        .close-modal:hover {
+            color: var(--danger);
+        }
+        
+        .modal-title {
+            color: var(--primary);
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--primary);
+        }
+        
+        .record-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+        
+        .detail-section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid var(--primary);
+        }
+        
+        .detail-section h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .detail-item {
+            margin-bottom: 12px;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px dashed #ddd;
+            padding-bottom: 8px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: 1fr;
+            }
+            
+            header h1 {
+                font-size: 2.2rem;
+            }
+            
+            .card-title {
+                font-size: 1.6rem;
+            }
+            
+            .results-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .history-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 20px;
+            }
+            
+            .search-container {
+                width: 100%;
+            }
+            
+            .search-container input, .search-container select {
+                width: 100%;
+                min-width: auto;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+            
+            .result-value {
+                font-size: 1.8rem;
+            }
+            
+            .history-table th, .history-table td {
+                padding: 12px 15px;
+                font-size: 0.9rem;
+            }
+            
+            .action-cell {
+                flex-direction: column;
+                gap: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heartbeat"></i> 代谢健康指标计算器 (增强版)</h1>
+            <p>基于最新研究计算胰岛素抵抗、心血管风险和代谢健康相关指标</p>
+        </header>
+        
+        <main>
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-edit"></i> 输入健康数据</h2>
+                <div class="grid-container">
+                    <div class="input-group">
+                        <label for="tg"><i class="fas fa-vial"></i> 甘油三酯 (TG)</label>
+                        <input type="number" id="tg" step="0.01" min="0.1" value="1.5">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="hdl"><i class="fas fa-vial"></i> 高密度脂蛋白 (HDL-C)</label>
+                        <input type="number" id="hdl" step="0.01" min="0.1" value="1.2">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="ldl"><i class="fas fa-vial"></i> 低密度脂蛋白 (LDL-C)</label>
+                        <input type="number" id="ldl" step="0.01" min="0.1" value="2.8">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="glucose"><i class="fas fa-tint"></i> 空腹血糖</label>
+                        <input type="number" id="glucose" step="0.01" min="1" value="5.0">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="ketone"><i class="fas fa-tint"></i> 血酮</label>
+                        <input type="number" id="ketone" step="0.01" min="0.1" value="0.5">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="height"><i class="fas fa-ruler-vertical"></i> 身高</label>
+                        <input type="number" id="height" min="100" value="170">
+                        <span class="unit">cm</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="weight"><i class="fas fa-weight"></i> 体重</label>
+                        <input type="number" id="weight" step="0.1" min="30" value="70">
+                        <span class="unit">kg</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="waist"><i class="fas fa-ruler"></i> 腰围</label>
+                        <input type="number" id="waist" min="50" value="85">
+                        <span class="unit">cm</span>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="datetime"><i class="fas fa-calendar-alt"></i> 日期和时间</label>
+                        <input type="datetime-local" id="datetime">
+                    </div>
+                </div>
+                
+                <div style="display: flex; gap: 20px; justify-content: center; margin-top: 30px; flex-wrap: wrap;">
+                    <button id="calculate-btn" class="btn">
+                        <i class="fas fa-calculator"></i> 计算所有指标
+                    </button>
+                    <button id="save-record" class="btn btn-success">
+                        <i class="fas fa-save"></i> 保存当前记录
+                    </button>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-chart-line"></i> 计算结果</h2>
+                <div class="results-container">
+                    <div class="result-card">
+                        <h3><i class="fas fa-calculator"></i> TyG 指数</h3>
+                        <div class="result-value" id="tyg-index">-</div>
+                        <div class="result-interpretation" id="tyg-interpret">胰岛素抵抗风险指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-heartbeat"></i> TyG-BMI</h3>
+                        <div class="result-value" id="tyg-bmi">-</div>
+                        <div class="result-interpretation" id="tyg-bmi-interpret">心血管风险指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-weight"></i> TyG-WWI</h3>
+                        <div class="result-value" id="tyg-wwi">-</div>
+                        <div class="result-interpretation" id="tyg-wwi-interpret">体重腰围相关指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-ruler-combined"></i> TyG-WC</h3>
+                        <div class="result-value" id="tyg-wc">-</div>
+                        <div class="result-interpretation" id="tyg-wc-interpret">腰围相关指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-arrows-alt-v"></i> TyG-WHtR</h3>
+                        <div class="result-value" id="tyg-whtr">-</div>
+                        <div class="result-interpretation" id="tyg-whtr-interpret">腰围身高比指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-vial"></i> TG/HDL-C</h3>
+                        <div class="result-value" id="tg-hdl">-</div>
+                        <div class="result-interpretation" id="tg-hdl-interpret">心血管风险指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-vial"></i> TG/LDL-C</h3>
+                        <div class="result-value" id="tg-ldl">-</div>
+                        <div class="result-interpretation" id="tg-ldl-interpret">血脂比率指标</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-balance-scale"></i> 葡萄糖酮指数 (GKI)</h3>
+                        <div class="result-value" id="gki">-</div>
+                        <div class="result-interpretation" id="gki-interpret">代谢健康指标</div>
+                    </div>
+                </div>
+                
+                <div class="note">
+                    <h3><i class="fas fa-info-circle"></i> 说明:</h3>
+                    <p>TyG指数（甘油三酯葡萄糖指数）是评估胰岛素抵抗的重要指标，数值越高表示胰岛素抵抗风险越大。GKI（葡萄糖酮指数）反映身体代谢状态，数值越低表示酮症状态越深。所有指标均基于国际单位制（mmol/L、kg、cm）。</p>
+                </div>
+            </div>
+            
+            <!-- 历史记录部分 -->
+            <div class="history-section">
+                <div class="history-header">
+                    <h2><i class="fas fa-history"></i> 历史记录</h2>
+                    <div class="search-container">
+                        <input type="text" id="search-input" placeholder="搜索记录...">
+                        <select id="search-type">
+                            <option value="all">所有字段</option>
+                            <option value="date">日期</option>
+                            <option value="tyg">TyG指数</option>
+                            <option value="gki">GKI</option>
+                        </select>
+                        <button id="clear-history" class="btn btn-danger btn-sm">
+                            <i class="fas fa-trash-alt"></i> 清除所有记录
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="history-table-container">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th>日期</th>
+                                <th>TyG指数</th>
+                                <th>TyG-WHtR</th>
+                                <th>TG/HDL</th>
+                                <th>TG/LDL</th>
+                                <th>GKI</th>
+                                <th>操作</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-body">
+                            <!-- 记录将通过JS动态添加 -->
+                        </tbody>
+                    </table>
+                </div>
+                <div id="no-records-message" class="no-records">
+                    <i class="fas fa-database" style="font-size: 3rem; margin-bottom: 15px;"></i>
+                    <p>暂无历史记录，请进行计算并保存记录</p>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h3 class="comparison-title" style="margin-top: 30px;"><i class="fas fa-chart-bar"></i> 指标解释与参考标准</h3>
+                <table class="interpretation-table">
+                    <thead>
+                        <tr>
+                            <th>指标</th>
+                            <th>正常范围</th>
+                            <th>临界范围</th>
+                            <th>高风险范围</th>
+                            <th>临床意义</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>TyG指数</td>
+                            <td class="normal-range">&lt; 8.5</td>
+                            <td class="warning-range">8.5 - 8.9</td>
+                            <td class="danger-range">&gt; 8.9</td>
+                            <td>评估胰岛素抵抗风险</td>
+                        </tr>
+                        <tr>
+                            <td>TyG-BMI</td>
+                            <td class="normal-range">&lt; 210</td>
+                            <td class="warning-range">210 - 240</td>
+                            <td class="danger-range">&gt; 240</td>
+                            <td>心血管风险指标</td>
+                        </tr>
+                        <tr>
+                            <td>TyG-WWI</td>
+                            <td class="normal-range">&lt; 5.0</td>
+                            <td class="warning-range">5.0 - 6.0</td>
+                            <td class="danger-range">&gt; 6.0</td>
+                            <td>体重腰围相关风险</td>
+                        </tr>
+                        <tr>
+                            <td>TyG-WC</td>
+                            <td class="normal-range">&lt; 800</td>
+                            <td class="warning-range">800 - 900</td>
+                            <td class="danger-range">&gt; 900</td>
+                            <td>腰围相关代谢风险</td>
+                        </tr>
+                        <tr>
+                            <td>TyG-WHtR</td>
+                            <td class="normal-range">&lt; 5.0</td>
+                            <td class="warning-range">5.0 - 6.0</td>
+                            <td class="danger-range">&gt; 6.0</td>
+                            <td>中心性肥胖相关风险</td>
+                        </tr>
+                        <tr>
+                            <td>TG/HDL-C</td>
+                            <td class="normal-range">&lt; 2.0</td>
+                            <td class="warning-range">2.0 - 3.0</td>
+                            <td class="danger-range">&gt; 3.0</td>
+                            <td>心血管疾病风险</td>
+                        </tr>
+                        <tr>
+                            <td>TG/LDL-C</td>
+                            <td class="normal-range">&lt; 0.5</td>
+                            <td class="warning-range">0.5 - 1.0</td>
+                            <td class="danger-range">&gt; 1.0</td>
+                            <td>血脂比率指标</td>
+                        </tr>
+                        <tr>
+                            <td>GKI</td>
+                            <td class="normal-range">1.0 - 6.0</td>
+                            <td class="warning-range">6.1 - 9.0</td>
+                            <td class="danger-range">&gt; 16.0</td>
+                            <td>代谢灵活性指标</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </main>
+        
+        <div class="references">
+            <h2><i class="fas fa-book-open"></i> 参考文献</h2>
+            <ul>
+                <li>1. Simental-Mendía LE, et al. <a href="https://doi.org/10.1007/s00592-008-0094-1" target="_blank">The product of fasting glucose and triglycerides as surrogate for identifying insulin resistance. Acta Diabetol. 2008</a></li>
+                <li>2. Navarro-González D, et al. <a href="https://doi.org/10.1016/j.numecd.2015.12.006" target="_blank">Triglyceride-glucose index (TyG index) in comparison with fasting plasma glucose improved diabetes prediction in patients with normal fasting glucose. Nutr Metab Cardiovasc Dis. 2016</a></li>
+                <li>3. Er LK, et al. <a href="https://doi.org/10.1186/s12933-018-0727-7" target="_blank">Triglyceride glucose-body mass index is a simple and clinically useful surrogate marker for insulin resistance in nondiabetic individuals. Cardiovasc Diabetol. 2018</a></li>
+                <li>4. Lim J, et al. <a href="https://doi.org/10.1038/s41598-020-78603-9" target="_blank">The triglyceride glucose index is a simple and low-cost marker associated with atherosclerotic cardiovascular disease. Sci Rep. 2020</a></li>
+                <li>5. Vasques ACJ, et al. <a href="https://doi.org/10.1016/j.metabol.2011.01.011" target="_blank">TyG index performs better than HOMA in a Brazilian population. Metabolism. 2011</a></li>
+                <li>6. Lee SH, et al. <a href="https://doi.org/10.4093/dmj.2018.42.2.117" target="_blank">TyG-WC as a surrogate marker of insulin resistance in obesity. Diabetes Metab J. 2018</a></li>
+                <li>7. Wang A, et al. <a href="https://doi.org/10.1186/s12933-020-01121-5" target="_blank">TyG-WWI: A novel insulin resistance index for predicting metabolic syndrome. Cardiovasc Diabetol. 2020</a></li>
+                <li>8. Athinarayanan SJ, et al. <a href="https://doi.org/10.1016/j.ebiom.2019.08.059" target="_blank">Long-term effects of a novel continuous remote care intervention including nutritional ketosis for the management of type 2 diabetes. EBioMedicine. 2019</a></li>
+                <li>9. Guerrero-Romero F, et al. <a href="https://doi.org/10.1016/j.diabres.2016.05.004" target="_blank">The product of triglycerides and glucose, a simple measure of insulin sensitivity. Diabetes Res Clin Pract. 2016</a></li>
+            </ul>
+        </div>
+        
+        <div class="footer">
+            <p>代谢健康指标计算器 &copy; 2025 | 基于最新科学研究 | 数据仅供参考，不构成医疗建议</p>
+        </div>
+    </div>
+    
+    <!-- 记录详情模态框 -->
+    <div id="record-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2 class="modal-title"><i class="fas fa-file-medical"></i> 记录详情</h2>
+            <div class="record-details" id="record-details">
+                <!-- 记录详情将通过JS动态添加 -->
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // 设置当前日期时间
+            const now = new Date();
+            const timezoneOffset = now.getTimezoneOffset() * 60000;
+            const localISOTime = (new Date(now - timezoneOffset)).toISOString().slice(0, 16);
+            document.getElementById('datetime').value = localISOTime;
+            
+            // 计算按钮事件
+            document.getElementById('calculate-btn').addEventListener('click', calculateAll);
+            document.getElementById('save-record').addEventListener('click', saveRecord);
+            document.getElementById('clear-history').addEventListener('click', clearHistory);
+            document.getElementById('search-input').addEventListener('input', searchRecords);
+            document.getElementById('search-type').addEventListener('change', searchRecords);
+            document.querySelector('.close-modal').addEventListener('click', closeModal);
+            
+            // 初始化时加载记录
+            loadRecords();
+            
+            function calculateAll() {
+                // 获取输入值
+                const tg = parseFloat(document.getElementById('tg').value);
+                const hdl = parseFloat(document.getElementById('hdl').value);
+                const ldl = parseFloat(document.getElementById('ldl').value);
+                const glucose = parseFloat(document.getElementById('glucose').value);
+                const ketone = parseFloat(document.getElementById('ketone').value);
+                const height = parseFloat(document.getElementById('height').value);
+                const weight = parseFloat(document.getElementById('weight').value);
+                const waist = parseFloat(document.getElementById('waist').value);
+                
+                // 计算TyG指数
+                const tygIndex = Math.log(tg * glucose / 2).toFixed(2);
+                document.getElementById('tyg-index').textContent = tygIndex;
+                
+                // TyG指数解释（含标准值）
+                let tygInterpret = "";
+                let tygClass = "";
+                if (tygIndex < 8.5) {
+                    tygInterpret = "正常 - 胰岛素敏感性良好";
+                    tygClass = "normal";
+                } else if (tygIndex < 8.9) {
+                    tygInterpret = "临界 - 胰岛素抵抗风险增加";
+                    tygClass = "warning";
+                } else {
+                    tygInterpret = "高风险 - 可能存在胰岛素抵抗";
+                    tygClass = "danger";
+                }
+                document.getElementById('tyg-interpret').textContent = tygInterpret;
+                document.getElementById('tyg-interpret').className = "result-interpretation " + tygClass;
+                
+                // 计算BMI
+                const heightM = height / 100;
+                const bmi = (weight / (heightM * heightM)).toFixed(1);
+                
+                // 计算TyG-BMI
+                const tygBmi = (tygIndex * bmi).toFixed(1);
+                document.getElementById('tyg-bmi').textContent = tygBmi;
+                
+                // TyG-BMI解释（含标准值）
+                let tygBmiInterpret = "";
+                let tygBmiClass = "";
+                if (tygBmi < 210) {
+                    tygBmiInterpret = "正常范围 - 心血管风险低";
+                    tygBmiClass = "normal";
+                } else if (tygBmi < 240) {
+                    tygBmiInterpret = "中度风险 - 需关注心血管健康";
+                    tygBmiClass = "warning";
+                } else {
+                    tygBmiInterpret = "高风险 - 心血管疾病风险显著增加";
+                    tygBmiClass = "danger";
+                }
+                document.getElementById('tyg-bmi-interpret').textContent = tygBmiInterpret;
+                document.getElementById('tyg-bmi-interpret').className = "result-interpretation " + tygBmiClass;
+                
+                // 计算TyG-WWI (TyG * (腰围/体重))
+                const tygWwi = (tygIndex * (waist / weight)).toFixed(2);
+                document.getElementById('tyg-wwi').textContent = tygWwi;
+                
+                // TyG-WWI解释（含标准值）
+                let tygWwiInterpret = "";
+                let tygWwiClass = "";
+                if (tygWwi < 5.0) {
+                    tygWwiInterpret = "正常 - 体重腰围比例良好";
+                    tygWwiClass = "normal";
+                } else if (tygWwi < 6.0) {
+                    tygWwiInterpret = "中度风险 - 腹部脂肪可能过多";
+                    tygWwiClass = "warning";
+                } else {
+                    tygWwiInterpret = "高风险 - 中心性肥胖风险显著";
+                    tygWwiClass = "danger";
+                }
+                document.getElementById('tyg-wwi-interpret').textContent = tygWwiInterpret;
+                document.getElementById('tyg-wwi-interpret').className = "result-interpretation " + tygWwiClass;
+                
+                // 计算TyG-WC
+                const tygWc = (tygIndex * waist).toFixed(1);
+                document.getElementById('tyg-wc').textContent = tygWc;
+                
+                // TyG-WC解释（含标准值）
+                let tygWcInterpret = "";
+                let tygWcClass = "";
+                if (tygWc < 800) {
+                    tygWcInterpret = "正常 - 腰围代谢风险低";
+                    tygWcClass = "normal";
+                } else if (tygWc < 900) {
+                    tygWcInterpret = "中度风险 - 内脏脂肪可能过多";
+                    tygWcClass = "warning";
+                } else {
+                    tygWcInterpret = "高风险 - 中心性肥胖代谢风险高";
+                    tygWcClass = "danger";
+                }
+                document.getElementById('tyg-wc-interpret').textContent = tygWcInterpret;
+                document.getElementById('tyg-wc-interpret').className = "result-interpretation " + tygWcClass;
+                
+                // 计算TyG-WHtR
+                const tygWhtr = (tygIndex * (waist / height)).toFixed(2);
+                document.getElementById('tyg-whtr').textContent = tygWhtr;
+                
+                // TyG-WHtR解释（含标准值）
+                let tygWhtrInterpret = "";
+                let tygWhtrClass = "";
+                if (tygWhtr < 5.0) {
+                    tygWhtrInterpret = "正常范围 - 中心性肥胖风险低";
+                    tygWhtrClass = "normal";
+                } else if (tygWhtr < 6.0) {
+                    tygWhtrInterpret = "中度风险 - 中心性肥胖风险增加";
+                    tygWhtrClass = "warning";
+                } else {
+                    tygWhtrInterpret = "高风险 - 中心性肥胖相关疾病风险高";
+                    tygWhtrClass = "danger";
+                }
+                document.getElementById('tyg-whtr-interpret').textContent = tygWhtrInterpret;
+                document.getElementById('tyg-whtr-interpret').className = "result-interpretation " + tygWhtrClass;
+                
+                // 计算TG/HDL-C
+                const tgHdl = (tg / hdl).toFixed(2);
+                document.getElementById('tg-hdl').textContent = tgHdl;
+                
+                // TG/HDL解释（含标准值）
+                let tgHdlInterpret = "";
+                let tgHdlClass = "";
+                if (tgHdl < 2.0) {
+                    tgHdlInterpret = "理想 - 心血管风险低";
+                    tgHdlClass = "normal";
+                } else if (tgHdl < 3.0) {
+                    tgHdlInterpret = "中度风险 - 心血管风险增加";
+                    tgHdlClass = "warning";
+                } else {
+                    tgHdlInterpret = "高风险 - 心血管疾病风险高";
+                    tgHdlClass = "danger";
+                }
+                document.getElementById('tg-hdl-interpret').textContent = tgHdlInterpret;
+                document.getElementById('tg-hdl-interpret').className = "result-interpretation " + tgHdlClass;
+                
+                // 计算TG/LDL-C
+                const tgLdl = (tg / ldl).toFixed(2);
+                document.getElementById('tg-ldl').textContent = tgLdl;
+                
+                // TG/LDL解释（含标准值）
+                let tgLdlInterpret = "";
+                let tgLdlClass = "";
+                if (tgLdl < 0.5) {
+                    tgLdlInterpret = "正常范围";
+                    tgLdlClass = "normal";
+                } else if (tgLdl < 1.0) {
+                    tgLdlInterpret = "临界范围";
+                    tgLdlClass = "warning";
+                } else {
+                    tgLdlInterpret = "高风险 - 血脂异常";
+                    tgLdlClass = "danger";
+                }
+                document.getElementById('tg-ldl-interpret').textContent = tgLdlInterpret;
+                document.getElementById('tg-ldl-interpret').className = "result-interpretation " + tgLdlClass;
+                
+                // 计算GKI
+                const gki = (glucose / ketone).toFixed(1);
+                document.getElementById('gki').textContent = gki;
+                
+                // GKI解释（含标准值）
+                let gkiInterpret = "";
+                let gkiClass = "";
+                if (gki <= 1) {
+                    gkiInterpret = "深度酮症 - 治疗性范围";
+                    gkiClass = "normal";
+                } else if (gki <= 3) {
+                    gkiInterpret = "深度营养性酮症";
+                    gkiClass = "normal";
+                } else if (gki <= 6) {
+                    gkiInterpret = "中度营养性酮症";
+                    gkiClass = "normal";
+                } else if (gki <= 9) {
+                    gkiInterpret = "轻度营养性酮症";
+                    gkiClass = "warning";
+                } else if (gki <= 16) {
+                    gkiInterpret = "过渡状态 - 未进入酮症";
+                    gkiClass = "warning";
+                } else {
+                    gkiInterpret = "无酮症 - 代谢灵活性不足";
+                    gkiClass = "danger";
+                }
+                document.getElementById('gki-interpret').textContent = gkiInterpret;
+                document.getElementById('gki-interpret').className = "result-interpretation " + gkiClass;
+            }
+            
+            // 保存记录到数据库
+            function saveRecord() {
+                // 获取输入值
+                const tg = parseFloat(document.getElementById('tg').value);
+                const hdl = parseFloat(document.getElementById('hdl').value);
+                const ldl = parseFloat(document.getElementById('ldl').value);
+                const glucose = parseFloat(document.getElementById('glucose').value);
+                const ketone = parseFloat(document.getElementById('ketone').value);
+                const height = parseFloat(document.getElementById('height').value);
+                const weight = parseFloat(document.getElementById('weight').value);
+                const waist = parseFloat(document.getElementById('waist').value);
+                const datetime = document.getElementById('datetime').value;
+                
+                // 获取计算结果
+                const tygIndex = document.getElementById('tyg-index').textContent;
+                const tygBmi = document.getElementById('tyg-bmi').textContent;
+                const tygWwi = document.getElementById('tyg-wwi').textContent;
+                const tygWc = document.getElementById('tyg-wc').textContent;
+                const tygWhtr = document.getElementById('tyg-whtr').textContent;
+                const tgHdl = document.getElementById('tg-hdl').textContent;
+                const tgLdl = document.getElementById('tg-ldl').textContent;
+                const gki = document.getElementById('gki').textContent;
+                
+                // 创建记录对象
+                const record = {
+                    id: Date.now(),
+                    datetime: datetime,
+                    inputs: {
+                        tg: tg,
+                        hdl: hdl,
+                        ldl: ldl,
+                        glucose: glucose,
+                        ketone: ketone,
+                        height: height,
+                        weight: weight,
+                        waist: waist
+                    },
+                    results: {
+                        tygIndex: tygIndex,
+                        tygBmi: tygBmi,
+                        tygWwi: tygWwi,
+                        tygWc: tygWc,
+                        tygWhtr: tygWhtr,
+                        tgHdl: tgHdl,
+                        tgLdl: tgLdl,
+                        gki: gki
+                    }
+                };
+                
+                // 保存到localStorage
+                const records = JSON.parse(localStorage.getItem('metabolicRecords') || "[]");
+                const updatedRecords = [...records, record];
+                localStorage.setItem('metabolicRecords', JSON.stringify(updatedRecords));
+                
+                // 更新历史记录显示
+                loadRecords();
+                
+                // 提示用户
+                alert('记录已成功保存！');
+            }
+            
+            // 从数据库加载记录
+            function loadRecords() {
+                const records = JSON.parse(localStorage.getItem('metabolicRecords')) || [];
+                const historyBody = document.getElementById('history-body');
+                const noRecordsMessage = document.getElementById('no-records-message');
+                
+                // 清空表格
+                historyBody.innerHTML = '';
+                
+                if (records.length === 0) {
+                    noRecordsMessage.style.display = 'block';
+                    return;
+                }
+                
+                noRecordsMessage.style.display = 'none';
+                
+                // 按日期倒序排列
+                records.sort((a, b) => new Date(b.datetime) - new Date(a.datetime));
+                
+                // 添加记录到表格
+                records.forEach(record => {
+                    const row = document.createElement('tr');
+                    const date = new Date(record.datetime).toLocaleString();
+                    
+                    row.innerHTML = `
+                        <td>${date}</td>
+                        <td>${record.results.tygIndex}</td>
+                        <td>${record.results.tygWhtr}</td>
+                        <td>${record.results.tgHdl}</td>
+                        <td>${record.results.tgLdl}</td>
+                        <td>${record.results.gki}</td>
+                        <td class="action-cell">
+                            <button class="btn btn-sm view-btn" data-id="${record.id}">
+                                <i class="fas fa-eye"></i> 查看
+                            </button>
+                            <button class="btn btn-sm btn-danger delete-btn" data-id="${record.id}">
+                                <i class="fas fa-trash-alt"></i> 删除
+                            </button>
+                        </td>
+                    `;
+                    
+                    historyBody.appendChild(row);
+                });
+                
+                // 添加事件监听器
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        const recordId = parseInt(this.getAttribute('data-id'));
+                        viewRecord(recordId);
+                    });
+                });
+                
+                document.querySelectorAll('.delete-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        const recordId = parseInt(this.getAttribute('data-id'));
+                        deleteRecord(recordId);
+                    });
+                });
+            }
+            
+            // 搜索记录
+            function searchRecords() {
+                const searchTerm = document.getElementById('search-input').value.toLowerCase();
+                const searchType = document.getElementById('search-type').value;
+                const records = JSON.parse(localStorage.getItem('metabolicRecords')) || [];
+                const historyBody = document.getElementById('history-body');
+                
+                // 清空表格
+                historyBody.innerHTML = '';
+                
+                if (records.length === 0) return;
+                
+                // 过滤记录
+                const filteredRecords = records.filter(record => {
+                    if (!searchTerm) return true;
+                    
+                    if (searchType === 'date') {
+                        const date = new Date(record.datetime).toLocaleString().toLowerCase();
+                        return date.includes(searchTerm);
+                    } else if (searchType === 'tyg') {
+                        return record.results.tygIndex.toLowerCase().includes(searchTerm);
+                    } else if (searchType === 'gki') {
+                        return record.results.gki.toLowerCase().includes(searchTerm);
+                    } else {
+                        // 搜索所有字段
+                        const date = new Date(record.datetime).toLocaleString().toLowerCase();
+                        return date.includes(searchTerm) || 
+                               record.results.tygIndex.toLowerCase().includes(searchTerm) ||
+                               record.results.tygWhtr.toLowerCase().includes(searchTerm) ||
+                               record.results.tgHdl.toLowerCase().includes(searchTerm) ||
+                               record.results.tgLdl.toLowerCase().includes(searchTerm) ||
+                               record.results.gki.toLowerCase().includes(searchTerm);
+                    }
+                });
+                
+                if (filteredRecords.length === 0) {
+                    historyBody.innerHTML = `
+                        <tr>
+                            <td colspan="6" style="text-align: center; padding: 30px;">
+                                没有找到匹配的记录
+                            </td>
+                        </tr>
+                    `;
+                    return;
+                }
+                
+                // 添加过滤后的记录
+                filteredRecords.forEach(record => {
+                    const row = document.createElement('tr');
+                    const date = new Date(record.datetime).toLocaleString();
+                    
+                    row.innerHTML = `
+                        <td>${date}</td>
+                        <td>${record.results.tygIndex}</td>
+                        <td>${record.results.tygWhtr}</td>
+                        <td>${record.results.tgHdl}</td>
+                        <td>${record.results.tgLdl}</td>
+                        <td>${record.results.gki}</td>
+                        <td class="action-cell">
+                            <button class="btn btn-sm view-btn" data-id="${record.id}">
+                                <i class="fas fa-eye"></i> 查看
+                            </button>
+                            <button class="btn btn-sm btn-danger delete-btn" data-id="${record.id}">
+                                <i class="fas fa-trash-alt"></i> 删除
+                            </button>
+                        </td>
+                    `;
+                    
+                    historyBody.appendChild(row);
+                });
+                
+                // 添加事件监听器
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        const recordId = parseInt(this.getAttribute('data-id'));
+                        viewRecord(recordId);
+                    });
+                });
+                
+                document.querySelectorAll('.delete-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        const recordId = parseInt(this.getAttribute('data-id'));
+                        deleteRecord(recordId);
+                    });
+                });
+            }
+            
+            // 删除记录
+            function deleteRecord(recordId) {
+                if (!confirm('确定要删除这条记录吗？')) return;
+                
+                const records = JSON.parse(localStorage.getItem('metabolicRecords')) || [];
+                const updatedRecords = records.filter(record => record.id !== recordId);
+                localStorage.setItem('metabolicRecords', JSON.stringify(updatedRecords));
+                
+                // 重新加载记录
+                loadRecords();
+            }
+            
+            // 清除所有记录
+            function clearHistory() {
+                if (!confirm('确定要删除所有记录吗？此操作不可撤销！')) return;
+                
+                localStorage.removeItem('metabolicRecords');
+                loadRecords();
+            }
+            
+            // 查看记录详情
+            function viewRecord(recordId) {
+                const records = JSON.parse(localStorage.getItem('metabolicRecords')) || [];
+                const record = records.find(r => r.id === recordId);
+                
+                if (!record) return;
+                
+                const date = new Date(record.datetime).toLocaleString();
+                const heightM = record.inputs.height / 100;
+                const bmi = (record.inputs.weight / (heightM * heightM)).toFixed(1);
+                
+                document.getElementById('record-details').innerHTML = `
+                    <div class="detail-section">
+                        <h3><i class="fas fa-info-circle"></i> 基本信息</h3>
+                        <div class="detail-item">
+                            <span>记录时间:</span>
+                            <span>${date}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>身高:</span>
+                            <span>${record.inputs.height} cm</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>体重:</span>
+                            <span>${record.inputs.weight} kg</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>腰围:</span>
+                            <span>${record.inputs.waist} cm</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>BMI:</span>
+                            <span>${bmi}</span>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-section">
+                        <h3><i class="fas fa-vial"></i> 血液指标</h3>
+                        <div class="detail-item">
+                            <span>甘油三酯 (TG):</span>
+                            <span>${record.inputs.tg} mmol/L</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>高密度脂蛋白 (HDL-C):</span>
+                            <span>${record.inputs.hdl} mmol/L</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>低密度脂蛋白 (LDL-C):</span>
+                            <span>${record.inputs.ldl} mmol/L</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>空腹血糖:</span>
+                            <span>${record.inputs.glucose} mmol/L</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>血酮:</span>
+                            <span>${record.inputs.ketone} mmol/L</span>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-section">
+                        <h3><i class="fas fa-calculator"></i> 计算结果</h3>
+                        <div class="detail-item">
+                            <span>TyG指数:</span>
+                            <span>${record.results.tygIndex}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>TyG-BMI:</span>
+                            <span>${record.results.tygBmi}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>TyG-WWI:</span>
+                            <span>${record.results.tygWwi}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>TyG-WC:</span>
+                            <span>${record.results.tygWc}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>TyG-WHtR:</span>
+                            <span>${record.results.tygWhtr}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>TG/HDL-C:</span>
+                            <span>${record.results.tgHdl}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>TG/LDL-C:</span>
+                            <span>${record.results.tgLdl}</span>
+                        </div>
+                        <div class="detail-item">
+                            <span>葡萄糖酮指数 (GKI):</span>
+                            <span>${record.results.gki}</span>
+                        </div>
+                    </div>
+                `;
+                
+                // 显示模态框
+                document.getElementById('record-modal').style.display = 'flex';
+            }
+            
+            // 关闭模态框
+            function closeModal() {
+                document.getElementById('record-modal').style.display = 'none';
+            }
+            
+            // 初始计算
+            calculateAll();
+        });
+    </script>
+</body>
+</html>
