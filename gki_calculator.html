@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血糖酮指数(GKI)计算器</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #3498db;
+            --secondary: #2c3e50;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --danger: #e74c3c;
+            --light: #f8f9fa;
+            --dark: #343a40;
+            --fasting: #9b59b6;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', 'Microsoft YaHei', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 25px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            color: white;
+            border-radius: 12px;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        header::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+            transform: rotate(30deg);
+        }
+        
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            position: relative;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.92;
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+            font-weight: 300;
+        }
+        
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        @media (max-width: 900px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .card {
+            background: white;
+            border-radius: 14px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        .card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+        }
+        
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+        }
+        
+        .card-title {
+            font-size: 1.7rem;
+            margin-bottom: 25px;
+            color: var(--secondary);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--primary);
+        }
+        
+        .input-group {
+            margin-bottom: 22px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: var(--secondary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        label i {
+            color: var(--primary);
+        }
+        
+        input, textarea, select {
+            width: 100%;
+            padding: 14px 18px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            font-size: 17px;
+            transition: all 0.3s;
+            background: #f8fafc;
+        }
+        
+        input:focus, textarea:focus, select:focus {
+            border-color: var(--primary);
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(52, 152, 219, 0.2);
+            background: white;
+        }
+        
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+            font-family: inherit;
+        }
+        
+        .btn {
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            color: white;
+            border: none;
+            padding: 16px 28px;
+            font-size: 17px;
+            font-weight: 600;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            box-shadow: 0 4px 12px rgba(52, 152, 219, 0.25);
+        }
+        
+        .btn:hover {
+            background: linear-gradient(90deg, var(--secondary), var(--primary));
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(52, 152, 219, 0.35);
+        }
+        
+        .btn-calculate {
+            background: linear-gradient(90deg, var(--success), #2ecc71);
+            width: 100%;
+            margin-top: 15px;
+            padding: 18px;
+            font-size: 18px;
+            box-shadow: 0 4px 12px rgba(39, 174, 96, 0.3);
+        }
+        
+        .btn-calculate:hover {
+            background: linear-gradient(90deg, #2ecc71, var(--success));
+            box-shadow: 0 6px 16px rgba(39, 174, 96, 0.4);
+        }
+        
+        .btn-import {
+            background: linear-gradient(90deg, var(--fasting), #8e44ad);
+        }
+        
+        .btn-import:hover {
+            background: linear-gradient(90deg, #8e44ad, var(--fasting));
+        }
+        
+        .result-container {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 25px;
+            margin-top: 30px;
+            text-align: center;
+            border-left: 6px solid var(--primary);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .gki-value {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin: 20px 0;
+            color: var(--secondary);
+            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .status-indicator {
+            padding: 14px 25px;
+            border-radius: 50px;
+            font-weight: 700;
+            margin: 20px auto;
+            display: inline-block;
+            font-size: 1.3rem;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        
+        .status-optimal {
+            background: linear-gradient(90deg, var(--success), #2ecc71);
+            color: white;
+        }
+        
+        .status-good {
+            background: linear-gradient(90deg, var(--primary), #2980b9);
+            color: white;
+        }
+        
+        .status-moderate {
+            background: linear-gradient(90deg, var(--warning), #f1c40f);
+            color: white;
+        }
+        
+        .status-mild {
+            background: linear-gradient(90deg, #e67e22, #d35400);
+            color: white;
+        }
+        
+        .status-high {
+            background: linear-gradient(90deg, var(--danger), #c0392b);
+            color: white;
+        }
+        
+        .status-info {
+            background: #ecf0f1;
+            color: var(--secondary);
+            padding: 18px;
+            border-radius: 10px;
+            margin-top: 20px;
+            font-size: 1.05rem;
+            line-height: 1.7;
+        }
+        
+        .data-section {
+            margin-top: 40px;
+        }
+        
+        .search-bar {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 25px;
+        }
+        
+        .search-bar input {
+            flex: 1;
+        }
+        
+        .records-table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin-top: 25px;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        
+        .records-table th {
+            background: var(--primary);
+            color: white;
+            text-align: left;
+            padding: 16px 20px;
+            font-weight: 600;
+        }
+        
+        .records-table td {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .records-table tr {
+            transition: background 0.2s;
+        }
+        
+        .records-table tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        
+        .records-table tr:hover {
+            background: #e3f2fd;
+        }
+        
+        .action-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2rem;
+            padding: 8px;
+            border-radius: 50%;
+            width: 38px;
+            height: 38px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+        
+        .view-btn {
+            color: var(--primary);
+            background: rgba(52, 152, 219, 0.1);
+            margin-right: 5px;
+        }
+        
+        .view-btn:hover {
+            background: rgba(52, 152, 219, 0.2);
+            color: #2980b9;
+        }
+        
+        .delete-btn {
+            color: var(--danger);
+            background: rgba(231, 76, 60, 0.1);
+        }
+        
+        .delete-btn:hover {
+            background: rgba(231, 76, 60, 0.2);
+            color: #c0392b;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            padding: 30px 20px;
+            color: #7f8c8d;
+            font-size: 1rem;
+            background: rgba(255,255,255,0.7);
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 18px;
+            margin-top: 25px;
+            justify-content: center;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(0,0,0,0.03);
+            padding: 8px 15px;
+            border-radius: 50px;
+            font-size: 0.95rem;
+        }
+        
+        .color-box {
+            width: 22px;
+            height: 22px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .color-optimal { background: var(--success); }
+        .color-good { background: var(--primary); }
+        .color-moderate { background: var(--warning); }
+        .color-mild { background: #e67e22; }
+        .color-high { background: var(--danger); }
+        .color-fasting { background: var(--fasting); }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: #7f8c8d;
+        }
+        
+        .empty-state i {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            color: #bdc3c7;
+        }
+        
+        .fasting-info {
+            background: linear-gradient(90deg, rgba(155, 89, 182, 0.1), rgba(155, 89, 182, 0.05));
+            border-left: 4px solid var(--fasting);
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        
+        .fasting-info h4 {
+            color: var(--fasting);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2.2rem;
+            }
+            
+            .card {
+                padding: 20px;
+            }
+            
+            .gki-value {
+                font-size: 2.8rem;
+            }
+        }
+        
+        .import-section {
+            background: rgba(155, 89, 182, 0.05);
+            border: 2px dashed rgba(155, 89, 182, 0.3);
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 25px;
+            text-align: center;
+        }
+        
+        .import-section h3 {
+            color: var(--fasting);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-calculator"></i> 血糖酮指数(GKI)计算器</h1>
+            <p class="subtitle">基于最新断食科学研究，帮助您监测营养性酮症状态</p>
+        </header>
+        
+        <div class="main-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-vial"></i> 血糖酮指数计算</h2>
+                
+                <div class="input-group">
+                    <label for="glucose"><i class="fas fa-tint"></i> 血糖值 (mmol/L)</label>
+                    <input type="number" step="0.1" id="glucose" placeholder="输入血糖值 (例如: 5.2)" min="0">
+                </div>
+                
+                <div class="input-group">
+                    <label for="ketone"><i class="fas fa-flask"></i> 血酮值 (mmol/L)</label>
+                    <input type="number" step="0.1" id="ketone" placeholder="输入血酮值 (例如: 1.8)" min="0">
+                </div>
+                
+                <div class="input-group">
+                    <label for="fasting"><i class="fas fa-clock"></i> 断食时长 (小时)</label>
+                    <input type="number" step="0.5" id="fasting" placeholder="输入断食时长 (例如: 16.5)" min="0">
+                </div>
+                
+                <div class="input-group">
+                    <label for="date"><i class="fas fa-calendar-alt"></i> 日期和时间</label>
+                    <input type="datetime-local" id="date">
+                </div>
+                
+                <div class="input-group">
+                    <label for="notes"><i class="fas fa-sticky-note"></i> 备注</label>
+                    <textarea id="notes" placeholder="记录任何特殊状况或观察..."></textarea>
+                </div>
+                
+                <div class="input-group">
+                    <label for="meal-plan"><i class="fas fa-utensils"></i> 前一天餐单</label>
+                    <textarea id="meal-plan" placeholder="记录前一天饮食内容..."></textarea>
+                </div>
+                
+                <div class="fasting-info">
+                    <h4><i class="fas fa-lightbulb"></i> 断食小知识</h4>
+                    <p>断食12-16小时后，身体开始进入脂肪燃烧状态。断食18小时以上，酮体水平显著增加，有助于深度营养性酮症。</p>
+                </div>
+                
+                <button class="btn btn-calculate" id="calculate-btn">
+                    <i class="fas fa-calculator"></i> 计算GKI
+                </button>
+                
+                <div class="result-container">
+                    <h3>计算结果</h3>
+                    <div class="gki-value" id="gki-result">-</div>
+                    <div class="status-indicator" id="status-indicator">等待计算</div>
+                    <div class="status-info" id="status-info">
+                        血糖酮指数(GKI)是血糖值除以血酮值的比率，用于衡量营养性酮症的程度。较低的GKI值通常表示更深的酮症状态，对某些代谢性疾病治疗有益。
+                    </div>
+                </div>
+                
+                <div class="legend">
+                    <div class="legend-item">
+                        <div class="color-box color-optimal"></div>
+                        <span>最佳酮症 (GKI ≤ 1.0)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="color-box color-good"></div>
+                        <span>良好酮症 (1.0-2.0)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="color-box color-moderate"></div>
+                        <span>中等酮症 (2.0-3.0)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="color-box color-mild"></div>
+                        <span>轻度酮症 (3.0-6.0)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="color-box color-high"></div>
+                        <span>无酮症 (GKI > 6.0)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-database"></i> 历史记录</h2>
+                
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="搜索日期、备注或断食时长...">
+                    <button class="btn" id="search-btn"><i class="fas fa-search"></i> 搜索</button>
+                </div>
+                
+                <div class="data-section">
+                    <table class="records-table">
+                        <thead>
+                            <tr>
+                                <th>日期</th>
+                                <th>血糖</th>
+                                <th>血酮</th>
+                                <th>GKI</th>
+                                <th>断食(小时)</th>
+                                <th>操作</th>
+                            </tr>
+                        </thead>
+                        <tbody id="records-body">
+                            <!-- 记录将通过JS动态添加 -->
+                        </tbody>
+                    </table>
+                    <div id="empty-state" class="empty-state" style="display: none;">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无记录</h3>
+                        <p>计算并保存您的第一条GKI记录</p>
+                    </div>
+                </div>
+                
+                <div style="margin-top: 25px; display: flex; gap: 12px; flex-wrap: wrap;">
+                    <button class="btn" id="save-btn"><i class="fas fa-save"></i> 保存当前记录</button>
+                    <button class="btn" id="export-btn"><i class="fas fa-file-export"></i> 导出数据</button>
+                    <button class="btn" id="clear-btn" style="background: linear-gradient(90deg, #7f8c8d, #95a5a6);"><i class="fas fa-trash-alt"></i> 清除所有</button>
+                </div>
+                
+                <div class="import-section">
+                    <h3><i class="fas fa-file-import"></i> 导入数据</h3>
+                    <p>从JSON文件导入历史记录数据</p>
+                    <input type="file" id="import-file" accept=".json" style="display: none;">
+                    <button class="btn btn-import" id="import-btn" style="margin-top: 15px;">
+                        <i class="fas fa-file-import"></i> 选择文件并导入
+                    </button>
+                    <div id="import-status" style="margin-top: 15px; font-size: 0.9rem;"></div>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p>© 2025 血糖酮指数(GKI)计算器 | 基于最新断食科学研究 | 数据存储在您的浏览器本地</p>
+            <p style="margin-top: 10px;">注意：本工具提供的信息不能替代专业医疗建议。请在医生指导下进行断食或饮食调整。</p>
+        </footer>
+    </div>
+    
+    <script>
+        // 设置当前日期时间为默认值（本地时间）
+        document.addEventListener('DOMContentLoaded', function() {
+            const now = new Date();
+            // 调整时区偏移
+            const timezoneOffset = now.getTimezoneOffset() * 60000;
+            const localISOTime = new Date(now - timezoneOffset).toISOString().slice(0, 16);
+            document.getElementById('date').value = localISOTime;
+            
+            // 加载保存的记录
+            loadRecords();
+        });
+        
+        // 计算GKI
+        document.getElementById('calculate-btn').addEventListener('click', function() {
+            const glucose = parseFloat(document.getElementById('glucose').value);
+            const ketone = parseFloat(document.getElementById('ketone').value);
+            
+            if (isNaN(glucose) || glucose <= 0) {
+                alert('请输入有效的血糖值');
+                return;
+            }
+            
+            if (isNaN(ketone) || ketone <= 0) {
+                alert('请输入有效的血酮值');
+                return;
+            }
+            
+            const gki = glucose / ketone;
+            const gkiRounded = gki.toFixed(2);
+            
+            document.getElementById('gki-result').textContent = gkiRounded;
+            
+            // 确定状态
+            let status, statusClass, statusInfo;
+            
+            if (gki <= 1.0) {
+                status = "最佳酮症";
+                statusClass = "status-optimal";
+                statusInfo = "您处于深度营养性酮症状态，这是治疗性断食和某些代谢疗法的理想范围。这种状态通常与癌症代谢治疗和神经保护作用相关。";
+            } else if (gki <= 2.0) {
+                status = "良好酮症";
+                statusClass = "status-good";
+                statusInfo = "您处于良好的酮症状态，表明有效的脂肪代谢和酮体产生。这种状态对体重管理、2型糖尿病和认知功能改善有益。";
+            } else if (gki <= 3.0) {
+                status = "中等酮症";
+                statusClass = "status-moderate";
+                statusInfo = "中等酮症状态，可能受益于更严格的碳水化合物限制或延长断食时间。这种状态常见于温和低碳水化合物饮食。";
+            } else if (gki <= 6.0) {
+                status = "轻度酮症";
+                statusClass = "status-mild";
+                statusInfo = "轻度酮症状态，通常由适度低碳水化合物饮食或较短断食时间引起。这种状态可能提供一些代谢益处但尚未达到治疗水平。";
+            } else {
+                status = "无酮症";
+                statusClass = "status-high";
+                statusInfo = "未检测到明显酮症状态。您的身体主要使用葡萄糖作为燃料。可能需要调整饮食（减少碳水化合物）或延长断食时间以达到酮症。";
+            }
+            
+            const statusIndicator = document.getElementById('status-indicator');
+            statusIndicator.textContent = status;
+            statusIndicator.className = `status-indicator ${statusClass}`;
+            
+            document.getElementById('status-info').textContent = statusInfo;
+        });
+        
+        // 保存记录
+        document.getElementById('save-btn').addEventListener('click', function() {
+            const glucose = parseFloat(document.getElementById('glucose').value);
+            const ketone = parseFloat(document.getElementById('ketone').value);
+            const fasting = parseFloat(document.getElementById('fasting').value) || 0;
+            
+            if (isNaN(glucose) || glucose <= 0) {
+                alert('请输入有效的血糖值');
+                return;
+            }
+            
+            if (isNaN(ketone) || ketone <= 0) {
+                alert('请输入有效的血酮值');
+                return;
+            }
+            
+            const gki = glucose / ketone;
+            const gkiRounded = parseFloat(gki.toFixed(2));
+            
+            // 获取状态
+            let status;
+            if (gki <= 1.0) status = "最佳酮症";
+            else if (gki <= 2.0) status = "良好酮症";
+            else if (gki <= 3.0) status = "中等酮症";
+            else if (gki <= 6.0) status = "轻度酮症";
+            else status = "无酮症";
+            
+            const record = {
+                id: Date.now(),
+                datetime: document.getElementById('date').value,
+                glucose: glucose,
+                ketone: ketone,
+                fasting: fasting,
+                gki: gkiRounded,
+                status: status,
+                notes: document.getElementById('notes').value,
+                mealPlan: document.getElementById('meal-plan').value
+            };
+            
+            saveRecord(record);
+            addRecordToTable(record);
+            
+            // 显示成功消息
+            const saveBtn = document.getElementById('save-btn');
+            const originalText = saveBtn.innerHTML;
+            saveBtn.innerHTML = '<i class="fas fa-check"></i> 已保存';
+            saveBtn.style.background = 'linear-gradient(90deg, #27ae60, #2ecc71)';
+            
+            setTimeout(() => {
+                saveBtn.innerHTML = originalText;
+                saveBtn.style.background = 'linear-gradient(90deg, #3498db, #2c3e50)';
+            }, 2000);
+        });
+        
+        // 保存记录到localStorage
+        function saveRecord(record) {
+            let records = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+            records.push(record);
+            localStorage.setItem('gkiRecords', JSON.stringify(records));
+        }
+        
+        // 从localStorage加载记录
+        function loadRecords() {
+            const records = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+            const recordsBody = document.getElementById('records-body');
+            recordsBody.innerHTML = '';
+            
+            if (records.length === 0) {
+                document.getElementById('empty-state').style.display = 'block';
+                return;
+            } else {
+                document.getElementById('empty-state').style.display = 'none';
+            }
+            
+            // 按日期降序排序
+            records.sort((a, b) => new Date(b.datetime) - new Date(a.datetime));
+            
+            records.forEach(record => {
+                addRecordToTable(record);
+            });
+        }
+        
+        // 添加记录到表格
+        function addRecordToTable(record) {
+            const recordsBody = document.getElementById('records-body');
+            const row = document.createElement('tr');
+            
+            // 格式化日期显示
+            const date = new Date(record.datetime);
+            const formattedDate = `${date.getFullYear()}-${(date.getMonth()+1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')} ${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}`;
+            
+            // 添加断食时长显示
+            const fastingDisplay = record.fasting > 0 ? `${record.fasting} 小时` : '-';
+            
+            row.innerHTML = `
+                <td>${formattedDate}</td>
+                <td>${record.glucose.toFixed(1)} mmol/L</td>
+                <td>${record.ketone.toFixed(1)} mmol/L</td>
+                <td><strong>${record.gki}</strong></td>
+                <td>${fastingDisplay}</td>
+                <td>
+                    <button class="action-btn view-btn" data-id="${record.id}" title="查看详情">
+                        <i class="fas fa-eye"></i>
+                    </button>
+                    <button class="action-btn delete-btn" data-id="${record.id}" title="删除记录">
+                        <i class="fas fa-trash"></i>
+                    </button>
+                </td>
+            `;
+            
+            // 为断食记录添加特殊样式
+            if (record.fasting > 0) {
+                row.style.background = 'rgba(155, 89, 182, 0.05)';
+                row.style.borderLeft = '3px solid var(--fasting)';
+            }
+            
+            recordsBody.appendChild(row);
+            
+            // 添加删除事件
+            row.querySelector('.delete-btn').addEventListener('click', function() {
+                const id = parseInt(this.getAttribute('data-id'));
+                deleteRecord(id);
+            });
+            
+            // 添加查看事件
+            row.querySelector('.view-btn').addEventListener('click', function() {
+                const id = parseInt(this.getAttribute('data-id'));
+                viewRecordDetails(id);
+            });
+            
+            // 隐藏空状态
+            document.getElementById('empty-state').style.display = 'none';
+        }
+        
+        // 删除记录
+        function deleteRecord(id) {
+            if (confirm('确定要删除此记录吗？此操作无法撤销。')) {
+                let records = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+                records = records.filter(record => record.id !== id);
+                localStorage.setItem('gkiRecords', JSON.stringify(records));
+                loadRecords(); // 重新加载记录
+            }
+        }
+        
+        // 查看记录详情
+        function viewRecordDetails(id) {
+            const records = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+            const record = records.find(r => r.id === id);
+            
+            if (record) {
+                const date = new Date(record.datetime);
+                const formattedDate = `${date.getFullYear()}-${(date.getMonth()+1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')} ${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}`;
+                
+                const details = `
+                <div style="max-width:500px; padding:20px; background:white; border-radius:12px;">
+                    <h3 style="color:#2c3e50; text-align:center; margin-bottom:20px; border-bottom:2px solid var(--primary); padding-bottom:10px;">记录详情</h3>
+                    <div style="background:#f8f9fa; border-radius:10px; padding:20px;">
+                        <p><strong>日期时间:</strong> ${formattedDate}</p>
+                        <p><strong>血糖值:</strong> ${record.glucose.toFixed(1)} mmol/L</p>
+                        <p><strong>血酮值:</strong> ${record.ketone.toFixed(1)} mmol/L</p>
+                        <p><strong>断食时长:</strong> ${record.fasting > 0 ? record.fasting + ' 小时' : '未记录'}</p>
+                        <p><strong>GKI值:</strong> ${record.gki} (${record.status})</p>
+                        <p><strong>备注:</strong> ${record.notes || '无'}</p>
+                        <p><strong>前一天餐单:</strong> ${record.mealPlan || '无'}</p>
+                    </div>
+                    <div style="text-align:center; margin-top:20px;">
+                        <button id="close-details" style="background:var(--primary); color:white; border:none; padding:10px 20px; border-radius:8px; cursor:pointer;">关闭</button>
+                    </div>
+                </div>
+                `;
+                
+                const modal = document.createElement('div');
+                modal.style.position = 'fixed';
+                modal.style.top = '0';
+                modal.style.left = '0';
+                modal.style.width = '100%';
+                modal.style.height = '100%';
+                modal.style.backgroundColor = 'rgba(0,0,0,0.7)';
+                modal.style.display = 'flex';
+                modal.style.alignItems = 'center';
+                modal.style.justifyContent = 'center';
+                modal.style.zIndex = '1000';
+                modal.innerHTML = details;
+                
+                modal.addEventListener('click', function(e) {
+                    if (e.target.id === 'close-details' || e.target === modal) {
+                        document.body.removeChild(modal);
+                    }
+                });
+                
+                document.body.appendChild(modal);
+            }
+        }
+        
+        // 搜索功能
+        document.getElementById('search-btn').addEventListener('click', function() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const records = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+            const recordsBody = document.getElementById('records-body');
+            recordsBody.innerHTML = '';
+            
+            if (records.length === 0) {
+                document.getElementById('empty-state').style.display = 'block';
+                return;
+            }
+            
+            const filteredRecords = records.filter(record => {
+                const recordDate = record.datetime.toLowerCase();
+                const recordNotes = (record.notes || '').toLowerCase();
+                const recordMealPlan = (record.mealPlan || '').toLowerCase();
+                const recordFasting = record.fasting.toString();
+                
+                return recordDate.includes(searchTerm) || 
+                       recordNotes.includes(searchTerm) || 
+                       recordMealPlan.includes(searchTerm) ||
+                       record.status.toLowerCase().includes(searchTerm) ||
+                       recordFasting.includes(searchTerm);
+            });
+            
+            if (filteredRecords.length === 0) {
+                document.getElementById('empty-state').style.display = 'block';
+                document.getElementById('empty-state').innerHTML = `
+                    <i class="fas fa-search"></i>
+                    <h3>未找到匹配记录</h3>
+                    <p>请尝试不同的搜索关键词</p>
+                `;
+            } else {
+                document.getElementById('empty-state').style.display = 'none';
+                filteredRecords.forEach(record => {
+                    addRecordToTable(record);
+                });
+            }
+        });
+        
+        // 导出数据
+        document.getElementById('export-btn').addEventListener('click', function() {
+            const records = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+            if (records.length === 0) {
+                alert('没有可导出的记录');
+                return;
+            }
+            
+            const dataStr = JSON.stringify(records, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(dataStr);
+            
+            const exportFileDefaultName = 'gki_records_' + new Date().toISOString().slice(0,10) + '.json';
+            
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', exportFileDefaultName);
+            document.body.appendChild(linkElement);
+            linkElement.click();
+            document.body.removeChild(linkElement);
+        });
+        
+        // 清除所有记录
+        document.getElementById('clear-btn').addEventListener('click', function() {
+            if (confirm('确定要删除所有记录吗？此操作无法撤销。')) {
+                localStorage.removeItem('gkiRecords');
+                document.getElementById('records-body').innerHTML = '';
+                document.getElementById('empty-state').style.display = 'block';
+                document.getElementById('empty-state').innerHTML = `
+                    <i class="fas fa-database"></i>
+                    <h3>所有记录已清除</h3>
+                    <p>开始添加新的记录</p>
+                `;
+            }
+        });
+        
+        // 搜索框回车键支持
+        document.getElementById('search-input').addEventListener('keyup', function(e) {
+            if (e.key === 'Enter') {
+                document.getElementById('search-btn').click();
+            }
+        });
+        
+        // 导入功能
+        document.getElementById('import-btn').addEventListener('click', function() {
+            document.getElementById('import-file').click();
+        });
+        
+        document.getElementById('import-file').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const importedRecords = JSON.parse(e.target.result);
+                    if (!Array.isArray(importedRecords)) {
+                        throw new Error('导入文件格式不正确');
+                    }
+                    
+                    // 验证记录格式
+                    const isValid = importedRecords.every(record => 
+                        record.glucose && record.ketone && record.gki && record.datetime
+                    );
+                    
+                    if (!isValid) {
+                        throw new Error('导入文件包含无效记录');
+                    }
+                    
+                    // 合并记录（新记录在前）
+                    const existingRecords = JSON.parse(localStorage.getItem('gkiRecords')) || [];
+                    const combinedRecords = [...importedRecords, ...existingRecords];
+                    
+                    // 保存合并后的记录
+                    localStorage.setItem('gkiRecords', JSON.stringify(combinedRecords));
+                    
+                    // 更新显示
+                    loadRecords();
+                    
+                    // 显示成功消息
+                    document.getElementById('import-status').innerHTML = `
+                        <div style="color:var(--success);">
+                            <i class="fas fa-check-circle"></i> 成功导入 ${importedRecords.length} 条记录
+                        </div>
+                    `;
+                    
+                    // 3秒后清除状态
+                    setTimeout(() => {
+                        document.getElementById('import-status').innerHTML = '';
+                    }, 3000);
+                } catch (error) {
+                    document.getElementById('import-status').innerHTML = `
+                        <div style="color:var(--danger);">
+                            <i class="fas fa-exclamation-circle"></i> 导入失败: ${error.message}
+                        </div>
+                    `;
+                }
+            };
+            reader.readAsText(file);
+        });
+    </script>
+</body>
+</html>
