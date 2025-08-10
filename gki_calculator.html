@@ -695,19 +695,19 @@
                         </div>
                         <div class="legend-item">
                             <div class="color-box color-good"></div>
-                            <span>良好酮症 (1.0-2.0)</span>
+                            <span>良好酮症 (1.1-3.0)</span>
                         </div>
                         <div class="legend-item">
                             <div class="color-box color-moderate"></div>
-                            <span>中等酮症 (2.0-3.0)</span>
+                            <span>中等酮症 (3.1-6.0)</span>
                         </div>
                         <div class="legend-item">
                             <div class="color-box color-mild"></div>
-                            <span>轻度酮症 (3.0-6.0)</span>
+                            <span>轻度酮症 (6.1-9.0)</span>
                         </div>
                         <div class="legend-item">
                             <div class="color-box color-high"></div>
-                            <span>无酮症 (GKI > 6.0)</span>
+                            <span>无酮症 (GKI > 9.0)</span>
                         </div>
                     </div>
                 </div>
@@ -832,15 +832,15 @@
                 status = "最佳酮症";
                 statusClass = "status-optimal";
                 statusInfo = "您处于深度营养性酮症状态，这是治疗性断食和某些代谢疗法的理想范围。这种状态通常与癌症代谢治疗和神经保护作用相关。";
-            } else if (gki <= 2.0) {
+            } else if (gki <= 3.0) {
                 status = "良好酮症";
                 statusClass = "status-good";
                 statusInfo = "您处于良好的酮症状态，表明有效的脂肪代谢和酮体产生。这种状态对体重管理、2型糖尿病和认知功能改善有益。";
-            } else if (gki <= 3.0) {
+            } else if (gki <= 6.0) {
                 status = "中等酮症";
                 statusClass = "status-moderate";
                 statusInfo = "中等酮症状态，可能受益于更严格的碳水化合物限制或延长断食时间。这种状态常见于温和低碳水化合物饮食。";
-            } else if (gki <= 6.0) {
+            } else if (gki <= 9.0) {
                 status = "轻度酮症";
                 statusClass = "status-mild";
                 statusInfo = "轻度酮症状态，通常由适度低碳水化合物饮食或较短断食时间引起。这种状态可能提供一些代谢益处但尚未达到治疗水平。";
@@ -879,9 +879,9 @@
             // 获取状态
             let status;
             if (gki <= 1.0) status = "最佳酮症";
-            else if (gki <= 2.0) status = "良好酮症";
-            else if (gki <= 3.0) status = "中等酮症";
-            else if (gki <= 6.0) status = "轻度酮症";
+            else if (gki <= 3.0) status = "良好酮症";
+            else if (gki <= 6.0) status = "中等酮症";
+            else if (gki <= 9.0) status = "轻度酮症";
             else status = "无酮症";
             
             const record = {
