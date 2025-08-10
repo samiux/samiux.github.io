@@ -14,6 +14,7 @@
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
+- [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
@@ -86,6 +87,8 @@
 - [Eat HIGH FAT for 30 Days: Fix Your Heart (Shocking Effect on LDL Cholesterol)](https://www.youtube.com/watch?v=4k2Ymio6w3o)    
 - [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)    
 - [The REAL Cause of Clogged Arteries & How FASTING Can Help - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)    
+- [Get Rid of Visceral Fat Once and for All - Dr. Sean O’Mara](https://www.youtube.com/watch?v=lT_5ouXhZO4)
+- [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sean O'Mara - (Short video of the above)](https://www.youtube.com/watch?v=mVV-v_roZMI)    
 
 ### 比值研究
 
