@@ -142,6 +142,7 @@
 - [脂蛋白a与血脂代谢关系研究](/lpa.md)    
 - [丹神的间歇性高碳减肥法](http://www.chinalowcarb.com/carb-cycling/)
 - [断食科学提升代谢率燃烧脂肪](fasting_fat_burning.md)     
+- [10大断食的好处，这篇文章说清楚了，少吃更健康，吃饱得百病](https://mp.weixin.qq.com/s/gQ2XZE3bq59_slBBdT-03A)      
 
 ### 生酮相关
 
