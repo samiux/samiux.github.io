@@ -163,6 +163,7 @@
 - [生酮饮食不是高蛋白饮食！如何科学生酮饮食？](http://www.chinalowcarb.com/two-major-misunderstandings-about-the-ketogenic-diet/)     
 - [断食期间饮用防弹咖啡对生酮影响分析](/fasting_ketones_09.md)     
 - [断食期间AKK补充剂的能量代谢影响分析](/fasting_akk.md)    
+- [断食期间AKG补充对健康影响分析](/fasting_akg.md)    
 
 ### MCT 油
 
