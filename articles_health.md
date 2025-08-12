@@ -11,6 +11,7 @@
 
 ## 健康研究杂谈
 
+- [Ben Bikman](https://www.youtube.com/@benbikman)     
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
@@ -89,6 +90,7 @@
 - [The REAL Cause of Clogged Arteries & How FASTING Can Help - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)    
 - [Get Rid of Visceral Fat Once and for All - Dr. Sean O’Mara](https://www.youtube.com/watch?v=lT_5ouXhZO4)
 - [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sean O'Mara - (Short video of the above)](https://www.youtube.com/watch?v=mVV-v_roZMI)    
+- [99% People LOSE WEIGHT FASTER With This Insulin Trick](https://www.youtube.com/watch?v=68_Qm7PEgDY)   
 
 ### 比值研究
 
