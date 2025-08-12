@@ -146,6 +146,8 @@
 - [断食科学提升代谢率燃烧脂肪](fasting_fat_burning.md)     
 - [碳循环、放纵餐，减肥科学吗？](https://mp.weixin.qq.com/s/19e6ElLeAJnRXpPhqs-B-A)    
 - [No.1 Weight Loss Expert Reveals EASIEST Way To BURN FAT After 40](https://www.youtube.com/watch?v=NErPC2ZE6-Q)     
+- [How Fasting Naturally Lowers High Blood Pressure](https://www.youtube.com/watch?v=ogNBtf3APFM)    
+- [How to Fast for Different Goals - Dr. J’s Fasting and Time Restricted Feeding Tips - long video of above](https://www.youtube.com/watch?v=qIcSIC_IjfM)
 
 ### 生酮相关
 
