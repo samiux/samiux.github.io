@@ -143,6 +143,7 @@
 - [丹神的间歇性高碳减肥法](http://www.chinalowcarb.com/carb-cycling/)
 - [断食科学提升代谢率燃烧脂肪](fasting_fat_burning.md)     
 - [10大断食的好处，这篇文章说清楚了，少吃更健康，吃饱得百病](https://mp.weixin.qq.com/s/gQ2XZE3bq59_slBBdT-03A)      
+- [碳循环、放纵餐，减肥科学吗？](https://mp.weixin.qq.com/s/19e6ElLeAJnRXpPhqs-B-A)    
 
 ### 生酮相关
 
