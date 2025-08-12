@@ -13,6 +13,7 @@
  
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
+- [Dr. Pradip Jamnadas, MD - Cardiologist](https://www.youtube.com/@pradipjamnadasmd/featured)    
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
 - [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
