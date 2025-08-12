@@ -200,4 +200,11 @@
 - [我是如何使用动态血糖仪 CGM 的](/cgm.md)    
 - [断食与生酮代谢的血脂分析](/fasting_analysis_report.md)    
 
+## Workouts - Coach Kenny
+
+- [1 minute Legs workout burn inner thighs at home](https://www.youtube.com/shorts/QDRuLDIKhrM)     
+- [Quick 2 minutes Abs workout repeat x10](https://www.youtube.com/shorts/sojkTZTgrlw)     
+- [Upper body attack 4x25](https://www.youtube.com/shorts/T-p4yeA4u7s)     
+- [Fat burning cardio workout 1 min repeat x10](https://www.youtube.com/shorts/bUqdH9JQM64)     
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
