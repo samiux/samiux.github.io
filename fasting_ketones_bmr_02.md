@@ -81,4 +81,7 @@ BMR 结果 : 1,381 kcal
 
 > **结论**：忽略性别差异将高估女性能量需求约10-15%，导致生酮断食计划失效或健康风险。女性需采用专属公式计算BMR，并调整营养素上限。
 
+- [生酮断食营养计算与科学依据 1](/fasting_ketones_bmr_01.md)    
+
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
