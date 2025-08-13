@@ -176,6 +176,7 @@
 - [断食期间AKG补充对健康影响分析](/fasting_akg.md)    
 - [生酮断食营养计算与科学依据 1](/fasting_ketones_bmr_01.md)    
 - [生酮断食营养计算与科学依据 2](/fasting_ketones_bmr_02.md)    
+- [断食与生酮饮食混合应用研究](/fasting_keto.md)    
 
 ### MCT 油
 
