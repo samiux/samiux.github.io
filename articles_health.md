@@ -150,6 +150,7 @@
 - [No.1 Weight Loss Expert Reveals EASIEST Way To BURN FAT After 40](https://www.youtube.com/watch?v=NErPC2ZE6-Q)     
 - [How Fasting Naturally Lowers High Blood Pressure](https://www.youtube.com/watch?v=ogNBtf3APFM)    
 - [How to Fast for Different Goals - Dr. J’s Fasting and Time Restricted Feeding Tips - long video of above](https://www.youtube.com/watch?v=qIcSIC_IjfM)
+- [断食与生酮饮食科学对比](/fasting_keto_diet.md)    
 
 ### 生酮相关
 
