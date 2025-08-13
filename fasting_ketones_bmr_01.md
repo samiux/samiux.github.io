@@ -118,4 +118,6 @@
 
 > 结论：结合生酮的间歇性断食需精确控制碳水与蛋白质，脂肪作为主要能量来源。个体差异显著，建议通过血酮监测个性化调整（Cotter et al., *Front Physiol* 2014）。
 
+- [生酮断食营养计算与科学依据 2](/fasting_ketones_bmr_02.md)    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
