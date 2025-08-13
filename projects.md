@@ -23,6 +23,7 @@
 - [代谢健康指标计算器 (增强版)](/metabolism_index_calculator_plus.html)    
 - [血糖酮指数(GKI)计算器](/gki_calculator.html)
 - [健康追踪器](/health_tracker.html)    
+- [生酮断食营养计算器](/keto_fasting_calculator.html)    
 
 # Projects (INACTIVE)
 
