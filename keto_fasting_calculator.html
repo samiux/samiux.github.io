@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生酮断食营养计算器</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Microsoft YaHei', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        :root {
+            --primary: #3498db;
+            --secondary: #2ecc71;
+            --dark: #2c3e50;
+            --light: #ecf0f1;
+            --warning: #e67e22;
+            --danger: #e74c3c;
+            --keto-green: #27ae60;
+            --keto-purple: #8e44ad;
+            --fat-color: #f39c12;
+            --protein-color: #3498db;
+            --carbs-color: #e74c3c;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #1a2a6c, #2c3e50, #1a2a6c);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.97);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(90deg, var(--dark), var(--keto-purple));
+            color: white;
+            text-align: center;
+            padding: 25px 20px;
+            position: relative;
+            border-bottom: 3px solid var(--keto-green);
+        }
+        
+        header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        header p {
+            color: var(--light);
+            font-size: 1rem;
+            max-width: 90%;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+        
+        .tabs {
+            display: flex;
+            background: var(--primary);
+            overflow-x: auto;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .tab-btn {
+            flex: 1;
+            padding: 18px 15px;
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 1.05rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-width: 100px;
+            position: relative;
+        }
+        
+        .tab-btn.active {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        
+        .tab-btn.active::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--secondary);
+        }
+        
+        .tab-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+        
+        .tab-content {
+            display: none;
+            padding: 30px;
+            animation: fadeIn 0.5s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 18px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, var(--keto-green), var(--keto-purple));
+        }
+        
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #f0f4f8;
+        }
+        
+        h2 {
+            color: var(--dark);
+            font-size: 1.6rem;
+            font-weight: 700;
+        }
+        
+        .input-group {
+            margin-bottom: 25px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: var(--dark);
+            font-size: 1.05rem;
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 14px 18px;
+            border: 2px solid #e1e8ed;
+            border-radius: 12px;
+            font-size: 1.05rem;
+            transition: all 0.3s ease;
+            background: #f9fbfd;
+        }
+        
+        input:focus, select:focus {
+            border-color: var(--primary);
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(52, 152, 219, 0.15);
+            background: white;
+        }
+        
+        .row {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .col {
+            flex: 1;
+        }
+        
+        button {
+            background: var(--keto-green);
+            color: white;
+            border: none;
+            padding: 18px 25px;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            box-shadow: 0 4px 12px rgba(39, 174, 96, 0.3);
+        }
+        
+        button:hover {
+            background: #219653;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 18px rgba(39, 174, 96, 0.4);
+        }
+        
+        .results {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin-top: 25px;
+        }
+        
+        .result-card {
+            background: linear-gradient(135deg, #f5f9ff, #e6f0ff);
+            border-radius: 16px;
+            padding: 25px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+            border: 1px solid #e1e8ed;
+        }
+        
+        .result-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+        
+        .result-card h3 {
+            color: var(--primary);
+            margin-bottom: 18px;
+            font-size: 1.3rem;
+            font-weight: 700;
+        }
+        
+        .result-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--dark);
+            margin: 15px 0;
+            background: linear-gradient(45deg, var(--dark), var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .result-unit {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+        
+        .nutrients-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        
+        .nutrient-card {
+            background: white;
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+            transition: all 0.3s ease;
+            border: 1px solid #e1e8ed;
+        }
+        
+        .nutrient-card:hover {
+            transform: scale(1.03);
+        }
+        
+        .nutrient-card.fat {
+            border-top: 6px solid var(--fat-color);
+        }
+        
+        .nutrient-card.protein {
+            border-top: 6px solid var(--protein-color);
+        }
+        
+        .nutrient-card.carbs {
+            border-top: 6px solid var(--carbs-color);
+        }
+        
+        .nutrient-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+        
+        .nutrient-card .result-value {
+            font-size: 2.2rem;
+        }
+        
+        .fasting-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 15px;
+            margin: 25px 0;
+        }
+        
+        .fasting-option {
+            background: white;
+            border: 2px solid #e1e8ed;
+            border-radius: 14px;
+            padding: 18px 12px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .fasting-option:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+        }
+        
+        .fasting-option.selected {
+            border-color: var(--secondary);
+            background: rgba(46, 204, 113, 0.1);
+            transform: translateY(-5px) scale(1.03);
+            box-shadow: 0 8px 20px rgba(46, 204, 113, 0.2);
+        }
+        
+        .fasting-option h4 {
+            font-size: 1.15rem;
+            margin-bottom: 6px;
+            color: var(--dark);
+            font-weight: 700;
+        }
+        
+        .fasting-option p {
+            font-size: 0.95rem;
+            color: #7f8c8d;
+        }
+        
+        .info-box {
+            background: rgba(52, 152, 219, 0.08);
+            border-left: 4px solid var(--primary);
+            padding: 18px;
+            border-radius: 0 12px 12px 0;
+            margin: 25px 0;
+            font-size: 1rem;
+            color: #2c3e50;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 25px;
+            color: #7f8c8d;
+            font-size: 0.95rem;
+            border-top: 1px solid #eee;
+            background: #f9fbfd;
+        }
+        
+        .macro-chart {
+            display: flex;
+            height: 45px;
+            border-radius: 22px;
+            overflow: hidden;
+            margin: 35px 0;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .macro-fat {
+            background: var(--fat-color);
+            height: 100%;
+        }
+        
+        .macro-protein {
+            background: var(--protein-color);
+            height: 100%;
+        }
+        
+        .macro-carbs {
+            background: var(--carbs-color);
+            height: 100%;
+        }
+        
+        .macro-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+        
+        .macro-label {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        
+        .macro-color {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            margin-bottom: 8px;
+        }
+        
+        .color-fat {
+            background: var(--fat-color);
+        }
+        
+        .color-protein {
+            background: var(--protein-color);
+        }
+        
+        .color-carbs {
+            background: var(--carbs-color);
+        }
+        
+        .calculation-info {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 30px;
+            border-left: 4px solid var(--keto-green);
+        }
+        
+        .calculation-info h4 {
+            color: var(--dark);
+            margin-bottom: 15px;
+            font-size: 1.2rem;
+        }
+        
+        .calculation-info ul {
+            padding-left: 25px;
+        }
+        
+        .calculation-info li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        
+        @media (max-width: 600px) {
+            .row {
+                flex-direction: column;
+                gap: 0;
+            }
+            
+            header h1 {
+                font-size: 1.5rem;
+            }
+            
+            .results {
+                grid-template-columns: 1fr;
+            }
+            
+            .tab-content {
+                padding: 20px;
+            }
+            
+            .card {
+                padding: 25px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-calculator"></i> 生酮断食营养计算器</h1>
+            <p>基于最新研究计算您的基础代谢率与生酮断食营养需求</p>
+        </header>
+        
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="input"><i class="fas fa-user"></i> 用户信息</button>
+            <button class="tab-btn" data-tab="results"><i class="fas fa-chart-bar"></i> 计算结果</button>
+        </div>
+        
+        <!-- 输入区域 -->
+        <div id="input" class="tab-content active">
+            <div class="card">
+                <div class="card-header">
+                    <i class="fas fa-user-circle fa-2x" style="color: var(--primary);"></i>
+                    <h2>个人信息</h2>
+                </div>
+                
+                <div class="input-group">
+                    <label for="userName"><i class="fas fa-signature"></i> 姓名</label>
+                    <input type="text" id="userName" placeholder="输入您的姓名" value="张伟">
+                </div>
+                
+                <div class="row">
+                    <div class="col">
+                        <div class="input-group">
+                            <label for="gender"><i class="fas fa-venus-mars"></i> 性别</label>
+                            <select id="gender">
+                                <option value="male">男性</option>
+                                <option value="female">女性</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="input-group">
+                            <label for="age"><i class="fas fa-birthday-cake"></i> 年龄 (岁)</label>
+                            <input type="number" id="age" min="18" max="100" value="35">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <div class="col">
+                        <div class="input-group">
+                            <label for="weight"><i class="fas fa-weight-scale"></i> 体重 (kg)</label>
+                            <input type="number" id="weight" min="30" max="200" value="75">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="input-group">
+                            <label for="height"><i class="fas fa-ruler-vertical"></i> 身高 (cm)</label>
+                            <input type="number" id="height" min="100" max="250" value="175">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-group">
+                    <label><i class="fas fa-person-running"></i> 活动水平</label>
+                    <select id="activity">
+                        <option value="1.2">久坐（很少或没有运动）</option>
+                        <option value="1.375">轻度活动（每周运动1-3天）</option>
+                        <option value="1.55" selected>中度活动（每周运动3-5天）</option>
+                        <option value="1.725">高度活动（每周运动6-7天）</option>
+                        <option value="1.9">非常活跃（体力劳动或高强度训练）</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <i class="fas fa-clock fa-2x" style="color: var(--keto-purple);"></i>
+                    <h2>断食计划</h2>
+                </div>
+                
+                <p>选择您的断食时长：</p>
+                
+                <div class="fasting-options">
+                    <div class="fasting-option selected" data-hours="16">
+                        <h4>16:8</h4>
+                        <p>16小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="20">
+                        <h4>20:4</h4>
+                        <p>20小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="24">
+                        <h4>24小时</h4>
+                        <p>每日断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="36">
+                        <h4>36小时</h4>
+                        <p>1.5日断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="48">
+                        <h4>48小时</h4>
+                        <p>2日断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="72">
+                        <h4>72小时</h4>
+                        <p>3日断食</p>
+                    </div>
+                </div>
+                
+                <div class="info-box">
+                    <p><i class="fas fa-info-circle"></i> 根据最新研究，生酮断食期间建议营养比例：脂肪70-75%，蛋白质20-25%，碳水化合物5-10%</p>
+                </div>
+                
+                <button id="calculateBtn" class="keto">
+                    <i class="fas fa-fire"></i> 计算基础代谢率及生酮营养需求
+                </button>
+                
+                <div class="calculation-info">
+                    <h4><i class="fas fa-flask"></i> 计算方法说明</h4>
+                    <ul>
+                        <li><strong>基础代谢率(BMR)</strong>: 使用Mifflin-St Jeor公式计算，这是目前最准确的方法</li>
+                        <li><strong>每日总能量消耗(TDEE)</strong>: BMR × 活动水平系数</li>
+                        <li><strong>生酮营养比例</strong>: 脂肪70%, 蛋白质25%, 碳水化合物5%</li>
+                        <li><strong>断食调整</strong>: 长时间断食(24小时以上)会减少总热量摄入</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 结果区域 -->
+        <div id="results" class="tab-content">
+            <div class="card">
+                <div class="card-header">
+                    <i class="fas fa-chart-line fa-2x" style="color: var(--primary);"></i>
+                    <h2>基础代谢率 (BMR)</h2>
+                </div>
+                
+                <div class="results">
+                    <div class="result-card">
+                        <h3>基础代谢率</h3>
+                        <div class="result-value" id="bmrResult">1,680</div>
+                        <div class="result-unit">KCal/天</div>
+                        <p>静息状态下的每日能量消耗</p>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3>每日总能量消耗</h3>
+                        <div class="result-value" id="tdeeResult">2,604</div>
+                        <div class="result-unit">KCal/天</div>
+                        <p>基于您的活动水平</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <i class="fas fa-apple-alt fa-2x" style="color: var(--keto-green);"></i>
+                    <h2>生酮营养需求</h2>
+                </div>
+                
+                <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
+                
+                <div class="macro-chart">
+                    <div class="macro-fat" style="width: 70%;"></div>
+                    <div class="macro-protein" style="width: 25%;"></div>
+                    <div class="macro-carbs" style="width: 5%;"></div>
+                </div>
+                
+                <div class="macro-labels">
+                    <div class="macro-label">
+                        <div class="macro-color color-fat"></div>
+                        <span>脂肪 70%</span>
+                    </div>
+                    <div class="macro-label">
+                        <div class="macro-color color-protein"></div>
+                        <span>蛋白质 25%</span>
+                    </div>
+                    <div class="macro-label">
+                        <div class="macro-color color-carbs"></div>
+                        <span>碳水化合物 5%</span>
+                    </div>
+                </div>
+                
+                <div class="nutrients-grid">
+                    <div class="nutrient-card fat">
+                        <h3>脂肪</h3>
+                        <div class="result-value" id="fatResult">202</div>
+                        <div class="result-unit">克/天</div>
+                    </div>
+                    
+                    <div class="nutrient-card protein">
+                        <h3>蛋白质</h3>
+                        <div class="result-value" id="proteinResult">163</div>
+                        <div class="result-unit">克/天</div>
+                    </div>
+                    
+                    <div class="nutrient-card carbs">
+                        <h3>碳水化合物</h3>
+                        <div class="result-value" id="carbsResult">33</div>
+                        <div class="result-unit">克/天</div>
+                    </div>
+                </div>
+                
+                <div class="info-box">
+                    <p><i class="fas fa-lightbulb"></i> 根据国际生酮营养集团(ISKN)最新指南，长期断食期间应确保足够电解质摄入并定期监测健康状况。</p>
+                </div>
+                
+                <div class="calculation-info">
+                    <h4><i class="fas fa-book-medical"></i> 生酮断食注意事项</h4>
+                    <ul>
+                        <li>开始生酮饮食前请咨询医生，特别是患有慢性疾病的人群</li>
+                        <li>确保每日摄入足够的电解质（钠、钾、镁）</li>
+                        <li>断食期间保持充足的水分摄入</li>
+                        <li>逐渐适应断食，从较短时间开始逐步延长</li>
+                        <li>注意身体信号，如有不适请停止断食</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>© 2025 生酮断食营养计算器 | 基于Mifflin-St Jeor公式及最新生酮营养研究</p>
+            <p style="margin-top: 10px;">计算结果仅供参考，具体营养需求请咨询专业营养师</p>
+        </div>
+    </div>
+
+    <script>
+        // 全局变量
+        let currentFastingHours = 16;
+        
+        // DOM 加载完成后执行
+        document.addEventListener('DOMContentLoaded', function() {
+            // 选项卡切换
+            const tabBtns = document.querySelectorAll('.tab-btn');
+            const tabContents = document.querySelectorAll('.tab-content');
+            
+            tabBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    // 移除所有active类
+                    tabBtns.forEach(b => b.classList.remove('active'));
+                    tabContents.forEach(c => c.classList.remove('active'));
+                    
+                    // 添加active类到当前选项卡
+                    btn.classList.add('active');
+                    const tabId = btn.getAttribute('data-tab');
+                    document.getElementById(tabId).classList.add('active');
+                });
+            });
+            
+            // 断食选项选择
+            const fastingOptions = document.querySelectorAll('.fasting-option');
+            fastingOptions.forEach(option => {
+                option.addEventListener('click', () => {
+                    fastingOptions.forEach(o => o.classList.remove('selected'));
+                    option.classList.add('selected');
+                    currentFastingHours = parseInt(option.getAttribute('data-hours'));
+                    document.getElementById('fastingPlan').textContent = option.querySelector('h4').textContent + " (" + option.querySelector('p').textContent + ")";
+                });
+            });
+            
+            // 计算基础代谢率和生酮营养需求
+            document.getElementById('calculateBtn').addEventListener('click', calculateAll);
+            
+            // 初始计算
+            calculateAll();
+        });
+        
+        // 计算基础代谢率和生酮营养需求
+        function calculateAll() {
+            calculateBMR();
+            calculateKeto();
+            document.querySelector('[data-tab="results"]').click();
+        }
+        
+        // 计算基础代谢率 (BMR)
+        function calculateBMR() {
+            const gender = document.getElementById('gender').value;
+            const age = parseInt(document.getElementById('age').value);
+            const weight = parseFloat(document.getElementById('weight').value);
+            const height = parseFloat(document.getElementById('height').value);
+            
+            // 使用 Mifflin-St Jeor 公式 (最新研究推荐)
+            let bmr;
+            if (gender === 'male') {
+                bmr = 10 * weight + 6.25 * height - 5 * age + 5;
+            } else {
+                bmr = 10 * weight + 6.25 * height - 5 * age - 161;
+            }
+            
+            // 计算每日总能量消耗 (TDEE)
+            const activityFactor = parseFloat(document.getElementById('activity').value);
+            const tdee = Math.round(bmr * activityFactor);
+            
+            // 显示结果
+            document.getElementById('bmrResult').textContent = bmr.toLocaleString();
+            document.getElementById('tdeeResult').textContent = tdee.toLocaleString();
+        }
+        
+        // 计算生酮营养需求
+        function calculateKeto() {
+            const tdeeElem = document.getElementById('tdeeResult');
+            const tdeeText = tdeeElem.textContent.replace(/,/g, '');
+            const tdee = parseInt(tdeeText);
+            
+            // 根据断食时长调整热量摄入
+            let adjustedCalories = tdee;
+            
+            if (currentFastingHours >= 24) {
+                // 长时间断食调整：减少总热量摄入
+                const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
+                adjustedCalories = Math.round(tdee * reductionFactor);
+            }
+            
+            // 计算三大营养素 (生酮比例: 脂肪70%, 蛋白质25%, 碳水5%)
+            const fatGrams = Math.round((adjustedCalories * 0.7) / 9);
+            const proteinGrams = Math.round((adjustedCalories * 0.25) / 4);
+            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            
+            // 显示结果
+            document.getElementById('fatResult').textContent = fatGrams.toLocaleString();
+            document.getElementById('proteinResult').textContent = proteinGrams.toLocaleString();
+            document.getElementById('carbsResult').textContent = carbsGrams.toLocaleString();
+        }
+    </script>
+</body>
+</html>
