@@ -172,6 +172,8 @@
 - [断食期间AKK补充剂的能量代谢影响分析](/fasting_akk.md)    
 - [断食期间AKK对生酮影响研究](/fasting_akk_02.md)    
 - [断食期间AKG补充对健康影响分析](/fasting_akg.md)    
+- [生酮断食营养计算与科学依据 1](/fasting_ketones_bmr_01.md)    
+- [生酮断食营养计算与科学依据 2](/fasting_ketones_bmr_02.md)    
 
 ### MCT 油
 
