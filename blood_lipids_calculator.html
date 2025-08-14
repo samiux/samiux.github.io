@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血脂比值计算器 - 心血管健康评估</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --accent: #e74c3c;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --light: #ecf0f1;
+            --dark: #2c3e50;
+            --text: #333;
+            --background: #f8f9fa;
+            --card-bg: #fff;
+            --border: #ddd;
+            --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            --good: #27ae60;
+            --warning: #f39c12;
+            --danger: #e74c3c;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e7eb 100%);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 15px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 25px 20px;
+            margin-bottom: 20px;
+            background: linear-gradient(to right, var(--primary), #1a5276);
+            color: white;
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        header::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+            transform: rotate(30deg);
+        }
+        
+        header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 8px;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+        
+        header p {
+            font-size: 1rem;
+            opacity: 0.9;
+            max-width: 700px;
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        .tabs {
+            display: flex;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 25px;
+            box-shadow: var(--shadow);
+            flex-wrap: wrap;
+        }
+        
+        .tab-btn {
+            flex: 1;
+            min-width: 120px;
+            padding: 16px 12px;
+            text-align: center;
+            background: var(--card-bg);
+            border: none;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--dark);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-bottom: 3px solid transparent;
+        }
+        
+        .tab-btn:hover {
+            background: #f5f7fa;
+        }
+        
+        .tab-btn.active {
+            color: var(--secondary);
+            border-bottom: 3px solid var(--secondary);
+            background: #f8f9fa;
+        }
+        
+        .tab-content {
+            display: none;
+            background: var(--card-bg);
+            padding: 25px 20px;
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+            animation: fadeIn 0.4s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .input-group {
+            margin-bottom: 20px;
+        }
+        
+        .input-group h3 {
+            color: var(--primary);
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--border);
+            font-size: 1.25rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .input-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 12px;
+        }
+        
+        .input-field {
+            flex: 1 1 200px;
+            min-width: 200px;
+            position: relative;
+        }
+        
+        .input-field label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 600;
+            color: var(--dark);
+            font-size: 0.95rem;
+        }
+        
+        .input-field input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            font-size: 0.95rem;
+            transition: border-color 0.3s;
+        }
+        
+        .input-field input:focus {
+            border-color: var(--secondary);
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+        }
+        
+        .input-field .unit {
+            position: absolute;
+            right: 12px;
+            top: 34px;
+            color: #777;
+            font-size: 0.9rem;
+        }
+        
+        .btn-group {
+            display: flex;
+            gap: 12px;
+            margin: 25px 0;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .btn-primary {
+            background: var(--secondary);
+            color: white;
+        }
+        
+        .btn-secondary {
+            background: var(--success);
+            color: white;
+        }
+        
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+        
+        .btn-danger {
+            background: var(--accent);
+            color: white;
+        }
+        
+        .btn:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+        }
+        
+        .results-container {
+            background: #f1f8ff;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 15px;
+            border-left: 4px solid var(--secondary);
+        }
+        
+        .results-container h3 {
+            color: var(--primary);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.25rem;
+        }
+        
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .result-card {
+            background: white;
+            border-radius: 10px;
+            padding: 16px;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            transition: transform 0.3s ease;
+            position: relative;
+        }
+        
+        .result-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .result-card h4 {
+            color: var(--dark);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .result-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+        
+        .result-status {
+            margin-top: 5px;
+            font-weight: 600;
+            padding: 4px 8px;
+            border-radius: 20px;
+            display: inline-block;
+            font-size: 0.85rem;
+        }
+        
+        .good {
+            background: rgba(39, 174, 96, 0.15);
+            color: var(--good);
+        }
+        
+        .warning {
+            background: rgba(243, 156, 18, 0.15);
+            color: var(--warning);
+        }
+        
+        .danger {
+            background: rgba(231, 76, 60, 0.15);
+            color: var(--danger);
+        }
+        
+        .reference-info {
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .history-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .history-item {
+            background: var(--card-bg);
+            padding: 18px;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .history-info {
+            flex: 1;
+            min-width: 250px;
+        }
+        
+        .history-actions {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .history-date {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 5px;
+            font-size: 1.05rem;
+        }
+        
+        .history-values {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 8px;
+        }
+        
+        .history-value {
+            background: #f0f7ff;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+        }
+        
+        .data-actions {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 15px;
+            margin-top: 25px;
+        }
+        
+        .data-card {
+            background: white;
+            border-radius: 12px;
+            padding: 22px;
+            box-shadow: var(--shadow);
+            text-align: center;
+        }
+        
+        .data-card i {
+            font-size: 2.2rem;
+            color: var(--secondary);
+            margin-bottom: 12px;
+        }
+        
+        .data-card h3 {
+            color: var(--primary);
+            margin-bottom: 12px;
+            font-size: 1.2rem;
+        }
+        
+        .info-box {
+            background: #fff8e1;
+            border-left: 4px solid #ffc107;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .info-box h4 {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #e67e22;
+            margin-bottom: 8px;
+            font-size: 1.1rem;
+        }
+        
+        .instructions {
+            background: #e8f4f8;
+            border-radius: 12px;
+            padding: 22px;
+            margin-top: 25px;
+        }
+        
+        .instructions h3 {
+            color: var(--primary);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.2rem;
+        }
+        
+        .instructions ul {
+            padding-left: 20px;
+        }
+        
+        .instructions li {
+            margin-bottom: 8px;
+            font-size: 0.95rem;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 15px;
+            color: #777;
+            font-size: 0.85rem;
+        }
+        
+        .empty-history {
+            text-align: center;
+            padding: 30px;
+            color: #777;
+        }
+        
+        .empty-history i {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            color: #ddd;
+        }
+        
+        .status-chart {
+            display: flex;
+            height: 8px;
+            border-radius: 4px;
+            overflow: hidden;
+            background: #eee;
+            margin-top: 5px;
+        }
+        
+        .status-good {
+            background: var(--good);
+            height: 100%;
+        }
+        
+        .status-warning {
+            background: var(--warning);
+            height: 100%;
+        }
+        
+        .status-danger {
+            background: var(--danger);
+            height: 100%;
+        }
+        
+        @media (max-width: 768px) {
+            .tabs {
+                flex-direction: column;
+            }
+            
+            .tab-btn {
+                width: 100%;
+            }
+            
+            .input-row {
+                flex-direction: column;
+                gap: 12px;
+            }
+            
+            .input-field {
+                width: 100%;
+            }
+            
+            .btn-group {
+                flex-direction: column;
+            }
+            
+            .history-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 12px;
+            }
+            
+            .history-actions {
+                width: 100%;
+                justify-content: flex-end;
+            }
+            
+            .results-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            header h1 {
+                font-size: 1.5rem;
+            }
+            
+            .result-value {
+                font-size: 1.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heartbeat"></i> 血脂比值计算器</h1>
+            <p>基于最新断食科学与心血管研究，评估健康风险的重要工具</p>
+        </header>
+        
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="calculator"><i class="fas fa-calculator"></i> 计算器</button>
+            <button class="tab-btn" data-tab="history"><i class="fas fa-history"></i> 历史记录</button>
+            <button class="tab-btn" data-tab="data"><i class="fas fa-database"></i> 数据管理</button>
+        </div>
+        
+        <!-- 计算器标签页 -->
+        <div id="calculator" class="tab-content active">
+            <div class="input-group">
+                <h3><i class="fas fa-vial"></i> 血脂指标输入 (mmol/L)</h3>
+                <div class="input-row">
+                    <div class="input-field">
+                        <label for="tc">总胆固醇 (TC)</label>
+                        <input type="number" id="tc" placeholder="输入TC值" step="0.01">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    <div class="input-field">
+                        <label for="hdl">高密度脂蛋白 (HDL-C)</label>
+                        <input type="number" id="hdl" placeholder="输入HDL-C值" step="0.01">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    <div class="input-field">
+                        <label for="tg">甘油三酯 (TG)</label>
+                        <input type="number" id="tg" placeholder="输入TG值" step="0.01">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                </div>
+                <div class="input-row">
+                    <div class="input-field">
+                        <label for="ldl">低密度脂蛋白 (LDL-C)</label>
+                        <input type="number" id="ldl" placeholder="输入LDL-C值" step="0.01">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                    <div class="input-field">
+                        <label for="apoA1">载脂蛋白A1 (ApoA1)</label>
+                        <input type="number" id="apoA1" placeholder="输入ApoA1值" step="0.01">
+                        <span class="unit">g/L</span>
+                    </div>
+                    <div class="input-field">
+                        <label for="apoB">载脂蛋白B (ApoB)</label>
+                        <input type="number" id="apoB" placeholder="输入ApoB值" step="0.01">
+                        <span class="unit">g/L</span>
+                    </div>
+                </div>
+                <div class="input-row">
+                    <div class="input-field">
+                        <label for="lpa">脂蛋白(a) [LP(a)]</label>
+                        <input type="number" id="lpa" placeholder="输入LP(a)值" step="0.01">
+                        <span class="unit">nmol/L</span>
+                    </div>
+                    <div class="input-field">
+                        <label for="glucose">空腹血糖</label>
+                        <input type="number" id="glucose" placeholder="输入血糖值" step="0.01">
+                        <span class="unit">mmol/L</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="btn-group">
+                <button id="calculate-btn" class="btn btn-primary">
+                    <i class="fas fa-calculator"></i> 计算所有比值
+                </button>
+                <button id="save-btn" class="btn btn-secondary">
+                    <i class="fas fa-save"></i> 保存结果
+                </button>
+                <button id="reset-btn" class="btn btn-danger">
+                    <i class="fas fa-redo"></i> 重置表单
+                </button>
+            </div>
+            
+            <div class="results-container">
+                <h3><i class="fas fa-chart-line"></i> 计算结果</h3>
+                <div class="results-grid">
+                    <div class="result-card">
+                        <h4>TC/HDL-C</h4>
+                        <div class="result-value" id="tc-hdl">-</div>
+                        <div class="result-status" id="tc-hdl-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 4.0 | 高风险: &gt; 5.0</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>TG/HDL-C</h4>
+                        <div class="result-value" id="tg-hdl">-</div>
+                        <div class="result-status" id="tg-hdl-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 2.0 | 高风险: &gt; 3.0</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>LDL-C/HDL-C</h4>
+                        <div class="result-value" id="ldl-hdl">-</div>
+                        <div class="result-status" id="ldl-hdl-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 2.5 | 高风险: &gt; 3.5</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>动脉硬化指数 (AI)</h4>
+                        <div class="result-value" id="ai">-</div>
+                        <div class="result-status" id="ai-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 3.0 | 高风险: &gt; 4.0</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>non-HDL-C</h4>
+                        <div class="result-value" id="non-hdl">-</div>
+                        <div class="result-status" id="non-hdl-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 3.4 | 高风险: &gt; 4.9</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>non-HDL-C/HDL-C</h4>
+                        <div class="result-value" id="non-hdl-hdl">-</div>
+                        <div class="result-status" id="non-hdl-hdl-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 3.0 | 高风险: &gt; 4.0</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>TG/LDL-C</h4>
+                        <div class="result-value" id="tg-ldl">-</div>
+                        <div class="result-status" id="tg-ldl-status">-</div>
+                        <div class="reference-info">无标准参考值</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>ApoA1/ApoB</h4>
+                        <div class="result-value" id="apoa1-apob">-</div>
+                        <div class="result-status" id="apoa1-apob-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &gt; 1.0 | 高风险: &lt; 0.8</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>脂蛋白(a) [LP(a)]</h4>
+                        <div class="result-value" id="lpa-result">-</div>
+                        <div class="result-status" id="lpa-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 75 nmol/L | 高风险: &gt; 125 nmol/L</div>
+                    </div>
+                    <div class="result-card">
+                        <h4>TyG 指数</h4>
+                        <div class="result-value" id="tyg">-</div>
+                        <div class="result-status" id="tyg-status">-</div>
+                        <div class="status-chart">
+                            <div class="status-good" style="width: 60%"></div>
+                            <div class="status-warning" style="width: 20%"></div>
+                            <div class="status-danger" style="width: 20%"></div>
+                        </div>
+                        <div class="reference-info">理想值: &lt; 8.5 | 高风险: &gt; 9.0</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-box">
+                <h4><i class="fas fa-info-circle"></i> 医学参考值说明 (基于最新研究)</h4>
+                <p>参考值来源于2023年欧洲心脏病学会(ESC)血脂指南及断食科学研究</p>
+                <p>断食科学表明：规律性断食可改善TC/HDL-C比值，降低心血管风险</p>
+            </div>
+        </div>
+        
+        <!-- 历史记录标签页 -->
+        <div id="history" class="tab-content">
+            <h3><i class="fas fa-clock"></i> 保存的历史记录</h3>
+            <div class="history-list" id="history-list">
+                <!-- 历史记录将由JavaScript动态生成 -->
+            </div>
+            
+            <div class="empty-history" id="empty-history" style="display: none;">
+                <i class="fas fa-inbox"></i>
+                <h3>暂无保存记录</h3>
+                <p>在计算器页面保存结果后，将在此处显示</p>
+            </div>
+            
+            <div class="instructions">
+                <h3><i class="fas fa-lightbulb"></i> 使用说明</h3>
+                <ul>
+                    <li>保存的计算结果将显示在此处，最多保留30条记录</li>
+                    <li>点击<b>查看</b>按钮可以重新加载该次计算结果</li>
+                    <li>点击<b>删除</b>按钮可以移除不需要的记录</li>
+                    <li>所有数据仅保存在您的浏览器中，不会上传到服务器</li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- 数据管理标签页 -->
+        <div id="data" class="tab-content">
+            <h3><i class="fas fa-database"></i> 数据管理</h3>
+            <p>导入或导出您的血脂数据记录（JSON格式）</p>
+            
+            <div class="data-actions">
+                <div class="data-card">
+                    <i class="fas fa-file-export"></i>
+                    <h3>导出数据</h3>
+                    <p>将所有保存的记录导出为JSON文件</p>
+                    <button id="export-btn" class="btn btn-primary" style="margin-top: 15px;">
+                        <i class="fas fa-download"></i> 导出数据
+                    </button>
+                </div>
+                
+                <div class="data-card">
+                    <i class="fas fa-file-import"></i>
+                    <h3>导入数据</h3>
+                    <p>从JSON文件导入之前保存的记录</p>
+                    <div style="margin-top: 15px;">
+                        <input type="file" id="import-file" accept=".json" style="display: none;">
+                        <button class="btn btn-secondary" id="import-btn">
+                            <i class="fas fa-upload"></i> 选择文件
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="instructions">
+                <h3><i class="fas fa-shield-alt"></i> 数据安全说明</h3>
+                <ul>
+                    <li>所有数据仅在您的浏览器本地存储，不会上传到任何服务器</li>
+                    <li>导出的JSON文件包含您的所有记录，请妥善保管</li>
+                    <li>导入数据将<b>添加</b>到现有记录，不会覆盖当前数据</li>
+                    <li>定期导出数据可以防止因浏览器缓存清除导致的数据丢失</li>
+                </ul>
+            </div>
+        </div>
+        
+        <footer>
+            <p>© 2025 血脂比值计算器 | 基于最新心血管疾病研究及断食科学 | 数据仅供参考，不作为医疗诊断依据</p>
+        </footer>
+    </div>
+    
+    <script>
+        // 标签页切换功能
+        document.querySelectorAll('.tab-btn').forEach(button => {
+            button.addEventListener('click', () => {
+                // 移除所有按钮的active类
+                document.querySelectorAll('.tab-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                
+                // 添加active类到当前按钮
+                button.classList.add('active');
+                
+                // 隐藏所有标签内容
+                document.querySelectorAll('.tab-content').forEach(content => {
+                    content.classList.remove('active');
+                });
+                
+                // 显示当前标签内容
+                const tabId = button.getAttribute('data-tab');
+                document.getElementById(tabId).classList.add('active');
+                
+                // 如果是历史记录标签，则加载历史记录
+                if (tabId === 'history') {
+                    loadHistory();
+                }
+            });
+        });
+        
+        // 计算功能
+        document.getElementById('calculate-btn').addEventListener('click', calculateRatios);
+        
+        function calculateRatios() {
+            // 获取输入值
+            const tc = parseFloat(document.getElementById('tc').value) || 0;
+            const hdl = parseFloat(document.getElementById('hdl').value) || 0;
+            const tg = parseFloat(document.getElementById('tg').value) || 0;
+            const ldl = parseFloat(document.getElementById('ldl').value) || 0;
+            const apoA1 = parseFloat(document.getElementById('apoA1').value) || 0;
+            const apoB = parseFloat(document.getElementById('apoB').value) || 0;
+            const lpa = parseFloat(document.getElementById('lpa').value) || 0;
+            const glucose = parseFloat(document.getElementById('glucose').value) || 0;
+            
+            // 计算non-HDL
+            const nonHDL = tc - hdl;
+            
+            // 计算TyG指数（使用mmol/L单位）
+            // TyG = Ln [空腹甘油三酯 (mmol/L) × 空腹血糖 (mmol/L) × 1000 / 2]
+            const tyg = Math.log(tg * glucose * 1000 / 2);
+            
+            // 计算所有比值
+            const ratios = {
+                'tc-hdl': tc / hdl,
+                'tg-hdl': tg / hdl,
+                'tg-ldl': tg / ldl,
+                'ldl-hdl': ldl / hdl,
+                'ai': nonHDL / hdl,
+                'non-hdl': nonHDL,
+                'non-hdl-hdl': nonHDL / hdl,
+                'apoa1-apob': apoA1 / apoB,
+                'lpa-result': lpa,
+                'tyg': tyg
+            };
+            
+            // 显示结果
+            for (const [key, value] of Object.entries(ratios)) {
+                const element = document.getElementById(key);
+                if (element) {
+                    if (key === 'tyg') {
+                        element.textContent = isFinite(value) ? value.toFixed(4) : '-';
+                    } else {
+                        element.textContent = isFinite(value) ? value.toFixed(2) : '-';
+                    }
+                }
+                
+                // 添加状态指示
+                const statusElement = document.getElementById(`${key}-status`);
+                if (statusElement) {
+                    if (isFinite(value)) {
+                        const [statusText, statusClass] = getRatioStatus(key, value);
+                        statusElement.textContent = statusText;
+                        statusElement.className = 'result-status ' + statusClass;
+                    } else {
+                        statusElement.textContent = '-';
+                        statusElement.className = 'result-status';
+                    }
+                }
+            }
+        }
+        
+        // 状态评估函数
+        function getRatioStatus(ratio, value) {
+            switch(ratio) {
+                case 'tc-hdl':
+                    if (value < 4) return ['理想', 'good'];
+                    if (value <= 5) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'tg-hdl':
+                    if (value < 2) return ['理想', 'good'];
+                    if (value <= 3) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'ldl-hdl':
+                    if (value < 2.5) return ['理想', 'good'];
+                    if (value <= 3.5) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'apoa1-apob':
+                    if (value > 1) return ['理想', 'good'];
+                    if (value >= 0.8) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'ai':
+                case 'non-hdl-hdl':
+                    if (value < 3) return ['理想', 'good'];
+                    if (value <= 4) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'non-hdl':
+                    if (value < 3.4) return ['理想', 'good'];
+                    if (value <= 4.9) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'lpa-result':
+                    if (value < 75) return ['理想', 'good'];
+                    if (value <= 125) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                case 'tyg':
+                    if (value < 8.5) return ['理想', 'good'];
+                    if (value <= 9.0) return ['临界', 'warning'];
+                    return ['高风险', 'danger'];
+                default:
+                    return ['-', ''];
+            }
+        }
+        
+        // 保存结果
+        document.getElementById('save-btn').addEventListener('click', saveResult);
+        
+        function saveResult() {
+            // 获取输入值
+            const tc = document.getElementById('tc').value;
+            const hdl = document.getElementById('hdl').value;
+            const tg = document.getElementById('tg').value;
+            const ldl = document.getElementById('ldl').value;
+            const apoA1 = document.getElementById('apoA1').value;
+            const apoB = document.getElementById('apoB').value;
+            const lpa = document.getElementById('lpa').value;
+            const glucose = document.getElementById('glucose').value;
+            
+            // 验证输入
+            if (!tc || !hdl || !tg || !ldl) {
+                alert('请填写必填的血脂指标！');
+                return;
+            }
+            
+            // 获取计算结果
+            const results = {
+                'tc-hdl': document.getElementById('tc-hdl').textContent,
+                'tg-hdl': document.getElementById('tg-hdl').textContent,
+                'tg-ldl': document.getElementById('tg-ldl').textContent,
+                'ldl-hdl': document.getElementById('ldl-hdl').textContent,
+                'ai': document.getElementById('ai').textContent,
+                'non-hdl': document.getElementById('non-hdl').textContent,
+                'non-hdl-hdl': document.getElementById('non-hdl-hdl').textContent,
+                'apoa1-apob': document.getElementById('apoa1-apob').textContent,
+                'lpa-result': document.getElementById('lpa-result').textContent,
+                'tyg': document.getElementById('tyg').textContent
+            };
+            
+            // 创建记录对象
+            const record = {
+                id: Date.now(),
+                date: new Date().toLocaleString('zh-CN'),
+                values: { tc, hdl, tg, ldl, apoA1, apoB, lpa, glucose },
+                results
+            };
+            
+            // 保存到localStorage
+            let history = JSON.parse(localStorage.getItem('lipidHistory') || '[]');
+            history.unshift(record); // 添加到开头
+            localStorage.setItem('lipidHistory', JSON.stringify(history));
+            
+            alert('结果已保存到历史记录！');
+            loadHistory();
+        }
+        
+        // 加载历史记录
+        function loadHistory() {
+            const historyList = document.getElementById('history-list');
+            const emptyHistory = document.getElementById('empty-history');
+            historyList.innerHTML = '';
+            
+            let history = JSON.parse(localStorage.getItem('lipidHistory') || '[]');
+            
+            if (history.length === 0) {
+                emptyHistory.style.display = 'block';
+                return;
+            }
+            
+            emptyHistory.style.display = 'none';
+            
+            history.forEach(record => {
+                const historyItem = document.createElement('div');
+                historyItem.className = 'history-item';
+                historyItem.innerHTML = `
+                    <div class="history-info">
+                        <div class="history-date">${record.date}</div>
+                        <div>TC: ${record.values.tc} mmol/L | 
+                             HDL-C: ${record.values.hdl} mmol/L | 
+                             TG: ${record.values.tg} mmol/L</div>
+                        <div class="history-values">
+                            <span class="history-value">TC/HDL-C: ${record.results['tc-hdl']}</span>
+                            <span class="history-value">TyG指数: ${record.results['tyg']}</span>
+                            <span class="history-value">LP(a): ${record.results['lpa-result'] || '-'}</span>
+                        </div>
+                    </div>
+                    <div class="history-actions">
+                        <button class="btn btn-primary view-btn" data-id="${record.id}">
+                            <i class="fas fa-eye"></i> 查看
+                        </button>
+                        <button class="btn btn-danger delete-btn" data-id="${record.id}">
+                            <i class="fas fa-trash"></i> 删除
+                        </button>
+                    </div>
+                `;
+                
+                historyList.appendChild(historyItem);
+            });
+            
+            // 添加查看事件监听器
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    loadRecord(id);
+                });
+            });
+            
+            // 添加删除事件监听器
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    deleteRecord(id);
+                });
+            });
+        }
+        
+        // 加载历史记录到表单
+        function loadRecord(id) {
+            let history = JSON.parse(localStorage.getItem('lipidHistory') || '[]');
+            const record = history.find(r => r.id == id);
+            
+            if (record) {
+                document.getElementById('tc').value = record.values.tc;
+                document.getElementById('hdl').value = record.values.hdl;
+                document.getElementById('tg').value = record.values.tg;
+                document.getElementById('ldl').value = record.values.ldl;
+                document.getElementById('apoA1').value = record.values.apoA1 || '';
+                document.getElementById('apoB').value = record.values.apoB || '';
+                document.getElementById('lpa').value = record.values.lpa || '';
+                document.getElementById('glucose').value = record.values.glucose || '';
+                
+                calculateRatios();
+                
+                // 切换到计算器标签页
+                document.querySelector('[data-tab="calculator"]').click();
+                
+                alert('历史记录已加载到表单！');
+            }
+        }
+        
+        // 删除记录
+        function deleteRecord(id) {
+            if (!confirm('确定要删除这条记录吗？')) return;
+            
+            let history = JSON.parse(localStorage.getItem('lipidHistory') || '[]');
+            history = history.filter(r => r.id != id);
+            localStorage.setItem('lipidHistory', JSON.stringify(history));
+            
+            loadHistory();
+        }
+        
+        // 重置表单
+        document.getElementById('reset-btn').addEventListener('click', () => {
+            document.querySelectorAll('input').forEach(input => {
+                input.value = '';
+            });
+            
+            document.querySelectorAll('.result-value').forEach(el => {
+                el.textContent = '-';
+            });
+            
+            document.querySelectorAll('.result-status').forEach(el => {
+                el.textContent = '-';
+                el.className = 'result-status';
+            });
+        });
+        
+        // 导出数据
+        document.getElementById('export-btn').addEventListener('click', () => {
+            const history = localStorage.getItem('lipidHistory') || '[]';
+            const blob = new Blob([history], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `lipid_ratio_data_${new Date().toISOString().slice(0, 10)}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            alert('数据已导出为JSON文件！');
+        });
+        
+        // 导入数据
+        document.getElementById('import-btn').addEventListener('click', () => {
+            document.getElementById('import-file').click();
+        });
+        
+        document.getElementById('import-file').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                try {
+                    const newData = JSON.parse(event.target.result);
+                    
+                    if (!Array.isArray(newData)) {
+                        throw new Error('无效的数据格式');
+                    }
+                    
+                    let currentData = JSON.parse(localStorage.getItem('lipidHistory') || '[]');
+                    let combinedData = [...newData, ...currentData];
+                    
+                    // 限制最多100条记录
+                    if (combinedData.length > 100) {
+                        combinedData = combinedData.slice(0, 100);
+                    }
+                    
+                    localStorage.setItem('lipidHistory', JSON.stringify(combinedData));
+                    loadHistory();
+                    alert(`成功导入 ${newData.length} 条记录！`);
+                    
+                    // 重置文件输入
+                    e.target.value = '';
+                } catch (error) {
+                    alert('导入失败：文件格式不正确');
+                    console.error(error);
+                }
+            };
+            reader.readAsText(file);
+        });
+        
+        // 初始示例值
+        document.getElementById('tc').value = '5.2';
+        document.getElementById('hdl').value = '1.3';
+        document.getElementById('tg').value = '1.8';
+        document.getElementById('ldl').value = '3.2';
+        document.getElementById('apoA1').value = '1.4';
+        document.getElementById('apoB').value = '1.1';
+        document.getElementById('lpa').value = '95';
+        document.getElementById('glucose').value = '5.0';
+        
+        // 初始计算
+        calculateRatios();
+        loadHistory();
+    </script>
+</body>
+</html>
