@@ -179,7 +179,7 @@
 - [断食与生酮饮食混合应用研究](/fasting_keto.md)    
 
 ### 双酮断食 Dual-Keto Fasting
-- [双酮断食科学机制与临床证据](/dual-keto_fasting)    
+- [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
 
 ### MCT 油
 
