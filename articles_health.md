@@ -214,6 +214,7 @@
 - [苹果醋亲身实验](/acv.md)    
 - [我是如何使用动态血糖仪 CGM 的](/cgm.md)    
 - [断食与生酮代谢的血脂分析](/fasting_analysis_report.md)    
+- [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
 ## Workouts - Coach Kenny
 
