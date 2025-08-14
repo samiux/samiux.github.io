@@ -688,7 +688,7 @@
                 const waist = parseFloat(document.getElementById('waist').value);
                 
                 // 计算TyG指数
-                const tygIndex = Math.log(tg * glucose / 2).toFixed(2);
+                const tygIndex = Math.log(tg * glucose * 1000 / 2).toFixed(2);
                 document.getElementById('tyg-index').textContent = tygIndex;
                 
                 // TyG指数解释（含标准值）
