@@ -27,6 +27,9 @@
 - [1 minute Legs workout burn inner thighs at home 一分钟腿部锻鍊](https://www.youtube.com/shorts/QDRuLDIKhrM)     
 - [Quick 2 minutes Abs workout repeat x10 两分钟腹部锻鍊](https://www.youtube.com/shorts/sojkTZTgrlw)     
 - [Upper body attack 4x25 上身锻鍊](https://www.youtube.com/shorts/T-p4yeA4u7s)     
-- [Fat burning cardio workout 1 min repeat x10 心肺功能锻鍊](https://www.youtube.com/shorts/bUqdH9JQM64)      
+- [Fat burning cardio workout 1 min repeat x10 心肺功能锻鍊](https://www.youtube.com/shorts/bUqdH9JQM64)     
+
+Samiux    
+二零二五年八月十四日，中国香港     
 
  |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
