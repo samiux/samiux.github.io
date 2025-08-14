@@ -32,7 +32,7 @@
 
 ## 计算器
 
-以下是我开发的计算器：
+以下是我开发的计算器，利用浏览器进行，所有资料是记录在你的浏览器内，确保私隐 ：
 
 - [代谢健康指标计算器](/metabolism_index_calculator.html)    
 - [代谢健康指标计算器 (增强版)](/metabolism_index_calculator_plus.html)
