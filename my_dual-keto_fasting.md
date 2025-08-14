@@ -29,6 +29,15 @@
 - [Upper body attack 4x25 上身锻鍊](https://www.youtube.com/shorts/T-p4yeA4u7s)     
 - [Fat burning cardio workout 1 min repeat x10 心肺功能锻鍊](https://www.youtube.com/shorts/bUqdH9JQM64)     
 
+## 计算器
+
+- [代谢健康指标计算器](/metabolism_index_calculator.html)    
+- [代谢健康指标计算器 (增强版)](/metabolism_index_calculator_plus.html)
+- [血糖酮指数(GKI)计算器](/gki_calculator.html)     
+- [健康追踪器](/health_tracker.html)    
+- [生酮断食营养计算器](/keto_fasting_calculator.html)    
+
+
 Samiux    
 二零二五年八月十四日，中国香港     
 
