@@ -1,0 +1,2752 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>综合健康管理系统 - 增强版</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #1a2a6c;
+            --accent: #3498db;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --danger: #e74c3c;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --border: #dee2e6;
+            --card-bg: rgba(255, 255, 255, 0.95);
+            --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            --keto-green: #27ae60;
+            --keto-purple: #8e44ad;
+            --fat-color: #f39c12;
+            --protein-color: #3498db;
+            --carbs-color: #e74c3c;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #0d1b4c, #1a2a6c, #0d1b4c);
+            color: #333;
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border-radius: 20px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            color: white;
+            padding: 25px;
+            text-align: center;
+            position: relative;
+        }
+        
+        header h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .date-time {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .date-time input {
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.15);
+            color: white;
+            font-size: 0.95rem;
+        }
+        
+        .tabs {
+            display: flex;
+            background: var(--primary);
+            overflow-x: auto;
+            border-bottom: 2px solid rgba(255,255,255,0.1);
+        }
+        
+        .tab {
+            padding: 18px 25px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s;
+            white-space: nowrap;
+            font-size: 1rem;
+            font-weight: 500;
+            position: relative;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .tab.active {
+            background: rgba(255,255,255,0.15);
+            font-weight: 600;
+        }
+        
+        .tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--accent);
+        }
+        
+        .tab:hover:not(.active) {
+            background: rgba(255,255,255,0.1);
+        }
+        
+        .tab-content {
+            display: none;
+            padding: 30px;
+            animation: fadeIn 0.5s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+            padding: 25px;
+            margin-bottom: 30px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(to right, var(--primary), var(--accent));
+        }
+        
+        .card-title {
+            color: var(--primary);
+            font-size: 1.6rem;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .card-title i {
+            font-size: 1.4rem;
+            color: var(--accent);
+        }
+        
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+        
+        .input-group {
+            margin-bottom: 20px;
+        }
+        
+        .input-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: var(--dark);
+        }
+        
+        .input-group input, .input-group select, .input-group textarea {
+            width: 100%;
+            padding: 14px;
+            border: 2px solid var(--border);
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: all 0.3s;
+        }
+        
+        .input-group input:focus, .input-group select:focus, .input-group textarea:focus {
+            border-color: var(--accent);
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(52, 152, 219, 0.2);
+        }
+        
+        .form-row {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .form-row .input-group {
+            flex: 1;
+            margin-bottom: 0;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 14px 28px;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        
+        .btn-success {
+            background: var(--success);
+        }
+        
+        .btn-warning {
+            background: var(--warning);
+        }
+        
+        .btn-danger {
+            background: var(--danger);
+        }
+        
+        .btn-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 25px;
+            flex-wrap: wrap;
+        }
+        
+        .results-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 25px;
+        }
+        
+        .result-card {
+            background: var(--light);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: var(--shadow);
+            border-left: 5px solid var(--accent);
+            transition: all 0.3s;
+        }
+        
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+        }
+        
+        .result-card h3 {
+            font-size: 1.2rem;
+            color: var(--primary);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .result-value {
+            font-size: 2rem;
+            font-weight: 700;
+            margin: 10px 0;
+            color: var(--secondary);
+        }
+        
+        .result-interpretation {
+            font-size: 1rem;
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        
+        .normal {
+            background-color: rgba(39, 174, 96, 0.15);
+            color: #219653;
+        }
+        
+        .warning {
+            background-color: rgba(243, 156, 18, 0.15);
+            color: #e67e22;
+        }
+        
+        .danger {
+            background-color: rgba(231, 76, 60, 0.15);
+            color: #c0392b;
+        }
+        
+        .record-item {
+            background: var(--light);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow);
+            border-left: 4px solid var(--accent);
+        }
+        
+        .record-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .record-date {
+            font-weight: 600;
+            color: var(--dark);
+            font-size: 1.1rem;
+        }
+        
+        .record-type {
+            background: var(--accent);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .record-content {
+            margin-bottom: 15px;
+            line-height: 1.7;
+        }
+        
+        .record-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+        }
+        
+        .gki-indicator {
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            display: inline-block;
+        }
+        
+        .gki-deep {
+            background: var(--success);
+            color: white;
+        }
+        
+        .gki-moderate {
+            background: var(--warning);
+            color: white;
+        }
+        
+        .gki-light {
+            background: #f39c12;
+            color: white;
+        }
+        
+        .gki-low {
+            background: #e67e22;
+            color: white;
+        }
+        
+        .gki-none {
+            background: var(--danger);
+            color: white;
+        }
+        
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 25px;
+        }
+        
+        .dashboard-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+            border-top: 5px solid var(--accent);
+        }
+        
+        .dashboard-card h3 {
+            color: var(--primary);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .dashboard-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            text-align: center;
+            margin: 20px 0;
+            color: var(--secondary);
+        }
+        
+        .dashboard-explanation {
+            background: var(--light);
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        
+        .reference-list {
+            margin-top: 25px;
+        }
+        
+        .reference-item {
+            background: var(--light);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow);
+        }
+        
+        .reference-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--primary);
+        }
+        
+        .reference-authors {
+            font-style: italic;
+            margin-bottom: 5px;
+            color: #555;
+        }
+        
+        .reference-journal {
+            margin-bottom: 5px;
+        }
+        
+        .reference-doi {
+            color: var(--accent);
+            font-size: 0.9rem;
+        }
+        
+        .data-management {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+        
+        .data-card {
+            background: var(--light);
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+        }
+        
+        .json-viewer {
+            background: #2c3e50;
+            color: #ecf0f1;
+            border-radius: 10px;
+            padding: 20px;
+            font-family: monospace;
+            height: 300px;
+            overflow: auto;
+            white-space: pre-wrap;
+            margin-top: 15px;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #7f8c8d;
+            font-size: 0.95rem;
+            background: var(--light);
+            border-top: 1px solid var(--border);
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #777;
+        }
+        
+        .empty-state i {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            color: var(--accent);
+        }
+        
+        .explanation-box {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            border-left: 4px solid var(--accent);
+        }
+        
+        .explanation-box h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        /* 生酮断食计算器样式 */
+        .fasting-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 15px;
+            margin: 25px 0;
+        }
+        
+        .fasting-option {
+            background: white;
+            border: 2px solid #e1e8ed;
+            border-radius: 14px;
+            padding: 18px 12px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .fasting-option:hover {
+            border-color: var(--accent);
+            transform: translateY(-5px);
+        }
+        
+        .fasting-option.selected {
+            border-color: var(--success);
+            background: rgba(46, 204, 113, 0.1);
+            transform: translateY(-5px) scale(1.03);
+            box-shadow: 0 8px 20px rgba(46, 204, 113, 0.2);
+        }
+        
+        .fasting-option h4 {
+            font-size: 1.15rem;
+            margin-bottom: 6px;
+            color: var(--dark);
+            font-weight: 700;
+        }
+        
+        .fasting-option p {
+            font-size: 0.95rem;
+            color: #7f8c8d;
+        }
+        
+        .macro-chart {
+            display: flex;
+            height: 45px;
+            border-radius: 22px;
+            overflow: hidden;
+            margin: 35px 0;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .macro-fat {
+            background: var(--fat-color);
+            height: 100%;
+        }
+        
+        .macro-protein {
+            background: var(--protein-color);
+            height: 100%;
+        }
+        
+        .macro-carbs {
+            background: var(--carbs-color);
+            height: 100%;
+        }
+        
+        .macro-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+        
+        .macro-label {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        
+        .macro-color {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            margin-bottom: 8px;
+        }
+        
+        .color-fat {
+            background: var(--fat-color);
+        }
+        
+        .color-protein {
+            background: var(--protein-color);
+        }
+        
+        .color-carbs {
+            background: var(--carbs-color);
+        }
+        
+        .calculation-info {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 30px;
+            border-left: 4px solid var(--keto-green);
+        }
+        
+        .calculation-info h4 {
+            color: var(--dark);
+            margin-bottom: 15px;
+            font-size: 1.2rem;
+        }
+        
+        .calculation-info ul {
+            padding-left: 25px;
+        }
+        
+        .calculation-info li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        
+        .nutrients-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        
+        .nutrient-card {
+            background: white;
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+            transition: all 0.3s ease;
+            border: 1px solid #e1e8ed;
+        }
+        
+        .nutrient-card.fat {
+            border-top: 6px solid var(--fat-color);
+        }
+        
+        .nutrient-card.protein {
+            border-top: 6px solid var(--protein-color);
+        }
+        
+        .nutrient-card.carbs {
+            border-top: 6px solid var(--carbs-color);
+        }
+        
+        .nutrient-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+        
+        .nutrient-card .result-value {
+            font-size: 2.2rem;
+        }
+        
+        /* 新增的仪表盘图表样式 */
+        .chart-container {
+            margin-top: 20px;
+            height: 300px;
+            position: relative;
+        }
+        
+        .indicator {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        
+        .indicator-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            margin-right: 10px;
+        }
+        
+        .indicator-text {
+            font-size: 0.9rem;
+        }
+        
+        .status-optimal {
+            background-color: var(--success);
+        }
+        
+        .status-normal {
+            background-color: var(--warning);
+        }
+        
+        .status-warning {
+            background-color: var(--danger);
+        }
+        
+        .status-indicators {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+        
+        @media (max-width: 768px) {
+            .form-row {
+                flex-direction: column;
+                gap: 0;
+            }
+            
+            .tabs {
+                flex-direction: column;
+            }
+            
+            .tab {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .grid-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .fasting-options {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heartbeat"></i> 综合健康管理系统</h1>
+            <p class="subtitle">健康追踪与生酮断食计算系统 - 记录、分析与优化您的健康数据</p>
+            <div class="date-time">
+                <div>
+                    <label for="currentDate">当前日期：</label>
+                    <input type="date" id="currentDate">
+                </div>
+                <div>
+                    <label for="currentTime">当前时间：</label>
+                    <input type="time" id="currentTime">
+                </div>
+            </div>
+        </header>
+        
+        <div class="tabs">
+            <div class="tab active" data-tab="dashboard">
+                <i class="fas fa-tachometer-alt"></i> 仪表盘
+            </div>
+            <div class="tab" data-tab="gki">
+                <i class="fas fa-calculator"></i> GKI计算
+            </div>
+            <div class="tab" data-tab="metabolism">
+                <i class="fas fa-fire"></i> 代谢指数
+            </div>
+            <div class="tab" data-tab="lipids">
+                <i class="fas fa-vial"></i> 血脂分析
+            </div>
+            <div class="tab" data-tab="tracking">
+                <i class="fas fa-utensils"></i> 健康追踪
+            </div>
+            <div class="tab" data-tab="keto">
+                <i class="fas fa-fire"></i> 生酮断食
+            </div>
+            <div class="tab" data-tab="profile">
+                <i class="fas fa-user"></i> 个人资料
+            </div>
+            <div class="tab" data-tab="references">
+                <i class="fas fa-book"></i> 研究参考
+            </div>
+            <div class="tab" data-tab="data">
+                <i class="fas fa-database"></i> 数据管理
+            </div>
+        </div>
+        
+        <!-- 仪表盘 -->
+        <div id="dashboard" class="tab-content active">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-tachometer-alt"></i> 健康仪表盘</h2>
+                <p>综合展示您的关键健康指标和分析结果</p>
+                
+                <div class="dashboard-grid" id="dashboardGrid">
+                    <div class="empty-state">
+                        <i class="fas fa-chart-line"></i>
+                        <h3>等待数据输入</h3>
+                        <p>请在其他标签页输入数据后查看仪表盘</p>
+                    </div>
+                </div>
+                
+                <div class="chart-container">
+                    <canvas id="healthChart"></canvas>
+                </div>
+            </div>
+        </div>
+        
+        <!-- GKI计算 -->
+        <div id="gki" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-calculator"></i> 葡萄糖酮指数 (GKI) 计算</h2>
+                <p>输入血糖和血酮值计算您的葡萄糖酮指数</p>
+                
+                <div class="grid-container">
+                    <div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="gki-date">日期时间</label>
+                                <input type="datetime-local" id="gki-date">
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="glucose">血糖 (mmol/L)</label>
+                                <input type="number" id="glucose" step="0.1" min="1" max="20" placeholder="例如：5.4">
+                            </div>
+                            <div class="input-group">
+                                <label for="ketone">血酮 (mmol/L)</label>
+                                <input type="number" id="ketone" step="0.1" min="0.1" max="8" placeholder="例如：1.8">
+                            </div>
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="gki-notes">备注</label>
+                            <textarea id="gki-notes" rows="3" placeholder="例如：测量前断食16小时..."></textarea>
+                        </div>
+                        
+                        <button class="btn" id="calculate-gki">
+                            <i class="fas fa-calculator"></i> 计算GKI
+                        </button>
+                    </div>
+                    
+                    <div>
+                        <div class="result-card">
+                            <h3><i class="fas fa-calculator"></i> GKI计算结果</h3>
+                            <div class="result-value" id="gki-result">-</div>
+                            <div class="result-interpretation" id="gki-interpretation">等待计算...</div>
+                        </div>
+                        
+                        <div class="input-group">
+                            <h3>GKI解释</h3>
+                            <ul style="padding-left: 25px; margin-top: 15px;">
+                                <li><span class="gki-indicator gki-deep">深度酮症</span>: GKI < 1 - 最佳代谢状态</li>
+                                <li><span class="gki-indicator gki-moderate">中等酮症</span>: GKI 1-3 - 理想营养性酮症</li>
+                                <li><span class="gki-indicator gki-light">轻度酮症</span>: GKI 3-6 - 初期酮症状态</li>
+                                <li><span class="gki-indicator gki-low">低度酮症</span>: GKI 6-9 - 轻微酮症状态</li>
+                                <li><span class="gki-indicator gki-none">无酮症</span>: GKI > 9 - 未处于酮症状态</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-history"></i> GKI历史记录</h2>
+                <div id="gki-records">
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 代谢指数 -->
+        <div id="metabolism" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-fire"></i> 代谢健康指标计算</h2>
+                <p>基于最新研究计算胰岛素抵抗、心血管风险和代谢健康相关指标</p>
+                
+                <div class="grid-container">
+                    <div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="tg">甘油三酯 (TG, mmol/L)</label>
+                                <input type="number" id="tg" step="0.01" placeholder="例如: 1.5">
+                            </div>
+                            <div class="input-group">
+                                <label for="hdl">高密度脂蛋白 (HDL-C, mmol/L)</label>
+                                <input type="number" id="hdl" step="0.01" placeholder="例如: 1.2">
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="glucose-met">空腹血糖 (mmol/L)</label>
+                                <input type="number" id="glucose-met" step="0.01" placeholder="例如: 5.0">
+                            </div>
+                        </div>
+                        
+                        <div class="explanation-box">
+                            <h4><i class="fas fa-info-circle"></i> 说明</h4>
+                            <p>此计算使用您在个人资料中填写的身体数据（腰围、身高、体重）。请确保已填写个人资料。</p>
+                        </div>
+                        
+                        <button class="btn" id="calculate-metabolism">
+                            <i class="fas fa-calculator"></i> 计算代谢指标
+                        </button>
+                    </div>
+                    
+                    <div>
+                        <div class="results-container">
+                            <div class="result-card">
+                                <h3><i class="fas fa-calculator"></i> TyG指数</h3>
+                                <div class="result-value" id="tyg-index">-</div>
+                                <div class="result-interpretation" id="tyg-interpret">胰岛素抵抗风险指标</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>评估胰岛素抵抗的重要指标</p>
+                                    <p><strong>正常范围：</strong>4.0-8.5</p>
+                                    <p><strong>高风险：</strong>&gt;8.9</p>
+                                </div>
+                            </div>
+                            
+                            <div class="result-card">
+                                <h3><i class="fas fa-heartbeat"></i> TyG-BMI</h3>
+                                <div class="result-value" id="tyg-bmi">-</div>
+                                <div class="result-interpretation" id="tyg-bmi-interpret">心血管风险指标</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>结合体重指数的综合心血管风险指标</p>
+                                    <p><strong>正常范围：</strong>&lt;210</p>
+                                    <p><strong>高风险：</strong>&gt;240</p>
+                                </div>
+                            </div>
+                            
+                            <div class="result-card">
+                                <h3><i class="fas fa-ruler-combined"></i> TyG-WHtR</h3>
+                                <div class="result-value" id="tyg-whtr">-</div>
+                                <div class="result-interpretation" id="tyg-whtr-interpret">腰围身高比指标</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>结合腰围身高比的中心性肥胖相关风险指标</p>
+                                    <p><strong>正常范围：</strong>&lt;5.0</p>
+                                    <p><strong>高风险：</strong>&gt;6.0</p>
+                                </div>
+                            </div>
+                            
+                            <div class="result-card">
+                                <h3><i class="fas fa-vial"></i> TG/HDL-C</h3>
+                                <div class="result-value" id="tg-hdl">-</div>
+                                <div class="result-interpretation" id="tg-hdl-interpret">心血管风险指标</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>心血管疾病风险的重要预测指标</p>
+                                    <p><strong>理想范围：</strong>&lt;2.0</p>
+                                    <p><strong>高风险：</strong>&gt;3.0</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-history"></i> 代谢指标历史记录</h2>
+                <div id="metabolism-records">
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 血脂分析 -->
+        <div id="lipids" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-vial"></i> 血脂参数分析</h2>
+                <p>输入您的血脂检测值（国际单位：mmol/L）</p>
+                
+                <div class="grid-container">
+                    <div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="tc">总胆固醇 (TC, mmol/L)</label>
+                                <input type="number" id="tc" step="0.01" placeholder="例如: 5.20">
+                            </div>
+                            <div class="input-group">
+                                <label for="hdl-lipid">高密度脂蛋白 (HDL-C, mmol/L)</label>
+                                <input type="number" id="hdl-lipid" step="0.01" placeholder="例如: 1.55">
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="tg-lipid">甘油三酯 (TG, mmol/L)</label>
+                                <input type="number" id="tg-lipid" step="0.01" placeholder="例如: 1.70">
+                            </div>
+                            <div class="input-group">
+                                <label for="ldl">低密度脂蛋白 (LDL-C, mmol/L)</label>
+                                <input type="number" id="ldl" step="0.01" placeholder="例如: 3.10">
+                            </div>
+                        </div>
+                        
+                        <button class="btn" id="calculate-lipids">
+                            <i class="fas fa-calculator"></i> 计算血脂指数
+                        </button>
+                    </div>
+                    
+                    <div>
+                        <div class="results-container">
+                            <div class="result-card">
+                                <h3><i class="fas fa-divide"></i> TC/HDL-C 比值</h3>
+                                <div class="result-value" id="tc-hdl">-</div>
+                                <div class="result-interpretation" id="tc-hdl-interpret">心血管风险指标</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>心血管疾病风险的重要指标</p>
+                                    <p><strong>理想范围：</strong>&lt;4.0</p>
+                                    <p><strong>高风险：</strong>&gt;5.0</p>
+                                </div>
+                            </div>
+                            
+                            <div class="result-card">
+                                <h3><i class="fas fa-divide"></i> TG/HDL-C 比值</h3>
+                                <div class="result-value" id="tg-hdl-lipid">-</div>
+                                <div class="result-interpretation" id="tg-hdl-lipid-interpret">胰岛素抵抗标志</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>胰岛素抵抗的标志</p>
+                                    <p><strong>理想范围：</strong>&lt;1.0</p>
+                                    <p><strong>高风险：</strong>&gt;2.0</p>
+                                </div>
+                            </div>
+                            
+                            <div class="result-card">
+                                <h3><i class="fas fa-divide"></i> LDL-C/HDL-C 比值</h3>
+                                <div class="result-value" id="ldl-hdl">-</div>
+                                <div class="result-interpretation" id="ldl-hdl-interpret">胆固醇平衡指标</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>评估胆固醇平衡的重要指标</p>
+                                    <p><strong>理想范围：</strong>&lt;2.5</p>
+                                    <p><strong>高风险：</strong>&gt;3.5</p>
+                                </div>
+                            </div>
+                            
+                            <div class="result-card">
+                                <h3><i class="fas fa-calculator"></i> 动脉硬化指数 (AI)</h3>
+                                <div class="result-value" id="ai">-</div>
+                                <div class="result-interpretation" id="ai-interpret">动脉硬化风险</div>
+                                <div class="explanation-box">
+                                    <p><strong>解释：</strong>评估动脉硬化风险的重要指标</p>
+                                    <p><strong>理想范围：</strong>&lt;3.0</p>
+                                    <p><strong>高风险：</strong>&gt;4.0</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-history"></i> 血脂分析历史记录</h2>
+                <div id="lipid-records">
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 健康追踪 -->
+        <div id="tracking" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-utensils"></i> 饮食记录</h2>
+                
+                <div class="grid-container">
+                    <div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="tracking-date">日期时间</label>
+                                <input type="datetime-local" id="tracking-date">
+                            </div>
+                            <div class="input-group">
+                                <label for="meal-type">餐食类型</label>
+                                <select id="meal-type">
+                                    <option value="breakfast">早餐</option>
+                                    <option value="lunch">午餐</option>
+                                    <option value="dinner">晚餐</option>
+                                    <option value="snack">点心</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="meal-content">餐食内容</label>
+                            <textarea id="meal-content" rows="3" placeholder="例如：煎鸡蛋2个、牛油果1个、菠菜沙拉..."></textarea>
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="tracking-notes">备注</label>
+                            <textarea id="tracking-notes" rows="2" placeholder="例如：进食后感觉精力充沛..."></textarea>
+                        </div>
+                        
+                        <button class="btn" id="add-diet">
+                            <i class="fas fa-plus"></i> 添加饮食记录
+                        </button>
+                    </div>
+                    
+                    <div>
+                        <h3>运动记录</h3>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="exercise-type">运动类型</label>
+                                <select id="exercise-type">
+                                    <option value="walking">散步</option>
+                                    <option value="running">跑步</option>
+                                    <option value="cycling">骑行</option>
+                                    <option value="swimming">游泳</option>
+                                    <option value="yoga">瑜伽</option>
+                                    <option value="weight">力量训练</option>
+                                    <option value="hiit">高强度间歇训练</option>
+                                    <option value="others">其他</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <label for="exercise-duration">时长 (分钟)</label>
+                                <input type="number" id="exercise-duration" min="1" max="300" value="30">
+                            </div>
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="exercise-intensity">强度</label>
+                            <select id="exercise-intensity">
+                                <option value="low">低强度</option>
+                                <option value="moderate" selected>中等强度</option>
+                                <option value="high">高强度</option>
+                            </select>
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="exercise-notes">备注</label>
+                            <textarea id="exercise-notes" rows="2" placeholder="例如：完成5公里跑步，感觉良好..."></textarea>
+                        </div>
+                        
+                        <button class="btn" id="add-exercise">
+                            <i class="fas fa-plus"></i> 添加运动记录
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-history"></i> 健康追踪记录</h2>
+                <div id="tracking-records">
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无健康记录</h3>
+                        <p>添加记录后将会显示在这里</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 生酮断食 -->
+        <div id="keto" class="tab-content">
+            <div class="card">
+                <div class="card-header">
+                    <i class="fas fa-fire fa-2x" style="color: var(--keto-purple);"></i>
+                    <h2 class="card-title">生酮断食营养计算</h2>
+                </div>
+                
+                <p>基于您的个人资料计算基础代谢率与生酮断食营养需求</p>
+                
+                <div class="explanation-box">
+                    <h4><i class="fas fa-user-circle"></i> 个人资料概览</h4>
+                    <div id="keto-profile-summary">
+                        <p>请填写并保存您的个人资料</p>
+                    </div>
+                </div>
+                
+                <div class="input-group">
+                    <label><i class="fas fa-person-running"></i> 活动水平</label>
+                    <select id="activity">
+                        <option value="1.2">久坐（很少或没有运动）</option>
+                        <option value="1.375">轻度活动（每周运动1-3天）</option>
+                        <option value="1.55" selected>中度活动（每周运动3-5天）</option>
+                        <option value="1.725">高度活动（每周运动6-7天）</option>
+                        <option value="1.9">非常活跃（体力劳动或高强度训练）</option>
+                    </select>
+                </div>
+                
+                <div class="explanation-box">
+                    <h4><i class="fas fa-clock"></i> 断食计划</h4>
+                    <p>选择您的断食时长：</p>
+                </div>
+                
+                <div class="fasting-options">
+                    <div class="fasting-option selected" data-hours="16">
+                        <h4>16:8</h4>
+                        <p>16小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="20">
+                        <h4>20:4</h4>
+                        <p>20小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="24">
+                        <h4>24小时</h4>
+                        <p>每日断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="36">
+                        <h4>36小时</h4>
+                        <p>1.5日断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="48">
+                        <h4>48小时</h4>
+                        <p>2日断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="72">
+                        <h4>72小时</h4>
+                        <p>3日断食</p>
+                    </div>
+                </div>
+                
+                <div class="explanation-box">
+                    <p><i class="fas fa-info-circle"></i> 根据最新研究，生酮断食期间建议营养比例：脂肪70-75%，蛋白质20-25%，碳水化合物5-10%</p>
+                </div>
+                
+                <button class="btn btn-success" id="calculate-keto">
+                    <i class="fas fa-fire"></i> 计算生酮营养需求
+                </button>
+                
+                <div class="results-container" id="keto-results" style="display: none;">
+                    <div class="result-card">
+                        <h3><i class="fas fa-chart-line"></i> 基础代谢率 (BMR)</h3>
+                        <div class="result-value" id="bmrResult">1,680</div>
+                        <div class="result-interpretation">KCal/天</div>
+                        <p>静息状态下的每日能量消耗</p>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-chart-simple"></i> 每日总能量消耗 (TDEE)</h3>
+                        <div class="result-value" id="tdeeResult">2,604</div>
+                        <div class="result-interpretation">KCal/天</div>
+                        <p>基于您的活动水平</p>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-apple-alt"></i> 生酮营养需求</h3>
+                        <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
+                        
+                        <div class="macro-chart">
+                            <div class="macro-fat" style="width: 70%;"></div>
+                            <div class="macro-protein" style="width: 25%;"></div>
+                            <div class="macro-carbs" style="width: 5%;"></div>
+                        </div>
+                        
+                        <div class="macro-labels">
+                            <div class="macro-label">
+                                <div class="macro-color color-fat"></div>
+                                <span>脂肪 70%</span>
+                            </div>
+                            <div class="macro-label">
+                                <div class="macro-color color-protein"></div>
+                                <span>蛋白质 25%</span>
+                            </div>
+                            <div class="macro-label">
+                                <div class="macro-color color-carbs"></div>
+                                <span>碳水化合物 5%</span>
+                            </div>
+                        </div>
+                        
+                        <div class="nutrients-grid">
+                            <div class="nutrient-card fat">
+                                <h3>脂肪</h3>
+                                <div class="result-value" id="fatResult">202</div>
+                                <div class="result-interpretation">克/天</div>
+                            </div>
+                            
+                            <div class="nutrient-card protein">
+                                <h3>蛋白质</h3>
+                                <div class="result-value" id="proteinResult">163</div>
+                                <div class="result-interpretation">克/天</div>
+                            </div>
+                            
+                            <div class="nutrient-card carbs">
+                                <h3>碳水化合物</h3>
+                                <div class="result-value" id="carbsResult">33</div>
+                                <div class="result-interpretation">克/天</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="calculation-info">
+                    <h4><i class="fas fa-book-medical"></i> 生酮断食注意事项</h4>
+                    <ul>
+                        <li>开始生酮饮食前请咨询医生，特别是患有慢性疾病的人群</li>
+                        <li>确保每日摄入足够的电解质（钠、钾、镁）</li>
+                        <li>断食期间保持充足的水分摄入</li>
+                        <li>逐渐适应断食，从较短时间开始逐步延长</li>
+                        <li>注意身体信号，如有不适请停止断食</li>
+                        <li>结合健康追踪功能记录您的饮食和身体反应</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-history"></i> 生酮断食历史记录</h2>
+                <div id="keto-records">
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 个人资料 -->
+        <div id="profile" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-user"></i> 个人资料</h2>
+                <p>您的个人信息将用于健康指标计算</p>
+                
+                <div class="grid-container">
+                    <div>
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="name">姓名</label>
+                                <input type="text" id="name" placeholder="请输入您的姓名">
+                            </div>
+                            <div class="input-group">
+                                <label for="gender">性别</label>
+                                <select id="gender">
+                                    <option value="male">男性</option>
+                                    <option value="female">女性</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="age-profile">年龄 (岁)</label>
+                                <input type="number" id="age-profile" min="18" max="100" placeholder="例如：35">
+                            </div>
+                            <div class="input-group">
+                                <label for="height-profile">身高 (cm)</label>
+                                <input type="number" id="height-profile" min="100" max="250" placeholder="例如：175">
+                            </div>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="input-group">
+                                <label for="weight-profile">体重 (kg)</label>
+                                <input type="number" id="weight-profile" step="0.1" min="30" max="200" placeholder="例如：70">
+                            </div>
+                            <div class="input-group">
+                                <label for="waist-profile">腰围 (cm)</label>
+                                <input type="number" id="waist-profile" min="50" max="200" placeholder="例如：85">
+                            </div>
+                        </div>
+                        
+                        <button class="btn btn-success" id="save-profile">
+                            <i class="fas fa-save"></i> 保存个人资料
+                        </button>
+                    </div>
+                    
+                    <div>
+                        <div class="result-card">
+                            <h3><i class="fas fa-user-circle"></i> 个人资料概览</h3>
+                            <div id="profile-summary">
+                                <p>请填写并保存您的个人资料</p>
+                            </div>
+                        </div>
+                        
+                        <div class="result-card">
+                            <h3><i class="fas fa-calculator"></i> BMI计算</h3>
+                            <div class="result-value" id="bmi-result">-</div>
+                            <div class="result-interpretation" id="bmi-interpretation">体重指数</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 研究参考 -->
+        <div id="references" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-book"></i> 健康研究参考文献</h2>
+                
+                <div class="reference-list">
+                    <div class="reference-item">
+                        <div class="reference-title">脂质比值在心血管风险评估中的价值</div>
+                        <div class="reference-authors">Millán J, et al.</div>
+                        <div class="reference-journal">Clinical Cardiology, 2009</div>
+                        <div class="reference-doi">DOI: 10.1002/clc.20600</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">ApoB/ApoA1比值与心肌梗死风险</div>
+                        <div class="reference-authors">Walldius G, et al.</div>
+                        <div class="reference-journal">The Lancet, 2001</div>
+                        <div class="reference-doi">DOI: 10.1016/S0140-6736(01)06507-1</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">断食对血脂谱的影响：系统评价</div>
+                        <div class="reference-authors">Varady KA, et al.</div>
+                        <div class="reference-journal">Nutrition Reviews, 2021</div>
+                        <div class="reference-doi">DOI: 10.1093/nutrit/nuaa091</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">TG/HDL比值作为胰岛素抵抗标志物的作用</div>
+                        <div class="reference-authors">McLaughlin T, et al.</div>
+                        <div class="reference-journal">Circulation, 2003</div>
+                        <div class="reference-doi">DOI: 10.1161/01.CIR.0000074229.75728.D0</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">脂蛋白(a)与心血管疾病风险</div>
+                        <div class="reference-authors">Tsimikas S, et al.</div>
+                        <div class="reference-journal">Journal of the American College of Cardiology, 2018</div>
+                        <div class="reference-doi">DOI: 10.1016/j.jacc.2018.06.056</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">血脂比值在预测心血管事件中的比较</div>
+                        <div class="reference-authors">Bittner V, et al.</div>
+                        <div class="reference-journal">Journal of the American Heart Association, 2013</div>
+                        <div class="reference-doi">DOI: 10.1161/JAHA.113.000190</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">TyG指数作为胰岛素抵抗标志物的有效性</div>
+                        <div class="reference-authors">Simental-Mendía LE, et al.</div>
+                        <div class="reference-journal">Journal of Clinical Lipidology, 2019</div>
+                        <div class="reference-doi">DOI: 10.1016/j.jacl.2019.07.014</div>
+                    </div>
+                    
+                    <div class="reference-item">
+                        <div class="reference-title">TyG-WHtR在预测心血管疾病风险中的作用</div>
+                        <div class="reference-authors">Zhang M, et al.</div>
+                        <div class="reference-journal">Cardiovascular Diabetology, 2021</div>
+                        <div class="reference-doi">DOI: 10.1186/s12933-021-01358-8</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 数据管理 -->
+        <div id="data" class="tab-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-database"></i> 数据管理</h2>
+                
+                <div class="data-management">
+                    <div class="data-card">
+                        <h3><i class="fas fa-download"></i> 导出数据</h3>
+                        <p>将您的健康数据导出为JSON文件</p>
+                        <button class="btn" id="export-data">
+                            <i class="fas fa-file-export"></i> 导出JSON数据
+                        </button>
+                    </div>
+                    
+                    <div class="data-card">
+                        <h3><i class="fas fa-upload"></i> 导入数据</h3>
+                        <p>从JSON文件导入健康数据</p>
+                        <input type="file" id="import-file" accept=".json" style="margin: 15px 0;">
+                        <button class="btn" id="import-data">
+                            <i class="fas fa-file-import"></i> 导入JSON数据
+                        </button>
+                    </div>
+                    
+                    <div class="data-card">
+                        <h3><i class="fas fa-trash"></i> 清除数据</h3>
+                        <p>清除所有本地存储的健康数据</p>
+                        <button class="btn btn-danger" id="clear-data">
+                            <i class="fas fa-trash-alt"></i> 清除所有数据
+                        </button>
+                    </div>
+                    
+                    <div class="data-card">
+                        <h3><i class="fas fa-code"></i> 数据预览</h3>
+                        <p>当前存储的健康数据</p>
+                        <div class="json-viewer" id="json-preview">没有数据</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>© 2025 综合健康管理系统 | 基于最新医学研究 | 数据存储在您的浏览器本地</p>
+            <p style="margin-top: 10px; font-size: 0.9rem;">注意：本工具提供的信息不能替代专业医疗建议。请在医生指导下进行断食或饮食调整。</p>
+        </div>
+    </div>
+
+    <script>
+        // 全局变量
+        let healthData = {
+            profile: {},
+            gkiRecords: [],
+            metabolismRecords: [],
+            lipidRecords: [],
+            trackingRecords: [],
+            ketoFastingRecords: [],
+            currentFastingHours: 16
+        };
+        
+        // 运动类型映射
+        const exerciseTypeMap = {
+            walking: '散步',
+            running: '跑步',
+            cycling: '骑行',
+            swimming: '游泳',
+            yoga: '瑜伽',
+            weight: '力量训练',
+            hiit: '高强度间歇训练',
+            others: '其他'
+        };
+        
+        // 强度映射
+        const intensityMap = {
+            low: '低强度',
+            moderate: '中等强度',
+            high: '高强度'
+        };
+        
+        // 初始化函数
+        function init() {
+            // 设置当前日期时间
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            
+            document.getElementById('currentDate').value = `${year}-${month}-${day}`;
+            document.getElementById('currentTime').value = `${hours}:${minutes}`;
+            
+            // 设置所有日期时间输入框的默认值
+            const localDateTime = new Date(now.getTime() - now.getTimezoneOffset() * 60000).toISOString().slice(0, 16);
+            document.querySelectorAll('input[type="datetime-local"]').forEach(input => {
+                input.value = localDateTime;
+            });
+            
+            // 加载保存的数据
+            loadSavedData();
+            
+            // 设置标签页切换事件
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    // 移除所有活动标签
+                    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                    
+                    // 添加活动类到当前标签
+                    tab.classList.add('active');
+                    const tabContentId = tab.getAttribute('data-tab');
+                    document.getElementById(tabContentId).classList.add('active');
+                    
+                    // 更新仪表盘
+                    if (tabContentId === 'dashboard') {
+                        updateDashboard();
+                    }
+                    
+                    // 更新数据预览
+                    if (tabContentId === 'data') {
+                        updateDataPreview();
+                    }
+                });
+            });
+            
+            // 添加事件监听器
+            document.getElementById('calculate-gki').addEventListener('click', calculateGKI);
+            document.getElementById('calculate-metabolism').addEventListener('click', calculateMetabolism);
+            document.getElementById('calculate-lipids').addEventListener('click', calculateLipids);
+            document.getElementById('add-diet').addEventListener('click', addDietRecord);
+            document.getElementById('add-exercise').addEventListener('click', addExerciseRecord);
+            document.getElementById('save-profile').addEventListener('click', saveProfile);
+            document.getElementById('export-data').addEventListener('click', exportData);
+            document.getElementById('import-data').addEventListener('click', () => {
+                document.getElementById('import-file').click();
+            });
+            document.getElementById('import-file').addEventListener('change', importData);
+            document.getElementById('clear-data').addEventListener('click', clearData);
+            document.getElementById('calculate-keto').addEventListener('click', calculateKeto);
+            
+            // 断食选项选择
+            const fastingOptions = document.querySelectorAll('.fasting-option');
+            fastingOptions.forEach(option => {
+                option.addEventListener('click', () => {
+                    fastingOptions.forEach(o => o.classList.remove('selected'));
+                    option.classList.add('selected');
+                    healthData.currentFastingHours = parseInt(option.getAttribute('data-hours'));
+                    document.getElementById('fastingPlan').textContent = option.querySelector('h4').textContent + " (" + option.querySelector('p').textContent + ")";
+                });
+            });
+        }
+        
+        // 加载保存的数据
+        function loadSavedData() {
+            const savedData = localStorage.getItem('healthDashboardData');
+            if (savedData) {
+                healthData = JSON.parse(savedData);
+                renderAllData();
+            }
+        }
+        
+        // 保存数据
+        function saveData() {
+            localStorage.setItem('healthDashboardData', JSON.stringify(healthData));
+            renderAllData();
+        }
+        
+        // 渲染所有数据
+        function renderAllData() {
+            renderGKIHistory();
+            renderMetabolismHistory();
+            renderLipidHistory();
+            renderTrackingHistory();
+            renderProfileSummary();
+            renderKetoHistory();
+            updateDashboard();
+            updateDataPreview();
+            updateKetoProfileSummary();
+        }
+        
+        // 计算GKI
+        function calculateGKI() {
+            const glucose = parseFloat(document.getElementById('glucose').value);
+            const ketone = parseFloat(document.getElementById('ketone').value);
+            
+            if (!glucose || !ketone || ketone === 0) {
+                alert('请输入有效的血糖和血酮值');
+                return;
+            }
+            
+            const gki = glucose / ketone;
+            const gkiStatus = getGKIStatus(gki);
+            
+            // 显示结果
+            document.getElementById('gki-result').textContent = gki.toFixed(1);
+            document.getElementById('gki-interpretation').textContent = gkiStatus.text;
+            document.getElementById('gki-interpretation').className = `result-interpretation ${gkiStatus.class}`;
+            
+            // 添加到记录
+            const record = {
+                id: Date.now(),
+                date: document.getElementById('gki-date').value,
+                glucose: glucose,
+                ketone: ketone,
+                gki: gki,
+                status: gkiStatus.text,
+                notes: document.getElementById('gki-notes').value
+            };
+            
+            healthData.gkiRecords.unshift(record);
+            saveData();
+            
+            // 显示成功消息
+            showToast('GKI记录已保存！');
+        }
+        
+        // 获取GKI状态
+        function getGKIStatus(gki) {
+            if (gki < 1) {
+                return {
+                    class: 'gki-deep',
+                    text: '深度酮症 - 最佳代谢状态'
+                };
+            } else if (gki >= 1 && gki < 3) {
+                return {
+                    class: 'gki-moderate',
+                    text: '中等酮症 - 理想营养性酮症'
+                };
+            } else if (gki >= 3 && gki < 6) {
+                return {
+                    class: 'gki-light',
+                    text: '轻度酮症 - 初期酮症状态'
+                };
+            } else if (gki >= 6 && gki < 9) {
+                return {
+                    class: 'gki-low',
+                    text: '低度酮症 - 轻微酮症状态'
+                };
+            } else {
+                return {
+                    class: 'gki-none',
+                    text: '无酮症 - 未处于酮症状态'
+                };
+            }
+        }
+        
+        // 渲染GKI历史记录
+        function renderGKIHistory() {
+            const container = document.getElementById('gki-records');
+            
+            if (!healthData.gkiRecords.length) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = '';
+            healthData.gkiRecords.forEach(record => {
+                const date = new Date(record.date);
+                const formattedDate = `${date.toLocaleDateString()} ${date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+                const gkiStatus = getGKIStatus(record.gki);
+                
+                const recordEl = document.createElement('div');
+                recordEl.className = 'record-item';
+                recordEl.innerHTML = `
+                    <div class="record-header">
+                        <div class="record-date">${formattedDate}</div>
+                        <div class="record-type">GKI记录</div>
+                    </div>
+                    <div class="record-content">
+                        <p><strong>血糖:</strong> ${record.glucose} mmol/L</p>
+                        <p><strong>血酮:</strong> ${record.ketone} mmol/L</p>
+                        <p><strong>GKI:</strong> ${record.gki.toFixed(1)} - <span class="gki-indicator ${gkiStatus.class}">${record.status}</span></p>
+                        ${record.notes ? `<p><strong>备注:</strong> ${record.notes}</p>` : ''}
+                    </div>
+                    <div class="record-actions">
+                        <button class="btn btn-danger delete-btn" data-id="${record.id}" data-category="gki">
+                            <i class="fas fa-trash-alt"></i> 删除
+                        </button>
+                    </div>
+                `;
+                
+                container.appendChild(recordEl);
+            });
+            
+            // 添加删除事件
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = parseInt(this.getAttribute('data-id'));
+                    const category = this.getAttribute('data-category');
+                    deleteRecord(id, category);
+                });
+            });
+        }
+        
+        // 计算代谢指标
+        function calculateMetabolism() {
+            const tg = parseFloat(document.getElementById('tg').value);
+            const hdl = parseFloat(document.getElementById('hdl').value);
+            const glucose = parseFloat(document.getElementById('glucose-met').value);
+            
+            // 验证输入
+            if (!tg || !hdl || !glucose) {
+                alert('请填写所有必需的参数');
+                return;
+            }
+            
+            // 检查个人资料数据
+            const profile = healthData.profile;
+            if (!profile.waist || !profile.height || !profile.weight) {
+                alert('请先在个人资料中填写腰围、身高和体重');
+                return;
+            }
+            
+            const waist = profile.waist;
+            const height = profile.height;
+            const weight = profile.weight;
+            
+            // 计算各种指标
+            // TyG指数 = Ln(空腹甘油三酯(mg/dL) × 空腹血糖(mg/dL)/2)
+            // 转换为mg/dL: 甘油三酯 * 88.57, 血糖 * 18
+            const tygIndex = Math.log((tg * 88.57) * (glucose * 18) / 2).toFixed(2);
+            
+            // BMI
+            const heightM = height / 100;
+            const bmi = (weight / (heightM * heightM)).toFixed(1);
+            
+            // TyG-BMI
+            const tygBmi = (tygIndex * bmi).toFixed(1);
+            
+            // TyG-WHtR = TyG指数 * (腰围 / 身高)
+            const tygWhtr = (tygIndex * (waist / height)).toFixed(2);
+            
+            // TG/HDL
+            const tgHdl = (tg / hdl).toFixed(2);
+            
+            // 显示结果
+            document.getElementById('tyg-index').textContent = tygIndex;
+            document.getElementById('tyg-bmi').textContent = tygBmi;
+            document.getElementById('tyg-whtr').textContent = tygWhtr;
+            document.getElementById('tg-hdl').textContent = tgHdl;
+            
+            // 解释
+            let tygInterpret = tygIndex < 8.5 ? "正常 - 胰岛素敏感性良好" : 
+                (tygIndex < 8.9 ? "临界 - 胰岛素抵抗风险增加" : "高风险 - 可能存在胰岛素抵抗");
+            let tygClass = tygIndex < 8.5 ? 'normal' : (tygIndex < 8.9 ? 'warning' : 'danger');
+            document.getElementById('tyg-interpret').textContent = tygInterpret;
+            document.getElementById('tyg-interpret').className = `result-interpretation ${tygClass}`;
+            
+            let tygBmiInterpret = tygBmi < 210 ? "正常范围 - 心血管风险低" : 
+                (tygBmi < 240 ? "中度风险 - 需关注心血管健康" : "高风险 - 心血管疾病风险显著增加");
+            let tygBmiClass = tygBmi < 210 ? 'normal' : (tygBmi < 240 ? 'warning' : 'danger');
+            document.getElementById('tyg-bmi-interpret').textContent = tygBmiInterpret;
+            document.getElementById('tyg-bmi-interpret').className = `result-interpretation ${tygBmiClass}`;
+            
+            let tygWhtrInterpret = tygWhtr < 5.0 ? "正常范围 - 中心性肥胖风险低" : 
+                (tygWhtr < 6.0 ? "中度风险 - 中心性肥胖风险增加" : "高风险 - 中心性肥胖相关疾病风险高");
+            let tygWhtrClass = tygWhtr < 5.0 ? 'normal' : (tygWhtr < 6.0 ? 'warning' : 'danger');
+            document.getElementById('tyg-whtr-interpret').textContent = tygWhtrInterpret;
+            document.getElementById('tyg-whtr-interpret').className = `result-interpretation ${tygWhtrClass}`;
+            
+            let tgHdlInterpret = tgHdl < 2.0 ? "理想 - 心血管风险低" : 
+                (tgHdl < 3.0 ? "中度风险 - 心血管风险增加" : "高风险 - 心血管疾病风险高");
+            let tgHdlClass = tgHdl < 2.0 ? 'normal' : (tgHdl < 3.0 ? 'warning' : 'danger');
+            document.getElementById('tg-hdl-interpret').textContent = tgHdlInterpret;
+            document.getElementById('tg-hdl-interpret').className = `result-interpretation ${tgHdlClass}`;
+            
+            // 保存记录
+            const record = {
+                id: Date.now(),
+                date: new Date().toISOString(),
+                tg: tg,
+                hdl: hdl,
+                glucose: glucose,
+                waist: waist,
+                height: height,
+                weight: weight,
+                tygIndex: tygIndex,
+                tygBmi: tygBmi,
+                tygWhtr: tygWhtr,
+                tgHdl: tgHdl
+            };
+            
+            healthData.metabolismRecords.unshift(record);
+            saveData();
+            
+            // 显示成功消息
+            showToast('代谢指标已计算并保存！');
+        }
+        
+        // 渲染代谢指标历史记录
+        function renderMetabolismHistory() {
+            const container = document.getElementById('metabolism-records');
+            
+            if (!healthData.metabolismRecords.length) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = '';
+            healthData.metabolismRecords.forEach(record => {
+                const date = new Date(record.date);
+                const formattedDate = `${date.toLocaleDateString()} ${date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+                
+                const recordEl = document.createElement('div');
+                recordEl.className = 'record-item';
+                recordEl.innerHTML = `
+                    <div class="record-header">
+                        <div class="record-date">${formattedDate}</div>
+                        <div class="record-type">代谢指标记录</div>
+                    </div>
+                    <div class="record-content">
+                        <p><strong>TyG指数:</strong> ${record.tygIndex}</p>
+                        <p><strong>TyG-BMI:</strong> ${record.tygBmi}</p>
+                        <p><strong>TyG-WHtR:</strong> ${record.tygWhtr}</p>
+                        <p><strong>TG/HDL:</strong> ${record.tgHdl}</p>
+                    </div>
+                    <div class="record-actions">
+                        <button class="btn btn-danger delete-btn" data-id="${record.id}" data-category="metabolism">
+                            <i class="fas fa-trash-alt"></i> 删除
+                        </button>
+                    </div>
+                `;
+                
+                container.appendChild(recordEl);
+            });
+            
+            // 添加删除事件
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = parseInt(this.getAttribute('data-id'));
+                    const category = this.getAttribute('data-category');
+                    deleteRecord(id, category);
+                });
+            });
+        }
+        
+        // 计算血脂指标
+        function calculateLipids() {
+            const tc = parseFloat(document.getElementById('tc').value);
+            const hdl = parseFloat(document.getElementById('hdl-lipid').value);
+            const tg = parseFloat(document.getElementById('tg-lipid').value);
+            const ldl = parseFloat(document.getElementById('ldl').value);
+            
+            // 验证输入
+            if (!tc || !hdl || !tg || !ldl) {
+                alert('请填写所有必需的参数');
+                return;
+            }
+            
+            // 计算各种指标
+            const tcHdl = (tc / hdl).toFixed(2);
+            const tgHdl = (tg / hdl).toFixed(2);
+            const ldlHdl = (ldl / hdl).toFixed(2);
+            const ai = ((tc - hdl) / hdl).toFixed(2);
+            
+            // 显示结果
+            document.getElementById('tc-hdl').textContent = tcHdl;
+            document.getElementById('tg-hdl-lipid').textContent = tgHdl;
+            document.getElementById('ldl-hdl').textContent = ldlHdl;
+            document.getElementById('ai').textContent = ai;
+            
+            // 解释
+            let tcHdlInterpret = tcHdl < 4.0 ? "理想 - 心血管风险低" : 
+                (tcHdl < 5.0 ? "临界高 - 心血管风险增加" : "高风险 - 心血管疾病风险高");
+            let tcHdlClass = tcHdl < 4.0 ? 'normal' : (tcHdl < 5.0 ? 'warning' : 'danger');
+            document.getElementById('tc-hdl-interpret').textContent = tcHdlInterpret;
+            document.getElementById('tc-hdl-interpret').className = `result-interpretation ${tcHdlClass}`;
+            
+            let tgHdlInterpret = tgHdl < 1.0 ? "理想 - 胰岛素敏感性良好" : 
+                (tgHdl < 2.0 ? "临界高 - 胰岛素抵抗风险增加" : "高风险 - 可能存在胰岛素抵抗");
+            let tgHdlClass = tgHdl < 1.0 ? 'normal' : (tgHdl < 2.0 ? 'warning' : 'danger');
+            document.getElementById('tg-hdl-lipid-interpret').textContent = tgHdlInterpret;
+            document.getElementById('tg-hdl-lipid-interpret').className = `result-interpretation ${tgHdlClass}`;
+            
+            let ldlHdlInterpret = ldlHdl < 2.5 ? "理想 - 胆固醇平衡良好" : 
+                (ldlHdl < 3.5 ? "临界高 - 心血管风险增加" : "高风险 - 心血管疾病风险显著增加");
+            let ldlHdlClass = ldlHdl < 2.5 ? 'normal' : (ldlHdl < 3.5 ? 'warning' : 'danger');
+            document.getElementById('ldl-hdl-interpret').textContent = ldlHdlInterpret;
+            document.getElementById('ldl-hdl-interpret').className = `result-interpretation ${ldlHdlClass}`;
+            
+            let aiInterpret = ai < 3.0 ? "理想 - 动脉硬化风险低" : 
+                (ai < 4.0 ? "临界高 - 动脉硬化风险增加" : "高风险 - 动脉硬化风险高");
+            let aiClass = ai < 3.0 ? 'normal' : (ai < 4.0 ? 'warning' : 'danger');
+            document.getElementById('ai-interpret').textContent = aiInterpret;
+            document.getElementById('ai-interpret').className = `result-interpretation ${aiClass}`;
+            
+            // 保存记录
+            const record = {
+                id: Date.now(),
+                date: new Date().toISOString(),
+                tc: tc,
+                hdl: hdl,
+                tg: tg,
+                ldl: ldl,
+                tcHdl: tcHdl,
+                tgHdl: tgHdl,
+                ldlHdl: ldlHdl,
+                ai: ai
+            };
+            
+            healthData.lipidRecords.unshift(record);
+            saveData();
+            
+            // 显示成功消息
+            showToast('血脂指标已计算并保存！');
+        }
+        
+        // 渲染血脂分析历史记录
+        function renderLipidHistory() {
+            const container = document.getElementById('lipid-records');
+            
+            if (!healthData.lipidRecords.length) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = '';
+            healthData.lipidRecords.forEach(record => {
+                const date = new Date(record.date);
+                const formattedDate = `${date.toLocaleDateString()} ${date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+                
+                const recordEl = document.createElement('div');
+                recordEl.className = 'record-item';
+                recordEl.innerHTML = `
+                    <div class="record-header">
+                        <div class="record-date">${formattedDate}</div>
+                        <div class="record-type">血脂分析记录</div>
+                    </div>
+                    <div class="record-content">
+                        <p><strong>TC/HDL:</strong> ${record.tcHdl}</p>
+                        <p><strong>TG/HDL:</strong> ${record.tgHdl}</p>
+                        <p><strong>LDL/HDL:</strong> ${record.ldlHdl}</p>
+                        <p><strong>AI:</strong> ${record.ai}</p>
+                    </div>
+                    <div class="record-actions">
+                        <button class="btn btn-danger delete-btn" data-id="${record.id}" data-category="lipids">
+                            <i class="fas fa-trash-alt"></i> 删除
+                        </button>
+                    </div>
+                `;
+                
+                container.appendChild(recordEl);
+            });
+            
+            // 添加删除事件
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = parseInt(this.getAttribute('data-id'));
+                    const category = this.getAttribute('data-category');
+                    deleteRecord(id, category);
+                });
+            });
+        }
+        
+        // 添加饮食记录
+        function addDietRecord() {
+            const mealType = document.getElementById('meal-type').value;
+            const mealTypes = {
+                breakfast: '早餐',
+                lunch: '午餐',
+                dinner: '晚餐',
+                snack: '点心'
+            };
+            
+            const record = {
+                id: Date.now(),
+                date: document.getElementById('tracking-date').value,
+                type: 'diet',
+                mealType: mealType,
+                content: document.getElementById('meal-content').value,
+                notes: document.getElementById('tracking-notes').value
+            };
+            
+            healthData.trackingRecords.unshift(record);
+            saveData();
+            
+            // 清空表单
+            document.getElementById('meal-content').value = '';
+            document.getElementById('tracking-notes').value = '';
+            
+            // 显示成功消息
+            showToast(`${mealTypes[mealType] || mealType}记录已添加！`);
+        }
+        
+        // 添加运动记录
+        function addExerciseRecord() {
+            const exerciseType = document.getElementById('exercise-type').value;
+            
+            const record = {
+                id: Date.now(),
+                date: document.getElementById('tracking-date').value,
+                type: 'exercise',
+                exerciseType: exerciseType,
+                duration: document.getElementById('exercise-duration').value,
+                intensity: document.getElementById('exercise-intensity').value,
+                notes: document.getElementById('exercise-notes').value
+            };
+            
+            healthData.trackingRecords.unshift(record);
+            saveData();
+            
+            // 清空表单
+            document.getElementById('exercise-notes').value = '';
+            
+            // 显示成功消息
+            showToast(`${exerciseTypeMap[exerciseType] || exerciseType}记录已添加！`);
+        }
+        
+        // 渲染健康追踪记录
+        function renderTrackingHistory() {
+            const container = document.getElementById('tracking-records');
+            
+            if (!healthData.trackingRecords.length) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无健康记录</h3>
+                        <p>添加记录后将会显示在这里</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = '';
+            healthData.trackingRecords.forEach(record => {
+                const date = new Date(record.date);
+                const formattedDate = `${date.toLocaleDateString()} ${date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+                
+                const mealTypes = {
+                    breakfast: '早餐',
+                    lunch: '午餐',
+                    dinner: '晚餐',
+                    snack: '点心'
+                };
+                
+                const recordEl = document.createElement('div');
+                recordEl.className = 'record-item';
+                
+                if (record.type === 'diet') {
+                    recordEl.innerHTML = `
+                        <div class="record-header">
+                            <div class="record-date">${formattedDate}</div>
+                            <div class="record-type">${mealTypes[record.mealType] || record.mealType}</div>
+                        </div>
+                        <div class="record-content">
+                            <p><strong>内容:</strong> ${record.content}</p>
+                            ${record.notes ? `<p><strong>备注:</strong> ${record.notes}</p>` : ''}
+                        </div>
+                        <div class="record-actions">
+                            <button class="btn btn-danger delete-btn" data-id="${record.id}" data-category="tracking">
+                                <i class="fas fa-trash-alt"></i> 删除
+                            </button>
+                        </div>
+                    `;
+                } else {
+                    recordEl.innerHTML = `
+                        <div class="record-header">
+                            <div class="record-date">${formattedDate}</div>
+                            <div class="record-type">${exerciseTypeMap[record.exerciseType] || record.exerciseType}</div>
+                        </div>
+                        <div class="record-content">
+                            <p><strong>时长:</strong> ${record.duration} 分钟</p>
+                            <p><strong>强度:</strong> ${intensityMap[record.intensity] || record.intensity}</p>
+                            ${record.notes ? `<p><strong>备注:</strong> ${record.notes}</p>` : ''}
+                        </div>
+                        <div class="record-actions">
+                            <button class="btn btn-danger delete-btn" data-id="${record.id}" data-category="tracking">
+                                <i class="fas fa-trash-alt"></i> 删除
+                            </button>
+                        </div>
+                    `;
+                }
+                
+                container.appendChild(recordEl);
+            });
+            
+            // 添加删除事件
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = parseInt(this.getAttribute('data-id'));
+                    const category = this.getAttribute('data-category');
+                    deleteRecord(id, category);
+                });
+            });
+        }
+        
+        // 保存个人资料
+        function saveProfile() {
+            const profile = {
+                name: document.getElementById('name').value,
+                gender: document.getElementById('gender').value,
+                age: parseInt(document.getElementById('age-profile').value),
+                height: parseFloat(document.getElementById('height-profile').value),
+                weight: parseFloat(document.getElementById('weight-profile').value),
+                waist: parseFloat(document.getElementById('waist-profile').value)
+            };
+            
+            if (!profile.name || !profile.height || !profile.weight) {
+                alert('请填写姓名、身高和体重');
+                return;
+            }
+            
+            // 计算BMI
+            const heightM = profile.height / 100;
+            const bmi = (profile.weight / (heightM * heightM)).toFixed(1);
+            
+            healthData.profile = profile;
+            saveData();
+            
+            // 更新个人资料概览
+            renderProfileSummary();
+            updateKetoProfileSummary();
+            
+            // 显示成功消息
+            showToast('个人资料已保存！');
+        }
+        
+        // 渲染个人资料概览
+        function renderProfileSummary() {
+            const profile = healthData.profile;
+            const container = document.getElementById('profile-summary');
+            const bmiContainer = document.getElementById('bmi-result');
+            const bmiInterpretation = document.getElementById('bmi-interpretation');
+            
+            if (!profile.name) {
+                container.innerHTML = '<p>请填写并保存您的个人资料</p>';
+                bmiContainer.textContent = '-';
+                bmiInterpretation.textContent = '体重指数';
+                return;
+            }
+            
+            // 计算BMI
+            const heightM = profile.height / 100;
+            const bmi = (profile.weight / (heightM * heightM)).toFixed(1);
+            
+            // BMI解释
+            let bmiStatus = '';
+            let bmiClass = '';
+            if (bmi < 18.5) {
+                bmiStatus = '体重过轻';
+                bmiClass = 'warning';
+            } else if (bmi < 24) {
+                bmiStatus = '正常体重';
+                bmiClass = 'normal';
+            } else if (bmi < 28) {
+                bmiStatus = '超重';
+                bmiClass = 'warning';
+            } else {
+                bmiStatus = '肥胖';
+                bmiClass = 'danger';
+            }
+            
+            // 显示BMI
+            bmiContainer.textContent = bmi;
+            bmiInterpretation.textContent = bmiStatus;
+            bmiInterpretation.className = `result-interpretation ${bmiClass}`;
+            
+            // 显示个人资料
+            container.innerHTML = `
+                <p><strong>姓名:</strong> ${profile.name}</p>
+                <p><strong>性别:</strong> ${profile.gender === 'male' ? '男性' : '女性'}</p>
+                <p><strong>年龄:</strong> ${profile.age || '未提供'} 岁</p>
+                <p><strong>身高:</strong> ${profile.height} cm</p>
+                <p><strong>体重:</strong> ${profile.weight} kg</p>
+                <p><strong>腰围:</strong> ${profile.waist || '未提供'} cm</p>
+            `;
+        }
+        
+        // 更新生酮断食的个人资料概览
+        function updateKetoProfileSummary() {
+            const profile = healthData.profile;
+            const container = document.getElementById('keto-profile-summary');
+            
+            if (!profile.name) {
+                container.innerHTML = '<p>请填写并保存您的个人资料</p>';
+                return;
+            }
+            
+            // 显示个人资料
+            container.innerHTML = `
+                <p><strong>姓名:</strong> ${profile.name}</p>
+                <p><strong>性别:</strong> ${profile.gender === 'male' ? '男性' : '女性'}</p>
+                <p><strong>年龄:</strong> ${profile.age || '未提供'} 岁</p>
+                <p><strong>身高:</strong> ${profile.height} cm</p>
+                <p><strong>体重:</strong> ${profile.weight} kg</p>
+                <p><strong>腰围:</strong> ${profile.waist || '未提供'} cm</p>
+            `;
+        }
+        
+        // 更新仪表盘
+        function updateDashboard() {
+            const container = document.getElementById('dashboardGrid');
+            
+            // 如果没有数据
+            if (!healthData.profile.name && 
+                healthData.gkiRecords.length === 0 && 
+                healthData.metabolismRecords.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-chart-line"></i>
+                        <h3>等待数据输入</h3>
+                        <p>请在其他标签页输入数据后查看仪表盘</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = '';
+            
+            // 个人资料卡片
+            if (healthData.profile.name) {
+                const heightM = healthData.profile.height / 100;
+                const bmi = (healthData.profile.weight / (heightM * heightM)).toFixed(1);
+                
+                let bmiStatus = '';
+                let bmiClass = '';
+                if (bmi < 18.5) {
+                    bmiStatus = '体重过轻';
+                    bmiClass = 'warning';
+                } else if (bmi < 24) {
+                    bmiStatus = '正常体重';
+                    bmiClass = 'normal';
+                } else if (bmi < 28) {
+                    bmiStatus = '超重';
+                    bmiClass = 'warning';
+                } else {
+                    bmiStatus = '肥胖';
+                    bmiClass = 'danger';
+                }
+                
+                container.innerHTML += `
+                    <div class="dashboard-card">
+                        <h3><i class="fas fa-user"></i> 个人资料概览</h3>
+                        <p><strong>姓名:</strong> ${healthData.profile.name}</p>
+                        <p><strong>性别:</strong> ${healthData.profile.gender === 'male' ? '男性' : '女性'}</p>
+                        <p><strong>身高:</strong> ${healthData.profile.height} cm</p>
+                        <p><strong>体重:</strong> ${healthData.profile.weight} kg</p>
+                        <div class="dashboard-value">${bmi}</div>
+                        <div class="dashboard-explanation">
+                            <p><strong>BMI指数:</strong> ${bmiStatus}</p>
+                            <p>BMI是衡量体重与身高比例的常用指标</p>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // 最近的GKI记录
+            if (healthData.gkiRecords.length > 0) {
+                const latestGKI = healthData.gkiRecords[0];
+                const gkiStatus = getGKIStatus(latestGKI.gki);
+                
+                container.innerHTML += `
+                    <div class="dashboard-card">
+                        <h3><i class="fas fa-calculator"></i> 最新GKI值</h3>
+                        <div class="dashboard-value">${latestGKI.gki.toFixed(1)}</div>
+                        <div class="dashboard-explanation">
+                            <p><strong>状态:</strong> <span class="gki-indicator ${gkiStatus.class}">${gkiStatus.text}</span></p>
+                            <p>葡萄糖酮指数(GKI)是衡量代谢状态的重要指标</p>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // 最新的代谢指标
+            if (healthData.metabolismRecords.length > 0) {
+                const latestMetabolism = healthData.metabolismRecords[0];
+                
+                container.innerHTML += `
+                    <div class="dashboard-card">
+                        <h3><i class="fas fa-fire"></i> 最新代谢指标</h3>
+                        <p><strong>TyG指数:</strong> ${latestMetabolism.tygIndex}</p>
+                        <p><strong>TyG-WHtR:</strong> ${latestMetabolism.tygWhtr}</p>
+                        <div class="dashboard-explanation">
+                            <p>TyG指数和TyG-WHtR是评估胰岛素抵抗和中心性肥胖风险的重要指标</p>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // 最新的血脂指标
+            if (healthData.lipidRecords.length > 0) {
+                const latestLipid = healthData.lipidRecords[0];
+                
+                container.innerHTML += `
+                    <div class="dashboard-card">
+                        <h3><i class="fas fa-vial"></i> 最新血脂指标</h3>
+                        <p><strong>TC/HDL-C:</strong> ${latestLipid.tcHdl}</p>
+                        <p><strong>TG/HDL-C:</strong> ${latestLipid.tgHdl}</p>
+                        <div class="dashboard-explanation">
+                            <p>血脂比值是评估心血管疾病风险的重要指标</p>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // 最近的生酮断食结果
+            if (healthData.ketoFastingRecords.length > 0) {
+                const latestKeto = healthData.ketoFastingRecords[0];
+                
+                container.innerHTML += `
+                    <div class="dashboard-card">
+                        <h3><i class="fas fa-fire"></i> 生酮断食营养需求</h3>
+                        <p><strong>每日能量消耗:</strong> ${latestKeto.tdee.toLocaleString()} KCal</p>
+                        <p><strong>脂肪:</strong> ${latestKeto.fatGrams} g</p>
+                        <p><strong>蛋白质:</strong> ${latestKeto.proteinGrams} g</p>
+                        <p><strong>碳水化合物:</strong> ${latestKeto.carbsGrams} g</p>
+                        <div class="dashboard-explanation">
+                            <p>基于您的活动水平和断食方案计算</p>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // 更新图表
+            updateDashboardChart();
+        }
+        
+        // 更新仪表盘图表
+        function updateDashboardChart() {
+            const ctx = document.getElementById('healthChart').getContext('2d');
+            
+            // 检查是否已有图表实例，如果有则销毁
+            if (window.healthChart) {
+                window.healthChart.destroy();
+            }
+            
+            // 准备图表数据
+            const labels = [];
+            const gkiData = [];
+            const tygData = [];
+            const bmiData = [];
+            
+            // 收集最近7条GKI记录
+            const gkiRecords = healthData.gkiRecords.slice(0, 7).reverse();
+            gkiRecords.forEach(record => {
+                const date = new Date(record.date);
+                labels.push(`${date.getMonth()+1}/${date.getDate()}`);
+                gkiData.push(record.gki);
+            });
+            
+            // 收集最近7条代谢记录
+            const metabolismRecords = healthData.metabolismRecords.slice(0, 7).reverse();
+            metabolismRecords.forEach(record => {
+                tygData.push(record.tygIndex);
+            });
+            
+            // 如果有个人资料，添加BMI数据
+            if (healthData.profile.name) {
+                const heightM = healthData.profile.height / 100;
+                const bmi = (healthData.profile.weight / (heightM * heightM)).toFixed(1);
+                bmiData.push(bmi);
+            }
+            
+            window.healthChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'GKI值',
+                            data: gkiData,
+                            borderColor: '#3498db',
+                            backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                            borderWidth: 2,
+                            fill: true,
+                            tension: 0.3
+                        },
+                        {
+                            label: 'TyG指数',
+                            data: tygData,
+                            borderColor: '#e74c3c',
+                            backgroundColor: 'rgba(231, 76, 60, 0.1)',
+                            borderWidth: 2,
+                            fill: true,
+                            tension: 0.3
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        title: {
+                            display: true,
+                            text: '健康指标趋势'
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: false
+                        }
+                    }
+                }
+            });
+        }
+        
+        // 删除记录
+        function deleteRecord(id, category) {
+            if (!confirm('确定要删除此记录吗？')) return;
+            
+            if (category === 'gki') {
+                healthData.gkiRecords = healthData.gkiRecords.filter(record => record.id !== id);
+            } else if (category === 'metabolism') {
+                healthData.metabolismRecords = healthData.metabolismRecords.filter(record => record.id !== id);
+            } else if (category === 'lipids') {
+                healthData.lipidRecords = healthData.lipidRecords.filter(record => record.id !== id);
+            } else if (category === 'keto') {
+                healthData.ketoFastingRecords = healthData.ketoFastingRecords.filter(record => record.id !== id);
+            } else if (category === 'tracking') {
+                healthData.trackingRecords = healthData.trackingRecords.filter(record => record.id !== id);
+            }
+            
+            saveData();
+            showToast('记录已删除');
+        }
+        
+        // 导出数据
+        function exportData() {
+            const dataStr = JSON.stringify(healthData, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(dataStr);
+            
+            const exportFileDefaultName = `health-dashboard-data-${new Date().toISOString().slice(0,10)}.json`;
+            
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', exportFileDefaultName);
+            linkElement.click();
+            
+            showToast('数据已导出');
+        }
+        
+        // 导入数据
+        function importData(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                try {
+                    const importedData = JSON.parse(event.target.result);
+                    healthData = importedData;
+                    saveData();
+                    showToast('数据导入成功！');
+                } catch (error) {
+                    showToast('导入失败：文件格式不正确', false);
+                }
+                
+                // 重置文件输入
+                e.target.value = '';
+            };
+            reader.readAsText(file);
+        }
+        
+        // 清除数据
+        function clearData() {
+            if (!confirm('确定要清除所有数据吗？此操作不可撤销！')) return;
+            
+            healthData = {
+                profile: {},
+                gkiRecords: [],
+                metabolismRecords: [],
+                lipidRecords: [],
+                trackingRecords: [],
+                ketoFastingRecords: [],
+                currentFastingHours: 16
+            };
+            
+            saveData();
+            showToast('所有数据已清除');
+        }
+        
+        // 更新数据预览
+        function updateDataPreview() {
+            const preview = document.getElementById('json-preview');
+            preview.textContent = JSON.stringify(healthData, null, 2);
+        }
+        
+        // 计算生酮断食需求
+        function calculateKeto() {
+            const profile = healthData.profile;
+            
+            if (!profile.name || !profile.age || !profile.height || !profile.weight) {
+                alert('请先在个人资料中填写姓名、年龄、身高和体重');
+                return;
+            }
+            
+            // 使用 Mifflin-St Jeor 公式计算BMR
+            let bmr;
+            if (profile.gender === 'male') {
+                bmr = 10 * profile.weight + 6.25 * profile.height - 5 * profile.age + 5;
+            } else {
+                bmr = 10 * profile.weight + 6.25 * profile.height - 5 * profile.age - 161;
+            }
+            
+            // 计算每日总能量消耗 (TDEE)
+            const activityFactor = parseFloat(document.getElementById('activity').value);
+            const tdee = Math.round(bmr * activityFactor);
+            
+            // 根据断食时长调整热量摄入
+            let adjustedCalories = tdee;
+            const fastingHours = healthData.currentFastingHours;
+            
+            if (fastingHours >= 24) {
+                // 长时间断食调整：减少总热量摄入
+                const reductionFactor = 1 - (fastingHours / 168 * 0.5);
+                adjustedCalories = Math.round(tdee * reductionFactor);
+            }
+            
+            // 计算三大营养素 (生酮比例: 脂肪70%, 蛋白质25%, 碳水5%)
+            const fatGrams = Math.round((adjustedCalories * 0.7) / 9);
+            const proteinGrams = Math.round((adjustedCalories * 0.25) / 4);
+            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            
+            // 显示结果
+            document.getElementById('bmrResult').textContent = bmr.toLocaleString();
+            document.getElementById('tdeeResult').textContent = tdee.toLocaleString();
+            document.getElementById('fatResult').textContent = fatGrams.toLocaleString();
+            document.getElementById('proteinResult').textContent = proteinGrams.toLocaleString();
+            document.getElementById('carbsResult').textContent = carbsGrams.toLocaleString();
+            
+            // 显示结果区域
+            document.getElementById('keto-results').style.display = 'grid';
+            
+            // 保存记录
+            const record = {
+                id: Date.now(),
+                date: new Date().toISOString(),
+                bmr: bmr,
+                tdee: tdee,
+                adjustedCalories: adjustedCalories,
+                fatGrams: fatGrams,
+                proteinGrams: proteinGrams,
+                carbsGrams: carbsGrams,
+                fastingHours: fastingHours
+            };
+            
+            healthData.ketoFastingRecords.unshift(record);
+            saveData();
+            
+            // 显示成功消息
+            showToast('生酮营养需求已计算并保存！');
+        }
+        
+        // 渲染生酮断食历史记录
+        function renderKetoHistory() {
+            const container = document.getElementById('keto-records');
+            
+            if (!healthData.ketoFastingRecords.length) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-database"></i>
+                        <h3>暂无历史记录</h3>
+                        <p>进行计算后将会显示在这里</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = '';
+            healthData.ketoFastingRecords.forEach(record => {
+                const date = new Date(record.date);
+                const formattedDate = `${date.toLocaleDateString()} ${date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+                
+                const recordEl = document.createElement('div');
+                recordEl.className = 'record-item';
+                recordEl.innerHTML = `
+                    <div class="record-header">
+                        <div class="record-date">${formattedDate}</div>
+                        <div class="record-type">生酮断食记录</div>
+                    </div>
+                    <div class="record-content">
+                        <p><strong>基础代谢率:</strong> ${record.bmr.toLocaleString()} KCal</p>
+                        <p><strong>每日能量消耗:</strong> ${record.tdee.toLocaleString()} KCal</p>
+                        <p><strong>脂肪:</strong> ${record.fatGrams} g</p>
+                        <p><strong>蛋白质:</strong> ${record.proteinGrams} g</p>
+                        <p><strong>碳水化合物:</strong> ${record.carbsGrams} g</p>
+                        <p><strong>断食时长:</strong> ${record.fastingHours} 小时</p>
+                    </div>
+                    <div class="record-actions">
+                        <button class="btn btn-danger delete-btn" data-id="${record.id}" data-category="keto">
+                            <i class="fas fa-trash-alt"></i> 删除
+                        </button>
+                    </div>
+                `;
+                
+                container.appendChild(recordEl);
+            });
+            
+            // 添加删除事件
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const id = parseInt(this.getAttribute('data-id'));
+                    const category = this.getAttribute('data-category');
+                    deleteRecord(id, category);
+                });
+            });
+        }
+        
+        // 显示Toast通知
+        function showToast(message, isSuccess = true) {
+            // 移除现有的toast
+            const existingToast = document.getElementById('health-toast');
+            if (existingToast) existingToast.remove();
+            
+            const toast = document.createElement('div');
+            toast.id = 'health-toast';
+            toast.textContent = message;
+            toast.style.cssText = `
+                position: fixed;
+                bottom: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: ${isSuccess ? 'var(--success)' : 'var(--danger)'};
+                color: white;
+                padding: 12px 24px;
+                border-radius: 30px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                z-index: 1000;
+                animation: fadeInOut 3s ease;
+            `;
+            
+            document.body.appendChild(toast);
+            
+            // 3秒后移除
+            setTimeout(() => {
+                toast.style.animation = 'fadeOut 0.5s ease forwards';
+                setTimeout(() => toast.remove(), 500);
+            }, 2500);
+            
+            // 添加CSS动画
+            const style = document.createElement('style');
+            style.textContent = `
+                @keyframes fadeInOut {
+                    0% { opacity: 0; transform: translate(-50%, 20px); }
+                    10% { opacity: 1; transform: translate(-50%, 0); }
+                    90% { opacity: 1; transform: translate(-50%, 0); }
+                    100% { opacity: 0; transform: translate(-50%, 20px); }
+                }
+                @keyframes fadeOut {
+                    to { opacity: 0; }
+                }
+            `;
+            document.head.appendChild(style);
+        }
+        
+        // 初始化应用
+        window.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
