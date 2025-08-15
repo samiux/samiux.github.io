@@ -25,7 +25,6 @@
 - [健康追踪器](/health_tracker.html)    
 - [生酮断食营养计算器](/keto_fasting_calculator.html)    
 - [血脂指数计算器](/blood_lipids_calculator.html)    
-- [综合健康管理系统](/health_management_system.html)    
 
 # Projects (INACTIVE)
 
