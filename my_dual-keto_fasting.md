@@ -41,6 +41,7 @@
 - [血糖酮指数(GKI)计算器](/gki_calculator.html)     
 - [健康追踪器](/health_tracker.html)    
 - [生酮断食营养计算器](/keto_fasting_calculator.html)    
+- [血脂指数计算器](/blood_lipids_calculator.html)    
 
 Samiux    
 二零二五年八月十四日，中国香港     
