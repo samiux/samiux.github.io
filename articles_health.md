@@ -95,6 +95,7 @@
 - [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sean O'Mara - (Short video of the above)](https://www.youtube.com/watch?v=mVV-v_roZMI)    
 - [99% People LOSE WEIGHT FASTER With This Insulin Trick](https://www.youtube.com/watch?v=68_Qm7PEgDY)   
 - [No.1 Weight Loss Doctor EXPOSES the Fat Myth](https://www.youtube.com/watch?v=Vy2P2BG84js)   
+- [再谈一次动态血糖仪](https://mp.weixin.qq.com/s/w7xR0qNrcCEHAXT5bcGZDg)     
 
 ### 比值研究
 
