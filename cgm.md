@@ -66,6 +66,11 @@ Samiux
 
 - [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)  
 - [没吃饭，血糖也高，一般与这3种现象有关！](https://mp.weixin.qq.com/s/SEwuz4ACZutsntsLSYxD5Q)    
+- [再谈一次动态血糖仪](https://mp.weixin.qq.com/s/w7xR0qNrcCEHAXT5bcGZDg)     
+- [动态血糖仪到底准不准](https://mp.weixin.qq.com/s/qa5dtueQQEhBpUg8bbPSJQ)     
+- [健康人有必要佩戴动态血糖监测仪吗](https://mp.weixin.qq.com/s/s0FMqsxahyLgMZhX_O1u9w)     
+- [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
+- [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
 
 ![](https://raw.githubusercontent.com/samiux/images/master/cgm/gi_gl.jpg)  
 
