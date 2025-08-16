@@ -98,6 +98,8 @@
 - [再谈一次动态血糖仪](https://mp.weixin.qq.com/s/w7xR0qNrcCEHAXT5bcGZDg)     
 - [动态血糖仪到底准不准](https://mp.weixin.qq.com/s/qa5dtueQQEhBpUg8bbPSJQ)     
 - [健康人有必要佩戴动态血糖监测仪吗](https://mp.weixin.qq.com/s/s0FMqsxahyLgMZhX_O1u9w)     
+- [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
+
 
 ### 比值研究
 
