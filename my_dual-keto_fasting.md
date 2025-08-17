@@ -34,6 +34,10 @@
 - [Upper body attack 4x25 上身锻鍊](https://www.youtube.com/shorts/T-p4yeA4u7s)     
 - [Fat burning cardio workout 1 min repeat x10 心肺功能锻鍊](https://www.youtube.com/shorts/bUqdH9JQM64)     
 
+## 生理反应
+
+进行断食或生酮饮食都会令甘油三酯值降低，高密度脂蛋白胆固醇值升高，同时低密度蛋白质胆固醇值亦会升高，但只要所有血脂比值是在正常范围内就没有问题的。    
+
 ## 计算器
 
 以下是我开发的计算器，利用浏览器进行，所有资料是记录在你的浏览器内，确保私隐 ：
