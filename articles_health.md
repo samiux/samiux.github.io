@@ -12,7 +12,8 @@
 - [血脂指数计算器](/blood_lipids_calculator.html)    
 
 ## 健康研究杂谈
- 
+
+- [Dr. William Li](https://www.youtube.com/@DrWilliamLi)     
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [Dr. Pradip Jamnadas, MD - Cardiologist](https://www.youtube.com/@pradipjamnadasmd/featured)    
@@ -100,6 +101,7 @@
 - [健康人有必要佩戴动态血糖监测仪吗](https://mp.weixin.qq.com/s/s0FMqsxahyLgMZhX_O1u9w)     
 - [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
+- [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
 
 ### 比值研究
 
