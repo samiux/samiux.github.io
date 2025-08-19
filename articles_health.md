@@ -105,6 +105,7 @@
 - [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
 - [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
 - [PAUL MASON - HEART ATTACK VICTIMS? …average LDL but: high sdLDL](https://www.youtube.com/watch?v=yE2kovYxuZg)    
+- [低密度脂蛋白是坏脂肪？千万不要说这种外行话！](https://mp.weixin.qq.com/s/IDE8wm-_uZHLMTE734i9Dg)  
 
 ### 比值研究
 
