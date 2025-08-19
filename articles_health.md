@@ -107,6 +107,7 @@
 - [PAUL MASON - HEART ATTACK VICTIMS? …average LDL but: high sdLDL](https://www.youtube.com/watch?v=yE2kovYxuZg)    
 - [低密度脂蛋白是坏脂肪？千万不要说这种外行话！](https://mp.weixin.qq.com/s/IDE8wm-_uZHLMTE734i9Dg)     
 - [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
+- [[Memo]抗性淀粉的实验和研究](https://mp.weixin.qq.com/s/2a72ravLwBK0BOZkvVYJsw)      
 
 ### 比值研究
 
