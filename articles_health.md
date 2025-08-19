@@ -13,6 +13,8 @@
 
 ## 健康研究杂谈
 
+### 健康研究视频及网站
+
 - [Dr. William Li](https://www.youtube.com/@DrWilliamLi)     
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
@@ -22,6 +24,21 @@
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
 - [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
+
+### 胰岛素抵抗
+
+### 糖尿病
+
+### 脂肪肝
+
+### 血脂及心血管疾病
+
+### 高血压
+
+### 尿酸及痛风
+
+### 营养素摄取
+
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
 - [中老年人蛋白质摄入最新研究分析](/protein.md)   
