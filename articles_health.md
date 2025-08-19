@@ -18,6 +18,7 @@
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [Dr. Pradip Jamnadas, MD - Cardiologist](https://www.youtube.com/@pradipjamnadasmd/featured)    
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
+- [DoctorsToTrust](https://www.youtube.com/@doctorstotrust)    
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
 - [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
@@ -102,6 +103,7 @@
 - [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
 - [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
+- [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
 
 ### 比值研究
 
