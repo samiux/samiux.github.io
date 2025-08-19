@@ -104,6 +104,7 @@
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
 - [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
 - [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
+- [PAUL MASON - HEART ATTACK VICTIMS? …average LDL but: high sdLDL](https://www.youtube.com/watch?v=yE2kovYxuZg)    
 
 ### 比值研究
 
