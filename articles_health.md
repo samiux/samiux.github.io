@@ -166,6 +166,7 @@
 - [断食与生酮饮食科学对比](/fasting_keto_diet.md)    
 - [高血压与糖类摄取关系及断食生酮研究](/fasting_hypertension.md)    
 - [低碳饮食地图](/low-carbs-diet.md)    
+- [断食的好处多多，不只是减肥](https://mp.weixin.qq.com/s/dXoADBauXBUp-R0h8wJdZQ)      
 
 ### 生酮相关
 
