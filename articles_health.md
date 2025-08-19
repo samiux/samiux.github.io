@@ -127,7 +127,7 @@
 - [[Memo]抗性淀粉的实验和研究](https://mp.weixin.qq.com/s/2a72ravLwBK0BOZkvVYJsw)      
 - [肠道菌群失衡，是胰岛素抵抗的幕后推手！](https://mp.weixin.qq.com/s/Wd8tIcfkR6djYuplOiaQyw)       
 
-### 比值研究
+## 比值研究
 
 - [TG/HDL甘油三酯与高密度脂蛋白比值研究](/tg_hdl-c.md)    
 - [TG/LDL甘油三酯与低密度脂蛋白比值研究](/tg_ldl-c_index.md)    
@@ -188,7 +188,7 @@
 - [低碳饮食地图](/low-carbs-diet.md)    
 - [断食的好处多多，不只是减肥](https://mp.weixin.qq.com/s/dXoADBauXBUp-R0h8wJdZQ)      
 
-### 生酮相关
+## 生酮相关
 
 - [断食科学解析与生酮减脂机制](/fasting_howto.md)    
 - [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
@@ -215,10 +215,10 @@
 - [断食与生酮饮食混合应用研究](/fasting_keto.md)    
 - [70%脂肪生酮谁吃谁胖！真正7天掉10个的生酮3.0版本详解来了！（附一周食谱）](https://mp.weixin.qq.com/s/zzJierYmIWWMBtFbildrmg)     
 
-### 双酮断食 Dual-Keto Fasting
+## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
 
-### MCT 油
+## MCT 油
 
 - [MCT油与断食生酮关系及使用时机](/mct_oil.md)    
 - [MCT油与断食生酮关系及使用时机 2](/mct_oil_02.md)    
@@ -228,7 +228,7 @@
 - [MCT Oil and Fasting: Does It Break A Fast?](https://www.youtube.com/watch?v=TrPbIiKL-Ao)    
 - [Will MCT Oil REALLY Help You Lose Weight & Reach KETOSIS Faster?](https://www.youtube.com/watch?v=vo_5K9zBdJ0)     
 
-### 苹果醋研究
+## 苹果醋研究
 
 - [苹果醋营养与健康影响分析](/apple_cider_vinegar.md)    
 - [断食期间苹果醋饮用方法与效益](/fasting_acv.md)    
@@ -237,13 +237,13 @@
 - [纯净断食与代谢加速科学分析](/fasting_acv_coffee_walking.md)    
 - [断食与血糖管理改善策略 (苹果醋的迷思)](/fasting_acv_problem.md)    
 
-### 黄连素 Berberine  
+## 黄连素 Berberine  
 
 - [小檗碱的药用特性及注意事项](/berberine.md)    
 - [黄连素对二型糖尿病的科学分析](/berberine_t2dm.md)   
 - [黄连素对健康人群作用分析](/berberine_health.md)    
 
-### 断食散文
+## 断食散文
 
 - [书评 - 間歇斷食減重全指南](/fasting_book.md)   
 - [吓了一跳](/shocked.md)    
