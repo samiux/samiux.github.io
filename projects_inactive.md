@@ -19,6 +19,12 @@
 - [威龙  Weilong - Intrusion Detection and Prevention System](/weilong_en.md)    
 - [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
 
+## Offensive & Defensive
+
+### INACTIVE
+
+- [DOMPROS - AI-Powered Penetration Testing Assistant](/dompros.md)  
+
 ## Capture The Flag (CTF)
 
 ### INACTIVE
