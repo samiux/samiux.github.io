@@ -2,12 +2,6 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-## Defensive
-
-## Offensive & Defensive
-
-- [DOMPROS - AI-Powered Penetration Testing Assistant](/dompros.md)  
-
 ## Others
 
 - [MGRS Locator 军用座标定位](/mgrs_page.md)    
