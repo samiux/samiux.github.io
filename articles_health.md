@@ -27,107 +27,117 @@
 
 ### 胰岛素抵抗
 
+- [如何逆转胰岛素抵抗？方法都在这里了](https://mp.weixin.qq.com/s/JinZCwVomNu7d6iPPkqZhQ)    
+- [为什么经常发低血糖，体重却仍在增加？](https://mp.weixin.qq.com/s/lPvKmkYp9upwp9BWe3x9gA)     
+
 ### 糖尿病
 
-### 脂肪肝
-
-### 血脂及心血管疾病
-
-### 高血压
-
-### 尿酸及痛风
-
-### 营养素摄取
-
-### 其他
-
-- [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
-- [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
-- [中老年人蛋白质摄入最新研究分析](/protein.md)   
-- [骨質疏鬆](/osteoporosis.md)
-- [酮体](/ketones.md)  
-- [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)
-- [生酮饮食与间歇断食对比分析](fasting_ketones_02.md)  
-- [细胞自噬与癌症](/autophagy_cancer.md)    
-- [轻断食期间，曾经有生酮状态，甘油三酯略高是否正常？](tg_ldl_high_fasting.md)    
-- [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)
-- [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
+- [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)    
 - [糖尿病併发症分类及预防措施](/diabetes.md)   
 - [糖淀粉碳水化合物摄入与健康影响分析](/sugar.md)    
-- [胆固醇的生理功能与健康管理](/tc_function.md)   
-- [低密度脂蛋白胆固醇（LDL-C）被认为是有害的吗？](/ldl-c.md)    
-- [非HDL-C对健康影响及管理策略](/non-hdl-c.md)    
-- [脂肪吸收对人体的生理重要性](/fat.md)    
-- [甘油三酯与健康影响最新研究](/tg_study.md)    
-- [甘油三酯与脂蛋白a区别及影响](/tg_lpa.md)    
-- [甘油三酯脂蛋白a低密度脂蛋白关系解析](/tg_lpa_ldl-c.md)    
-- [高甘油三酯及高低密度胆固醇与糖尿病之关联](/tc_ldl-c.md)    
-- [甘油三酯与胆固醇及血糖指数的关联](/tg.md)  
-- [生酮状态下低密度脂蛋白和血糖变化机制](/ketone_ldl-c_blood.md)    
-- [断食期肝脏双轨供能机制解析](/ketone_transition.md)    
-- [淡水与海水鱼类DHA/EPA含量比较](/fish.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
-- [脉压差研究与临床管理指南](/blood_pressure.md)    
 - [高血压与糖尿病之关联](/hypertension_diabetes.md)    
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
-- [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
-- [如何逆转胰岛素抵抗？方法都在这里了](https://mp.weixin.qq.com/s/JinZCwVomNu7d6iPPkqZhQ)    
 - [糖尿病 HbA1c 达标，血糖就没问题了？那你就错了！](https://mp.weixin.qq.com/s/qFETo0plzGt8DBEYZDb7eg)    
-- [血脂正常心血管斑块预防策略分析](/cvrisk.md)    
-- [新发现：餐后1小时血糖水平越低，寿命越长](https://mp.weixin.qq.com/s/CGIRF_vV9v0bzYZv1sOuNg)    
-- [【问题】LDL-C 也是人体组织的“建设者”，降太低会反噬健康吗？](https://mp.weixin.qq.com/s/wNY8aRe4wDRA6GGtDE8d-Q)    
-- [甘油三酯升高对身体的危害有哪些？特别是第2种？](https://mp.weixin.qq.com/s/3KVSj1G8TnYLfzW7reWF0Q)      
-- [血脂管理：甘油三酯（TG）升高，何时应用降血脂药物？](https://mp.weixin.qq.com/s/0GLTUXuTh0D6LNbKETVeSw)      
 - [新发现：餐后1小时血糖水平越低，寿命越长](https://mp.weixin.qq.com/s/CGIRF_vV9v0bzYZv1sOuNg)    
 - [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
-- [高同型半胱氨酸血症是什么？如何诊治？](https://mp.weixin.qq.com/s/u1eY6pqPLQWPOTQzZTMM6A)    
 - [没吃饭，血糖也高，一般与这3种现象有关！](https://mp.weixin.qq.com/s/SEwuz4ACZutsntsLSYxD5Q)   
-- [关于维生素D，你可能不知道的事](https://mp.weixin.qq.com/s/e4s5iaGEhkKFUP2IpxkiCQ)    
-- [维生素D水平低，痴呆风险或翻倍！如何补充？一文说清楚](https://mp.weixin.qq.com/s/rCkKs6IVLXbKzbTNP5SWCw) 
 - [斯坦福发现：升糖指数不靠谱，每天吃粗粮，红薯，玉米的人，心都碎了……](https://mp.weixin.qq.com/s/HoFrfHNqbqYopYlB_ksG3Q)   
-- [主动干预从追查杀死一半人类的真凶开始](https://mp.weixin.qq.com/s/FXrfa8lldzqoaGRUnatI4Q)    
-- [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)   
 - [糖的真相：代谢路径里的血脂危机](https://mp.weixin.qq.com/s/jDZ4jpD4AvoMtnNCbWcbDQ)    
 - [有助降糖的微量元素，糖友该如何补？](https://mp.weixin.qq.com/s/XYptvGa1zDUNj-k5o2UdlA)    
 - [糖化要不要控到5.8%？为何专家建议“控制在7以内”就够了呢？不要卷糖化！](https://mp.weixin.qq.com/s/m51zKj1E03jnOBtA-ID53w)    
-- [吃素，血管一定干净？医生提醒：这3种素食也容易堵血管！](https://mp.weixin.qq.com/s/w-bnaA405d4f71vshMwUIg)      
 - [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)    
-- [中年飲食危機 - 鄒重璂醫生](https://www.youtube.com/watch?v=X0e1ghsgBoo)    
-- [研究表明同样的食物对每个人的反应不同](https://mp.weixin.qq.com/s/_NLWffCJyzvSYDwTlB87KA)     
-- [Body fat percentage charts for men and women](https://www.medicalnewstoday.com/articles/body-fat-percentage-chart)    
-- [亚洲人基础代谢率算法及影响因素](/bmr_asian.md)    
-- [胆固醇是生命的基础，而不是敌人](https://mp.weixin.qq.com/s/1hP2XGeeUVhCmFvepi5r5A)    
-- [铁子们！你的体脂率到多少了？](https://mp.weixin.qq.com/s/2l1HzPqvcmykSoo8yXzi4A)    
-- [碳水真的有助于减肥？看看指南的变化](https://mp.weixin.qq.com/s/pvOwFv5vAO_hkNiHj1JxYA)    
-- [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)    
-- [脂肪续篇 饱和脂肪酸促炎？对人有害？大可不必那么怕~](https://mp.weixin.qq.com/s/7Bf4qmEeBbffG7W9zju-Rg)    
 - [自然.医学：用土豆“试出”你的胰岛功能！斯坦福团队发现，吃土豆后血糖反应高，可能预示这些问题……](https://mp.weixin.qq.com/s/JixR6g01tfd522eqpzF06w)    
-- [如何燃烧内脏脂肪？什么是肌肉脂肪浸润？](https://mp.weixin.qq.com/s/LlcfffCdY8esrU8Xt1XPZQ)    
-- [超重必看：减肥必需的5个步骤](https://mp.weixin.qq.com/s/MIOZQEitYpR_mm5htLgOlw)    
-- [心血管疾病风险标志物与管理策略](/sdldl-c_apob_lpa.md)    
 - [为什么经常发低血糖，体重却仍在增加？](https://mp.weixin.qq.com/s/lPvKmkYp9upwp9BWe3x9gA)     
-- [人为什么要吃肉？大脑缺肉真的会“饿坏”](https://mp.weixin.qq.com/s/no3xMYav_AbKhgJ6fPVwnQ)   
-- [Dr Paul Mason: #1 Proven Way To Lose Weight FAST (Calories Doesn't Work)](https://www.youtube.com/watch?v=c8_WeDz1uXw)    
-- [Eat HIGH FAT for 30 Days: Fix Your Heart (Shocking Effect on LDL Cholesterol)](https://www.youtube.com/watch?v=4k2Ymio6w3o)    
-- [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)    
-- [The REAL Cause of Clogged Arteries & How FASTING Can Help - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)    
-- [Get Rid of Visceral Fat Once and for All - Dr. Sean O’Mara](https://www.youtube.com/watch?v=lT_5ouXhZO4)
-- [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sean O'Mara - (Short video of the above)](https://www.youtube.com/watch?v=mVV-v_roZMI)    
-- [99% People LOSE WEIGHT FASTER With This Insulin Trick](https://www.youtube.com/watch?v=68_Qm7PEgDY)   
-- [No.1 Weight Loss Doctor EXPOSES the Fat Myth](https://www.youtube.com/watch?v=Vy2P2BG84js)   
 - [再谈一次动态血糖仪](https://mp.weixin.qq.com/s/w7xR0qNrcCEHAXT5bcGZDg)     
 - [动态血糖仪到底准不准](https://mp.weixin.qq.com/s/qa5dtueQQEhBpUg8bbPSJQ)     
 - [健康人有必要佩戴动态血糖监测仪吗](https://mp.weixin.qq.com/s/s0FMqsxahyLgMZhX_O1u9w)     
 - [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
-- [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
-- [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
+- [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
+
+### 脂肪肝
+
+- [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
+- [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
+
+### 血脂及心血管疾病
+
+- [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)    
+- [胆固醇的生理功能与健康管理](/tc_function.md)   
+- [低密度脂蛋白胆固醇（LDL-C）被认为是有害的吗？](/ldl-c.md)    
+- [非HDL-C对健康影响及管理策略](/non-hdl-c.md)
+- [甘油三酯与健康影响最新研究](/tg_study.md)    
+- [甘油三酯与脂蛋白a区别及影响](/tg_lpa.md)    
+- [甘油三酯脂蛋白a低密度脂蛋白关系解析](/tg_lpa_ldl-c.md)    
+- [高甘油三酯及高低密度胆固醇与糖尿病之关联](/tc_ldl-c.md)    
+- [甘油三酯与胆固醇及血糖指数的关联](/tg.md)  
+- [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
+- [三高之间的关联](/three_hypers.md)   
+- [三高与癌症的关联](/three_hypers_cancer.md)    
+- [血脂正常心血管斑块预防策略分析](/cvrisk.md)    
+- [【问题】LDL-C 也是人体组织的“建设者”，降太低会反噬健康吗？](https://mp.weixin.qq.com/s/wNY8aRe4wDRA6GGtDE8d-Q)    
+- [甘油三酯升高对身体的危害有哪些？特别是第2种？](https://mp.weixin.qq.com/s/3KVSj1G8TnYLfzW7reWF0Q)      
+- [血脂管理：甘油三酯（TG）升高，何时应用降血脂药物？](https://mp.weixin.qq.com/s/0GLTUXuTh0D6LNbKETVeSw)      
+- [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
+- [主动干预从追查杀死一半人类的真凶开始](https://mp.weixin.qq.com/s/FXrfa8lldzqoaGRUnatI4Q)    
+- [糖的真相：代谢路径里的血脂危机](https://mp.weixin.qq.com/s/jDZ4jpD4AvoMtnNCbWcbDQ)    
+- [吃素，血管一定干净？医生提醒：这3种素食也容易堵血管！](https://mp.weixin.qq.com/s/w-bnaA405d4f71vshMwUIg)      
+- [胆固醇是生命的基础，而不是敌人](https://mp.weixin.qq.com/s/1hP2XGeeUVhCmFvepi5r5A)    
+- [心血管疾病风险标志物与管理策略](/sdldl-c_apob_lpa.md)    
+- [Eat HIGH FAT for 30 Days: Fix Your Heart (Shocking Effect on LDL Cholesterol)](https://www.youtube.com/watch?v=4k2Ymio6w3o)    
+- [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)    
+- [The REAL Cause of Clogged Arteries & How FASTING Can Help - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)    
+- [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sean O'Mara - (Short video of the above)](https://www.youtube.com/watch?v=mVV-v_roZMI)    
 - [PAUL MASON - HEART ATTACK VICTIMS? …average LDL but: high sdLDL](https://www.youtube.com/watch?v=yE2kovYxuZg)    
 - [低密度脂蛋白是坏脂肪？千万不要说这种外行话！](https://mp.weixin.qq.com/s/IDE8wm-_uZHLMTE734i9Dg)     
+
+### 高血压
+
+- [高血压与糖尿病之关联](/hypertension_diabetes.md)    
+- [三高之间的关联](/three_hypers.md)   
+- [三高与癌症的关联](/three_hypers_cancer.md)    
+- [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
+
+### 尿酸及痛风
+
+- [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
+
+### 营养素摄取
+
+- [中老年人蛋白质摄入最新研究分析](/protein.md)   
+- [脂肪吸收对人体的生理重要性](/fat.md)    
+- [淡水与海水鱼类DHA/EPA含量比较](/fish.md)  
+- [The Shocking Benefits of Eating 4 Eggs Everyday For 30 Days -- Ben Azadi](https://www.youtube.com/watch?v=BQoxFKzBMA4)    
+- [关于维生素D，你可能不知道的事](https://mp.weixin.qq.com/s/e4s5iaGEhkKFUP2IpxkiCQ)    
+- [维生素D水平低，痴呆风险或翻倍！如何补充？一文说清楚](https://mp.weixin.qq.com/s/rCkKs6IVLXbKzbTNP5SWCw)   
+- [脂肪：我们误会了许久的“好朋友”](https://mp.weixin.qq.com/s/mEJ37oQMVAGfadi7idZZjQ)   
+- [中年飲食危機 - 鄒重璂醫生](https://www.youtube.com/watch?v=X0e1ghsgBoo)    
+- [研究表明同样的食物对每个人的反应不同](https://mp.weixin.qq.com/s/_NLWffCJyzvSYDwTlB87KA)     
+- [脂肪续篇 饱和脂肪酸促炎？对人有害？大可不必那么怕~](https://mp.weixin.qq.com/s/7Bf4qmEeBbffG7W9zju-Rg)    
+- [人为什么要吃肉？大脑缺肉真的会“饿坏”](https://mp.weixin.qq.com/s/no3xMYav_AbKhgJ6fPVwnQ)   
 - [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
 - [[Memo]抗性淀粉的实验和研究](https://mp.weixin.qq.com/s/2a72ravLwBK0BOZkvVYJsw)      
 - [肠道菌群失衡，是胰岛素抵抗的幕后推手！](https://mp.weixin.qq.com/s/Wd8tIcfkR6djYuplOiaQyw)       
+
+### 减肥及其他
+
+- [骨質疏鬆](/osteoporosis.md)
+- [脉压差研究与临床管理指南](/blood_pressure.md)    
+- [高同型半胱氨酸血症是什么？如何诊治？](https://mp.weixin.qq.com/s/u1eY6pqPLQWPOTQzZTMM6A)    
+- [Body fat percentage charts for men and women](https://www.medicalnewstoday.com/articles/body-fat-percentage-chart)    
+- [亚洲人基础代谢率算法及影响因素](/bmr_asian.md)    
+- [铁子们！你的体脂率到多少了？](https://mp.weixin.qq.com/s/2l1HzPqvcmykSoo8yXzi4A)    
+- [碳水真的有助于减肥？看看指南的变化](https://mp.weixin.qq.com/s/pvOwFv5vAO_hkNiHj1JxYA)    
+- [如何燃烧内脏脂肪？什么是肌肉脂肪浸润？](https://mp.weixin.qq.com/s/LlcfffCdY8esrU8Xt1XPZQ)    
+- [超重必看：减肥必需的5个步骤](https://mp.weixin.qq.com/s/MIOZQEitYpR_mm5htLgOlw)    
+- [Dr Paul Mason: #1 Proven Way To Lose Weight FAST (Calories Doesn't Work)](https://www.youtube.com/watch?v=c8_WeDz1uXw)    
+- [Get Rid of Visceral Fat Once and for All - Dr. Sean O’Mara](https://www.youtube.com/watch?v=lT_5ouXhZO4)    
+- [99% People LOSE WEIGHT FASTER With This Insulin Trick](https://www.youtube.com/watch?v=68_Qm7PEgDY)   
+- [No.1 Weight Loss Doctor EXPOSES the Fat Myth](https://www.youtube.com/watch?v=Vy2P2BG84js)   
+- [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
+- [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
 
 ## 比值研究
 
@@ -146,6 +156,10 @@
 
 ## 断食研究杂谈
 
+- [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
+- [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
+- [细胞自噬与癌症](/autophagy_cancer.md)    
+- [断食期肝脏双轨供能机制解析](/ketone_transition.md)    
 - [长期断食与胰岛素敏感度提升策略](/fasting_improve.md)    
 - [断食模式与血糖调控科学分析](/fasting_blood_sugar_level.md)    
 - [断食运动血糖变化科学分析](/fasting_exe_blood_sugar.md)    
@@ -192,6 +206,11 @@
 
 ## 生酮相关
 
+- [酮体](/ketones.md)  
+- [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)    
+- [生酮饮食与间歇断食对比分析](fasting_ketones_02.md)  
+- [轻断食期间，曾经有生酮状态，甘油三酯略高是否正常？](tg_ldl_high_fasting.md)    
+- [生酮状态下低密度脂蛋白和血糖变化机制](/ketone_ldl-c_blood.md)    
 - [断食科学解析与生酮减脂机制](/fasting_howto.md)    
 - [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
 - [GKI 血糖血酮比值的临床应用分析](gki.md)    
