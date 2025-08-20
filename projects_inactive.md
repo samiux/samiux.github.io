@@ -16,6 +16,8 @@
 ### INACTIVE
 
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
+- [威龙  Weilong - Intrusion Detection and Prevention System](/weilong_en.md)    
+- [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)    
 
 ## Capture The Flag (CTF)
 
