@@ -554,29 +554,57 @@
                 <p>选择您的断食时长：</p>
                 
                 <div class="fasting-options">
+                    <div class="fasting-option" data-hours="12">
+                        <h4>12:12</h4>
+                        <p>12小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="13">
+                        <h4>13:11</h4>
+                        <p>13小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="14">
+                        <h4>14:10</h4>
+                        <p>14小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="15">
+                        <h4>15:9</h4>
+                        <p>15小时断食</p>
+                    </div>
                     <div class="fasting-option selected" data-hours="16">
                         <h4>16:8</h4>
                         <p>16小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="17">
+                        <h4>17:7</h4>
+                        <p>17小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="18">
+                        <h4>18:6</h4>
+                        <p>18小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="19">
+                        <h4>19:5</h4>
+                        <p>19小时断食</p>
                     </div>
                     <div class="fasting-option" data-hours="20">
                         <h4>20:4</h4>
                         <p>20小时断食</p>
                     </div>
+                    <div class="fasting-option" data-hours="21">
+                        <h4>21:3</h4>
+                        <p>21小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="22">
+                        <h4>22:2</h4>
+                        <p>22小时断食</p>
+                    </div>
+                    <div class="fasting-option" data-hours="23">
+                        <h4>23:1</h4>
+                        <p>23小时断食</p>
+                    </div>
                     <div class="fasting-option" data-hours="24">
                         <h4>24小时</h4>
                         <p>每日断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="36">
-                        <h4>36小时</h4>
-                        <p>1.5日断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="48">
-                        <h4>48小时</h4>
-                        <p>2日断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="72">
-                        <h4>72小时</h4>
-                        <p>3日断食</p>
                     </div>
                 </div>
                 
@@ -594,7 +622,7 @@
                         <li><strong>基础代谢率(BMR)</strong>: 使用Mifflin-St Jeor公式计算，这是目前最准确的方法</li>
                         <li><strong>每日总能量消耗(TDEE)</strong>: BMR × 活动水平系数</li>
                         <li><strong>生酮营养比例</strong>: 脂肪70%, 蛋白质25%, 碳水化合物5%</li>
-                        <li><strong>断食调整</strong>: 长时间断食(24小时以上)会减少总热量摄入</li>
+                        <li><strong>断食调整</strong>: 长时间断食(16小时以上)会减少总热量摄入</li>
                     </ul>
                 </div>
             </div>
@@ -778,7 +806,7 @@
             // 根据断食时长调整热量摄入
             let adjustedCalories = tdee;
             
-            if (currentFastingHours >= 24) {
+            if (currentFastingHours >= 16) {
                 // 长时间断食调整：减少总热量摄入
                 const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
                 adjustedCalories = Math.round(tdee * reductionFactor);
