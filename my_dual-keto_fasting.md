@@ -36,6 +36,12 @@
 - [Upper body attack 4x25 上身锻鍊](https://www.youtube.com/shorts/T-p4yeA4u7s)     
 - [Fat burning cardio workout 1 min repeat x10 心肺功能锻鍊](https://www.youtube.com/shorts/bUqdH9JQM64)     
 
+###  **壶铃训练 - 油管视频**
+
+- [Caroline Girvan](https://www.youtube.com/@CarolineGirvan)          
+- [15 Min FULL BODY KETTLEBELL WORKOUT at Home - Caroline Girvan](https://www.youtube.com/watch?v=VCcar3MA07w)        
+- [30 Min Full Body KETTLEBELL WORKOUT - Supersets](https://www.youtube.com/watch?v=9LIAhxQHmak)
+
 ## 生理反应
 
 进行断食或生酮饮食都会令甘油三酯值降低，高密度脂蛋白胆固醇值升高，同时低密度蛋白质胆固醇值亦会升高，但只要所有血脂比值是在正常范围内就没有问题的。    
