@@ -141,6 +141,7 @@
 - [Eat THIS to Burn Visceral Fat For WEIGHT LOSS and Stop Inflammation! - Dr. William Li](https://www.youtube.com/watch?v=nVi8lPlOYwc)      
 - [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
 - [过度依赖药物，忽视了生活方式干预](https://mp.weixin.qq.com/s/mHrttsafikhLj-jV0vreKA)        
+- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 
 ## 比值研究
 
