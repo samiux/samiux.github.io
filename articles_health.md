@@ -242,6 +242,7 @@
 - [生酮断食营养计算与科学依据 2](/fasting_ketones_bmr_02.md)    
 - [断食与生酮饮食混合应用研究](/fasting_keto.md)    
 - [70%脂肪生酮谁吃谁胖！真正7天掉10个的生酮3.0版本详解来了！（附一周食谱）](https://mp.weixin.qq.com/s/zzJierYmIWWMBtFbildrmg)     
+- [BEN BIKMAN - KETONES & PROTEIN shut down INFLAMMATION](https://www.youtube.com/watch?v=wKRBoCmc9wk&list=PLYNYbPuk1AIxvP-Qrcfw1I23WAeJyBdfR)       
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
