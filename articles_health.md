@@ -58,6 +58,7 @@
 - [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
 - [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
+- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 
 ### 脂肪肝
 
@@ -94,6 +95,7 @@
 - [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sean O'Mara - (Short video of the above)](https://www.youtube.com/watch?v=mVV-v_roZMI)    
 - [PAUL MASON - HEART ATTACK VICTIMS? …average LDL but: high sdLDL](https://www.youtube.com/watch?v=yE2kovYxuZg)    
 - [低密度脂蛋白是坏脂肪？千万不要说这种外行话！](https://mp.weixin.qq.com/s/IDE8wm-_uZHLMTE734i9Dg)     
+- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 
 ### 高血压
 
@@ -101,6 +103,7 @@
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
 - [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
+- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 
 ### 尿酸及痛风
 
