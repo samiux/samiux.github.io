@@ -30,6 +30,7 @@
 
 - [如何逆转胰岛素抵抗？方法都在这里了](https://mp.weixin.qq.com/s/JinZCwVomNu7d6iPPkqZhQ)    
 - [为什么经常发低血糖，体重却仍在增加？](https://mp.weixin.qq.com/s/lPvKmkYp9upwp9BWe3x9gA)     
+- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 
 ### 糖尿病
 
