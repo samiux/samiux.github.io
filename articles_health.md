@@ -96,6 +96,7 @@
 - [PAUL MASON - HEART ATTACK VICTIMS? …average LDL but: high sdLDL](https://www.youtube.com/watch?v=yE2kovYxuZg)    
 - [低密度脂蛋白是坏脂肪？千万不要说这种外行话！](https://mp.weixin.qq.com/s/IDE8wm-_uZHLMTE734i9Dg)     
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
+- [甘油三酯与小而密脂蛋白胆固醇 sdLDL-C 关联性研究](tg_sdldl-c.md)    
 
 ### 高血压
 
