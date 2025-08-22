@@ -46,7 +46,7 @@
 
 研究文献支持：
 
-· 一项发表在 Nutrition & Metabolism 上的研究发现，与低脂饮食相比，低碳水化合物生酮饮食在减轻体重的同时，虽然使LDL-C略有增加，但显著降低了sdLDL颗粒的数量，并改善了其他脂质指标。
+· 一项发表在 Nutrition & Metabolism 上的研究发现，与低脂饮食相比，低碳水化合物生酮饮食在减轻体重的同时，虽然使LDL-C略有增加，但显著降低了sdLDL颗粒的数量，并改善了其他脂质指标。    
 · Volek, J. S., & Phinney, S. D. (2012) 在他们的著作 The Art and Science of Low Carbohydrate Living 中详细综述了碳水化合物限制如何促使LDL亚型从模式B向模式A转化。
 
 ---
