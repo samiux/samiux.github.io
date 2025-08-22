@@ -62,6 +62,7 @@
 
 ### 脂肪肝
 
+- [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
 
@@ -166,7 +167,8 @@
 
 ## 断食研究杂谈
 
-- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
+- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)
+- [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
 - [细胞自噬与癌症](/autophagy_cancer.md)    
@@ -218,6 +220,7 @@
 ## 生酮相关
 
 - [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
+- [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [酮体](/ketones.md)  
 - [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)    
 - [生酮饮食与间歇断食对比分析](fasting_ketones_02.md)  
