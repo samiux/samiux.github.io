@@ -167,7 +167,7 @@
 
 ## 断食研究杂谈
 
-- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)
+- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
