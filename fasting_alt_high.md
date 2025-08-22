@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-好的，我们将根据最新的科学研究，详细阐述在进行断食或生酮饮食期间，出现谷丙转氨酶（ALT）轻度升高至38 U/L（国际单位）的可能原因。
+我们将根据最新的科学研究，详细阐述在进行断食或生酮饮食期间，出现谷丙转氨酶（ALT）轻度升高至38 U/L（国际单位）的可能原因。
 
 首先，需要明确的是，38 U/L的ALT水平仅略高于常规参考范围的上限（通常为30-33 U/L），这通常被认为是轻度升高。在绝大多数情况下，这并非由严重的肝细胞损伤引起，而更可能是身体在特定代谢状态下的生理性适应或良性调整的表现。
 
@@ -48,9 +48,9 @@ ALT不仅存在于肝细胞，也存在于骨骼肌细胞中。轻微的肌肉�
 
 关键研究文献参考：
 
-· Browning, J. D., Baker, J. A., Rogers, T., Davis, J., Satapati, S., & Burgess, S. C. (2011). Short-term weight loss and hepatic triglyceride reduction: evidence of a metabolic advantage with dietary carbohydrate restriction. American Journal of Clinical Nutrition, 93(5), 1048-1052.
-· Luukkonen, P. K., Dufour, S., Lyu, K., Zhang, X. M., Hakkarainen, A., Lehtimäki, T. E., ... & Yki-Järvinen, H. (2020). Effect of a ketogenic diet on hepatic steatosis and hepatic mitochondrial metabolism in nonalcoholic fatty liver disease. Proceedings of the National Academy of Sciences, 117(13), 7347-7354.
-· Newman, J. C., & Verdin, E. (2014). Ketone bodies as signaling metabolites. Trends in Endocrinology & Metabolism, 25(1), 42-52.
-· Anton, S. D., Moehl, K., Donahoo, W. T., Marosi, K., Lee, S. A., Mainous, A. G., ... & Mattson, M. P. (2018). Flipping the metabolic switch: understanding and applying the health benefits of fasting. Obesity, 26(2), 254-268.
+· Browning, J. D., Baker, J. A., Rogers, T., Davis, J., Satapati, S., & Burgess, S. C. (2011). Short-term weight loss and hepatic triglyceride reduction: evidence of a metabolic advantage with dietary carbohydrate restriction. American Journal of Clinical Nutrition, 93(5), 1048-1052.    
+· Luukkonen, P. K., Dufour, S., Lyu, K., Zhang, X. M., Hakkarainen, A., Lehtimäki, T. E., ... & Yki-Järvinen, H. (2020). Effect of a ketogenic diet on hepatic steatosis and hepatic mitochondrial metabolism in nonalcoholic fatty liver disease. Proceedings of the National Academy of Sciences, 117(13), 7347-7354.    
+· Newman, J. C., & Verdin, E. (2014). Ketone bodies as signaling metabolites. Trends in Endocrinology & Metabolism, 25(1), 42-52.    
+· Anton, S. D., Moehl, K., Donahoo, W. T., Marosi, K., Lee, S. A., Mainous, A. G., ... & Mattson, M. P. (2018). Flipping the metabolic switch: understanding and applying the health benefits of fasting. Obesity, 26(2), 254-268.    
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
