@@ -34,13 +34,13 @@
   · Hoogeveen et al. (2020) 在《JACC》的对比分析表明，TG/LDL-C与sdLDL-C/LDL-C的相关系数仅为0.54，在糖尿病群体中一致性更低（κ=0.31）【4】。    
   · Ai et al. (2019) 在《Diabetes Care》指出，当TG<2.3 mmol/L时，TG/LDL-C会低估sdLDL-C/LDL-C的异常风险；而TG>4.5 mmol/L时则高估风险【5】。    
 
-结论
+## 结论
 
 当前脂质科学支持通过TG水平定性推断sdLDL-C趋势，但拒绝简单的数学换算公式。临床评估动脉粥样硬化风险时，应通过垂直密度梯度超速离心法或核磁共振波谱法直接检测sdLDL-C，而非依赖替代比值。
 
 ---
 
-参考文献    
+## 参考文献    
 【1】Ivanova E, et al. J Lipid Res. 2017;58(10):2174-2181.    
 【2】Srisawasdi P, et al. Clin Chim Acta. 2016;463:97-102.    
 【3】Hirayama S, et al. Atherosclerosis. 2018;278:190-196.    
