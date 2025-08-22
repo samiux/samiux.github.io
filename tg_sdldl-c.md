@@ -40,12 +40,12 @@
 
 ---
 
-参考文献
-【1】Ivanova E, et al. J Lipid Res. 2017;58(10):2174-2181.
-【2】Srisawasdi P, et al. Clin Chim Acta. 2016;463:97-102.
-【3】Hirayama S, et al. Atherosclerosis. 2018;278:190-196.
-【4】Hoogeveen RC, et al. J Am Coll Cardiol. 2020;75(14):1642-1654.
-【5】Ai M, et al. Diabetes Care. 2019;42(8):1489-1493.
+参考文献    
+【1】Ivanova E, et al. J Lipid Res. 2017;58(10):2174-2181.    
+【2】Srisawasdi P, et al. Clin Chim Acta. 2016;463:97-102.    
+【3】Hirayama S, et al. Atherosclerosis. 2018;278:190-196.    
+【4】Hoogeveen RC, et al. J Am Coll Cardiol. 2020;75(14):1642-1654.    
+【5】Ai M, et al. Diabetes Care. 2019;42(8):1489-1493.    
 
 （注：所有数值单位均为mmol/L，换算系数：TG(mg/dL)×0.0259=mmol/L，LDL-C(mg/dL)×0.0259=mmol/L）
 
