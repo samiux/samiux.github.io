@@ -67,7 +67,7 @@
 
 ### 血脂及心血管疾病
 
-- [断食生酮与胆固醇及其升高详解](/fasting_tc_hihg.md)    
+- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)    
 - [胆固醇的生理功能与健康管理](/tc_function.md)   
 - [低密度脂蛋白胆固醇（LDL-C）被认为是有害的吗？](/ldl-c.md)    
@@ -166,7 +166,7 @@
 
 ## 断食研究杂谈
 
-- [断食生酮与胆固醇及其升高详解](/fasting_tc_hihg.md)    
+- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
 - [间歇性断食原理 -- 冯子新博士](/fasting_theory.md)   
 - [细胞自噬与癌症](/autophagy_cancer.md)    
@@ -217,7 +217,7 @@
 
 ## 生酮相关
 
-- [断食生酮与胆固醇及其升高详解](/fasting_tc_hihg.md)    
+- [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [酮体](/ketones.md)  
 - [酮饮食与间歇性禁食：初学者指南](fasting_ketones.md)    
 - [生酮饮食与间歇断食对比分析](fasting_ketones_02.md)  
