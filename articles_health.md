@@ -129,6 +129,7 @@
 - [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
 - [[Memo]抗性淀粉的实验和研究](https://mp.weixin.qq.com/s/2a72ravLwBK0BOZkvVYJsw)      
 - [肠道菌群失衡，是胰岛素抵抗的幕后推手！](https://mp.weixin.qq.com/s/Wd8tIcfkR6djYuplOiaQyw)       
+- [草本植物油是如何伤害大脑的？](http://www.chinalowcarb.com/vegetable-oil-and-brain/)    
 
 ### 减肥及其他
 
@@ -150,6 +151,7 @@
 - [过度依赖药物，忽视了生活方式干预](https://mp.weixin.qq.com/s/mHrttsafikhLj-jV0vreKA)        
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 - [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
+- [草本植物油是如何伤害大脑的？](http://www.chinalowcarb.com/vegetable-oil-and-brain/)    
 
 ## 比值研究
 
