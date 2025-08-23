@@ -149,6 +149,7 @@
 - [BEN BIKMAN - LOW CARB DIET? …high SAT FAT consumption =NO INSULIN RESISTANCE](https://www.youtube.com/watch?v=6Xk7PStsjHU)    
 - [过度依赖药物，忽视了生活方式干预](https://mp.weixin.qq.com/s/mHrttsafikhLj-jV0vreKA)        
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
+- [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
 
 ## 比值研究
 
@@ -216,6 +217,7 @@
 - [高血压与糖类摄取关系及断食生酮研究](/fasting_hypertension.md)    
 - [低碳饮食地图](/low-carbs-diet.md)    
 - [断食的好处多多，不只是减肥](https://mp.weixin.qq.com/s/dXoADBauXBUp-R0h8wJdZQ)      
+- [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
 
 ## 生酮相关
 
@@ -251,6 +253,7 @@
 - [断食与生酮饮食混合应用研究](/fasting_keto.md)    
 - [70%脂肪生酮谁吃谁胖！真正7天掉10个的生酮3.0版本详解来了！（附一周食谱）](https://mp.weixin.qq.com/s/zzJierYmIWWMBtFbildrmg)     
 - [BEN BIKMAN - KETONES & PROTEIN shut down INFLAMMATION](https://www.youtube.com/watch?v=wKRBoCmc9wk&list=PLYNYbPuk1AIxvP-Qrcfw1I23WAeJyBdfR)       
+- [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
