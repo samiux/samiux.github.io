@@ -32,6 +32,7 @@
 - [为什么经常发低血糖，体重却仍在增加？](https://mp.weixin.qq.com/s/lPvKmkYp9upwp9BWe3x9gA)     
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)      
 - [糖尿病类型及前期科学阐述](/diabetes_all.md)     
+- [不同人群血糖波动及标准值详解](/blood_glucose_var.md)    
 
 ### 糖尿病
 
@@ -61,6 +62,7 @@
 - [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 - [糖尿病类型及前期科学阐述](/diabetes_all.md)     
+- [不同人群血糖波动及标准值详解](/blood_glucose_var.md)    
 
 ### 脂肪肝
 
