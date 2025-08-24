@@ -228,6 +228,7 @@
 - [低碳饮食地图](/low-carbs-diet.md)    
 - [断食的好处多多，不只是减肥](https://mp.weixin.qq.com/s/dXoADBauXBUp-R0h8wJdZQ)      
 - [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
+- [断食生酮原理与健康益处详解](/fasting_ketones_health.md)    
 
 ## 生酮相关
 
@@ -265,6 +266,7 @@
 - [70%脂肪生酮谁吃谁胖！真正7天掉10个的生酮3.0版本详解来了！（附一周食谱）](https://mp.weixin.qq.com/s/zzJierYmIWWMBtFbildrmg)     
 - [BEN BIKMAN - KETONES & PROTEIN shut down INFLAMMATION](https://www.youtube.com/watch?v=wKRBoCmc9wk&list=PLYNYbPuk1AIxvP-Qrcfw1I23WAeJyBdfR)       
 - [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
+- [断食生酮原理与健康益处详解](/fasting_ketones_health.md)    
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
