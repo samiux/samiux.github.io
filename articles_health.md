@@ -30,7 +30,8 @@
 
 - [如何逆转胰岛素抵抗？方法都在这里了](https://mp.weixin.qq.com/s/JinZCwVomNu7d6iPPkqZhQ)    
 - [为什么经常发低血糖，体重却仍在增加？](https://mp.weixin.qq.com/s/lPvKmkYp9upwp9BWe3x9gA)     
-- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
+- [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)      
+- [糖尿病类型及前期科学阐述](/diabetes_all.md)     
 
 ### 糖尿病
 
@@ -59,6 +60,7 @@
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
 - [这样补充维生素D 可缓解高血糖](https://mp.weixin.qq.com/s/FUu5vjFJ68qETDKLqjO26Q)       
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
+- [糖尿病类型及前期科学阐述](/diabetes_all.md)     
 
 ### 脂肪肝
 
