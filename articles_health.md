@@ -241,6 +241,7 @@
 - [断食科学解析与生酮减脂机制](/fasting_howto.md)    
 - [断食生酮代谢机制与酮体分析](/fasting_ketones_03.md)    
 - [GKI 血糖血酮比值的临床应用分析](gki.md)    
+- [葡萄糖酮体指数GKI科学阐释](/gki_02.md)    
 - [血酮数值与葡萄糖酮症指数解读](/ketone_gki.md)     
 - [奇亚籽对生酮饮食效果影响分析](/fasting_chia_seed.md)    
 - [断食科学中丙酮与血酮的换算方法](/fasting_acetone.md)    
