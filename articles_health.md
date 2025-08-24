@@ -158,6 +158,7 @@
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 - [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
 - [草本植物油是如何伤害大脑的？](http://www.chinalowcarb.com/vegetable-oil-and-brain/)    
+- [阿兹海默症与糖尿病关系及预防策略](/ad.md)    
 
 ## 比值研究
 
