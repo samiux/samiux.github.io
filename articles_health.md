@@ -11,6 +11,7 @@
 - [生酮断食营养计算器](/keto_fasting_calculator.html)    
 - [血脂指数计算器](/blood_lipids_calculator.html)    
 - [双酮断食营养计算器](/dual_keto_fasting_calculator.html)     
+- [亚洲人体脂率计算器](/body_fat_calculator.html)    
 
 ## 健康研究杂谈
 
