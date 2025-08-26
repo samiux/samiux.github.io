@@ -336,4 +336,10 @@
 - [Upper body attack 4x25](https://www.youtube.com/shorts/T-p4yeA4u7s)     
 - [Fat burning cardio workout 1 min repeat x10](https://www.youtube.com/shorts/bUqdH9JQM64)     
 
+## Workouts - Caroline Girvan
+
+- [Caroline Girvan](https://www.youtube.com/@CarolineGirvan)          
+- [15 Min FULL BODY KETTLEBELL WORKOUT at Home - Caroline Girvan](https://www.youtube.com/watch?v=VCcar3MA07w)        
+- [30 Min Full Body KETTLEBELL WORKOUT - Supersets](https://www.youtube.com/watch?v=9LIAhxQHmak)         
+    
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
