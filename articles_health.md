@@ -4,6 +4,7 @@
 
 ## 计算器
 
+- [健康计算器合集](/all-in-one_calculator.html)    
 - [代谢健康指标计算器](/metabolism_index_calculator.html)    
 - [代谢健康指标计算器 (增强版)](/metabolism_index_calculator_plus.html)
 - [血糖酮指数(GKI)计算器](/gki_calculator.html)     
