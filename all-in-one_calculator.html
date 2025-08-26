@@ -1,0 +1,1622 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>健康计算器合集</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #ff7e5f;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --success: #28a745;
+            --warning: #ffc107;
+            --danger: #dc3545;
+            --card-bg: rgba(255, 255, 255, 0.97);
+            --shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            --keto-green: #27ae60;
+            --keto-purple: #8e44ad;
+            --fat-color: #f39c12;
+            --protein-color: #3498db;
+            --carbs-color: #e74c3c;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #0d1b4c, #9a1a1a, #0d1b4c);
+            color: #333;
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.98);
+            border-radius: 20px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 25px;
+            text-align: center;
+            position: relative;
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+        
+        .tabs {
+            display: flex;
+            background: var(--primary);
+            overflow-x: auto;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .tab {
+            padding: 18px 25px;
+            background: var(--primary);
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s;
+            white-space: nowrap;
+            font-size: 1.05rem;
+            border-right: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .tab.active {
+            background: var(--secondary);
+            font-weight: bold;
+        }
+        
+        .tab:hover {
+            background: #23338d;
+        }
+        
+        .tab-content {
+            display: none;
+            padding: 30px;
+            animation: fadeIn 0.5s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            box-shadow: var(--shadow);
+            padding: 30px;
+            margin-bottom: 30px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+        }
+        
+        .card-title {
+            color: var(--primary);
+            font-size: 1.8rem;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .card-title i {
+            font-size: 1.6rem;
+            color: var(--secondary);
+        }
+        
+        .input-group {
+            margin-bottom: 22px;
+            position: relative;
+        }
+        
+        .input-group label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: var(--dark);
+            font-size: 1.05rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .input-group input, .input-group select, .input-group textarea {
+            width: 100%;
+            padding: 14px 18px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 1.05rem;
+            transition: all 0.3s;
+            background: #fdfdfd;
+        }
+        
+        .input-group input:focus, .input-group select:focus, .input-group textarea:focus {
+            border-color: var(--primary);
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(26, 42, 108, 0.15);
+            background: white;
+        }
+        
+        .input-group .unit {
+            position: absolute;
+            right: 15px;
+            top: 42px;
+            color: #777;
+            font-size: 0.95rem;
+        }
+        
+        .input-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .input-box {
+            flex: 1;
+            min-width: 250px;
+        }
+        
+        .btn {
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            color: white;
+            border: none;
+            padding: 16px 32px;
+            font-size: 1.15rem;
+            font-weight: 600;
+            border-radius: 10px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin: 30px auto 0;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            width: 100%;
+            max-width: 400px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+            background: linear-gradient(to right, #23338d, #c62a2a);
+        }
+        
+        .btn:active {
+            transform: translateY(1px);
+        }
+        
+        .results-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 22px;
+            margin-top: 30px;
+        }
+        
+        .result-card {
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            border-radius: 12px;
+            padding: 22px;
+            text-align: center;
+            box-shadow: 0 5px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--primary);
+            transition: transform 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .result-card:hover {
+            transform: scale(1.03);
+        }
+        
+        .result-card h3 {
+            font-size: 1.15rem;
+            color: var(--primary);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .result-value {
+            font-size: 2.2rem;
+            font-weight: 800;
+            color: var(--secondary);
+            margin: 10px 0;
+            text-shadow: 0 2px 3px rgba(0,0,0,0.1);
+        }
+        
+        .result-interpretation {
+            font-size: 0.95rem;
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        
+        .normal {
+            background-color: rgba(40, 167, 69, 0.15);
+            color: #218838;
+        }
+        
+        .warning {
+            background-color: rgba(255, 193, 7, 0.15);
+            color: #e0a800;
+        }
+        
+        .danger {
+            background-color: rgba(220, 53, 69, 0.15);
+            color: #c82333;
+        }
+        
+        .gender-selection {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .gender-option {
+            flex: 1;
+            text-align: center;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .gender-option:hover {
+            background-color: #f5f5f5;
+        }
+        
+        .gender-option.selected {
+            border-color: var(--primary);
+            background-color: #eef4ff;
+        }
+        
+        .gender-option i {
+            font-size: 24px;
+            margin-bottom: 8px;
+            display: block;
+            color: #777;
+        }
+        
+        .gender-option.selected i {
+            color: var(--primary);
+        }
+        
+        .fasting-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 15px;
+            margin: 25px 0;
+        }
+        
+        .fasting-option {
+            background: white;
+            border: 2px solid #e1e8ed;
+            border-radius: 14px;
+            padding: 18px 12px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .fasting-option:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+        }
+        
+        .fasting-option.selected {
+            border-color: var(--success);
+            background: rgba(46, 204, 113, 0.1);
+            transform: translateY(-5px) scale(1.03);
+            box-shadow: 0 8px 20px rgba(46, 204, 113, 0.2);
+        }
+        
+        .fasting-option h4 {
+            font-size: 1.15rem;
+            margin-bottom: 6px;
+            color: var(--dark);
+            font-weight: 700;
+        }
+        
+        .fasting-option p {
+            font-size: 0.95rem;
+            color: #7f8c8d;
+        }
+        
+        .macro-chart {
+            display: flex;
+            height: 45px;
+            border-radius: 22px;
+            overflow: hidden;
+            margin: 35px 0;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .macro-fat {
+            background: var(--fat-color);
+            height: 100%;
+        }
+        
+        .macro-protein {
+            background: var(--protein-color);
+            height: 100%;
+        }
+        
+        .macro-carbs {
+            background: var(--carbs-color);
+            height: 100%;
+        }
+        
+        .macro-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+        
+        .macro-label {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        
+        .macro-color {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            margin-bottom: 8px;
+        }
+        
+        .color-fat {
+            background: var(--fat-color);
+        }
+        
+        .color-protein {
+            background: var(--protein-color);
+        }
+        
+        .color-carbs {
+            background: var(--carbs-color);
+        }
+        
+        .note {
+            background: #fff8e1;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 25px;
+            border-left: 5px solid var(--warning);
+            font-size: 1.05rem;
+        }
+        
+        .note h3 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+            color: #856404;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 25px;
+            color: rgba(0,0,0,0.6);
+            font-size: 0.95rem;
+            margin-top: 20px;
+            background: #f8f9fa;
+            border-top: 1px solid #dee2e6;
+        }
+        
+        @media (max-width: 768px) {
+            .tabs {
+                flex-direction: column;
+            }
+            
+            .tab {
+                border-right: none;
+                border-bottom: 1px solid rgba(255,255,255,0.1);
+            }
+            
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            .card-title {
+                font-size: 1.6rem;
+            }
+            
+            .input-row {
+                flex-direction: column;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+            
+            .result-value {
+                font-size: 1.8rem;
+            }
+            
+            .tab {
+                padding: 15px;
+                font-size: 0.95rem;
+            }
+            
+            .tab-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heartbeat"></i> 健康计算器合集</h1>
+            <p>一站式健康评估工具集，基于最新医学研究</p>
+        </header>
+        
+        <div class="tabs">
+            <div class="tab active" data-tab="blood-lipids"><i class="fas fa-vial"></i> 血脂指数</div>
+            <div class="tab" data-tab="body-fat"><i class="fas fa-weight"></i> 体脂率</div>
+            <div class="tab" data-tab="keto-fasting"><i class="fas fa-apple-alt"></i> 生酮断食</div>
+            <div class="tab" data-tab="dual-keto"><i class="fas fa-fire"></i> 双酮断食</div>
+            <div class="tab" data-tab="gki"><i class="fas fa-calculator"></i> GKI计算器</div>
+            <div class="tab" data-tab="metabolism"><i class="fas fa-running"></i> 代谢健康</div>
+        </div>
+        
+        <!-- 血脂指数计算器 -->
+        <div class="tab-content active" id="blood-lipids-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-vial"></i> 血脂指数计算器</h2>
+                
+                <div class="input-group">
+                    <div class="input-row">
+                        <div class="input-box">
+                            <label for="tc"><i class="fas fa-vial"></i> 总胆固醇 (TC, mmol/L)</label>
+                            <input type="number" id="tc" step="0.01" placeholder="例如: 5.20" required>
+                        </div>
+                        <div class="input-box">
+                            <label for="hdl"><i class="fas fa-vial"></i> 高密度脂蛋白 (HDL-C, mmol/L)</label>
+                            <input type="number" id="hdl" step="0.01" placeholder="例如: 1.55" required>
+                        </div>
+                    </div>
+                    
+                    <div class="input-row">
+                        <div class="input-box">
+                            <label for="tg"><i class="fas fa-vial"></i> 甘油三酯 (TG, mmol/L)</label>
+                            <input type="number" id="tg-lipid" step="0.01" placeholder="例如: 1.70" required>
+                        </div>
+                        <div class="input-box">
+                            <label for="ldl"><i class="fas fa-vial"></i> 低密度脂蛋白 (LDL-C, mmol/L)</label>
+                            <input type="number" id="ldl" step="0.01" placeholder="例如: 3.10" required>
+                        </div>
+                    </div>
+                    
+                    <div class="input-row">
+                        <div class="input-box">
+                            <label for="apoA1"><i class="fas fa-vial"></i> 载脂蛋白A1 (ApoA1, g/L)</label>
+                            <input type="number" id="apoA1" step="0.01" placeholder="例如: 1.45 (可选)">
+                        </div>
+                        <div class="input-box">
+                            <label for="apoB"><i class="fas fa-vial"></i> 载脂蛋白B (ApoB, g/L)</label>
+                            <input type="number" id="apoB" step="0.01" placeholder="例如: 0.95 (可选)">
+                        </div>
+                    </div>
+                    
+                    <button class="btn" id="calculateLipidBtn">
+                        <i class="fas fa-calculator"></i> 计算所有指数
+                    </button>
+                </div>
+                
+                <div class="results-container" id="lipidResultsGrid">
+                    <div class="result-card">
+                        <div class="result-title"><i class="fas fa-divide"></i> TC/HDL-C 比值</div>
+                        <div class="result-value">-</div>
+                        <div class="result-interpretation">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <div class="result-title"><i class="fas fa-divide"></i> TG/HDL-C 比值</div>
+                        <div class="result-value">-</div>
+                        <div class="result-interpretation">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <div class="result-title"><i class="fas fa-divide"></i> LDL-C/HDL-C 比值</div>
+                        <div class="result-value">-</div>
+                        <div class="result-interpretation">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <div class="result-title"><i class="fas fa-calculator"></i> 动脉硬化指数 (AI)</div>
+                        <div class="result-value">-</div>
+                        <div class="result-interpretation">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <div class="result-title"><i class="fas fa-divide"></i> Non-HDL-C/HDL-C</div>
+                        <div class="result-value">-</div>
+                        <div class="result-interpretation">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <div class="result-title"><i class="fas fa-divide"></i> ApoA1/ApoB 比值</div>
+                        <div class="result-value">-</div>
+                        <div class="result-interpretation">等待计算</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 体脂率计算器 -->
+        <div class="tab-content" id="body-fat-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-weight"></i> 亚洲人体脂率计算器</h2>
+                
+                <div class="gender-selection">
+                    <div class="gender-option" id="male-option">
+                        <i>♂</i>
+                        <span>男性</span>
+                    </div>
+                    <div class="gender-option selected" id="female-option">
+                        <i>♀</i>
+                        <span>女性</span>
+                    </div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="waist"><i class="fas fa-ruler"></i> 腰围 (cm)</label>
+                    <input type="number" id="waist" placeholder="请输入腰围" min="1" step="0.1">
+                </div>
+                
+                <div class="input-group">
+                    <label for="weight"><i class="fas fa-weight-scale"></i> 体重 (kg)</label>
+                    <input type="number" id="weight" placeholder="请输入体重" min="1" step="0.1">
+                </div>
+                
+                <button class="btn" id="calculateBodyFatBtn">
+                    <i class="fas fa-calculator"></i> 计算体脂率
+                </button>
+                
+                <div class="results-container">
+                    <div class="result-card">
+                        <h3><i class="fas fa-percentage"></i> 体脂率</h3>
+                        <div class="result-value" id="body-fat-result">-</div>
+                        <div class="result-interpretation" id="body-fat-interpretation">等待计算</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 生酮断食计算器 -->
+        <div class="tab-content" id="keto-fasting-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-apple-alt"></i> 生酮断食营养计算器</h2>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="kf-gender"><i class="fas fa-venus-mars"></i> 性别</label>
+                            <select id="kf-gender">
+                                <option value="male">男性</option>
+                                <option value="female">女性</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="kf-age"><i class="fas fa-birthday-cake"></i> 年龄 (岁)</label>
+                            <input type="number" id="kf-age" min="18" max="100" placeholder="例如: 35">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="kf-weight"><i class="fas fa-weight-scale"></i> 体重 (kg)</label>
+                            <input type="number" id="kf-weight" min="30" max="200" placeholder="例如: 75">
+                        </div>
+                    </div>
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="kf-height"><i class="fas fa-ruler-vertical"></i> 身高 (cm)</label>
+                            <input type="number" id="kf-height" min="100" max="250" placeholder="例如: 175">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="kf-activity"><i class="fas fa-person-running"></i> 活动水平</label>
+                    <select id="kf-activity">
+                        <option value="1.2">久坐（很少或没有运动）</option>
+                        <option value="1.375">轻度活动（每周运动1-3天）</option>
+                        <option value="1.55" selected>中度活动（每周运动3-5天）</option>
+                        <option value="1.725">高度活动（每周运动6-7天）</option>
+                        <option value="1.9">非常活跃（体力劳动或高强度训练）</option>
+                    </select>
+                </div>
+                
+                <div class="input-group">
+                    <label><i class="fas fa-clock"></i> 断食计划</label>
+                    <p>选择您的断食时长：</p>
+                    
+                    <div class="fasting-options">
+                        <div class="fasting-option" data-hours="12">
+                            <h4>12:12</h4>
+                            <p>12小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="13">
+                            <h4>13:11</h4>
+                            <p>13小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="14">
+                            <h4>14:10</h4>
+                            <p>14小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="15">
+                            <h4>15:9</h4>
+                            <p>15小时断食</p>
+                        </div>
+                        <div class="fasting-option selected" data-hours="16">
+                            <h4>16:8</h4>
+                            <p>16小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="17">
+                            <h4>17:7</h4>
+                            <p>17小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="18">
+                            <h4>18:6</h4>
+                            <p>18小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="19">
+                            <h4>19:5</h4>
+                            <p>19小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="20">
+                            <h4>20:4</h4>
+                            <p>20小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="21">
+                            <h4>21:3</h4>
+                            <p>21小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="22">
+                            <h4>22:2</h4>
+                            <p>22小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="23">
+                            <h4>23:1</h4>
+                            <p>23小时断食</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="btn" id="calculateKetoFastingBtn">
+                    <i class="fas fa-fire"></i> 计算基础代谢率及生酮营养需求
+                </button>
+                
+                <div class="results-container">
+                    <div class="result-card">
+                        <h3><i class="fas fa-burn"></i> 基础代谢率</h3>
+                        <div class="result-value" id="kf-bmr">-</div>
+                        <div class="result-interpretation">KCal/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-fire"></i> 每日总能量消耗</h3>
+                        <div class="result-value" id="kf-tdee">-</div>
+                        <div class="result-interpretation">KCal/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-bacon"></i> 脂肪</h3>
+                        <div class="result-value" id="kf-fat">-</div>
+                        <div class="result-interpretation">克/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-drumstick-bite"></i> 蛋白质</h3>
+                        <div class="result-value" id="kf-protein">-</div>
+                        <div class="result-interpretation">克/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-bread-slice"></i> 碳水化合物</h3>
+                        <div class="result-value" id="kf-carbs">-</div>
+                        <div class="result-interpretation">克/天</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 双酮断食计算器 -->
+        <div class="tab-content" id="dual-keto-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-fire"></i> 双酮断食营养计算器</h2>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="dk-gender"><i class="fas fa-venus-mars"></i> 性别</label>
+                            <select id="dk-gender">
+                                <option value="male">男性</option>
+                                <option value="female">女性</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="dk-age"><i class="fas fa-birthday-cake"></i> 年龄 (岁)</label>
+                            <input type="number" id="dk-age" min="18" max="100" placeholder="例如: 35">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="dk-weight"><i class="fas fa-weight-scale"></i> 体重 (kg)</label>
+                            <input type="number" id="dk-weight" min="30" max="200" placeholder="例如: 75">
+                        </div>
+                    </div>
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="dk-height"><i class="fas fa-ruler-vertical"></i> 身高 (cm)</label>
+                            <input type="number" id="dk-height" min="100" max="250" placeholder="例如: 175">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="dk-activity"><i class="fas fa-person-running"></i> 活动水平</label>
+                    <select id="dk-activity">
+                        <option value="1.2">久坐（很少或没有运动）</option>
+                        <option value="1.375">轻度活动（每周运动1-3天）</option>
+                        <option value="1.55" selected>中度活动（每周运动3-5天）</option>
+                        <option value="1.725">高度活动（每周运动6-7天）</option>
+                        <option value="1.9">非常活跃（体力劳动或高强度训练）</option>
+                    </select>
+                </div>
+                
+                <div class="input-group">
+                    <label><i class="fas fa-clock"></i> 断食计划</label>
+                    <p>选择您的断食时长：</p>
+                    
+                    <div class="fasting-options">
+                        <div class="fasting-option" data-hours="12">
+                            <h4>12:12</h4>
+                            <p>12小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="13">
+                            <h4>13:11</h4>
+                            <p>13小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="14">
+                            <h4>14:10</h4>
+                            <p>14小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="15">
+                            <h4>15:9</h4>
+                            <p>15小时断食</p>
+                        </div>
+                        <div class="fasting-option selected" data-hours="16">
+                            <h4>16:8</h4>
+                            <p>16小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="17">
+                            <h4>17:7</h4>
+                            <p>17小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="18">
+                            <h4>18:6</h4>
+                            <p>18小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="19">
+                            <h4>19:5</h4>
+                            <p>19小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="20">
+                            <h4>20:4</h4>
+                            <p>20小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="21">
+                            <h4>21:3</h4>
+                            <p>21小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="22">
+                            <h4>22:2</h4>
+                            <p>22小时断食</p>
+                        </div>
+                        <div class="fasting-option" data-hours="23">
+                            <h4>23:1</h4>
+                            <p>23小时断食</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="btn" id="calculateDualKetoBtn">
+                    <i class="fas fa-fire"></i> 计算基础代谢率及双酮营养需求
+                </button>
+                
+                <div class="results-container">
+                    <div class="result-card">
+                        <h3><i class="fas fa-burn"></i> 基础代谢率</h3>
+                        <div class="result-value" id="dk-bmr">-</div>
+                        <div class="result-interpretation">KCal/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-fire"></i> 每日总能量消耗</h3>
+                        <div class="result-value" id="dk-tdee">-</div>
+                        <div class="result-interpretation">KCal/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-bacon"></i> 脂肪</h3>
+                        <div class="result-value" id="dk-fat">-</div>
+                        <div class="result-interpretation">克/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-drumstick-bite"></i> 蛋白质</h3>
+                        <div class="result-value" id="dk-protein">-</div>
+                        <div class="result-interpretation">克/天</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-bread-slice"></i> 碳水化合物</h3>
+                        <div class="result-value" id="dk-carbs">-</div>
+                        <div class="result-interpretation">克/天</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- GKI计算器 -->
+        <div class="tab-content" id="gki-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-calculator"></i> 血糖酮指数(GKI)计算器</h2>
+                
+                <div class="input-group">
+                    <label for="gki-glucose"><i class="fas fa-tint"></i> 血糖值 (mmol/L)</label>
+                    <input type="number" step="0.1" id="gki-glucose" placeholder="例如: 5.2" min="0" inputmode="decimal">
+                </div>
+                
+                <div class="input-group">
+                    <label for="gki-ketone"><i class="fas fa-flask"></i> 血酮值 (mmol/L)</label>
+                    <input type="number" step="0.1" id="gki-ketone" placeholder="例如: 1.8" min="0" inputmode="decimal">
+                </div>
+                
+                <div class="input-group">
+                    <label for="gki-fasting"><i class="fas fa-clock"></i> 断食时长 (小时)</label>
+                    <input type="number" step="0.5" id="gki-fasting" placeholder="例如: 16.5" min="0" inputmode="decimal">
+                </div>
+                
+                <div class="input-group">
+                    <label for="gki-datetime"><i class="fas fa-calendar-alt"></i> 日期和时间</label>
+                    <input type="datetime-local" id="gki-datetime">
+                </div>
+                
+                <button class="btn" id="calculateGkiBtn">
+                    <i class="fas fa-calculator"></i> 计算GKI
+                </button>
+                
+                <div class="results-container">
+                    <div class="result-card">
+                        <h3><i class="fas fa-calculator"></i> GKI值</h3>
+                        <div class="result-value" id="gki-result">-</div>
+                        <div class="result-interpretation" id="gki-interpretation">等待计算</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 代谢健康计算器 -->
+        <div class="tab-content" id="metabolism-content">
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-running"></i> 代谢健康指标计算器</h2>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-tg"><i class="fas fa-vial"></i> 甘油三酯 (TG)</label>
+                            <input type="number" id="m-tg" step="0.01" min="0.1" placeholder="例如: 1.5">
+                            <span class="unit">mmol/L</span>
+                        </div>
+                    </div>
+                    
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-hdl"><i class="fas fa-vial"></i> 高密度脂蛋白 (HDL-C)</label>
+                            <input type="number" id="m-hdl" step="0.01" min="0.1" placeholder="例如: 1.2">
+                            <span class="unit">mmol/L</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-ldl"><i class="fas fa-vial"></i> 低密度脂蛋白 (LDL-C)</label>
+                            <input type="number" id="m-ldl" step="0.01" min="0.1" placeholder="例如: 2.8">
+                            <span class="unit">mmol/L</span>
+                        </div>
+                    </div>
+                    
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-glucose"><i class="fas fa-tint"></i> 空腹血糖</label>
+                            <input type="number" id="m-glucose" step="0.01" min="1" placeholder="例如: 5.0">
+                            <span class="unit">mmol/L</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-ketone"><i class="fas fa-tint"></i> 血酮</label>
+                            <input type="number" id="m-ketone" step="0.01" min="0.1" placeholder="例如: 0.5">
+                            <span class="unit">mmol/L</span>
+                        </div>
+                    </div>
+                    
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-height"><i class="fas fa-ruler-vertical"></i> 身高</label>
+                            <input type="number" id="m-height" min="100" placeholder="例如: 170">
+                            <span class="unit">cm</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-row">
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-weight"><i class="fas fa-weight"></i> 体重</label>
+                            <input type="number" id="m-weight" step="0.1" min="30" placeholder="例如: 70">
+                            <span class="unit">kg</span>
+                        </div>
+                    </div>
+                    
+                    <div class="input-box">
+                        <div class="input-group">
+                            <label for="m-waist"><i class="fas fa-ruler"></i> 腰围</label>
+                            <input type="number" id="m-waist" min="50" placeholder="例如: 85">
+                            <span class="unit">cm</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="btn" id="calculateMetabolismBtn">
+                    <i class="fas fa-calculator"></i> 计算所有指标
+                </button>
+                
+                <div class="results-container">
+                    <div class="result-card">
+                        <h3><i class="fas fa-calculator"></i> TyG 指数</h3>
+                        <div class="result-value" id="tyg-index">-</div>
+                        <div class="result-interpretation" id="tyg-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-heartbeat"></i> TyG-BMI</h3>
+                        <div class="result-value" id="tyg-bmi">-</div>
+                        <div class="result-interpretation" id="tyg-bmi-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-weight"></i> TyG-WWI</h3>
+                        <div class="result-value" id="tyg-wwi">-</div>
+                        <div class="result-interpretation" id="tyg-wwi-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-ruler-combined"></i> TyG-WC</h3>
+                        <div class="result-value" id="tyg-wc">-</div>
+                        <div class="result-interpretation" id="tyg-wc-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-arrows-alt-v"></i> TyG-WHtR</h3>
+                        <div class="result-value" id="tyg-whtr">-</div>
+                        <div class="result-interpretation" id="tyg-whtr-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-vial"></i> TG/HDL-C</h3>
+                        <div class="result-value" id="tg-hdl">-</div>
+                        <div class="result-interpretation" id="tg-hdl-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-vial"></i> TG/LDL-C</h3>
+                        <div class="result-value" id="tg-ldl">-</div>
+                        <div class="result-interpretation" id="tg-ldl-interpret">等待计算</div>
+                    </div>
+                    
+                    <div class="result-card">
+                        <h3><i class="fas fa-balance-scale"></i> 葡萄糖酮指数 (GKI)</h3>
+                        <div class="result-value" id="gki-metabolism">-</div>
+                        <div class="result-interpretation" id="gki-interpret">等待计算</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>健康计算器合集 &copy; 2025 | 基于最新科学研究 | 数据仅供参考，不构成医疗建议</p>
+        </div>
+    </div>
+
+    <script>
+        // 设置当前日期时间
+        function setCurrentDateTime() {
+            const now = new Date();
+            const timezoneOffset = now.getTimezoneOffset() * 60000;
+            const localISOTime = (new Date(now - timezoneOffset)).toISOString().slice(0, 16);
+            document.getElementById('gki-datetime').value = localISOTime;
+        }
+        
+        // 标签切换功能
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                // 移除所有活动标签和内容
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                
+                // 添加活动类到当前标签
+                tab.classList.add('active');
+                const tabContentId = tab.getAttribute('data-tab') + '-content';
+                document.getElementById(tabContentId).classList.add('active');
+            });
+        });
+        
+        // 设置当前日期时间
+        document.addEventListener('DOMContentLoaded', function() {
+            setCurrentDateTime();
+            
+            // 默认选择女性
+            selectGender('female');
+            
+            // 设置断食选项事件
+            setupFastingOptions();
+            
+            // 绑定计算按钮事件
+            document.getElementById('calculateLipidBtn').addEventListener('click', calculateLipid);
+            document.getElementById('calculateBodyFatBtn').addEventListener('click', calculateBodyFat);
+            document.getElementById('calculateKetoFastingBtn').addEventListener('click', calculateKetoFasting);
+            document.getElementById('calculateDualKetoBtn').addEventListener('click', calculateDualKeto);
+            document.getElementById('calculateGkiBtn').addEventListener('click', calculateGki);
+            document.getElementById('calculateMetabolismBtn').addEventListener('click', calculateMetabolism);
+        });
+        
+        // 性别选择功能
+        function selectGender(gender) {
+            document.getElementById('male-option').classList.remove('selected');
+            document.getElementById('female-option').classList.remove('selected');
+            document.getElementById(gender + '-option').classList.add('selected');
+        }
+        
+        // 设置断食选项事件
+        function setupFastingOptions() {
+            const fastingOptions = document.querySelectorAll('.fasting-option');
+            fastingOptions.forEach(option => {
+                option.addEventListener('click', function() {
+                    const parentCard = this.closest('.card');
+                    const options = parentCard.querySelectorAll('.fasting-option');
+                    options.forEach(o => o.classList.remove('selected'));
+                    this.classList.add('selected');
+                });
+            });
+        }
+        
+        // 血脂指数计算
+        function calculateLipid() {
+            const tc = parseFloat(document.getElementById('tc').value) || 0;
+            const hdl = parseFloat(document.getElementById('hdl').value) || 0;
+            const tg = parseFloat(document.getElementById('tg-lipid').value) || 0;
+            const ldl = parseFloat(document.getElementById('ldl').value) || 0;
+            const apoA1 = parseFloat(document.getElementById('apoA1').value) || null;
+            const apoB = parseFloat(document.getElementById('apoB').value) || null;
+            
+            // 验证必需输入
+            if (!tc || !hdl || !tg || !ldl) {
+                alert('请填写所有必需的血脂参数！');
+                return;
+            }
+            
+            // 计算各种比值和指数
+            const tcHdl = hdl ? (tc / hdl).toFixed(2) : 0;
+            const tgHdl = hdl ? (tg / hdl).toFixed(2) : 0;
+            const ldlHdl = hdl ? (ldl / hdl).toFixed(2) : 0;
+            const ai = hdl ? ((tc - hdl) / hdl).toFixed(2) : 0;
+            const nonHdlHdl = hdl ? ((tc - hdl) / hdl).toFixed(2) : 0;
+            
+            // 更新结果显示
+            updateLipidResult('TC/HDL-C 比值', tcHdl, tcHdl < 4 ? "理想" : (tcHdl < 5 ? "临界高" : "高风险"), 0);
+            updateLipidResult('TG/HDL-C 比值', tgHdl, tgHdl < 1 ? "理想" : (tgHdl < 2 ? "临界高" : "高风险"), 1);
+            updateLipidResult('LDL-C/HDL-C 比值', ldlHdl, ldlHdl < 2.5 ? "理想" : (ldlHdl < 3.5 ? "临界高" : "高风险"), 2);
+            updateLipidResult('动脉硬化指数 (AI)', ai, ai < 3 ? "理想" : (ai < 4 ? "临界高" : "高风险"), 3);
+            updateLipidResult('Non-HDL-C/HDL-C', nonHdlHdl, nonHdlHdl < 3.5 ? "理想" : (nonHdlHdl < 4.5 ? "临界高" : "高风险"), 4);
+            
+            // 添加ApoA1/ApoB比值（如果数据可用）
+            if (apoA1 !== null && apoB !== null && apoB !== 0) {
+                const apoRatio = (apoA1 / apoB).toFixed(2);
+                updateLipidResult('ApoA1/ApoB 比值', apoRatio, apoRatio > 1.2 ? "理想" : (apoRatio > 0.9 ? "临界低" : "高风险"), 5);
+            } else {
+                updateLipidResult('ApoA1/ApoB 比值', "-", "需要输入ApoA1和ApoB数据", 5);
+            }
+        }
+        
+        function updateLipidResult(title, value, status, index) {
+            const resultCards = document.querySelectorAll('#lipidResultsGrid .result-card');
+            if (resultCards[index]) {
+                resultCards[index].querySelector('.result-title').textContent = title;
+                resultCards[index].querySelector('.result-value').textContent = value;
+                
+                const interpretationEl = resultCards[index].querySelector('.result-interpretation');
+                interpretationEl.textContent = status;
+                
+                // 根据状态设置颜色
+                interpretationEl.className = 'result-interpretation ';
+                if (status.includes('理想')) {
+                    interpretationEl.classList.add('normal');
+                } else if (status.includes('临界')) {
+                    interpretationEl.classList.add('warning');
+                } else if (status.includes('高风险') || status.includes('需要输入')) {
+                    interpretationEl.classList.add('danger');
+                }
+            }
+        }
+        
+        // 体脂率计算
+        function calculateBodyFat() {
+            const waist = parseFloat(document.getElementById('waist').value);
+            const weight = parseFloat(document.getElementById('weight').value);
+            
+            // 验证输入
+            if (!waist || !weight || waist <= 0 || weight <= 0) {
+                alert('请输入有效的腰围和体重数值');
+                return;
+            }
+            
+            const gender = document.getElementById('male-option').classList.contains('selected') ? 'male' : 'female';
+            
+            let a = waist * 0.74;
+            let b;
+            
+            if (gender === 'male') {
+                b = (weight * 0.082) + 44.74;
+            } else {
+                b = (weight * 0.082) + 34.89;
+            }
+            
+            const bodyFat = ((a - b) / weight) * 100;
+            const roundedResult = bodyFat.toFixed(1);
+            
+            // 显示结果
+            document.getElementById('body-fat-result').textContent = roundedResult + '%';
+            
+            // 根据结果判断状态
+            let interpretation = "";
+            if (gender === 'male') {
+                if (bodyFat >= 2 && bodyFat <= 5) interpretation = "必需脂肪";
+                else if (bodyFat >= 6 && bodyFat <= 13) interpretation = "运动员水平";
+                else if (bodyFat >= 14 && bodyFat <= 17) interpretation = "健康水平";
+                else if (bodyFat >= 18 && bodyFat <= 24) interpretation = "一般水平";
+                else if (bodyFat > 24) interpretation = "肥胖";
+            } else {
+                if (bodyFat >= 10 && bodyFat <= 13) interpretation = "必需脂肪";
+                else if (bodyFat >= 14 && bodyFat <= 20) interpretation = "运动员水平";
+                else if (bodyFat >= 21 && bodyFat <= 24) interpretation = "健康水平";
+                else if (bodyFat >= 25 && bodyFat <= 31) interpretation = "一般水平";
+                else if (bodyFat > 31) interpretation = "肥胖";
+            }
+            
+            const interpretationEl = document.getElementById('body-fat-interpretation');
+            interpretationEl.textContent = interpretation;
+            
+            // 根据状态设置颜色
+            interpretationEl.className = 'result-interpretation ';
+            if (interpretation.includes("必需脂肪") || interpretation.includes("运动员") || interpretation.includes("健康")) {
+                interpretationEl.classList.add('normal');
+            } else if (interpretation.includes("一般")) {
+                interpretationEl.classList.add('warning');
+            } else {
+                interpretationEl.classList.add('danger');
+            }
+        }
+        
+        // 生酮断食计算
+        function calculateKetoFasting() {
+            const gender = document.getElementById('kf-gender').value;
+            const age = parseInt(document.getElementById('kf-age').value) || 35;
+            const weight = parseFloat(document.getElementById('kf-weight').value) || 75;
+            const height = parseFloat(document.getElementById('kf-height').value) || 175;
+            const activityFactor = parseFloat(document.getElementById('kf-activity').value) || 1.55;
+            
+            // 获取选中的断食时长
+            const selectedFasting = document.querySelector('#keto-fasting-content .fasting-option.selected');
+            const fastingHours = selectedFasting ? parseInt(selectedFasting.getAttribute('data-hours')) : 16;
+            
+            // 使用 Mifflin-St Jeor 公式计算BMR
+            let bmr;
+            if (gender === 'male') {
+                bmr = 10 * weight + 6.25 * height - 5 * age + 5;
+            } else {
+                bmr = 10 * weight + 6.25 * height - 5 * age - 161;
+            }
+            
+            // 计算每日总能量消耗 (TDEE)
+            const tdee = Math.round(bmr * activityFactor);
+            
+            // 根据断食时长调整热量摄入
+            let adjustedCalories = tdee;
+            if (fastingHours >= 16) {
+                const reductionFactor = 1 - (fastingHours / 168 * 0.5);
+                adjustedCalories = Math.round(tdee * reductionFactor);
+            }
+            
+            // 计算三大营养素 (生酮比例: 脂肪70%, 蛋白质25%, 碳水5%)
+            const fatGrams = Math.round((adjustedCalories * 0.7) / 9);
+            const proteinGrams = Math.round((adjustedCalories * 0.25) / 4);
+            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            
+            // 显示结果
+            document.getElementById('kf-bmr').textContent = bmr.toLocaleString();
+            document.getElementById('kf-tdee').textContent = adjustedCalories.toLocaleString();
+            document.getElementById('kf-fat').textContent = fatGrams.toLocaleString();
+            document.getElementById('kf-protein').textContent = proteinGrams.toLocaleString();
+            document.getElementById('kf-carbs').textContent = carbsGrams.toLocaleString();
+        }
+        
+        // 双酮断食计算
+        function calculateDualKeto() {
+            const gender = document.getElementById('dk-gender').value;
+            const age = parseInt(document.getElementById('dk-age').value) || 35;
+            const weight = parseFloat(document.getElementById('dk-weight').value) || 75;
+            const height = parseFloat(document.getElementById('dk-height').value) || 175;
+            const activityFactor = parseFloat(document.getElementById('dk-activity').value) || 1.55;
+            
+            // 获取选中的断食时长
+            const selectedFasting = document.querySelector('#dual-keto-content .fasting-option.selected');
+            const fastingHours = selectedFasting ? parseInt(selectedFasting.getAttribute('data-hours')) : 16;
+            
+            // 使用 Mifflin-St Jeor 公式计算BMR
+            let bmr;
+            if (gender === 'male') {
+                bmr = 10 * weight + 6.25 * height - 5 * age + 5;
+            } else {
+                bmr = 10 * weight + 6.25 * height - 5 * age - 161;
+            }
+            
+            // 计算每日总能量消耗 (TDEE)
+            const tdee = Math.round(bmr * activityFactor);
+            
+            // 根据断食时长调整热量摄入
+            let adjustedCalories = tdee;
+            if (fastingHours >= 16) {
+                const reductionFactor = 1 - (fastingHours / 168 * 0.5);
+                adjustedCalories = Math.round(tdee * reductionFactor);
+            }
+            
+            // 计算三大营养素 (双酮比例: 脂肪50%, 蛋白质45%, 碳水5%)
+            const fatGrams = Math.round((adjustedCalories * 0.5) / 9);
+            const proteinGrams = Math.round((adjustedCalories * 0.45) / 4);
+            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            
+            // 显示结果
+            document.getElementById('dk-bmr').textContent = bmr.toLocaleString();
+            document.getElementById('dk-tdee').textContent = adjustedCalories.toLocaleString();
+            document.getElementById('dk-fat').textContent = fatGrams.toLocaleString();
+            document.getElementById('dk-protein').textContent = proteinGrams.toLocaleString();
+            document.getElementById('dk-carbs').textContent = carbsGrams.toLocaleString();
+        }
+        
+        // GKI计算
+        function calculateGki() {
+            const glucose = parseFloat(document.getElementById('gki-glucose').value);
+            const ketone = parseFloat(document.getElementById('gki-ketone').value);
+            
+            if (isNaN(glucose) || glucose <= 0) {
+                alert('请输入有效的血糖值');
+                return;
+            }
+            
+            if (isNaN(ketone) || ketone <= 0) {
+                alert('请输入有效的血酮值');
+                return;
+            }
+            
+            const gki = glucose / ketone;
+            const gkiRounded = gki.toFixed(2);
+            
+            document.getElementById('gki-result').textContent = gkiRounded;
+            
+            // 确定状态
+            let status, statusClass;
+            
+            if (gki <= 1.0) {
+                status = "最佳酮症";
+                statusClass = "normal";
+            } else if (gki <= 3.0) {
+                status = "良好酮症";
+                statusClass = "normal";
+            } else if (gki <= 6.0) {
+                status = "中等酮症";
+                statusClass = "warning";
+            } else if (gki <= 9.0) {
+                status = "轻度酮症";
+                statusClass = "warning";
+            } else {
+                status = "无酮症";
+                statusClass = "danger";
+            }
+            
+            const interpretationEl = document.getElementById('gki-interpretation');
+            interpretationEl.textContent = status;
+            interpretationEl.className = 'result-interpretation ' + statusClass;
+        }
+        
+        // 代谢健康计算
+        function calculateMetabolism() {
+            const tg = parseFloat(document.getElementById('m-tg').value) || 1.5;
+            const hdl = parseFloat(document.getElementById('m-hdl').value) || 1.2;
+            const ldl = parseFloat(document.getElementById('m-ldl').value) || 2.8;
+            const glucose = parseFloat(document.getElementById('m-glucose').value) || 5.0;
+            const ketone = parseFloat(document.getElementById('m-ketone').value) || 0.5;
+            const height = parseFloat(document.getElementById('m-height').value) || 170;
+            const weight = parseFloat(document.getElementById('m-weight').value) || 70;
+            const waist = parseFloat(document.getElementById('m-waist').value) || 85;
+            
+            // 计算TyG指数
+            const tygIndex = Math.log(tg * glucose * 1000 / 2).toFixed(2);
+            document.getElementById('tyg-index').textContent = tygIndex;
+            
+            // TyG指数解释
+            let tygInterpret = "";
+            let tygClass = "";
+            if (tygIndex < 8.5) {
+                tygInterpret = "正常 - 胰岛素敏感性良好";
+                tygClass = "normal";
+            } else if (tygIndex < 8.9) {
+                tygInterpret = "临界 - 胰岛素抵抗风险增加";
+                tygClass = "warning";
+            } else {
+                tygInterpret = "高风险 - 可能存在胰岛素抵抗";
+                tygClass = "danger";
+            }
+            document.getElementById('tyg-interpret').textContent = tygInterpret;
+            document.getElementById('tyg-interpret').className = "result-interpretation " + tygClass;
+            
+            // 计算BMI
+            const heightM = height / 100;
+            const bmi = (weight / (heightM * heightM)).toFixed(1);
+            
+            // 计算TyG-BMI
+            const tygBmi = (tygIndex * bmi).toFixed(1);
+            document.getElementById('tyg-bmi').textContent = tygBmi;
+            
+            // TyG-BMI解释
+            let tygBmiInterpret = "";
+            let tygBmiClass = "";
+            if (tygBmi < 210) {
+                tygBmiInterpret = "正常范围 - 心血管风险低";
+                tygBmiClass = "normal";
+            } else if (tygBmi < 240) {
+                tygBmiInterpret = "中度风险 - 需关注心血管健康";
+                tygBmiClass = "warning";
+            } else {
+                tygBmiInterpret = "高风险 - 心血管疾病风险显著增加";
+                tygBmiClass = "danger";
+            }
+            document.getElementById('tyg-bmi-interpret').textContent = tygBmiInterpret;
+            document.getElementById('tyg-bmi-interpret').className = "result-interpretation " + tygBmiClass;
+            
+            // 计算TyG-WWI (TyG * (腰围/体重))
+            const tygWwi = (tygIndex * (waist / weight)).toFixed(2);
+            document.getElementById('tyg-wwi').textContent = tygWwi;
+            
+            // TyG-WWI解释
+            let tygWwiInterpret = "";
+            let tygWwiClass = "";
+            if (tygWwi < 5.0) {
+                tygWwiInterpret = "正常 - 体重腰围比例良好";
+                tygWwiClass = "normal";
+            } else if (tygWwi < 6.0) {
+                tygWwiInterpret = "中度风险 - 腹部脂肪可能过多";
+                tygWwiClass = "warning";
+            } else {
+                tygWwiInterpret = "高风险 - 中心性肥胖风险显著";
+                tygWwiClass = "danger";
+            }
+            document.getElementById('tyg-wwi-interpret').textContent = tygWwiInterpret;
+            document.getElementById('tyg-wwi-interpret').className = "result-interpretation " + tygWwiClass;
+            
+            // 计算TyG-WC
+            const tygWc = (tygIndex * waist).toFixed(1);
+            document.getElementById('tyg-wc').textContent = tygWc;
+            
+            // TyG-WC解释
+            let tygWcInterpret = "";
+            let tygWcClass = "";
+            if (tygWc < 800) {
+                tygWcInterpret = "正常 - 腰围代谢风险低";
+                tygWcClass = "normal";
+            } else if (tygWc < 900) {
+                tygWcInterpret = "中度风险 - 内脏脂肪可能过多";
+                tygWcClass = "warning";
+            } else {
+                tygWcInterpret = "高风险 - 中心性肥胖代谢风险高";
+                tygWcClass = "danger";
+            }
+            document.getElementById('tyg-wc-interpret').textContent = tygWcInterpret;
+            document.getElementById('tyg-wc-interpret').className = "result-interpretation " + tygWcClass;
+            
+            // 计算TyG-WHtR
+            const tygWhtr = (tygIndex * (waist / height)).toFixed(2);
+            document.getElementById('tyg-whtr').textContent = tygWhtr;
+            
+            // TyG-WHtR解释
+            let tygWhtrInterpret = "";
+            let tygWhtrClass = "";
+            if (tygWhtr < 5.0) {
+                tygWhtrInterpret = "正常范围 - 中心性肥胖风险低";
+                tygWhtrClass = "normal";
+            } else if (tygWhtr < 6.0) {
+                tygWhtrInterpret = "中度风险 - 中心性肥胖风险增加";
+                tygWhtrClass = "warning";
+            } else {
+                tygWhtrInterpret = "高风险 - 中心性肥胖相关疾病风险高";
+                tygWhtrClass = "danger";
+            }
+            document.getElementById('tyg-whtr-interpret').textContent = tygWhtrInterpret;
+            document.getElementById('tyg-whtr-interpret').className = "result-interpretation " + tygWhtrClass;
+            
+            // 计算TG/HDL-C
+            const tgHdl = (tg / hdl).toFixed(2);
+            document.getElementById('tg-hdl').textContent = tgHdl;
+            
+            // TG/HDL解释
+            let tgHdlInterpret = "";
+            let tgHdlClass = "";
+            if (tgHdl < 2.0) {
+                tgHdlInterpret = "理想 - 心血管风险低";
+                tgHdlClass = "normal";
+            } else if (tgHdl < 3.0) {
+                tgHdlInterpret = "中度风险 - 心血管风险增加";
+                tgHdlClass = "warning";
+            } else {
+                tgHdlInterpret = "高风险 - 心血管疾病风险高";
+                tgHdlClass = "danger";
+            }
+            document.getElementById('tg-hdl-interpret').textContent = tgHdlInterpret;
+            document.getElementById('tg-hdl-interpret').className = "result-interpretation " + tgHdlClass;
+            
+            // 计算TG/LDL-C
+            const tgLdl = (tg / ldl).toFixed(2);
+            document.getElementById('tg-ldl').textContent = tgLdl;
+            
+            // TG/LDL解释
+            let tgLdlInterpret = "";
+            let tgLdlClass = "";
+            if (tgLdl < 0.5) {
+                tgLdlInterpret = "正常范围";
+                tgLdlClass = "normal";
+            } else if (tgLdl < 1.0) {
+                tgLdlInterpret = "临界范围";
+                tgLdlClass = "warning";
+            } else {
+                tgLdlInterpret = "高风险 - 血脂异常";
+                tgLdlClass = "danger";
+            }
+            document.getElementById('tg-ldl-interpret').textContent = tgLdlInterpret;
+            document.getElementById('tg-ldl-interpret').className = "result-interpretation " + tgLdlClass;
+            
+            // 计算GKI
+            const gki = (glucose / ketone).toFixed(1);
+            document.getElementById('gki-metabolism').textContent = gki;
+            
+            // GKI解释
+            let gkiInterpret = "";
+            let gkiClass = "";
+            if (gki <= 1) {
+                gkiInterpret = "深度酮症 - 治疗性范围";
+                gkiClass = "normal";
+            } else if (gki <= 3) {
+                gkiInterpret = "深度营养性酮症";
+                gkiClass = "normal";
+            } else if (gki <= 6) {
+                gkiInterpret = "中度营养性酮症";
+                gkiClass = "normal";
+            } else if (gki <= 9) {
+                gkiInterpret = "轻度营养性酮症";
+                gkiClass = "warning";
+            } else if (gki <= 16) {
+                gkiInterpret = "过渡状态 - 未进入酮症";
+                gkiClass = "warning";
+            } else {
+                gkiInterpret = "无酮症 - 代谢灵活性不足";
+                gkiClass = "danger";
+            }
+            document.getElementById('gki-interpret').textContent = gkiInterpret;
+            document.getElementById('gki-interpret').className = "result-interpretation " + gkiClass;
+        }
+        
+        // 绑定性别选择事件
+        document.getElementById('male-option').addEventListener('click', function() {
+            selectGender('male');
+        });
+        
+        document.getElementById('female-option').addEventListener('click', function() {
+            selectGender('female');
+        });
+    </script>
+</body>
+</html>
