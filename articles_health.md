@@ -36,6 +36,7 @@
 - [糖尿病类型及前期科学阐述](/diabetes_all.md)     
 - [不同人群血糖波动及标准值详解](/blood_glucose_var.md)    
 - [胰岛素抵抗与糖尿病患者低血糖机制研究](/low_blood_glucose.md)    
+- [浅谈胰岛素抵抗](https://mp.weixin.qq.com/s/rdr8vvEwg8tC_cIdhRBtRQ)      
 
 ### 糖尿病
 
