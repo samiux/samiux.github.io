@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-A cybersecurity enthusiast at heart, Samiux has been an OSCE, OSCP, and OSWP certified professional since 2012. While he runs his personal website and is an active blogger, Samiux also engages in building and breaking things, for a deeper understanding of cybersecurity. In his spare time, he can be found programming and reading, all the while enjoying his time in his penetration testing lab. Despite his vast experience in the field, Samiux modestly claims to know nothing about cybersecurity, always eager to learn more and continuously improve his skills.
+A cybersecurity enthusiast at heart, Samiux has been an OSCE, OSCP, and OSWP certified professional since 2012. While he runs his personal website and is an active blogger, Samiux also engages in building and breaking things, for a deeper understanding of cybersecurity. In his spare time, he can be found programming and reading, all the while enjoying his time in his penetration testing lab. Despite his vast experience in the field, Samiux modestly claims to know nothing about cybersecurity, always eager to learn more and continuously improve his skills.  Recently, he targets on health.
 
 His slogan are :
 
