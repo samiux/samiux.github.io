@@ -76,4 +76,7 @@
 
 希望这些信息对您有帮助！祝您生酮之旅顺利！
 
+Samiux    
+二零二五年八月廿七日，中国香港    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
