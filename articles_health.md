@@ -167,6 +167,7 @@
 - [减肥真的不是『少吃多动』这么简单](https://mp.weixin.qq.com/s/qPiinni0RwlXLl2G5B7H0g)       
 - [节食与轻断食的区别（减肥40）](https://mp.weixin.qq.com/s/SUqFeC9HXl2zcEqwqgP1lQ)        
 - [减肥不掉秤？说明你的代谢很低了](https://mp.weixin.qq.com/s/GaOeGAhjhLDp4w3wIMpj1Q)       
+- [亚洲人群常用的胖瘦评估公式及标准](https://mp.weixin.qq.com/s/jj9j7bxEtIH6ne3u3aBhKQ)      
 
 ## 比值研究
 
