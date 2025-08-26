@@ -76,6 +76,15 @@ Samiux
 
 ![](https://raw.githubusercontent.com/samiux/images/master/cgm/gi_gl.jpg)  
 
+```sha256sum 91a57757bb3c2f40213e0d9d2784ecc4ddce632d9ca6c9a98b20836e8575d118  低碳饮食地图-compressed.pdf```
+
+<object data="/pdf/低碳饮食地图-compressed.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/低碳饮食地图-compressed.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/低碳饮食地图-compressed.pdf">Download PDF</a>.</p>
+</object>
+
+
+
 ```sha256sum 5f6d39e4cee173cca402ca7d418446c1bf01c3a4bc2dcb491c749db7af1824fd  三诺动态血糖仪报告_15天_redacted.pdf```
 
 <object data="/pdf/三诺动态血糖仪报告_15天_redacted.pdf" type="application/pdf" width="900px" height="700px">
