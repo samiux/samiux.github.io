@@ -311,6 +311,7 @@
 - [断食与生酮代谢的血脂分析](/fasting_analysis_report.md)    
 - [断食与节食的分别](/fasting_diet.md)    
 - [断食生酮后血脂变化分析](/blood_report.md)    
+- [断食生酮期间血酮波动及皮质醇影响](fasting_ketone.md)    
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
 ## Workouts - Coach Kenny
