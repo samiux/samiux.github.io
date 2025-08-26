@@ -318,6 +318,17 @@
 - [断食生酮期间血酮波动及皮质醇影响](fasting_ketone.md)    
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
+## Ketogenic Therapy for Mental Illness
+
+- [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
+- [How to Start Ketogenic Therapy for Mental Illness - Playlist](https://www.youtube.com/playlist?list=PLzWI83-NWCL6GuYuIM4mHtGqEqD1wwcAu)      
+- [How To Talk to Your Doctor About Keto for Mental Health – Part 1 of 2](https://www.youtube.com/watch?v=uZhZvNqV4G4)        
+- [How To Talk to Your Doctor About KETO for MENTAL HEALTH – Part 2 of 2](https://www.youtube.com/watch?v=4eETQPEPQDI)      
+- [Who Should Use KETO for Mental Illness?](https://www.youtube.com/watch?v=VAHlDXy0keo)      
+- [Best Practices for Treating Mental Illness with a Keto Diet](https://www.youtube.com/watch?v=dvaEepSjNHk)        
+- [Labs to Check Before Starting Ketosis for Mental Health](https://www.youtube.com/watch?v=tSkOw3l8OoQ)        
+- [What You Need to Know BEFORE Starting a KETO DIET for Mental Health](https://www.youtube.com/watch?v=Hja4VURshKA)        
+
 ## Workouts - Coach Kenny
 
 - [1 minute Legs workout burn inner thighs at home](https://www.youtube.com/shorts/QDRuLDIKhrM)     
