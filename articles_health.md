@@ -37,6 +37,7 @@
 - [不同人群血糖波动及标准值详解](/blood_glucose_var.md)    
 - [胰岛素抵抗与糖尿病患者低血糖机制研究](/low_blood_glucose.md)    
 - [浅谈胰岛素抵抗](https://mp.weixin.qq.com/s/rdr8vvEwg8tC_cIdhRBtRQ)      
+- [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
 
 ### 糖尿病
 
@@ -74,6 +75,7 @@
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
+- [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
 
 ### 血脂及心血管疾病
 
