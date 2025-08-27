@@ -329,6 +329,7 @@
 - [Labs to Check Before Starting Ketosis for Mental Health](https://www.youtube.com/watch?v=tSkOw3l8OoQ)        
 - [What You Need to Know BEFORE Starting a KETO DIET for Mental Health](https://www.youtube.com/watch?v=Hja4VURshKA)        
 - [Researcher with Bipolar Shatters Stigma](https://www.youtube.com/watch?v=hXyR0saiSHA)
+- [躁郁症与生酮饮食治疗研究](/fasting_bipolar.md)        
 
 ## Workouts - Coach Kenny
 
