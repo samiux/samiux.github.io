@@ -243,6 +243,7 @@
 - [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
 - [断食生酮原理与健康益处详解](/fasting_ketones_health.md)    
 - [mTOR调控与断食生酮防御策略](/fasting_mtor.md)    
+- [“饿一饿”返老还童，是科学的](https://mp.weixin.qq.com/s/vSSE8t_okE8ZZCPq20ieMA)        
 
 ## 生酮相关
 
