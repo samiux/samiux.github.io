@@ -244,6 +244,7 @@
 - [断食生酮原理与健康益处详解](/fasting_ketones_health.md)    
 - [mTOR调控与断食生酮防御策略](/fasting_mtor.md)    
 - [“饿一饿”返老还童，是科学的](https://mp.weixin.qq.com/s/vSSE8t_okE8ZZCPq20ieMA)        
+- [饥一顿饱一顿会提升我们身体中的NAD+含量，从而延年益寿](https://mp.weixin.qq.com/s/JIoJQVguu8q7EU3_LiMvgA)    
 
 ## 生酮相关
 
