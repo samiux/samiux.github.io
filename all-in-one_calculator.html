@@ -912,19 +912,19 @@
                         <p>断食方案: <strong id="fastingDualPlan">-</strong></p>
                         
                         <div class="macro-chart">
-                            <div class="macro-fat" style="width: 50%;"></div>
-                            <div class="macro-protein" style="width: 45%;"></div>
+                            <div class="macro-fat" style="width: 70%;"></div>
+                            <div class="macro-protein" style="width: 25%;"></div>
                             <div class="macro-carbs" style="width: 5%;"></div>
                         </div>
                         
                         <div class="macro-labels">
                             <div class="macro-label">
                                 <div class="macro-color color-fat"></div>
-                                <span>脂肪 50%</span>
+                                <span>脂肪 70%</span>
                             </div>
                             <div class="macro-label">
                                 <div class="macro-color color-protein"></div>
-                                <span>蛋白质 45%</span>
+                                <span>蛋白质=体重*1.4g</span>
                             </div>
                             <div class="macro-label">
                                 <div class="macro-color color-carbs"></div>
@@ -1475,9 +1475,10 @@
                 adjustedCalories = Math.round(tdee * reductionFactor);
             }
             
-            // 计算三大营养素 (双酮比例: 脂肪50%, 蛋白质45%, 碳水5%)
-            const fatGrams = Math.round((adjustedCalories * 0.5) / 9);
-            const proteinGrams = Math.round((adjustedCalories * 0.45) / 4);
+            // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质=体重*1.4g, 碳水5%)
+            const fatGrams = Math.round((adjustedCalories * 0.7) / 9);
+//            const proteinGrams = Math.round((adjustedCalories * 0.25) / 4);
+            const proteinGrams = Math.round(weight * 1.4);
             const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
             
             // 显示结果
