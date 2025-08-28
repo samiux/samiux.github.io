@@ -143,6 +143,7 @@
 - [肠道菌群失衡，是胰岛素抵抗的幕后推手！](https://mp.weixin.qq.com/s/Wd8tIcfkR6djYuplOiaQyw)       
 - [草本植物油是如何伤害大脑的？](http://www.chinalowcarb.com/vegetable-oil-and-brain/)    
 - [变年轻的秘诀！增加抗氧化、肝功能与自噬作用、优质橄榄油，伯格医生 Dr Berg](https://mp.weixin.qq.com/s/uhCHzuC_KZXCs3nVwT78Gg)        
+- [常见肉类蛋类豆类蛋白质含量列表](/foods_protein.md)        
 
 ### 减肥及其他
 
