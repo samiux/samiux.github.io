@@ -172,6 +172,7 @@
 - [亚洲人群常用的胖瘦评估公式及标准](https://mp.weixin.qq.com/s/jj9j7bxEtIH6ne3u3aBhKQ)      
 - [你的炎症，不在血管，而在肠道！](https://mp.weixin.qq.com/s/UfAbFy8YayZcPgLLKWebxg)    
 - [变年轻的秘诀！增加抗氧化、肝功能与自噬作用、优质橄榄油，伯格医生 Dr Berg](https://mp.weixin.qq.com/s/uhCHzuC_KZXCs3nVwT78Gg)        
+- [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 
 ## 比值研究
 
@@ -245,6 +246,7 @@
 - [mTOR调控与断食生酮防御策略](/fasting_mtor.md)    
 - [“饿一饿”返老还童，是科学的](https://mp.weixin.qq.com/s/vSSE8t_okE8ZZCPq20ieMA)        
 - [饥一顿饱一顿会提升我们身体中的NAD+含量，从而延年益寿](https://mp.weixin.qq.com/s/JIoJQVguu8q7EU3_LiMvgA)    
+- [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 
 ## 生酮相关
 
@@ -284,6 +286,7 @@
 - [断食对大脑的益处，为什么饿一饿自己大脑更清醒？](http://www.chinalowcarb.com/fasting-and-brain-health/)    
 - [断食生酮原理与健康益处详解](/fasting_ketones_health.md)    
 - [mTOR调控与断食生酮防御策略](/fasting_mtor.md)    
+- [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
