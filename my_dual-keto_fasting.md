@@ -68,7 +68,7 @@
 - [血脂指数计算器](/blood_lipids_calculator.html)    
 - [双酮断食营养计算器](/dual_keto_fasting_calculator.html)     
 - [亚洲人体脂率计算器](/body_fat_calculator.html)    
-- [常见肉类蛋类豆类蛋白质含量列表](/foods_protein.md)        
+- [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
 
 Samiux    
 二零二五年八月十四日，中国香港     
