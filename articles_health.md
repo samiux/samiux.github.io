@@ -111,6 +111,7 @@
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
 - [甘油三酯与小而密脂蛋白胆固醇 sdLDL-C 关联性研究](tg_sdldl-c.md)    
 - [减肥/生酮/低碳饮食后胆固醇上升了，需要担心吗？](https://mp.weixin.qq.com/s/WUmnvgvGZKjmpAjLIyTeyQ)      
+- [为何“小而密的低密度脂蛋白”更危险？一文说出真相！](https://mp.weixin.qq.com/s/rE1N71Flr91IYvsHDP2jRQ)      
 
 ### 高血压
 
