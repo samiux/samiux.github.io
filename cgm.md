@@ -74,6 +74,7 @@ Samiux
 - [健康人有必要佩戴动态血糖监测仪吗](https://mp.weixin.qq.com/s/s0FMqsxahyLgMZhX_O1u9w)     
 - [控的是血糖，获益的是人生](https://mp.weixin.qq.com/s/FjFM3w3oBg8LjlDYk4JXnQ)     
 - [餐一血糖11.3，我离糖尿病只有一步之遥](https://mp.weixin.qq.com/s/qQRCEGVbNhzIoVp7PTSknw)    
+- [76: Using a Continuous Glucose Monitor (CGM) to Improve Insulin Sensitivity with Dr. Bikman](https://www.youtube.com/watch?v=QCqMmXrf2B8)       
 
 ![](https://raw.githubusercontent.com/samiux/images/master/cgm/gi_gl.jpg)  
 
@@ -93,6 +94,12 @@ Samiux
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/三诺动态血糖仪报告_15天_redacted.pdf">Download PDF</a>.</p>
 </object>
 
+```82b41c0c7814b1f982323848b7756c4529cd6ada2b247964f36097bd7ffeb9e6  欧态血糖报告_2025年8月28日_redacted.pdf```
+
+<object data="/pdf/欧态血糖报告_2025年8月28日_redacted.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/欧态血糖报告_2025年8月28日_redacted.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/欧态血糖报告_2025年8月28日_redacted.pdf">Download PDF</a>.</p>
+</object>
 
 ```sha256sum f895da08f02049277e4cf3366ac3c646257dbbaa50e564df73ba7a15b9767974  Continuous_Glucose_Monitoring_System-A_Guide_for_Beginners_CHI_ENG.pdf```
 
