@@ -68,8 +68,12 @@
 - [血脂指数计算器](/blood_lipids_calculator.html)    
 - [双酮断食营养计算器](/dual_keto_fasting_calculator.html)     
 - [亚洲人体脂率计算器](/body_fat_calculator.html)    
+
+## 
+
 - [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
+- [76: Using a Continuous Glucose Monitor (CGM) to Improve Insulin Sensitivity with Dr. Bikman](https://www.youtube.com/watch?v=QCqMmXrf2B8)       
 
 Samiux    
 二零二五年八月十四日，中国香港     
