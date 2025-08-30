@@ -924,7 +924,7 @@
                             </div>
                             <div class="macro-label">
                                 <div class="macro-color color-protein"></div>
-                                <span>蛋白质=体重*1.2g</span>
+                                <span>蛋白质=体重*0.8g</span>
                             </div>
                             <div class="macro-label">
                                 <div class="macro-color color-carbs"></div>
@@ -1475,10 +1475,10 @@
                 adjustedCalories = Math.round(tdee * reductionFactor);
             }
             
-            // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质=体重*1.2g, 碳水5%)
+            // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质=体重*0.8g, 碳水5%)
             const fatGrams = Math.round((adjustedCalories * 0.7) / 9);
 //            const proteinGrams = Math.round((adjustedCalories * 0.25) / 4);
-            const proteinGrams = Math.round(weight * 1.2);
+            const proteinGrams = Math.round(weight * 0.8);
             const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
             
             // 显示结果
