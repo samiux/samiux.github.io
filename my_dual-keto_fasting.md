@@ -23,6 +23,9 @@
      - 脂肪 70% 总能量。35% 来自饱和脂肪，35% 来自单不饱和脂肪（优先黄油、深海鱼、牛油果等）  
      - 蛋白质 0.8克/体重/日（0.8-1.6克/千克理想体重/日）  
      - 碳水化合物 ＜5%（＜50克/日）  
+
+## 注意事项
+
    - 尽量依从以上营养比例，但并不必严格实施，营养比例富有弹性，脂肪及蛋白质比例为 2:1，碳水化合物为少于 50 克，比较适合都市人        
    - 尽量进食原形食物，减少被大量加工的食物  
    - 若果摄取过量脂肪有机会令甘油三酯值水平升高      
@@ -30,20 +33,20 @@
    - 若果摄取过量碳水化合物会退酮的         
    - 配合每周一至三次，每次 30 至 60 分钟中等强度运动，例如步行、阻力训练    
 
-###  **自重训练 - 油管视频**
+##  **自重训练 - 油管视频**
 
 - [1 minute Legs workout burn inner thighs at home 一分钟腿部锻鍊](https://www.youtube.com/shorts/QDRuLDIKhrM)     
 - [Quick 2 minutes Abs workout repeat x10 两分钟腹部锻鍊](https://www.youtube.com/shorts/sojkTZTgrlw)     
 - [Upper body attack 4x25 上身锻鍊](https://www.youtube.com/shorts/T-p4yeA4u7s)     
 - [Fat burning cardio workout 1 min repeat x10 心肺功能锻鍊](https://www.youtube.com/shorts/bUqdH9JQM64)     
 
-###  **壶铃训练 - 油管视频**
+##  **壶铃训练 - 油管视频**
 
 - [Caroline Girvan](https://www.youtube.com/@CarolineGirvan)          
 - [15 Min FULL BODY KETTLEBELL WORKOUT at Home - Caroline Girvan](https://www.youtube.com/watch?v=VCcar3MA07w)        
 - [30 Min Full Body KETTLEBELL WORKOUT - Supersets](https://www.youtube.com/watch?v=9LIAhxQHmak)
 
-### 不适合人群
+## 不适合人群
 
 儿童、青少年、孕妇、哺乳期妇女及肾病、心脏病患者。    
 
