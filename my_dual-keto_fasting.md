@@ -82,14 +82,18 @@
 - [用生酮食品搭配生酮餐](https://mp.weixin.qq.com/s/TPCM8qWqofy_nEJmtOsWGQ)       
 - [生酮答疑-v1.0版](https://mp.weixin.qq.com/s/uMjyWV4pejq-XqUVQ3gGDw)       
 
+```sha256sum 0675564a415bd9ccb78bfbea206f0c216d2a1d75825d891ef310d9dfa3c34cf6  深入浅出话生酮.pdf```
 
-
-   
+<object data="/pdf/深入浅出话生酮.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/深入浅出话生酮.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/深入浅出话生酮.pdf">Download PDF</a>.</p>
+</object>
 
 Samiux    
 二零二五年八月十四日，中国香港     
 更新 二零二五年八月十八日，中国香港    
 更新 二零二五年八月廿一日，中国香港     
+更新 二零二五年八月廿三日，中国香港     
 更新 二零二五年八月廿三日，中国香港     
 
  |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
