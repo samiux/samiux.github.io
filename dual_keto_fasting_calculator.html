@@ -783,6 +783,8 @@
             } else {
                 bmr = 10 * weight + 6.25 * height - 5 * age - 161;
             }
+
+            window.bmr = bmr;   // Global variable
             
             // 计算每日总能量消耗 (TDEE)
             const activityFactor = parseFloat(document.getElementById('activity').value);
@@ -800,12 +802,14 @@
             const tdee = parseInt(tdeeText);
             
             // 根据断食时长调整热量摄入
-            let adjustedCalories = tdee;
+//            let adjustedCalories = tdee;
+            let adjustedCalories = bmr;
             
             if (currentFastingHours >= 16) {
                 // 长时间断食调整：减少总热量摄入
                 const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
-                adjustedCalories = Math.round(tdee * reductionFactor);
+//                adjustedCalories = Math.round(tdee * reductionFactor);
+                adjustedCalories = Math.round(bmr * reductionFactor);
             }
             
 //            // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质25%, 碳水5%)

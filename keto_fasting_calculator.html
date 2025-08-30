@@ -609,7 +609,7 @@
                 </div>
                 
                 <div class="info-box">
-                    <p><i class="fas fa-info-circle"></i> 根据最新研究，生酮断食期间建议营养比例：脂肪70-75%，蛋白质20-25%，碳水化合物5-10%</p>
+                    <p><i class="fas fa-info-circle"></i> 根据最新研究，生酮断食期间建议营养比例：脂肪75%，蛋白质20%，碳水化合物5%</p>
                 </div>
                 
                 <button id="calculateBtn" class="keto">
@@ -621,7 +621,7 @@
                     <ul>
                         <li><strong>基础代谢率(BMR)</strong>: 使用Mifflin-St Jeor公式计算，这是目前最准确的方法</li>
                         <li><strong>每日总能量消耗(TDEE)</strong>: BMR × 活动水平系数</li>
-                        <li><strong>生酮营养比例</strong>: 脂肪70%, 蛋白质25%, 碳水化合物5%</li>
+                        <li><strong>生酮营养比例</strong>: 脂肪75%, 蛋白质20%, 碳水化合物5%</li>
                         <li><strong>断食调整</strong>: 长时间断食(16小时以上)会减少总热量摄入</li>
                     </ul>
                 </div>
@@ -662,19 +662,19 @@
                 <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
                 
                 <div class="macro-chart">
-                    <div class="macro-fat" style="width: 70%;"></div>
-                    <div class="macro-protein" style="width: 25%;"></div>
+                    <div class="macro-fat" style="width: 75%;"></div>
+                    <div class="macro-protein" style="width: 20%;"></div>
                     <div class="macro-carbs" style="width: 5%;"></div>
                 </div>
                 
                 <div class="macro-labels">
                     <div class="macro-label">
                         <div class="macro-color color-fat"></div>
-                        <span>脂肪 70%</span>
+                        <span>脂肪 75%</span>
                     </div>
                     <div class="macro-label">
                         <div class="macro-color color-protein"></div>
-                        <span>蛋白质 25%</span>
+                        <span>蛋白质 20%</span>
                     </div>
                     <div class="macro-label">
                         <div class="macro-color color-carbs"></div>
@@ -763,7 +763,7 @@
             document.getElementById('calculateBtn').addEventListener('click', calculateAll);
             
             // 初始计算
-        //    calculateAll();
+//            calculateAll();
         });
         
         // 计算基础代谢率和生酮营养需求
@@ -787,6 +787,8 @@
             } else {
                 bmr = 10 * weight + 6.25 * height - 5 * age - 161;
             }
+
+            window.bmr = bmr;  // Global variable
             
             // 计算每日总能量消耗 (TDEE)
             const activityFactor = parseFloat(document.getElementById('activity').value);
@@ -804,17 +806,19 @@
             const tdee = parseInt(tdeeText);
             
             // 根据断食时长调整热量摄入
-            let adjustedCalories = tdee;
+//            let adjustedCalories = tdee;
+            let adjustedCalories = bmr;
             
             if (currentFastingHours >= 16) {
                 // 长时间断食调整：减少总热量摄入
                 const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
-                adjustedCalories = Math.round(tdee * reductionFactor);
+//                adjustedCalories = Math.round(tdee * reductionFactor);
+                adjustedCalories = Math.round(bmr * reductionFactor);
             }
             
-            // 计算三大营养素 (生酮比例: 脂肪70%, 蛋白质25%, 碳水5%)
-            const fatGrams = Math.round((adjustedCalories * 0.7) / 9);
-            const proteinGrams = Math.round((adjustedCalories * 0.25) / 4);
+            // 计算三大营养素 (生酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
+            const fatGrams = Math.round((adjustedCalories * 0.75) / 9);
+            const proteinGrams = Math.round((adjustedCalories * 0.2) / 4);
             const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
             
             // 显示结果
