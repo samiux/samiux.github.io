@@ -78,7 +78,7 @@
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [76: Using a Continuous Glucose Monitor (CGM) to Improve Insulin Sensitivity with Dr. Bikman](https://www.youtube.com/watch?v=QCqMmXrf2B8)    
 
-## 生酮饮食参考资料
+## 生酮饮食参考资料 - 酮花顺厂长
 
 - [新手如何启动生酮饮食](https://mp.weixin.qq.com/s/UKb46eRLW47V2igYXkgqmA)       
 - [生酮食品（营养成分）速查表](https://mp.weixin.qq.com/s/JPxK9WZ6-Hx5K_BvAJBtYA)         
