@@ -250,6 +250,7 @@
 - [饥一顿饱一顿会提升我们身体中的NAD+含量，从而延年益寿](https://mp.weixin.qq.com/s/JIoJQVguu8q7EU3_LiMvgA)    
 - [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
+- [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 
 ## 生酮相关
 
@@ -291,6 +292,7 @@
 - [mTOR调控与断食生酮防御策略](/fasting_mtor.md)    
 - [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
+- [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
@@ -331,6 +333,7 @@
 - [断食与节食的分别](/fasting_diet.md)    
 - [断食生酮后血脂变化分析](/blood_report.md)    
 - [断食生酮期间血酮波动及皮质醇影响](fasting_ketone.md)    
+- [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
 ## Ketogenic Therapy for Mental Illness
