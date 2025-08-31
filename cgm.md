@@ -68,6 +68,7 @@ Samiux
 
 ## 参考资料
 
+- [断食期间AKK对生酮影响研究](/fasting_akk_02.md)    
 - [持续葡萄糖监测结果看不懂？5个关键指标助您破解CGM报告！](https://mp.weixin.qq.com/s/_ktmRSAWuaEmAG9tyfmC2g)  
 - [没吃饭，血糖也高，一般与这3种现象有关！](https://mp.weixin.qq.com/s/SEwuz4ACZutsntsLSYxD5Q)    
 - [再谈一次动态血糖仪](https://mp.weixin.qq.com/s/w7xR0qNrcCEHAXT5bcGZDg)     
