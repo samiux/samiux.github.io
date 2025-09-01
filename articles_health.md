@@ -144,6 +144,7 @@
 - [草本植物油是如何伤害大脑的？](http://www.chinalowcarb.com/vegetable-oil-and-brain/)    
 - [变年轻的秘诀！增加抗氧化、肝功能与自噬作用、优质橄榄油，伯格医生 Dr Berg](https://mp.weixin.qq.com/s/uhCHzuC_KZXCs3nVwT78Gg)        
 - [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
+- [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
 
 ### 减肥及其他
 
@@ -174,6 +175,7 @@
 - [你的炎症，不在血管，而在肠道！](https://mp.weixin.qq.com/s/UfAbFy8YayZcPgLLKWebxg)    
 - [变年轻的秘诀！增加抗氧化、肝功能与自噬作用、优质橄榄油，伯格医生 Dr Berg](https://mp.weixin.qq.com/s/uhCHzuC_KZXCs3nVwT78Gg)        
 - [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
+- [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
 
 ## 比值研究
 
@@ -293,6 +295,7 @@
 - [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
+- [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
