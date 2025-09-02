@@ -338,7 +338,7 @@
 - [断食生酮期间血酮波动及皮质醇影响](fasting_ketone.md)    
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
-- [生酮饮食 - 酮花顺厂长](/keto_playbook.md)    
+- [深入浅出话生酮 - 酮花顺厂长](/keto_playbook.md)    
 
 ## Ketogenic Therapy for Mental Illness
 
