@@ -253,6 +253,7 @@
 - [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
+- [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 
 ## 生酮相关
 
@@ -296,9 +297,11 @@
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
+- [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
+- [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 
 ## MCT 油
 
