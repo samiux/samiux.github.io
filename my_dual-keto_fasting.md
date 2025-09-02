@@ -79,6 +79,7 @@
 - [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [76: Using a Continuous Glucose Monitor (CGM) to Improve Insulin Sensitivity with Dr. Bikman](https://www.youtube.com/watch?v=QCqMmXrf2B8)    
+- [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 
 ## 生酮饮食参考资料 - 酮花顺厂长
 
