@@ -114,6 +114,7 @@
 - [为何“小而密的低密度脂蛋白”更危险？一文说出真相！](https://mp.weixin.qq.com/s/rE1N71Flr91IYvsHDP2jRQ)      
 - [MALCOLM KENDRICK - LDL is not cholesterol …cannot penetrate ENDOTHIELIAL WALL](https://www.youtube.com/watch?v=YrVhPfGcm84)       
 - [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
+- [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)         
 
 ### 高血压
 
@@ -178,6 +179,9 @@
 - [变年轻的秘诀！增加抗氧化、肝功能与自噬作用、优质橄榄油，伯格医生 Dr Berg](https://mp.weixin.qq.com/s/uhCHzuC_KZXCs3nVwT78Gg)        
 - [Fix Visceral Fat: The Most EFFICIENT Way To LOSE FAT (In 14 Days)](https://www.youtube.com/watch?v=zPTROUY8ex4)        
 - [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
+- [JASON FUNG - EAT FAT & FAST …BURN BODY FAT](https://www.youtube.com/watch?v=FQ92VklyUXM)         
+- [JASON FUNG - FAT & PROTEIN …animal fat & animal protein INCREASE GLP1— SATIETY UP; HUNGER DOWN](https://www.youtube.com/watch?v=vhaJEtC3dyw)       
+- [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 
 ## 比值研究
 
@@ -256,6 +260,9 @@
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
+- [JASON FUNG - EAT FAT & FAST …BURN BODY FAT](https://www.youtube.com/watch?v=FQ92VklyUXM)         
+- [JASON FUNG - FAT & PROTEIN …animal fat & animal protein INCREASE GLP1— SATIETY UP; HUNGER DOWN](https://www.youtube.com/watch?v=vhaJEtC3dyw)       
+- [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 
 ## 生酮相关
 
@@ -359,6 +366,7 @@
 - [What You Need to Know BEFORE Starting a KETO DIET for Mental Health](https://www.youtube.com/watch?v=Hja4VURshKA)        
 - [Researcher with Bipolar Shatters Stigma](https://www.youtube.com/watch?v=hXyR0saiSHA)
 - [躁郁症与生酮饮食治疗研究](/fasting_bipolar.md)        
+- [She Cured 7 Mental Illnesses in 12 Weeks](https://www.youtube.com/watch?v=puyR0JOg7nQ)         
 
 ## Workouts - Coach Kenny
 
