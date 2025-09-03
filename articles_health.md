@@ -112,6 +112,8 @@
 - [甘油三酯与小而密脂蛋白胆固醇 sdLDL-C 关联性研究](tg_sdldl-c.md)    
 - [减肥/生酮/低碳饮食后胆固醇上升了，需要担心吗？](https://mp.weixin.qq.com/s/WUmnvgvGZKjmpAjLIyTeyQ)      
 - [为何“小而密的低密度脂蛋白”更危险？一文说出真相！](https://mp.weixin.qq.com/s/rE1N71Flr91IYvsHDP2jRQ)      
+- [MALCOLM KENDRICK - LDL is not cholesterol …cannot penetrate ENDOTHIELIAL WALL](https://www.youtube.com/watch?v=YrVhPfGcm84)       
+- [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
 
 ### 高血压
 
@@ -298,6 +300,8 @@
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
+- [MALCOLM KENDRICK - LDL is not cholesterol …cannot penetrate ENDOTHIELIAL WALL](https://www.youtube.com/watch?v=YrVhPfGcm84)       
+- [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
 
 ## 双酮断食 Dual-Keto Fasting
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
