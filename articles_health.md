@@ -38,6 +38,8 @@
 - [胰岛素抵抗与糖尿病患者低血糖机制研究](/low_blood_glucose.md)    
 - [浅谈胰岛素抵抗](https://mp.weixin.qq.com/s/rdr8vvEwg8tC_cIdhRBtRQ)      
 - [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
+- [Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.youtube.com/watch?v=3vf4wkpBGN8)       
+- [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
 
 ### 糖尿病
 
@@ -69,6 +71,8 @@
 - [糖尿病类型及前期科学阐述](/diabetes_all.md)     
 - [不同人群血糖波动及标准值详解](/blood_glucose_var.md)    
 - [胰岛素抵抗与糖尿病患者低血糖机制研究](/low_blood_glucose.md)    
+- [Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.youtube.com/watch?v=3vf4wkpBGN8)       
+- [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
 
 ### 脂肪肝
 
@@ -115,6 +119,8 @@
 - [MALCOLM KENDRICK - LDL is not cholesterol …cannot penetrate ENDOTHIELIAL WALL](https://www.youtube.com/watch?v=YrVhPfGcm84)       
 - [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
 - [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)         
+- [Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.youtube.com/watch?v=3vf4wkpBGN8)       
+- [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
 
 ### 高血压
 
