@@ -10,8 +10,13 @@
 
 研究说通常停用了苹果醋后大概七日代谢系统就会回復正常。因想更快回復正常，所以现在正进行较长时间的断食来重置我的代谢系统。
 
+更新 2025 年 9 月 6 日：    
+
+后来证实优质的苹果醋对我有效，真的能控制血糖的，又能令肠道更健康。
+
 Samiux    
 二零二五年七月三日，中国香港    
+更新 二零二五年九月六日，中国香港       
     
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
