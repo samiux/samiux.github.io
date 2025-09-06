@@ -615,28 +615,7 @@
                 </div>
                 
                 <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食) </strong></p>
-                
-                <div class="macro-chart">
-                    <div class="macro-fat" style="width: 70%;"></div>
-                    <div class="macro-protein" style="width: 25%;"></div>
-                    <div class="macro-carbs" style="width: 5%;"></div>
-                </div>
-                
-                <div class="macro-labels">
-                    <div class="macro-label">
-                        <div class="macro-color color-fat"></div>
-                        <span>脂肪 70%</span>
-                    </div>
-                    <div class="macro-label">
-                        <div class="macro-color color-protein"></div>
-                        <span>蛋白质=体重*活动水平</span>
-                    </div>
-                    <div class="macro-label">
-                        <div class="macro-color color-carbs"></div>
-                        <span>碳水化合物 <20g</span>
-                    </div>
-                </div>
-                
+
                 <div class="nutrients-grid">
                     <div class="nutrient-card fat">
                         <h3>脂肪</h3>
@@ -656,6 +635,7 @@
                         <div class="result-unit">克/天</div>
                     </div>
                 </div>
+                
                 
                 <div class="info-box">
                     <p><i class="fas fa-lightbulb"></i> 根据国际生酮营养集团(ISKN)最新指南，长期断食期间应确保足够电解质摄入并定期监测健康状况。</p>
@@ -765,23 +745,15 @@
             const tdee = parseInt(tdeeText);
             
             // 根据断食时长调整热量摄入
-//            let adjustedCalories = tdee;
             let adjustedCalories = bmr;
             
-//            if (currentFastingHours >= 16) {
-//                // 长时间断食调整：减少总热量摄入
-//                const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
-////                adjustedCalories = Math.round(tdee * reductionFactor);
-//                adjustedCalories = Math.round(bmr * reductionFactor);
-//            }
+            if (activityFactor >= 1.55) {
+                adjustedCalories = tdee;
+            }
 
-//            // 计算三大营养素 (双酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
             // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质=体重*活动水平, 碳水<20g)
-//            const fatGrams = Math.round((adjustedCalories * 0.80) / 9);
-//            const proteinGrams = Math.round((adjustedCalories * 0.15) / 4);
             const proteinGrams = Math.round(weight * (activityFactor - 0.2));
             const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
-//            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
             const carbsGrams = 20;
             
             // 显示结果
