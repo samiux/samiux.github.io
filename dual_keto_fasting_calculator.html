@@ -611,10 +611,10 @@
             <div class="card">
                 <div class="card-header">
                     <i class="fas fa-apple-alt fa-2x" style="color: var(--keto-green);"></i>
-                    <h2>双酮营养需求</h2>
+                    <h2>双酮营养需求 (最少每天摄取)</h2>
                 </div>
                 
-                <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
+                <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食) </strong></p>
                 
                 <div class="macro-chart">
                     <div class="macro-fat" style="width: 70%;"></div>
@@ -768,19 +768,19 @@
 //            let adjustedCalories = tdee;
             let adjustedCalories = bmr;
             
-            if (currentFastingHours >= 16) {
-                // 长时间断食调整：减少总热量摄入
-                const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
-//                adjustedCalories = Math.round(tdee * reductionFactor);
-                adjustedCalories = Math.round(bmr * reductionFactor);
-            }
-            
+//            if (currentFastingHours >= 16) {
+//                // 长时间断食调整：减少总热量摄入
+//                const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
+////                adjustedCalories = Math.round(tdee * reductionFactor);
+//                adjustedCalories = Math.round(bmr * reductionFactor);
+//            }
+
 //            // 计算三大营养素 (双酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
             // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质=体重*活动水平, 碳水<20g)
 //            const fatGrams = Math.round((adjustedCalories * 0.80) / 9);
-            const fatGrams = Math.round((adjustedCalories * 0.70) / 9);
 //            const proteinGrams = Math.round((adjustedCalories * 0.15) / 4);
             const proteinGrams = Math.round(weight * (activityFactor - 0.2));
+            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
 //            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
             const carbsGrams = 20;
             
