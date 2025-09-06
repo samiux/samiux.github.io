@@ -604,7 +604,7 @@
                 </div>
                 
                 <div class="info-box">
-                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪80%，蛋白质15%，碳水化合物5%</p>
+                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪55%，蛋白质40%，碳水化合物<5%</p>
                 </div>
                 
                 <button id="calculateBtn" class="keto">
@@ -616,7 +616,7 @@
                     <ul>
                         <li><strong>基础代谢率(BMR)</strong>: 使用Mifflin-St Jeor公式计算，这是目前最准确的方法</li>
                         <li><strong>每日总能量消耗(TDEE)</strong>: BMR × 活动水平系数</li>
-                        <li><strong>双酮营养比例</strong>: 脂肪80%, 蛋白质15%, 碳水化合物5%</li>
+                        <li><strong>双酮营养比例</strong>: 脂肪55%, 蛋白质40%, 碳水化合物<5%</li>
                         <li><strong>断食调整</strong>: 长时间断食(16小时以上)会减少总热量摄入</li>
                     </ul>
                 </div>
@@ -657,23 +657,23 @@
                 <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
                 
                 <div class="macro-chart">
-                    <div class="macro-fat" style="width: 80%;"></div>
-                    <div class="macro-protein" style="width: 15%;"></div>
+                    <div class="macro-fat" style="width: 55%;"></div>
+                    <div class="macro-protein" style="width: 40%;"></div>
                     <div class="macro-carbs" style="width: 5%;"></div>
                 </div>
                 
                 <div class="macro-labels">
                     <div class="macro-label">
                         <div class="macro-color color-fat"></div>
-                        <span>脂肪 80%</span>
+                        <span>脂肪 55%</span>
                     </div>
                     <div class="macro-label">
                         <div class="macro-color color-protein"></div>
-                        <span>蛋白质 15%</span>
+                        <span>蛋白质 40%</span>
                     </div>
                     <div class="macro-label">
                         <div class="macro-color color-carbs"></div>
-                        <span>碳水化合物 5%</span>
+                        <span>碳水化合物 <5%</span>
                     </div>
                 </div>
                 
@@ -811,9 +811,12 @@
                 adjustedCalories = Math.round(bmr * reductionFactor);
             }
             
-            // 计算三大营养素 (双酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
-            const fatGrams = Math.round((adjustedCalories * 0.80) / 9);
-            const proteinGrams = Math.round((adjustedCalories * 0.15) / 4);
+//            // 计算三大营养素 (双酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
+            // 计算三大营养素 (双酮比例: 脂肪55%, 蛋白质40%, 碳水5%)
+//            const fatGrams = Math.round((adjustedCalories * 0.80) / 9);
+            const fatGrams = Math.round((adjustedCalories * 0.55) / 9);
+//            const proteinGrams = Math.round((adjustedCalories * 0.15) / 4);
+            const proteinGrams = Math.round((adjustedCalories * 0.40) / 4);
             const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
             
             // 显示结果
