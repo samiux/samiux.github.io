@@ -553,58 +553,18 @@
                         <h4>12:12</h4>
                         <p>12小时断食</p>
                     </div>
-                    <div class="fasting-option" data-hours="13">
-                        <h4>13:11</h4>
-                        <p>13小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="14">
-                        <h4>14:10</h4>
-                        <p>14小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="15">
-                        <h4>15:9</h4>
-                        <p>15小时断食</p>
-                    </div>
                     <div class="fasting-option selected" data-hours="16">
                         <h4>16:8</h4>
                         <p>16小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="17">
-                        <h4>17:7</h4>
-                        <p>17小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="18">
-                        <h4>18:6</h4>
-                        <p>18小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="19">
-                        <h4>19:5</h4>
-                        <p>19小时断食</p>
                     </div>
                     <div class="fasting-option" data-hours="20">
                         <h4>20:4</h4>
                         <p>20小时断食</p>
                     </div>
-                    <div class="fasting-option" data-hours="21">
-                        <h4>21:3</h4>
-                        <p>21小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="22">
-                        <h4>22:2</h4>
-                        <p>22小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="23">
-                        <h4>23:1</h4>
-                        <p>23小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="24">
-                        <h4>24小时</h4>
-                        <p>每日断食</p>
-                    </div>
                 </div>
                 
                 <div class="info-box">
-                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪55%，蛋白质40%，碳水化合物<5%</p>
+                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪70%，蛋白质=体重*活动水平，碳水化合物<20g</p>
                 </div>
                 
                 <button id="calculateBtn" class="keto">
@@ -616,7 +576,7 @@
                     <ul>
                         <li><strong>基础代谢率(BMR)</strong>: 使用Mifflin-St Jeor公式计算，这是目前最准确的方法</li>
                         <li><strong>每日总能量消耗(TDEE)</strong>: BMR × 活动水平系数</li>
-                        <li><strong>双酮营养比例</strong>: 脂肪55%, 蛋白质40%, 碳水化合物<5%</li>
+                        <li><strong>双酮营养比例</strong>: 脂肪55%, 蛋白质=体重*活动水平, 碳水化合物<20g</li>
                         <li><strong>断食调整</strong>: 长时间断食(16小时以上)会减少总热量摄入</li>
                     </ul>
                 </div>
@@ -657,23 +617,23 @@
                 <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
                 
                 <div class="macro-chart">
-                    <div class="macro-fat" style="width: 55%;"></div>
-                    <div class="macro-protein" style="width: 40%;"></div>
+                    <div class="macro-fat" style="width: 70%;"></div>
+                    <div class="macro-protein" style="width: 25%;"></div>
                     <div class="macro-carbs" style="width: 5%;"></div>
                 </div>
                 
                 <div class="macro-labels">
                     <div class="macro-label">
                         <div class="macro-color color-fat"></div>
-                        <span>脂肪 55%</span>
+                        <span>脂肪 70%</span>
                     </div>
                     <div class="macro-label">
                         <div class="macro-color color-protein"></div>
-                        <span>蛋白质 40%</span>
+                        <span>蛋白质=体重*活动水平</span>
                     </div>
                     <div class="macro-label">
                         <div class="macro-color color-carbs"></div>
-                        <span>碳水化合物 <5%</span>
+                        <span>碳水化合物 <20g</span>
                     </div>
                 </div>
                 
@@ -774,6 +734,8 @@
             const age = parseInt(document.getElementById('age').value);
             const weight = parseFloat(document.getElementById('weight').value);
             const height = parseFloat(document.getElementById('height').value);
+
+            window.weight = weight;    // Global variable
             
             // 使用 Mifflin-St Jeor 公式 (最新研究推荐)
             let bmr;
@@ -788,6 +750,8 @@
             // 计算每日总能量消耗 (TDEE)
             const activityFactor = parseFloat(document.getElementById('activity').value);
             const tdee = Math.round(bmr * activityFactor);
+
+            window.activityFactor = activityFactor;    // Global variable
             
             // 显示结果
             document.getElementById('bmrResult').textContent = bmr.toLocaleString();
@@ -812,12 +776,13 @@
             }
             
 //            // 计算三大营养素 (双酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
-            // 计算三大营养素 (双酮比例: 脂肪55%, 蛋白质40%, 碳水5%)
+            // 计算三大营养素 (双酮比例: 脂肪70%, 蛋白质=体重*活动水平, 碳水<20g)
 //            const fatGrams = Math.round((adjustedCalories * 0.80) / 9);
-            const fatGrams = Math.round((adjustedCalories * 0.55) / 9);
+            const fatGrams = Math.round((adjustedCalories * 0.70) / 9);
 //            const proteinGrams = Math.round((adjustedCalories * 0.15) / 4);
-            const proteinGrams = Math.round((adjustedCalories * 0.40) / 4);
-            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            const proteinGrams = Math.round(weight * (activityFactor - 0.2));
+//            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            const carbsGrams = 20;
             
             // 显示结果
             document.getElementById('fatResult').textContent = fatGrams.toLocaleString();
