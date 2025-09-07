@@ -74,12 +74,12 @@
 
 ## 参考资料
 
-- [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [断食期间AKK对生酮影响研究](/fasting_akk_02.md)    
 - [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
 - [76: Using a Continuous Glucose Monitor (CGM) to Improve Insulin Sensitivity with Dr. Bikman](https://www.youtube.com/watch?v=QCqMmXrf2B8)    
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
+- [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
 
 Samiux    
 二零二五年八月十四日，中国香港     
