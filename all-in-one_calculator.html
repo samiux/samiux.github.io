@@ -1404,7 +1404,7 @@
             
             // 计算三大营养素 
             const proteinGrams = Math.round(weight * (activityFactor - 0.2));
-            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
+            const fatGrams = Math.round(((adjustedCalories - (proteinGrams * 4)) / 9) * 0.5);
             const carbsGrams = 20;
 
 
