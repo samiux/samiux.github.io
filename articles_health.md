@@ -362,6 +362,11 @@
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
+## 
+
+- [深入浅出话生酮 - 酮花顺厂长](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)        
+- [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+
 ## Ketogenic Therapy for Mental Illness
 
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
