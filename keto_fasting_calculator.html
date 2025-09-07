@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>生酮断食营养计算器</title>
+    <title>生酮饮食营养计算器</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -478,7 +478,7 @@
 <body>
     <div class="container">
         <header>
-            <h1><i class="fas fa-calculator"></i> 生酮断食营养计算器</h1>
+            <h1><i class="fas fa-calculator"></i> 生酮饮食营养计算器</h1>
             <p>基于最新研究计算您的基础代谢率与生酮断食营养需求</p>
         </header>
         
@@ -495,11 +495,6 @@
                     <h2>个人信息</h2>
                 </div>
                 
-<!--                <div class="input-group">
-                    <label for="userName"><i class="fas fa-signature"></i> 姓名</label>
-                    <input type="text" id="userName" placeholder="输入您的姓名" value="张伟">
-                </div>
--->                
                 <div class="row">
                     <div class="col">
                         <div class="input-group">
@@ -548,68 +543,7 @@
             <div class="card">
                 <div class="card-header">
                     <i class="fas fa-clock fa-2x" style="color: var(--keto-purple);"></i>
-                    <h2>断食计划</h2>
-                </div>
-                
-                <p>选择您的断食时长：</p>
-                
-                <div class="fasting-options">
-                    <div class="fasting-option" data-hours="12">
-                        <h4>12:12</h4>
-                        <p>12小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="13">
-                        <h4>13:11</h4>
-                        <p>13小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="14">
-                        <h4>14:10</h4>
-                        <p>14小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="15">
-                        <h4>15:9</h4>
-                        <p>15小时断食</p>
-                    </div>
-                    <div class="fasting-option selected" data-hours="16">
-                        <h4>16:8</h4>
-                        <p>16小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="17">
-                        <h4>17:7</h4>
-                        <p>17小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="18">
-                        <h4>18:6</h4>
-                        <p>18小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="19">
-                        <h4>19:5</h4>
-                        <p>19小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="20">
-                        <h4>20:4</h4>
-                        <p>20小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="21">
-                        <h4>21:3</h4>
-                        <p>21小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="22">
-                        <h4>22:2</h4>
-                        <p>22小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="23">
-                        <h4>23:1</h4>
-                        <p>23小时断食</p>
-                    </div>
-                    <div class="fasting-option" data-hours="24">
-                        <h4>24小时</h4>
-                        <p>每日断食</p>
-                    </div>
-                </div>
-                
-                <div class="info-box">
-                    <p><i class="fas fa-info-circle"></i> 根据最新研究，生酮断食期间建议营养比例：脂肪75%，蛋白质20%，碳水化合物5%</p>
+                    <h2>饮食计划</h2>
                 </div>
                 
                 <button id="calculateBtn" class="keto">
@@ -656,31 +590,10 @@
             <div class="card">
                 <div class="card-header">
                     <i class="fas fa-apple-alt fa-2x" style="color: var(--keto-green);"></i>
-                    <h2>生酮营养需求</h2>
+                    <h2>生酮营养需求 (最少每天摄取)</h2>
                 </div>
                 
-                <p>断食方案: <strong id="fastingPlan">16:8 (16小时断食)</strong></p>
-                
-                <div class="macro-chart">
-                    <div class="macro-fat" style="width: 75%;"></div>
-                    <div class="macro-protein" style="width: 20%;"></div>
-                    <div class="macro-carbs" style="width: 5%;"></div>
-                </div>
-                
-                <div class="macro-labels">
-                    <div class="macro-label">
-                        <div class="macro-color color-fat"></div>
-                        <span>脂肪 75%</span>
-                    </div>
-                    <div class="macro-label">
-                        <div class="macro-color color-protein"></div>
-                        <span>蛋白质 20%</span>
-                    </div>
-                    <div class="macro-label">
-                        <div class="macro-color color-carbs"></div>
-                        <span>碳水化合物 5%</span>
-                    </div>
-                </div>
+                <p>饮食方案: <strong id="fastingPlan"></strong></p>
                 
                 <div class="nutrients-grid">
                     <div class="nutrient-card fat">
@@ -726,9 +639,6 @@
     </div>
 
     <script>
-        // 全局变量
-        let currentFastingHours = 16;
-        
         // DOM 加载完成后执行
         document.addEventListener('DOMContentLoaded', function() {
             // 选项卡切换
@@ -779,6 +689,8 @@
             const age = parseInt(document.getElementById('age').value);
             const weight = parseFloat(document.getElementById('weight').value);
             const height = parseFloat(document.getElementById('height').value);
+
+            window.weight = weight;    // Global variable
             
             // 使用 Mifflin-St Jeor 公式 (最新研究推荐)
             let bmr;
@@ -793,6 +705,8 @@
             // 计算每日总能量消耗 (TDEE)
             const activityFactor = parseFloat(document.getElementById('activity').value);
             const tdee = Math.round(bmr * activityFactor);
+
+            window.activityFactor = activityFactor;    // Global variable
             
             // 显示结果
             document.getElementById('bmrResult').textContent = bmr.toLocaleString();
@@ -806,20 +720,16 @@
             const tdee = parseInt(tdeeText);
             
             // 根据断食时长调整热量摄入
-//            let adjustedCalories = tdee;
             let adjustedCalories = bmr;
-            
-            if (currentFastingHours >= 16) {
-                // 长时间断食调整：减少总热量摄入
-                const reductionFactor = 1 - (currentFastingHours / 168 * 0.5);
-//                adjustedCalories = Math.round(tdee * reductionFactor);
-                adjustedCalories = Math.round(bmr * reductionFactor);
+
+            if (activityFactor >= 1.55) {
+                adjustedCalories = tdee;
             }
             
             // 计算三大营养素 (生酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
-            const fatGrams = Math.round((adjustedCalories * 0.75) / 9);
-            const proteinGrams = Math.round((adjustedCalories * 0.2) / 4);
-            const carbsGrams = Math.round((adjustedCalories * 0.05) / 4);
+            const proteinGrams = Math.round(weight * (activityFactor - 0.2));
+            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
+            const carbsGrams = 20;
             
             // 显示结果
             document.getElementById('fatResult').textContent = fatGrams.toLocaleString();
