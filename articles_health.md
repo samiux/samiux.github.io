@@ -27,6 +27,7 @@
 - [DoctorsToTrust](https://www.youtube.com/@doctorstotrust)    
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
 - [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
+- [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
 
 ### 胰岛素抵抗
