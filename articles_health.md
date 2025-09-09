@@ -395,6 +395,10 @@
 - [Protein on Keto: How Much is Too Much? with Dr. Bret Scher](https://www.youtube.com/watch?v=DVyyBY2gHeM)      
 - [How to Determine Optimal Ketone Levels for Ketogenic Therapy with Dr. Bret Scher](https://www.youtube.com/watch?v=ZA8SL-urfjU)       
 
+## Music
+
+- [1 Hour Running Motivational Music – Boost Your Energy & Keep Moving](https://www.youtube.com/watch?v=DV7lpXCaU2Y)       
+
 ## Workouts - Coach Kenny
 
 - [1 minute Legs workout burn inner thighs at home](https://www.youtube.com/shorts/QDRuLDIKhrM)     
