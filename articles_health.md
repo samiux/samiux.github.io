@@ -276,6 +276,7 @@
 
 ## 生酮相关
 
+- [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
 - [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [酮体](/ketones.md)  
@@ -361,6 +362,7 @@
 - [断食生酮后血脂变化分析](/blood_report.md)    
 - [断食生酮期间血酮波动及皮质醇影响](fasting_ketone.md)    
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
+- [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
 ## 有损害健康的食品总汇
