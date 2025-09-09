@@ -275,6 +275,7 @@
 - [JASON FUNG - EAT FAT & FAST …BURN BODY FAT](https://www.youtube.com/watch?v=FQ92VklyUXM)         
 - [JASON FUNG - FAT & PROTEIN …animal fat & animal protein INCREASE GLP1— SATIETY UP; HUNGER DOWN](https://www.youtube.com/watch?v=vhaJEtC3dyw)       
 - [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
+- [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 
 ## 生酮相关
 
@@ -322,6 +323,7 @@
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 - [MALCOLM KENDRICK - LDL is not cholesterol …cannot penetrate ENDOTHIELIAL WALL](https://www.youtube.com/watch?v=YrVhPfGcm84)       
 - [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
+- [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 
 ## 双酮断食 Dual-Keto Fasting
 
