@@ -82,6 +82,7 @@
 - [76: Using a Continuous Glucose Monitor (CGM) to Improve Insulin Sensitivity with Dr. Bikman](https://www.youtube.com/watch?v=QCqMmXrf2B8)    
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [10 Signs Of High Cortisol You Can See](https://www.youtube.com/watch?v=DWnZciwyqqI)        
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
 
 Samiux    
