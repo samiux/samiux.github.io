@@ -87,6 +87,7 @@
 - [10 Signs Of High Cortisol You Can See](https://www.youtube.com/watch?v=DWnZciwyqqI)        
 - [How To Reduce Cortisol Levels Naturally For Weight Loss And Stress Relief](https://www.youtube.com/watch?v=sI7m6qhGWi0)      
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
+- [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 
 Samiux    
 二零二五年八月十四日，中国香港     
