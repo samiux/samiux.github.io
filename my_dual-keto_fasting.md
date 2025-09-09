@@ -38,7 +38,7 @@
 
 ## 
 
-- - [1 Hour Running Motivational Music – Boost Your Energy & Keep Moving](https://www.youtube.com/watch?v=DV7lpXCaU2Y)       
+- [1 Hour Running Motivational Music – Boost Your Energy & Keep Moving](https://www.youtube.com/watch?v=DV7lpXCaU2Y)       
 
 ##  **自重训练 - 油管视频**
 
