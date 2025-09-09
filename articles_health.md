@@ -192,6 +192,7 @@
 - [JASON FUNG - FAT & PROTEIN …animal fat & animal protein INCREASE GLP1— SATIETY UP; HUNGER DOWN](https://www.youtube.com/watch?v=vhaJEtC3dyw)       
 - [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [10 Signs Of High Cortisol You Can See](https://www.youtube.com/watch?v=DWnZciwyqqI)        
 
 ## 比值研究
 
