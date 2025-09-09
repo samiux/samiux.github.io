@@ -381,6 +381,9 @@
 - [Researcher with Bipolar Shatters Stigma](https://www.youtube.com/watch?v=hXyR0saiSHA)
 - [躁郁症与生酮饮食治疗研究](/fasting_bipolar.md)        
 - [She Cured 7 Mental Illnesses in 12 Weeks](https://www.youtube.com/watch?v=puyR0JOg7nQ)         
+- [Debunking Saturated Fat Myths on Keto with Dr. Bret Scher](https://www.youtube.com/watch?v=8vjl0ABKaCs)       
+- [Protein on Keto: How Much is Too Much? with Dr. Bret Scher](https://www.youtube.com/watch?v=DVyyBY2gHeM)      
+- [How to Determine Optimal Ketone Levels for Ketogenic Therapy with Dr. Bret Scher](https://www.youtube.com/watch?v=ZA8SL-urfjU)       
 
 ## Workouts - Coach Kenny
 
