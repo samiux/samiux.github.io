@@ -322,6 +322,8 @@
 - [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
 
 ## 双酮断食 Dual-Keto Fasting
+
+- [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 
