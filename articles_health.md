@@ -80,6 +80,7 @@
 
 ### 脂肪肝
 
+- [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
@@ -87,6 +88,7 @@
 
 ### 血脂及心血管疾病
 
+- [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)    
 - [胆固醇的生理功能与健康管理](/tc_function.md)   
@@ -159,6 +161,7 @@
 - [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
 - [Fix The Microbiome: FASTEST Way To Repair Gut Health (Without Probiotics)](https://www.youtube.com/watch?v=XpJkA-3XZlY)        
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 
 ### 减肥及其他
 
@@ -196,6 +199,7 @@
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
 - [10 Signs Of High Cortisol You Can See](https://www.youtube.com/watch?v=DWnZciwyqqI)        
 - [How To Reduce Cortisol Levels Naturally For Weight Loss And Stress Relief](https://www.youtube.com/watch?v=sI7m6qhGWi0)      
+- [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 
 ## 比值研究
 
