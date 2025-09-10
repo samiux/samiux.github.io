@@ -213,6 +213,7 @@
 - [胰岛素抵抗指标](/hba1c.md)    
 - [葡萄糖酮体指数GKI科学阐释](/gki_02.md)    
 - [葡萄糖酮体指数科学功用详述](/gki_03.md)        
+- [残余胆固醇与单个及多个血管区域动脉粥样硬化斑块的关联](https://mp.weixin.qq.com/s/stcATvLTYi8dWfg9u_ozww)      
 
 ## 断食研究杂谈
 
