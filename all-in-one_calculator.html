@@ -1150,7 +1150,8 @@
             const ldlHdl = hdl ? (ldl / hdl).toFixed(2) : 0;
             const ai = hdl ? ((tc - hdl) / hdl).toFixed(2) : 0;
             const nonHdlHdl = hdl ? ((tc - hdl) / hdl).toFixed(2) : 0;
-            
+            const rc = (tc - hdl -ldl).toFixed(2);
+
             // 创建结果数组
             const results = [
                 { 
@@ -1182,11 +1183,11 @@
                     statusClass: ai < 3 ? "status-normal" : (ai < 4 ? "status-warning" : "status-danger")
                 },
                 { 
-                    title: "Non-HDL-C/HDL-C", 
-                    value: nonHdlHdl,
-                    description: "综合风险评估",
-                    status: nonHdlHdl < 3.5 ? "理想" : (nonHdlHdl < 4.5 ? "临界高" : "高风险"),
-                    statusClass: nonHdlHdl < 3.5 ? "status-normal" : (nonHdlHdl < 4.5 ? "status-warning" : "status-danger")
+                    title: "残余胆固醇 (RC)", 
+                    value: rc,
+                    description: "TC - HDL-C - LDL-C",
+                    status: rc < 1.0 ? "理想" : (rc < 0.8 ? "临界高" : "高风险"),
+                    statusClass: rc < 1.0 ? "status-normal" : (rc < 0.8 ? "status-warning" : "status-danger")
                 }
             ];
             
@@ -1357,8 +1358,6 @@
             const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
             const carbsGrams = 20;
   
-
-          
             // 显示结果
             document.getElementById('bmrResult').textContent = bmr.toLocaleString();
             document.getElementById('tdeeResult').textContent = tdee.toLocaleString();

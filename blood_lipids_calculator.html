@@ -686,12 +686,12 @@
                             <p>计算：(TC - HDL-C)/HDL-C，评估动脉硬化风险。研究显示AI与冠状动脉钙化评分显著相关。</p>
                         </div>
                     </div>
-                    
+
                     <div class="result-card">
-                        <div class="result-title"><i class="fas fa-divide"></i> Non-HDL-C/HDL-C</div>
+                        <div class="result-title"><i class="fas fa-divide"></i> 残余胆固醇 (RC)</div>
                         <div class="result-description">
-                            <p><strong>参考范围：</strong> &lt; 3.5（理想）</p>
-                            <p>非HDL胆固醇与HDL胆固醇比值，综合评估心血管风险。非HDL-C包含所有致动脉粥样硬化脂蛋白。</p>
+                            <p><strong>参考范围：</strong> &lt; 1.0（理想）</p>
+                            <p>这些成分不仅能沉积在血管壁上，还具有很强的促炎性和致动脉粥样硬化能力。LDL-C升高 → 斑块不稳定风险增加2.38倍。LDL-C ↑ + 残余胆固醇 ↑ → 风险增加3.97倍。LDL-C ↑ + 甘油三酯 ↑ → 风险增加4.19倍</p>
                         </div>
                     </div>
                     
@@ -886,6 +886,7 @@
             const ldlHdl = hdl ? (ldl / hdl).toFixed(2) : 0;
             const ai = hdl ? ((tc - hdl) / hdl).toFixed(2) : 0;
             const nonHdlHdl = hdl ? ((tc - hdl) / hdl).toFixed(2) : 0;
+            const rc = (tc - hdl -ldl).toFixed(2);
             
             // 创建结果数组
             currentResults = [
@@ -918,11 +919,11 @@
                     statusClass: ai < 3 ? "status-normal" : (ai < 4 ? "status-warning" : "status-danger")
                 },
                 { 
-                    title: "Non-HDL-C/HDL-C", 
-                    value: nonHdlHdl,
-                    description: "综合风险评估",
-                    status: nonHdlHdl < 3.5 ? "理想" : (nonHdlHdl < 4.5 ? "临界高" : "高风险"),
-                    statusClass: nonHdlHdl < 3.5 ? "status-normal" : (nonHdlHdl < 4.5 ? "status-warning" : "status-danger")
+                    title: "残余胆固醇 (RC)", 
+                    value: rc,
+                    description: "TC - HDL-C - LDL-C",
+                    status: rc < 1.0? "理想" : (rc < 0.8 ? "临界高" : "高风险"),
+                    statusClass: rc < 1.0 ? "status-normal" : (rc < 0.8 ? "status-warning" : "status-danger")
                 }
             ];
             
