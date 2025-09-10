@@ -94,6 +94,7 @@
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 - [节食与轻断食的区别（减肥40）](https://mp.weixin.qq.com/s/SUqFeC9HXl2zcEqwqgP1lQ)        
+- [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 
 Samiux    
 二零二五年八月十四日，中国香港     
