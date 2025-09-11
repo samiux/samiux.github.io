@@ -94,6 +94,11 @@
 - [节食与轻断食的区别（减肥40）](https://mp.weixin.qq.com/s/SUqFeC9HXl2zcEqwqgP1lQ)        
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
+- [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
+- [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
+- [生酮狂掉发？不是戒碳水的锅！](https://mp.weixin.qq.com/s/1piHpLCIKbm71QRBQirRAQ)       
+- [饿到眼冒金星还不瘦？胰岛素是关键！](https://mp.weixin.qq.com/s/A2m_VpbGpVfKP-I08bnlnw)       
+- [生酮党靠这些招把皮质醇按下去！](https://mp.weixin.qq.com/s/0Aj6o0dBanoq8fTj0QqsxA)       
 
 Samiux    
 二零二五年八月十四日，中国香港     
