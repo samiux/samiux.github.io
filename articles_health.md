@@ -334,6 +334,8 @@
 - [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
+- [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
+- [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -379,6 +381,8 @@
 - [断食生酮期间血酮波动及皮质醇影响](fasting_ketone.md)    
 - [碳水循环与生酮饮食的科学分析](/carbo_cycling.md)        
 - [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
+- [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
+- [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
 ## 有损害健康的食品总汇
