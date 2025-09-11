@@ -52,6 +52,10 @@
 - [15 Min FULL BODY KETTLEBELL WORKOUT at Home - Caroline Girvan](https://www.youtube.com/watch?v=VCcar3MA07w)        
 - [30 Min Full Body KETTLEBELL WORKOUT - Supersets](https://www.youtube.com/watch?v=9LIAhxQHmak)
 
+## **自重训练**
+
+- [这套20分钟全身燃脂跟练，有效帮助减少身体脂肪，核心有力了，整体变紧致！](https://mp.weixin.qq.com/s/tdDBRShPaIzBiyQJoG7Tmw)   
+
 ## 不适合人群
 
 儿童、青少年、孕妇、哺乳期妇女及肾病、心脏病患者。每个个体不同，对食物和运动反应不一，敬请留意。      
