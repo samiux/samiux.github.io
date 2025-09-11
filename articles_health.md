@@ -130,6 +130,7 @@
 
 ### 高血压
 
+- [脉压差研究与临床管理指南](/blood_pressure.md)    
 - [高血压与糖尿病之关联](/hypertension_diabetes.md)    
 - [三高之间的关联](/three_hypers.md)   
 - [三高与癌症的关联](/three_hypers_cancer.md)    
