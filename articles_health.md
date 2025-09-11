@@ -200,6 +200,7 @@
 - [10 Signs Of High Cortisol You Can See](https://www.youtube.com/watch?v=DWnZciwyqqI)        
 - [How To Reduce Cortisol Levels Naturally For Weight Loss And Stress Relief](https://www.youtube.com/watch?v=sI7m6qhGWi0)      
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
+- [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 
 ## 比值研究
 
@@ -283,6 +284,7 @@
 - [JASON FUNG - FAT & PROTEIN …animal fat & animal protein INCREASE GLP1— SATIETY UP; HUNGER DOWN](https://www.youtube.com/watch?v=vhaJEtC3dyw)       
 - [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
+- [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 
 ## 生酮相关
 
@@ -331,6 +333,7 @@
 - [MALCOLM KENDRICK - LDL is not cholesterol …cannot penetrate ENDOTHIELIAL WALL](https://www.youtube.com/watch?v=YrVhPfGcm84)       
 - [MALCOLM KENDRICK a - Research: SAT FAT & CHOLESTEROL…Do Not CAUSE Heart Disease](https://www.youtube.com/watch?v=eHhwxf33OrE)      
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
+- [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 
 ## 双酮断食 Dual-Keto Fasting
 
