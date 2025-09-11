@@ -99,6 +99,7 @@
 - [生酮狂掉发？不是戒碳水的锅！](https://mp.weixin.qq.com/s/1piHpLCIKbm71QRBQirRAQ)       
 - [饿到眼冒金星还不瘦？胰岛素是关键！](https://mp.weixin.qq.com/s/A2m_VpbGpVfKP-I08bnlnw)       
 - [生酮党靠这些招把皮质醇按下去！](https://mp.weixin.qq.com/s/0Aj6o0dBanoq8fTj0QqsxA)       
+- [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 
 Samiux    
 二零二五年八月十四日，中国香港     
