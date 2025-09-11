@@ -342,6 +342,8 @@
 - [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
+- [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
+- [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 
 ## MCT 油
 
