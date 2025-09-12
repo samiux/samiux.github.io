@@ -49,6 +49,8 @@
 
 ### 糖尿病
 
+- [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
 - [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)    
 - [糖尿病併发症分类及预防措施](/diabetes.md)   
 - [糖淀粉碳水化合物摄入与健康影响分析](/sugar.md)    
