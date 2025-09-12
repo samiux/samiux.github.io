@@ -20,6 +20,7 @@ Not only try harder but also try smarter!
 
 Active projects but NOT related to CyberSecurity :
 
+- [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 - [MGRS Locator 军用座标定位](/mgrs_page.md)    
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)    
 - [RCCC HKI Duty List](/rccchki.md)    
