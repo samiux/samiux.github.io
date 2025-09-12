@@ -700,7 +700,7 @@
                 <div class="input-row">
                     <div class="input-box">
                         <div class="input-group">
-                            <label for="weight-keto"><i class="fas fa-weight-scale"></i> 体重 (kg)</label>
+                            <label for="weight-keto"><i class="fas fa-weight-scale"></i> 理想体重 (kg)</label>
                             <input type="number" id="weight-keto" min="30" max="200" placeholder="请输入体重">
                         </div>
                     </div>
@@ -1355,8 +1355,8 @@
             
             // 计算三大营养素
             const proteinGrams = Math.round(weight * (activityFactor - 0.2));
-            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
-            const carbsGrams = 20;
+            const carbsGrams = 50;
+            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4) - (carbsGrams * 4)) / 9);
   
             // 显示结果
             document.getElementById('bmrResult').textContent = bmr.toLocaleString();
@@ -1403,8 +1403,8 @@
             
             // 计算三大营养素 
             const proteinGrams = Math.round(weight * (activityFactor - 0.2));
-            const fatGrams = Math.round(((adjustedCalories - (proteinGrams * 4)) / 9) * 0.5);
-            const carbsGrams = 20;
+            const carbsGrams = 100;
+            const fatGrams = Math.round(((adjustedCalories - (proteinGrams * 4) - (carbsGrams * 4)) / 9) * 0.5);
 
 
             
