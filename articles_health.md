@@ -205,6 +205,7 @@
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## 比值研究
 
@@ -290,6 +291,7 @@
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## 生酮相关
 
@@ -343,6 +345,7 @@
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -353,6 +356,7 @@
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## MCT 油
 
