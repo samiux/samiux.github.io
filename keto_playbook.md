@@ -7,6 +7,7 @@
 ### 生酮饮食参考资料 - 酮花顺厂长
 
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)       
 - [新手如何启动生酮饮食](https://mp.weixin.qq.com/s/UKb46eRLW47V2igYXkgqmA)       
 - [生酮食品（营养成分）速查表](https://mp.weixin.qq.com/s/JPxK9WZ6-Hx5K_BvAJBtYA)         
 - [用生酮食品搭配生酮餐](https://mp.weixin.qq.com/s/TPCM8qWqofy_nEJmtOsWGQ)       
