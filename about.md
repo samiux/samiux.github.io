@@ -18,7 +18,7 @@ Not only try harder but also try smarter!
 
 ```
 
-Active but NOT related to CyberSecurity :
+Active projects but NOT related to CyberSecurity :
 
 - [MGRS Locator 军用座标定位](/mgrs_page.md)    
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)    
