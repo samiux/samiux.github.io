@@ -25,6 +25,7 @@
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)    
 - [Ben Bikman](https://www.youtube.com/@benbikman)    
 - [Dr. Pradip Jamnadas, MD - Cardiologist](https://www.youtube.com/@pradipjamnadasmd/featured)    
+- [Glucose Revolution](https://www.youtube.com/@GlucoseRevolution/videos)        
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
 - [DoctorsToTrust](https://www.youtube.com/@doctorstotrust)    
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
