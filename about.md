@@ -16,17 +16,14 @@ Not only try harder but also try smarter!
 当认为是最安全的时候，就是最危险的时候。
 ```
 
-He has some active projects about CyberSecurity, they are :
-
-- [威龙  Weilong - Intrusion Detection and Prevention System](/weilong_en.md)    
-- [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
-
-And not related to CyberSecurity :
+Active but NOT related to CyberSecurity :
 
 - [MGRS Locator 军用座标定位](/mgrs.md)  
 
-Some of his projects are now inactive, they are :
+Some of his projects about CyberSecurity are now inactive, they are :
 
+- [威龙  Weilong - Intrusion Detection and Prevention System](/weilong_en.md)    
+- [Lychee 荔枝 - ClamAV On-Access Scanning Installer Script](/lychee.md)  
 - [Linux Binary Exploitation Challenges Lab](/ctf-pwn.md)  
 - [Chameleon 变色龙 - Website IP Address Seeker](/chameleon.md)
 - [Longjing 龙井 - Deep Learning Driven Web Application Firewall](/longjing.md)
