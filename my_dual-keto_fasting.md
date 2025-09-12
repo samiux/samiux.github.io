@@ -79,6 +79,7 @@
 - [断食生酮后血脂变化分析](/blood_report.md)    
 - [脉压差研究与临床管理指南](/blood_pressure.md)    
 - [轻断食减重的这些优势很重要](https://mp.weixin.qq.com/s/RnrrknaSPln5fIB1Buiflw)        
+- [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 
 ## 计算器
 
@@ -96,6 +97,8 @@
 
 ## 参考资料
 
+- [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
 - [断食期间AKK对生酮影响研究](/fasting_akk_02.md)    
 - [常见食物蛋白质脂肪碳水化合物含量](/foods_protein.md)        
 - [断食运动与皮质醇对生酮影响分析](/fasting_workout.md)       
@@ -114,7 +117,6 @@
 - [生酮狂掉发？不是戒碳水的锅！](https://mp.weixin.qq.com/s/1piHpLCIKbm71QRBQirRAQ)       
 - [饿到眼冒金星还不瘦？胰岛素是关键！](https://mp.weixin.qq.com/s/A2m_VpbGpVfKP-I08bnlnw)       
 - [生酮党靠这些招把皮质醇按下去！](https://mp.weixin.qq.com/s/0Aj6o0dBanoq8fTj0QqsxA)       
-- [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 
 Samiux    
 二零二五年八月十四日，中国香港     
