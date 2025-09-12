@@ -204,6 +204,7 @@
 - [How To Reduce Cortisol Levels Naturally For Weight Loss And Stress Relief](https://www.youtube.com/watch?v=sI7m6qhGWi0)      
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 
 ## 比值研究
 
@@ -288,6 +289,7 @@
 - [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 
 ## 生酮相关
 
@@ -340,6 +342,7 @@
 - [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -349,6 +352,7 @@
 - [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 
 ## MCT 油
 
