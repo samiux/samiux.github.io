@@ -78,6 +78,7 @@
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [断食生酮后血脂变化分析](/blood_report.md)    
 - [脉压差研究与临床管理指南](/blood_pressure.md)    
+- [轻断食减重的这些优势很重要](https://mp.weixin.qq.com/s/RnrrknaSPln5fIB1Buiflw)        
 
 ## 计算器
 
