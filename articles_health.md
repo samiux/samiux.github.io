@@ -168,6 +168,8 @@
 
 ### 减肥及其他
 
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 - [骨質疏鬆](/osteoporosis.md)
 - [脉压差研究与临床管理指南](/blood_pressure.md)    
 - [高同型半胱氨酸血症是什么？如何诊治？](https://mp.weixin.qq.com/s/u1eY6pqPLQWPOTQzZTMM6A)    
@@ -204,8 +206,6 @@
 - [How To Reduce Cortisol Levels Naturally For Weight Loss And Stress Relief](https://www.youtube.com/watch?v=sI7m6qhGWi0)      
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
-- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
-- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## 比值研究
 
@@ -227,6 +227,8 @@
 
 ## 断食研究杂谈
 
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 - [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [「无糖减碳 一日两餐」](/fasting_diabetes_fatty_liver.md)  
@@ -290,11 +292,11 @@
 - [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 - [当科学和身体的反馈不一致怎么办？](https://mp.weixin.qq.com/s/7HM1lYtjsmArBjlsOir11A)       
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
-- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
-- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## 生酮相关
 
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 - [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
 - [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
@@ -344,19 +346,17 @@
 - [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
-- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
-- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## 双酮断食 Dual-Keto Fasting
 
+- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
+- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 - [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
 - [双酮断食科学机制与临床证据](/dual-keto_fasting.md)    
 - [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
 - [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
-- [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
-- [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 
 ## MCT 油
 
