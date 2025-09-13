@@ -46,6 +46,7 @@
 - [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
 - [Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.youtube.com/watch?v=3vf4wkpBGN8)       
 - [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
+- [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)        
 
 ### 糖尿病
 
@@ -81,6 +82,7 @@
 - [胰岛素抵抗与糖尿病患者低血糖机制研究](/low_blood_glucose.md)    
 - [Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.youtube.com/watch?v=3vf4wkpBGN8)       
 - [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
+- [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)        
 
 ### 脂肪肝
 
