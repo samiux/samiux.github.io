@@ -142,6 +142,7 @@
 - [三高与癌症的关联](/three_hypers_cancer.md)    
 - [“六高”的共同特点与综合危害](https://mp.weixin.qq.com/s/5CSEDCGtiDDcT2b_aAlyZw)    
 - [IVOR CUMMINS - BEST DIET? REVIEW …LOW CARB=36 low fat=0](https://m.youtube.com/watch?v=XmMuC6L-08M)       
+- [天生高血压“命”，如何养出98/65的“神仙血压”？4个方法，打破“高血压遗传”的魔咒](https://mp.weixin.qq.com/s/OFSw9WCG2-HUKvqndJt_Ng)         
 
 ### 尿酸及痛风
 
