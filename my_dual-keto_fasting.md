@@ -112,6 +112,7 @@
 
 ## 参考资料
 
+- [还在信“清淡饮食、不吃肉”？你可能一辈子都没吃够蛋白质！](https://mp.weixin.qq.com/s/xUzQksRGIJufSe0eNKmoGw)      
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
 - [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
 - [断食期间AKK对生酮影响研究](/fasting_akk_02.md)    
