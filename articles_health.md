@@ -134,6 +134,7 @@
 - [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=qHS2yGKdGs8)         
 - [Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.youtube.com/watch?v=3vf4wkpBGN8)       
 - [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
+- [“甘油三酯”超过这个数值，相当于离心梗又近了一步，别不当回事](https://mp.weixin.qq.com/s/CeYcAECIT5uwKENUAU7XCw)         
 
 ### 高血压
 
