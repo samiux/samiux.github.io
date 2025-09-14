@@ -412,6 +412,20 @@
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
 - [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
 
+## Metabolic Classroom
+
+- [The Metabolic Classroom](https://www.youtube.com/playlist?list=PL5W4R3fxC149TQFzfwlDFxYur0yPGBUTT)        
+- [116: Can You Build Muscle on a Low-Carb Ketogenic Diet? What the Science Says with Dr. Ben Bikman](https://www.youtube.com/watch?v=-CBH-R7DJ0o)        
+- [98: Cortisol & Insulin Resistance: How Cortisol Drives Fat Gain & Carb Cravings with Dr. Ben Bikman](https://www.youtube.com/watch?v=hwr1W_qJtPM)        
+- [84: The Metabolic Consequences of Poor Sleep with Dr. Ben Bikman](https://www.youtube.com/watch?v=8kkE_alnIYg)        
+- [57: Exogenous Ketones with Dr. Ben Bikman](https://www.youtube.com/watch?v=I6D_0QB3lh8)        
+- [56: Heart Health, Fat Matters with Dr. Ben Bikman](https://www.youtube.com/watch?v=cnDQz3YM8Ag)        
+- [54: Saturated Fat with Dr. Ben Bikman](https://www.youtube.com/watch?v=ifmeiWoVRo0)        
+- [38: Where Insulin Resistance Comes From with Dr. Ben Bikman](https://www.youtube.com/watch?v=O8NJMkrvX4s)        
+- [30: Control Fat by Burning Fat with Dr. Ben Bikman](https://www.youtube.com/watch?v=KQUVaYxoa-c)        
+- [24: Does Low Carb Spike Cortisol? with Dr. Ben Bikman](https://www.youtube.com/watch?v=lppsPOEpHEM)        
+- [21: Intermittent Fasting with Dr. Ben Bikman](https://www.youtube.com/watch?v=FKJx6C5ccv4)        
+
 ## Ketogenic Therapy for Mental Illness
 
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
