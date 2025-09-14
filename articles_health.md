@@ -446,6 +446,7 @@
 ## Music
 
 - [1 Hour Running Motivational Music – Boost Your Energy & Keep Moving](https://www.youtube.com/watch?v=DV7lpXCaU2Y)       
+- [30 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats](https://www.youtube.com/watch?v=nbP7m0S0Ato)      
 
 ## HIIT & Walk in Place
 
