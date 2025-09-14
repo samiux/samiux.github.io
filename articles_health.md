@@ -91,6 +91,7 @@
 - [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
 - [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
+- [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)      
 
 ### 血脂及心血管疾病
 
