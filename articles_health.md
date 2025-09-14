@@ -447,6 +447,16 @@
 
 - [1 Hour Running Motivational Music – Boost Your Energy & Keep Moving](https://www.youtube.com/watch?v=DV7lpXCaU2Y)       
 
+## HIIT & Walk in Place
+
+### HIIT
+
+- [20 Minute Full Body Cardio HIIT Workout - NO REPEAT](https://www.youtube.com/watch?v=M0uO8X3_tEA)    
+
+### Walk in Place
+
+- [Classic 2 Mile Workout by Walk at Home - DLCC3 - Steel City Series](https://www.youtube.com/watch?v=UNA_1DXsLmg)       
+
 ## Workouts - Coach Kenny
 
 - [1 minute Legs workout burn inner thighs at home](https://www.youtube.com/shorts/QDRuLDIKhrM)     
