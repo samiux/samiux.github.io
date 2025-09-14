@@ -55,6 +55,7 @@
 ### HIIT
 
 - [20 Minute Full Body Cardio HIIT Workout - NO REPEAT](https://www.youtube.com/watch?v=M0uO8X3_tEA)    
+- [30 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats](https://www.youtube.com/watch?v=nbP7m0S0Ato)      
 
 ### Walk in Place
 
