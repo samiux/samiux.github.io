@@ -20,7 +20,7 @@
 
 ###  **进食期**（每日 4-8 小时）  
    - **宏量营养素比例**       
-     - 脂肪 50% 总代谢率能量。来自健康的饱和脂肪及单元不饱和脂肪（优先黄油、深海鱼、牛油果、椰子油、坚果等）  
+     - 脂肪 50% 总代谢率能量。来自健康的饱和脂肪及单元不饱和脂肪（优先黄油、猪油、深海鱼、牛油果、椰子油、坚果、MCT 油等）  
      - 蛋白质 总能量来自必需的蛋白质（0.8-1.8克/千克理想体重/日）及活动水平指标的运算      
      - 碳水化合物 ≤100克/日 (包括蔬菜、水果、淀粉质等，但以蔬菜为主)    
 
@@ -52,12 +52,12 @@
 
 ## HIIT & Walk in Place
 
-### HIIT
+### HIIT 间歇性高强度运动 - 油管视频
 
 - [20 Minute Full Body Cardio HIIT Workout - NO REPEAT](https://www.youtube.com/watch?v=M0uO8X3_tEA)    
 - [30 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats](https://www.youtube.com/watch?v=nbP7m0S0Ato)      
 
-### Walk in Place
+### Walk in Place 原地步行运动 - 油管视频
 
 - [Classic 2 Mile Workout by Walk at Home - DLCC3 - Steel City Series](https://www.youtube.com/watch?v=UNA_1DXsLmg)       
 
