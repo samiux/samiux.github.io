@@ -52,6 +52,7 @@
 ### 糖尿病
 
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [“0脂代糖”比糖还伤身体？这2大健康风险被多项研究实锤](https://mp.weixin.qq.com/s/J70oocy9mT0rCLLudV3IzA)        
 - [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
 - [素食与高血脂糖尿病的关系分析](vegetarian_diet_01.md)    
 - [糖尿病併发症分类及预防措施](/diabetes.md)   
@@ -215,6 +216,7 @@
 - [JASON FUNG - FAT & PROTEIN …animal fat & animal protein INCREASE GLP1— SATIETY UP; HUNGER DOWN](https://www.youtube.com/watch?v=vhaJEtC3dyw)       
 - [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](https://www.youtube.com/watch?v=8RuWp3s6Uxk)       
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [“0脂代糖”比糖还伤身体？这2大健康风险被多项研究实锤](https://mp.weixin.qq.com/s/J70oocy9mT0rCLLudV3IzA)        
 - [10 Signs Of High Cortisol You Can See](https://www.youtube.com/watch?v=DWnZciwyqqI)        
 - [How To Reduce Cortisol Levels Naturally For Weight Loss And Stress Relief](https://www.youtube.com/watch?v=sI7m6qhGWi0)      
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
@@ -425,6 +427,7 @@
 
 - [深入浅出话生酮 - 酮花顺厂长](/keto_playbook.md)        
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
+- [“0脂代糖”比糖还伤身体？这2大健康风险被多项研究实锤](https://mp.weixin.qq.com/s/J70oocy9mT0rCLLudV3IzA)        
 - [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
 
 ## Metabolic Classroom
