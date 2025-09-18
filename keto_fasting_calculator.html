@@ -727,9 +727,10 @@
             }
             
             // 计算三大营养素 (生酮比例: 脂肪80%, 蛋白质15%, 碳水5%)
-            const proteinGrams = Math.round(weight * (activityFactor - 0.2));
-            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4)) / 9);
+//            const proteinGrams = Math.round(weight * (activityFactor - 0.2));
+            const proteinGrams = Math.round(weight * activityFactor);
             const carbsGrams = 20;
+            const fatGrams = Math.round((adjustedCalories - (proteinGrams * 4) - (carbsGrams * 4)) / 9);
             
             // 显示结果
             document.getElementById('fatResult').textContent = fatGrams.toLocaleString();
