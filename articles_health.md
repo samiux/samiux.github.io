@@ -368,6 +368,7 @@
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 - [营养性酮症有助于改善大脑健康](https://mp.weixin.qq.com/s/bTq3ufzbOhfXHIk6IPEEcA)        
 - [轻松破平台期，打开燃脂开关AMPK，让“燃脂信号”直达细胞](https://mp.weixin.qq.com/s/QSPQnR-9LSdbFzVvaYI-Tg)      
+- [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -380,6 +381,7 @@
 - [听我一句劝：生酮和碳循环真的别硬凑了](https://mp.weixin.qq.com/s/RLj0jcr_ed9lKOcllD6WtQ)        
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
+- [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
 
 ## MCT 油
 
