@@ -15,7 +15,7 @@
  sudo -sH
  ```
  
- Downloading the ARM64 image.
+ Download the ARM64 image.
  
  ```
  qemu-debootstrap --arch=arm64 --keyring /usr/share/keyrings/debian-archive-keyring.gpg \
