@@ -151,6 +151,7 @@
 - [Realtime Kernel for Ubuntu 24.04 LTS](/realtime_kernel.md)  
 - [AMD Graphics Cards Open Source Driver by AMD](/amdgpu-install.md)  
 - [rc.local on Ubuntu 24.04 LTS](/rclocal.md)    
+- [Making a chroot ARM64 Environment on AMD64](/chroot_arm64.md)        
 
 ### DeepSeek and LLM
 
