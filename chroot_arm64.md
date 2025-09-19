@@ -32,10 +32,12 @@ chroot debian-arm64/
 apt install build-essential cmake dh-make locales nano dialog
 ```
  
- Fix locales.
+ Fix locales.  Uncomment the locales that you are using.
  
 ```
-dpkg-reconfigure locales
+nano /etc/locale.gen
+locale-gen
+update-locale
 ```
 
 Should choose ```C.UTF-8``` as default.
