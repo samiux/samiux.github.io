@@ -29,7 +29,7 @@ chroot debian-arm64/
 ## On the guest
  
 ```
-apt install build-essential cmake dh-make locales nano dialog
+apt install build-essential cmake dh-make locales nano dialog apt-utils
 ```
  
  Fix locales.  Uncomment the locales that you are using.
