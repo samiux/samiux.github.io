@@ -35,8 +35,6 @@ apt install build-essential cmake dh-make locales nano dialog
  Fix locales.
  
 ```
-nano /etc/locale.gen
-locale-gen
 dpkg-reconfigure locales
 ```
 
