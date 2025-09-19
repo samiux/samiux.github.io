@@ -40,8 +40,6 @@ locale-gen
 update-locale
 ```
 
-Should choose ```C.UTF-8``` as default.
-
 Samiux        
 September 19, 2025, Hong Kong, China        
 
