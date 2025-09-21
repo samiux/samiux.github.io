@@ -38,4 +38,11 @@ To login please use the "openvpn" account with "xxxxxxxxxxxx" password.
 
 To download user's ```profile``` on Client UI per user and import to the latest version of ```OpenVPN Connect 3``` client application.  It is available for Windows, macOS, iOS, Android and ChromeOS.
 
+## Reference
+
+- [Installing Access Server](https://openvpn.net/as-docs/installation.html)
+
+Samiux    
+September 21, 2025, Hong Kong, China    
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
