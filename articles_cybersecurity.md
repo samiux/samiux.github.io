@@ -152,6 +152,7 @@
 - [AMD Graphics Cards Open Source Driver by AMD](/amdgpu-install.md)  
 - [rc.local on Ubuntu 24.04 LTS](/rclocal.md)    
 - [Making a chroot ARM64 Environment on AMD64](/chroot_arm64.md)        
+- [Deployment of OpenVPN Access Server with 2 Connections Free](/openvpn_as.md)      
 
 ### DeepSeek and LLM
 
