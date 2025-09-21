@@ -6,7 +6,7 @@ The fastest way to deploy OpenVPN server is to install [OpenVPN Access Server](h
 
 You need to sign up your account at [OpenVPN Access Server Page](https://myaccount.openvpn.com/signup?product=AS) and follow the instruction to install and deploy the server.
 
-The current version is 3.0.1 at this time of writing and you can install the previous old 2.x versions (the latest is 2.14.3) too.  Please refer to the [Release Notes](https://openvpn.net/as-docs/release-notes.html) for details.
+The current version is 3.0.1 as of this time writing and you can install the previous old 2.x versions (the latest is 2.14.3) too.  Please refer to the [Release Notes](https://openvpn.net/as-docs/release-notes.html) for details.
 
 ## Installation
 
