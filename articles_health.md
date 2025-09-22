@@ -311,6 +311,7 @@
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 - [轻断食减重的这些优势很重要](https://mp.weixin.qq.com/s/RnrrknaSPln5fIB1Buiflw)        
 - [轻松破平台期，打开燃脂开关AMPK，让“燃脂信号”直达细胞](https://mp.weixin.qq.com/s/QSPQnR-9LSdbFzVvaYI-Tg)      
+- [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 
 ## 生酮相关
 
@@ -369,6 +370,7 @@
 - [营养性酮症有助于改善大脑健康](https://mp.weixin.qq.com/s/bTq3ufzbOhfXHIk6IPEEcA)        
 - [轻松破平台期，打开燃脂开关AMPK，让“燃脂信号”直达细胞](https://mp.weixin.qq.com/s/QSPQnR-9LSdbFzVvaYI-Tg)      
 - [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
+- [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -382,6 +384,7 @@
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 - [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
+- [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 
 ## MCT 油
 
