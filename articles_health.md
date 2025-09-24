@@ -7,15 +7,15 @@
 ## 计算器
 
 - [eGFR calculator](https://kidney.org.au/health-professionals/egfr-calculator)        
-- [综合健康计算器](/all-in-one_calculator.html)    
-- [代谢健康指标计算器](/metabolism_index_calculator.html)    
-- [代谢健康指标计算器 (增强版)](/metabolism_index_calculator_plus.html)
-- [血糖酮指数(GKI)计算器](/gki_calculator.html)     
-- [健康追踪器](/health_tracker.html)    
-- [生酮饮食营养计算器](/keto_fasting_calculator.html)    
-- [血脂指数计算器](/blood_lipids_calculator.html)    
-- [双酮断食营养计算器](/dual_keto_fasting_calculator.html)     
-- [亚洲人体脂率计算器](/body_fat_calculator.html)    
+- [综合健康计算器](/html/all-in-one_calculator.html)    
+- [代谢健康指标计算器](/html/metabolism_index_calculator.html)    
+- [代谢健康指标计算器 (增强版)](/html/metabolism_index_calculator_plus.html)
+- [血糖酮指数(GKI)计算器](/html/gki_calculator.html)     
+- [健康追踪器](/html/health_tracker.html)    
+- [生酮饮食营养计算器](/html/keto_fasting_calculator.html)    
+- [血脂指数计算器](/html/blood_lipids_calculator.html)    
+- [双酮断食营养计算器](/html/dual_keto_fasting_calculator.html)     
+- [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 
 ## 健康研究杂谈
 
