@@ -316,6 +316,7 @@
 - [轻松破平台期，打开燃脂开关AMPK，让“燃脂信号”直达细胞](https://mp.weixin.qq.com/s/QSPQnR-9LSdbFzVvaYI-Tg)      
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
+- [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 
 ## 生酮相关
 
@@ -376,6 +377,7 @@
 - [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
+- [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -391,6 +393,7 @@
 - [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
+- [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 
 ## MCT 油
 
