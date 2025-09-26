@@ -16,7 +16,6 @@ $ cat /etc/systemd/resolved.conf.d/10-make-dns-work.conf
 
 [Resolve]
 DNSStubListener=no
-
 ```
 ```
 sudo systemctl restart systemd-resolved
@@ -34,6 +33,12 @@ sudo systemctl restart systemd-resolved
 ```
    
 Set the DHCP optional primary DNS to the IP of the Ubuntu host, such as 192.168.0.244.
+
+## Remarks
+
+If Windows machine cannot get response from Pi-Hole DNS, you should do the following :
+
+Settings -- DNS (Expert Mode) click and enable ```Respond only on interface eth0```.
 
 ## Reference
 
