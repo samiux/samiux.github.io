@@ -105,6 +105,7 @@
 - [为什么人体既能燃烧糖又能燃烧脂肪？](https://mp.weixin.qq.com/s/EWeYMGRKCckO0YdZFjFURQ)        
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
+- [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 
 ## 计算器
 
