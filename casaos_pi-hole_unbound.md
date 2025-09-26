@@ -38,15 +38,28 @@ Set the DHCP primary DNS to the IP of the Ubuntu host (Pi-hole hardware IP addre
 
 Make sure to set : Settings -- DNS (Expert Mode) click and enable ```Respond only on interface eth0```, then save the setting.
 
+## Additional Blocklist
+
+There are a lot of blocklist for Pi-Hole available in the internet.  I use the following blocklist.  Make sure to use the list for Pi-Hole or Adblock.  Update the lists after added the sources.
+
+- [DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists)    
+
+You can update the lists every day by using cronjob by using the following command :
+
+```
+sudo docker exec big-bear-pihole-unbound pihole -g
+```
+
 ## Remarks
 
-If browser is using secure DNS, such as Microsoft Edge, make sure to disable it or enable ```DNSSEC``` in Pi-Hole.  I prefer to disable secure DNS at the browser.
+If browser is using secure DNS, such as Microsoft Edge, make sure to disable it or enable ```DNSSEC``` in Pi-Hole.  I prefer to disable secure DNS at the browser as it cannot bypass the Pi-Hole.
 
 ## Reference
 
 - [CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system ](https://github.com/IceWhaleTech/CasaOS)     
 - [Pi-Hole - Network-wide Ad Blocking](https://pi-hole.net/)    
 - [Unbound - a validating, recursive, caching DNS resolver](https://nlnetlabs.nl/projects/unbound/about/)    
+- [DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists)    
 
 Samiux     
 September 26, 2025, Hong Kong, China    
