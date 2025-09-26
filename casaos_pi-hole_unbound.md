@@ -44,7 +44,7 @@ There are a lot of blocklist for Pi-Hole available in the internet.  I use the f
 
 - [DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists)    
 
-You can update the lists every day by using cronjob by using the following command :
+You can update the lists every day by using cronjob using the following command :
 
 ```
 sudo docker exec big-bear-pihole-unbound pihole -g
