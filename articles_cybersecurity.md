@@ -153,6 +153,7 @@
 - [rc.local on Ubuntu 24.04 LTS](/rclocal.md)    
 - [Making a chroot ARM64 Environment on AMD64](/chroot_arm64.md)        
 - [Deployment of OpenVPN Access Server with 2 Connections Free](/openvpn_as.md)      
+- [Setting up Pi-Hole & Unbound with CasaOS on Ubuntu 24.04.3 LTS](/casaos_pi-hole_unbound.md)    
 
 ### DeepSeek and LLM
 
