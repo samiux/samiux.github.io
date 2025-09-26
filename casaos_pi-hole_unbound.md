@@ -38,7 +38,7 @@ Make sure to set : Settings -- DNS (Expert Mode) click and enable ```Respond onl
 
 ## Remarks
 
-If browser is using secure DNS, such as Microsoft Edge, make sure to disable it or enable ```DNSSEC``` in Pi-Hole.
+If browser is using secure DNS, such as Microsoft Edge, make sure to disable it or enable ```DNSSEC``` in Pi-Hole.  I prefer to disable secure DNS at the browser.
 
 ## Reference
 
