@@ -32,13 +32,13 @@ sudo rm /etc/systemd/resolved.conf.d/10-make-dns-work.conf
 sudo systemctl restart systemd-resolved  
 ```
    
-Set the DHCP optional primary DNS to the IP of the Ubuntu host, such as 192.168.0.244.
+Set the DHCP primary DNS to the IP of the Ubuntu host (Pi-hole hardware IP address), such as 192.168.0.244.
+
+Make sure to set : Settings -- DNS (Expert Mode) click and enable ```Respond only on interface eth0```, then save the setting.
 
 ## Remarks
 
-If Windows machine cannot get response from Pi-Hole DNS, you should do the following :
-
-Settings -- DNS (Expert Mode) click and enable ```Respond only on interface eth0```.
+If browser is using secure DNS, such as Microsoft Edge, make to to disable it or enable DNSSEC in Pi-Hole.
 
 ## Reference
 
