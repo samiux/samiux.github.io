@@ -2,6 +2,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+Pi-Hole on CasaOS is running as Docker container.  The setting is a little bit difference to normal setup.
+
 Change the port 53 to 5300 including TCP and UDP in the setup screen before installing the Pi-Hole.  Otherwise, the Pi-Hole cannot be installed on CasaOS as port 53 is being used.  Make sure to change the password and timezone inside the setting popup as well.
 
 ```   
