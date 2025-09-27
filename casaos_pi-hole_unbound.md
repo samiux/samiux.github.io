@@ -50,6 +50,49 @@ You can update the lists every day by using cronjob using the following command 
 sudo docker exec big-bear-pihole-unbound pihole -g
 ```
 
+### Recommanded Blocklist
+
+```
+URL Shortener - Blocks link shortener!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/urlshortener.txt
+
+DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt
+
+DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
+
+Newly Registered Domains (NRD)
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd28-22.txt
+
+Threat Intelligence Feeds - Increases security significantly! (Recommended)
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+
+Pop-Up Ads - Protects against annoying and malicious pop-up ads!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
+
+Fake - Protects against internet scams, traps & fakes!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
+
+Multi PRO - Extended protection (Recommended)
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+
+Most Abused TLDs - Protects against known malicious Top Level Domains! (Recommended)
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock.txt
+
+Anti Piracy - Protects against piracy!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/anti.piracy.txt
+
+Gambling - Protects against gambling content!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt
+
+Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
+
+NSFW - Protects against adult content!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt
+```
+
 ## Remarks
 
 If browser is using secure DNS, such as Microsoft Edge, make sure to disable it or enable ```DNSSEC``` in Pi-Hole.  I prefer to disable secure DNS at the browser as it cannot bypass the Pi-Hole.
