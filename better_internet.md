@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-Scam, phishing, malicious sites/ads/DNS, malware, ransomware, intrusion, ads everywhere nowadays.  For a better internet, we need to keep the interent fast, secure and clean!
+Scam, phishing, malicious sites/ads/DNS, malware, ransomware, intrusion everywhere nowadays.  For a better internet, we need to keep the interent fast, secure and clean!
 
 To keep internet fast, secure and clean for every businesses and homes as well as mobile devices, such as smartphones, tablets, we need to deploy open source software - Suricata and Pi-Hole as well as OpenVPN.  
 
