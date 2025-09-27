@@ -77,6 +77,9 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
 Multi PRO - Extended protection (Recommended)
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
 
+Multi PRO++ - Maximum protection
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
+
 Most Abused TLDs - Protects against known malicious Top Level Domains! (Recommended)
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock.txt
 
