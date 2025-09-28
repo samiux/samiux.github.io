@@ -108,6 +108,7 @@
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
+- [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 
 ## 计算器
 
