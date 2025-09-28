@@ -100,6 +100,7 @@
 
 ### 血脂及心血管疾病
 
+- [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 - [吃肉越多，胆固醇越高，越长寿，史上最大100岁老人研究，打了多少专家的脸？](https://mp.weixin.qq.com/s/EPDiByQnRZES7wG6lTG73Q)        
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [断食生酮与胆固醇及其升高详解](/fasting_tc_high.md)    
@@ -243,6 +244,7 @@
 - [葡萄糖酮体指数GKI科学阐释](/gki_02.md)    
 - [葡萄糖酮体指数科学功用详述](/gki_03.md)        
 - [残余胆固醇与单个及多个血管区域动脉粥样硬化斑块的关联](https://mp.weixin.qq.com/s/stcATvLTYi8dWfg9u_ozww)      
+- [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 
 ## 断食研究杂谈
 
@@ -317,6 +319,7 @@
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
+- [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 
 ## 生酮相关
 
@@ -378,6 +381,7 @@
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
+- [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -394,6 +398,7 @@
 - [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
+- [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 
 ## MCT 油
 
