@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血压差计算器</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Microsoft YaHei', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4efe9 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 8px;
+            background: linear-gradient(90deg, #3498db, #e74c3c);
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eaeaea;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 2.5rem;
+        }
+        
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .calculator {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        @media (max-width: 768px) {
+            .calculator {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .input-section {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+        
+        .input-group {
+            margin-bottom: 25px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 1.1rem;
+        }
+        
+        input {
+            width: 100%;
+            padding: 14px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        
+        input:focus {
+            border-color: #3498db;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+        }
+        
+        button {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            border: none;
+            padding: 16px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: 600;
+            transition: all 0.3s;
+            width: 100%;
+            box-shadow: 0 4px 6px rgba(52, 152, 219, 0.3);
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(52, 152, 219, 0.4);
+        }
+        
+        button:active {
+            transform: translateY(0);
+        }
+        
+        .result {
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .result h3 {
+            margin-bottom: 20px;
+            color: #2c3e50;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            display: inline-block;
+        }
+        
+        .pulse-pressure {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin: 15px 0;
+            color: #e74c3c;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .interpretation {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            line-height: 1.7;
+        }
+        
+        .normal {
+            background-color: #d4edda;
+            color: #155724;
+            border-left: 5px solid #28a745;
+        }
+        
+        .fatigue {
+            background-color: #fff3cd;
+            color: #856404;
+            border-left: 5px solid #ffc107;
+        }
+        
+        .danger {
+            background-color: #f8d7da;
+            color: #721c24;
+            border-left: 5px solid #dc3545;
+        }
+        
+        .info-section {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 1px solid #eaeaea;
+        }
+        
+        .info-section h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+        
+        .info-section p {
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+        }
+        
+        .info-box {
+            background: linear-gradient(135deg, #e8f4fc, #d1ecf1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            border-left: 5px solid #3498db;
+        }
+        
+        .info-box p {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .info-box p:before {
+            content: "•";
+            color: #3498db;
+            font-weight: bold;
+            margin-right: 10px;
+            font-size: 1.5rem;
+        }
+        
+        .pressure-scale {
+            display: flex;
+            margin: 25px 0;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .scale-item {
+            flex: 1;
+            padding: 15px 10px;
+            text-align: center;
+            color: white;
+            font-weight: 600;
+        }
+        
+        .scale-low {
+            background: linear-gradient(135deg, #dc3545, #c82333);
+        }
+        
+        .scale-normal {
+            background: linear-gradient(135deg, #28a745, #218838);
+        }
+        
+        .scale-fatigue {
+            background: linear-gradient(135deg, #ffc107, #e0a800);
+        }
+        
+        .scale-high {
+            background: linear-gradient(135deg, #dc3545, #c82333);
+        }
+        
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 1rem;
+            padding-top: 20px;
+            border-top: 1px solid #eaeaea;
+        }
+        
+        .heart-icon {
+            color: #e74c3c;
+            font-size: 1.5rem;
+            margin: 0 5px;
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>血压差计算器</h1>
+            <p class="subtitle">计算您的脉压并了解其对健康的意义</p>
+        </header>
+        
+        <div class="calculator">
+            <div class="input-section">
+                <div class="input-group">
+                    <label for="systolic">收缩压 (mmHg)</label>
+                    <input type="number" id="systolic" placeholder="例如：120" min="50" max="250">
+                </div>
+                
+                <div class="input-group">
+                    <label for="diastolic">舒张压 (mmHg)</label>
+                    <input type="number" id="diastolic" placeholder="例如：80" min="30" max="150">
+                </div>
+                
+                <button id="calculate-btn">计算差值</button>
+            </div>
+            
+            <div class="result-section">
+                <div class="result" id="result">
+                    <h3>您的结果</h3>
+                    <p>脉压 (差值): <span class="pulse-pressure" id="pulse-pressure">0</span> mmHg</p>
+                    <div class="interpretation" id="interpretation">
+                        请输入您的血压读数以查看解读。
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="pressure-scale">
+            <div class="scale-item scale-low">&lt;20 mmHg<br>偏低</div>
+            <div class="scale-item scale-normal">20-40 mmHg<br>正常</div>
+            <div class="scale-item scale-fatigue">40-60 mmHg<br>疲劳</div>
+            <div class="scale-item scale-high">&gt;60 mmHg<br>偏高</div>
+        </div>
+        
+        <div class="info-section">
+            <h2>了解脉压</h2>
+            <p>脉压是您的收缩压（高压）和舒张压（低压）读数之间的差值。</p>
+            
+            <div class="info-box">
+                <p><strong>偏低脉压:</strong> &lt;20 mmHg (可能表示心输出量减少)</p>
+                <p><strong>正常脉压:</strong> 20-40 mmHg (健康范围)</p>
+                <p><strong>疲劳脉压:</strong> 40-60 mmHg (可能表示疲劳或早期动脉硬化)</p>
+                <p><strong>偏高脉压:</strong> &gt;60 mmHg (可能表示明显的动脉硬化)</p>
+            </div>
+            
+            <p><strong>注意:</strong> 此计算器仅提供教育信息。请咨询医疗专业人士以获取医疗建议。 <span class="heart-icon">❤</span></p>
+        </div>
+        
+        <footer>
+            <p>血压计算器 &copy; 2025 | 仅用于教育目的</p>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const calculateBtn = document.getElementById('calculate-btn');
+            const systolicInput = document.getElementById('systolic');
+            const diastolicInput = document.getElementById('diastolic');
+            const resultDiv = document.getElementById('result');
+            const pulsePressureSpan = document.getElementById('pulse-pressure');
+            const interpretationDiv = document.getElementById('interpretation');
+            
+            calculateBtn.addEventListener('click', function() {
+                const systolic = parseInt(systolicInput.value);
+                const diastolic = parseInt(diastolicInput.value);
+                
+                // 验证输入
+                if (isNaN(systolic) || isNaN(diastolic)) {
+                    alert('请输入有效的收缩压和舒张压数值。');
+                    return;
+                }
+                
+                if (systolic <= diastolic) {
+                    alert('收缩压必须高于舒张压。');
+                    return;
+                }
+                
+                if (systolic < 50 || systolic > 250) {
+                    alert('请输入50-250 mmHg之间的收缩压数值。');
+                    return;
+                }
+                
+                if (diastolic < 30 || diastolic > 150) {
+                    alert('请输入30-150 mmHg之间的舒张压数值。');
+                    return;
+                }
+                
+                // 计算脉压
+                const pulsePressure = systolic - diastolic;
+                
+                // 显示结果
+                pulsePressureSpan.textContent = pulsePressure;
+                
+                // 提供解读
+                let interpretation = '';
+                let interpretationClass = '';
+                
+                if (pulsePressure < 20) {
+                    interpretation = '您的脉压偏低。这可能表示心输出量减少或其他心血管问题。';
+                    interpretationClass = 'danger';
+                } else if (pulsePressure >= 20 && pulsePressure <= 40) {
+                    interpretation = '您的脉压在正常范围内。这通常是心血管健康的一个良好指标。';
+                    interpretationClass = 'normal';
+                } else if (pulsePressure > 40 && pulsePressure <= 60) {
+                    interpretation = '您的脉压表示可能存在疲劳或早期动脉硬化。如果担心，请考虑改变生活方式并咨询医疗保健提供者。';
+                    interpretationClass = 'fatigue';
+                } else {
+                    interpretation = '您的脉压偏高。这可能表示明显的动脉硬化和心血管风险增加。';
+                    interpretationClass = 'danger';
+                }
+                
+                interpretationDiv.textContent = interpretation;
+                interpretationDiv.className = 'interpretation ' + interpretationClass;
+                
+                // 显示结果区域
+                resultDiv.style.display = 'block';
+            });
+        });
+    </script>
+</body>
+</html>
