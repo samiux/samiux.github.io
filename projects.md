@@ -20,6 +20,7 @@
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
 - [双酮断食营养计算器](/html/dual_keto_fasting_calculator.html)     
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
+- [血压差计算器](/html/blood_pressure_calculator.html)        
 
 # Projects (INACTIVE)
 
