@@ -51,6 +51,7 @@
 - [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
 - [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)        
 - [肠道先知：糖尿病早在血糖升高前就已开始！](https://mp.weixin.qq.com/s/gjgu57JRmAkFZ2RjKyjRug)       
+- [糖尿病與年齡及肥胖之關係](https://www.youtube.com/watch?v=hvRUdL1zq50)        
 
 ### 糖尿病
 
@@ -89,6 +90,7 @@
 - [Essay - Why You Should Improve Your Glucose Levels (Even If You Don’t Have Diabetes)](https://www.glucosegoddess.com/pages/science-episode-why-glucose-matters)        
 - [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)        
 - [肠道先知：糖尿病早在血糖升高前就已开始！](https://mp.weixin.qq.com/s/gjgu57JRmAkFZ2RjKyjRug)       
+- [糖尿病與年齡及肥胖之關係](https://www.youtube.com/watch?v=hvRUdL1zq50)        
 
 ### 脂肪肝
 
@@ -228,6 +230,7 @@
 - [轻松破平台期，打开燃脂开关AMPK，让“燃脂信号”直达细胞](https://mp.weixin.qq.com/s/QSPQnR-9LSdbFzVvaYI-Tg)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [BEN BIKMAN - Brown fat: burns for heat; high metabolic rate](https://www.youtube.com/watch?v=AaIlJmnljkc)    
+- [糖尿病與年齡及肥胖之關係](https://www.youtube.com/watch?v=hvRUdL1zq50)        
 
 ## 比值研究
 
