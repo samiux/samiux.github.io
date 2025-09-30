@@ -56,9 +56,6 @@ Then go to router and under ```DHCP``` to set the Pi-Hole IP address to the ```P
 Add the following [DNS Blocklists](https://github.com/hagezi/dns-blocklists) to Pi-Hole at Lists as ```Add blocklist```.
 
 ```
-URL Shortener - Blocks link shortener!
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/urlshortener.txt
-
 DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt
 
