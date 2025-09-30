@@ -53,9 +53,6 @@ sudo docker exec big-bear-pihole-unbound pihole -g
 ### Recommanded Blocklist
 
 ```
-URL Shortener - Blocks link shortener!
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/urlshortener.txt
-
 DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt
 
