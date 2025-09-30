@@ -33,6 +33,7 @@ Active projects but NOT related to CyberSecurity :
 - [血脂指数计算器](/blood_lipids_calculator.html)    
 - [双酮断食营养计算器](/dual_keto_fasting_calculator.html)     
 - [亚洲人体脂率计算器](/body_fat_calculator.html)    
+- [脉压差计算器](/html/blood_pressure_calculator.html)        
 
 Some of his projects about CyberSecurity are now inactive, they are :
 
