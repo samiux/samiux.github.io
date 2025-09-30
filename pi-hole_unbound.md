@@ -10,6 +10,10 @@ curl -sSL https://install.pi-hole.net | bash
 
 Answer the questions on the screen.  Make sure you use ```port 5353``` as ```upstream DNS``` for 127.0.0.1 and listen to ```eth1``` network interface.
 
+Use the desirable ethernet interface, e.g. eth1.
+
+*Make sure to write down the password displayed after the installation.* 
+
 ## Install Unbound.
 
 ```
@@ -21,7 +25,7 @@ sudo cp /usr/share/doc/unbound/examples/unbound.conf /etc/unbound/unbound.conf.d
 ```
 
 ```
-sudo nano unbound.conf
+sudo nano /etc/unbound/unbound.conf.d/unbound.conf
 ```
 
 Under ```server:``` append ```interface: 127.0.0.1@5353```
@@ -38,6 +42,8 @@ sudo systemctl restart unbound.service
 http://<pi-hole ip address>/admin
 ```
 e.g. http://192.168.68.210/admin
+
+Make sure use the password given after the installation to login.
 
 Go to Settings --> DNS (expert mode) --> Respond only on interface eth1 (enabled)
 
@@ -101,6 +107,7 @@ Go to Tools --> Update Gravity --> Update
 - [Unbound - a validating, recursive, caching DNS resolver](https://nlnetlabs.nl/projects/unbound/about/)       
 
 Samiux       
+OSCE   OSCP   OSWP    
 September 30, 2025, Hong Kong, China      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
