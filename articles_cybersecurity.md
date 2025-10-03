@@ -157,6 +157,7 @@
 - [Setting up Pi-Hole & Unbound with CasaOS on Ubuntu 24.04.3 LTS](/casaos_pi-hole_unbound.md)    
 - [Pi-Hole & Unbound on Debian 12 (Bookworm)](/pi-hole_unbound.md)      
 - [Headless Anti Malware with Wazuh and VirusTotal](/wazuh_virustotal.md)    
+- [Most Secure and Clean Internet Connection](/secure_clean_internet.md)    
 
 ### DeepSeek and LLM
 
