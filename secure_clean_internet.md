@@ -46,9 +46,11 @@ Happy surfing internet in a more secure and cleaner way!
 - [OpenVPN Access Server](https://openvpn.net/access-server/)    
 - [Pi-Hole - Network-wide Ad Blocking](https://pi-hole.net/)    
 - [Wazuh - The Open Source Security Platform](https://wazuh.com/)    
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)    
 - [Deployment of OpenVPN Access Server with 2 Connections Free](https://samiux.github.io/openvpn_as.html)    
 - [Setting up Pi-Hole & Unbound with CasaOS on Ubuntu 24.04.3 LTS](https://samiux.github.io/casaos_pi-hole_unbound.html)    
 - [Pi-Hole & Unbound on Debian 12 (Bookworm)](https://samiux.github.io/pi-hole_unbound.html)    
+- [Headless Anti Malware with Wazuh and VirusTotal](https://samiux.github.io/wazuh_virustotal.html)     
 
 Samiux    
 OSCE  OSCP  OSWP     
