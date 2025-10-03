@@ -4,7 +4,13 @@
 
 Monitoring any new file in the directories/folders and inspecting any malicious file as well as removing it automatically in your network.
 
-Some configuration examples to Wazuh (Version 4.13).  It is compatiable to Linux, Windows and macOS. 
+Some configuration examples for Wazuh (Version 4.13).  It is compatiable to Linux, Windows and macOS. 
+
+## Malware Test File
+
+```
+wget https://secure.eicar.org/eicar_com.zip
+``` 
 
 ## Reference
 
