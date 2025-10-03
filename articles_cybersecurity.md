@@ -156,6 +156,7 @@
 - [Deployment of OpenVPN Access Server with 2 Connections Free](/openvpn_as.md)      
 - [Setting up Pi-Hole & Unbound with CasaOS on Ubuntu 24.04.3 LTS](/casaos_pi-hole_unbound.md)    
 - [Pi-Hole & Unbound on Debian 12 (Bookworm)](/pi-hole_unbound.md)      
+- [Headless Anti Malware with Wazuh and VirusTotal](/wazuh_virustotal.md)    
 
 ### DeepSeek and LLM
 
