@@ -18,6 +18,10 @@ Not only try harder but also try smarter!
 治未病 我健康 我担当 无糖减碳 一天两餐
 ```
 
+Active projects for CyberSecurity :
+
+- [Most Secure and Clean Internet Connection](/secure_clean_internet.md)    
+
 Active projects but NOT related to CyberSecurity :
 
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
