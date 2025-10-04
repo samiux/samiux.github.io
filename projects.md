@@ -2,6 +2,10 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+## Defensive
+
+- [Most Secure and Clean Internet Connection](/secure_clean_internet.md)    
+
 ## Others
 
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
