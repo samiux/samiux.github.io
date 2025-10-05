@@ -16,6 +16,8 @@ VPN Server --> Security / Encryption
 TLS control channel security -- Disabled (not recommended)
 ```
 
+Set the OpenVPN Access Server for High Proiority in QoS at your router that may boost your VPN speed a lot.
+
 ## Pi-Hole for Cleaner Internet Connection
 
 To remove ads and malicious domains besides IDPS, you need to have a Pi-Hole setup on your network.  It is very easy to do so.  Just follows the instruction on this [tutorial](https://samiux.github.io/casaos_pi-hole_unbound.html) or this [tutorial](https://samiux.github.io/pi-hole_unbound.html).
