@@ -20,6 +20,8 @@ TLS control channel security -- Disabled (not recommended)
 
 To remove ads and malicious domains besides IDPS, you need to have a Pi-Hole setup on your network.  It is very easy to do so.  Just follows the instruction on this [tutorial](https://samiux.github.io/casaos_pi-hole_unbound.html) or this [tutorial](https://samiux.github.io/pi-hole_unbound.html).
 
+Set the Pi-Hole for High Priority in QoS at your router and allows ```dns.weixin.qq.com.cn``` when you need to surf Weixin at Pi-Hole that may boost your internet speed a lot.
+
 ## Headless Anti Malware with Wazuh and VirusTotal
 
 Monitoring any new file in the directories/folders and inspecting any malicious file as well as removing it automatically in your network.
