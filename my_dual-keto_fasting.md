@@ -109,7 +109,15 @@
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
-- [小伙严格生酮一年，体重不减反增，这是很多人对生酮的误解](https://k.sina.cn/article_2264875097_86ff405902000pfzm.html)      
+
+## 生酮
+
+- [酮体是怎么产生的？与心脏代谢关系](http://www.chinalowcarb.com/herapeutic-potential-of-ketone-therapy-for-cv-disease/)       
+- [什么是外源性生酮？外源性酮症vs内源性生酮](http://www.chinalowcarb.com/best-ketone-body-endogenous-ketosis/)      
+- [我一直生酮，为什么酮体越来越低了？](http://www.chinalowcarb.com/low-ketones-and-long-term-ketosis/)      
+- [为什么有的人酮体高，有的人酮体低？](http://www.chinalowcarb.com/ketone-body-2/)       
+- [为什么会莫名奇妙的退酮，一天的酮体变化](http://www.chinalowcarb.com/keto-in-a-day/)       
+- [你是不是在燃脂？身体会给你这7个信号](http://www.chinalowcarb.com/fat-burning-signs/)     
 
 ## 计算器
 
