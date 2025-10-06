@@ -329,6 +329,12 @@
 
 ## 生酮相关
 
+- [酮体是怎么产生的？与心脏代谢关系](http://www.chinalowcarb.com/herapeutic-potential-of-ketone-therapy-for-cv-disease/)       
+- [什么是外源性生酮？外源性酮症vs内源性生酮](http://www.chinalowcarb.com/best-ketone-body-endogenous-ketosis/)      
+- [我一直生酮，为什么酮体越来越低了？](http://www.chinalowcarb.com/low-ketones-and-long-term-ketosis/)      
+- [为什么有的人酮体高，有的人酮体低？](http://www.chinalowcarb.com/ketone-body-2/)       
+- [为什么会莫名奇妙的退酮，一天的酮体变化](http://www.chinalowcarb.com/keto-in-a-day/)       
+- [你是不是在燃脂？身体会给你这7个信号](http://www.chinalowcarb.com/fat-burning-signs/)     
 - [吃肉越多，胆固醇越高，越长寿，史上最大100岁老人研究，打了多少专家的脸？](https://mp.weixin.qq.com/s/EPDiByQnRZES7wG6lTG73Q)        
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 - [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
