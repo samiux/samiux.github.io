@@ -110,7 +110,7 @@
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 
-## 生酮
+## 生酮相关
 
 - [酮体是怎么产生的？与心脏代谢关系](http://www.chinalowcarb.com/herapeutic-potential-of-ketone-therapy-for-cv-disease/)       
 - [什么是外源性生酮？外源性酮症vs内源性生酮](http://www.chinalowcarb.com/best-ketone-body-endogenous-ketosis/)      
