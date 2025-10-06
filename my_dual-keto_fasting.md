@@ -109,6 +109,7 @@
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
+- [小伙严格生酮一年，体重不减反增，这是很多人对生酮的误解](https://k.sina.cn/article_2264875097_86ff405902000pfzm.html)      
 
 ## 计算器
 
