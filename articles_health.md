@@ -19,6 +19,7 @@
 - [双酮断食营养计算器](/html/dual_keto_fasting_calculator.html)     
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
+- [Health Tracker](/html/health_tracking_system.html)    
 
 ## 健康研究杂谈
 
