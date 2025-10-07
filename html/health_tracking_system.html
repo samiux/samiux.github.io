@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Data Tracker</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --primary: #0d6efd;
+            --secondary: #6c757d;
+            --success: #198754;
+            --danger: #dc3545;
+            --warning: #ffc107;
+            --info: #0dcaf0;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --sidebar-width: 250px;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f7fb;
+            color: #333;
+        }
+
+        .app-container {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        .sidebar {
+            width: var(--sidebar-width);
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 20px 0;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+        }
+
+        .sidebar-brand {
+            padding: 0 20px 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            margin-bottom: 20px;
+        }
+
+        .sidebar-nav {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sidebar-nav li {
+            margin-bottom: 5px;
+        }
+
+        .sidebar-nav a {
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+        .sidebar-nav a:hover, .sidebar-nav a.active {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+            border-left: 4px solid var(--primary);
+        }
+
+        .sidebar-nav i {
+            margin-right: 10px;
+            width: 20px;
+            text-align: center;
+        }
+
+        .main-content {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.5s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            border: none;
+            margin-bottom: 20px;
+        }
+
+        .card-header {
+            background-color: white;
+            border-bottom: 1px solid #eaeaea;
+            font-weight: 600;
+            padding: 15px 20px;
+            border-radius: 10px 10px 0 0 !important;
+        }
+
+        .form-section {
+            margin-bottom: 25px;
+        }
+
+        .form-section-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: var(--primary);
+            border-bottom: 1px solid #eaeaea;
+            padding-bottom: 8px;
+        }
+
+        .stat-card {
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            color: white;
+            transition: transform 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-card i {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .stat-card .value {
+            font-size: 2rem;
+            font-weight: 700;
+            margin: 10px 0;
+        }
+
+        .stat-card .label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 300px;
+            margin-bottom: 30px;
+        }
+
+        .record-table {
+            width: 100%;
+        }
+
+        .record-table th {
+            background-color: #f8f9fa;
+            font-weight: 600;
+        }
+
+        .action-buttons button {
+            margin-right: 5px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #6c757d;
+        }
+
+        .empty-state i {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            opacity: 0.5;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .app-container {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                height: auto;
+            }
+            
+            .sidebar-nav {
+                display: flex;
+                overflow-x: auto;
+            }
+            
+            .sidebar-nav li {
+                flex: 0 0 auto;
+                margin-bottom: 0;
+            }
+            
+            .sidebar-nav a {
+                padding: 10px 15px;
+                border-left: none;
+                border-bottom: 4px solid transparent;
+            }
+            
+            .sidebar-nav a.active {
+                border-left: none;
+                border-bottom: 4px solid var(--primary);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <div class="sidebar">
+            <div class="sidebar-brand">
+                <h2><i class="fas fa-heartbeat"></i> Health Tracker</h2>
+            </div>
+            <ul class="sidebar-nav">
+                <li><a href="#" class="active" data-tab="add"><i class="fas fa-plus-circle"></i> Add Record</a></li>
+                <li><a href="#" data-tab="view"><i class="fas fa-list"></i> View Records</a></li>
+                <li><a href="#" data-tab="search"><i class="fas fa-search"></i> Search</a></li>
+                <li><a href="#" data-tab="charts"><i class="fas fa-chart-line"></i> Charts</a></li>
+                <li><a href="#" data-tab="stats"><i class="fas fa-chart-bar"></i> Statistics</a></li>
+                <li><a href="#" data-tab="settings"><i class="fas fa-cog"></i> Settings</a></li>
+            </ul>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="main-content">
+            <!-- Add Record Tab -->
+            <div id="add" class="tab-content active">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="mb-0">Add Health Record</h4>
+                    </div>
+                    <div class="card-body">
+                        <form id="record-form">
+                            <div class="row mb-3">
+                                <div class="col-md-6">
+                                    <label for="date" class="form-label">Date (YYYY/MM/DD)</label>
+                                    <input type="text" class="form-control" id="date" placeholder="YYYY/MM/DD" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="time" class="form-label">Time (24-hour format)</label>
+                                    <input type="text" class="form-control" id="time" placeholder="HH:MM" required>
+                                </div>
+                            </div>
+
+                            <div class="form-section">
+                                <h5 class="form-section-title">Exercise Information</h5>
+                                <div class="row mb-3">
+                                    <div class="col-md-3">
+                                        <label for="exercise-hours" class="form-label">Hours</label>
+                                        <input type="number" class="form-control" id="exercise-hours" min="0" max="23" placeholder="0-23">
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label for="exercise-minutes" class="form-label">Minutes</label>
+                                        <input type="number" class="form-control" id="exercise-minutes" min="0" max="59" placeholder="0-59">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="exercise-type" class="form-label">Exercise Type</label>
+                                        <input type="text" class="form-control" id="exercise-type" placeholder="e.g., Running, Swimming">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-section">
+                                <h5 class="form-section-title">Health Metrics</h5>
+                                <div class="row mb-3">
+                                    <div class="col-md-6">
+                                        <label for="blood-pressure" class="form-label">Blood Pressure (mmHg)</label>
+                                        <input type="text" class="form-control" id="blood-pressure" placeholder="e.g., 120/80">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="pulse" class="form-label">Pulse (bpm)</label>
+                                        <input type="number" class="form-control" id="pulse" min="0">
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-md-6">
+                                        <label for="weight" class="form-label">Weight (kg)</label>
+                                        <input type="number" class="form-control" id="weight" step="0.1" min="0">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label for="blood-glucose" class="form-label">Blood Glucose (mmol/L)</label>
+                                        <input type="number" class="form-control" id="blood-glucose" step="0.1" min="0">
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-md-6">
+                                        <label for="ketone" class="form-label">Ketone (mmol/L)</label>
+                                        <input type="number" class="form-control" id="ketone" step="0.1" min="0">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                <button type="button" class="btn btn-secondary me-md-2" id="clear-form">Clear Form</button>
+                                <button type="submit" class="btn btn-primary" id="save-record">Save Record</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View Records Tab -->
+            <div id="view" class="tab-content">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h4 class="mb-0">Health Records</h4>
+                        <div>
+                            <button class="btn btn-sm btn-outline-primary" id="refresh-records">
+                                <i class="fas fa-sync-alt"></i> Refresh
+                            </button>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-striped record-table">
+                                <thead>
+                                    <tr>
+                                        <th>Date</th>
+                                        <th>Time</th>
+                                        <th>Exercise</th>
+                                        <th>Duration</th>
+                                        <th>BP</th>
+                                        <th>Pulse</th>
+                                        <th>Weight</th>
+                                        <th>Glucose</th>
+                                        <th>Ketone</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="records-table-body">
+                                    <!-- Records will be populated here -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div id="no-records" class="empty-state">
+                            <i class="fas fa-clipboard-list"></i>
+                            <h4>No Records Found</h4>
+                            <p>Start by adding your first health record.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Search Tab -->
+            <div id="search" class="tab-content">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="mb-0">Search Records</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-4">
+                                <label for="search-type" class="form-label">Search Type</label>
+                                <select class="form-select" id="search-type">
+                                    <option value="all">All Fields</option>
+                                    <option value="date">Date</option>
+                                    <option value="exercise">Exercise Type</option>
+                                    <option value="bp">Blood Pressure</option>
+                                    <option value="pulse">Pulse</option>
+                                    <option value="weight">Weight</option>
+                                    <option value="glucose">Blood Glucose</option>
+                                    <option value="ketone">Ketone</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="search-keyword" class="form-label">Search Keyword</label>
+                                <input type="text" class="form-control" id="search-keyword" placeholder="Enter keyword to search...">
+                            </div>
+                            <div class="col-md-2 d-flex align-items-end">
+                                <button class="btn btn-primary w-100" id="search-button">Search</button>
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-5">
+                                <label for="start-date" class="form-label">Start Date (YYYY/MM/DD)</label>
+                                <input type="text" class="form-control" id="start-date" placeholder="YYYY/MM/DD">
+                            </div>
+                            <div class="col-md-5">
+                                <label for="end-date" class="form-label">End Date (YYYY/MM/DD)</label>
+                                <input type="text" class="form-control" id="end-date" placeholder="YYYY/MM/DD">
+                            </div>
+                            <div class="col-md-2 d-flex align-items-end">
+                                <button class="btn btn-outline-secondary w-100" id="clear-search">Clear</button>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-striped record-table">
+                                <thead>
+                                    <tr>
+                                        <th>Date</th>
+                                        <th>Time</th>
+                                        <th>Exercise</th>
+                                        <th>Duration</th>
+                                        <th>BP</th>
+                                        <th>Pulse</th>
+                                        <th>Weight</th>
+                                        <th>Glucose</th>
+                                        <th>Ketone</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="search-results-body">
+                                    <!-- Search results will be populated here -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div id="no-search-results" class="empty-state">
+                            <i class="fas fa-search"></i>
+                            <h4>No Search Results</h4>
+                            <p>Enter search criteria to find records.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Charts Tab -->
+            <div id="charts" class="tab-content">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="mb-0">Health Data Charts</h4>
+                    </div>
+                    <div class="card-body">
+                        <div id="no-chart-data" class="empty-state">
+                            <i class="fas fa-chart-line"></i>
+                            <h4>No Data for Charts</h4>
+                            <p>Add some health records to see visualizations.</p>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="weight-chart"></canvas>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="glucose-chart"></canvas>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="bp-chart"></canvas>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="pulse-chart"></canvas>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="exercise-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Statistics Tab -->
+            <div id="stats" class="tab-content">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="mb-0">Health Statistics</h4>
+                    </div>
+                    <div class="card-body">
+                        <div id="no-stats-data" class="empty-state">
+                            <i class="fas fa-chart-bar"></i>
+                            <h4>No Data for Statistics</h4>
+                            <p>Add some health records to see statistics.</p>
+                        </div>
+                        <div class="row" id="stats-cards">
+                            <!-- Statistics cards will be populated here -->
+                        </div>
+                        
+                        <div class="card mt-4" id="monthly-exercise-card">
+                            <div class="card-header">
+                                <h5 class="mb-0">Monthly Exercise Summary</h5>
+                            </div>
+                            <div class="card-body">
+                                <div class="table-responsive">
+                                    <table class="table" id="monthly-exercise-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Month</th>
+                                                <th>Total Hours</th>
+                                                <th>Average per Day</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <!-- Monthly exercise data will be populated here -->
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Settings Tab -->
+            <div id="settings" class="tab-content">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="mb-0">Data Management</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card h-100">
+                                    <div class="card-header">
+                                        <h5 class="mb-0">Data Export & Import</h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <p class="card-text">You can export health data to JSON file or import data from JSON file.</p>
+                                        <div class="d-grid gap-2">
+                                            <button class="btn btn-primary" id="export-data">
+                                                <i class="fas fa-download"></i> Export Data to JSON
+                                            </button>
+                                            <button class="btn btn-outline-primary" id="import-data">
+                                                <i class="fas fa-upload"></i> Import Data from JSON
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card h-100">
+                                    <div class="card-header">
+                                        <h5 class="mb-0">Data Backup & Recovery</h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <p class="card-text">You can backup data to local storage or clear all data.</p>
+                                        <div class="d-grid gap-2">
+                                            <button class="btn btn-warning" id="backup-data">
+                                                <i class="fas fa-save"></i> Backup Data
+                                            </button>
+                                            <button class="btn btn-danger" id="clear-data">
+                                                <i class="fas fa-trash"></i> Clear All Data
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Import File Input (hidden) -->
+    <input type="file" id="import-file" accept=".json" style="display: none;">
+
+    <script>
+        // Health Data Tracker Application
+        class HealthTracker {
+            constructor() {
+                this.data = this.loadData();
+                this.editingRecordId = null;
+                this.charts = {};
+                
+                this.initializeEventListeners();
+                this.setCurrentDateTime();
+                this.refreshRecords();
+                
+                // Show appropriate empty states
+                this.toggleEmptyStates();
+            }
+
+            // Load data from localStorage
+            loadData() {
+                const data = localStorage.getItem('healthData');
+                return data ? JSON.parse(data) : [];
+            }
+
+            // Save data to localStorage
+            saveData() {
+                localStorage.setItem('healthData', JSON.stringify(this.data));
+                return true;
+            }
+
+            // Set current date and time in the form in YYYY/MM/DD and 24-hour format
+            setCurrentDateTime() {
+                const now = new Date();
+                
+                // Format date as YYYY/MM/DD
+                const year = now.getFullYear();
+                const month = String(now.getMonth() + 1).padStart(2, '0');
+                const day = String(now.getDate()).padStart(2, '0');
+                const date = `${year}/${month}/${day}`;
+                
+                // Format time as HH:MM (24-hour format)
+                const hours = String(now.getHours()).padStart(2, '0');
+                const minutes = String(now.getMinutes()).padStart(2, '0');
+                const time = `${hours}:${minutes}`;
+                
+                document.getElementById('date').value = date;
+                document.getElementById('time').value = time;
+            }
+
+            // Validate date format (YYYY/MM/DD)
+            validateDate(dateStr) {
+                const regex = /^\d{4}\/\d{2}\/\d{2}$/;
+                if (!regex.test(dateStr)) return false;
+                
+                // Check if it's a valid date
+                const parts = dateStr.split('/');
+                const year = parseInt(parts[0], 10);
+                const month = parseInt(parts[1], 10);
+                const day = parseInt(parts[2], 10);
+                
+                if (month < 1 || month > 12) return false;
+                if (day < 1 || day > 31) return false;
+                
+                // Check for February and leap year
+                const monthDays = [31, (year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0)) ? 29 : 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+                if (day > monthDays[month - 1]) return false;
+                
+                return true;
+            }
+
+            // Validate time format (HH:MM 24-hour)
+            validateTime(timeStr) {
+                const regex = /^([01]?[0-9]|2[0-3]):[0-5][0-9]$/;
+                return regex.test(timeStr);
+            }
+
+            // Initialize event listeners
+            initializeEventListeners() {
+                // Tab navigation
+                document.querySelectorAll('.sidebar-nav a').forEach(link => {
+                    link.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        const tabId = link.getAttribute('data-tab');
+                        this.switchTab(tabId);
+                    });
+                });
+
+                // Form submission
+                document.getElementById('record-form').addEventListener('submit', (e) => {
+                    e.preventDefault();
+                    this.saveRecord();
+                });
+
+                // Clear form
+                document.getElementById('clear-form').addEventListener('click', () => {
+                    this.clearForm();
+                });
+
+                // Refresh records
+                document.getElementById('refresh-records').addEventListener('click', () => {
+                    this.refreshRecords();
+                });
+
+                // Search functionality
+                document.getElementById('search-button').addEventListener('click', () => {
+                    this.searchRecords();
+                });
+
+                // Clear search
+                document.getElementById('clear-search').addEventListener('click', () => {
+                    document.getElementById('search-keyword').value = '';
+                    document.getElementById('start-date').value = '';
+                    document.getElementById('end-date').value = '';
+                    this.searchRecords();
+                });
+
+                // Data management
+                document.getElementById('export-data').addEventListener('click', () => {
+                    this.exportData();
+                });
+
+                document.getElementById('import-data').addEventListener('click', () => {
+                    document.getElementById('import-file').click();
+                });
+
+                document.getElementById('import-file').addEventListener('change', (e) => {
+                    this.importData(e);
+                });
+
+                document.getElementById('backup-data').addEventListener('click', () => {
+                    this.backupData();
+                });
+
+                document.getElementById('clear-data').addEventListener('click', () => {
+                    this.clearAllData();
+                });
+            }
+
+            // Switch between tabs
+            switchTab(tabId) {
+                // Update active tab in sidebar
+                document.querySelectorAll('.sidebar-nav a').forEach(link => {
+                    link.classList.remove('active');
+                });
+                document.querySelector(`.sidebar-nav a[data-tab="${tabId}"]`).classList.add('active');
+
+                // Show selected tab content
+                document.querySelectorAll('.tab-content').forEach(tab => {
+                    tab.classList.remove('active');
+                });
+                document.getElementById(tabId).classList.add('active');
+
+                // Update specific tab content if needed
+                if (tabId === 'charts') {
+                    this.updateCharts();
+                } else if (tabId === 'stats') {
+                    this.updateStats();
+                }
+            }
+
+            // Save or update a record
+            saveRecord() {
+                // Get form values
+                const date = document.getElementById('date').value.trim();
+                const time = document.getElementById('time').value.trim();
+                
+                // Validate date and time formats
+                if (!this.validateDate(date)) {
+                    alert('Invalid date format. Please use YYYY/MM/DD format.');
+                    return;
+                }
+                
+                if (!this.validateTime(time)) {
+                    alert('Invalid time format. Please use HH:MM 24-hour format.');
+                    return;
+                }
+
+                const record = {
+                    id: this.editingRecordId || Date.now().toString(),
+                    date: date,
+                    time: time,
+                    exerciseHours: parseInt(document.getElementById('exercise-hours').value) || 0,
+                    exerciseMinutes: parseInt(document.getElementById('exercise-minutes').value) || 0,
+                    exerciseType: document.getElementById('exercise-type').value,
+                    bloodPressure: document.getElementById('blood-pressure').value,
+                    pulse: parseInt(document.getElementById('pulse').value) || null,
+                    weight: parseFloat(document.getElementById('weight').value) || null,
+                    bloodGlucose: parseFloat(document.getElementById('blood-glucose').value) || null,
+                    ketone: parseFloat(document.getElementById('ketone').value) || null
+                };
+
+                // Calculate exercise duration in minutes
+                record.exerciseDuration = record.exerciseHours * 60 + record.exerciseMinutes;
+
+                // Validate numeric fields
+                try {
+                    if (record.pulse !== null && (record.pulse < 0 || record.pulse > 300)) {
+                        alert('Pulse must be between 0 and 300 bpm.');
+                        return;
+                    }
+                    
+                    if (record.weight !== null && record.weight < 0) {
+                        alert('Weight must be a positive number.');
+                        return;
+                    }
+                    
+                    if (record.bloodGlucose !== null && record.bloodGlucose < 0) {
+                        alert('Blood glucose must be a positive number.');
+                        return;
+                    }
+                    
+                    if (record.ketone !== null && record.ketone < 0) {
+                        alert('Ketone must be a positive number.');
+                        return;
+                    }
+                } catch (error) {
+                    alert('Please check your numeric inputs.');
+                    return;
+                }
+
+                if (this.editingRecordId) {
+                    // Update existing record
+                    const index = this.data.findIndex(r => r.id === this.editingRecordId);
+                    if (index !== -1) {
+                        this.data[index] = record;
+                    }
+                    alert('Record updated successfully!');
+                    this.editingRecordId = null;
+                    document.getElementById('save-record').textContent = 'Save Record';
+                } else {
+                    // Add new record
+                    this.data.push(record);
+                    alert('Record added successfully!');
+                }
+
+                // Save data and refresh UI
+                this.saveData();
+                this.clearForm();
+                this.setCurrentDateTime();
+                this.refreshRecords();
+                this.toggleEmptyStates();
+            }
+
+            // Clear the form
+            clearForm() {
+                document.getElementById('record-form').reset();
+                this.editingRecordId = null;
+                document.getElementById('save-record').textContent = 'Save Record';
+            }
+
+            // Refresh records table
+            refreshRecords() {
+                const tbody = document.getElementById('records-table-body');
+                tbody.innerHTML = '';
+
+                if (this.data.length === 0) {
+                    document.getElementById('no-records').style.display = 'block';
+                    return;
+                }
+
+                document.getElementById('no-records').style.display = 'none';
+
+                // Sort records by date and time (newest first)
+                const sortedData = [...this.data].sort((a, b) => {
+                    // Convert dates to comparable format
+                    const dateA = new Date(a.date.replace(/\//g, '-') + 'T' + a.time);
+                    const dateB = new Date(b.date.replace(/\//g, '-') + 'T' + b.time);
+                    return dateB - dateA;
+                });
+
+                sortedData.forEach(record => {
+                    const row = document.createElement('tr');
+                    
+                    // Format exercise duration
+                    let exerciseDuration = '';
+                    if (record.exerciseDuration > 0) {
+                        const hours = Math.floor(record.exerciseDuration / 60);
+                        const minutes = record.exerciseDuration % 60;
+                        exerciseDuration = `${hours}h ${minutes}m`;
+                    }
+
+                    row.innerHTML = `
+                        <td>${record.date}</td>
+                        <td>${record.time}</td>
+                        <td>${record.exerciseType || '-'}</td>
+                        <td>${exerciseDuration || '-'}</td>
+                        <td>${record.bloodPressure || '-'}</td>
+                        <td>${record.pulse || '-'}</td>
+                        <td>${record.weight || '-'}</td>
+                        <td>${record.bloodGlucose || '-'}</td>
+                        <td>${record.ketone || '-'}</td>
+                        <td class="action-buttons">
+                            <button class="btn btn-sm btn-outline-primary edit-record" data-id="${record.id}">
+                                <i class="fas fa-edit"></i>
+                            </button>
+                            <button class="btn btn-sm btn-outline-danger delete-record" data-id="${record.id}">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </td>
+                    `;
+                    
+                    tbody.appendChild(row);
+                });
+
+                // Add event listeners for edit and delete buttons
+                document.querySelectorAll('.edit-record').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                        const recordId = e.currentTarget.getAttribute('data-id');
+                        this.editRecord(recordId);
+                    });
+                });
+
+                document.querySelectorAll('.delete-record').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                        const recordId = e.currentTarget.getAttribute('data-id');
+                        this.deleteRecord(recordId);
+                    });
+                });
+            }
+
+            // Edit a record
+            editRecord(recordId) {
+                const record = this.data.find(r => r.id === recordId);
+                if (!record) {
+                    alert('Record not found!');
+                    return;
+                }
+
+                // Switch to Add Record tab
+                this.switchTab('add');
+
+                // Fill form with record data
+                document.getElementById('date').value = record.date;
+                document.getElementById('time').value = record.time;
+                document.getElementById('exercise-hours').value = record.exerciseHours || '';
+                document.getElementById('exercise-minutes').value = record.exerciseMinutes || '';
+                document.getElementById('exercise-type').value = record.exerciseType || '';
+                document.getElementById('blood-pressure').value = record.bloodPressure || '';
+                document.getElementById('pulse').value = record.pulse || '';
+                document.getElementById('weight').value = record.weight || '';
+                document.getElementById('blood-glucose').value = record.bloodGlucose || '';
+                document.getElementById('ketone').value = record.ketone || '';
+
+                // Set editing mode
+                this.editingRecordId = recordId;
+                document.getElementById('save-record').textContent = 'Update Record';
+            }
+
+            // Delete a record
+            deleteRecord(recordId) {
+                if (!confirm('Are you sure you want to delete this record?')) {
+                    return;
+                }
+
+                this.data = this.data.filter(r => r.id !== recordId);
+                this.saveData();
+                this.refreshRecords();
+                this.toggleEmptyStates();
+                
+                // Also update search results if we're on that tab
+                if (document.getElementById('search').classList.contains('active')) {
+                    this.searchRecords();
+                }
+                
+                alert('Record deleted successfully!');
+            }
+
+            // Search records
+            searchRecords() {
+                const searchType = document.getElementById('search-type').value;
+                const keyword = document.getElementById('search-keyword').value.toLowerCase();
+                const startDate = document.getElementById('start-date').value.trim();
+                const endDate = document.getElementById('end-date').value.trim();
+
+                const tbody = document.getElementById('search-results-body');
+                tbody.innerHTML = '';
+
+                let results = this.data;
+
+                // Filter by date range
+                if (startDate || endDate) {
+                    // Validate date formats
+                    if (startDate && !this.validateDate(startDate)) {
+                        alert('Invalid start date format. Please use YYYY/MM/DD format.');
+                        return;
+                    }
+                    
+                    if (endDate && !this.validateDate(endDate)) {
+                        alert('Invalid end date format. Please use YYYY/MM/DD format.');
+                        return;
+                    }
+                    
+                    results = results.filter(record => {
+                        const recordDate = new Date(record.date.replace(/\//g, '-'));
+                        
+                        if (startDate && endDate) {
+                            const start = new Date(startDate.replace(/\//g, '-'));
+                            const end = new Date(endDate.replace(/\//g, '-'));
+                            return recordDate >= start && recordDate <= end;
+                        } else if (startDate) {
+                            const start = new Date(startDate.replace(/\//g, '-'));
+                            return recordDate >= start;
+                        } else if (endDate) {
+                            const end = new Date(endDate.replace(/\//g, '-'));
+                            return recordDate <= end;
+                        }
+                        
+                        return true;
+                    });
+                }
+
+                // Filter by keyword
+                if (keyword) {
+                    results = results.filter(record => {
+                        if (searchType === 'all') {
+                            // Search in all fields
+                            return (
+                                record.date.toLowerCase().includes(keyword) ||
+                                record.time.toLowerCase().includes(keyword) ||
+                                (record.exerciseType && record.exerciseType.toLowerCase().includes(keyword)) ||
+                                (record.bloodPressure && record.bloodPressure.toLowerCase().includes(keyword)) ||
+                                (record.pulse && record.pulse.toString().includes(keyword)) ||
+                                (record.weight && record.weight.toString().includes(keyword)) ||
+                                (record.bloodGlucose && record.bloodGlucose.toString().includes(keyword)) ||
+                                (record.ketone && record.ketone.toString().includes(keyword))
+                            );
+                        } else {
+                            // Search in specific field
+                            const fieldMap = {
+                                date: 'date',
+                                exercise: 'exerciseType',
+                                bp: 'bloodPressure',
+                                pulse: 'pulse',
+                                weight: 'weight',
+                                glucose: 'bloodGlucose',
+                                ketone: 'ketone'
+                            };
+                            
+                            const fieldName = fieldMap[searchType];
+                            const fieldValue = record[fieldName];
+                            
+                            if (fieldValue) {
+                                return fieldValue.toString().toLowerCase().includes(keyword);
+                            }
+                            return false;
+                        }
+                    });
+                }
+
+                if (results.length === 0) {
+                    document.getElementById('no-search-results').style.display = 'block';
+                    return;
+                }
+
+                document.getElementById('no-search-results').style.display = 'none';
+
+                // Display results
+                results.forEach(record => {
+                    const row = document.createElement('tr');
+                    
+                    // Format exercise duration
+                    let exerciseDuration = '';
+                    if (record.exerciseDuration > 0) {
+                        const hours = Math.floor(record.exerciseDuration / 60);
+                        const minutes = record.exerciseDuration % 60;
+                        exerciseDuration = `${hours}h ${minutes}m`;
+                    }
+
+                    row.innerHTML = `
+                        <td>${record.date}</td>
+                        <td>${record.time}</td>
+                        <td>${record.exerciseType || '-'}</td>
+                        <td>${exerciseDuration || '-'}</td>
+                        <td>${record.bloodPressure || '-'}</td>
+                        <td>${record.pulse || '-'}</td>
+                        <td>${record.weight || '-'}</td>
+                        <td>${record.bloodGlucose || '-'}</td>
+                        <td>${record.ketone || '-'}</td>
+                        <td class="action-buttons">
+                            <button class="btn btn-sm btn-outline-primary edit-search-record" data-id="${record.id}">
+                                <i class="fas fa-edit"></i>
+                            </button>
+                        </td>
+                    `;
+                    
+                    tbody.appendChild(row);
+                });
+
+                // Add event listeners for edit buttons in search results
+                document.querySelectorAll('.edit-search-record').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                        const recordId = e.currentTarget.getAttribute('data-id');
+                        this.editRecord(recordId);
+                    });
+                });
+            }
+
+            // Update charts
+            updateCharts() {
+                if (this.data.length === 0) {
+                    document.getElementById('no-chart-data').style.display = 'block';
+                    document.querySelectorAll('.chart-container').forEach(container => {
+                        container.style.display = 'none';
+                    });
+                    return;
+                }
+
+                document.getElementById('no-chart-data').style.display = 'none';
+                document.querySelectorAll('.chart-container').forEach(container => {
+                    container.style.display = 'block';
+                });
+
+                // Prepare data for charts
+                const sortedData = [...this.data].sort((a, b) => {
+                    return new Date(a.date.replace(/\//g, '-')) - new Date(b.date.replace(/\//g, '-'));
+                });
+
+                // Extract data for each chart
+                const dates = sortedData.map(r => r.date);
+                const weights = sortedData.map(r => r.weight).filter(w => w !== null);
+                const glucose = sortedData.map(r => r.bloodGlucose).filter(g => g !== null);
+                const pulse = sortedData.map(r => r.pulse).filter(p => p !== null);
+                
+                // Extract blood pressure data
+                const systolic = [];
+                const diastolic = [];
+                const bpDates = [];
+                
+                sortedData.forEach(record => {
+                    if (record.bloodPressure && record.bloodPressure.includes('/')) {
+                        try {
+                            const parts = record.bloodPressure.split('/');
+                            systolic.push(parseInt(parts[0]));
+                            diastolic.push(parseInt(parts[1]));
+                            bpDates.push(record.date);
+                        } catch (e) {
+                            // Skip invalid blood pressure values
+                        }
+                    }
+                });
+                
+                // Extract exercise data
+                const exerciseDates = [];
+                const exerciseDurations = [];
+                
+                sortedData.forEach(record => {
+                    if (record.exerciseDuration > 0) {
+                        exerciseDates.push(record.date);
+                        exerciseDurations.push(record.exerciseDuration / 60); // Convert to hours
+                    }
+                });
+
+                // Create or update charts
+                this.createChart('weight-chart', 'Weight Trend (kg)', dates.slice(0, weights.length), weights, '#4CAF50', 'line');
+                this.createChart('glucose-chart', 'Blood Glucose Trend (mmol/L)', dates.slice(0, glucose.length), glucose, '#FF5722', 'line');
+                this.createChart('pulse-chart', 'Pulse Trend (bpm)', dates.slice(0, pulse.length), pulse, '#9C27B0', 'line');
+                
+                // Blood pressure chart (special handling for two datasets)
+                if (systolic.length > 0) {
+                    this.createBloodPressureChart('bp-chart', bpDates, systolic, diastolic);
+                } else {
+                    document.getElementById('bp-chart').style.display = 'none';
+                }
+                
+                // Exercise chart
+                if (exerciseDurations.length > 0) {
+                    this.createChart('exercise-chart', 'Exercise Duration (Hours per Day)', exerciseDates, exerciseDurations, '#607D8B', 'bar');
+                } else {
+                    document.getElementById('exercise-chart').style.display = 'none';
+                }
+            }
+
+            // Create a chart
+            createChart(canvasId, title, labels, data, color, type = 'line') {
+                const ctx = document.getElementById(canvasId).getContext('2d');
+                
+                // Destroy existing chart if it exists
+                if (this.charts[canvasId]) {
+                    this.charts[canvasId].destroy();
+                }
+                
+                this.charts[canvasId] = new Chart(ctx, {
+                    type: type,
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: title,
+                            data: data,
+                            backgroundColor: type === 'bar' ? color + '80' : 'transparent',
+                            borderColor: color,
+                            borderWidth: 2,
+                            pointBackgroundColor: color,
+                            pointRadius: 4,
+                            fill: type === 'line'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            },
+                            x: {
+                                ticks: {
+                                    maxTicksLimit: 10
+                                }
+                            }
+                        },
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: title,
+                                font: {
+                                    size: 16,
+                                    weight: 'bold'
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Create blood pressure chart (special case with two datasets)
+            createBloodPressureChart(canvasId, labels, systolic, diastolic) {
+                const ctx = document.getElementById(canvasId).getContext('2d');
+                
+                // Destroy existing chart if it exists
+                if (this.charts[canvasId]) {
+                    this.charts[canvasId].destroy();
+                }
+                
+                this.charts[canvasId] = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [
+                            {
+                                label: 'Systolic',
+                                data: systolic,
+                                borderColor: '#2196F3',
+                                backgroundColor: 'transparent',
+                                borderWidth: 2,
+                                pointBackgroundColor: '#2196F3',
+                                pointRadius: 4
+                            },
+                            {
+                                label: 'Diastolic',
+                                data: diastolic,
+                                borderColor: '#FF9800',
+                                backgroundColor: 'transparent',
+                                borderWidth: 2,
+                                pointBackgroundColor: '#FF9800',
+                                pointRadius: 4
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Blood Pressure (mmHg)'
+                                }
+                            },
+                            x: {
+                                ticks: {
+                                    maxTicksLimit: 10
+                                }
+                            }
+                        },
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: 'Blood Pressure Trend (mmHg)',
+                                font: {
+                                    size: 16,
+                                    weight: 'bold'
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Update statistics
+            updateStats() {
+                if (this.data.length === 0) {
+                    document.getElementById('no-stats-data').style.display = 'block';
+                    document.getElementById('stats-cards').style.display = 'none';
+                    document.getElementById('monthly-exercise-card').style.display = 'none';
+                    return;
+                }
+
+                document.getElementById('no-stats-data').style.display = 'none';
+                document.getElementById('stats-cards').style.display = 'flex';
+                document.getElementById('monthly-exercise-card').style.display = 'block';
+
+                // Calculate statistics
+                const recordsCount = this.data.length;
+                
+                // Weight statistics
+                const weights = this.data.map(r => r.weight).filter(w => w !== null);
+                const avgWeight = weights.length > 0 ? weights.reduce((a, b) => a + b, 0) / weights.length : 0;
+                const minWeight = weights.length > 0 ? Math.min(...weights) : 0;
+                const maxWeight = weights.length > 0 ? Math.max(...weights) : 0;
+                
+                // Glucose statistics
+                const glucose = this.data.map(r => r.bloodGlucose).filter(g => g !== null);
+                const avgGlucose = glucose.length > 0 ? glucose.reduce((a, b) => a + b, 0) / glucose.length : 0;
+                const minGlucose = glucose.length > 0 ? Math.min(...glucose) : 0;
+                const maxGlucose = glucose.length > 0 ? Math.max(...glucose) : 0;
+                
+                // Pulse statistics
+                const pulses = this.data.map(r => r.pulse).filter(p => p !== null);
+                const avgPulse = pulses.length > 0 ? pulses.reduce((a, b) => a + b, 0) / pulses.length : 0;
+                const minPulse = pulses.length > 0 ? Math.min(...pulses) : 0;
+                const maxPulse = pulses.length > 0 ? Math.max(...pulses) : 0;
+                
+                // Ketone statistics
+                const ketones = this.data.map(r => r.ketone).filter(k => k !== null);
+                const avgKetone = ketones.length > 0 ? ketones.reduce((a, b) => a + b, 0) / ketones.length : 0;
+                const maxKetone = ketones.length > 0 ? Math.max(...ketones) : 0;
+                
+                // Blood pressure statistics
+                const systolicAll = [];
+                const diastolicAll = [];
+                
+                this.data.forEach(record => {
+                    if (record.bloodPressure && record.bloodPressure.includes('/')) {
+                        try {
+                            const parts = record.bloodPressure.split('/');
+                            systolicAll.push(parseInt(parts[0]));
+                            diastolicAll.push(parseInt(parts[1]));
+                        } catch (e) {
+                            // Skip invalid values
+                        }
+                    }
+                });
+                
+                const avgSystolic = systolicAll.length > 0 ? systolicAll.reduce((a, b) => a + b, 0) / systolicAll.length : 0;
+                const avgDiastolic = diastolicAll.length > 0 ? diastolicAll.reduce((a, b) => a + b, 0) / diastolicAll.length : 0;
+                
+                // Exercise statistics
+                const exerciseRecords = this.data.filter(r => r.exerciseDuration > 0);
+                const totalExerciseMinutes = exerciseRecords.reduce((sum, r) => sum + r.exerciseDuration, 0);
+                const totalExerciseHours = totalExerciseMinutes / 60;
+                
+                // Monthly exercise statistics
+                const monthlyExercise = {};
+                
+                exerciseRecords.forEach(record => {
+                    const date = new Date(record.date.replace(/\//g, '-'));
+                    const monthKey = `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}`;
+                    
+                    if (!monthlyExercise[monthKey]) {
+                        monthlyExercise[monthKey] = 0;
+                    }
+                    
+                    monthlyExercise[monthKey] += record.exerciseDuration / 60; // Convert to hours
+                });
+                
+                // Create statistics cards
+                const statsCards = document.getElementById('stats-cards');
+                statsCards.innerHTML = '';
+                
+                const statsData = [
+                    { 
+                        title: 'Total Records', 
+                        value: recordsCount, 
+                        details: 'All health records', 
+                        color: '#4a90e2', 
+                        icon: 'fas fa-clipboard-list' 
+                    },
+                    { 
+                        title: 'Average Weight', 
+                        value: `${avgWeight.toFixed(1)} kg`, 
+                        details: `Min: ${minWeight.toFixed(1)} | Max: ${maxWeight.toFixed(1)}`, 
+                        color: '#4CAF50', 
+                        icon: 'fas fa-weight' 
+                    },
+                    { 
+                        title: 'Average Glucose', 
+                        value: `${avgGlucose.toFixed(1)} mmol/L`, 
+                        details: `Min: ${minGlucose.toFixed(1)} | Max: ${maxGlucose.toFixed(1)}`, 
+                        color: '#FF5722', 
+                        icon: 'fas fa-tint' 
+                    },
+                    { 
+                        title: 'Average Pulse', 
+                        value: `${avgPulse.toFixed(0)} bpm`, 
+                        details: `Min: ${minPulse} | Max: ${maxPulse}`, 
+                        color: '#9C27B0', 
+                        icon: 'fas fa-heartbeat' 
+                    },
+                    { 
+                        title: 'Average BP', 
+                        value: `${avgSystolic.toFixed(0)}/${avgDiastolic.toFixed(0)} mmHg`, 
+                        details: 'Systolic/Diastolic', 
+                        color: '#2196F3', 
+                        icon: 'fas fa-stethoscope' 
+                    },
+                    { 
+                        title: 'Average Ketone', 
+                        value: `${avgKetone.toFixed(1)} mmol/L`, 
+                        details: `Max: ${maxKetone.toFixed(1)}`, 
+                        color: '#FF9800', 
+                        icon: 'fas fa-flask' 
+                    },
+                    { 
+                        title: 'Total Exercise', 
+                        value: `${totalExerciseHours.toFixed(1)} hours`, 
+                        details: `${exerciseRecords.length} sessions`, 
+                        color: '#607D8B', 
+                        icon: 'fas fa-running' 
+                    }
+                ];
+                
+                statsData.forEach(stat => {
+                    const col = document.createElement('div');
+                    col.className = 'col-md-6 col-lg-4';
+                    
+                    col.innerHTML = `
+                        <div class="stat-card" style="background-color: ${stat.color}">
+                            <i class="${stat.icon}"></i>
+                            <div class="value">${stat.value}</div>
+                            <div class="label">${stat.title}</div>
+                            <div class="details">${stat.details}</div>
+                        </div>
+                    `;
+                    
+                    statsCards.appendChild(col);
+                });
+                
+                // Update monthly exercise table
+                const monthlyTableBody = document.querySelector('#monthly-exercise-table tbody');
+                monthlyTableBody.innerHTML = '';
+                
+                // Sort months (newest first)
+                const sortedMonths = Object.keys(monthlyExercise).sort().reverse().slice(0, 6);
+                
+                sortedMonths.forEach(month => {
+                    const totalHours = monthlyExercise[month];
+                    
+                    // Calculate average per day for the month
+                    const [year, monthNum] = month.split('-').map(Number);
+                    const daysInMonth = new Date(year, monthNum, 0).getDate();
+                    const avgPerDay = totalHours / daysInMonth;
+                    
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${month}</td>
+                        <td>${totalHours.toFixed(1)} hours</td>
+                        <td>${avgPerDay.toFixed(1)} hours/day</td>
+                    `;
+                    
+                    monthlyTableBody.appendChild(row);
+                });
+            }
+
+            // Export data as JSON file
+            exportData() {
+                if (this.data.length === 0) {
+                    alert('No data to export.');
+                    return;
+                }
+                
+                const dataStr = JSON.stringify(this.data, null, 2);
+                const dataBlob = new Blob([dataStr], { type: 'application/json' });
+                
+                const url = URL.createObjectURL(dataBlob);
+                const link = document.createElement('a');
+                link.href = url;
+                link.download = `health_data_${new Date().toISOString().split('T')[0]}.json`;
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                URL.revokeObjectURL(url);
+                
+                alert('Data exported successfully!');
+            }
+
+            // Import data from JSON file
+            importData(event) {
+                const file = event.target.files[0];
+                if (!file) return;
+                
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    try {
+                        const importedData = JSON.parse(e.target.result);
+                        
+                        if (!Array.isArray(importedData)) {
+                            alert('Invalid file format. Expected an array of records.');
+                            return;
+                        }
+                        
+                        // Check for duplicate IDs
+                        const existingIds = new Set(this.data.map(r => r.id));
+                        const newData = importedData.filter(r => !existingIds.has(r.id));
+                        
+                        if (newData.length === 0) {
+                            alert('No new records to import.');
+                            return;
+                        }
+                        
+                        this.data.push(...newData);
+                        this.saveData();
+                        this.refreshRecords();
+                        this.toggleEmptyStates();
+                        
+                        alert(`Successfully imported ${newData.length} records.`);
+                        
+                        // Reset file input
+                        event.target.value = '';
+                    } catch (error) {
+                        alert('Error parsing JSON file: ' + error.message);
+                    }
+                };
+                
+                reader.readAsText(file);
+            }
+
+            // Backup data (in this web version, it's the same as export)
+            backupData() {
+                this.exportData();
+            }
+
+            // Clear all data
+            clearAllData() {
+                if (!confirm('Are you sure you want to clear all data? This action cannot be undone!')) {
+                    return;
+                }
+                
+                this.data = [];
+                this.saveData();
+                this.refreshRecords();
+                this.toggleEmptyStates();
+                
+                alert('All data cleared successfully!');
+            }
+
+            // Toggle empty states based on data availability
+            toggleEmptyStates() {
+                const hasData = this.data.length > 0;
+                
+                // View Records tab
+                document.getElementById('no-records').style.display = hasData ? 'none' : 'block';
+                
+                // Charts tab
+                if (document.getElementById('charts').classList.contains('active')) {
+                    this.updateCharts();
+                }
+                
+                // Statistics tab
+                if (document.getElementById('stats').classList.contains('active')) {
+                    this.updateStats();
+                }
+            }
+        }
+
+        // Initialize the application when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            window.healthTracker = new HealthTracker();
+        });
+    </script>
+</body>
+</html>
