@@ -17,6 +17,7 @@
 
 以下应用程序只会储存资料在你的浏览内。
 
+- [健康计算器集合](/html/calculators.html)    
 - [综合健康计算器](/html/all-in-one_calculator.html)    
 - [代谢健康指标计算器](/html/metabolism_index_calculator.html)
 - [代谢健康指标计算器 (增强版)](/html/metabolism_index_calculator_plus.html)    
