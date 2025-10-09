@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>健康计算器集合</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #3498db;
+            --secondary: #2c3e50;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --danger: #e74c3c;
+            --light: #f8f9fa;
+            --dark: #343a40;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #1a2a6c);
+            color: #333;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(to right, #2c3e50, #4a6491);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            position: relative;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        
+        .calculator-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            padding: 30px;
+        }
+        
+        .calculator-card {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 3px solid transparent;
+        }
+        
+        .calculator-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+            border-color: var(--primary);
+        }
+        
+        .card-header {
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .card-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+        
+        .card-body {
+            padding: 20px;
+        }
+        
+        .card-description {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        
+        .card-features {
+            list-style: none;
+            margin-bottom: 20px;
+        }
+        
+        .card-features li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .card-features li:last-child {
+            border-bottom: none;
+        }
+        
+        .card-features i {
+            color: var(--primary);
+        }
+        
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: center;
+            text-decoration: none;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: white;
+            background: #2c3e50;
+            margin-top: 20px;
+            border-radius: 0 0 20px 20px;
+        }
+        
+        .info-section {
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            margin: 20px;
+        }
+        
+        .info-section h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 1.8rem;
+        }
+        
+        .info-boxes {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .info-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-left: 4px solid var(--primary);
+        }
+        
+        .info-box h3 {
+            color: var(--secondary);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .info-box p {
+            color: #555;
+            line-height: 1.6;
+        }
+        
+        @media (max-width: 768px) {
+            .calculator-grid {
+                grid-template-columns: 1fr;
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .subtitle {
+                font-size: 1rem;
+            }
+            
+            .info-boxes {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heartbeat"></i> 健康计算器集合</h1>
+            <p class="subtitle">一套全面的健康评估工具，帮助您监测和管理健康状况。从血脂分析到体脂计算，从血压评估，我们提供基于最新医学研究的专业计算器。</p>
+        </header>
+        
+        <div class="calculator-grid">
+            <div class="calculator-card" onclick="location.href='blood_lipids_calculator.html'">
+                <div class="card-header">
+                    <div class="card-icon"><i class="fas fa-vial"></i></div>
+                    <div class="card-title">血脂指数计算器</div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">基于最新医学研究的血脂分析与健康评估工具，帮助您了解心血管健康状况。</p>
+                    <ul class="card-features">
+                        <li><i class="fas fa-check"></i> 计算多种血脂比值</li>
+                        <li><i class="fas fa-check"></i> 评估心血管疾病风险</li>
+                        <li><i class="fas fa-check"></i> 提供Lp(a)参考值</li>
+                        <li><i class="fas fa-check"></i> 数据保存和导出功能</li>
+                    </ul>
+                    <a href="blood_lipids_calculator.html" class="btn">开始使用</a>
+                </div>
+            </div>
+            
+            <div class="calculator-card" onclick="location.href='blood_pressure_calculator.html'">
+                <div class="card-header">
+                    <div class="card-icon"><i class="fas fa-heartbeat"></i></div>
+                    <div class="card-title">脉压差计算器</div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">计算您的脉压并了解其对健康的意义，评估心血管系统健康状况。</p>
+                    <ul class="card-features">
+                        <li><i class="fas fa-check"></i> 计算收缩压与舒张压差值</li>
+                        <li><i class="fas fa-check"></i> 提供脉压健康解读</li>
+                        <li><i class="fas fa-check"></i> 清晰的健康范围指示</li>
+                        <li><i class="fas fa-check"></i> 简洁直观的用户界面</li>
+                    </ul>
+                    <a href="blood_pressure_calculator.html" class="btn">开始使用</a>
+                </div>
+            </div>
+            
+            <div class="calculator-card" onclick="location.href='body_fat_calculator.html'">
+                <div class="card-header">
+                    <div class="card-icon"><i class="fas fa-weight-scale"></i></div>
+                    <div class="card-title">亚洲人体脂率计算器</div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">根据腰围和体重计算您的体脂百分比，专门为亚洲人体质设计。</p>
+                    <ul class="card-features">
+                        <li><i class="fas fa-check"></i> 专为亚洲人体质设计</li>
+                        <li><i class="fas fa-check"></i> 基于腰围和体重计算</li>
+                        <li><i class="fas fa-check"></i> 提供体脂分类标准</li>
+                        <li><i class="fas fa-check"></i> 直观的结果展示</li>
+                    </ul>
+                    <a href="body_fat_calculator.html" class="btn">开始使用</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="info-section">
+            <h2>为什么需要监测这些健康指标？</h2>
+            <div class="info-boxes">
+                <div class="info-box">
+                    <h3><i class="fas fa-heart"></i> 心血管健康</h3>
+                    <p>定期监测血脂和血压可以帮助早期发现心血管疾病风险，及时采取预防措施。</p>
+                </div>
+                <div class="info-box">
+                    <h3><i class="fas fa-weight"></i> 体脂管理</h3>
+                    <p>体脂率比体重更能准确反映身体成分，有助于制定有效的减脂或增肌计划。</p>
+                </div>
+                <div class="info-box">
+                    <h3><i class="fas fa-chart-line"></i> 健康趋势</h3>
+                    <p>长期跟踪这些指标可以了解健康变化趋势，评估生活方式干预的效果。</p>
+                </div>
+                <div class="info-box">
+                    <h3><i class="fas fa-user-md"></i> 医疗参考</h3>
+                    <p>这些数据可以为医生提供重要参考，帮助制定更精准的治疗方案。</p>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p>© 2025 健康计算器集合 | 基于最新医学研究 | 数据仅供参考，不能替代专业医疗建议</p>
+        </footer>
+    </div>
+</body>
+</html>
