@@ -97,6 +97,7 @@ If browser is using secure DNS, such as Microsoft Edge, make sure to disable it 
 - [Pi-Hole - Network-wide Ad Blocking](https://pi-hole.net/)    
 - [Unbound - a validating, recursive, caching DNS resolver](https://nlnetlabs.nl/projects/unbound/about/)    
 - [DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists)    
+- [Pi-Hole Ad Tester](https://fuzzthepiguy.tech/adtest/)    
 
 Samiux     
 September 26, 2025, Hong Kong, China    
