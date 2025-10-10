@@ -109,6 +109,7 @@
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
+- [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
 
 ## 生酮相关
 
@@ -118,6 +119,8 @@
 - [为什么有的人酮体高，有的人酮体低？](http://www.chinalowcarb.com/ketone-body-2/)       
 - [为什么会莫名奇妙的退酮，一天的酮体变化](http://www.chinalowcarb.com/keto-in-a-day/)       
 - [你是不是在燃脂？身体会给你这7个信号](http://www.chinalowcarb.com/fat-burning-signs/)     
+- [低碳生酮减肥，最常见的几个错误](http://www.chinalowcarb.com/low-carb-mistakes/)    
+- [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
 
 ## 计算器
 
