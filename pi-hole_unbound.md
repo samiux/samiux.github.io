@@ -94,6 +94,14 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt
 
 Go to Tools --> Update Gravity --> Update
 
+## Restart Pi-Hole
+
+After the blackout, you may required to restart your Pi-Hole in this way.
+
+```
+sudo systemctl restart pihole-FTL
+```
+
 ## Reference
 
 - [Pi-Hole - A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)       
