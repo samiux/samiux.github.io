@@ -107,6 +107,7 @@ sudo systemctl restart pihole-FTL
 - [Pi-Hole - A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)       
 - [Pi-Hole Offficial Site](https://pi-hole.net/)     
 - [Unbound - a validating, recursive, caching DNS resolver](https://nlnetlabs.nl/projects/unbound/about/)       
+- [Pi-Hole Ad Tester](https://fuzzthepiguy.tech/adtest/)    
 
 Samiux       
 OSCE   OSCP   OSWP    
