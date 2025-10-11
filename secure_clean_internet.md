@@ -30,6 +30,8 @@ Monitoring any new file in the directories/folders and inspecting any malicious 
 
 To set it up just follows this [tutorial](https://samiux.github.io/wazuh_virustotal.html)  
 
+## Diagram of the Home Network Configuration
+
 ```
                                     Internet
                                        |
