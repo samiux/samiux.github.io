@@ -275,6 +275,13 @@
             background-color: #fdedec;
             color: #e74c3c;
         }
+        
+        .input-note {
+            font-size: 12px;
+            color: #7f8c8d;
+            margin-top: 5px;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
@@ -349,9 +356,17 @@
                             <input type="number" id="hip" min="1" max="200" step="0.1" placeholder="请输入臀围">
                         </div>
                     </div>
+                    
+                    <div class="input-row">
+                        <div class="input-item">
+                            <label for="neck">颈围 (cm)</label>
+                            <input type="number" id="neck" min="1" max="100" step="0.1" placeholder="请输入颈围">
+                            <div class="input-note">用于计算体脂率</div>
+                        </div>
+                    </div>
                 </div>
                 
-                <button id="calculate">计算BRI指数</button>
+                <button id="calculate">计算健康指数</button>
             </div>
             
             <div class="result-section">
@@ -368,6 +383,10 @@
                         <div class="card">
                             <div class="card-title">腰臀比</div>
                             <div class="card-value" id="whrValue">0.00</div>
+                        </div>
+                        <div class="card">
+                            <div class="card-title">体脂率</div>
+                            <div class="card-value" id="bodyFatValue">0.0%</div>
                         </div>
                         <div class="card">
                             <div class="card-title">理想体重</div>
@@ -398,19 +417,20 @@
             const weight = parseFloat(document.getElementById('weight').value);
             const waist = parseFloat(document.getElementById('waist').value);
             const hip = parseFloat(document.getElementById('hip').value);
+            const neck = parseFloat(document.getElementById('neck').value);
             const height = parseFloat(document.getElementById('height').value);
             const age = parseInt(document.getElementById('age').value);
             const gender = document.querySelector('input[name="gender"]:checked');
             const race = document.getElementById('race').value;
             
             // 验证输入
-            if (isNaN(weight) || isNaN(waist) || isNaN(hip) || isNaN(height) || isNaN(age) || 
+            if (isNaN(weight) || isNaN(waist) || isNaN(hip) || isNaN(neck) || isNaN(height) || isNaN(age) || 
                 !gender || !race) {
                 alert('请填写所有字段');
                 return;
             }
             
-            if (weight <= 0 || waist <= 0 || hip <= 0 || height <= 0 || age <= 0) {
+            if (weight <= 0 || waist <= 0 || hip <= 0 || neck <= 0 || height <= 0 || age <= 0) {
                 alert('请输入有效的数值');
                 return;
             }
@@ -421,12 +441,14 @@
             // 计算其他指标
             const bmi = calculateBMI(weight, height);
             const whr = calculateWHR(waist, hip);
+            const bodyFat = calculateBodyFat(waist, neck, height, gender.value);
             const idealWeight = calculateIdealWeight(height, gender.value);
             
             // 显示结果
             document.getElementById('briValue').textContent = bri.toFixed(2);
             document.getElementById('bmiValue').textContent = bmi.toFixed(1);
             document.getElementById('whrValue').textContent = whr.toFixed(2);
+            document.getElementById('bodyFatValue').textContent = bodyFat.toFixed(1) + '%';
             document.getElementById('idealWeight').textContent = idealWeight + 'kg';
             
             // 显示风险等级
@@ -435,11 +457,11 @@
             riskElement.textContent = riskLevel.text;
             riskElement.className = 'risk-level ' + riskLevel.class;
             
-            document.getElementById('interpretationText').textContent = getInterpretation(bri, gender.value, bmi, whr);
+            document.getElementById('interpretationText').textContent = getInterpretation(bri, gender.value, bmi, whr, bodyFat);
             document.getElementById('result').style.display = 'block';
             
             // 绘制图表
-            drawChart(bri, bmi, whr, gender.value);
+            drawChart(bri, bmi, whr, bodyFat, gender.value);
         });
         
         function calculateBRI(weight, waist, hip, height, age, gender, race) {
@@ -491,6 +513,20 @@
             return waist / hip;
         }
         
+        function calculateBodyFat(waist, neck, height, gender) {
+            // 使用美国海军公式计算体脂率
+            // 男性体脂率公式: 495 / (1.0324 - 0.19077 * log10(腰围 - 颈围) + 0.15456 * log10(身高)) - 450
+            // 女性体脂率公式: 495 / (1.29579 - 0.35004 * log10(腰围 + 臀围 - 颈围) + 0.22100 * log10(身高)) - 450
+            
+            if (gender === 'male') {
+                // 男性公式
+                return 495 / (1.0324 - 0.19077 * Math.log10(waist - neck) + 0.15456 * Math.log10(height)) - 450;
+            } else {
+                // 女性公式
+                return 495 / (1.29579 - 0.35004 * Math.log10(waist + hip - neck) + 0.22100 * Math.log10(height)) - 450;
+            }
+        }
+        
         function calculateIdealWeight(height, gender) {
             // 理想体重计算 (简单公式)
             const heightInMeters = height / 100;
@@ -521,7 +557,7 @@
             }
         }
         
-        function getInterpretation(bri, gender, bmi, whr) {
+        function getInterpretation(bri, gender, bmi, whr, bodyFat) {
             let interpretation = '';
             
             // BRI解读
@@ -579,16 +615,45 @@
                 }
             }
             
+            // 添加体脂率解读
+            interpretation += '\n\n您的体脂率为' + bodyFat.toFixed(1) + '%。';
+            if (gender === 'male') {
+                if (bodyFat < 6) {
+                    interpretation += '属于极低体脂率，可能影响健康。';
+                } else if (bodyFat >= 6 && bodyFat < 14) {
+                    interpretation += '属于运动员水平，非常健康。';
+                } else if (bodyFat >= 14 && bodyFat < 18) {
+                    interpretation += '属于健康范围，继续保持。';
+                } else if (bodyFat >= 18 && bodyFat < 25) {
+                    interpretation += '属于正常范围，建议维持或适当降低。';
+                } else {
+                    interpretation += '属于肥胖范围，建议采取措施降低体脂率。';
+                }
+            } else {
+                if (bodyFat < 14) {
+                    interpretation += '属于极低体脂率，可能影响健康。';
+                } else if (bodyFat >= 14 && bodyFat < 21) {
+                    interpretation += '属于运动员水平，非常健康。';
+                } else if (bodyFat >= 21 && bodyFat < 25) {
+                    interpretation += '属于健康范围，继续保持。';
+                } else if (bodyFat >= 25 && bodyFat < 32) {
+                    interpretation += '属于正常范围，建议维持或适当降低。';
+                } else {
+                    interpretation += '属于肥胖范围，建议采取措施降低体脂率。';
+                }
+            }
+            
             return interpretation;
         }
         
-        function drawChart(bri, bmi, whr, gender) {
+        function drawChart(bri, bmi, whr, bodyFat, gender) {
             const ctx = document.getElementById('healthChart').getContext('2d');
             
             // 根据性别设置参考值
             const briReference = gender === 'male' ? 3.0 : 2.5;
             const whrReference = gender === 'male' ? 0.9 : 0.8;
             const bmiReference = 22;
+            const bodyFatReference = gender === 'male' ? 18 : 25;
             
             // 销毁现有图表（如果存在）
             if (window.healthChartInstance) {
@@ -599,14 +664,15 @@
             window.healthChartInstance = new Chart(ctx, {
                 type: 'radar',
                 data: {
-                    labels: ['BRI指数', 'BMI指数', '腰臀比'],
+                    labels: ['BRI指数', 'BMI指数', '腰臀比', '体脂率'],
                     datasets: [
                         {
                             label: '您的数值',
                             data: [
                                 Math.min(bri, 5), // 限制最大值以便图表显示
                                 Math.min(bmi, 30), // 限制最大值以便图表显示
-                                Math.min(whr, 1.2) // 限制最大值以便图表显示
+                                Math.min(whr, 1.2), // 限制最大值以便图表显示
+                                Math.min(bodyFat, 40) // 限制最大值以便图表显示
                             ],
                             backgroundColor: 'rgba(52, 152, 219, 0.2)',
                             borderColor: 'rgba(52, 152, 219, 1)',
@@ -617,7 +683,7 @@
                         },
                         {
                             label: '参考值',
-                            data: [briReference, bmiReference, whrReference],
+                            data: [briReference, bmiReference, whrReference, bodyFatReference],
                             backgroundColor: 'rgba(231, 76, 60, 0.1)',
                             borderColor: 'rgba(231, 76, 60, 0.5)',
                             pointBackgroundColor: 'rgba(231, 76, 60, 0.5)',
@@ -635,7 +701,7 @@
                                 display: true
                             },
                             suggestedMin: 0,
-                            suggestedMax: gender === 'male' ? 5 : 4
+                            suggestedMax: gender === 'male' ? 30 : 35
                         }
                     },
                     plugins: {
