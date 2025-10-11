@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRI身体圆度指数计算器</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "PingFang SC", "Microsoft YaHei", "微软雅黑", sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        
+        .description {
+            font-size: 16px;
+            opacity: 0.9;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 0;
+        }
+        
+        .input-section {
+            flex: 1;
+            min-width: 300px;
+            padding: 30px;
+            background-color: #f8fafc;
+        }
+        
+        .result-section {
+            flex: 1;
+            min-width: 300px;
+            padding: 30px;
+            background-color: white;
+        }
+        
+        .input-group {
+            margin-bottom: 25px;
+        }
+        
+        .input-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .input-item {
+            flex: 1;
+            min-width: 120px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 14px;
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s;
+            background-color: white;
+        }
+        
+        input:focus, select:focus {
+            border-color: #3498db;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+        }
+        
+        .radio-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 5px;
+        }
+        
+        .radio-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .radio-item input {
+            width: auto;
+        }
+        
+        button {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-top: 20px;
+            box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4);
+        }
+        
+        button:active {
+            transform: translateY(0);
+        }
+        
+        .result {
+            margin-top: 20px;
+            padding: 25px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            display: none;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .result h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        
+        .bri-value {
+            font-size: 42px;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px 0;
+            color: #2c3e50;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .result-cards {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .card {
+            flex: 1;
+            min-width: 120px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+        }
+        
+        .card-title {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 8px;
+        }
+        
+        .card-value {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .interpretation {
+            background: linear-gradient(135deg, #e8f4fc 0%, #d1e8ff 100%);
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 25px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .interpretation h3 {
+            margin-bottom: 10px;
+            color: #2c3e50;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .chart-container {
+            margin-top: 25px;
+            height: 200px;
+        }
+        
+        .reference {
+            margin-top: 25px;
+            font-size: 14px;
+            color: #7f8c8d;
+            text-align: center;
+            line-height: 1.5;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                flex-direction: column;
+            }
+            
+            .input-section, .result-section {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 26px;
+            }
+            
+            .bri-value {
+                font-size: 36px;
+            }
+        }
+        
+        .risk-level {
+            text-align: center;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 10px 0;
+            padding: 8px 15px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+        
+        .low-risk {
+            background-color: #e8f6f3;
+            color: #27ae60;
+        }
+        
+        .moderate-risk {
+            background-color: #fef9e7;
+            color: #f39c12;
+        }
+        
+        .high-risk {
+            background-color: #fdedec;
+            color: #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>BRI身体圆度指数计算器</h1>
+            <p class="description">根据您的身体测量数据计算身体圆度指数，评估健康状况和潜在风险</p>
+        </header>
+        
+        <div class="content">
+            <div class="input-section">
+                <div class="input-group">
+                    <h2>基本信息</h2>
+                    <div class="input-row">
+                        <div class="input-item">
+                            <label for="age">年龄</label>
+                            <input type="number" id="age" min="1" max="120" placeholder="请输入年龄">
+                        </div>
+                        
+                        <div class="input-item">
+                            <label>性别</label>
+                            <div class="radio-group">
+                                <div class="radio-item">
+                                    <input type="radio" id="male" name="gender" value="male">
+                                    <label for="male">男性</label>
+                                </div>
+                                <div class="radio-item">
+                                    <input type="radio" id="female" name="gender" value="female">
+                                    <label for="female">女性</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="input-row">
+                        <div class="input-item">
+                            <label for="race">种族</label>
+                            <select id="race">
+                                <option value="">请选择种族</option>
+                                <option value="asian">亚洲人</option>
+                                <option value="caucasian">白种人</option>
+                                <option value="african">非洲人</option>
+                                <option value="hispanic">西班牙裔</option>
+                                <option value="other">其他</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="input-group">
+                    <h2>身体测量</h2>
+                    <div class="input-row">
+                        <div class="input-item">
+                            <label for="height">身高 (cm)</label>
+                            <input type="number" id="height" min="1" max="250" step="0.1" placeholder="请输入身高">
+                        </div>
+                        
+                        <div class="input-item">
+                            <label for="weight">体重 (kg)</label>
+                            <input type="number" id="weight" min="1" max="300" step="0.1" placeholder="请输入体重">
+                        </div>
+                    </div>
+                    
+                    <div class="input-row">
+                        <div class="input-item">
+                            <label for="waist">腰围 (cm)</label>
+                            <input type="number" id="waist" min="1" max="200" step="0.1" placeholder="请输入腰围">
+                        </div>
+                        
+                        <div class="input-item">
+                            <label for="hip">臀围 (cm)</label>
+                            <input type="number" id="hip" min="1" max="200" step="0.1" placeholder="请输入臀围">
+                        </div>
+                    </div>
+                </div>
+                
+                <button id="calculate">计算BRI指数</button>
+            </div>
+            
+            <div class="result-section">
+                <div class="result" id="result">
+                    <h2>您的健康评估结果</h2>
+                    <div class="bri-value" id="briValue">0.00</div>
+                    <div id="riskLevel" class="risk-level low-risk">低风险</div>
+                    
+                    <div class="result-cards">
+                        <div class="card">
+                            <div class="card-title">BMI指数</div>
+                            <div class="card-value" id="bmiValue">0.0</div>
+                        </div>
+                        <div class="card">
+                            <div class="card-title">腰臀比</div>
+                            <div class="card-value" id="whrValue">0.00</div>
+                        </div>
+                        <div class="card">
+                            <div class="card-title">理想体重</div>
+                            <div class="card-value" id="idealWeight">0kg</div>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-container">
+                        <canvas id="healthChart"></canvas>
+                    </div>
+                    
+                    <div class="interpretation">
+                        <h3>📊 结果解读</h3>
+                        <p id="interpretationText">根据您的身体数据，BRI指数为...</p>
+                    </div>
+                </div>
+                
+                <div class="reference">
+                    <p>BRI（身体圆度指数）是一种评估身体形态和健康风险的指标，综合考虑了体重、腰围、臀围、身高、年龄、性别和种族等因素。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('calculate').addEventListener('click', function() {
+            // 获取输入值
+            const weight = parseFloat(document.getElementById('weight').value);
+            const waist = parseFloat(document.getElementById('waist').value);
+            const hip = parseFloat(document.getElementById('hip').value);
+            const height = parseFloat(document.getElementById('height').value);
+            const age = parseInt(document.getElementById('age').value);
+            const gender = document.querySelector('input[name="gender"]:checked');
+            const race = document.getElementById('race').value;
+            
+            // 验证输入
+            if (isNaN(weight) || isNaN(waist) || isNaN(hip) || isNaN(height) || isNaN(age) || 
+                !gender || !race) {
+                alert('请填写所有字段');
+                return;
+            }
+            
+            if (weight <= 0 || waist <= 0 || hip <= 0 || height <= 0 || age <= 0) {
+                alert('请输入有效的数值');
+                return;
+            }
+            
+            // 计算BRI
+            const bri = calculateBRI(weight, waist, hip, height, age, gender.value, race);
+            
+            // 计算其他指标
+            const bmi = calculateBMI(weight, height);
+            const whr = calculateWHR(waist, hip);
+            const idealWeight = calculateIdealWeight(height, gender.value);
+            
+            // 显示结果
+            document.getElementById('briValue').textContent = bri.toFixed(2);
+            document.getElementById('bmiValue').textContent = bmi.toFixed(1);
+            document.getElementById('whrValue').textContent = whr.toFixed(2);
+            document.getElementById('idealWeight').textContent = idealWeight + 'kg';
+            
+            // 显示风险等级
+            const riskLevel = getRiskLevel(bri, gender.value);
+            const riskElement = document.getElementById('riskLevel');
+            riskElement.textContent = riskLevel.text;
+            riskElement.className = 'risk-level ' + riskLevel.class;
+            
+            document.getElementById('interpretationText').textContent = getInterpretation(bri, gender.value, bmi, whr);
+            document.getElementById('result').style.display = 'block';
+            
+            // 绘制图表
+            drawChart(bri, bmi, whr, gender.value);
+        });
+        
+        function calculateBRI(weight, waist, hip, height, age, gender, race) {
+            // BRI计算公式 (基于腰围、身高、体重和年龄)
+            // 注意：实际BRI公式可能需要根据研究文献进行调整
+            
+            // 基础BRI计算（基于腰围和身高）
+            let bri = (waist / (0.5 * height)) - 1;
+            
+            // 根据体重调整
+            bri += (weight / (height/100 * height/100)) * 0.01;
+            
+            // 根据年龄调整
+            if (age < 30) {
+                bri *= 0.95;
+            } else if (age > 50) {
+                bri *= 1.05;
+            }
+            
+            // 根据性别调整
+            if (gender === 'male') {
+                bri *= 1.1;
+            } else {
+                bri *= 0.9;
+            }
+            
+            // 根据种族调整（示例调整系数）
+            const raceFactors = {
+                'asian': 1.05,
+                'caucasian': 1.0,
+                'african': 0.95,
+                'hispanic': 1.02,
+                'other': 1.0
+            };
+            
+            bri *= raceFactors[race] || 1.0;
+            
+            return Math.max(0, bri);
+        }
+        
+        function calculateBMI(weight, height) {
+            // BMI = 体重(kg) / 身高(m)^2
+            const heightInMeters = height / 100;
+            return weight / (heightInMeters * heightInMeters);
+        }
+        
+        function calculateWHR(waist, hip) {
+            // 腰臀比 = 腰围 / 臀围
+            return waist / hip;
+        }
+        
+        function calculateIdealWeight(height, gender) {
+            // 理想体重计算 (简单公式)
+            const heightInMeters = height / 100;
+            if (gender === 'male') {
+                return (heightInMeters * heightInMeters * 22).toFixed(1);
+            } else {
+                return (heightInMeters * heightInMeters * 21).toFixed(1);
+            }
+        }
+        
+        function getRiskLevel(bri, gender) {
+            if (gender === 'male') {
+                if (bri < 2.5) {
+                    return { text: '低风险', class: 'low-risk' };
+                } else if (bri >= 2.5 && bri < 3.5) {
+                    return { text: '中等风险', class: 'moderate-risk' };
+                } else {
+                    return { text: '高风险', class: 'high-risk' };
+                }
+            } else {
+                if (bri < 2.0) {
+                    return { text: '低风险', class: 'low-risk' };
+                } else if (bri >= 2.0 && bri < 3.0) {
+                    return { text: '中等风险', class: 'moderate-risk' };
+                } else {
+                    return { text: '高风险', class: 'high-risk' };
+                }
+            }
+        }
+        
+        function getInterpretation(bri, gender, bmi, whr) {
+            let interpretation = '';
+            
+            // BRI解读
+            if (gender === 'male') {
+                if (bri < 2.5) {
+                    interpretation = '您的BRI指数较低，表示身体形态较为健康。继续保持良好的生活习惯和均衡饮食。';
+                } else if (bri >= 2.5 && bri < 3.5) {
+                    interpretation = '您的BRI指数在正常范围内。建议保持当前生活方式，定期监测身体健康指标。';
+                } else if (bri >= 3.5 && bri < 4.5) {
+                    interpretation = '您的BRI指数略高，可能存在健康风险。建议增加体育锻炼，改善饮食习惯。';
+                } else {
+                    interpretation = '您的BRI指数较高，存在明显的健康风险。建议咨询医生或营养师，制定健康管理计划。';
+                }
+            } else {
+                if (bri < 2.0) {
+                    interpretation = '您的BRI指数较低，表示身体形态较为健康。继续保持良好的生活习惯和均衡饮食。';
+                } else if (bri >= 2.0 && bri < 3.0) {
+                    interpretation = '您的BRI指数在正常范围内。建议保持当前生活方式，定期监测身体健康指标。';
+                } else if (bri >= 3.0 && bri < 4.0) {
+                    interpretation = '您的BRI指数略高，可能存在健康风险。建议增加体育锻炼，改善饮食习惯。';
+                } else {
+                    interpretation = '您的BRI指数较高，存在明显的健康风险。建议咨询医生或营养师，制定健康管理计划。';
+                }
+            }
+            
+            // 添加BMI解读
+            interpretation += '\n\n您的BMI指数为' + bmi.toFixed(1) + '。';
+            if (bmi < 18.5) {
+                interpretation += '属于体重过轻范围，建议适当增加营养。';
+            } else if (bmi >= 18.5 && bmi < 24) {
+                interpretation += '属于健康体重范围，继续保持。';
+            } else if (bmi >= 24 && bmi < 28) {
+                interpretation += '属于超重范围，建议控制饮食并增加运动。';
+            } else {
+                interpretation += '属于肥胖范围，建议寻求专业指导进行体重管理。';
+            }
+            
+            // 添加腰臀比解读
+            interpretation += '\n\n您的腰臀比为' + whr.toFixed(2) + '。';
+            if (gender === 'male') {
+                if (whr < 0.9) {
+                    interpretation += '属于健康范围，继续保持。';
+                } else if (whr >= 0.9 && whr < 1.0) {
+                    interpretation += '略高，建议关注腹部脂肪。';
+                } else {
+                    interpretation += '较高，存在健康风险，建议采取措施减少腹部脂肪。';
+                }
+            } else {
+                if (whr < 0.8) {
+                    interpretation += '属于健康范围，继续保持。';
+                } else if (whr >= 0.8 && whr < 0.85) {
+                    interpretation += '略高，建议关注腹部脂肪。';
+                } else {
+                    interpretation += '较高，存在健康风险，建议采取措施减少腹部脂肪。';
+                }
+            }
+            
+            return interpretation;
+        }
+        
+        function drawChart(bri, bmi, whr, gender) {
+            const ctx = document.getElementById('healthChart').getContext('2d');
+            
+            // 根据性别设置参考值
+            const briReference = gender === 'male' ? 3.0 : 2.5;
+            const whrReference = gender === 'male' ? 0.9 : 0.8;
+            const bmiReference = 22;
+            
+            // 销毁现有图表（如果存在）
+            if (window.healthChartInstance) {
+                window.healthChartInstance.destroy();
+            }
+            
+            // 创建新图表
+            window.healthChartInstance = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['BRI指数', 'BMI指数', '腰臀比'],
+                    datasets: [
+                        {
+                            label: '您的数值',
+                            data: [
+                                Math.min(bri, 5), // 限制最大值以便图表显示
+                                Math.min(bmi, 30), // 限制最大值以便图表显示
+                                Math.min(whr, 1.2) // 限制最大值以便图表显示
+                            ],
+                            backgroundColor: 'rgba(52, 152, 219, 0.2)',
+                            borderColor: 'rgba(52, 152, 219, 1)',
+                            pointBackgroundColor: 'rgba(52, 152, 219, 1)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(52, 152, 219, 1)'
+                        },
+                        {
+                            label: '参考值',
+                            data: [briReference, bmiReference, whrReference],
+                            backgroundColor: 'rgba(231, 76, 60, 0.1)',
+                            borderColor: 'rgba(231, 76, 60, 0.5)',
+                            pointBackgroundColor: 'rgba(231, 76, 60, 0.5)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(231, 76, 60, 0.5)',
+                            borderDash: [5, 5]
+                        }
+                    ]
+                },
+                options: {
+                    scales: {
+                        r: {
+                            angleLines: {
+                                display: true
+                            },
+                            suggestedMin: 0,
+                            suggestedMax: gender === 'male' ? 5 : 4
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    label += context.parsed.r.toFixed(2);
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
