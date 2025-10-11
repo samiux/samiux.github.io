@@ -30,6 +30,36 @@ Monitoring any new file in the directories/folders and inspecting any malicious 
 
 To set it up just follows this [tutorial](https://samiux.github.io/wazuh_virustotal.html)  
 
+```
+                                    Internet
+                                       |
+                                       |
+                                     Modem
+                                       | 
+                                       |
+                          +---------- IDPS (Suricata)  
+                          |            |
+                          |            | (WAN)
+                          |            |
+                          |        Wifi Router --- Phones/Tablets/IoTs
+                          |            |  
+                    (LAN) |            | (LAN)
+                          |            |
+                          |            |             (SPAN)
+                          |      Mirroring Switch ----------- IDS (Suricata)
+                          |            |             
+                          |            |
+                          +--------- Switch
+                                       |
+                                       |
+                   +----------+--------+--------+----------+
+                   |          |                 |          |
+                   |          |                 |          |
+                 Wazuh     OpenVPN           Pi-Hole   Computers/Servers
+                         Access Server         DNS
+
+```
+
 ## Conclusion
 
 When your network is equipped with IDPS, Pi-Hole and Wazuh, you have a more secure and cleaner internet connection for your devices, including mobile devices.
