@@ -20,7 +20,7 @@
         }
         
         .container {
-            max-width: 1000px;
+            max-width: 1100px;
             margin: 0 auto;
             background-color: white;
             border-radius: 10px;
@@ -95,6 +95,11 @@
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             padding: 20px;
             border-left: 4px solid #3498db;
+        }
+        
+        .result-card.important {
+            border-left-color: #e74c3c;
+            background-color: #fff9f9;
         }
         
         .result-card h3 {
@@ -231,6 +236,12 @@
                         <td>≥ 6.2 mmol/L</td>
                     </tr>
                     <tr>
+                        <td>低密度脂蛋白 (LDL)</td>
+                        <td>&lt; 2.6 mmol/L</td>
+                        <td>2.6-3.3 mmol/L</td>
+                        <td>≥ 3.4 mmol/L</td>
+                    </tr>
+                    <tr>
                         <td>高密度脂蛋白 (HDL)</td>
                         <td>&gt; 1.55 mmol/L</td>
                         <td>1.0-1.55 mmol/L</td>
@@ -321,6 +332,13 @@
             // 生成结果HTML
             const resultsContainer = document.getElementById('results');
             resultsContainer.innerHTML = `
+                <div class="result-card important">
+                    <h3>低密度脂蛋白 (LDL)</h3>
+                    <div class="result-value">${ldl.toFixed(2)} mmol/L</div>
+                    <div class="result-status ${getLdlStatus(ldl)}">${getLdlStatusText(ldl)}</div>
+                    <div class="explanation">${getLdlExplanation(ldl)}</div>
+                </div>
+                
                 <div class="result-card">
                     <h3>TG/HDL 比率</h3>
                     <div class="result-value">${tgHdl.toFixed(2)}</div>
@@ -378,6 +396,25 @@
                 </div>
             `;
         });
+        
+        // LDL状态判断函数
+        function getLdlStatus(value) {
+            if (value < 2.6) return 'normal';
+            if (value <= 3.3) return 'warning';
+            return 'danger';
+        }
+        
+        function getLdlStatusText(value) {
+            if (value < 2.6) return '理想';
+            if (value <= 3.3) return '临界';
+            return '高风险';
+        }
+        
+        function getLdlExplanation(value) {
+            if (value < 2.6) return 'LDL水平理想，心血管疾病风险较低。';
+            if (value <= 3.3) return 'LDL水平处于临界范围，建议改善生活方式。';
+            return 'LDL水平较高，心血管疾病风险显著增加，建议咨询医生。';
+        }
         
         // 状态判断函数 (mmol/L单位)
         function getTgHdlStatus(value) {
