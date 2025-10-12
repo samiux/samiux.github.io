@@ -20,6 +20,7 @@
 - [健康追踪器](/html/health_tracker.html)    
 - [生酮饮食营养计算器](/html/keto_fasting_calculator.html)    
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
+- [血脂指标计算器](/html/blood_lipids_ratio.html)      
 - [双酮断食营养计算器](/html/dual_keto_fasting_calculator.html)     
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
