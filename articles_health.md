@@ -327,7 +327,7 @@
 - [增肌减脂同时进行，加拿大研究解开秘密](http://www.chinalowcarb.com/higher-protein-with-intense-exercise-greater-lean-mass-gain/)       
 - [轻断食减重的这些优势很重要](https://mp.weixin.qq.com/s/RnrrknaSPln5fIB1Buiflw)        
 - [轻松破平台期，打开燃脂开关AMPK，让“燃脂信号”直达细胞](https://mp.weixin.qq.com/s/QSPQnR-9LSdbFzVvaYI-Tg)      
-- [How Fasting Transforms Your Metabolism & Tips to Get Started Today | ](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
+- [How Fasting Transforms Your Metabolism & Tips to Get Started Today](https://www.youtube.com/watch?v=qw8wMELZ5dI)      
 - [棕色脂肪功能与激活方法详解](/brown_fat.md)        
 - [No.1 Fasting Expert Reveals Snacks That Won't Break Your Fast](https://www.youtube.com/watch?v=rJD4e36kxY0)       
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
