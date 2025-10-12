@@ -273,6 +273,12 @@
                         <td>≥ 1.0 mmol/L</td>
                     </tr>
                     <tr>
+                        <td>VLDL/TG 比率</td>
+                        <td>&lt; 2.0</td>
+                        <td>2.0-2.5</td>
+                        <td>&gt; 2.5</td>
+                    </tr>
+                    <tr>
                         <td>残余胆固醇 (RC)</td>
                         <td>&lt; 0.78 mmol/L</td>
                         <td>0.78-1.0 mmol/L</td>
@@ -332,7 +338,8 @@
                 <div class="result-card">
                     <h3>VLDL/TG 比率</h3>
                     <div class="result-value">${vldlTg.toFixed(2)}</div>
-                    <div class="explanation">VLDL与甘油三酯的比率，反映VLDL在总甘油三酯中的占比。</div>
+                    <div class="result-status ${getVldlTgStatus(vldlTg)}">${getVldlTgStatusText(vldlTg)}</div>
+                    <div class="explanation">${getVldlTgExplanation(vldlTg)}</div>
                 </div>
                 
                 <div class="result-card">
@@ -407,6 +414,25 @@
             if (value < 0.78) return 'VLDL水平理想。';
             if (value <= 1.0) return 'VLDL水平处于临界范围。';
             return 'VLDL水平较高，可能与代谢异常相关。';
+        }
+        
+        // VLDL/TG比率状态判断函数
+        function getVldlTgStatus(value) {
+            if (value < 2.0) return 'normal';
+            if (value <= 2.5) return 'warning';
+            return 'danger';
+        }
+        
+        function getVldlTgStatusText(value) {
+            if (value < 2.0) return '理想';
+            if (value <= 2.5) return '临界';
+            return '高风险';
+        }
+        
+        function getVldlTgExplanation(value) {
+            if (value < 2.0) return 'VLDL/TG比率理想，值越低越好。';
+            if (value <= 2.5) return 'VLDL/TG比率处于临界范围。';
+            return 'VLDL/TG比率较高，建议咨询医生。';
         }
         
         function getTcHdlStatus(value) {
