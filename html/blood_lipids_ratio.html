@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血脂指标计算器</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "Microsoft YaHei", sans-serif;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .input-section {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 30px;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        
+        .input-group {
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            margin-top: 10px;
+        }
+        
+        button:hover {
+            background-color: #2980b9;
+        }
+        
+        .results-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .result-card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .result-card h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+        
+        .result-value {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .result-status {
+            display: inline-block;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .normal {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        
+        .warning {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+        
+        .danger {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        
+        .explanation {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .reference-section {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        
+        .reference-section h2 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        .note {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f4fd;
+            border-radius: 4px;
+            border-left: 4px solid #3498db;
+        }
+        
+        @media (max-width: 768px) {
+            .input-section {
+                flex-direction: column;
+            }
+            
+            .results-section {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>血脂指标计算器 (mmol/L单位)</h1>
+        
+        <div class="input-section">
+            <div class="input-group">
+                <label for="tc">总胆固醇 (TC) (mmol/L)</label>
+                <input type="number" id="tc" placeholder="输入总胆固醇值" step="0.01">
+            </div>
+            
+            <div class="input-group">
+                <label for="hdl">高密度脂蛋白 (HDL) (mmol/L)</label>
+                <input type="number" id="hdl" placeholder="输入HDL值" step="0.01">
+            </div>
+            
+            <div class="input-group">
+                <label for="tg">甘油三酯 (TG) (mmol/L)</label>
+                <input type="number" id="tg" placeholder="输入TG值" step="0.01">
+            </div>
+            
+            <button id="calculate-btn">计算血脂指标</button>
+        </div>
+        
+        <div class="results-section" id="results">
+            <!-- 结果将在这里动态生成 -->
+        </div>
+        
+        <div class="reference-section">
+            <h2>血脂指标参考范围 (mmol/L)</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>指标</th>
+                        <th>理想范围</th>
+                        <th>临界范围</th>
+                        <th>高风险范围</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>总胆固醇 (TC)</td>
+                        <td>&lt; 5.2 mmol/L</td>
+                        <td>5.2-6.2 mmol/L</td>
+                        <td>≥ 6.2 mmol/L</td>
+                    </tr>
+                    <tr>
+                        <td>高密度脂蛋白 (HDL)</td>
+                        <td>&gt; 1.55 mmol/L</td>
+                        <td>1.0-1.55 mmol/L</td>
+                        <td>&lt; 1.0 mmol/L</td>
+                    </tr>
+                    <tr>
+                        <td>甘油三酯 (TG)</td>
+                        <td>&lt; 1.7 mmol/L</td>
+                        <td>1.7-2.3 mmol/L</td>
+                        <td>≥ 2.3 mmol/L</td>
+                    </tr>
+                    <tr>
+                        <td>TG/HDL 比率</td>
+                        <td>&lt; 0.87</td>
+                        <td>0.87-1.74</td>
+                        <td>&gt; 1.74</td>
+                    </tr>
+                    <tr>
+                        <td>TC/HDL 比率</td>
+                        <td>&lt; 4</td>
+                        <td>4-5</td>
+                        <td>&gt; 5</td>
+                    </tr>
+                    <tr>
+                        <td>LDL/HDL 比率</td>
+                        <td>&lt; 2.5</td>
+                        <td>2.5-3.5</td>
+                        <td>&gt; 3.5</td>
+                    </tr>
+                    <tr>
+                        <td>非HDL胆固醇</td>
+                        <td>&lt; 3.4 mmol/L</td>
+                        <td>3.4-4.1 mmol/L</td>
+                        <td>≥ 4.1 mmol/L</td>
+                    </tr>
+                    <tr>
+                        <td>VLDL</td>
+                        <td>&lt; 0.78 mmol/L</td>
+                        <td>0.78-1.0 mmol/L</td>
+                        <td>≥ 1.0 mmol/L</td>
+                    </tr>
+                    <tr>
+                        <td>残余胆固醇 (RC)</td>
+                        <td>&lt; 0.78 mmol/L</td>
+                        <td>0.78-1.0 mmol/L</td>
+                        <td>≥ 1.0 mmol/L</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="note">
+                <p><strong>注意：</strong>以上参考范围基于一般指南，个体情况可能有所不同。请咨询医生获取个性化建议。</p>
+                <p>所有计算基于Friedewald公式：LDL = TC - HDL - (TG/2.2)</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('calculate-btn').addEventListener('click', function() {
+            // 获取输入值
+            const tc = parseFloat(document.getElementById('tc').value);
+            const hdl = parseFloat(document.getElementById('hdl').value);
+            const tg = parseFloat(document.getElementById('tg').value);
+            
+            // 验证输入
+            if (isNaN(tc) || isNaN(hdl) || isNaN(tg)) {
+                alert('请输入所有数值');
+                return;
+            }
+            
+            // 计算各项指标 (使用mmol/L单位)
+            const tgHdl = tg / hdl;
+            const vldl = tg / 2.2; // mmol/L单位下使用2.2而不是5
+            const vldlTg = vldl / tg;
+            const tcHdl = tc / hdl;
+            const ldl = tc - hdl - (tg / 2.2); // mmol/L单位下使用2.2而不是5
+            const ldlHdl = ldl / hdl;
+            const nonHdl = tc - hdl;
+            const ai = (tc - hdl) / hdl;
+            const rc = tg / 2.2; // 残余胆固醇通常等于VLDL
+            
+            // 生成结果HTML
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = `
+                <div class="result-card">
+                    <h3>TG/HDL 比率</h3>
+                    <div class="result-value">${tgHdl.toFixed(2)}</div>
+                    <div class="result-status ${getTgHdlStatus(tgHdl)}">${getTgHdlStatusText(tgHdl)}</div>
+                    <div class="explanation">${getTgHdlExplanation(tgHdl)}</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>VLDL</h3>
+                    <div class="result-value">${vldl.toFixed(2)} mmol/L</div>
+                    <div class="result-status ${getVldlStatus(vldl)}">${getVldlStatusText(vldl)}</div>
+                    <div class="explanation">${getVldlExplanation(vldl)}</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>VLDL/TG 比率</h3>
+                    <div class="result-value">${vldlTg.toFixed(2)}</div>
+                    <div class="explanation">VLDL与甘油三酯的比率，反映VLDL在总甘油三酯中的占比。</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>TC/HDL 比率</h3>
+                    <div class="result-value">${tcHdl.toFixed(2)}</div>
+                    <div class="result-status ${getTcHdlStatus(tcHdl)}">${getTcHdlStatusText(tcHdl)}</div>
+                    <div class="explanation">${getTcHdlExplanation(tcHdl)}</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>LDL/HDL 比率</h3>
+                    <div class="result-value">${ldlHdl.toFixed(2)}</div>
+                    <div class="result-status ${getLdlHdlStatus(ldlHdl)}">${getLdlHdlStatusText(ldlHdl)}</div>
+                    <div class="explanation">${getLdlHdlExplanation(ldlHdl)}</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>非HDL胆固醇</h3>
+                    <div class="result-value">${nonHdl.toFixed(2)} mmol/L</div>
+                    <div class="result-status ${getNonHdlStatus(nonHdl)}">${getNonHdlStatusText(nonHdl)}</div>
+                    <div class="explanation">${getNonHdlExplanation(nonHdl)}</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>动脉粥样硬化指数 (AI)</h3>
+                    <div class="result-value">${ai.toFixed(2)}</div>
+                    <div class="result-status ${getAiStatus(ai)}">${getAiStatusText(ai)}</div>
+                    <div class="explanation">${getAiExplanation(ai)}</div>
+                </div>
+                
+                <div class="result-card">
+                    <h3>残余胆固醇 (RC)</h3>
+                    <div class="result-value">${rc.toFixed(2)} mmol/L</div>
+                    <div class="result-status ${getRcStatus(rc)}">${getRcStatusText(rc)}</div>
+                    <div class="explanation">${getRcExplanation(rc)}</div>
+                </div>
+            `;
+        });
+        
+        // 状态判断函数 (mmol/L单位)
+        function getTgHdlStatus(value) {
+            if (value < 0.87) return 'normal';
+            if (value <= 1.74) return 'warning';
+            return 'danger';
+        }
+        
+        function getTgHdlStatusText(value) {
+            if (value < 0.87) return '理想';
+            if (value <= 1.74) return '临界';
+            return '高风险';
+        }
+        
+        function getTgHdlExplanation(value) {
+            if (value < 0.87) return 'TG/HDL比率理想，心血管疾病风险较低。';
+            if (value <= 1.74) return 'TG/HDL比率处于临界范围，建议改善生活方式。';
+            return 'TG/HDL比率较高，心血管疾病风险增加，建议咨询医生。';
+        }
+        
+        function getVldlStatus(value) {
+            if (value < 0.78) return 'normal';
+            if (value <= 1.0) return 'warning';
+            return 'danger';
+        }
+        
+        function getVldlStatusText(value) {
+            if (value < 0.78) return '理想';
+            if (value <= 1.0) return '临界';
+            return '高风险';
+        }
+        
+        function getVldlExplanation(value) {
+            if (value < 0.78) return 'VLDL水平理想。';
+            if (value <= 1.0) return 'VLDL水平处于临界范围。';
+            return 'VLDL水平较高，可能与代谢异常相关。';
+        }
+        
+        function getTcHdlStatus(value) {
+            if (value < 4) return 'normal';
+            if (value <= 5) return 'warning';
+            return 'danger';
+        }
+        
+        function getTcHdlStatusText(value) {
+            if (value < 4) return '理想';
+            if (value <= 5) return '临界';
+            return '高风险';
+        }
+        
+        function getTcHdlExplanation(value) {
+            if (value < 4) return 'TC/HDL比率理想，心血管疾病风险较低。';
+            if (value <= 5) return 'TC/HDL比率处于临界范围，建议改善生活方式。';
+            return 'TC/HDL比率较高，心血管疾病风险增加，建议咨询医生。';
+        }
+        
+        function getLdlHdlStatus(value) {
+            if (value < 2.5) return 'normal';
+            if (value <= 3.5) return 'warning';
+            return 'danger';
+        }
+        
+        function getLdlHdlStatusText(value) {
+            if (value < 2.5) return '理想';
+            if (value <= 3.5) return '临界';
+            return '高风险';
+        }
+        
+        function getLdlHdlExplanation(value) {
+            if (value < 2.5) return 'LDL/HDL比率理想，心血管疾病风险较低。';
+            if (value <= 3.5) return 'LDL/HDL比率处于临界范围，建议改善生活方式。';
+            return 'LDL/HDL比率较高，心血管疾病风险增加，建议咨询医生。';
+        }
+        
+        function getNonHdlStatus(value) {
+            if (value < 3.4) return 'normal';
+            if (value <= 4.1) return 'warning';
+            return 'danger';
+        }
+        
+        function getNonHdlStatusText(value) {
+            if (value < 3.4) return '理想';
+            if (value <= 4.1) return '临界';
+            return '高风险';
+        }
+        
+        function getNonHdlExplanation(value) {
+            if (value < 3.4) return '非HDL胆固醇水平理想。';
+            if (value <= 4.1) return '非HDL胆固醇水平处于临界范围。';
+            return '非HDL胆固醇水平较高，心血管疾病风险增加。';
+        }
+        
+        function getAiStatus(value) {
+            if (value < 3) return 'normal';
+            return 'danger';
+        }
+        
+        function getAiStatusText(value) {
+            if (value < 3) return '正常';
+            return '偏高';
+        }
+        
+        function getAiExplanation(value) {
+            if (value < 3) return '动脉粥样硬化指数正常。';
+            return '动脉粥样硬化指数偏高，动脉粥样硬化风险增加。';
+        }
+        
+        function getRcStatus(value) {
+            if (value < 0.78) return 'normal';
+            if (value <= 1.0) return 'warning';
+            return 'danger';
+        }
+        
+        function getRcStatusText(value) {
+            if (value < 0.78) return '理想';
+            if (value <= 1.0) return '临界';
+            return '高风险';
+        }
+        
+        function getRcExplanation(value) {
+            if (value < 0.78) return '残余胆固醇水平理想。';
+            if (value <= 1.0) return '残余胆固醇水平处于临界范围。';
+            return '残余胆固醇水平较高，与心血管疾病风险增加相关。';
+        }
+    </script>
+</body>
+</html>
