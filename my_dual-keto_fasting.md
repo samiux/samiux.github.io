@@ -134,6 +134,7 @@
 - [代谢健康指标计算器 (增强版)](/html/metabolism_index_calculator_plus.html)
 - [血糖酮指数(GKI)计算器](/html/gki_calculator.html)     
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
+- [血脂指标计算器](/html/blood_lipids_ratio.html)      
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [健康追踪器](/html/health_tracker.html)    
 
