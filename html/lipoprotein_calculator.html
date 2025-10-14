@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>脂蛋白亚组分计算器</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Microsoft YaHei', sans-serif;
+        }
+        
+        body {
+            background-color: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, #3498db, #2ecc71, #e74c3c);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 28px;
+            position: relative;
+            padding-bottom: 15px;
+        }
+        
+        h1::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 3px;
+            background: linear-gradient(90deg, #3498db, #2ecc71, #e74c3c);
+            border-radius: 3px;
+        }
+        
+        .description {
+            background-color: #e8f4fd;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            font-size: 15px;
+            color: #2c3e50;
+            border-left: 5px solid #3498db;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        
+        .input-container {
+            flex: 0 0 48%;
+            margin-bottom: 15px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        
+        input:focus {
+            border-color: #3498db;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+        }
+        
+        button {
+            background: linear-gradient(90deg, #3498db, #2ecc71);
+            color: white;
+            border: none;
+            padding: 15px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            width: 100%;
+            transition: all 0.3s;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .result {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 10px;
+            display: none;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .result h3 {
+            margin-bottom: 15px;
+            color: #2c3e50;
+            text-align: center;
+            font-size: 22px;
+        }
+        
+        .result-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .result-item {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .result-label {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 5px;
+        }
+        
+        .result-value {
+            font-size: 22px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .sdldl-value {
+            color: #e74c3c;
+        }
+        
+        .lbldl-value {
+            color: #3498db;
+        }
+        
+        .vldl-value {
+            color: #2ecc71;
+        }
+        
+        .interpretation {
+            background-color: #fff8e1;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+            font-size: 15px;
+            border-left: 5px solid #f1c40f;
+        }
+        
+        .explanation {
+            margin-top: 25px;
+            display: none;
+        }
+        
+        .explanation-item {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+            border-left: 5px solid #3498db;
+        }
+        
+        .explanation-item.sdldl {
+            border-left-color: #e74c3c;
+        }
+        
+        .explanation-item.lbldl {
+            border-left-color: #3498db;
+        }
+        
+        .explanation-item.vldl {
+            border-left-color: #2ecc71;
+        }
+        
+        .explanation-item.ldl {
+            border-left-color: #9b59b6;
+        }
+        
+        .explanation-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+        
+        .formula-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 25px;
+        }
+        
+        .formula {
+            background-color: #f0f8ff;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: monospace;
+            text-align: center;
+            font-size: 14px;
+            border-left: 5px solid #3498db;
+        }
+        
+        .note {
+            margin-top: 20px;
+            font-size: 13px;
+            color: #7f8c8d;
+            text-align: center;
+            line-height: 1.5;
+        }
+        
+        @media (max-width: 768px) {
+            .input-container {
+                flex: 0 0 100%;
+            }
+            
+            .result-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .formula-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>脂蛋白亚组分计算器</h1>
+        
+        <div class="description">
+            <p>本计算器使用以下公式计算脂蛋白亚组分：</p>
+            <p><strong>sdLDL-C = 0.14 × ln(TG) × LDL-C - 0.45 × LDL-C + 10.88</strong></p>
+            <p><strong>lbLDL-C = 1.43 × LDL-C - 0.14 × (ln(TG) × LDL-C) - 8.99</strong></p>
+            <p><strong>VLDL-C = TG / 2.2</strong> (使用Friedewald公式)</p>
+            <p>首先使用Friedewald公式计算LDL-C：<strong>LDL-C = TC - HDL - (TG/2.2)</strong></p>
+            <p>请输入您的总胆固醇(TC)、甘油三酯(TG)和高密度脂蛋白(HDL)数值进行计算。</p>
+        </div>
+        
+        <div class="form-group">
+            <div class="input-container">
+                <label for="tc">总胆固醇(TC) (mmol/L)</label>
+                <input type="number" id="tc" placeholder="请输入TC值" min="0" step="0.01">
+            </div>
+
+            <div class="input-container">
+                <label for="hdl">高密度脂蛋白(HDL) (mmol/L)</label>
+                <input type="number" id="hdl" placeholder="请输入HDL值" min="0" step="0.01">
+            </div>
+            
+            <div class="input-container">
+                <label for="tg">甘油三酯(TG) (mmol/L)</label>
+                <input type="number" id="tg" placeholder="请输入TG值" min="0" step="0.01">
+            </div>
+        </div>
+        
+        <button id="calculate">计算脂蛋白亚组分</button>
+        
+        <div class="result" id="result">
+            <h3>计算结果</h3>
+            
+            <div class="result-grid">
+                <div class="result-item">
+                    <div class="result-label">计算出的LDL-C</div>
+                    <div class="result-value" id="ldlValue">-</div>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-label">VLDL-C</div>
+                    <div class="result-value vldl-value" id="vldlValue">-</div>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-label">小而密LDL-C (sdLDL-C)</div>
+                    <div class="result-value sdldl-value" id="sdldlValue">-</div>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-label">大而疏松LDL-C (lbLDL-C)</div>
+                    <div class="result-value lbldl-value" id="lbldlValue">-</div>
+                </div>
+            </div>
+            
+            <div class="interpretation">
+                <p><strong>结果解读 (基于mg/dL单位转换):</strong></p>
+                <p>• sdLDL-C < 0.52 mmol/L: 正常范围</p>
+                <p>• sdLDL-C 0.52-0.78 mmol/L: 轻度升高</p>
+                <p>• sdLDL-C > 0.78 mmol/L: 显著升高，心血管疾病风险增加</p>
+                <p>• lbLDL-C: 大而疏松LDL，通常认为心血管风险较低</p>
+                <p>• VLDL-C: 极低密度脂蛋白胆固醇，正常值通常<0.77 mmol/L</p>
+            </div>
+        </div>
+        
+        <div class="explanation" id="explanation">
+            <h3>计算结果详细解释</h3>
+            
+            <div class="explanation-item ldl">
+                <div class="explanation-title">LDL-C (低密度脂蛋白胆固醇)</div>
+                <p>LDL-C通常被称为"坏胆固醇"，因为它会将胆固醇从肝脏运输到身体各组织，包括动脉壁。当LDL-C水平过高时，会在动脉壁内积聚，形成动脉粥样硬化斑块，增加心血管疾病风险。</p>
+                <p><strong>参考范围:</strong></p>
+                <ul>
+                    <li>理想水平: < 2.6 mmol/L</li>
+                    <li>接近理想: 2.6-3.3 mmol/L</li>
+                    <li>临界高: 3.4-4.1 mmol/L</li>
+                    <li>高: 4.1-4.9 mmol/L</li>
+                    <li>非常高: > 4.9 mmol/L</li>
+                </ul>
+            </div>
+            
+            <div class="explanation-item vldl">
+                <div class="explanation-title">VLDL-C (极低密度脂蛋白胆固醇)</div>
+                <p>VLDL-C主要由肝脏产生，主要负责运输甘油三酯到身体各组织。VLDL-C水平升高与代谢综合征、胰岛素抵抗和心血管疾病风险增加相关。</p>
+                <p><strong>参考范围:</strong></p>
+                <ul>
+                    <li>正常: < 0.77 mmol/L</li>
+                    <li>临界高: 0.77-1.03 mmol/L</li>
+                    <li>高: > 1.03 mmol/L</li>
+                </ul>
+                <p>高VLDL-C水平通常与高甘油三酯血症相关，可能反映胰岛素抵抗或代谢综合征。</p>
+            </div>
+            
+            <div class="explanation-item sdldl">
+                <div class="explanation-title">sdLDL-C (小而密低密度脂蛋白胆固醇)</div>
+                <p>sdLDL-C是LDL-C的一种亚型，颗粒较小且密度较高。这种亚型被认为更具致动脉粥样硬化性，因为它：</p>
+                <ul>
+                    <li>更容易渗透动脉内膜</li>
+                    <li>更易被氧化</li>
+                    <li>与动脉壁蛋白聚糖结合更紧密</li>
+                    <li>在血液循环中停留时间更长</li>
+                    <li>清除速度较慢</li>
+                </ul>
+                <p><strong>参考范围 (基于mg/dL转换):</strong></p>
+                <ul>
+                    <li>正常: < 0.52 mmol/L</li>
+                    <li>轻度升高: 0.52-0.78 mmol/L</li>
+                    <li>显著升高: > 0.78 mmol/L (心血管疾病风险显著增加)</li>
+                </ul>
+                <p>高sdLDL-C水平与代谢综合征、2型糖尿病和心血管疾病风险增加密切相关。</p>
+            </div>
+            
+            <div class="explanation-item lbldl">
+                <div class="explanation-title">lbLDL-C (大而疏松低密度脂蛋白胆固醇)</div>
+                <p>lbLDL-C是LDL-C的另一种亚型，颗粒较大且密度较低。与sdLDL-C相比，lbLDL-C被认为致动脉粥样硬化性较低，因为：</p>
+                <ul>
+                    <li>与LDL受体的亲和力更高，清除更快</li>
+                    <li>不易被氧化</li>
+                    <li>与动脉壁蛋白聚糖结合较弱</li>
+                </ul>
+                <p>高lbLDL-C水平通常与较低的冠心病风险相关。在某些情况下，高lbLDL-C可能反映家族性高胆固醇血症。</p>
+                <p>值得注意的是，总LDL-C水平相似的患者，如果其LDL-C主要由lbLDL-C组成，心血管风险通常低于那些主要由sdLDL-C组成的患者。</p>
+            </div>
+            
+            <div class="explanation-item">
+                <div class="explanation-title">临床意义总结</div>
+                <p>这些脂蛋白亚组分的测量提供了比传统血脂检测更详细的心血管风险评估信息：</p>
+                <ul>
+                    <li>高sdLDL-C和低lbLDL-C模式（"致动脉粥样硬化性脂蛋白表型"）与代谢综合征、胰岛素抵抗和心血管疾病高风险相关</li>
+                    <li>即使总LDL-C水平正常，高sdLDL-C水平也可能表明心血管风险增加</li>
+                    <li>生活方式干预（如减肥、增加运动）和某些药物（如他汀类、贝特类）可以改善脂蛋白亚组分分布，减少sdLDL-C比例</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="formula-container">
+            <div class="formula">
+                <p>sdLDL-C = 0.14 × ln(TG) × LDL-C - 0.45 × LDL-C + 10.88</p>
+            </div>
+            <div class="formula">
+                <p>lbLDL-C = 1.43 × LDL-C - 0.14 × (ln(TG) × LDL-C) - 8.99</p>
+            </div>
+        </div>
+        
+        <div class="note">
+            <p>注意: 此计算结果仅供参考，不能替代专业医疗建议。如有疑问，请咨询医生。</p>
+            <p>Friedewald公式在TG > 4.5 mmol/L时可能不准确。</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('calculate').addEventListener('click', function() {
+            const tcInput = document.getElementById('tc');
+            const tgInput = document.getElementById('tg');
+            const hdlInput = document.getElementById('hdl');
+            const resultDiv = document.getElementById('result');
+            const explanationDiv = document.getElementById('explanation');
+            const ldlValue = document.getElementById('ldlValue');
+            const vldlValue = document.getElementById('vldlValue');
+            const sdldlValue = document.getElementById('sdldlValue');
+            const lbldlValue = document.getElementById('lbldlValue');
+            
+            const tc = parseFloat(tcInput.value);
+            const tg = parseFloat(tgInput.value);
+            const hdl = parseFloat(hdlInput.value);
+            
+            // 验证输入
+            if (isNaN(tc) || isNaN(tg) || isNaN(hdl)) {
+                alert('请输入有效的TC、TG和HDL数值');
+                return;
+            }
+            
+            if (tg <= 0) {
+                alert('TG值必须大于0');
+                return;
+            }
+            
+            // 使用Friedewald公式计算LDL-C
+            const ldl = tc - hdl - (tg / 2.2);
+            
+            if (ldl < 0) {
+                alert('计算出的LDL-C值为负数，请检查输入值是否正确');
+                return;
+            }
+            
+            // 计算VLDL-C
+            const vldl = tg / 2.2;
+            
+            // 计算sdLDL-C和lbLDL-C
+            // 注意：原公式是针对mg/dL单位的，我们需要将mmol/L转换为mg/dL
+            const tgMg = tg * 88.57; // 将TG从mmol/L转换为mg/dL
+            const ldlMg = ldl * 38.67; // 将LDL从mmol/L转换为mg/dL
+            
+            // 计算sdLDL-C (mg/dL)
+            const sdLDLMg = 0.14 * Math.log(tgMg) * ldlMg - 0.45 * ldlMg + 10.88;
+            
+            // 计算lbLDL-C (mg/dL)
+            const lbLDLMg = 1.43 * ldlMg - (0.14 * (Math.log(tgMg) * ldlMg)) - 8.99;
+            
+            // 将结果从mg/dL转换回mmol/L
+            const sdLDL = sdLDLMg / 38.67;
+            const lbLDL = lbLDLMg / 38.67;
+            
+            // 显示结果
+            ldlValue.textContent = ldl.toFixed(2) + ' mmol/L';
+            vldlValue.textContent = vldl.toFixed(2) + ' mmol/L';
+            sdldlValue.textContent = sdLDL.toFixed(2) + ' mmol/L';
+            lbldlValue.textContent = lbLDL.toFixed(2) + ' mmol/L';
+            resultDiv.style.display = 'block';
+            explanationDiv.style.display = 'block';
+            
+            // 滚动到结果部分
+            resultDiv.scrollIntoView({ behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>
