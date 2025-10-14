@@ -21,7 +21,7 @@
         }
         
         .container {
-            max-width: 900px;
+            max-width: 950px;
             margin: 0 auto;
             background: white;
             border-radius: 15px;
@@ -180,6 +180,10 @@
             color: #2ecc71;
         }
         
+        .ratio-value {
+            color: #9b59b6;
+        }
+        
         .interpretation {
             background-color: #fff8e1;
             padding: 20px;
@@ -216,6 +220,10 @@
         }
         
         .explanation-item.ldl {
+            border-left-color: #9b59b6;
+        }
+        
+        .explanation-item.ratio {
             border-left-color: #9b59b6;
         }
         
@@ -284,12 +292,12 @@
                 <label for="tc">总胆固醇(TC) (mmol/L)</label>
                 <input type="number" id="tc" placeholder="请输入TC值" min="0" step="0.01">
             </div>
-
+            
             <div class="input-container">
                 <label for="hdl">高密度脂蛋白(HDL) (mmol/L)</label>
                 <input type="number" id="hdl" placeholder="请输入HDL值" min="0" step="0.01">
-            </div>
-            
+            </div>            
+
             <div class="input-container">
                 <label for="tg">甘油三酯(TG) (mmol/L)</label>
                 <input type="number" id="tg" placeholder="请输入TG值" min="0" step="0.01">
@@ -321,6 +329,16 @@
                     <div class="result-label">大而疏松LDL-C (lbLDL-C)</div>
                     <div class="result-value lbldl-value" id="lbldlValue">-</div>
                 </div>
+                
+                <div class="result-item">
+                    <div class="result-label">sdLDL-C/LDL-C 比率</div>
+                    <div class="result-value ratio-value" id="ratioSdLdlLdl">-</div>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-label">sdLDL-C/lbLDL-C 比率</div>
+                    <div class="result-value ratio-value" id="ratioSdLdlLbLdl">-</div>
+                </div>
             </div>
             
             <div class="interpretation">
@@ -330,6 +348,8 @@
                 <p>• sdLDL-C > 0.78 mmol/L: 显著升高，心血管疾病风险增加</p>
                 <p>• lbLDL-C: 大而疏松LDL，通常认为心血管风险较低</p>
                 <p>• VLDL-C: 极低密度脂蛋白胆固醇，正常值通常<0.77 mmol/L</p>
+                <p>• sdLDL-C/LDL-C比率 > 0.3: 提示致动脉粥样硬化脂蛋白表型</p>
+                <p>• sdLDL-C/lbLDL-C比率 > 1.0: 提示致动脉粥样硬化脂蛋白表型</p>
             </div>
         </div>
         
@@ -392,12 +412,34 @@
                 <p>值得注意的是，总LDL-C水平相似的患者，如果其LDL-C主要由lbLDL-C组成，心血管风险通常低于那些主要由sdLDL-C组成的患者。</p>
             </div>
             
+            <div class="explanation-item ratio">
+                <div class="explanation-title">比率指标解释</div>
+                <p><strong>sdLDL-C/LDL-C 比率</strong></p>
+                <p>这个比率反映了总LDL-C中致动脉粥样硬化性强的sdLDL-C所占的比例：</p>
+                <ul>
+                    <li>比率 < 0.2: 低风险，LDL-C主要由大而疏松颗粒组成</li>
+                    <li>比率 0.2-0.3: 中等风险</li>
+                    <li>比率 > 0.3: 高风险，提示致动脉粥样硬化脂蛋白表型</li>
+                </ul>
+                
+                <p><strong>sdLDL-C/lbLDL-C 比率</strong></p>
+                <p>这个比率直接比较了致动脉粥样硬化性强的sdLDL-C与致动脉粥样硬化性弱的lbLDL-C之间的平衡：</p>
+                <ul>
+                    <li>比率 < 0.5: 低风险，lbLDL-C占主导</li>
+                    <li>比率 0.5-1.0: 中等风险</li>
+                    <li>比率 > 1.0: 高风险，sdLDL-C占主导，提示致动脉粥样硬化脂蛋白表型</li>
+                </ul>
+                
+                <p>这些比率指标提供了比单独测量各项指标更有价值的风险评估信息，因为它们考虑了不同LDL亚型之间的平衡。</p>
+            </div>
+            
             <div class="explanation-item">
                 <div class="explanation-title">临床意义总结</div>
                 <p>这些脂蛋白亚组分的测量提供了比传统血脂检测更详细的心血管风险评估信息：</p>
                 <ul>
                     <li>高sdLDL-C和低lbLDL-C模式（"致动脉粥样硬化性脂蛋白表型"）与代谢综合征、胰岛素抵抗和心血管疾病高风险相关</li>
                     <li>即使总LDL-C水平正常，高sdLDL-C水平也可能表明心血管风险增加</li>
+                    <li>高sdLDL-C/LDL-C比率和高sdLDL-C/lbLDL-C比率是心血管风险增加的重要标志</li>
                     <li>生活方式干预（如减肥、增加运动）和某些药物（如他汀类、贝特类）可以改善脂蛋白亚组分分布，减少sdLDL-C比例</li>
                 </ul>
             </div>
@@ -429,6 +471,8 @@
             const vldlValue = document.getElementById('vldlValue');
             const sdldlValue = document.getElementById('sdldlValue');
             const lbldlValue = document.getElementById('lbldlValue');
+            const ratioSdLdlLdl = document.getElementById('ratioSdLdlLdl');
+            const ratioSdLdlLbLdl = document.getElementById('ratioSdLdlLbLdl');
             
             const tc = parseFloat(tcInput.value);
             const tg = parseFloat(tgInput.value);
@@ -471,11 +515,17 @@
             const sdLDL = sdLDLMg / 38.67;
             const lbLDL = lbLDLMg / 38.67;
             
+            // 计算比率
+            const ratioSdLdlToLdl = sdLDL / ldl;
+            const ratioSdLdlToLbLdl = sdLDL / lbLDL;
+            
             // 显示结果
             ldlValue.textContent = ldl.toFixed(2) + ' mmol/L';
             vldlValue.textContent = vldl.toFixed(2) + ' mmol/L';
             sdldlValue.textContent = sdLDL.toFixed(2) + ' mmol/L';
             lbldlValue.textContent = lbLDL.toFixed(2) + ' mmol/L';
+            ratioSdLdlLdl.textContent = ratioSdLdlToLdl.toFixed(2);
+            ratioSdLdlLbLdl.textContent = ratioSdLdlToLbLdl.toFixed(2);
             resultDiv.style.display = 'block';
             explanationDiv.style.display = 'block';
             
