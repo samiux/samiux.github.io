@@ -172,6 +172,7 @@
 - [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
 - [BEN BIKMAN - Brown fat: burns for heat; high metabolic rate](https://www.youtube.com/watch?v=AaIlJmnljkc)    
 - [脂肪越少越好？守护健康需要适当体脂率！](https://mp.weixin.qq.com/s/R8mwrZJtF3rSZJqCOShivw)    
+- [胆固醇与心脏病：LDL并非越低越好](https://mp.weixin.qq.com/s/giFFHxupjL3G36pbzAs1lw)     
 
 Samiux    
 二零二五年八月十四日，中国香港     
