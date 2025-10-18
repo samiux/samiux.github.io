@@ -171,6 +171,7 @@
 - [生酮党靠这些招把皮质醇按下去！](https://mp.weixin.qq.com/s/0Aj6o0dBanoq8fTj0QqsxA)       
 - [A Well-Formulated Ketogenic Diet Explained](https://www.youtube.com/watch?v=kIpAUL3s9FY)       
 - [BEN BIKMAN - Brown fat: burns for heat; high metabolic rate](https://www.youtube.com/watch?v=AaIlJmnljkc)    
+- [脂肪越少越好？守护健康需要适当体脂率！](https://mp.weixin.qq.com/s/R8mwrZJtF3rSZJqCOShivw)    
 
 Samiux    
 二零二五年八月十四日，中国香港     
