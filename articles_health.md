@@ -484,6 +484,7 @@
 - [无糖就更健康吗？最新研究揭示人工甜味剂的隐忧](https://mp.weixin.qq.com/s/d-Ex0nIECk7HcHe1BGotwA)      
 - [“0脂代糖”比糖还伤身体？这2大健康风险被多项研究实锤](https://mp.weixin.qq.com/s/J70oocy9mT0rCLLudV3IzA)        
 - [代糖的“甜蜜陷阱”：糖尿病人更需谨慎！](https://mp.weixin.qq.com/s/M0bOGkZvAf06HIGXl67mMQ)        
+- [无糖甜饮料真的不能天天喝！最新研究又添有害证据](https://mp.weixin.qq.com/s/1X5KxW1zOO8RJaWPRIET3w)         
 
 ## Metabolic Classroom
 
