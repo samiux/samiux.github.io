@@ -23,6 +23,7 @@
 
 - ["The Fat Lies" Dr. Jamnadas, MD - Galen Foundation Lecture 2019](https://www.youtube.com/watch?v=Yo-IL-LH5FQ)        
 - ["The Bittersweet Truth" Dr. Jamnadas, MD - Galen Foundation Lecture 2019](https://www.youtube.com/watch?v=6zZBiTfIp4Q)       
+- [Fasting For Survival Lecture by Dr Pradip Jamnadas](https://www.youtube.com/watch?v=RuOvn4UqznU)        
 
 # 血脂计算器
 
