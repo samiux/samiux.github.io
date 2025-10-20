@@ -41,7 +41,9 @@
 - [The Primal Podcast - Rina Ahluwalia](https://www.youtube.com/@ThePrimal.Podcast)    
 - [DoctorsToTrust](https://www.youtube.com/@doctorstotrust)    
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
+- [Nick Norwitz](https://www.youtube.com/channel/UCLTZUJSEulehPtF_ytFiU_A)       
 - [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
+- [The Galen Foundation](https://www.youtube.com/channel/UCUp8SWTLsEC6Mn8ExztMIjA)      
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
 
