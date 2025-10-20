@@ -116,6 +116,7 @@
 - [解读血脂指标与健康关系](/lipids_health.md)        
 - [胆固醇与心脏病：LDL并非越低越好](https://mp.weixin.qq.com/s/giFFHxupjL3G36pbzAs1lw)     
 - [饱和脂肪不会堵塞动脉：冠心病是一种慢性炎症，通过健康的生活方式干预可以有效降低其风险](https://mp.weixin.qq.com/s/bt106NhOcxY9j5ht6d_UtQ)       
+- [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 - [吃肉越多，胆固醇越高，越长寿，史上最大100岁老人研究，打了多少专家的脸？](https://mp.weixin.qq.com/s/EPDiByQnRZES7wG6lTG73Q)        
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
@@ -266,6 +267,7 @@
 - [葡萄糖酮体指数科学功用详述](/gki_03.md)        
 - [残余胆固醇与单个及多个血管区域动脉粥样硬化斑块的关联](https://mp.weixin.qq.com/s/stcATvLTYi8dWfg9u_ozww)      
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
+- [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 
 ## 断食研究杂谈
 
@@ -344,6 +346,7 @@
 - [BEN BIKMAN - Brown fat: burns for heat; high metabolic rate](https://www.youtube.com/watch?v=AaIlJmnljkc)    
 - [低碳生酮减肥，最常见的几个错误](http://www.chinalowcarb.com/low-carb-mistakes/)    
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
+- [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 
 ## 生酮相关
 
@@ -416,6 +419,7 @@
 - [低碳生酮减肥，最常见的几个错误](http://www.chinalowcarb.com/low-carb-mistakes/)    
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
 - [生酮与生糖氨基酸在食物中的含量与比例综合分析指南](/keto_protein.md)        
+- [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -437,6 +441,7 @@
 - [低碳生酮减肥，最常见的几个错误](http://www.chinalowcarb.com/low-carb-mistakes/)    
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
 - [生酮与生糖氨基酸在食物中的含量与比例综合分析指南](/keto_protein.md)        
+- [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 
 ## MCT 油
 
