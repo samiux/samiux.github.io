@@ -19,9 +19,10 @@
 - [吃肉越多，胆固醇越高，越长寿，史上最大100岁老人研究，打了多少专家的脸？](https://mp.weixin.qq.com/s/EPDiByQnRZES7wG6lTG73Q)        
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)      
 
-# 最大的谎言
+# 谎言与真相
 
 - ["The Fat Lies" Dr. Jamnadas, MD - Galen Foundation Lecture 2019](https://www.youtube.com/watch?v=Yo-IL-LH5FQ)        
+- ["The Bittersweet Truth" Dr. Jamnadas, MD - Galen Foundation Lecture 2019](https://www.youtube.com/watch?v=6zZBiTfIp4Q)       
 
 # 血脂计算器
 
