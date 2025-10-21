@@ -693,49 +693,49 @@
                 <div class="grid-container">
                     <div class="input-group">
                         <label for="tg"><i class="fas fa-vial"></i> 甘油三酯 (TG)</label>
-                        <input type="number" id="tg" step="0.01" min="0.1" value="1.5">
+                        <input type="number" id="tg" step="0.01" min="0.1" placeholder="输入您的 TG">
                         <span class="unit">mmol/L</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="hdl"><i class="fas fa-vial"></i> 高密度脂蛋白 (HDL-C)</label>
-                        <input type="number" id="hdl" step="0.01" min="0.1" value="1.2">
+                        <input type="number" id="hdl" step="0.01" min="0.1" placeholder="输入您的 HDL-C">
                         <span class="unit">mmol/L</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="ldl"><i class="fas fa-vial"></i> 低密度脂蛋白 (LDL-C)</label>
-                        <input type="number" id="ldl" step="0.01" min="0.1" value="2.8">
+                        <input type="number" id="ldl" step="0.01" min="0.1" placeholder="输入您的 LDL-C">
                         <span class="unit">mmol/L</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="glucose"><i class="fas fa-tint"></i> 空腹血糖</label>
-                        <input type="number" id="glucose" step="0.01" min="1" value="5.0">
+                        <input type="number" id="glucose" step="0.01" min="1" placeholder="输入您的空腹血糖">
                         <span class="unit">mmol/L</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="ketone"><i class="fas fa-tint"></i> 血酮</label>
-                        <input type="number" id="ketone" step="0.01" min="0.1" value="0.5">
+                        <input type="number" id="ketone" step="0.01" min="0.1" placeholder="输入您的血酮">
                         <span class="unit">mmol/L</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="height"><i class="fas fa-ruler-vertical"></i> 身高</label>
-                        <input type="number" id="height" min="100" value="170">
+                        <input type="number" id="height" min="100" placeholder="输入您的身高">
                         <span class="unit">cm</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="weight"><i class="fas fa-weight"></i> 体重</label>
-                        <input type="number" id="weight" step="0.1" min="30" value="70">
+                        <input type="number" id="weight" step="0.1" min="30" placeholder="输入您的体重">
                         <span class="unit">kg</span>
                     </div>
                     
                     <div class="input-group">
                         <label for="waist"><i class="fas fa-ruler"></i> 腰围</label>
-                        <input type="number" id="waist" min="50" value="85">
+                        <input type="number" id="waist" min="50" placeholder="输入您的腰围">
                         <span class="unit">cm</span>
                     </div>
                     
@@ -760,49 +760,49 @@
                 <div class="results-container">
                     <div class="result-card">
                         <h3><i class="fas fa-calculator"></i> TyG 指数</h3>
-                        <div class="result-value" id="tyg-index">-</div>
+                        <div class="result-value" id="tyg-index">等待计算</div>
                         <div class="result-interpretation" id="tyg-interpret">胰岛素抵抗风险指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-heartbeat"></i> TyG-BMI</h3>
-                        <div class="result-value" id="tyg-bmi">-</div>
+                        <div class="result-value" id="tyg-bmi">等待计算</div>
                         <div class="result-interpretation" id="tyg-bmi-interpret">心血管风险指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-weight"></i> TyG-WWI</h3>
-                        <div class="result-value" id="tyg-wwi">-</div>
+                        <div class="result-value" id="tyg-wwi">等待计算</div>
                         <div class="result-interpretation" id="tyg-wwi-interpret">体重腰围相关指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-ruler-combined"></i> TyG-WC</h3>
-                        <div class="result-value" id="tyg-wc">-</div>
+                        <div class="result-value" id="tyg-wc">等待计算</div>
                         <div class="result-interpretation" id="tyg-wc-interpret">腰围相关指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-arrows-alt-v"></i> TyG-WHtR</h3>
-                        <div class="result-value" id="tyg-whtr">-</div>
+                        <div class="result-value" id="tyg-whtr">等待计算</div>
                         <div class="result-interpretation" id="tyg-whtr-interpret">腰围身高比指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-vial"></i> TG/HDL-C</h3>
-                        <div class="result-value" id="tg-hdl">-</div>
+                        <div class="result-value" id="tg-hdl">等待计算</div>
                         <div class="result-interpretation" id="tg-hdl-interpret">心血管风险指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-vial"></i> TG/LDL-C</h3>
-                        <div class="result-value" id="tg-ldl">-</div>
+                        <div class="result-value" id="tg-ldl">等待计算</div>
                         <div class="result-interpretation" id="tg-ldl-interpret">血脂比率指标</div>
                     </div>
                     
                     <div class="result-card">
                         <h3><i class="fas fa-balance-scale"></i> 葡萄糖酮指数 (GKI)</h3>
-                        <div class="result-value" id="gki">-</div>
+                        <div class="result-value" id="gki">等待计算</div>
                         <div class="result-interpretation" id="gki-interpret">代谢健康指标</div>
                     </div>
                 </div>
@@ -1599,7 +1599,7 @@
             }
             
             // 初始计算
-            calculateAll();
+//            calculateAll();
         });
     </script>
 </body>
