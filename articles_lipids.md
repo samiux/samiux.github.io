@@ -25,6 +25,8 @@
 - ["The Bittersweet Truth" Dr. Jamnadas, MD - Galen Foundation Lecture 2019](https://www.youtube.com/watch?v=6zZBiTfIp4Q)       
 - [Fasting For Survival Lecture by Dr Pradip Jamnadas](https://www.youtube.com/watch?v=RuOvn4UqznU)        
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
+- [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
+- [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 
 # 血脂计算器
 
