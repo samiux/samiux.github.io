@@ -116,6 +116,8 @@
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
 - [解读血脂指标与健康关系](/lipids_health.md)        
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
+- [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
+- [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 
 ## 生酮相关
 
