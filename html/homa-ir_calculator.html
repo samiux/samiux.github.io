@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOMA-IR与QUICKI计算器</title>
+    <style>
+        :root {
+            --primary-color: #4a6fa5;
+            --secondary-color: #6b8cbc;
+            --light-color: #f8f9fa;
+            --dark-color: #343a40;
+            --success-color: #28a745;
+            --warning-color: #ffc107;
+            --danger-color: #dc3545;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+        }
+        
+        body {
+            background-color: #f5f7fa;
+            color: var(--dark-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eaeaea;
+        }
+        
+        h1 {
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: var(--secondary-color);
+            font-size: 1.1rem;
+        }
+        
+        .calculator-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        @media (max-width: 768px) {
+            .calculator-section {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .input-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: var(--dark-color);
+        }
+        
+        input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        
+        input:focus {
+            border-color: var(--primary-color);
+            outline: none;
+            box-shadow: 0 0 0 2px rgba(74, 111, 165, 0.2);
+        }
+        
+        .unit {
+            margin-left: 5px;
+            color: #666;
+        }
+        
+        .results-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+        }
+        
+        @media (max-width: 768px) {
+            .results-section {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .result {
+            background-color: var(--light-color);
+            padding: 20px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        
+        .result-value {
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        
+        .homa-ir-value {
+            color: var(--primary-color);
+        }
+        
+        .quicki-value {
+            color: var(--secondary-color);
+        }
+        
+        .inverse-homa-value {
+            color: #17a2b8;
+        }
+        
+        .interpretation {
+            margin-top: 10px;
+            font-style: italic;
+            color: #666;
+            font-size: 0.9rem;
+            min-height: 40px;
+        }
+        
+        .formula-section {
+            margin-bottom: 40px;
+        }
+        
+        .formula-card {
+            background-color: var(--light-color);
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .formula-title {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            color: var(--primary-color);
+        }
+        
+        .formula {
+            font-family: "Courier New", monospace;
+            background-color: white;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            border-left: 4px solid var(--primary-color);
+        }
+        
+        .explanation {
+            margin-top: 20px;
+            line-height: 1.8;
+        }
+        
+        .note {
+            background-color: #fff9e6;
+            border-left: 4px solid var(--warning-color);
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 0 5px 5px 0;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eaeaea;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .reference {
+            margin-top: 10px;
+            font-size: 0.8rem;
+            color: #888;
+        }
+        
+        .btn-calculate {
+            width: 100%;
+            padding: 12px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+            transition: background-color 0.3s;
+        }
+        
+        .btn-calculate:hover {
+            background-color: var(--secondary-color);
+        }
+        
+        .btn-calculate:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>HOMA-IR与QUICKI计算器</h1>
+            <p class="subtitle">评估胰岛素抵抗与敏感性的常用指标</p>
+        </header>
+        
+        <div class="calculator-section">
+            <div class="input-section">
+                <h2>输入数据（SI单位）</h2>
+                <div class="input-group">
+                    <label for="glucose">空腹血糖 <span class="unit">(mmol/L)</span></label>
+                    <input type="number" id="glucose" min="0" step="0.1" placeholder="输入空腹血糖值">
+                </div>
+                
+                <div class="input-group">
+                    <label for="insulin">空腹胰岛素 <span class="unit">(pmol/L)</span></label>
+                    <input type="number" id="insulin" min="0" step="0.1" placeholder="输入空腹胰岛素值">
+                </div>
+                
+                <button id="calculate-btn" class="btn-calculate" disabled>
+                    计算
+                </button>
+            </div>
+            
+            <div class="results-section">
+                <div class="result">
+                    <h3>HOMA-IR</h3>
+                    <div class="result-value homa-ir-value" id="homa-ir-result">-</div>
+                    <div class="interpretation" id="homa-ir-interpretation">请输入数据</div>
+                </div>
+                
+                <div class="result">
+                    <h3>1/HOMA-IR</h3>
+                    <div class="result-value inverse-homa-value" id="inverse-homa-result">-</div>
+                    <div class="interpretation" id="inverse-homa-interpretation">请输入数据</div>
+                </div>
+                
+                <div class="result">
+                    <h3>QUICKI</h3>
+                    <div class="result-value quicki-value" id="quicki-result">-</div>
+                    <div class="interpretation" id="quicki-interpretation">请输入数据</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="formula-section">
+            <h2>公式与解释</h2>
+            
+            <div class="formula-card">
+                <div class="formula-title">HOMA-IR (稳态模型评估的胰岛素抵抗指数)</div>
+                <div class="formula">
+                    HOMA-IR = (空腹血糖 [mmol/L] × 空腹胰岛素 [pmol/L]) / 135
+                </div>
+                <div class="explanation">
+                    <p>HOMA-IR是评估胰岛素抵抗的常用指标。该公式基于空腹血糖和胰岛素水平计算。</p>
+                    <p><strong>解读指南：</strong></p>
+                    <ul>
+                        <li>&lt; 1.0: 胰岛素敏感性高</li>
+                        <li>1.0 - 1.9: 正常胰岛素敏感性</li>
+                        <li>2.0 - 2.9: 轻度胰岛素抵抗</li>
+                        <li>≥ 3.0: 显著胰岛素抵抗</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="formula-card">
+                <div class="formula-title">1/HOMA-IR (胰岛素敏感性指数)</div>
+                <div class="formula">
+                    1/HOMA-IR = 1 / HOMA-IR
+                </div>
+                <div class="explanation">
+                    <p>1/HOMA-IR是HOMA-IR的倒数，用于评估胰岛素敏感性。值越高表示胰岛素敏感性越好。</p>
+                    <p><strong>解读指南：</strong></p>
+                    <ul>
+                        <li>&gt; 1.0: 胰岛素敏感性高</li>
+                        <li>0.5 - 1.0: 正常胰岛素敏感性</li>
+                        <li>0.33 - 0.5: 轻度胰岛素抵抗</li>
+                        <li>&lt; 0.33: 显著胰岛素抵抗</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="formula-card">
+                <div class="formula-title">QUICKI (定量胰岛素敏感性检测指数)</div>
+                <div class="formula">
+                    QUICKI = 1 / (log(空腹胰岛素 [μU/mL]) + log(空腹血糖 [mg/dL]))
+                </div>
+                <div class="explanation">
+                    <p>QUICKI是另一个评估胰岛素敏感性的指标，使用对数转换，被认为在统计学上更稳健。</p>
+                    <p><strong>解读指南：</strong></p>
+                    <ul>
+                        <li>&gt; 0.45: 胰岛素敏感性高</li>
+                        <li>0.38 - 0.45: 正常胰岛素敏感性</li>
+                        <li>0.30 - 0.37: 轻度胰岛素抵抗</li>
+                        <li>&lt; 0.30: 显著胰岛素抵抗</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="note">
+                <p><strong>注意：</strong>这些计算仅用于教育目的，不能替代专业医疗建议。如有健康问题，请咨询医疗专业人员。</p>
+                <p>计算中使用的单位说明：</p>
+                <ul>
+                    <li>HOMA-IR和1/HOMA-IR计算使用SI单位：血糖(mmol/L)和胰岛素(pmol/L)</li>
+                    <li>QUICKI计算使用传统单位：血糖(mg/dL)和胰岛素(μU/mL)</li>
+                    <li>单位转换：1 mmol/L = 18 mg/dL，1 pmol/L = 0.167 μU/mL</li>
+                </ul>
+            </div>
+        </div>
+        
+        <footer>
+            <p>HOMA-IR与QUICKI计算器</p>
+            <p class="reference">基于Matthews et al. (1985)和Katz et al. (2000)的研究</p>
+        </footer>
+    </div>
+
+    <script>
+        // 获取DOM元素
+        const glucoseInput = document.getElementById('glucose');
+        const insulinInput = document.getElementById('insulin');
+        const calculateBtn = document.getElementById('calculate-btn');
+        
+        // 添加输入验证
+        function validateInputs() {
+            const glucose = glucoseInput.value;
+            const insulin = insulinInput.value;
+            
+            // 如果两个输入都有值且大于0，启用计算按钮
+            if (glucose && insulin && parseFloat(glucose) > 0 && parseFloat(insulin) > 0) {
+                calculateBtn.disabled = false;
+            } else {
+                calculateBtn.disabled = true;
+            }
+        }
+        
+        // 监听输入变化
+        glucoseInput.addEventListener('input', validateInputs);
+        insulinInput.addEventListener('input', validateInputs);
+        
+        // 计算函数
+        function calculate() {
+            // 获取输入值
+            const glucose = parseFloat(glucoseInput.value);
+            const insulin = parseFloat(insulinInput.value);
+            
+            // 验证输入
+            if (isNaN(glucose) || isNaN(insulin) || glucose <= 0 || insulin <= 0) {
+                alert('请输入有效的血糖和胰岛素值');
+                return;
+            }
+            
+            // 计算HOMA-IR (使用SI单位：血糖mmol/L，胰岛素pmol/L)
+            // 转换因子：1 pmol/L = 0.167 μU/mL
+            // HOMA-IR = (葡萄糖 * 胰岛素) / 135 (使用pmol/L)
+            const homaIR = (glucose * insulin) / 135;
+            
+            // 计算1/HOMA-IR
+            const inverseHoma = 1 / homaIR;
+            
+            // 计算QUICKI (需要传统单位)
+            // 转换血糖单位从mmol/L到mg/dL
+            const glucoseMgDl = glucose * 18;
+            // 转换胰岛素单位从pmol/L到μU/mL
+            const insulinMicroU = insulin * 0.167;
+            
+            // 计算QUICKI
+            const quicki = 1 / (Math.log10(insulinMicroU) + Math.log10(glucoseMgDl));
+            
+            // 显示结果
+            document.getElementById('homa-ir-result').textContent = homaIR.toFixed(2);
+            document.getElementById('inverse-homa-result').textContent = inverseHoma.toFixed(2);
+            document.getElementById('quicki-result').textContent = quicki.toFixed(2);
+            
+            // 解释结果
+            document.getElementById('homa-ir-interpretation').textContent = getHomaIRInterpretation(homaIR);
+            document.getElementById('inverse-homa-interpretation').textContent = getInverseHomaInterpretation(inverseHoma);
+            document.getElementById('quicki-interpretation').textContent = getQUICKIIntepretation(quicki);
+        }
+        
+        function getHomaIRInterpretation(value) {
+            if (value < 1.0) return '胰岛素敏感性高';
+            if (value < 2.0) return '正常胰岛素敏感性';
+            if (value < 3.0) return '轻度胰岛素抵抗';
+            return '显著胰岛素抵抗';
+        }
+        
+        function getInverseHomaInterpretation(value) {
+            if (value > 1.0) return '胰岛素敏感性高';
+            if (value >= 0.5) return '正常胰岛素敏感性';
+            if (value >= 0.33) return '轻度胰岛素抵抗';
+            return '显著胰岛素抵抗';
+        }
+        
+        function getQUICKIIntepretation(value) {
+            if (value > 0.45) return '胰岛素敏感性高';
+            if (value >= 0.38) return '正常胰岛素敏感性';
+            if (value >= 0.30) return '轻度胰岛素抵抗';
+            return '显著胰岛素抵抗';
+        }
+        
+        // 绑定计算按钮点击事件
+        calculateBtn.addEventListener('click', calculate);
+    </script>
+</body>
+</html>
