@@ -177,6 +177,7 @@
 - [脂肪越少越好？守护健康需要适当体脂率！](https://mp.weixin.qq.com/s/R8mwrZJtF3rSZJqCOShivw)    
 - [胆固醇与心脏病：LDL并非越低越好](https://mp.weixin.qq.com/s/giFFHxupjL3G36pbzAs1lw)     
 - [饱和脂肪不会堵塞动脉：冠心病是一种慢性炎症，通过健康的生活方式干预可以有效降低其风险](https://mp.weixin.qq.com/s/bt106NhOcxY9j5ht6d_UtQ)       
+- [赤藻糖醇及其替代品安全性分析](/erythritol_alternative.md)       
 
 Samiux    
 二零二五年八月十四日，中国香港     
