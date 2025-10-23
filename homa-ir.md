@@ -35,6 +35,6 @@ TG/HDL-C 及 TyG (TG/Fasting Glucose)，详情可以参考我的计算器。
 - [代谢健康指标计算器](https://cybersecurity-ninjas.com/html/metabolism_index_calculator.html)        
 
 Samiux        
-October 24, 2025, Hong Kong China       
+二零二五年十月廿四日，中国香港       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
