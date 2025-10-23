@@ -103,6 +103,7 @@
 - [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)        
 - [肠道先知：糖尿病早在血糖升高前就已开始！](https://mp.weixin.qq.com/s/gjgu57JRmAkFZ2RjKyjRug)       
 - [糖尿病與年齡及肥胖之關係](https://www.youtube.com/watch?v=hvRUdL1zq50)        
+- [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
 
 ### 脂肪肝
 
@@ -113,6 +114,7 @@
 - [高血脂高血糖与脂肪肝关系解析](/fatty_liver.md)    
 - [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
 - [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)      
+- [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
 
 ### 血脂及心血管疾病
 
@@ -164,6 +166,7 @@
 - [“甘油三酯”超过这个数值，相当于离心梗又近了一步，别不当回事](https://mp.weixin.qq.com/s/CeYcAECIT5uwKENUAU7XCw)         
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
+- [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
 
 ### 高血压
 
