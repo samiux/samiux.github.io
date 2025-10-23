@@ -63,6 +63,7 @@
 - [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)        
 - [肠道先知：糖尿病早在血糖升高前就已开始！](https://mp.weixin.qq.com/s/gjgu57JRmAkFZ2RjKyjRug)       
 - [糖尿病與年齡及肥胖之關係](https://www.youtube.com/watch?v=hvRUdL1zq50)        
+- [高胰岛素血症 Hyperinsulinemia](/homa-ir.md)       
 
 ### 糖尿病
 
