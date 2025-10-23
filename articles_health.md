@@ -105,6 +105,7 @@
 
 ### 脂肪肝
 
+- [脂肪肝成因及预防措施详解](/fatty_liver_02.md)     
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
 - [素食与脂肪肝关系分析](vegetarian_diet_02.md)  
