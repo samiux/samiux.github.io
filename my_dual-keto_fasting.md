@@ -179,6 +179,13 @@
 - [饱和脂肪不会堵塞动脉：冠心病是一种慢性炎症，通过健康的生活方式干预可以有效降低其风险](https://mp.weixin.qq.com/s/bt106NhOcxY9j5ht6d_UtQ)       
 - [赤藻糖醇及其替代品安全性分析](/erythritol_alternative.md)       
 
+```sha256sum 91a57757bb3c2f40213e0d9d2784ecc4ddce632d9ca6c9a98b20836e8575d118  低碳饮食地图-compressed.pdf```
+
+<object data="/pdf/低碳饮食地图-compressed.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/低碳饮食地图-compressed.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/低碳饮食地图-compressed.pdf">Download PDF</a>.</p>
+</object>
+
 Samiux    
 二零二五年八月十四日，中国香港     
 更新 二零二五年八月十八日，中国香港    
