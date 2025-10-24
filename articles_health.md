@@ -358,6 +358,7 @@
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
+- [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 
 ## 生酮相关
 
@@ -433,6 +434,7 @@
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
+- [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -457,6 +459,7 @@
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
+- [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 
 ## MCT 油
 
