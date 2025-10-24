@@ -148,6 +148,7 @@
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
 - [健康追踪器](/html/health_tracker.html)    
+- [HOMA-IR与QUICKI计算器](/html/homa-ir_calculator.html)       
 
 ## 参考资料
 
