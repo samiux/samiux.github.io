@@ -130,6 +130,7 @@
 - [低碳生酮减肥，最常见的几个错误](http://www.chinalowcarb.com/low-carb-mistakes/)    
 - [低碳生酮饮食后，血脂的变化，这篇解释清楚了](http://www.chinalowcarb.com/high-cholestreol-during-keto/)    
 - [生酮与生糖氨基酸在食物中的含量与比例综合分析指南](/keto_protein.md)        
+- [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 
 ## 计算器
 
