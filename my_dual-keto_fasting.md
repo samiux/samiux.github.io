@@ -118,6 +118,7 @@
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
+- [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
 
 ## 生酮相关
 
