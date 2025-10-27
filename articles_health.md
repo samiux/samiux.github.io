@@ -107,6 +107,7 @@
 
 ### 脂肪肝
 
+- [FibroScan CAP和E值详细解释](/fibroscan.md)       
 - [脂肪肝成因及预防措施详解](/fatty_liver_02.md)     
 - [内脏脂肪形成原因及预防措施](/fat_storage.md)        
 - [断食生酮期间ALT升高的原因分析](/fasting_alt_high.md)    
