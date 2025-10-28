@@ -14,6 +14,12 @@
             --warning-color: #ffc107;
             --danger-color: #dc3545;
             --info-color: #17a2b8;
+            --excellent-color: #28a745;
+            --good-color: #20c997;
+            --normal-color: #17a2b8;
+            --mild-color: #ffc107;
+            --severe-color: #fd7e14;
+            --critical-color: #dc3545;
         }
         
         * {
@@ -123,32 +129,53 @@
             padding: 20px;
             border-radius: 5px;
             text-align: center;
+            transition: all 0.3s ease;
         }
         
         .result-value {
             font-size: 1.8rem;
             font-weight: bold;
             margin: 10px 0;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
         }
         
-        .homa-ir-value {
-            color: var(--primary-color);
+        /* 颜色指示器样式 */
+        .excellent {
+            background-color: rgba(40, 167, 69, 0.15);
+            color: var(--excellent-color);
+            border: 2px solid var(--excellent-color);
         }
         
-        .quicki-value {
-            color: var(--secondary-color);
+        .good {
+            background-color: rgba(32, 201, 151, 0.15);
+            color: var(--good-color);
+            border: 2px solid var(--good-color);
         }
         
-        .inverse-homa-value {
-            color: var(--info-color);
+        .normal {
+            background-color: rgba(23, 162, 184, 0.15);
+            color: var(--normal-color);
+            border: 2px solid var(--normal-color);
         }
         
-        .homa2-b-value {
-            color: #28a745;
+        .mild {
+            background-color: rgba(255, 193, 7, 0.15);
+            color: var(--mild-color);
+            border: 2px solid var(--mild-color);
         }
         
-        .homa2-s-value {
-            color: #dc3545;
+        .severe {
+            background-color: rgba(253, 126, 20, 0.15);
+            color: var(--severe-color);
+            border: 2px solid var(--severe-color);
+        }
+        
+        .critical {
+            background-color: rgba(220, 53, 69, 0.15);
+            color: var(--critical-color);
+            border: 2px solid var(--critical-color);
         }
         
         .interpretation {
@@ -237,13 +264,13 @@
         
         .results-grid {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 15px;
         }
         
         @media (max-width: 1200px) {
             .results-grid {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: repeat(2, 1fr);
             }
         }
         
@@ -258,6 +285,40 @@
                 grid-template-columns: 1fr;
             }
         }
+        
+        .unit-info {
+            background-color: #e9f7fe;
+            border-left: 4px solid var(--info-color);
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 0 5px 5px 0;
+            font-size: 0.9rem;
+        }
+        
+        .color-legend {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        
+        .color-item {
+            display: flex;
+            align-items: center;
+            margin: 5px;
+        }
+        
+        .color-box {
+            width: 20px;
+            height: 20px;
+            border-radius: 3px;
+            margin-right: 5px;
+        }
+        
+        .color-label {
+            font-size: 0.8rem;
+        }
     </style>
 </head>
 <body>
@@ -269,14 +330,14 @@
         
         <div class="calculator-section">
             <div class="input-section">
-                <h2>输入数据（SI单位）</h2>
+                <h2>输入数据</h2>
                 <div class="input-group">
                     <label for="glucose">空腹血糖 <span class="unit">(mmol/L)</span></label>
                     <input type="number" id="glucose" min="0" step="0.1" placeholder="输入空腹血糖值">
                 </div>
                 
                 <div class="input-group">
-                    <label for="insulin">空腹胰岛素 <span class="unit">(pmol/L)</span></label>
+                    <label for="insulin">空腹胰岛素 <span class="unit">(mIU/L)</span></label>
                     <input type="number" id="insulin" min="0" step="0.1" placeholder="输入空腹胰岛素值">
                 </div>
                 
@@ -289,32 +350,53 @@
                 <div class="results-grid">
                     <div class="result">
                         <h3>HOMA-IR</h3>
-                        <div class="result-value homa-ir-value" id="homa-ir-result">-</div>
+                        <div class="result-value" id="homa-ir-result">-</div>
                         <div class="interpretation" id="homa-ir-interpretation">请输入数据</div>
                     </div>
                     
                     <div class="result">
                         <h3>1/HOMA-IR</h3>
-                        <div class="result-value inverse-homa-value" id="inverse-homa-result">-</div>
+                        <div class="result-value" id="inverse-homa-result">-</div>
                         <div class="interpretation" id="inverse-homa-interpretation">请输入数据</div>
                     </div>
                     
                     <div class="result">
                         <h3>QUICKI</h3>
-                        <div class="result-value quicki-value" id="quicki-result">-</div>
+                        <div class="result-value" id="quicki-result">-</div>
                         <div class="interpretation" id="quicki-interpretation">请输入数据</div>
                     </div>
                     
                     <div class="result">
                         <h3>HOMA2-%B</h3>
-                        <div class="result-value homa2-b-value" id="homa2-b-result">-</div>
+                        <div class="result-value" id="homa2-b-result">-</div>
                         <div class="interpretation" id="homa2-b-interpretation">请输入数据</div>
                     </div>
-                    
-                    <div class="result">
-                        <h3>HOMA2-%S</h3>
-                        <div class="result-value homa2-s-value" id="homa2-s-result">-</div>
-                        <div class="interpretation" id="homa2-s-interpretation">请输入数据</div>
+                </div>
+                
+                <div class="color-legend">
+                    <div class="color-item">
+                        <div class="color-box excellent"></div>
+                        <span class="color-label">优秀</span>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box good"></div>
+                        <span class="color-label">良好</span>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box normal"></div>
+                        <span class="color-label">正常</span>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box mild"></div>
+                        <span class="color-label">轻度异常</span>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box severe"></div>
+                        <span class="color-label">中度异常</span>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box critical"></div>
+                        <span class="color-label">重度异常</span>
                     </div>
                 </div>
             </div>
@@ -326,7 +408,7 @@
             <div class="formula-card">
                 <div class="formula-title">HOMA-IR (稳态模型评估的胰岛素抵抗指数)</div>
                 <div class="formula">
-                    HOMA-IR = (空腹血糖 [mmol/L] × 空腹胰岛素 [pmol/L]) / 135
+                    HOMA-IR = (空腹血糖 [mmol/L] × 空腹胰岛素 [mIU/L]) / 22.5
                 </div>
                 <div class="explanation">
                     <p>HOMA-IR是评估胰岛素抵抗的常用指标。该公式基于空腹血糖和胰岛素水平计算。</p>
@@ -360,7 +442,7 @@
             <div class="formula-card">
                 <div class="formula-title">QUICKI (定量胰岛素敏感性检测指数)</div>
                 <div class="formula">
-                    QUICKI = 1 / (log(空腹胰岛素 [μU/mL]) + log(空腹血糖 [mg/dL]))
+                    QUICKI = 1 / (log(空腹胰岛素 [mIU/L]) + log(空腹血糖 [mg/dL]))
                 </div>
                 <div class="explanation">
                     <p>QUICKI是另一个评估胰岛素敏感性的指标，使用对数转换，被认为在统计学上更稳健。</p>
@@ -371,13 +453,14 @@
                         <li>0.30 - 0.37: 轻度胰岛素抵抗</li>
                         <li>&lt; 0.30: 显著胰岛素抵抗</li>
                     </ul>
+                    <p class="note">注意：QUICKI公式中使用的是mg/dL单位的血糖值，计算时会自动将mmol/L转换为mg/dL。</p>
                 </div>
             </div>
             
             <div class="formula-card">
                 <div class="formula-title">HOMA2-%B (稳态模型评估的β细胞功能)</div>
                 <div class="formula">
-                    HOMA2-%B = (20 × 空腹胰岛素 [pmol/L]) / (空腹血糖 [mmol/L] - 3.5)
+                    HOMA2-%B = (20 × 空腹胰岛素 [mIU/L]) / (空腹血糖 [mmol/L] - 3.5)
                 </div>
                 <div class="explanation">
                     <p>HOMA2-%B评估胰腺β细胞功能，即胰岛素分泌能力。</p>
@@ -391,31 +474,17 @@
                 </div>
             </div>
             
-            <div class="formula-card">
-                <div class="formula-title">HOMA2-%S (稳态模型评估的胰岛素敏感性)</div>
-                <div class="formula">
-                    HOMA2-%S = 100 / (空腹胰岛素 [pmol/L] × 空腹血糖 [mmol/L])
-                </div>
-                <div class="explanation">
-                    <p>HOMA2-%S评估胰岛素敏感性，是HOMA2模型的改进版本。</p>
-                    <p><strong>解读指南：</strong></p>
-                    <ul>
-                        <li>&gt; 100%: 胰岛素敏感性高</li>
-                        <li>70% - 100%: 正常胰岛素敏感性</li>
-                        <li>50% - 70%: 胰岛素敏感性轻度受损</li>
-                        <li>&lt; 50%: 胰岛素敏感性显著受损</li>
-                    </ul>
-                </div>
+            <div class="unit-info">
+                <p><strong>单位说明：</strong>本计算器使用以下单位进行计算：</p>
+                <ul>
+                    <li>血糖单位：mmol/L</li>
+                    <li>胰岛素单位：mIU/L (等同于μU/mL)</li>
+                </ul>
+                <p>注意：mIU/L与μU/mL在数值上是相等的，因此可以直接用于计算。</p>
             </div>
             
             <div class="note">
                 <p><strong>注意：</strong>这些计算仅用于教育目的，不能替代专业医疗建议。如有健康问题，请咨询医疗专业人员。</p>
-                <p>计算中使用的单位说明：</p>
-                <ul>
-                    <li>HOMA-IR、1/HOMA-IR、HOMA2-%B和HOMA2-%S计算使用SI单位：血糖(mmol/L)和胰岛素(pmol/L)</li>
-                    <li>QUICKI计算使用传统单位：血糖(mg/dL)和胰岛素(μU/mL)</li>
-                    <li>单位转换：1 mmol/L = 18 mg/dL，1 pmol/L = 0.167 μU/mL</li>
-                </ul>
             </div>
         </div>
         
@@ -460,22 +529,15 @@
                 return;
             }
             
-            // 计算HOMA-IR (使用SI单位：血糖mmol/L，胰岛素pmol/L)
-            // 转换因子：1 pmol/L = 0.167 μU/mL
-            // HOMA-IR = (葡萄糖 * 胰岛素) / 135 (使用pmol/L)
-            const homaIR = (glucose * insulin) / 135;
+            // 计算HOMA-IR (使用单位：血糖mmol/L，胰岛素mIU/L)
+            const homaIR = (glucose * insulin) / 22.5;
             
             // 计算1/HOMA-IR
             const inverseHoma = 1 / homaIR;
             
-            // 计算QUICKI (需要传统单位)
-            // 转换血糖单位从mmol/L到mg/dL
+            // 计算QUICKI (需要将血糖单位从mmol/L转换为mg/dL)
             const glucoseMgDl = glucose * 18;
-            // 转换胰岛素单位从pmol/L到μU/mL
-            const insulinMicroU = insulin * 0.167;
-            
-            // 计算QUICKI
-            const quicki = 1 / (Math.log10(insulinMicroU) + Math.log10(glucoseMgDl));
+            const quicki = 1 / (Math.log10(insulin) + Math.log10(glucoseMgDl));
             
             // 计算HOMA2-%B
             let homa2B;
@@ -485,31 +547,33 @@
                 homa2B = (20 * insulin) / (glucose - 3.5);
             }
             
-            // 计算HOMA2-%S
-            const homa2S = 100 / (insulin * glucose);
-            
             // 显示结果
-            document.getElementById('homa-ir-result').textContent = homaIR.toFixed(2);
-            document.getElementById('inverse-homa-result').textContent = inverseHoma.toFixed(2);
-            document.getElementById('quicki-result').textContent = quicki.toFixed(2);
+            displayResult('homa-ir-result', homaIR, getHomaIRInterpretation, getHomaIRColorClass);
+            displayResult('inverse-homa-result', inverseHoma, getInverseHomaInterpretation, getInverseHomaColorClass);
+            displayResult('quicki-result', quicki, getQUICKIIntepretation, getQUICKIColorClass);
             
+            // 特殊处理HOMA2-%B（可能为无效）
             if (homa2B === "无效") {
                 document.getElementById('homa2-b-result').textContent = homa2B;
+                document.getElementById('homa2-b-result').className = 'result-value';
                 document.getElementById('homa2-b-interpretation').textContent = "血糖值必须大于3.5 mmol/L";
             } else {
-                document.getElementById('homa2-b-result').textContent = homa2B.toFixed(1) + "%";
-                document.getElementById('homa2-b-interpretation').textContent = getHOMA2BInterpretation(homa2B);
+                displayResult('homa2-b-result', homa2B, getHOMA2BInterpretation, getHOMA2BColorClass);
+                document.getElementById('homa2-b-result').textContent += '%';
             }
-            
-            document.getElementById('homa2-s-result').textContent = homa2S.toFixed(1) + "%";
-            document.getElementById('homa2-s-interpretation').textContent = getHOMA2SInterpretation(homa2S);
-            
-            // 解释结果
-            document.getElementById('homa-ir-interpretation').textContent = getHomaIRInterpretation(homaIR);
-            document.getElementById('inverse-homa-interpretation').textContent = getInverseHomaInterpretation(inverseHoma);
-            document.getElementById('quicki-interpretation').textContent = getQUICKIIntepretation(quicki);
         }
         
+        // 显示结果并应用颜色
+        function displayResult(elementId, value, interpretationFunc, colorClassFunc) {
+            const element = document.getElementById(elementId);
+            const interpretationElement = document.getElementById(elementId.replace('-result', '-interpretation'));
+            
+            element.textContent = typeof value === 'number' ? value.toFixed(2) : value;
+            element.className = 'result-value ' + colorClassFunc(value);
+            interpretationElement.textContent = interpretationFunc(value);
+        }
+        
+        // 解释函数
         function getHomaIRInterpretation(value) {
             if (value < 1.0) return '胰岛素敏感性高';
             if (value < 2.0) return '正常胰岛素敏感性';
@@ -538,11 +602,41 @@
             return 'β细胞功能显著受损';
         }
         
-        function getHOMA2SInterpretation(value) {
-            if (value > 100) return '胰岛素敏感性高';
-            if (value >= 70) return '正常胰岛素敏感性';
-            if (value >= 50) return '胰岛素敏感性轻度受损';
-            return '胰岛素敏感性显著受损';
+        // 颜色分类函数
+        function getHomaIRColorClass(value) {
+            if (value < 1.0) return 'excellent';
+            if (value < 1.5) return 'good';
+            if (value < 2.0) return 'normal';
+            if (value < 2.5) return 'mild';
+            if (value < 3.0) return 'severe';
+            return 'critical';
+        }
+        
+        function getInverseHomaColorClass(value) {
+            if (value > 1.0) return 'excellent';
+            if (value > 0.75) return 'good';
+            if (value >= 0.5) return 'normal';
+            if (value >= 0.4) return 'mild';
+            if (value >= 0.33) return 'severe';
+            return 'critical';
+        }
+        
+        function getQUICKIColorClass(value) {
+            if (value > 0.45) return 'excellent';
+            if (value > 0.42) return 'good';
+            if (value >= 0.38) return 'normal';
+            if (value >= 0.35) return 'mild';
+            if (value >= 0.30) return 'severe';
+            return 'critical';
+        }
+        
+        function getHOMA2BColorClass(value) {
+            if (value > 120) return 'excellent';
+            if (value > 100) return 'good';
+            if (value >= 70) return 'normal';
+            if (value >= 60) return 'mild';
+            if (value >= 50) return 'severe';
+            return 'critical';
         }
         
         // 绑定计算按钮点击事件
