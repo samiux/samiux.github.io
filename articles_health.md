@@ -279,6 +279,7 @@
 - [残余胆固醇与单个及多个血管区域动脉粥样硬化斑块的关联](https://mp.weixin.qq.com/s/stcATvLTYi8dWfg9u_ozww)      
 - [DAVE FELDMAN n1 - LDL & ApoB? NEITHER AFFECTS PLAQUE! …new study finds NO ASSOCIATION](https://www.youtube.com/watch?v=Kyid_pvAjxw)    
 - [I Gave My Cardiologist a Heart Attack](https://www.youtube.com/watch?v=RgwyTrLiP5I)       
+- [TyG 指数可以媲美 HbA1c 及 HOMA-IR](/tyg_homa-ir.md)      
 
 ## 断食研究杂谈
 
