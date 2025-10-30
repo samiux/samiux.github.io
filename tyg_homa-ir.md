@@ -6,7 +6,7 @@
 
 所以 HbA1c 或者 HOMA-IR 未必是必须要检测的。当然检测了就可以了解更多。
 
-TyG = In(TG) x Fasting Glucose / 2 
+TyG = In(TG [mmol/L]) x Fasting Glucose [mmol/L] x 1000 / 2 
 
 正常值 < 8.5       
 临界点 8.4-8.9       
