@@ -4,7 +4,7 @@
 
 Unofficial RCCC HKI Duty List Android App for all officers of RCCC HKI.
 
-RCCC HKI Duty List Android APK download (Not allowed to download at the moemnt due to size too large):  
+RCCC HKI Duty List Android APK download (Not available to download at the moment due to size too large):  
 
 - [rccchki-0.0.10.apk](https://cybersecurity-ninjas.com/.dl/rccchki-0.0.10.apk)    
 
