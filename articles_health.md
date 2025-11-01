@@ -68,7 +68,7 @@
 - [肠道先知：糖尿病早在血糖升高前就已开始！](https://mp.weixin.qq.com/s/gjgu57JRmAkFZ2RjKyjRug)       
 - [糖尿病與年齡及肥胖之關係](https://www.youtube.com/watch?v=hvRUdL1zq50)        
 - [高胰岛素血症 Hyperinsulinemia](/homa-ir.md)       
-- [代谢综合征定义、成因及预防策略](/mets.md)       
+- [代谢综合症定义、成因及预防策略](/mets.md)       
 
 ### 糖尿病
 
