@@ -33,7 +33,6 @@ Active projects but NOT related to CyberSecurity :
 - [代谢健康指标计算器](/html/metabolism_index_calculator.html)
 - [代谢健康指标计算器 (增强版)](/html/metabolism_index_calculator_plus.html)    
 - [血糖酮指数(GKI)计算器](/html/gki_calculator.html)
-- [健康追踪器](/html/health_tracker.html)    
 - [生酮饮食营养计算器](/html/keto_fasting_calculator.html)    
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
 - [血脂指标计算器](/html/blood_lipids_ratio.html)      
@@ -43,6 +42,8 @@ Active projects but NOT related to CyberSecurity :
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
 - [HOMA-IR与QUICKI计算器](/html/homa-ir_calculator.html)       
+- [TyG指数计算器](/html/tyg_calculator.html)        
+- [健康追踪器](/html/health_tracker.html)    
 - [Health Tracker](/html/health_tracking_system.html)    
 
 Some of his projects about CyberSecurity are now inactive, they are :
