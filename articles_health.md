@@ -11,6 +11,7 @@
 以下应用程序只会储存资料在你的浏览内。
 
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
+- [血脂指标计算器](/html/blood_lipids_ratio.html)      
 - [脂蛋白亚组分计算器](/html/lipoprotein_calculator.html)        
 - [HOMA-IR与QUICKI计算器](/html/homa-ir_calculator.html)       
 - [TyG指数计算器](/html/tyg_calculator.html)        
@@ -28,7 +29,6 @@
 - [血糖酮指数(GKI)计算器](/html/gki_calculator.html)     
 - [生酮饮食营养计算器](/html/keto_fasting_calculator.html)    
 - [双酮断食营养计算器](/html/dual_keto_fasting_calculator.html)     
-- [血脂指标计算器](/html/blood_lipids_ratio.html)      
 
 ## 追踪器
 
