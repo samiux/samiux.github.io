@@ -33,6 +33,7 @@
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
 - [HOMA-IR与QUICKI计算器](/html/homa-ir_calculator.html)       
+- [TyG指数计算器](/html/tyg_calculator.html)        
 
 #### 健康追踪器
 
