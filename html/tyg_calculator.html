@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TyG指数计算器</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "Microsoft YaHei", "Segoe UI", sans-serif;
+        }
+        
+        body {
+            background-color: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            color: white;
+            padding: 25px 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 25px;
+        }
+        
+        .input-group {
+            margin-bottom: 25px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: border 0.3s;
+        }
+        
+        input:focus {
+            border-color: #3498db;
+            outline: none;
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+        }
+        
+        .unit {
+            margin-top: 5px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+        
+        button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+            transition: background 0.3s;
+        }
+        
+        button:hover {
+            background: #2980b9;
+        }
+        
+        .result {
+            margin-top: 25px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 5px;
+            display: none;
+        }
+        
+        .result h3 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        
+        .result-value {
+            font-size: 28px;
+            font-weight: bold;
+            text-align: center;
+            margin: 15px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        
+        .interpretation {
+            margin-top: 15px;
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        
+        .explanation {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        
+        .explanation h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .formula {
+            background: #2c3e50;
+            color: white;
+            padding: 15px;
+            border-radius: 5px;
+            text-align: center;
+            margin: 15px 0;
+            font-family: "Courier New", monospace;
+        }
+        
+        .reference {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+        
+        .range-info {
+            margin-top: 20px;
+        }
+        
+        .range-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 5px solid;
+        }
+        
+        .range-normal {
+            background-color: #e8f6f3;
+            border-left-color: #27ae60;
+        }
+        
+        .range-mild {
+            background-color: #fff9e6;
+            border-left-color: #f39c12;
+        }
+        
+        .range-significant {
+            background-color: #fdedec;
+            border-left-color: #e74c3c;
+        }
+        
+        .range-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        @media (min-width: 768px) {
+            .input-row {
+                display: flex;
+                gap: 20px;
+            }
+            
+            .input-group {
+                flex: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>TyG指数计算器</h1>
+            <p class="subtitle">基于甘油三酯和空腹血糖评估胰岛素抵抗</p>
+        </header>
+        
+        <div class="content">
+            <div class="input-row">
+                <div class="input-group">
+                    <label for="tg">甘油三酯 (TG)</label>
+                    <input type="number" id="tg" step="0.01" min="0" placeholder="输入甘油三酯值">
+                    <div class="unit">单位: mmol/L</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="glucose">空腹血糖 (FPG)</label>
+                    <input type="number" id="glucose" step="0.01" min="0" placeholder="输入空腹血糖值">
+                    <div class="unit">单位: mmol/L</div>
+                </div>
+            </div>
+            
+            <button id="calculate">计算 TyG 指数</button>
+            
+            <div class="result" id="result">
+                <h3>您的 TyG 指数</h3>
+                <div class="result-value" id="result-value">-</div>
+                <div class="interpretation" id="interpretation"></div>
+            </div>
+            
+            <div class="explanation">
+                <h3>关于 TyG 指数</h3>
+                <p>TyG指数（甘油三酯-葡萄糖指数）是一种评估胰岛素抵抗的简单可靠的指标，计算公式为：</p>
+                
+                <div class="formula">
+                    TyG = Ln [空腹甘油三酯(mg/dL) × 空腹血糖(mg/dL) / 2]
+                </div>
+                
+                <p>由于本计算器使用 mmol/L 单位，我们首先需要将数值转换为 mg/dL：</p>
+                <ul>
+                    <li>甘油三酯: 1 mmol/L = 88.57 mg/dL</li>
+                    <li>空腹血糖: 1 mmol/L = 18.018 mg/dL</li>
+                </ul>
+                
+                <h3>TyG指数的临床意义</h3>
+                <p>TyG指数与胰岛素抵抗呈正相关，可用于识别代谢综合征和心血管疾病风险，是糖尿病前期和2型糖尿病风险评估的辅助工具。</p>
+                
+                <div class="range-info">
+                    <h3>TyG指数范围解释</h3>
+                    
+                    <div class="range-item range-normal">
+                        <div class="range-title">正常范围：TyG指数 &lt; 8.5</div>
+                        <div class="range-desc">表示胰岛素敏感性较好，代谢健康状态良好。建议继续保持健康的生活方式，包括均衡饮食和规律运动。</div>
+                    </div>
+                    
+                    <div class="range-item range-mild">
+                        <div class="range-title">轻度胰岛素抵抗：TyG指数 8.5 - 9.0</div>
+                        <div class="range-desc">提示可能存在轻度胰岛素抵抗。胰岛素抵抗是2型糖尿病、代谢综合征和心血管疾病的重要危险因素。建议改善生活方式，减少精制碳水化合物和糖的摄入，增加体育锻炼，并定期监测血糖和血脂。</div>
+                    </div>
+                    
+                    <div class="range-item range-significant">
+                        <div class="range-title">明显胰岛素抵抗：TyG指数 &gt; 9.0</div>
+                        <div class="range-desc">提示可能存在明显的胰岛素抵抗，与较高的2型糖尿病、心血管疾病和代谢综合征风险相关。强烈建议咨询医生进行进一步评估，可能需要药物治疗干预。同时应积极改变生活方式，包括饮食控制、减重和规律运动。</div>
+                    </div>
+                </div>
+                
+                <div class="reference">
+                    <p><strong>参考值范围（亚洲人群）：</strong></p>
+                    <ul>
+                        <li>正常: &lt; 8.5</li>
+                        <li>轻度胰岛素抵抗: 8.5 - 9.0</li>
+                        <li>明显胰岛素抵抗: &gt; 9.0</li>
+                    </ul>
+                    <p>注意：具体参考范围可能因人群和研究而异，临床诊断请咨询专业医生。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('calculate').addEventListener('click', function() {
+            // 获取输入值
+            const tg = parseFloat(document.getElementById('tg').value);
+            const glucose = parseFloat(document.getElementById('glucose').value);
+            
+            // 验证输入
+            if (isNaN(tg) || isNaN(glucose) || tg <= 0 || glucose <= 0) {
+                alert('请输入有效的甘油三酯和空腹血糖值（大于0）');
+                return;
+            }
+            
+            // 转换单位 (mmol/L 到 mg/dL)
+            const tgMgdl = tg * 88.57;
+            const glucoseMgdl = glucose * 18.018;
+            
+            // 计算 TyG 指数
+            const tygIndex = Math.log((tgMgdl * glucoseMgdl) / 2);
+            
+            // 显示结果
+            const resultElement = document.getElementById('result-value');
+            resultElement.textContent = tygIndex.toFixed(2);
+            
+            // 根据结果设置颜色和解释
+            const interpretationElement = document.getElementById('interpretation');
+            let interpretation = '';
+            let color = '';
+            
+            if (tygIndex < 8.5) {
+                interpretation = '您的TyG指数在正常范围内，提示胰岛素敏感性较好。';
+                color = '#27ae60';
+            } else if (tygIndex < 9.0) {
+                interpretation = '您的TyG指数提示可能存在轻度胰岛素抵抗，建议关注生活方式并定期复查。';
+                color = '#f39c12';
+            } else {
+                interpretation = '您的TyG指数提示可能存在明显胰岛素抵抗，建议咨询医生进行进一步评估。';
+                color = '#e74c3c';
+            }
+            
+            resultElement.style.color = color;
+            interpretationElement.textContent = interpretation;
+            interpretationElement.style.backgroundColor = color + '20'; // 添加透明度
+            interpretationElement.style.borderLeft = `5px solid ${color}`;
+            interpretationElement.style.padding = '15px';
+            interpretationElement.style.borderRadius = '5px';
+            
+            document.getElementById('result').style.display = 'block';
+        });
+    </script>
+</body>
+</html>
