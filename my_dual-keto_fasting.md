@@ -119,6 +119,7 @@
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
+- [#1 INSULIN TRICK Proven To Help You Lose Weight Faster -- Candi Frazier](https://www.youtube.com/watch?v=KlHIOyTN8yw)        
 
 ## 生酮相关
 
