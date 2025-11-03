@@ -12,7 +12,7 @@
 
 ## 计算器：
 
-- [代谢健康计算器](https://cybersecurity-ninjas.com/html/metabolism_index_calculator.html)        
+- [TyG指数计算器](/html/tyg_calculator.html)        
 
 ## 研究论文：
 
