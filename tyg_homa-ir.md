@@ -19,8 +19,8 @@ TyG = In(TG [mmol/L]) x Fasting Glucose [mmol/L] x 1000 / 2
 ## 研究论文：
 
 - [Comparison of triglyceride-glucose index and HOMA-IR for predicting prevalence and incidence of metabolic syndrome](https://pubmed.ncbi.nlm.nih.gov/35090800/)      
-
 - [Comparison of triglyceride glucose index and HbA1C as a marker of prediabetes - A preliminary study](https://pubmed.ncbi.nlm.nih.gov/36063676/)      
+- [The Cut-Off Value for the Triglyceride–Glucose Index (TyG) Discriminating Insulin Resistance Based on the SHBG Level and HOMA-IR Values in Women with Polycystic Ovary Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC12113408/)       
 
 Samiux      
 October 30, 2025, Hong Kong China      
