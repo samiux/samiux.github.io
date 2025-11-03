@@ -221,6 +221,7 @@
 
 ### 减肥及其他
 
+- [#1 INSULIN TRICK Proven To Help You Lose Weight Faster -- Candi Frazier](https://www.youtube.com/watch?v=KlHIOyTN8yw)        
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 - [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 - [骨質疏鬆](/osteoporosis.md)
