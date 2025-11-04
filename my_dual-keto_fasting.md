@@ -120,7 +120,7 @@
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
 - [#1 INSULIN TRICK Proven To Help You Lose Weight Faster -- Candi Frazier](https://www.youtube.com/watch?v=KlHIOyTN8yw)        
-- [DAVE FELDMAN | HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
 
 ## 生酮相关
 
