@@ -176,7 +176,7 @@
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
-- [DAVE FELDMAN | HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
 
 ### 高血压
 
@@ -371,7 +371,7 @@
 - [KETO-CTA STUDY FINDINGS REVEALED with Dave Feldman](https://www.youtube.com/watch?v=6rfiLvrlo2A)     
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
-- [DAVE FELDMAN | HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
 
 ## 生酮相关
 
@@ -449,7 +449,7 @@
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
-- [DAVE FELDMAN | HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -476,7 +476,7 @@
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
-- [DAVE FELDMAN | HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
 
 ## MCT 油
 
