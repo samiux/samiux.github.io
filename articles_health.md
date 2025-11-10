@@ -520,6 +520,7 @@
 - [生酮党必看：酮体不是全部](https://mp.weixin.qq.com/s/SDKPqOtr_xd31pwQhme4Gw)       
 - [低血糖症](/hypoglycemia.md)      
 - [预防及逆转慢性疾病](/chronic_disease.md)      
+- [现代传统医学的谬误](/health.md)        
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 
 ## 有损害健康的食品总汇
