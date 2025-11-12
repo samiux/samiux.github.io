@@ -124,6 +124,10 @@
 - [浅谈肝脏的胰岛素抵抗](https://mp.weixin.qq.com/s/8xhSaeAZb9US0Q-qdRK6ZA)  
 - [缓解2型糖尿病：双循环假说及其实践](https://mp.weixin.qq.com/s/cERl6IpOVY4v_tOOTNL6RQ)      
 - [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
+- [佛山第一人民医院：生酮可治疗非酒精性脂肪肝？](http://www.chinalowcarb.com/fushan-keto-diet-and-fatty-liver/)       
+- [鹅也会得脂肪肝吗？脂肪肝形成的几大原因](http://www.chinalowcarb.com/foie-gras-and-fatty-liver/)      
+- [果糖有什么危害？大量果糖破坏肠壁屏障，引起脂肪肝？](http://www.chinalowcarb.com/fructose-induce-fat-liver/)      
+- [为什么吃素也会得脂肪肝？蛋白质缺乏引发脂肪肝](http://www.chinalowcarb.com/protein-and-fatty-liver/)      
 
 ### 血脂及心血管疾病
 
