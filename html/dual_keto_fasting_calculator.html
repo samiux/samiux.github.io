@@ -564,7 +564,9 @@
                 </div>
                 
                 <div class="info-box">
-                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪≤{(基础代谢率-蛋白质-碳水化合物)*25%}，蛋白质=(体重*活动水平)，碳水化合物≤20g</p>
+<!--                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪≤{(基础代谢率-蛋白质-碳水化合物)*25%}，蛋白质=(体重*活动水平)，碳水化合物≤20g</p>
+-->
+                    <p><i class="fas fa-info-circle"></i> 根据最新研究，双酮断食期间建议营养比例：脂肪≤(基础代谢率-蛋白质-碳水化合物)，蛋白质=(体重*活动水平)，碳水化合物≤20g</p>
                 </div>
                 
                 <button id="calculateBtn" class="keto">
@@ -576,7 +578,9 @@
                     <ul>
                         <li><strong>基础代谢率(BMR)</strong>: 使用Mifflin-St Jeor公式计算，这是目前最准确的方法</li>
                         <li><strong>每日总能量消耗(TDEE)</strong>: BMR × 活动水平系数</li>
-                        <li><strong>双酮营养比例</strong>: 脂肪≤{(基础代谢率-蛋白质-碳水化合物)*25%}，蛋白质=(体重*活动水平), 碳水化合物≤20g</li>
+<!--                        <li><strong>双酮营养比例</strong>: 脂肪≤{(基础代谢率-蛋白质-碳水化合物)*25%}，蛋白质=(体重*活动水平), 碳水化合物≤20g</li>
+-->
+                        <li><strong>双酮营养比例</strong>: 脂肪≤(基础代谢率-蛋白质-碳水化合物)，蛋白质=(体重*活动水平), 碳水化合物≤20g</li>
                         <li><strong>断食调整</strong>: 长时间断食(16小时以上)会减少总热量摄入</li>
                     </ul>
                 </div>
@@ -755,7 +759,8 @@
 //            const proteinGrams = Math.round(weight * (activityFactor - 0.2));
             const proteinGrams = Math.round(weight * activityFactor);
             const carbsGrams = 20;
-            const fatGrams = Math.round(((adjustedCalories - (proteinGrams * 4) - (carbsGrams * 4)) / 9) * 0.25);
+//            const fatGrams = Math.round(((adjustedCalories - (proteinGrams * 4) - (carbsGrams * 4)) / 9) * 0.25);
+            const fatGrams = Math.round(((adjustedCalories - (proteinGrams * 4) - (carbsGrams * 4)) / 9) * 1);
             
             // 显示结果
             document.getElementById('fatResult').textContent = fatGrams.toLocaleString();
