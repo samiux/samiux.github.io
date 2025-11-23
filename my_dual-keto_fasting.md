@@ -45,7 +45,7 @@
    - 尿酮值、呼吸酮值、血酮值与血糖值并不是固定的，所以监察这几项时只要多留意血糖波动、波幅就可以了；至于血酮值、尿酮值、呼吸酮值只是用作进度参考的指标，其实可以不必理会的。至于检测酮体值比较有参考价值的只有血酮值。另外，血压值亦非常重要，可以知道自己的现时的身体状况。所以每天应量度血糖及血压，而血糖波动就要动态血糖仪 CGM 了。至于 CGM，如果皮下脂肪太少的话是不适宜的，因为读数会报错的        
    - 控制血糖、压力管理、睡眠管理、维持肠菌群健康平衡有助预防及逆转慢性疾病        
    - 定期做体检。留意甘油三酯值、残余胆固醇值、eGFR 值、空腹血糖值、糖化血红蛋白值 HbA1c、尿酸值
-   - 「代谢热整合法」的无创血糖仪对生酮状态下及断食期间并不友好，其数值并没有参考价值，因为它们是利用大数据和通常进餐时段范围作对比计算的        
+   - 「代谢热整合法」的无创血糖仪对生酮状态下及断食期间并不友好，其数值并没有参考价值，因为它们是利用大数据和通常进餐时段范围作对比计算的             
 
 ## 如何判断已经进入生酮状态？
 
@@ -103,7 +103,6 @@
 
 进行断食、低碳饮食或生酮饮食，并且 BMI 或体脂率是在健康范围之内时，这类人群的甘油三酯值会降低，高密度脂蛋白胆固醇值会升高，同时低密度蛋白质胆固醇值亦会升高，但只要所有血脂比值是在正常范围内就没有问题的。 但在超重或体脂率过高的人群中，进行断食、低碳饮食或生酮饮食时，低密度脂蛋白胆固醇有可能会降低，直至到达健康的体重或体脂率为止，之后将会升高，只要所有比值是在正常范围之内就没有问题了。   
 
-- [MATTHEW BUDOFF -- high HDL …and high LDL? if TG LOW…may be ultra healthy](https://www.youtube.com/watch?v=fwLneAcJwV0)        
 - [生酮饮食与轻断食的官方推荐对比](/gov_fasting_keto_diet.md)       
 - [国家健委会不推荐生酮饮食减肥](/gov_keto_diet.md)      
 - [血酮、呼吸酮、尿酮检测关系解析](/ketones_level.md)        
@@ -125,6 +124,7 @@
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
 - [#1 INSULIN TRICK Proven To Help You Lose Weight Faster -- Candi Frazier](https://www.youtube.com/watch?v=KlHIOyTN8yw)        
 - [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [MATTHEW BUDOFF -- high HDL …and high LDL? if TG LOW…may be ultra healthy](https://www.youtube.com/watch?v=fwLneAcJwV0)        
 
 ## 生酮相关
 
