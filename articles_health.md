@@ -566,11 +566,17 @@
 - [Labs to Check Before Starting Ketosis for Mental Health](https://www.youtube.com/watch?v=tSkOw3l8OoQ)        
 - [What You Need to Know BEFORE Starting a KETO DIET for Mental Health](https://www.youtube.com/watch?v=Hja4VURshKA)        
 - [Researcher with Bipolar Shatters Stigma](https://www.youtube.com/watch?v=hXyR0saiSHA)
-- [躁郁症与生酮饮食治疗研究](/fasting_bipolar.md)        
 - [She Cured 7 Mental Illnesses in 12 Weeks](https://www.youtube.com/watch?v=puyR0JOg7nQ)         
 - [Debunking Saturated Fat Myths on Keto with Dr. Bret Scher](https://www.youtube.com/watch?v=8vjl0ABKaCs)       
 - [Protein on Keto: How Much is Too Much? with Dr. Bret Scher](https://www.youtube.com/watch?v=DVyyBY2gHeM)      
 - [How to Determine Optimal Ketone Levels for Ketogenic Therapy with Dr. Bret Scher](https://www.youtube.com/watch?v=ZA8SL-urfjU)       
+- [躁郁症与生酮饮食治疗研究](/fasting_bipolar.md)        
+- [From Schizophrenic Voices to Silence: My 8-Year Recovery](https://www.youtube.com/watch?v=Vhr5q1SL71w)       
+- [“I Feel Like I Just Started My Life”: One Woman’s Story of Recovery From Bipolar, OCD, & BPD](https://www.youtube.com/watch?v=nyKntI9Q2LU)       
+- [From Depression & Anxiety to Endless and Effortless Enthusiasm | Steven T’s Ketogenic Journey](https://www.youtube.com/watch?v=kcFWvlDNwmw)       
+- [I Treated My ADHD With a Ketogenic Diet — Here’s What Happened](https://www.youtube.com/watch?v=xv-p4cm8v7U)       
+- [Reversing Schizoaffective Disorder with Ketogenic Therapy: A Case Series](https://www.youtube.com/watch?v=BPVz9V3a1GE)       
+- [Metabolic Mailbag: Ketone Plateaus, Sleep Issues, Fat Intake, and More](https://www.youtube.com/watch?v=UgaaYl6RPbs)       
 
 ## Music
 
