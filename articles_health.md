@@ -458,6 +458,21 @@
 - [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
 - [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [95% of you are doing keto wrong. Here's how to do it right](https://www.youtube.com/watch?v=YBylca-q_Fs)       
+- [BEGINNER'S GUIDE TO KETOSIS by Dr. Boz](https://www.youtube.com/watch?v=FNfxdrZtgso)      
+- [Low Ketone Levels Don’t Matter- Here’s Why!](https://www.youtube.com/watch?v=Doiu_B4gS34)     
+- [Major Changes to Keto in 2025 - New Guide to Lose Fat and Build Muscle](https://www.youtube.com/watch?v=XWyrPP7XJhg)     
+- [6 Reasons Your Ketone Levels are Dropping](https://www.youtube.com/watch?v=tadVaxskKXQ)     
+- [Should You Be In Ketosis All the Time?](https://www.youtube.com/watch?v=0Xltq_ZkLbU)       
+- [9 Clear Signs You're in Ketosis: Without Testing](https://www.youtube.com/watch?v=tb4_APBiqyY)     
+- [LOWER Ketones = MORE Weight Loss (More Fat Being Used)](https://www.youtube.com/watch?v=VBdEq_I3kAI)      
+- [Ketosis vs Fat Adapted - What is the Difference?](https://www.youtube.com/watch?v=FLbylW8r8Vc)      
+- [How to Know You’re Fat Adapted - Self Checker Questionnaire](https://www.youtube.com/watch?v=yYDAsLsxSHg)       
+- [10 Key Signs You Are Fat Adapted (No Equipment Needed)](https://www.youtube.com/watch?v=nABhyA0V8AQ)    
+- [10 Signs You're Eating Too Much Fat](https://www.youtube.com/watch?v=BG6XaCi51Ec)     
+- [Ketosis: What is the Best Ketone Range for Fat Loss- Thomas DeLauer](https://www.youtube.com/watch?v=2UnLgXCpCEg)      
+- [Ketosis: What is the ideal blood ketone level for weight loss?](https://www.youtube.com/watch?v=nIf8_H68g8k)      
+- [WHY ARE MY KETONES LOW? + Why it Might Not Matter (KETO FOR BEGINNERS)](https://www.youtube.com/watch?v=cm9aLwuxLhw)      
 
 ## 双酮断食 Dual-Keto Fasting
 
@@ -486,6 +501,21 @@
 - [酮体供能，对肠道和大脑有哪些优势？](http://www.chinalowcarb.com/keto-is-beneficial-for-brain-diseases/)       
 - [断食生酮与心律不齐关系解析](/keto_side_effect.md)      
 - [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [95% of you are doing keto wrong. Here's how to do it right](https://www.youtube.com/watch?v=YBylca-q_Fs)       
+- [BEGINNER'S GUIDE TO KETOSIS by Dr. Boz](https://www.youtube.com/watch?v=FNfxdrZtgso)      
+- [Low Ketone Levels Don’t Matter- Here’s Why!](https://www.youtube.com/watch?v=Doiu_B4gS34)     
+- [Major Changes to Keto in 2025 - New Guide to Lose Fat and Build Muscle](https://www.youtube.com/watch?v=XWyrPP7XJhg)     
+- [6 Reasons Your Ketone Levels are Dropping](https://www.youtube.com/watch?v=tadVaxskKXQ)     
+- [Should You Be In Ketosis All the Time?](https://www.youtube.com/watch?v=0Xltq_ZkLbU)       
+- [9 Clear Signs You're in Ketosis: Without Testing](https://www.youtube.com/watch?v=tb4_APBiqyY)     
+- [LOWER Ketones = MORE Weight Loss (More Fat Being Used)](https://www.youtube.com/watch?v=VBdEq_I3kAI)      
+- [Ketosis vs Fat Adapted - What is the Difference?](https://www.youtube.com/watch?v=FLbylW8r8Vc)      
+- [How to Know You’re Fat Adapted - Self Checker Questionnaire](https://www.youtube.com/watch?v=yYDAsLsxSHg)       
+- [10 Key Signs You Are Fat Adapted (No Equipment Needed)](https://www.youtube.com/watch?v=nABhyA0V8AQ)    
+- [10 Signs You're Eating Too Much Fat](https://www.youtube.com/watch?v=BG6XaCi51Ec)     
+- [Ketosis: What is the Best Ketone Range for Fat Loss- Thomas DeLauer](https://www.youtube.com/watch?v=2UnLgXCpCEg)      
+- [Ketosis: What is the ideal blood ketone level for weight loss?](https://www.youtube.com/watch?v=nIf8_H68g8k)      
+- [WHY ARE MY KETONES LOW? + Why it Might Not Matter (KETO FOR BEGINNERS)](https://www.youtube.com/watch?v=cm9aLwuxLhw)      
 
 ## MCT 油
 
