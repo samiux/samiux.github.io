@@ -52,6 +52,9 @@
 - [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
 - [The Galen Foundation](https://www.youtube.com/channel/UCUp8SWTLsEC6Mn8ExztMIjA)      
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
+- [Dr. Boz (Annette Bosworth, MD)](https://www.youtube.com/@DoctorBoz/videos)      
+- [Thomas DeLauer](https://www.youtube.com/@ThomasDeLauerOfficial)     
+- [Dr Dan Maggs](https://www.youtube.com/@DrDanMaggs)     
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
 
 ### 胰岛素抵抗
