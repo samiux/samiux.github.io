@@ -606,7 +606,7 @@
 - [躁郁症与生酮饮食治疗研究](/fasting_bipolar.md)        
 - [From Schizophrenic Voices to Silence: My 8-Year Recovery](https://www.youtube.com/watch?v=Vhr5q1SL71w)       
 - [“I Feel Like I Just Started My Life”: One Woman’s Story of Recovery From Bipolar, OCD, & BPD](https://www.youtube.com/watch?v=nyKntI9Q2LU)       
-- [From Depression & Anxiety to Endless and Effortless Enthusiasm | Steven T’s Ketogenic Journey](https://www.youtube.com/watch?v=kcFWvlDNwmw)       
+- [From Depression & Anxiety to Endless and Effortless Enthusiasm - Steven T’s Ketogenic Journey](https://www.youtube.com/watch?v=kcFWvlDNwmw)       
 - [I Treated My ADHD With a Ketogenic Diet — Here’s What Happened](https://www.youtube.com/watch?v=xv-p4cm8v7U)       
 - [Reversing Schizoaffective Disorder with Ketogenic Therapy: A Case Series](https://www.youtube.com/watch?v=BPVz9V3a1GE)       
 - [Metabolic Mailbag: Ketone Plateaus, Sleep Issues, Fat Intake, and More](https://www.youtube.com/watch?v=UgaaYl6RPbs)       
