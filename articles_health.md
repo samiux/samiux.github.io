@@ -134,6 +134,7 @@
 
 ### 血脂及心血管疾病
 
+- [胆固醇越高，血管情况越好！](https://mp.weixin.qq.com/s/UNfSz2XQAokPQmn7yTRviA)        
 - [解读血脂指标与健康关系](/lipids_health.md)        
 - [MATTHEW BUDOFF -- high HDL …and high LDL? if TG LOW…may be ultra healthy](https://www.youtube.com/watch?v=fwLneAcJwV0)        
 - [胆固醇与心脏病：LDL并非越低越好](https://mp.weixin.qq.com/s/giFFHxupjL3G36pbzAs1lw)     
