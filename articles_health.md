@@ -188,6 +188,7 @@
 - [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
 - [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
 - [Are We Treating Cholesterol Completely Wrong? -- Vascular Surgeon Explains](https://www.youtube.com/watch?v=ZR1tI0egcmI)        
+- [PAUL MASON g8 - CARBS DRIVE CALCIFICATION…BOTH IN DENTAL PLAQUE AND ARTERIAL PLAQUE](https://www.youtube.com/watch?v=C7bkznwLz1A)       
 
 ### 高血压
 
