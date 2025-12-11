@@ -56,6 +56,7 @@
 - [Thomas DeLauer](https://www.youtube.com/@ThomasDeLauerOfficial)     
 - [Dr Dan Maggs](https://www.youtube.com/@DrDanMaggs)     
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
+- [The Scan That Reveals Heart Disease Years Before Symptoms](https://www.youtube.com/watch?v=-lt_2swYFhY)       
 
 ### 胰岛素抵抗
 
