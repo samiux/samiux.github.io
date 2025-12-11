@@ -186,6 +186,7 @@
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [蔗糖和果糖有什么区别？](https://mp.weixin.qq.com/s/b2_rx-esihivOSyJ5NHZBQ)        
 - [DAVE FELDMAN - HIGH LDL? if TG low & HDL high; NO PROB!](https://www.youtube.com/watch?v=OhEQS3Kjwrw)        
+- [Are We Treating Cholesterol Completely Wrong? -- Vascular Surgeon Explains](https://www.youtube.com/watch?v=ZR1tI0egcmI)        
 
 ### 高血压
 
