@@ -29,6 +29,7 @@
 - [High Cholesterol and Plaque Regression?! Updates on KETO-CTA with Dave Feldman](https://www.youtube.com/watch?v=546N08qzQgs)          
 - [MATTHEW BUDOFF -- high HDL …and high LDL? if TG LOW…may be ultra healthy](https://www.youtube.com/watch?v=fwLneAcJwV0)        
 - [胆固醇越高，血管情况越好！](https://mp.weixin.qq.com/s/UNfSz2XQAokPQmn7yTRviA)      
+- [Are We Treating Cholesterol Completely Wrong? -- Vascular Surgeon Explains](https://www.youtube.com/watch?v=ZR1tI0egcmI)        
 
 # 血脂计算器
 
