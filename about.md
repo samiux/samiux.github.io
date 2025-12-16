@@ -15,7 +15,7 @@ Not only try harder but also try smarter!
 
 当认为是最安全的时候，就是最危险的时候。
 
-治未病 我健康 我担当 无糖减碳 一天一餐
+治未病 我健康 我担当 无糖减碳 代谢灵活 我命由我不由天
 ```
 
 Active projects for CyberSecurity :
