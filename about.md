@@ -22,6 +22,8 @@ Not only try harder but also try smarter!
 自然规律 太极平衡 寿终正寝
 
 健康六常：情绪、营养、运动、知识、规律、正念
+
+没有药物能根治慢性疾病，除了富有营养的天然食物
 ```
 
 Active projects for CyberSecurity :
