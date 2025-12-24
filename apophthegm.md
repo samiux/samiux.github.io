@@ -123,5 +123,17 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 最终，不是我们说什么说服他人，而是因为他们因为理解而被说服。 -- 约翰 麦斯威尔
 ```
+```
+治未病 我健康 我担当 无糖减碳 代谢灵活 我命由我不由天  -- Samiux
+```
+```
+你的明天，由今天建成 -- 唐黎之博士
+```
+```
+自然规律 太极平衡 寿终正寝 -- Samiux
+```
+```
+健康六常：情绪、营养、运动、知识、规律、正念 -- Samiux
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
