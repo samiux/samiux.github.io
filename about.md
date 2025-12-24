@@ -18,6 +18,10 @@ Not only try harder but also try smarter!
 治未病 我健康 我担当 无糖减碳 代谢灵活 我命由我不由天
 
 你的明天，由今天建成
+
+自然规律 太极平衡 寿终正寝
+
+健康六常：情绪、营养、运动、知识、规律、正念
 ```
 
 Active projects for CyberSecurity :
