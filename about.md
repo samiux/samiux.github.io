@@ -23,7 +23,7 @@ Not only try harder but also try smarter!
 
 健康六常：情绪、营养、运动、知识、规律、正念
 
-没有药物能根治慢性疾病，除了富有营养的天然食物
+没有药物能根治慢性疾病，除了富有营养的天然食物及健康的生活习惯
 ```
 
 Active projects for CyberSecurity :
