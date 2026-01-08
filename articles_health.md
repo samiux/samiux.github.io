@@ -76,6 +76,13 @@
 - [Real Food Starts Here](https://realfood.gov/)      
 - [Dietary Guidelines For Americans](https://cdn.realfood.gov/DGA.pdf)     
 
+#### Press Release of new DGA
+
+- [BREAKING: RFK Jr. Announces New Dietary Guidelines for Americans -- Karoline Leavitt -- N18G](https://www.youtube.com/watch?v=oBTWs_seiDo)     
+- [US Administration Unveils 2025-2030 Dietary Guidelines To Tackle Chronic Disease And Inflation -- N18G](https://www.youtube.com/watch?v=_OMkGLAd9q8)      
+- [Trump Administration Launches New Federal Nutrition Guidelines for Americans --APT](https://www.youtube.com/watch?v=pp0N1Nrhdck)     
+- [RFK Jr. announces new dietary guidelines and end to "war on saturated fats"](https://www.youtube.com/watch?v=8OqPdybG7eo)      
+
 ### 胰岛素抵抗
 
 - [TyG 指数可以媲美 HbA1c 及 HOMA-IR](/tyg_homa-ir.md)      
