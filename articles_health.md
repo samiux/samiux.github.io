@@ -75,6 +75,7 @@
 - [Kennedy, Rollins Unveil Historic Reset of U.S. Nutrition Policy, Put Real Food Back at Center of Health](https://www.hhs.gov/press-room/historic-reset-federal-nutrition-policy.html)       
 - [Real Food Starts Here](https://realfood.gov/)      
 - [Dietary Guidelines For Americans](https://cdn.realfood.gov/DGA.pdf)     
+- [《2025-2030年美国膳食指南》发布，金字塔倒过来了，少吃米面、拥抱动物油脂，蛋白质翻倍](http://www.chinalowcarb.com/2025-2030-dietary-guidelines-for-americans/)      
 
 #### Press Release of new DGA
 
