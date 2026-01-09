@@ -70,7 +70,7 @@
 - [瘦龙低碳减肥](http://www.chinalowcarb.com/)    
 - [The Scan That Reveals Heart Disease Years Before Symptoms](https://www.youtube.com/watch?v=-lt_2swYFhY)       
 
-### The new Dietary Guidelines for Americans (dated 2026-01-07)
+### The new Dietary Guidelines for Americans (dated 2026-01-07 USA Time)
 
 - [Kennedy, Rollins Unveil Historic Reset of U.S. Nutrition Policy, Put Real Food Back at Center of Health](https://www.hhs.gov/press-room/historic-reset-federal-nutrition-policy.html)       
 - [Real Food Starts Here](https://realfood.gov/)      
