@@ -76,6 +76,7 @@
 - [Real Food Starts Here](https://realfood.gov/)      
 - [Dietary Guidelines For Americans](https://cdn.realfood.gov/DGA.pdf)     
 - [《2025-2030年美国膳食指南》发布，金字塔倒过来了，少吃米面、拥抱动物油脂，蛋白质翻倍](http://www.chinalowcarb.com/2025-2030-dietary-guidelines-for-americans/)      
+- [Are We Finally Getting Nutrition Right? The New DGA Breakdown](https://www.youtube.com/watch?v=sjk-UO12ZXQ)      
 
 #### Press Release of new DGA
 
