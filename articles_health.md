@@ -77,6 +77,8 @@
 - [Dietary Guidelines For Americans](https://cdn.realfood.gov/DGA.pdf)     
 - [《2025-2030年美国膳食指南》发布，金字塔倒过来了，少吃米面、拥抱动物油脂，蛋白质翻倍](http://www.chinalowcarb.com/2025-2030-dietary-guidelines-for-americans/)      
 - [Are We Finally Getting Nutrition Right? The New DGA Breakdown](https://www.youtube.com/watch?v=sjk-UO12ZXQ)      
+- [NEW 100-Year Study Proved We’re Wrong About Carbs!](https://www.youtube.com/watch?v=SKW7F7KCyyo)     
+- [The Nutrition Lies That Shaped Modern Diets -- Dr. Zoë Harcombe](https://www.youtube.com/watch?v=vbWRltnH4nY)      
 
 #### Press Release of new DGA
 
