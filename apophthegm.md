@@ -136,10 +136,10 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 健康六常：情绪、营养、运动、知识、规律、正念 -- Samiux
 ```
 ```
-没有药物能够根治慢性疾病，唯有丰富营养的天然食物及健康的生活习惯 -- Samiux
+没有药物或外科手术能够根治慢性疾病，唯有丰富营养的天然食物及健康的生活习惯 -- Samiux
 ```
 ```        
-现代人类的各种疾病、感染、痛症基本上全部都沿于营养的不良与不良的生活习惯有关 -- Samiux
+现代人类的各种疾病、感染、痛症基本上全部都沿于营养的不良与不良的生活习惯导致慢性炎症的发生有关 -- Samiux
 ```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
