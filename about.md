@@ -15,7 +15,7 @@ Not only try harder but also try smarter!
 
 当认为是最安全的时候，就是最危险的时候。
 
-治未病 我健康 我担当 无糖减碳 代谢灵活 我命由我不由天
+治未病 我健康 我担当 无糖减碳 代谢灵活 自我修復 我命由我不由天
 
 你的明天，由今天建成
 
@@ -23,7 +23,7 @@ Not only try harder but also try smarter!
 
 健康六常：情绪、营养、运动、知识、规律、正念
 
-没有药物能根治慢性疾病，除了富有营养的天然食物及健康的生活习惯
+没有药物或外科手术能根治慢性疾病，除了富有营养的天然食物及健康的生活习惯
 ```
 
 Active projects for CyberSecurity :
