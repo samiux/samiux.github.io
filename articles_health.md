@@ -60,10 +60,12 @@
 - [Real Food Starts Here](https://realfood.gov/)      
 - [Dietary Guidelines For Americans](https://cdn.realfood.gov/DGA.pdf)     
 
-### 文章及视频 (低碳水化合物)
+### 文章及视频 (new DGA)
 
 - [《2025-2030年美国膳食指南》发布，金字塔倒过来了，少吃米面、拥抱动物油脂，蛋白质翻倍](http://www.chinalowcarb.com/2025-2030-dietary-guidelines-for-americans/)      
 - [Are We Finally Getting Nutrition Right? The New DGA Breakdown](https://www.youtube.com/watch?v=sjk-UO12ZXQ)      
+- [Why the New Food Pyramid Changes Everything, featuring Jillian Michaels -- The Untold Story](https://www.youtube.com/watch?v=kXQyxF2VP5c)      
+- [The New Dietary Guidelines Quietly Admit They Were Wrong (Here’s the Proof)](https://www.youtube.com/watch?v=oEl1YABvfx0)     
 - [NEW 100-Year Study Proved We’re Wrong About Carbs!](https://www.youtube.com/watch?v=SKW7F7KCyyo)     
 - [The Nutrition Lies That Shaped Modern Diets -- Dr. Zoë Harcombe](https://www.youtube.com/watch?v=vbWRltnH4nY)      
 
