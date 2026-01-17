@@ -610,6 +610,7 @@
 
 ## Ketogenic Therapy for Mental Illness
 
+- [Ketogenic Therapy: A Medical Tool For Neurological and Metabolic Health](https://www.youtube.com/watch?v=7jlqUd28yDM)      
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
 - [How to Start Ketogenic Therapy for Mental Illness - Playlist](https://www.youtube.com/playlist?list=PLzWI83-NWCL6GuYuIM4mHtGqEqD1wwcAu)      
 - [How To Talk to Your Doctor About Keto for Mental Health – Part 1 of 2](https://www.youtube.com/watch?v=uZhZvNqV4G4)        
