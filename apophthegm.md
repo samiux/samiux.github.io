@@ -141,9 +141,11 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```        
 现代人类的各种疾病、感染、痛症基本上全部都沿于营养的不良与不良的生活习惯导致慢性炎症的发生有关 -- Samiux
 ```
-
 ```
 人非圣贤，孰能无过？ -- 左传     
+```
+```
+你永远赚不到认知以外的钱 -- 罗伯特·清崎
 ```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
