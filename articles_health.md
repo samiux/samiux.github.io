@@ -68,6 +68,7 @@
 - [The New Dietary Guidelines Quietly Admit They Were Wrong (Here’s the Proof)](https://www.youtube.com/watch?v=oEl1YABvfx0)     
 - [New Food Pyramid: Good, Bad, and the Ugly](https://www.youtube.com/watch?v=WpIuC6pxMws)     
 - [The Food Pyramid Lie: Why we got Fat](https://www.youtube.com/watch?v=KuDH_pPzmZ4)     
+- [Is the New Food Pyramid Science-Based? A Dietary Guidelines Scientist Weighs In ](https://www.youtube.com/watch?v=91AMiRH_8Vc)      
 - [NEW 100-Year Study Proved We’re Wrong About Carbs!](https://www.youtube.com/watch?v=SKW7F7KCyyo)     
 - [The Nutrition Lies That Shaped Modern Diets -- Dr. Zoë Harcombe](https://www.youtube.com/watch?v=vbWRltnH4nY)      
 
