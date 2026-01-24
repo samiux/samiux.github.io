@@ -63,6 +63,7 @@
 ### 文章及视频 (new DGA)
 
 - [《2025-2030年美国膳食指南》发布，金字塔倒过来了，少吃米面、拥抱动物油脂，蛋白质翻倍](http://www.chinalowcarb.com/2025-2030-dietary-guidelines-for-americans/)      
+- [FDA撒谎！FDA局长揭露关于脂肪，热量，种子油的真相](http://www.chinalowcarb.com/fda-lies/)       
 - [Are We Finally Getting Nutrition Right? The New DGA Breakdown](https://www.youtube.com/watch?v=sjk-UO12ZXQ)      
 - [Why the New Food Pyramid Changes Everything, featuring Jillian Michaels -- The Untold Story](https://www.youtube.com/watch?v=kXQyxF2VP5c)      
 - [The New Dietary Guidelines Quietly Admit They Were Wrong (Here’s the Proof)](https://www.youtube.com/watch?v=oEl1YABvfx0)     
