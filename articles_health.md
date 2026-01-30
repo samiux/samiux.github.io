@@ -72,6 +72,9 @@
 - [Is the New Food Pyramid Science-Based? A Dietary Guidelines Scientist Weighs In ](https://www.youtube.com/watch?v=91AMiRH_8Vc)      
 - [NEW 100-Year Study Proved We’re Wrong About Carbs!](https://www.youtube.com/watch?v=SKW7F7KCyyo)     
 - [The Nutrition Lies That Shaped Modern Diets -- Dr. Zoë Harcombe](https://www.youtube.com/watch?v=vbWRltnH4nY)      
+- [時事多面睇｜美國發表最新飲食指南　提倡增攝取蛋白質顛覆傳統概念 - 2026年1月28日 - TVB News](https://www.youtube.com/watch?v=JFpyoDFuSxg)     
+- [【on.cc東網】東呼即應：「少肉多菜」反而唔健康？　「倒金字塔」飲食至係王道？](https://www.youtube.com/watch?v=JkcI0Vp2lG0)        
+- [美國倒轉飲食金字塔真相！營養師大爆震驚事實 -- 營養師媽媽Priscilla](https://www.youtube.com/watch?v=iwBJLVG9olU)     
 
 #### Press Release of new DGA
 
