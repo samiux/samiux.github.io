@@ -77,6 +77,7 @@
 - [健康与断食研究杂谈 - 专页](/articles_health.md)     
 - [血脂及心血管疾病 - 专页](/articles_lipids.md)         
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
+- [为期一年的低碳断食个人实验 (2026 年版)](/summary_2026.md)      
 
 ## 网络空间安全
 
