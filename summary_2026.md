@@ -60,7 +60,7 @@
 
 - 导致肥胖、各种慢性疾病、癌症、精神疾病、ADHD、精神分裂症、燥狂症、抑郁症、心血管疾病、敏感、湿疹、类风湿性关节炎、PCOS、各种自身免疫力疾病等等都是沿于身体的慢性炎症、肠漏、胰岛素抵抗、口腔卫生、营养不良。
 
-Samiux
+Samiux       
 二零二六年二月一日，中国香港      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
