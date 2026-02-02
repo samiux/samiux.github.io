@@ -590,6 +590,7 @@
 - [预防及逆转慢性疾病](/chronic_disease.md)      
 - [现代传统医学的谬误](/health.md)        
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
+- [为期一年的低碳断食个人实验 (2026 年版)](/summary_2026.md)      
 
 ## 有损害健康的食品总汇
 
