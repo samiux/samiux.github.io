@@ -164,6 +164,11 @@
 声明/出版商说明：所有出版物中包含的陈述、观点和数据仅为相关作者和贡献者的个人观点，不代表 MDPI 和/或编辑的观点。MDPI 和/或编辑不对因内容中提及的任何想法、方法、说明或产品造成的人身伤害或财产损失负责。
 
 ---
+<object data="/pdf/https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/pdf/nutrients-17-01047.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="/pdf/https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/pdf/nutrients-17-01047.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/pdf/nutrients-17-01047.pdf">Download PDF</a>.</p>
+</object>
+---
 
 **【总结】**
 
@@ -194,13 +199,6 @@
 **结论**：文章认为，强有力的临床试验证据支持低碳水化合物/生酮饮食是一种安全、有效且可持续的慢性病（尤其是肥胖、2型糖尿病）管理工具。许多广为流传的顾虑源于过时的信息、对证据的误解或低质量研究。倡导医疗从业者应基于最新证据，尊重患者选择，并为有意尝试的患者提供专业指导。
 
 **请注意**：本文明确声明为作者观点汇编，并非系统性综述，但声称其事实主张均引用同行评审文献。它反映了支持低碳水化合物饮食一方专家的意见，旨在平衡主流讨论。在实际应用任何饮食方案前，个体应咨询医疗专业人员，综合考虑个人健康状况。
-
-
-<object data="/pdf/https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/pdf/nutrients-17-01047.pdf" type="application/pdf" width="900px" height="700px">
-    <embed src="/pdf/https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/pdf/nutrients-17-01047.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/pdf/nutrients-17-01047.pdf">Download PDF</a>.</p>
-</object>
-
 
 ## SOURCE
 
