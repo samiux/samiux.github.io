@@ -78,5 +78,9 @@ BMI：22.8
 Samiux       
 二零二六年二月一日，中国香港      
 
+## 研究报告
+
+- [低碳水化合物饮食误区与真相 Myths and Facts Regarding Low-Carbohydrate Diets](/myths_facts_lowcarb.md)      
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
