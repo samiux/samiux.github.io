@@ -163,12 +163,11 @@
 
 声明/出版商说明：所有出版物中包含的陈述、观点和数据仅为相关作者和贡献者的个人观点，不代表 MDPI 和/或编辑的观点。MDPI 和/或编辑不对因内容中提及的任何想法、方法、说明或产品造成的人身伤害或财产损失负责。
 
----
+
 <object data="/pdf/nutrients-17-01047.pdf" type="application/pdf" width="900px" height="700px">
     <embed src="/pdf/nutrients-17-01047.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/nutrients-17-01047.pdf">Download PDF</a>.</p>
 </object>
----
 
 
 **【总结】**
