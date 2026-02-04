@@ -2,6 +2,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+关于低碳饮食的研究论文 () 发表于 2025 年 3 月 17 日
+
 **【文件内容翻译】**
 
 ===== 第 1 页 =====
@@ -200,7 +202,7 @@
 
 **请注意**：本文明确声明为作者观点汇编，并非系统性综述，但声称其事实主张均引用同行评审文献。它反映了支持低碳水化合物饮食一方专家的意见，旨在平衡主流讨论。在实际应用任何饮食方案前，个体应咨询医疗专业人员，综合考虑个人健康状况。
 
-## SOURCE
+## 研究论文
 
 - [Myths and Facts Regarding Low-Carbohydrate Diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/)     
 
