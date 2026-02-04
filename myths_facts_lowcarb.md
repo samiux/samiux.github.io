@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-关于低碳饮食的研究论文 () 发表于 2025 年 3 月 17 日
+关于低碳饮食的研究论文 (Myths and Facts Regarding Low-Carbohydrate Diets) 发表于 2025 年 3 月 17 日。
 
 **【文件内容翻译】**
 
