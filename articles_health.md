@@ -619,6 +619,8 @@
 
 - [Ketogenic Therapy: A Medical Tool For Neurological and Metabolic Health](https://www.youtube.com/watch?v=7jlqUd28yDM)      
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
+- [A New Hope for Depression: The Power of Ketogenic Therapy](https://www.youtube.com/watch?v=Stx1SkEHhmU)        
+- [Remote Keto Therapy for Depression? Results from New Clinical Evidence](https://www.youtube.com/watch?v=Aj4NPuQ02oI)      
 - [How to Start Ketogenic Therapy for Mental Illness - Playlist](https://www.youtube.com/playlist?list=PLzWI83-NWCL6GuYuIM4mHtGqEqD1wwcAu)      
 - [How To Talk to Your Doctor About Keto for Mental Health – Part 1 of 2](https://www.youtube.com/watch?v=uZhZvNqV4G4)        
 - [How To Talk to Your Doctor About KETO for MENTAL HEALTH – Part 2 of 2](https://www.youtube.com/watch?v=4eETQPEPQDI)      
