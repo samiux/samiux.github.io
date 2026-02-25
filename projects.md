@@ -8,10 +8,7 @@
 
 ## Others
 
-- [为期一年的低碳断食个人实验 (2026 年版)](/summary_2026.md)      
-- [代谢压力测试 2026](/20260218_fasting_bloodwork.md)       
-- [空腹 21 公里 2026](/21km_2026.md)     
-- [空腹 21 公里 2026 (2)](/21km_2026_02.md)     
+- [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 - [MGRS Locator 军用座标定位](/mgrs_page.md)    
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)    
