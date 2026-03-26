@@ -1,4 +1,4 @@
-# 血脂及心血管疾病
+# 前沿医学 - 血脂及心血管疾病
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
