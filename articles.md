@@ -96,8 +96,8 @@
 ## 健康与断食
 
 - [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
-- [健康与断食研究杂谈 - 专页](/articles_health.md)     
-- [血脂及心血管疾病 - 专页](/articles_lipids.md)         
+- [前沿医学 - 健康与断食研究杂谈 - 专页](/articles_health.md)     
+- [前沿医学 - 血脂及心血管疾病 - 专页](/articles_lipids.md)         
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 - [低碳水化合物饮食误区与真相 Myths and Facts Regarding Low-Carbohydrate Diets](/myths_facts_lowcarb.md)      
 
