@@ -111,6 +111,12 @@
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 - [低碳水化合物饮食误区与真相 Myths and Facts Regarding Low-Carbohydrate Diets](/myths_facts_lowcarb.md)      
 
+## Free Documentaries
+
+- [Fat Fiction: The Hidden Dangers Of Low-Fat Diets: Full Movie Documentary - Free To Watch](https://www.youtube.com/watch?v=TUADs-CK7vI)
+- [Food As Medicine - Full Movie - Free](https://www.youtube.com/watch?v=hynNIf2M6n0)       
+- [The Cholesterol Code (2026) - Full Movie - Documentary - Premieres Nov 22, 2026](https://www.youtube.com/watch?v=57Z8bUb1P94)        
+
 ## 网络空间安全
 
 ### 没有攻击面，何以攻击？     
