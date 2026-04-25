@@ -110,6 +110,7 @@
 - [前沿医学 - 血脂及心血管疾病 - 专页](/articles_lipids.md)         
 - [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 - [低碳水化合物饮食误区与真相 Myths and Facts Regarding Low-Carbohydrate Diets](/myths_facts_lowcarb.md)      
+- [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)        
 
 ## Free Documentaries
 
