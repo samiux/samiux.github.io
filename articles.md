@@ -124,6 +124,8 @@
 - [Follow Me The Documentary Film on Sustained Weight Loss](https://www.youtube.com/watch?v=YLL-A1B8Uzo)      
 - [Food As Medicine - Full Movie - Free](https://www.youtube.com/watch?v=hynNIf2M6n0)       
 - [Sugar: The Hidden Danger in Our Food - ENDEVR Documentary](https://www.youtube.com/watch?v=CYeKjoI4n_I)     
+- [How Big Pharma Makes Healthy People Sick - ENDEVR Documentary](https://www.youtube.com/watch?v=xJs9lK8PIok)
+- [Corrupt Food Industry - Hidden Work - Dangerous additives - Documentary](https://www.youtube.com/watch?v=F5TNiggsH1A)      
 
 ## Music
 
