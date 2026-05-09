@@ -127,6 +127,8 @@
 - [Match Analysis of High LDL on Keto – Matthew Budoff](https://www.youtube.com/watch?v=3ItQedMPnsY)      
 - [High LDL, No Correlation with Plaque – Explosive New Findings](https://www.youtube.com/watch?v=HJJGHQDE_uM)     
 - [But Keto Goes Against Everything I've Been Taught! - Dr. Eric Westman](https://www.youtube.com/watch?v=1iifsp2K040)     
+- [Prevent Cancer: AVOID These Foods - Thomas Seyfried](https://www.youtube.com/watch?v=D0L0uG2l6Zc)      
+- [Dr. Paul Mason’s Nutrition Masterclass - Test yourself against doctors with a Dogma Defying Quiz.](https://www.youtube.com/watch?v=Ff-2q4nYipg)      
 
 ## Free Documentaries
 
