@@ -141,6 +141,7 @@
 - [Corrupt Food Industry - Hidden Work - Dangerous additives - Documentary](https://www.youtube.com/watch?v=F5TNiggsH1A)      
 - [Low Carb Diet: Fat or Fiction? Does it work?](https://www.youtube.com/watch?v=8GUIBNKnT1M)      
 - [China's Big Problem: The Rise of Obesity](https://www.youtube.com/watch?v=GRAKy_-q6-8)      
+- [USA's Obesity Epidemic: Heart Attack Grills, Fat Camps and Plus-Size Beauty Pageants - Documentary](https://www.youtube.com/watch?v=bm-6_0xiQNc)      
 
 ## Music
 
