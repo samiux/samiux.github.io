@@ -129,6 +129,7 @@
 - [Match Analysis of High LDL on Keto – Matthew Budoff](https://www.youtube.com/watch?v=3ItQedMPnsY)      
 - [High LDL, No Correlation with Plaque – Explosive New Findings](https://www.youtube.com/watch?v=HJJGHQDE_uM)     
 - [But Keto Goes Against Everything I've Been Taught! - Dr. Eric Westman](https://www.youtube.com/watch?v=1iifsp2K040)     
+- [The Heart Attack You Won't See Coming (Even With 'Good' Stats)](https://www.youtube.com/watch?v=fX33g1zFZSo)        
 
 ## Free Documentaries
 
