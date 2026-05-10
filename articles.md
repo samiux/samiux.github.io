@@ -120,6 +120,7 @@
 - [Prevent Cancer: AVOID These Foods - Thomas Seyfried](https://www.youtube.com/watch?v=D0L0uG2l6Zc)      
 - [Dr. Paul Mason’s Nutrition Masterclass - Test yourself against doctors with a Dogma Defying Quiz.](https://www.youtube.com/watch?v=Ff-2q4nYipg)      
 - [The Heart Attack You Won't See Coming (Even With 'Good' Stats)](https://www.youtube.com/watch?v=fX33g1zFZSo)
+- [The Modern Lipid Playbook Part 2: THE TESTING — Why Your Lipid Panel Isn't Enough](https://www.youtube.com/watch?v=AtOTY0x3U3I)     
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
