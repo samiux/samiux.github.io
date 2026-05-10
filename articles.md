@@ -119,6 +119,7 @@
 - [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)        
 - [Prevent Cancer: AVOID These Foods - Thomas Seyfried](https://www.youtube.com/watch?v=D0L0uG2l6Zc)      
 - [Dr. Paul Mason’s Nutrition Masterclass - Test yourself against doctors with a Dogma Defying Quiz.](https://www.youtube.com/watch?v=Ff-2q4nYipg)      
+- [The Heart Attack You Won't See Coming (Even With 'Good' Stats)](https://www.youtube.com/watch?v=fX33g1zFZSo)
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
@@ -129,7 +130,6 @@
 - [Match Analysis of High LDL on Keto – Matthew Budoff](https://www.youtube.com/watch?v=3ItQedMPnsY)      
 - [High LDL, No Correlation with Plaque – Explosive New Findings](https://www.youtube.com/watch?v=HJJGHQDE_uM)     
 - [But Keto Goes Against Everything I've Been Taught! - Dr. Eric Westman](https://www.youtube.com/watch?v=1iifsp2K040)     
-- [The Heart Attack You Won't See Coming (Even With 'Good' Stats)](https://www.youtube.com/watch?v=fX33g1zFZSo)        
 
 ## Free Documentaries
 
