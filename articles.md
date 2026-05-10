@@ -139,6 +139,8 @@
 - [Sugar: The Hidden Danger in Our Food - ENDEVR Documentary](https://www.youtube.com/watch?v=CYeKjoI4n_I)     
 - [How Big Pharma Makes Healthy People Sick - ENDEVR Documentary](https://www.youtube.com/watch?v=xJs9lK8PIok)
 - [Corrupt Food Industry - Hidden Work - Dangerous additives - Documentary](https://www.youtube.com/watch?v=F5TNiggsH1A)      
+- [Low Carb Diet: Fat or Fiction? Does it work?](https://www.youtube.com/watch?v=8GUIBNKnT1M)      
+- [China's Big Problem: The Rise of Obesity](https://www.youtube.com/watch?v=GRAKy_-q6-8)      
 
 ## Music
 
