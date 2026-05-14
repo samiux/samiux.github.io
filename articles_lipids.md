@@ -36,5 +36,7 @@
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
 - [血脂指标计算器](/html/blood_lipids_ratio.html)      
 - [脂蛋白亚组分计算器](/html/lipoprotein_calculator.html)        
+- [Ldl-C/Apob Ratio Calculator](https://calculator.academy/ldl-c-apob-ratio-calculator/)       
+- [Estimating the risk of heart attack & stroke caused by Lp(a)](https://www.lpaclinicalguidance.com/)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
