@@ -29,7 +29,6 @@
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
-- [The American Heart Association PREVENT™ Online Calculator](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator)        
 
 #### 其他计算器
 
