@@ -48,7 +48,6 @@
 - [DoctorsToTrust](https://www.youtube.com/@doctorstotrust)    
 - [Jesse Chappus](https://www.youtube.com/@JesseChappus)    
 - [Nick Norwitz](https://www.youtube.com/channel/UCLTZUJSEulehPtF_ytFiU_A)       
-- [Health & Wellness](https://www.youtube.com/@HealthWellness-fl3qy)       
 - [The Galen Foundation](https://www.youtube.com/channel/UCUp8SWTLsEC6Mn8ExztMIjA)      
 - [Metabolic Mind](https://www.youtube.com/@metabolicmind)       
 - [Dr. Boz (Annette Bosworth, MD)](https://www.youtube.com/@DoctorBoz/videos)      
