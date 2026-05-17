@@ -126,6 +126,9 @@
 - [The Heart Attack You Won't See Coming (Even With 'Good' Stats)](https://www.youtube.com/watch?v=fX33g1zFZSo)
 - [The Modern Lipid Playbook Part 2: THE TESTING — Why Your Lipid Panel Isn't Enough](https://www.youtube.com/watch?v=AtOTY0x3U3I)     
 - [ApoB Explained: What Your LDL Test Doesn’t Tell You](https://www.youtube.com/watch?v=V7ywq_s7ATk)      
+- [不能忽視的心血管風險，脂蛋白a](https://dr-neil.com/2025/06/24/lpa-2/)
+- [The Blue Zones Myth: What They Really Eat - Belinda Fettke](https://www.youtube.com/watch?v=MKO0mMyessw)       
+- [The Real Mediterranean Diet Isn’t What You Think - Belinda Fettke](https://www.youtube.com/watch?v=_SV-BNUGqRA)       
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
