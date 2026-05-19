@@ -138,10 +138,10 @@
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
+- [Dr. Paul Mason - Blood tests on a ketogenic diet - what your cholesterol results mean](https://www.youtube.com/watch?v=DXKJaQeteE0)      
 - [Biggest impact on cholesterol with Keto – Saturated Fat or BMI? Our new paper makes a powerful case](https://www.youtube.com/watch?v=TaFF1HddewM)        
 - [NEW STUDY Proves it's BMI not Butter that increases Cholesterol on Low-Carb Diets](https://www.youtube.com/watch?v=FcUUqGJBXFM)       
 - [Dr. Nadir Ali - Why LDL cholesterol goes up with low carb diet and is it bad for health?](https://www.youtube.com/watch?v=qXtdp4BNyOg)      
-- [Dr. Paul Mason - Blood tests on a ketogenic diet - what your cholesterol results mean](https://www.youtube.com/watch?v=DXKJaQeteE0)      
 - [Match Analysis of High LDL on Keto – Matthew Budoff](https://www.youtube.com/watch?v=3ItQedMPnsY)      
 - [High LDL, No Correlation with Plaque – Explosive New Findings](https://www.youtube.com/watch?v=HJJGHQDE_uM)     
 - [But Keto Goes Against Everything I've Been Taught! - Dr. Eric Westman](https://www.youtube.com/watch?v=1iifsp2K040)     
