@@ -505,7 +505,7 @@
 - [Ketosis: What is the ideal blood ketone level for weight loss?](https://www.youtube.com/watch?v=nIf8_H68g8k)      
 - [WHY ARE MY KETONES LOW? + Why it Might Not Matter (KETO FOR BEGINNERS)](https://www.youtube.com/watch?v=cm9aLwuxLhw)      
 
-## 双酮断食 Dual-Keto Fasting
+## 生酮断食
 
 - [MATTHEW BUDOFF -- high HDL …and high LDL? if TG LOW…may be ultra healthy](https://www.youtube.com/watch?v=fwLneAcJwV0)        
 - [吃肉越多，胆固醇越高，越长寿，史上最大100岁老人研究，打了多少专家的脸？](https://mp.weixin.qq.com/s/EPDiByQnRZES7wG6lTG73Q)        
@@ -591,7 +591,6 @@
 - [低血糖症](/hypoglycemia.md)      
 - [预防及逆转慢性疾病](/chronic_disease.md)      
 - [现代传统医学的谬误](/health.md)        
-- [我的「双酮断食」 Dual-Keto Fasting](/my_dual-keto_fasting.md)    
 - [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
 
 ## 有损害健康的食品总汇
