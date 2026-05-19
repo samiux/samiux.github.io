@@ -115,6 +115,10 @@
 ```
 ---
 
+## My Hero
+
+- [I Lived 7 Years With 700 Cholesterol… Then THIS Happened - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=TmloFV0W6iQ)      
+
 ## 健康与断食
 
 - [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
