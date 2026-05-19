@@ -132,6 +132,7 @@
 - [不能忽視的心血管風險，脂蛋白a](https://dr-neil.com/2025/06/24/lpa-2/)
 - [The Blue Zones Myth: What They Really Eat - Belinda Fettke](https://www.youtube.com/watch?v=MKO0mMyessw)       
 - [The Real Mediterranean Diet Isn’t What You Think - Belinda Fettke](https://www.youtube.com/watch?v=_SV-BNUGqRA)       
+- [Dr. Paul Mason - How Fiber Causes Constipation and Bloating](https://www.youtube.com/watch?v=EDaCyObMEQM)      
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
