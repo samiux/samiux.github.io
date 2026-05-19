@@ -132,7 +132,8 @@
 - [不能忽視的心血管風險，脂蛋白a](https://dr-neil.com/2025/06/24/lpa-2/)
 - [The Blue Zones Myth: What They Really Eat - Belinda Fettke](https://www.youtube.com/watch?v=MKO0mMyessw)       
 - [The Real Mediterranean Diet Isn’t What You Think - Belinda Fettke](https://www.youtube.com/watch?v=_SV-BNUGqRA)       
-- [Dr. Paul Mason - How Fiber Causes Constipation and Bloating](https://www.youtube.com/watch?v=EDaCyObMEQM)   - [Dr. Paul Mason - ''Hard science on the real cause of heart disease - why you should avoid seed oils'](https://www.youtube.com/watch?v=-xCr3mvFCHM)        
+- [Dr. Paul Mason - How Fiber Causes Constipation and Bloating](https://www.youtube.com/watch?v=EDaCyObMEQM)       
+- [Dr. Paul Mason - ''Hard science on the real cause of heart disease - why you should avoid seed oils'](https://www.youtube.com/watch?v=-xCr3mvFCHM)        
 - [Heart Disease Reversal & Low Fat Diets - Dr. Caldwell Esselstyn](https://www.youtube.com/watch?v=9daOn-tvdig)      
 
 ## Lean Mass Hyper-Responders (LMHRs)
