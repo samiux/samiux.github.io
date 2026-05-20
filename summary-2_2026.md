@@ -57,6 +57,14 @@ Samiux
     <img src="/images/health/2026/metabolic_health_index-20260422.jpg" >
     <p>
     <img src="/images/health/2026/sdLDL_vs_ldLDL.png" >
+    <p>
+    <img src="/images/health/2026/tg.png" >
+    <p>
+    <img src="/images/health/2026/hdl.png" >
+    <p>
+    <img src="/images/health/2026/tg_hdl.png" >
+    <p>
+    <img src="/images/health/2026/dietary_fibre.png" >
 </p>
 <p>
 
