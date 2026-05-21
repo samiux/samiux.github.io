@@ -138,6 +138,7 @@
 - [The Real Mediterranean Diet Isn’t What You Think - Belinda Fettke](https://www.youtube.com/watch?v=_SV-BNUGqRA)       
 - [Dr. Paul Mason - How Fiber Causes Constipation and Bloating](https://www.youtube.com/watch?v=EDaCyObMEQM)       
 - [Dr. Paul Mason - ''Hard science on the real cause of heart disease - why you should avoid seed oils'](https://www.youtube.com/watch?v=-xCr3mvFCHM)        
+- [An Interview with Dr. Paul Mason - Dr. Mason answers questions about vegan and carnivore diets](https://www.youtube.com/watch?v=eEfAmhJxu34)      
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
