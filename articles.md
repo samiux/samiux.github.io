@@ -141,6 +141,7 @@
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
+- [JACC : Carbohydrate Restriction-Induced Elevations in LDL-Cholesterol and Atherosclerosis: The KETO Trial](https://www.jacc.org/doi/10.1016/j.jacadv.2024.101109)      
 - [Dr. Paul Mason - Blood tests on a ketogenic diet - what your cholesterol results mean](https://www.youtube.com/watch?v=DXKJaQeteE0)      
 - [Biggest impact on cholesterol with Keto – Saturated Fat or BMI? Our new paper makes a powerful case](https://www.youtube.com/watch?v=TaFF1HddewM)        
 - [NEW STUDY Proves it's BMI not Butter that increases Cholesterol on Low-Carb Diets](https://www.youtube.com/watch?v=FcUUqGJBXFM)       
