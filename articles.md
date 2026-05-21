@@ -121,7 +121,7 @@
 
 ## My Hero
 
-- [I Lived 7 Years With 700 Cholesterol… Then THIS Happened - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=TmloFV0W6iQ)      
+- [I Bet My Life Against Cholesterol Dogma (And Won)  - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=TmloFV0W6iQ)      
 
 ## 健康与断食
 
