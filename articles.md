@@ -158,6 +158,7 @@
 - [High LDL Cholesterol Increases on a Low Carb Diet - The Lipid Energy Model](https://www.youtube.com/watch?v=AkzxESsTJyM)      
 - [New Case Study - High LDL Cholesterol, Low Saturated Fat, But What About Heart Disease…?](https://www.youtube.com/watch?v=JSEqIsYBZxU)      
 - [The Lipid Energy Model in a Nutshell](https://www.youtube.com/watch?v=C1T-7-6bpz8)      
+- [Dave Feldman - 'The Dynamic Influence of a High Fat Diet on Cholesterol Variability'](https://www.youtube.com/watch?v=jZu52duIqno)     
 
 ## Free Documentaries
 
