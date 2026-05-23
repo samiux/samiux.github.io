@@ -176,6 +176,13 @@
 - [China's Big Problem: The Rise of Obesity](https://www.youtube.com/watch?v=GRAKy_-q6-8)      
 - [More Than Half Of China's Adults Now Obese Or Overweight: Can China Beat The Bulge? - Insight](https://www.youtube.com/watch?v=lZlLwli2PJs)
 
+## About Calculators
+
+- [Assessing the Practical Differences in LDL-C Estimates Calculated by Friedewald, Martin/Hopkins, or NIH Equation 2: An Observation Cross-Sectional Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10548185/)      
+- [The LDL-C/Apo B predicts coronary atherosclerotic heart disease in non-diabetic patients without high LDL-C](https://journals.lww.com/md-journal/fulltext/2023/01060/the_ldl_c_apo_b_predicts_coronary_atherosclerotic.20.aspx)      
+- [How to use an ApoB calculator?](https://siphoxhealth.com/articles/how-to-use-an-apob-calculator)     
+- [LDL:ApoB Ratio](https://siphoxhealth.com/hub/biomarkers-2/ldlapob-ratio)       
+
 ## Music
 
 - [Smooth Jazz Harmony - Soulful Female Vocals & Gentle Love Lyrics to Calm Your Soul](https://www.youtube.com/watch?v=fFjDb1tdgv4&list=RDfFjDb1tdgv4&start_radio=1)      
