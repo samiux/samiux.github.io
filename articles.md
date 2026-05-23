@@ -156,6 +156,7 @@
 - [But Keto Goes Against Everything I've Been Taught! - Dr. Eric Westman](https://www.youtube.com/watch?v=1iifsp2K040)     
 - [Are LMHR at a Higher Risk of Heart Disease? – David Diamond](https://www.youtube.com/watch?v=BWxMKiI0ZWc)      
 - [High LDL Cholesterol Increases on a Low Carb Diet - The Lipid Energy Model](https://www.youtube.com/watch?v=AkzxESsTJyM)      
+- [New Case Study - High LDL Cholesterol, Low Saturated Fat, But What About Heart Disease…?](https://www.youtube.com/watch?v=JSEqIsYBZxU)      
 
 ## Free Documentaries
 
