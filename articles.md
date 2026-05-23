@@ -159,6 +159,8 @@
 - [New Case Study - High LDL Cholesterol, Low Saturated Fat, But What About Heart Disease…?](https://www.youtube.com/watch?v=JSEqIsYBZxU)      
 - [The Lipid Energy Model in a Nutshell](https://www.youtube.com/watch?v=C1T-7-6bpz8)      
 - [Dave Feldman - 'The Dynamic Influence of a High Fat Diet on Cholesterol Variability'](https://www.youtube.com/watch?v=jZu52duIqno)     
+- [A Simple Analogy to Explain High ApoB and Why LMHR May Be Different](https://www.youtube.com/watch?v=8KO9029-igQ)      
+- [ApoB Explained: What Your LDL Test Doesn’t Tell You](https://www.youtube.com/watch?v=V7ywq_s7ATk)      
 
 ## Free Documentaries
 
