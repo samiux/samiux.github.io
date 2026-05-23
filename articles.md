@@ -143,6 +143,7 @@
 - [Dr. Paul Mason - How Fiber Causes Constipation and Bloating](https://www.youtube.com/watch?v=EDaCyObMEQM)       
 - [Dr. Paul Mason - ''Hard science on the real cause of heart disease - why you should avoid seed oils'](https://www.youtube.com/watch?v=-xCr3mvFCHM)        
 - [An Interview with Dr. Paul Mason - Dr. Mason answers questions about vegan and carnivore diets](https://www.youtube.com/watch?v=eEfAmhJxu34)      
+- [Dr Bikman: #1 INSULIN Trick Proven To Burn Fat Faster](https://www.youtube.com/watch?v=DTpFxon0aM4)     
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
