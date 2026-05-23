@@ -161,6 +161,7 @@
 - [Dave Feldman - 'The Dynamic Influence of a High Fat Diet on Cholesterol Variability'](https://www.youtube.com/watch?v=jZu52duIqno)     
 - [A Simple Analogy to Explain High ApoB and Why LMHR May Be Different](https://www.youtube.com/watch?v=8KO9029-igQ)      
 - [ApoB Explained: What Your LDL Test Doesn’t Tell You](https://www.youtube.com/watch?v=V7ywq_s7ATk)      
+- [Dave Feldman presentation: ApoB, Cholesterol and the Lean Mass Hyper-Responders Research Update](https://www.youtube.com/watch?v=SKOVv4KkszQ)     
 
 ## Free Documentaries
 
