@@ -181,7 +181,8 @@
 - [Assessing the Practical Differences in LDL-C Estimates Calculated by Friedewald, Martin/Hopkins, or NIH Equation 2: An Observation Cross-Sectional Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10548185/)      
 - [The LDL-C/Apo B predicts coronary atherosclerotic heart disease in non-diabetic patients without high LDL-C](https://journals.lww.com/md-journal/fulltext/2023/01060/the_ldl_c_apo_b_predicts_coronary_atherosclerotic.20.aspx)      
 - [How to use an ApoB calculator?](https://siphoxhealth.com/articles/how-to-use-an-apob-calculator)     
-- [LDL:ApoB Ratio](https://siphoxhealth.com/hub/biomarkers-2/ldlapob-ratio)       
+- [LDL:ApoB Ratio Explain](https://siphoxhealth.com/hub/biomarkers-2/ldlapob-ratio)       
+- [LDL-C/ApoB Ratio Calculator](https://calculator.academy/ldl-c-apob-ratio-calculator/)       
 
 ## Music
 
