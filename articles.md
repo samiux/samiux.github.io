@@ -157,6 +157,7 @@
 - [Are LMHR at a Higher Risk of Heart Disease? – David Diamond](https://www.youtube.com/watch?v=BWxMKiI0ZWc)      
 - [High LDL Cholesterol Increases on a Low Carb Diet - The Lipid Energy Model](https://www.youtube.com/watch?v=AkzxESsTJyM)      
 - [New Case Study - High LDL Cholesterol, Low Saturated Fat, But What About Heart Disease…?](https://www.youtube.com/watch?v=JSEqIsYBZxU)      
+- [The Lipid Energy Model in a Nutshell](https://www.youtube.com/watch?v=C1T-7-6bpz8)      
 
 ## Free Documentaries
 
