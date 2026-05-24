@@ -58,9 +58,9 @@ Samiux
     <p>
     <img src="/images/health/2026/sdLDL_vs_ldLDL.png" >
     <p>
-    <img src="/images/health/2026/tg.png" >
-    <p>
     <img src="/images/health/2026/hdl.png" >
+    <p>
+    <img src="/images/health/2026/tg.png" >
     <p>
     <img src="/images/health/2026/tg_hdl.png" >
     <p>
