@@ -121,10 +121,6 @@
 ```
 ---
 
-## My Hero
-
-- [I Bet My Life Against Cholesterol Dogma (And Won)  - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=TmloFV0W6iQ)      
-
 ## 健康与断食
 
 - [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
@@ -163,6 +159,7 @@
 - [A Simple Analogy to Explain High ApoB and Why LMHR May Be Different](https://www.youtube.com/watch?v=8KO9029-igQ)      
 - [ApoB Explained: What Your LDL Test Doesn’t Tell You](https://www.youtube.com/watch?v=V7ywq_s7ATk)      
 - [Dave Feldman presentation: ApoB, Cholesterol and the Lean Mass Hyper-Responders Research Update](https://www.youtube.com/watch?v=SKOVv4KkszQ)     
+- [I Bet My Life Against Cholesterol Dogma (And Won)  - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=TmloFV0W6iQ)      
 
 ## Free Documentaries
 
