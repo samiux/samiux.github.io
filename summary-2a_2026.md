@@ -1,5 +1,7 @@
 # 刚打响第一枪 2 (2026 年第二季)
 
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
+
 承接 [2026 年第二季报告](/summary-2_2026.md)，2026 年 5 月上旬另一份血液检测报告。
 
 ## 报告分析
@@ -8,6 +10,8 @@
 
 Samiux       
 二零二六年五月廿七日，中国香港      
+
+|[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
 ## 附件
 
