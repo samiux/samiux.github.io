@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-承接 [2026 年第二季报告](/summary-2_2026.md)，2026 年 5 月上旬另一份血液检测报告。
+承接 [2026 年第二季报告](/summary-2_2026.md)，2026 年 5 月上旬同一时段的另一份血液检测报告。
 
 ## 报告分析
 
