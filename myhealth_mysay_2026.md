@@ -7,5 +7,6 @@
 - [空腹 21 公里 2026](/21km_2026.md)        
 - [空腹 21 公里 2026 (2)](/21km_2026_02.md)
 - [刚打响第一枪 (2026 第二季)](/summary-2_2026.md)      
+- [刚打响第一枪 2 (2026 第二季)](/summary-2a_2026.md)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
