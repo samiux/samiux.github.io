@@ -22,8 +22,6 @@ Samiux
     <p>
     <img src="/images/health/2026/blood_work_c-20260509.jpg" >
     <p>
-    <img src="/images/health/2026/blood_work-20260422.jpg" >
-    <p>
     <img src="/images/health/2026/sdLDL_vs_ldLDL.png" >
     <p>
     <img src="/images/health/2026/hdl.png" >
