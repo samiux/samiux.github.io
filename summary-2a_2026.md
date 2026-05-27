@@ -15,5 +15,29 @@ Samiux
 
 ## 附件
 
+<p>
+    <img src="/images/health/2026/blood_work_a-20260509.jpg" >
+    <p>
+    <img src="/images/health/2026/blood_work_b-20260509.jpg" >
+    <p>
+    <img src="/images/health/2026/blood_work_c-20260509.jpg" >
+    <p>
+    <img src="/images/health/2026/blood_work-20260422.jpg" >
+    <p>
+    <img src="/images/health/2026/sdLDL_vs_ldLDL.png" >
+    <p>
+    <img src="/images/health/2026/hdl.png" >
+    <p>
+    <img src="/images/health/2026/tg.png" >
+    <p>
+    <img src="/images/health/2026/tg_hdl.png" >
+    <p>
+    <img src="/images/health/2026/dietary_fibre.png" >
+    <p>
+    <img src="/images/health/2026/peroxide_oil.png" >
+</p>
+<p>
+
+
 
 
