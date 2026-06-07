@@ -129,6 +129,7 @@
 - [前沿医学 - 健康与断食研究杂谈 - 专页](/articles_health.md)     
 - [前沿医学 - 血脂及心血管疾病 - 专页](/articles_lipids.md)         
 - [低碳水化合物饮食误区与真相 Myths and Facts Regarding Low-Carbohydrate Diets](/myths_facts_lowcarb.md)      
+- [Gluconeogenesis: What It Is and Why You Shouldn’t Fear It On Keto](https://perfectketo.com/gluconeogenesis/)       
 - [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)        
 - [Prevent Cancer: AVOID These Foods - Thomas Seyfried](https://www.youtube.com/watch?v=D0L0uG2l6Zc)      
 - [Dr. Paul Mason’s Nutrition Masterclass - Test yourself against doctors with a Dogma Defying Quiz.](https://www.youtube.com/watch?v=Ff-2q4nYipg)      
