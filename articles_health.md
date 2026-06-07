@@ -15,6 +15,7 @@
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
+- [sdLDL Calculator](https://www.medlab.sg/)       
 - [The American Heart Association PREVENT™ Online Calculator](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator)
 - [LDL-C/ApoB Ratio Calculator](https://calculator.academy/ldl-c-apob-ratio-calculator/)       
 - [Estimating the risk of heart attack & stroke caused by Lp(a)](https://www.lpaclinicalguidance.com/)       
