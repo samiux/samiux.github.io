@@ -37,6 +37,7 @@ TG/HDL-C 比率显示 LDL-C 中大都是 ldLDL-C (无害的大而蓬鬆棵粒，
 Samiux           
 二零二六年五月廿日，中国香港                 
 
+- [sdLDL Calculator](https://www.medlab.sg/)       
 - [Cholesterol and Triglyceride Unit Conversion](https://heartcare.sydney/cholesterol-unit-conversion/)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
