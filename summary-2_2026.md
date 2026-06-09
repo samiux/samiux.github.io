@@ -78,6 +78,12 @@ Samiux
     <img src="/images/health/2026/peroxide_oil.png" >
     <p>
     <img src="/images/health/2026/LMHRs.jpg" >
+    <p>
+    <img src="/images/health/2026/HbA1c_high_a.png" >
+    <p>
+    <img src="/images/health/2026/HbA1c_high_b.png" >
+    <p>
+    <img src="/images/health/2026/HbA1c_high_c.png" >
 </p>
 <p>
 
