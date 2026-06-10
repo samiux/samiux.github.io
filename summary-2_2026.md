@@ -52,7 +52,7 @@ Samiux
 二零二六年五月廿日，中国香港                 
 
 - [sdLDL Calculator](https://www.medlab.sg/)       
-- [Cholesterol and Triglyceride Unit Conversion](https://heartcare.sydney/cholesterol-unit-conversion/)      
+- [Cholesterol and Triglyceride Unit Conversion](https://www.mdapp.co/cholesterol-conversion-calculator-600/)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
