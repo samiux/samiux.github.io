@@ -53,6 +53,7 @@ Samiux
 
 - [sdLDL Calculator](https://www.medlab.sg/)       
 - [Cholesterol and Triglyceride Unit Conversion](https://www.mdapp.co/cholesterol-conversion-calculator-600/)      
+- [Estimating the risk of heart attack & stroke caused by Lp(a)](https://www.lpaclinicalguidance.com/)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
