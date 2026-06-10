@@ -95,6 +95,10 @@ Samiux
     <img src="/images/health/2026/HbA1c_high_b.png" >
     <p>
     <img src="/images/health/2026/HbA1c_high_c.png" >
+    <p>
+    <img src="/images/health/2026/Lp-a_heart_attack_a.png" >
+    <p>
+    <img src="/images/health/2026/Lp-a_heart_attack_b.png" >
 </p>
 <p>
 
