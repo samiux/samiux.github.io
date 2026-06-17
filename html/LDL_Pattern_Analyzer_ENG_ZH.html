@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LDL Particle Pattern ｜ LDL 颗粒模式</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #f4f7fc;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .card {
+            max-width: 960px;
+            width: 100%;
+            background: white;
+            border-radius: 32px;
+            padding: 32px 28px 40px;
+            box-shadow: 0 20px 60px rgba(0, 20, 40, 0.12);
+        }
+
+        h1 {
+            font-size: 26px;
+            font-weight: 600;
+            color: #0b1e33;
+            letter-spacing: -0.3px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 4px;
+        }
+        h1 .zh {
+            font-weight: 400;
+            color: #5e6f8d;
+            font-size: 18px;
+        }
+
+        .subhead {
+            font-size: 15px;
+            color: #5e6f8d;
+            margin-bottom: 24px;
+            border-left: 4px solid #5b7cfa;
+            padding-left: 16px;
+            background: #f0f4fe;
+            border-radius: 0 12px 12px 0;
+            line-height: 1.6;
+            padding: 12px 16px;
+        }
+        .subhead .en { display: inline; }
+        .subhead .zh { display: inline; color: #3d4e6b; margin-left: 8px; }
+
+        .unit-toggle {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            background: #f2f6fc;
+            padding: 10px 20px;
+            border-radius: 40px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            border: 1px solid #e0e8f2;
+        }
+
+        .unit-toggle .label {
+            font-weight: 500;
+            color: #1f3349;
+            font-size: 15px;
+        }
+        .unit-toggle .label .zh {
+            font-weight: 400;
+            color: #5e6f8d;
+            margin-left: 6px;
+        }
+
+        .unit-toggle .options {
+            display: flex;
+            gap: 6px;
+            background: white;
+            border-radius: 30px;
+            padding: 4px;
+            border: 1px solid #dce1eb;
+        }
+
+        .unit-toggle .options label {
+            padding: 6px 20px;
+            border-radius: 30px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #5e6f8d;
+        }
+
+        .unit-toggle .options input[type="radio"] {
+            display: none;
+        }
+
+        .unit-toggle .options input[type="radio"]:checked + label {
+            background: #5b7cfa;
+            color: white;
+            box-shadow: 0 2px 8px rgba(91, 124, 250, 0.25);
+        }
+
+        .unit-toggle .options label:hover {
+            background: #eef2f8;
+        }
+
+        .unit-toggle .options input[type="radio"]:checked + label:hover {
+            background: #4b6ad9;
+        }
+
+        .input-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px 24px;
+            margin-bottom: 28px;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .input-group label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #1f3349;
+            letter-spacing: 0.2px;
+        }
+        .input-group label .zh {
+            font-weight: 400;
+            color: #5e6f8d;
+            margin-left: 6px;
+        }
+
+        .input-group .unit {
+            font-size: 13px;
+            color: #7a8aa3;
+            font-weight: 400;
+        }
+
+        .input-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .input-row input {
+            flex: 1;
+            padding: 10px 14px;
+            border: 1.5px solid #dce1eb;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #0b1e33;
+            background: #fafbfd;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            min-width: 0;
+            width: 100%;
+        }
+
+        .input-row input:focus {
+            outline: none;
+            border-color: #5b7cfa;
+            box-shadow: 0 0 0 4px rgba(91, 124, 250, 0.12);
+            background: white;
+        }
+
+        .input-row input::placeholder {
+            color: #b0bed5;
+            font-weight: 400;
+        }
+
+        .input-row .badge-unit {
+            font-size: 14px;
+            color: #4a5b78;
+            font-weight: 500;
+            white-space: nowrap;
+            min-width: 48px;
+        }
+
+        .ratio-display {
+            grid-column: 1 / -1;
+            background: #f2f6fe;
+            border-radius: 16px;
+            padding: 16px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+            border: 1.5px solid #e4ebf6;
+        }
+
+        .ratio-display .label {
+            font-size: 15px;
+            font-weight: 500;
+            color: #1f3349;
+        }
+        .ratio-display .label .zh {
+            font-weight: 400;
+            color: #5e6f8d;
+            margin-left: 6px;
+        }
+
+        .ratio-display .value-box {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            flex-wrap: wrap;
+        }
+
+        .ratio-display .value-box .num {
+            font-size: 24px;
+            font-weight: 700;
+            color: #0b1e33;
+            min-width: 70px;
+            text-align: center;
+        }
+
+        .ratio-display .value-box .cutoff {
+            font-size: 14px;
+            color: #5e6f8d;
+            background: #e8eefa;
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+
+        .ratio-display .value-box .status {
+            font-size: 15px;
+            font-weight: 600;
+            padding: 4px 16px;
+            border-radius: 30px;
+        }
+
+        .status.pass {
+            background: #d3f0df;
+            color: #0b6e4b;
+        }
+
+        .status.fail {
+            background: #ffe6e6;
+            color: #b3403a;
+        }
+
+        /* ---- Flowchart ---- */
+        .flowchart {
+            margin: 28px 0 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .flow-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .flow-node {
+            background: white;
+            border: 2px solid #dce1eb;
+            border-radius: 18px;
+            padding: 10px 16px;
+            min-width: 160px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 500;
+            color: #1f3349;
+            transition: all 0.25s;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+            position: relative;
+            line-height: 1.5;
+        }
+
+        .flow-node .main-text {
+            display: block;
+            font-weight: 600;
+        }
+        .flow-node .zh-text {
+            display: block;
+            font-size: 12px;
+            font-weight: 400;
+            color: #5e6f8d;
+            margin-top: 2px;
+        }
+        .flow-node .sub {
+            font-size: 11px;
+            font-weight: 400;
+            color: #7a8aa3;
+            display: block;
+            margin-top: 2px;
+        }
+
+        .flow-node.active {
+            border-color: #5b7cfa;
+            background: #f0f4fe;
+            box-shadow: 0 4px 14px rgba(91, 124, 250, 0.15);
+        }
+
+        .flow-node.active-yes {
+            border-color: #2a9d8f;
+            background: #e6f6f2;
+            box-shadow: 0 4px 14px rgba(42, 157, 143, 0.15);
+        }
+
+        .flow-node.active-no {
+            border-color: #e76f51;
+            background: #fdeee9;
+            box-shadow: 0 4px 14px rgba(231, 111, 81, 0.13);
+        }
+
+        .flow-node.result-ldl {
+            border-color: #2a9d8f;
+            background: #d3f0df;
+            font-weight: 600;
+            color: #0b6e4b;
+            box-shadow: 0 4px 20px rgba(42, 157, 143, 0.20);
+        }
+
+        .flow-node.result-sdl {
+            border-color: #e76f51;
+            background: #fdeee9;
+            font-weight: 600;
+            color: #a33d2e;
+            box-shadow: 0 4px 20px rgba(231, 111, 81, 0.18);
+        }
+
+        .flow-arrow {
+            font-size: 20px;
+            color: #b0bed5;
+            padding: 0 4px;
+            user-select: none;
+        }
+
+        .flow-branch {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .flow-branch .branch-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #7a8aa3;
+            letter-spacing: 0.4px;
+            text-transform: uppercase;
+            padding: 0 4px;
+        }
+        .flow-branch .branch-label .zh {
+            font-weight: 400;
+            text-transform: none;
+            margin-left: 4px;
+        }
+
+        .result-box {
+            margin-top: 8px;
+            padding: 18px 24px;
+            border-radius: 20px;
+            background: #f8faff;
+            border: 2px solid #e4ebf6;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .result-box .result-label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #5e6f8d;
+            letter-spacing: 0.3px;
+        }
+        .result-box .result-label .zh {
+            font-weight: 400;
+            margin-left: 6px;
+        }
+
+        .result-box .result-value {
+            font-size: 34px;
+            font-weight: 700;
+            margin-top: 4px;
+            letter-spacing: -0.5px;
+        }
+
+        .result-box .result-value.ldl {
+            color: #0b6e4b;
+        }
+
+        .result-box .result-value.sdl {
+            color: #a33d2e;
+        }
+
+        .result-box .result-sub {
+            font-size: 15px;
+            color: #4a5b78;
+            margin-top: 6px;
+        }
+        .result-box .result-sub .zh {
+            color: #5e6f8d;
+            font-weight: 400;
+            margin-left: 6px;
+        }
+
+        .footnote {
+            margin-top: 20px;
+            font-size: 13px;
+            color: #8a9bb8;
+            text-align: center;
+            border-top: 1px solid #eef2f8;
+            padding-top: 18px;
+            letter-spacing: 0.2px;
+        }
+        .footnote .zh {
+            color: #6a7b98;
+            margin-left: 8px;
+        }
+        .footnote strong {
+            color: #4a5b78;
+            font-weight: 600;
+        }
+
+        @media (max-width: 640px) {
+            .card {
+                padding: 20px 16px 28px;
+            }
+
+            h1 {
+                font-size: 21px;
+            }
+            h1 .zh {
+                font-size: 15px;
+            }
+
+            .input-grid {
+                grid-template-columns: 1fr;
+                gap: 14px;
+            }
+
+            .ratio-display {
+                flex-direction: column;
+                align-items: stretch;
+                text-align: center;
+            }
+
+            .ratio-display .value-box {
+                justify-content: center;
+            }
+
+            .flow-node {
+                min-width: 120px;
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+            .flow-node .zh-text {
+                font-size: 11px;
+            }
+
+            .flow-arrow {
+                font-size: 16px;
+            }
+
+            .result-box .result-value {
+                font-size: 28px;
+            }
+
+            .unit-toggle {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .flow-row {
+                gap: 8px;
+            }
+
+            .flow-node {
+                min-width: 80px;
+                padding: 6px 8px;
+                font-size: 12px;
+                border-radius: 12px;
+            }
+            .flow-node .zh-text {
+                font-size: 10px;
+            }
+
+            .flow-branch .branch-label {
+                font-size: 10px;
+            }
+
+            .flow-arrow {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>
+            <span>🧬 LDL Particle Pattern</span>
+            <span class="zh">LDL 颗粒模式</span>
+        </h1>
+        <div class="subhead">
+            <span class="en"><strong>ldLDL</strong> (large, buoyant) vs <strong>sdLDL</strong> (small, dense) &nbsp;·&nbsp; Based on the <strong>Triglyceride:HDL ratio</strong> with supportive cutoffs.</span>
+            <span class="zh"><strong>ldLDL</strong>（大而蓬松） vs <strong>sdLDL</strong>（小而致密）&nbsp;·&nbsp;基于 <strong>甘油三酯:HDL 比值</strong> 及辅助切点。</span>
+        </div>
+
+        <!-- Unit Toggle -->
+        <div class="unit-toggle">
+            <span class="label">📐 Units <span class="zh">单位</span></span>
+            <div class="options" id="unitOptions">
+                <input type="radio" name="unit" id="unitMmol" value="mmol" checked />
+                <label for="unitMmol">mmol/L</label>
+                <input type="radio" name="unit" id="unitMg" value="mg" />
+                <label for="unitMg">mg/dL</label>
+            </div>
+        </div>
+
+        <!-- INPUTS -->
+        <div class="input-grid">
+            <div class="input-group">
+                <label>
+                    HDL <span class="zh">高密度脂蛋白</span>
+                    <span class="unit" id="hdlUnitLabel">(mmol/L)</span>
+                </label>
+                <div class="input-row">
+                    <input type="number" id="hdlInput" step="0.01" min="0.1" placeholder="e.g. 1.4 例如 1.4" />
+                    <span class="badge-unit" id="hdlBadgeUnit">mmol/L</span>
+                </div>
+                <div style="font-size:13px;color:#7a8aa3;margin-top:2px;" id="hdlCutoffDisplay">Cutoff: ≥ 1.3 mmol/L (52 mg/dL) ｜ 切点: ≥ 1.3 mmol/L (52 mg/dL)</div>
+            </div>
+
+            <div class="input-group">
+                <label>
+                    Triglycerides <span class="zh">甘油三酯</span>
+                    <span class="unit" id="tgUnitLabel">(mmol/L)</span>
+                </label>
+                <div class="input-row">
+                    <input type="number" id="tgInput" step="0.01" min="0.1" placeholder="e.g. 0.7 例如 0.7" />
+                    <span class="badge-unit" id="tgBadgeUnit">mmol/L</span>
+                </div>
+                <div style="font-size:13px;color:#7a8aa3;margin-top:2px;" id="tgCutoffDisplay">Cutoff: ≤ 0.8 mmol/L (70 mg/dL) ｜ 切点: ≤ 0.8 mmol/L (70 mg/dL)</div>
+            </div>
+
+            <div class="ratio-display">
+                <span class="label">📊 Triglyceride : HDL ratio <span class="zh">甘油三酯 : HDL 比值</span></span>
+                <div class="value-box">
+                    <span class="num" id="ratioValue">—</span>
+                    <span class="cutoff" id="ratioCutoffDisplay">Cutoff ≤ 0.9 ｜ 切点 ≤ 0.9</span>
+                    <span class="status" id="ratioStatus">—</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- FLOWCHART -->
+        <div class="flowchart" id="flowchartContainer">
+            <!-- Row 1: HDL -->
+            <div class="flow-row">
+                <div class="flow-node" id="nodeHdl">
+                    <span class="main-text" id="hdlNodeText">HDL ≥ 1.3 mmol/L</span>
+                    <span class="zh-text" id="hdlNodeZh">高密度脂蛋白 ≥ 1.3 mmol/L</span>
+                    <span class="sub" id="hdlSub">52 mg/dL</span>
+                </div>
+                <span class="flow-arrow">→</span>
+            </div>
+
+            <!-- Branch labels for HDL -->
+            <div class="flow-branch" style="margin-top:-2px;margin-bottom:2px;">
+                <span class="branch-label" id="hdlYesLabel">✓ Yes <span class="zh">是</span></span>
+                <span style="color:#c5d0e0;padding:0 6px;">|</span>
+                <span class="branch-label" id="hdlNoLabel">✗ No <span class="zh">否</span></span>
+            </div>
+
+            <!-- Row 2: Triglyceride -->
+            <div class="flow-row">
+                <div class="flow-node" id="nodeTg">
+                    <span class="main-text" id="tgNodeText">Triglyceride ≤ 0.8 mmol/L</span>
+                    <span class="zh-text" id="tgNodeZh">甘油三酯 ≤ 0.8 mmol/L</span>
+                    <span class="sub" id="tgSub">70 mg/dL</span>
+                </div>
+                <span class="flow-arrow">→</span>
+            </div>
+
+            <!-- Branch labels for TG -->
+            <div class="flow-branch" style="margin-top:-2px;margin-bottom:2px;">
+                <span class="branch-label" id="tgYesLabel">✓ Yes <span class="zh">是</span></span>
+                <span style="color:#c5d0e0;padding:0 6px;">|</span>
+                <span class="branch-label" id="tgNoLabel">✗ No <span class="zh">否</span></span>
+            </div>
+
+            <!-- Row 3: Ratio -->
+            <div class="flow-row">
+                <div class="flow-node" id="nodeRatio">
+                    <span class="main-text" id="ratioNodeText">TG:HDL ratio ≤ 0.9</span>
+                    <span class="zh-text" id="ratioNodeZh">TG:HDL 比值 ≤ 0.9</span>
+                    <span class="sub" id="ratioSub">mmol/L</span>
+                </div>
+                <span class="flow-arrow">→</span>
+            </div>
+
+            <!-- Branch labels for Ratio -->
+            <div class="flow-branch" style="margin-top:-2px;margin-bottom:4px;">
+                <span class="branch-label" id="ratioYesLabel">✓ Yes <span class="zh">是</span></span>
+                <span style="color:#c5d0e0;padding:0 6px;">|</span>
+                <span class="branch-label" id="ratioNoLabel">✗ No <span class="zh">否</span></span>
+            </div>
+
+            <!-- Result -->
+            <div class="flow-row">
+                <div class="flow-node" id="nodeResult" style="min-width:200px;font-size:16px;padding:14px 24px;">
+                    <span class="main-text" id="resultText">—</span>
+                    <span class="zh-text" id="resultZh">—</span>
+                    <span class="sub" id="resultSub">awaiting values 等待输入</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Result Box -->
+        <div class="result-box" id="resultBox">
+            <div class="result-label">Final Interpretation <span class="zh">最终解读</span></div>
+            <div class="result-value" id="resultValue">—</div>
+            <div class="result-sub" id="resultSubText">
+                <span class="en">Enter HDL and triglyceride values to begin.</span>
+                <span class="zh">请输入 HDL 和甘油三酯数值开始。</span>
+            </div>
+        </div>
+
+        <div class="footnote">
+            <span class="en"><strong>ldLDL</strong> = large, buoyant LDL (less atherogenic) &nbsp;·&nbsp; <strong>sdLDL</strong> = small, dense LDL (more atherogenic, consider further evaluation)</span>
+            <span class="zh"><strong>ldLDL</strong> = 大而蓬松的 LDL（致动脉粥样硬化性较低）&nbsp;·&nbsp; <strong>sdLDL</strong> = 小而致密的 LDL（致动脉粥样硬化性较高，建议进一步评估）</span>
+        </div>
+    </div>
+
+    <script>
+        (function() {
+            // DOM refs
+            const hdlInput = document.getElementById('hdlInput');
+            const tgInput = document.getElementById('tgInput');
+            const ratioValueEl = document.getElementById('ratioValue');
+            const ratioStatusEl = document.getElementById('ratioStatus');
+            const ratioCutoffDisplay = document.getElementById('ratioCutoffDisplay');
+
+            const nodeHdl = document.getElementById('nodeHdl');
+            const nodeTg = document.getElementById('nodeTg');
+            const nodeRatio = document.getElementById('nodeRatio');
+            const nodeResult = document.getElementById('nodeResult');
+
+            const hdlSub = document.getElementById('hdlSub');
+            const tgSub = document.getElementById('tgSub');
+            const ratioSub = document.getElementById('ratioSub');
+
+            const hdlYesLabel = document.getElementById('hdlYesLabel');
+            const hdlNoLabel = document.getElementById('hdlNoLabel');
+            const tgYesLabel = document.getElementById('tgYesLabel');
+            const tgNoLabel = document.getElementById('tgNoLabel');
+            const ratioYesLabel = document.getElementById('ratioYesLabel');
+            const ratioNoLabel = document.getElementById('ratioNoLabel');
+
+            const resultText = document.getElementById('resultText');
+            const resultZh = document.getElementById('resultZh');
+            const resultSub = document.getElementById('resultSub');
+            const resultValue = document.getElementById('resultValue');
+            const resultSubText = document.getElementById('resultSubText');
+            const resultBox = document.getElementById('resultBox');
+
+            // Node text spans (main and zh)
+            const hdlNodeText = document.getElementById('hdlNodeText');
+            const hdlNodeZh = document.getElementById('hdlNodeZh');
+            const tgNodeText = document.getElementById('tgNodeText');
+            const tgNodeZh = document.getElementById('tgNodeZh');
+            const ratioNodeText = document.getElementById('ratioNodeText');
+            const ratioNodeZh = document.getElementById('ratioNodeZh');
+
+            // Unit display elements
+            const hdlUnitLabel = document.getElementById('hdlUnitLabel');
+            const tgUnitLabel = document.getElementById('tgUnitLabel');
+            const hdlBadgeUnit = document.getElementById('hdlBadgeUnit');
+            const tgBadgeUnit = document.getElementById('tgBadgeUnit');
+            const hdlCutoffDisplay = document.getElementById('hdlCutoffDisplay');
+            const tgCutoffDisplay = document.getElementById('tgCutoffDisplay');
+
+            // Unit toggle radios
+            const unitMmol = document.getElementById('unitMmol');
+            const unitMg = document.getElementById('unitMg');
+
+            // Conversion factors
+            const HDL_FACTOR = 38.67;   // mmol/L -> mg/dL
+            const TG_FACTOR = 88.57;    // mmol/L -> mg/dL
+
+            // Cutoffs
+            const CUTOFFS = {
+                mmol: {
+                    hdl: 1.3,
+                    tg: 0.8,
+                    ratio: 0.9
+                },
+                mg: {
+                    hdl: 52,
+                    tg: 70,
+                    ratio: 2.0
+                }
+            };
+
+            let currentUnit = 'mmol';
+
+            function getUnit() { return currentUnit; }
+
+            function convertValue(value, fromUnit, toUnit, type) {
+                if (fromUnit === toUnit) return value;
+                if (fromUnit === 'mmol' && toUnit === 'mg') {
+                    return type === 'hdl' ? value * HDL_FACTOR : value * TG_FACTOR;
+                } else if (fromUnit === 'mg' && toUnit === 'mmol') {
+                    return type === 'hdl' ? value / HDL_FACTOR : value / TG_FACTOR;
+                }
+                return value;
+            }
+
+            function getInputValues() {
+                const hdl = parseFloat(hdlInput.value);
+                const tg = parseFloat(tgInput.value);
+                return { hdl, tg };
+            }
+
+            function setInputValues(hdlVal, tgVal) {
+                hdlInput.value = isNaN(hdlVal) ? '' : hdlVal.toFixed(2);
+                tgInput.value = isNaN(tgVal) ? '' : tgVal.toFixed(2);
+            }
+
+            function clearActive() {
+                [nodeHdl, nodeTg, nodeRatio, nodeResult].forEach(el => {
+                    el.classList.remove('active', 'active-yes', 'active-no', 'result-ldl', 'result-sdl');
+                });
+                [hdlYesLabel, hdlNoLabel, tgYesLabel, tgNoLabel, ratioYesLabel, ratioNoLabel].forEach(el => {
+                    el.style.color = '#7a8aa3';
+                    el.style.fontWeight = '500';
+                });
+                ratioStatusEl.className = 'status';
+                ratioStatusEl.textContent = '—';
+            }
+
+            function update() {
+                const unit = getUnit();
+                const hdlVal = parseFloat(hdlInput.value);
+                const tgVal = parseFloat(tgInput.value);
+
+                const valid = !isNaN(hdlVal) && hdlVal > 0 && !isNaN(tgVal) && tgVal > 0;
+
+                const cutoffs = CUTOFFS[unit];
+                const hdlCutoff = cutoffs.hdl;
+                const tgCutoff = cutoffs.tg;
+                const ratioCutoff = cutoffs.ratio;
+
+                const unitLabel = unit === 'mmol' ? 'mmol/L' : 'mg/dL';
+                hdlUnitLabel.textContent = `(${unitLabel})`;
+                tgUnitLabel.textContent = `(${unitLabel})`;
+                hdlBadgeUnit.textContent = unitLabel;
+                tgBadgeUnit.textContent = unitLabel;
+
+                const otherUnit = unit === 'mmol' ? 'mg' : 'mmol';
+                const otherHdl = CUTOFFS[otherUnit].hdl;
+                const otherTg = CUTOFFS[otherUnit].tg;
+                hdlCutoffDisplay.textContent = `Cutoff: ≥ ${hdlCutoff} ${unitLabel} (${otherHdl} ${otherUnit === 'mmol' ? 'mmol/L' : 'mg/dL'}) ｜ 切点: ≥ ${hdlCutoff} ${unitLabel} (${otherHdl} ${otherUnit === 'mmol' ? 'mmol/L' : 'mg/dL'})`;
+                tgCutoffDisplay.textContent = `Cutoff: ≤ ${tgCutoff} ${unitLabel} (${otherTg} ${otherUnit === 'mmol' ? 'mmol/L' : 'mg/dL'}) ｜ 切点: ≤ ${tgCutoff} ${unitLabel} (${otherTg} ${otherUnit === 'mmol' ? 'mmol/L' : 'mg/dL'})`;
+
+                // Node main + zh
+                hdlNodeText.textContent = `HDL ≥ ${hdlCutoff} ${unitLabel}`;
+                hdlNodeZh.textContent = `高密度脂蛋白 ≥ ${hdlCutoff} ${unitLabel}`;
+                tgNodeText.textContent = `Triglyceride ≤ ${tgCutoff} ${unitLabel}`;
+                tgNodeZh.textContent = `甘油三酯 ≤ ${tgCutoff} ${unitLabel}`;
+                ratioNodeText.textContent = `TG:HDL ratio ≤ ${ratioCutoff}`;
+                ratioNodeZh.textContent = `TG:HDL 比值 ≤ ${ratioCutoff}`;
+
+                const otherHdlVal = unit === 'mmol' ? (hdlCutoff * HDL_FACTOR).toFixed(0) : (hdlCutoff / HDL_FACTOR).toFixed(2);
+                const otherTgVal = unit === 'mmol' ? (tgCutoff * TG_FACTOR).toFixed(0) : (tgCutoff / TG_FACTOR).toFixed(2);
+                hdlSub.textContent = unit === 'mmol' ? `${otherHdlVal} mg/dL` : `${otherHdlVal} mmol/L`;
+                tgSub.textContent = unit === 'mmol' ? `${otherTgVal} mg/dL` : `${otherTgVal} mmol/L`;
+                ratioSub.textContent = unit === 'mmol' ? `mmol/L · cutoff ${ratioCutoff}` : `mg/dL · cutoff ${ratioCutoff}`;
+
+                ratioCutoffDisplay.textContent = `Cutoff ≤ ${ratioCutoff} ｜ 切点 ≤ ${ratioCutoff}`;
+
+                if (!valid) {
+                    clearActive();
+                    nodeHdl.classList.add('active');
+                    nodeTg.classList.add('active');
+                    nodeRatio.classList.add('active');
+                    nodeResult.classList.remove('result-ldl', 'result-sdl');
+                    nodeResult.classList.add('active');
+                    resultText.textContent = '—';
+                    resultZh.textContent = '—';
+                    resultSub.textContent = 'awaiting values 等待输入';
+                    resultValue.textContent = '—';
+                    resultValue.className = 'result-value';
+                    resultSubText.innerHTML = '<span class="en">Enter HDL and triglyceride values to begin.</span><span class="zh">请输入 HDL 和甘油三酯数值开始。</span>';
+                    ratioValueEl.textContent = '—';
+                    ratioStatusEl.className = 'status';
+                    ratioStatusEl.textContent = '—';
+                    return;
+                }
+
+                const ratio = tgVal / hdlVal;
+                const hdlPass = hdlVal >= hdlCutoff;
+                const tgPass = tgVal <= tgCutoff;
+                const ratioPass = ratio <= ratioCutoff;
+
+                ratioValueEl.textContent = ratio.toFixed(3);
+                ratioStatusEl.textContent = ratioPass ? '✓ Pass 通过' : '✗ Fail 未通过';
+                ratioStatusEl.className = 'status ' + (ratioPass ? 'pass' : 'fail');
+
+                clearActive();
+
+                nodeHdl.classList.add('active');
+                if (hdlPass) {
+                    nodeHdl.classList.add('active-yes');
+                    hdlYesLabel.style.color = '#2a9d8f';
+                    hdlYesLabel.style.fontWeight = '700';
+                } else {
+                    nodeHdl.classList.add('active-no');
+                    hdlNoLabel.style.color = '#e76f51';
+                    hdlNoLabel.style.fontWeight = '700';
+                }
+
+                nodeTg.classList.add('active');
+                if (tgPass) {
+                    nodeTg.classList.add('active-yes');
+                    tgYesLabel.style.color = '#2a9d8f';
+                    tgYesLabel.style.fontWeight = '700';
+                } else {
+                    nodeTg.classList.add('active-no');
+                    tgNoLabel.style.color = '#e76f51';
+                    tgNoLabel.style.fontWeight = '700';
+                }
+
+                nodeRatio.classList.add('active');
+                if (ratioPass) {
+                    nodeRatio.classList.add('active-yes');
+                    ratioYesLabel.style.color = '#2a9d8f';
+                    ratioYesLabel.style.fontWeight = '700';
+                } else {
+                    nodeRatio.classList.add('active-no');
+                    ratioNoLabel.style.color = '#e76f51';
+                    ratioNoLabel.style.fontWeight = '700';
+                }
+
+                const isLdl = hdlPass && tgPass && ratioPass;
+                nodeResult.classList.remove('result-ldl', 'result-sdl');
+
+                if (isLdl) {
+                    nodeResult.classList.add('result-ldl');
+                    resultText.textContent = 'ldLDL';
+                    resultZh.textContent = '大而蓬松 LDL';
+                    resultSub.textContent = 'Pattern A ✓ 模式 A';
+                    resultValue.textContent = 'ldLDL';
+                    resultValue.className = 'result-value ldl';
+                    resultSubText.innerHTML = '<span class="en">Large, buoyant LDL particles · Less atherogenic</span><span class="zh">大而蓬松的 LDL 颗粒 · 致动脉粥样硬化性较低</span>';
+                    resultBox.style.borderColor = '#2a9d8f';
+                    resultBox.style.background = '#f2fbf8';
+                } else {
+                    nodeResult.classList.add('result-sdl');
+                    resultText.textContent = 'sdLDL';
+                    resultZh.textContent = '小而致密 LDL';
+                    resultSub.textContent = 'Pattern B ⚠ 模式 B';
+                    resultValue.textContent = 'sdLDL';
+                    resultValue.className = 'result-value sdl';
+                    resultSubText.innerHTML = '<span class="en">Small, dense LDL particles · More atherogenic — consider further evaluation</span><span class="zh">小而致密的 LDL 颗粒 · 致动脉粥样硬化性较高 — 建议进一步评估</span>';
+                    resultBox.style.borderColor = '#e76f51';
+                    resultBox.style.background = '#fdf5f2';
+                }
+            }
+
+            function onUnitChange() {
+                const newUnit = unitMmol.checked ? 'mmol' : 'mg';
+                if (newUnit === currentUnit) return;
+
+                const hdlVal = parseFloat(hdlInput.value);
+                const tgVal = parseFloat(tgInput.value);
+                const valid = !isNaN(hdlVal) && hdlVal > 0 && !isNaN(tgVal) && tgVal > 0;
+
+                let newHdl = hdlVal;
+                let newTg = tgVal;
+                if (valid) {
+                    newHdl = convertValue(hdlVal, currentUnit, newUnit, 'hdl');
+                    newTg = convertValue(tgVal, currentUnit, newUnit, 'tg');
+                }
+
+                currentUnit = newUnit;
+                setInputValues(newHdl, newTg);
+                update();
+            }
+
+            unitMmol.addEventListener('change', onUnitChange);
+            unitMg.addEventListener('change', onUnitChange);
+
+            hdlInput.addEventListener('input', update);
+            tgInput.addEventListener('input', update);
+            hdlInput.addEventListener('change', update);
+            tgInput.addEventListener('change', update);
+
+            currentUnit = 'mmol';
+            unitMmol.checked = true;
+            update();
+
+            hdlInput.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    tgInput.focus();
+                    e.preventDefault();
+                }
+            });
+            tgInput.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    tgInput.blur();
+                    e.preventDefault();
+                }
+            });
+        })();
+    </script>
+
+</body>
+</html>
