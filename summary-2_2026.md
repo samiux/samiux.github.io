@@ -54,6 +54,7 @@ Samiux
 二零二六年五月廿日，中国香港                 
 
 - [Dr. Paul Mason - 'The truth about high cholesterol'](https://www.youtube.com/watch?v=rdgS3PuSuyg)      
+- [Dr. Paul Mason - 'Blood tests on a ketogenic diet - what your cholesterol results mean'](https://www.youtube.com/watch?v=DXKJaQeteE0)      
 - [LDL Particle Pattern (LDL 颗粒模式)](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
 - [sdLDL Calculator](https://www.medlab.sg/)       
 - [Cholesterol and Triglyceride Unit Conversion](https://www.mdapp.co/cholesterol-conversion-calculator-600/)      
