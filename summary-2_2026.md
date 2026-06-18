@@ -88,7 +88,7 @@ Samiux
     <p>
     <img src="/images/health/2026/sdLDL_TG.png" >
     <p>
-    <img src="/images/health/2026/LDL_mortailty.png" >
+    <img src="/images/health/2026/LDL_mortality.png" >
     <p>
     <img src="/images/health/2026/dietary_fibre.png" >
     <p>
