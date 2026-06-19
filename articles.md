@@ -144,9 +144,10 @@
 - [The Blue Zones Myth: What They Really Eat - Belinda Fettke](https://www.youtube.com/watch?v=MKO0mMyessw)       
 - [The Real Mediterranean Diet Isn’t What You Think - Belinda Fettke](https://www.youtube.com/watch?v=_SV-BNUGqRA)       
 - [Dr. Paul Mason - How Fiber Causes Constipation and Bloating](https://www.youtube.com/watch?v=EDaCyObMEQM)       
-- [Dr. Paul Mason - ''Hard science on the real cause of heart disease - why you should avoid seed oils'](https://www.youtube.com/watch?v=-xCr3mvFCHM)        
+- [Dr. Paul Mason - 'Hard science on the real cause of heart disease - why you should avoid seed oils'](https://www.youtube.com/watch?v=-xCr3mvFCHM)        
 - [An Interview with Dr. Paul Mason - Dr. Mason answers questions about vegan and carnivore diets](https://www.youtube.com/watch?v=eEfAmhJxu34)      
 - [Dr Bikman: #1 INSULIN Trick Proven To Burn Fat Faster](https://www.youtube.com/watch?v=DTpFxon0aM4)     
+- [PAUL MASON f - HbA1c: carnivores show high level…due to longlife red blood cells](https://www.youtube.com/watch?v=YP03qVo48uk)      
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
