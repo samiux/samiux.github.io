@@ -197,6 +197,10 @@
 
 - [小白研究个案分析 2026-06-11](/case_study_20260611.md)       
 
+## 
+
+- [《致富心態》深度拆解 - Alina粵讀社](https://www.youtube.com/watch?v=RiuoUS3wBWg)      
+
 ## Music
 
 - [Smooth Jazz Harmony - Soulful Female Vocals & Gentle Love Lyrics to Calm Your Soul](https://www.youtube.com/watch?v=fFjDb1tdgv4&list=RDfFjDb1tdgv4&start_radio=1)      
