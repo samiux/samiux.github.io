@@ -154,6 +154,7 @@
 - [An Interview with Dr. Paul Mason - Dr. Mason answers questions about vegan and carnivore diets](https://www.youtube.com/watch?v=eEfAmhJxu34)      
 - [Dr Bikman: #1 INSULIN Trick Proven To Burn Fat Faster](https://www.youtube.com/watch?v=DTpFxon0aM4)     
 - [PAUL MASON f - HbA1c: carnivores show high level…due to longlife red blood cells](https://www.youtube.com/watch?v=YP03qVo48uk)      
+- [50% of Heart Attack Victims Had “Normal” Lab Results](https://www.youtube.com/watch?v=oQ4--K5kWLQ)       
 
 ## Lean Mass Hyper-Responders (LMHRs)
 
