@@ -175,5 +175,6 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 Samiux         
 二零二六年六月十六日，中国香港         
+更新 二零二六年六月廿一日，中国香港      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
