@@ -32,7 +32,7 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 基本上，这样的解读是与主流医学有所不同的，前沿医学不会只盯着 LDL 这个数据来判断血脂的治疗方向和方法，而是看以上的血脂三项，再另加入 Lp(a)，hs-CRP，颈动脉超声波 (CIMT) 及空腹胰岛素和 HOMA-IR 来加强判断的全面性及准确性，以方便制定进一步干预的策略。
 
-- [LDL 颗粒模式](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
+- [LDL 颗粒模式计算器](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
 
 ## 不可或缺的检查
 
