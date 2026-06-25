@@ -22,7 +22,9 @@
 - [x] 甘油三酯 (TG) 需要 ≤ 0.8
 - [x] TG/HDL 比值 需要 ≤ 0.9
 
-LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。(大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的)
+LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。
+
+大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的。另外 VLDL，IDL，LDL，Lp(a)，ldLDL，sdLDL 都含有 ApoB 的，所以近期流行主张要看 ApoB 的是不清晰的。为何会主张看 ApoB 呢？研其原因是有新药物嘛。
 
 如果以上有任何一项不对标的话，那就表示 sdLDL 偏多了，再加上环境许可的话就会被氧化成为有害的 oxLDL，这个是会令心血管患上斑块的物质。那就是代表心血管疾病的风险增加了。
 
