@@ -2,6 +2,13 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+```
+最终，不是我们说什么说服他人，而是因为他们因为理解而被说服。 
+
+约翰 麦斯威尔
+```
+
+
 ## 无奈
 
 近代的成就是科技进步，医疗进步，食物来源充足，生活条件改善，人口的死亡率下降。但是大部份的人群都是失能地、百病缠身地长寿，社会和个人的医疗负担越来越重。
