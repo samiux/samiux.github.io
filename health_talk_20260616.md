@@ -24,7 +24,7 @@
 
 除了血糖、血压、尿酸外，我们最最关心的是血脂了，毕竟这是死亡率相当高的慢性疾病。我们在胆固醇这个问题上已经被骗了超过 50 年了，从低脂高碳高糖饮食倡议以来，人们患有慢性疾病的更有增无减。
 
-血脂胆固醇报告主要看以下这三项。
+血脂胆固醇报告主要看以下这三项[1]。
 
 - [x] 高密度脂蛋白 (HDL) 需要 ≥ 1.3 
 - [x] 甘油三酯 (TG) 需要 ≤ 0.8
@@ -42,9 +42,9 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 基本上，这样的解读是与主流医学有所不同的，前沿医学不会只盯着 LDL 这个数据来判断血脂的治疗方向和方法，而是看以上的血脂三项，再另加入 Lp(a)，hs-CRP，颈动脉超声波 (CIMT) 及空腹胰岛素和 HOMA-IR 来加强判断的全面性及准确性，以方便制定进一步干预的策略。
 
-最近这几年最颠覆主流医学的研究及能量理论假设，就是瘦体高反应者 (LMHRs)，这是代谢非常健康及瘦身段的低碳高脂/生酮饮食人群。他们的 LDL 偏高/极高、HDL 非常高、甘油三酯极低。颠覆主流医学是因为他们的大数据大多是基于不太健康的人群而得出的，那些数据多是来自低脂高碳饮食 (且多为具有胰岛素阻抗) 的人群。
+最近这几年最颠覆主流医学的研究及能量理论假设，就是瘦体高反应者 (LMHRs)，这是代谢非常健康及瘦身段的低碳高脂/生酮饮食人群。他们的 LDL 偏高/极高、HDL 非常高、甘油三酯极低[2][5]。颠覆主流医学是因为他们的大数据大多是基于不太健康的人群而得出的，那些数据多是来自低脂高碳饮食 (且多为具有胰岛素阻抗) 的人群。
 
-有趣的是，LDL 并不是越低越好，有研究显示 LDL 介乎 2.0 - 4.0mmol/L 之间的死亡风险相对较低。若果 LDL 低于 2.0mmol/L 的风险相对显注地增加，越低风险越高，更值得注意的是其风险增加的幅度还比高于 4.0mmol/L 的还要高。当然这个数据必须同时亦要与多项数据一起来评估的。这就不惊讶为何服用他汀类药物治疗中的患者亦会死于心血管疾病了，而且他们的 LDL 水平控制得非常好，亦在理想/较佳范围内的。
+有趣的是，LDL 并不是越低越好，有研究显示 LDL 介乎 2.0 - 4.0mmol/L 之间的死亡风险相对较低[3]。若果 LDL 低于 2.0mmol/L 的风险相对显注地增加，越低风险越高，更值得注意的是其风险增加的幅度还比高于 4.0mmol/L 的还要高。当然这个数据必须同时亦要与多项数据一起来评估的。这就不惊讶为何服用他汀类药物治疗中的患者亦会死于心血管疾病了，而且他们的 LDL 水平控制得非常好，亦在理想/较佳范围内的。
 
 - [LDL 颗粒模式计算器](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
 
@@ -56,7 +56,7 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 Lp(a) 具有遗传基因的特性，大致上其数值变化不会太大的，其值越高就代表了心血管疾病的风险越高。但好消息是可以经过适当的饮食来减低其对身体的破坏性及其效率。基本上，每个人一生中都应该检查至少一次这个数据。
 
-有研究显示，若果 Lp(a) 高于 50mg/dL 的话，心血管疾病的风险就会增加。
+有研究显示，若果 Lp(a) 高于 50mg/dL 的话，心血管疾病的风险就会增加[4]。
 
 ### 高敏 C 反应蛋白 (hs-CRP)
 
@@ -212,5 +212,20 @@ Samiux
 
 - [The Cholesterol Code (2026) 胆固醇密码 2026 (将于 2026 年 7 月 18 日在油管首播)](https://www.youtube.com/watch?v=57Z8bUb1P94)  现可在指定国家/地区的 Amazon 付费收看或购买      
 - [Fat Fiction: The Hidden Dangers Of Low-Fat Diets 细说脂肪：低脂饮食的危害](https://www.youtube.com/watch?v=TUADs-CK7vI)        
+
+## Reference
+
+- [1] Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85. doi: 10.2337/diacare.23.11.1679. PMID: 11092292. https://www.researchgate.net/publication/12236146_Ratio_of_triglycerides_to_HDL_cholesterol_an_indicator_of_LDL_particle_size_in_patients_with_type_2_diabetes_and_normal_HDL_cholesterol_levels
+- [2] Increased low-density lipoprotein cholesterol on a low-carbohydrate diet in adults with normal but not high body weight: A meta-analysis
+https://doi.org/10.1016/j.ajcnut.2024.01.009
+Adrian Soto-Mota, Yuscely Flores-Jurado, Nicholas G Norwitz, David Feldman, Mark A Pereira, Goodarz Danaei, David S Ludwig
+- [3] Johannesen, C.D.L., Langsted, A., Mortensen, M.B., & Nordsestgaard, B.G. (2020). Association between low density lipoprotein and all cause and cause specific mortality in Denmark: prospective cohort study. BMJ, m4266
+https://www.bmj.com/content/371/bmj.m4266
+- [4] Lipoprotein(a)-Lowering by 50 mg/dL (105 nmol/L) May Be Needed to Reduce Cardiovascular Disease 20% in Secondary Prevention: A Population-Based Study
+https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312951
+Christian M. Madsen, Pia R. Kamstrup, Anne Langsted, Anette Varbo, and Børge G. Nordestgaard
+- [5] Budoff, M, Manubolu, V, Kinninger, A. et al. Carbohydrate Restriction-Induced Elevations in LDL-Cholesterol and Atherosclerosis: The KETO Trial. JACC Adv. 2024 Aug, 3 (8) .
+https://doi.org/10.1016/j.jacadv.2024.101109
+Matthew Budoff, MD Venkat S. Manubolu, MD April Kinninger, MPH Nicholas G. Norwitz, PhD David Feldman Thomas R. Wood, DM BCh, PhD Jonathan Fialkow, MD Ricardo Cury, MD Theodore Feldman, MD Khurram Nasir, MD, MPH
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
