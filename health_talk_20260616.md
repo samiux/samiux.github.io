@@ -217,7 +217,7 @@ Samiux
 - [The Cholesterol Code (2026) 胆固醇密码 2026 (将于 2026 年 7 月 18 日在油管首播)](https://www.youtube.com/watch?v=57Z8bUb1P94)  现可在指定国家/地区的 Amazon 付费收看或购买      
 - [Fat Fiction: The Hidden Dangers Of Low-Fat Diets 细说脂肪：低脂饮食的危害](https://www.youtube.com/watch?v=TUADs-CK7vI)        
 
-## Reference
+## 参考文献 (英语)
 
 - [1] Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85. doi: 10.2337/diacare.23.11.1679. PMID: 11092292. https://www.researchgate.net/publication/12236146_Ratio_of_triglycerides_to_HDL_cholesterol_an_indicator_of_LDL_particle_size_in_patients_with_type_2_diabetes_and_normal_HDL_cholesterol_levels
 - [2] Increased low-density lipoprotein cholesterol on a low-carbohydrate diet in adults with normal but not high body weight: A meta-analysis
