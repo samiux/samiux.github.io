@@ -214,7 +214,8 @@ Samiux
 ## 国内外专家解疑
 
 - [低密度升高一定要吃他汀吗 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/jG2ZRiNHPluBp-myAOsamQ)        
-- [This DISSOLVES Plaque & UNCLOGS Your Arteries Naturally - Dr. Sten Ekberg](https://www.youtube.com/watch?v=6Pcag6L9Qzg)       
+- [This DISSOLVES Plaque & UNCLOGS Your Arteries Naturally (YouTube) - Dr. Sten Ekberg](https://www.youtube.com/watch?v=6Pcag6L9Qzg)       
+- [断食对身体的影响 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/qBqhcnf85W1c7zIE1Y3Cag)       
 
 ## 纪录片 (油管视频，英语)
 
