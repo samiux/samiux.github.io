@@ -211,9 +211,10 @@ Samiux
 更新 二零二六年六月廿五日，中国香港      
 更新 二零二六年六月廿八日，中国香港      
 
-## 国内专家解疑
+## 国内外专家解疑
 
 - [低密度升高一定要吃他汀吗 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/jG2ZRiNHPluBp-myAOsamQ)        
+- [This DISSOLVES Plaque & UNCLOGS Your Arteries Naturally - Dr. Sten Ekberg](https://www.youtube.com/watch?v=6Pcag6L9Qzg)       
 
 ## 纪录片 (油管视频，英语)
 
