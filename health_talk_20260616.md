@@ -39,7 +39,7 @@
 
 ![TG/HDL 比值 (图二)](/images/health/2026/tg_hdl.png "TG/HDL 比值 (图二)")        
 
-LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。
+LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL (Pattern B) 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL (Pattern A) 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。
 
 大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的。另外 VLDL，IDL，LDL，Lp(a)，ldLDL，sdLDL 都含有 ApoB 的，所以近期流行主张要看 ApoB 的都是数据不清晰的。为何会主张看 ApoB 呢？究其原因是有新药物嘛。
 
