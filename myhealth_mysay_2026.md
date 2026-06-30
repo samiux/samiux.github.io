@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-## 原创文章
+## 原创研究文章
 
 - [细说健康地长寿](/health_talk_20260616.md)        
 
