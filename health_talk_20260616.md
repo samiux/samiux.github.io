@@ -226,17 +226,10 @@ Samiux
 
 ## 参考文献 (英语)
 
-- [1] Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85. doi: 10.2337/diacare.23.11.1679. PMID: 11092292. https://www.researchgate.net/publication/12236146_Ratio_of_triglycerides_to_HDL_cholesterol_an_indicator_of_LDL_particle_size_in_patients_with_type_2_diabetes_and_normal_HDL_cholesterol_levels
-- [2] Increased low-density lipoprotein cholesterol on a low-carbohydrate diet in adults with normal but not high body weight: A meta-analysis
-https://doi.org/10.1016/j.ajcnut.2024.01.009
-Adrian Soto-Mota, Yuscely Flores-Jurado, Nicholas G Norwitz, David Feldman, Mark A Pereira, Goodarz Danaei, David S Ludwig
-- [3] Johannesen, C.D.L., Langsted, A., Mortensen, M.B., & Nordsestgaard, B.G. (2020). Association between low density lipoprotein and all cause and cause specific mortality in Denmark: prospective cohort study. BMJ, m4266
-https://www.bmj.com/content/371/bmj.m4266
-- [4] Lipoprotein(a)-Lowering by 50 mg/dL (105 nmol/L) May Be Needed to Reduce Cardiovascular Disease 20% in Secondary Prevention: A Population-Based Study
-https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312951
-Christian M. Madsen, Pia R. Kamstrup, Anne Langsted, Anette Varbo, and Børge G. Nordestgaard
-- [5] Budoff, M, Manubolu, V, Kinninger, A. et al. Carbohydrate Restriction-Induced Elevations in LDL-Cholesterol and Atherosclerosis: The KETO Trial. JACC Adv. 2024 Aug, 3 (8) .
-https://doi.org/10.1016/j.jacadv.2024.101109
-Matthew Budoff, MD Venkat S. Manubolu, MD April Kinninger, MPH Nicholas G. Norwitz, PhD David Feldman Thomas R. Wood, DM BCh, PhD Jonathan Fialkow, MD Ricardo Cury, MD Theodore Feldman, MD Khurram Nasir, MD, MPH
+- [1] [Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85. doi: 10.2337/diacare.23.11.1679. PMID: 11092292.](https://www.researchgate.net/publication/12236146_Ratio_of_triglycerides_to_HDL_cholesterol_an_indicator_of_LDL_particle_size_in_patients_with_type_2_diabetes_and_normal_HDL_cholesterol_levels)         
+- [2] [Increased low-density lipoprotein cholesterol on a low-carbohydrate diet in adults with normal but not high body weight: A meta-analysis.  Adrian Soto-Mota, Yuscely Flores-Jurado, Nicholas G Norwitz, David Feldman, Mark A Pereira, Goodarz Danaei, David S Ludwig](https://doi.org/10.1016/j.ajcnut.2024.01.009)       
+- [3] [Johannesen, C.D.L., Langsted, A., Mortensen, M.B., & Nordsestgaard, B.G. (2020). Association between low density lipoprotein and all cause and cause specific mortality in Denmark: prospective cohort study. BMJ, m4266](https://www.bmj.com/content/371/bmj.m4266)       
+- [4] [Lipoprotein(a)-Lowering by 50 mg/dL (105 nmol/L) May Be Needed to Reduce Cardiovascular Disease 20% in Secondary Prevention: A Population-Based Study.  Christian M. Madsen, Pia R. Kamstrup, Anne Langsted, Anette Varbo, and Børge G. Nordestgaard](https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312951)       
+- [5] [Budoff, M, Manubolu, V, Kinninger, A. et al. Carbohydrate Restriction-Induced Elevations in LDL-Cholesterol and Atherosclerosis: The KETO Trial. JACC Adv. 2024 Aug, 3 (8) .  Matthew Budoff, MD Venkat S. Manubolu, MD April Kinninger, MPH Nicholas G. Norwitz, PhD David Feldman Thomas R. Wood, DM BCh, PhD Jonathan Fialkow, MD Ricardo Cury, MD Theodore Feldman, MD Khurram Nasir, MD, MPH](https://doi.org/10.1016/j.jacadv.2024.101109)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
