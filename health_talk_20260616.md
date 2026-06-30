@@ -59,8 +59,6 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 ![LDL 值与死亡风险的关系](/images/health/2026/LDL_mortality.png "LDL 值与死亡风险的关系")       
 
-- [LDL 颗粒模式计算器](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
-
 ## 不可或缺的检查
 
 除了甘油三酯及胆固醇的检测之外，还应至少包括以下项目。
@@ -224,6 +222,10 @@ Samiux
 更新 二零二六年六月廿一日，中国香港      
 更新 二零二六年六月廿五日，中国香港      
 更新 二零二六年六月廿八日，中国香港      
+
+## 计算器
+
+- [LDL 颗粒模式计算器](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
 
 ## 国内外专家解疑
 
