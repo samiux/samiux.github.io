@@ -37,7 +37,13 @@
 
 ![TG/HDL 比值与颗粒类型 (图一)](/images/health/2026/sdLDL_vs_ldLDL.png "TG/HDL 比值与颗粒类型 (图一)")        
 
+![高密度脂蛋白 (HDL)](/images/health/2026/hdl.png "高密度脂蛋白 (HDL)")      
+
+![甘油三酯 (TG)](/images/health/2026/tg.png "甘油三酯 (TG)")      
+
 ![TG/HDL 比值与颗粒类型 (图二)](/images/health/2026/tg_hdl.png "TG/HDL 比值与颗粒类型 (图二)")        
+
+![sdLDL 与 TG 比较](/images/health/2026/sdLDL_TG.png "sdLDL 与 TG 比较")      
 
 LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL (Pattern B) 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL (Pattern A) 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。
 
