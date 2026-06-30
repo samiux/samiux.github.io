@@ -93,7 +93,6 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 [x] 血压 > 135/85；      
 [x] 甘油三酯 > 1.5mmol/L；      
 [x] 高密度脂蛋白 < 1.0mmol/L。
-
 ```
 
 ## 饮食的重要
@@ -241,6 +240,7 @@ Samiux
 
 ## 国内外专家解疑
 
+- [Dr. Paul Mason: Rethinking Cholesterol & Blood Tests - Ep 116](https://www.youtube.com/watch?v=-YgskaiXa_M)     
 - [低密度升高一定要吃他汀吗 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/jG2ZRiNHPluBp-myAOsamQ)        
 - [This DISSOLVES Plaque & UNCLOGS Your Arteries Naturally (YouTube) - Dr. Sten Ekberg](https://www.youtube.com/watch?v=6Pcag6L9Qzg)       
 - [断食对身体的影响 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/qBqhcnf85W1c7zIE1Y3Cag)       
