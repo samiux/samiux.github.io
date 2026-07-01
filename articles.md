@@ -203,17 +203,9 @@
 - [LDL:ApoB Ratio Explain](https://siphoxhealth.com/hub/biomarkers-2/ldlapob-ratio)       
 - [LDL-C/ApoB Ratio Calculator](https://calculator.academy/ldl-c-apob-ratio-calculator/)       
 
-## 小白研究个案分析
-
-- [小白研究个案分析 2026-06-11](/case_study_20260611.md)       
-
 ## 雅俗共赏
 
-- [《致富心態》深度拆解 - Alina粵讀社](https://www.youtube.com/watch?v=RiuoUS3wBWg)      
-
-## Music
-
-- [Smooth Jazz Harmony - Soulful Female Vocals & Gentle Love Lyrics to Calm Your Soul](https://www.youtube.com/watch?v=fFjDb1tdgv4&list=RDfFjDb1tdgv4&start_radio=1)      
+- [《致富心態》深度拆解 - Alina粵讀社](https://www.youtube.com/watch?v=RiuoUS3wBWg)        
 
 ## 网络空间安全
 
