@@ -250,12 +250,12 @@ Samiux
 
 ## 国内外专家解疑
 
+- [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [Dr. Paul Mason: Rethinking Cholesterol & Blood Tests (YouTube) - Ep 116](https://www.youtube.com/watch?v=-YgskaiXa_M)     
 - [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide (YouTube) - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)       
 - [低密度升高一定要吃他汀吗 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/jG2ZRiNHPluBp-myAOsamQ)        
 - [This DISSOLVES Plaque & UNCLOGS Your Arteries Naturally (YouTube) - Dr. Sten Ekberg](https://www.youtube.com/watch?v=6Pcag6L9Qzg)       
 - [断食对身体的影响 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/qBqhcnf85W1c7zIE1Y3Cag)       
-- [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [Comparing NATURE-CT to KETO-CTA Plaque Progression? Not So Fast. (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=bnz4WwpFM1g)       
 - [It's Not Cholesterol. Inflammation Is What's Actually Causing Heart Disease (YouTube) - Mark Hyman, MD](https://www.youtube.com/watch?v=h4rCq1qX0fY)       
 - [Normal Cholesterol But Still Getting Heart Disease? Here's Why (YouTube) - Dr. Mark Hyman](https://www.youtube.com/watch?v=F7n4duUjplQ)      
@@ -267,7 +267,7 @@ Samiux
 - [The Cholesterol Code (2026) 胆固醇密码 2026 (将于 2026 年 7 月 18 日在油管首播)](https://www.youtube.com/watch?v=57Z8bUb1P94)  现可在指定国家/地区的 Amazon 付费收看或购买      
 - [Fat Fiction: The Hidden Dangers Of Low-Fat Diets 细说脂肪：低脂饮食的危害](https://www.youtube.com/watch?v=TUADs-CK7vI)        
 
-## 食物是良药 (油管视频，英语)
+## 天然真食物是良药 (油管视频，英语)
 
 - [Doctor Gets MS, Goes From Wheelchair to Biking 18 Miles in One Year (YouTube)](https://www.youtube.com/watch?v=Mg1KEBtYJoE)      
 
