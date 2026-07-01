@@ -256,6 +256,9 @@ Samiux
 - [This DISSOLVES Plaque & UNCLOGS Your Arteries Naturally (YouTube) - Dr. Sten Ekberg](https://www.youtube.com/watch?v=6Pcag6L9Qzg)       
 - [断食对身体的影响 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/qBqhcnf85W1c7zIE1Y3Cag)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
+- [Comparing NATURE-CT to KETO-CTA Plaque Progression? Not So Fast. (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=bnz4WwpFM1g)       
+- [It's Not Cholesterol. Inflammation Is What's Actually Causing Heart Disease (YouTube) - Mark Hyman, MD](https://www.youtube.com/watch?v=h4rCq1qX0fY)       
+- [Normal Cholesterol But Still Getting Heart Disease? Here's Why (YouTube) - Dr. Mark Hyman](https://www.youtube.com/watch?v=F7n4duUjplQ)      
 
 ## 纪录片 (油管视频，英语)
 
