@@ -250,7 +250,7 @@ Samiux
 
 ## 国内外专家解疑
 
-- [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
+- [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
 - [Dr. Paul Mason: Rethinking Cholesterol & Blood Tests (YouTube) - Ep 116](https://www.youtube.com/watch?v=-YgskaiXa_M)     
 - [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide (YouTube) - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)       
 - [低密度升高一定要吃他汀吗 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/jG2ZRiNHPluBp-myAOsamQ)        
@@ -259,7 +259,7 @@ Samiux
 - [Comparing NATURE-CT to KETO-CTA Plaque Progression? Not So Fast. (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=bnz4WwpFM1g)       
 - [It's Not Cholesterol. Inflammation Is What's Actually Causing Heart Disease (YouTube) - Mark Hyman, MD](https://www.youtube.com/watch?v=h4rCq1qX0fY)       
 - [Normal Cholesterol But Still Getting Heart Disease? Here's Why (YouTube) - Dr. Mark Hyman](https://www.youtube.com/watch?v=F7n4duUjplQ)      
-- [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
+- [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
 
