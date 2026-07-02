@@ -2,7 +2,7 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
-### 
+### 声明：以下内容并非医疗及营养建议，需要自行判断与取捨，这是你的权利。
 
 ```
 最终，不是我们说什么说服他人，而是因为他们因为理解而被说服。 
