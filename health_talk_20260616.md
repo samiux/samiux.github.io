@@ -2,6 +2,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+### 
+
 ```
 最终，不是我们说什么说服他人，而是因为他们因为理解而被说服。 
 
@@ -265,6 +267,7 @@ Samiux
 - [It's Not Cholesterol. Inflammation Is What's Actually Causing Heart Disease (YouTube) - Mark Hyman, MD](https://www.youtube.com/watch?v=h4rCq1qX0fY)       
 - [Normal Cholesterol But Still Getting Heart Disease? Here's Why (YouTube) - Dr. Mark Hyman](https://www.youtube.com/watch?v=F7n4duUjplQ)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
+- [Clogged Arteries Start With THIS — And FASTING Helps Fix It (YouTube) - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)      
 
 ## 纪录片 (油管视频，英语)
 
