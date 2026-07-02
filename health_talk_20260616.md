@@ -259,6 +259,7 @@ Samiux
 - [Comparing NATURE-CT to KETO-CTA Plaque Progression? Not So Fast. (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=bnz4WwpFM1g)       
 - [It's Not Cholesterol. Inflammation Is What's Actually Causing Heart Disease (YouTube) - Mark Hyman, MD](https://www.youtube.com/watch?v=h4rCq1qX0fY)       
 - [Normal Cholesterol But Still Getting Heart Disease? Here's Why (YouTube) - Dr. Mark Hyman](https://www.youtube.com/watch?v=F7n4duUjplQ)      
+- [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
 
 ## 纪录片 (油管视频，英语)
 
