@@ -189,7 +189,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 ![氧化的油酯与甘油三酯的关系](/images/health/2026/peroxide_oil.png "氧化的油酯与甘油三酯的关系")       
 
-迟了 40 多年后才被掘出的大型研究资料，它被埋藏在地下室的原因竟是研究人员对其研究结果失望，他的期望是证明植物油脂是优于动物油脂。其研究资料被整理之后发表了，并显示植物油脂会增加死亡率。
+迟了 40 多年后才被掘出的大型研究资料，它被埋藏在地下室的原因竟是研究人员对其研究结果失望，他的期望是证明植物油脂是优于动物油脂。其研究资料被整理之后发表了，并显示植物油脂会增加死亡率。[6][7]
 
 ## 忠告
 
@@ -288,5 +288,7 @@ Samiux
 - [3] [Johannesen, C.D.L., Langsted, A., Mortensen, M.B., & Nordsestgaard, B.G. (2020). Association between low density lipoprotein and all cause and cause specific mortality in Denmark: prospective cohort study. BMJ, m4266](https://www.bmj.com/content/371/bmj.m4266)       
 - [4] [Lipoprotein(a)-Lowering by 50 mg/dL (105 nmol/L) May Be Needed to Reduce Cardiovascular Disease 20% in Secondary Prevention: A Population-Based Study.  Christian M. Madsen, Pia R. Kamstrup, Anne Langsted, Anette Varbo, and Børge G. Nordestgaard](https://www.ahajournals.org/doi/10.1161/ATVBAHA.119.312951)       
 - [5] [Budoff, M, Manubolu, V, Kinninger, A. et al. Carbohydrate Restriction-Induced Elevations in LDL-Cholesterol and Atherosclerosis: The KETO Trial. JACC Adv. 2024 Aug, 3 (8) .  Matthew Budoff, MD Venkat S. Manubolu, MD April Kinninger, MPH Nicholas G. Norwitz, PhD David Feldman Thomas R. Wood, DM BCh, PhD Jonathan Fialkow, MD Ricardo Cury, MD Theodore Feldman, MD Khurram Nasir, MD, MPH](https://doi.org/10.1016/j.jacadv.2024.101109)       
+- [6] [Records Found in Dusty Basement Undermine Decades of Dietary Advice](https://www.scientificamerican.com/article/records-found-in-dusty-basement-undermine-decades-of-dietary-advice/)         
+- [7] [Records found in dusty basement undermine decades of dietary advice](https://www.statnews.com/2016/04/12/unearthed-data-challenge-dietary-advice/)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
