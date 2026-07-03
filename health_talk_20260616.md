@@ -269,6 +269,7 @@ Samiux
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [Clogged Arteries Start With THIS — And FASTING Helps Fix It (YouTube) - Dr. Pradip Jamnadas](https://www.youtube.com/watch?v=REYKAre-HYY)      
 - [The Biggest Lies You’ve Been Told About Diet That Cause Brain Disease (Eat This) (YouTube) - Dr. Georgia Ede](https://www.youtube.com/watch?v=nHxaxMQe4xA)       
+- [Stronger Bones After 50? Isabella Cooper's Osteocalcin Secret (YouTube)](https://www.youtube.com/watch?v=BNShB15hEKE)      
 
 ## 纪录片 (油管视频，英语)
 
