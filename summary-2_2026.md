@@ -104,6 +104,8 @@ Samiux
     <p>
     <img src="/images/health/2026/LMHRs.jpg" >
     <p>
+    <img src="/images/health/2026/HbA1c_high_health.jpg" >
+    <p>
     <img src="/images/health/2026/HbA1c_high_a.png" >
     <p>
     <img src="/images/health/2026/HbA1c_high_b.png" >
