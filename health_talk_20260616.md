@@ -195,6 +195,9 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 
 ![HbA1c 指数](/images/health/2026/HbA1c_high_health.jpg "HbA1c 指数")        
+![HbA1c](/images/health/2026/HbA1c_high_a.png "HbA1c")        
+![HbA1c](/images/health/2026/HbA1c_high_b.png "HbA1c")        
+![HbA1c](/images/health/2026/HbA1c_high_c.png "HbA1c")        
 
 ## 忠告
 
