@@ -303,7 +303,7 @@ Samiux
 
 ## 天然真食物是良药 (油管视频，英语)
 
-- [Doctor Gets MS, Goes From Wheelchair to Biking 18 Miles in One Year (YouTube)](https://www.youtube.com/watch?v=Mg1KEBtYJoE)      
+- [Doctor Gets MS, Goes From Wheelchair to Biking 18 Miles in One Year](https://www.youtube.com/watch?v=Mg1KEBtYJoE)      
 
 ## 参考文献 (英语)
 
