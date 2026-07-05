@@ -191,6 +191,11 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 迟了 40 多年后才被掘出的大型研究资料，它被埋藏在地下室的原因竟是研究人员对其研究结果失望，他的期望是证明植物油脂是优于动物油脂。其研究资料被整理之后发表了，并显示植物油脂会增加死亡率。[6][7]
 
+## 
+
+
+![HbA1c 指数](/images/health/2026/HbA1c_high_health.jpg "HbA1c 指数")        
+
 ## 忠告
 
 最后，除了适当的饮食外，还要有适量日间的户外运动、压力和情绪的管理、充足的睡眠与休息，身体就会越趋健康了。另外，保持适当的体脂率及肌肉量是非常重要的。不失能地、健康地长寿，寿终正寝并不是梦。
@@ -295,5 +300,7 @@ Samiux
 - [5] [Budoff, M, Manubolu, V, Kinninger, A. et al. Carbohydrate Restriction-Induced Elevations in LDL-Cholesterol and Atherosclerosis: The KETO Trial. JACC Adv. 2024 Aug, 3 (8) .  Matthew Budoff, MD Venkat S. Manubolu, MD April Kinninger, MPH Nicholas G. Norwitz, PhD David Feldman Thomas R. Wood, DM BCh, PhD Jonathan Fialkow, MD Ricardo Cury, MD Theodore Feldman, MD Khurram Nasir, MD, MPH](https://doi.org/10.1016/j.jacadv.2024.101109)       
 - [6] [Records Found in Dusty Basement Undermine Decades of Dietary Advice](https://www.scientificamerican.com/article/records-found-in-dusty-basement-undermine-decades-of-dietary-advice/)         
 - [7] [Records found in dusty basement undermine decades of dietary advice](https://www.statnews.com/2016/04/12/unearthed-data-challenge-dietary-advice/)        
+- [8] [Red cell life span heterogeneity in hematologically normal people is sufficient to alter HbA1c. Robert M. Cohen, Robert S. Franco, Paramjit K. Khera, Eric P. Smith, Christopher J. Lindsell, Peter J. Ciraolo, Mary B. Palascak, Clinton H. Joiner](https://ashpublications.org/blood/article/112/10/4284/24606/Red-cell-life-span-heterogeneity-in)       
+- [9] [The influence of shorter red blood cell lifespan on the rate of HbA1c target achieved in type 2 diabetes patients with a HbA1c detection value lower than 7%. Junmei Wang, Li Zhang, Yu bai, Xinli Wang, Weilin Wang, Jing Li, Saijun Zhou](https://pmc.ncbi.nlm.nih.gov/articles/PMC9870739/)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
