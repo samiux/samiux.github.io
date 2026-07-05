@@ -316,5 +316,6 @@ Samiux
 - [8] [Red cell life span heterogeneity in hematologically normal people is sufficient to alter HbA1c. Robert M. Cohen, Robert S. Franco, Paramjit K. Khera, Eric P. Smith, Christopher J. Lindsell, Peter J. Ciraolo, Mary B. Palascak, Clinton H. Joiner](https://ashpublications.org/blood/article/112/10/4284/24606/Red-cell-life-span-heterogeneity-in)       
 - [9] [The influence of shorter red blood cell lifespan on the rate of HbA1c target achieved in type 2 diabetes patients with a HbA1c detection value lower than 7%. Junmei Wang, Li Zhang, Yu bai, Xinli Wang, Weilin Wang, Jing Li, Saijun Zhou](https://pmc.ncbi.nlm.nih.gov/articles/PMC9870739/)       
 - [10] [Carbohydrate Ingestion on Exercise Metabolism and Physical Performance.  Timothy D Noakes, Philip Prins, Alex Buga, Dominic P D'Agostino, Jeff S Volek, Koutnik Andrew](https://www.researchgate.net/publication/399955614_Carbohydrate_Ingestion_on_Exercise_Metabolism_and_Physical_Performance)          
+- [11] [Non-genetic influences on lipoprotein(a) concentrations.  Byambaa Enkhmaaa, Lars Berglund](https://www.atherosclerosis-journal.com/article/S0021-9150(22)00183-6/fulltext)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
