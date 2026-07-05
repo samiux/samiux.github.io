@@ -191,13 +191,16 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 迟了 40 多年后才被掘出的大型研究资料，它被埋藏在地下室的原因竟是研究人员对其研究结果失望，他的期望是证明植物油脂是优于动物油脂。其研究资料被整理之后发表了，并显示植物油脂会增加死亡率。[6][7]
 
-## 
+## 糖化血红蛋白 (HbA1c)
 
+普遍人群 (低脂饮食) 的红血球寿命大概 80-90 天左右，而糖尿病患者或前期患者的红血球寿命或会少于 80 天，但无糖低碳、高脂低碳、生酮、纯肉饮食的人群的红血球寿命会超过 80-90 天，亦有些人更达 145 天之久。[8][9]
 
-![HbA1c 指数](/images/health/2026/HbA1c_high_health.jpg "HbA1c 指数")        
-![HbA1c](/images/health/2026/HbA1c_high_a.png "HbA1c")        
-![HbA1c](/images/health/2026/HbA1c_high_b.png "HbA1c")        
-![HbA1c](/images/health/2026/HbA1c_high_c.png "HbA1c")        
+当红血球寿命长了，那在其依附的葡萄糖就会多了，即被糖化的机会多了，其 HbA1c 的结果就会比主流医学的标准要高，所以有些不了解的医生或人群就会误会为糖尿病前期或糖尿病。
+
+![HbA1c 指数比较](/images/health/2026/HbA1c_high_health.jpg "HbA1c 指数比较")        
+![HbA1c 反馈一](/images/health/2026/HbA1c_high_a.png "HbA1c 反馈一")        
+![HbA1c 反馈二](/images/health/2026/HbA1c_high_b.png "HbA1c 反馈二")        
+![HbA1c 反馈三](/images/health/2026/HbA1c_high_c.png "HbA1c 反馈三")        
 
 ## 忠告
 
