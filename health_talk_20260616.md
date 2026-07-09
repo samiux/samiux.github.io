@@ -289,6 +289,7 @@ Samiux
 - [NEW 2026 Study Proves Our Bodies Are Not Designed To Run on Carbs (YouTube) - Prof Tim Noakes](https://www.youtube.com/watch?v=PoSIqBgAl14)       
 - [2,000 Hours of Heart Health Research in 21 Minutes (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=rTFVZ_9evgU)       
 - [The Great Cholesterol Myth - Dr. David Jockers](https://drjockers.com/cholesterol-myth/)       
+- [Peer-Reviewed Results of First-Ever Randomized Controlled Trial of Ketogenic Diet in Schizophrenia-Spectrum and Bipolar I Disorder - Metabolic Mind](https://www.metabolicmind.org/trials/featured-post/peer-reviewed-results-of-first-ever-randomized-controlled-trial-of-ketogenic-diet-in-schizophrenia-spectrum-and-bipolar-i-disorder/)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
