@@ -271,6 +271,7 @@ Samiux
 ## 计算器
 
 - [LDL 颗粒模式计算器](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
+- [血糖总量计算器](/html/Blood_Glucose_Mass_Calculator.html)      
 
 ## 国内外专家解疑
 
