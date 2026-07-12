@@ -29,6 +29,7 @@
 - [脉压差计算器](/html/blood_pressure_calculator.html)        
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
+- [血糖总量计算器](/html/Blood_Glucose_Mass_Calculator.html)      
 
 #### 其他计算器
 
