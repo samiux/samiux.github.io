@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>血糖总量计算器 · 血液 vs ECF 对比</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet" />
+
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fc;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+            margin: 0;
+            color: #1a1f36;
+        }
+
+        .card {
+            max-width: 820px;
+            width: 100%;
+            background: #ffffff;
+            border-radius: 32px;
+            box-shadow: 0 20px 60px rgba(26, 31, 54, 0.08), 0 8px 24px rgba(26, 31, 54, 0.04);
+            padding: 40px 44px 48px;
+        }
+
+        @media (max-width: 480px) {
+            .card {
+                padding: 28px 20px 32px;
+                border-radius: 24px;
+            }
+        }
+
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 28px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .title-group h1 {
+            font-size: 26px;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+            line-height: 1.2;
+            color: #0b1120;
+        }
+
+        .title-group .subtitle {
+            font-size: 15px;
+            font-weight: 400;
+            color: #5e6f8d;
+            margin-top: 4px;
+        }
+
+        .lang-toggle {
+            display: flex;
+            background: #f0f3f9;
+            border-radius: 100px;
+            padding: 4px;
+            border: 1px solid #e6ecf3;
+            flex-shrink: 0;
+        }
+
+        .lang-toggle button {
+            border: none;
+            background: transparent;
+            font-size: 13px;
+            font-weight: 600;
+            padding: 6px 18px;
+            border-radius: 100px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: #5e6f8d;
+            font-family: inherit;
+        }
+
+        .lang-toggle button.active {
+            background: #ffffff;
+            color: #0b1120;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        /* Formula banner */
+        .formula-banner {
+            background: #f8faff;
+            border: 1px solid #e9eef6;
+            border-radius: 16px;
+            padding: 18px 22px;
+            margin-bottom: 28px;
+        }
+
+        .formula-banner .formula-row {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px 16px;
+        }
+
+        .formula-banner .label {
+            font-size: 13px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #4a5a7a;
+        }
+
+        .formula-banner .math {
+            font-family: 'Inter', monospace;
+            font-size: 18px;
+            font-weight: 600;
+            color: #0b1120;
+            background: #ffffff;
+            padding: 4px 16px;
+            border-radius: 40px;
+            border: 1px solid #e6ecf3;
+        }
+
+        .formula-banner .math .highlight {
+            color: #2a6df4;
+        }
+
+        .formula-banner .note {
+            font-size: 13px;
+            color: #5e6f8d;
+            margin-left: auto;
+        }
+
+        .formula-banner .compare-note {
+            margin-top: 10px;
+            padding: 12px 16px;
+            background: #eef4ff;
+            border-radius: 12px;
+            font-size: 14px;
+            color: #1f3a7a;
+            border-left: 4px solid #2a6df4;
+            line-height: 1.6;
+        }
+
+        .formula-banner .compare-note strong {
+            color: #0b1120;
+        }
+
+        @media (max-width: 500px) {
+            .formula-banner .math {
+                font-size: 15px;
+                padding: 4px 12px;
+            }
+            .formula-banner .note {
+                margin-left: 0;
+                width: 100%;
+            }
+        }
+
+        /* Inputs */
+        .input-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px 24px;
+            margin-bottom: 28px;
+        }
+
+        @media (max-width: 480px) {
+            .input-grid {
+                grid-template-columns: 1fr;
+                gap: 16px;
+            }
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .input-group label {
+            font-size: 14px;
+            font-weight: 600;
+            color: #1f2a44;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .input-group label .unit {
+            font-weight: 400;
+            font-size: 13px;
+            color: #6b7d9c;
+        }
+
+        .input-group .field-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .input-group .field-wrapper .prefix {
+            position: absolute;
+            left: 16px;
+            font-size: 15px;
+            font-weight: 500;
+            color: #8a9bb8;
+            pointer-events: none;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 14px 18px 14px 36px;
+            font-size: 18px;
+            font-weight: 500;
+            font-family: 'Inter', monospace;
+            border: 2px solid #e2e8f0;
+            border-radius: 16px;
+            background: #fafcff;
+            color: #0b1120;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            outline: none;
+        }
+
+        .input-group input:focus {
+            border-color: #2a6df4;
+            box-shadow: 0 0 0 4px rgba(42, 109, 244, 0.10);
+            background: #ffffff;
+        }
+
+        .input-group input::placeholder {
+            color: #b0c0d8;
+            font-weight: 400;
+            font-size: 16px;
+        }
+
+        .input-group .hint {
+            font-size: 13px;
+            color: #7a8ba8;
+            margin-top: 2px;
+        }
+
+        /* Results */
+        .results-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-top: 6px;
+            margin-bottom: 16px;
+        }
+
+        @media (max-width: 500px) {
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .result-card {
+            background: #f8fbff;
+            border-radius: 20px;
+            padding: 20px 22px;
+            border: 1px solid #e6edf8;
+            transition: background 0.2s;
+        }
+
+        .result-card.ecf {
+            background: linear-gradient(145deg, #f0f5fe, #e8effa);
+            border-color: #c8d9f0;
+        }
+
+        .result-card.blood {
+            background: #fafcff;
+            border-color: #e2e8f0;
+        }
+
+        .result-card .result-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
+
+        .result-card .result-header .badge {
+            font-size: 12px;
+            font-weight: 600;
+            padding: 2px 12px;
+            border-radius: 40px;
+            letter-spacing: 0.3px;
+        }
+
+        .result-card .result-header .badge.ecf-badge {
+            background: #dce5f5;
+            color: #1f3a7a;
+        }
+
+        .result-card .result-header .badge.blood-badge {
+            background: #e6ecf3;
+            color: #3d4f72;
+        }
+
+        .result-card .result-header .label-text {
+            font-size: 14px;
+            font-weight: 500;
+            color: #2a3a5c;
+        }
+
+        .result-card .result-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #0b1120;
+            display: flex;
+            align-items: baseline;
+            gap: 6px;
+        }
+
+        .result-card .result-value .num {
+            color: #1a4fcf;
+        }
+
+        .result-card .result-value .num.blood-num {
+            color: #4a5a7a;
+        }
+
+        .result-card .result-value .unit-g {
+            font-size: 18px;
+            font-weight: 600;
+            color: #3d4f72;
+        }
+
+        .result-card .result-value .placeholder {
+            font-weight: 400;
+            font-size: 20px;
+            color: #8a9bb8;
+        }
+
+        .result-card .result-detail {
+            margin-top: 6px;
+            font-size: 13px;
+            color: #5e6f8d;
+            border-top: 1px dashed #dce5f0;
+            padding-top: 8px;
+        }
+
+        .result-card .result-detail .formula-small {
+            font-family: 'Inter', monospace;
+            font-size: 13px;
+            background: #ffffffb0;
+            padding: 2px 10px;
+            border-radius: 12px;
+            display: inline-block;
+            margin-top: 2px;
+        }
+
+        /* Comparison explanation */
+        .comparison-box {
+            background: #f2f6fe;
+            border-radius: 16px;
+            padding: 18px 22px;
+            margin-top: 12px;
+            border: 1px solid #e0e9f5;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px 20px;
+        }
+
+        .comparison-box .diff-label {
+            font-weight: 600;
+            font-size: 14px;
+            color: #1f3a7a;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .comparison-box .diff-value {
+            font-size: 20px;
+            font-weight: 700;
+            color: #0b1120;
+            background: #ffffff;
+            padding: 2px 18px;
+            border-radius: 40px;
+            border: 1px solid #d0dff0;
+        }
+
+        .comparison-box .diff-note {
+            font-size: 13px;
+            color: #4a5a7a;
+            margin-left: auto;
+        }
+
+        @media (max-width: 500px) {
+            .comparison-box .diff-note {
+                margin-left: 0;
+                width: 100%;
+            }
+            .result-card .result-value {
+                font-size: 28px;
+            }
+        }
+
+        /* Footer */
+        .footer-note {
+            margin-top: 24px;
+            font-size: 13px;
+            color: #6f80a0;
+            text-align: center;
+            border-top: 1px solid #edf2f9;
+            padding-top: 20px;
+            line-height: 1.6;
+        }
+
+        .footer-note strong {
+            color: #2a3a5c;
+            font-weight: 600;
+        }
+
+        /* Utilities */
+        input[type="number"]::-webkit-outer-spin-button,
+        input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card">
+        <!-- HEADER -->
+        <div class="header">
+            <div class="title-group">
+                <h1 id="mainTitle">血糖总量计算器</h1>
+                <div class="subtitle" id="mainSubtitle">血液 vs 细胞外液 (ECF) 对比</div>
+            </div>
+            <div class="lang-toggle" role="group">
+                <button class="active" data-lang="zh" id="langZh">中文</button>
+                <button data-lang="en" id="langEn">EN</button>
+            </div>
+        </div>
+
+        <!-- FORMULA BANNER -->
+        <div class="formula-banner">
+            <div class="formula-row">
+                <span class="label" id="formulaLabel">公式</span>
+                <span class="math" id="mathEcf">总量 ECF = 血糖 × 0.18 × 体重 × 0.2</span>
+                <span class="note" id="formulaNoteEcf">(ECF 容积 ~20% 体重)</span>
+            </div>
+            <div class="formula-row" style="margin-top: 6px;">
+                <span class="label" id="formulaLabelBlood" style="opacity:0.7;">对比</span>
+                <span class="math" id="mathBlood">血液中 = 血糖 × 0.18 × 体重 × 0.07</span>
+                <span class="note" id="formulaNoteBlood">(血液容积 ~7% 体重)</span>
+            </div>
+            <div class="compare-note" id="compareNote">
+                <strong>📊 生理学差异：</strong>
+                葡萄糖主要分布于细胞外液 (ECF)，而血液仅占其中一小部分。
+                使用 <strong>ECF 容积 (20% 体重)</strong> 更准确反映全身葡萄糖总量；
+                若仅按 <strong>血液容积 (7% 体重)</strong> 计算，会严重低估 (约低估 65%)。
+            </div>
+        </div>
+
+        <!-- INPUTS -->
+        <div class="input-grid">
+            <div class="input-group">
+                <label for="glucoseInput">
+                    <span id="glucoseLabel">血糖浓度</span>
+                    <span class="unit" id="glucoseUnit">(mmol/L)</span>
+                </label>
+                <div class="field-wrapper">
+                    <span class="prefix" id="glucosePrefix">G</span>
+                    <input type="number" id="glucoseInput" placeholder="e.g. 10" step="0.1" min="0" />
+                </div>
+                <span class="hint" id="glucoseHint">参考范围：3.9 – 11.1 mmol/L</span>
+            </div>
+
+            <div class="input-group">
+                <label for="weightInput">
+                    <span id="weightLabel">体重</span>
+                    <span class="unit" id="weightUnit">(kg)</span>
+                </label>
+                <div class="field-wrapper">
+                    <span class="prefix" id="weightPrefix">W</span>
+                    <input type="number" id="weightInput" placeholder="e.g. 70" step="0.5" min="0" />
+                </div>
+                <span class="hint" id="weightHint">成人参考：50 – 100 kg</span>
+            </div>
+        </div>
+
+        <!-- RESULTS -->
+        <div class="results-grid">
+            <!-- ECF 结果 -->
+            <div class="result-card ecf">
+                <div class="result-header">
+                    <span class="badge ecf-badge" id="ecfBadge">ECF 分布</span>
+                    <span class="label-text" id="ecfLabel">全身总量 (估算)</span>
+                </div>
+                <div class="result-value">
+                    <span class="num" id="ecfNumber">—</span>
+                    <span class="unit-g">g</span>
+                </div>
+                <div class="result-detail">
+                    <span id="ecfDetail">公式：血糖 × 0.18 × 体重 × 0.2</span>
+                </div>
+            </div>
+
+            <!-- 血液 结果 -->
+            <div class="result-card blood">
+                <div class="result-header">
+                    <span class="badge blood-badge" id="bloodBadge">血液中</span>
+                    <span class="label-text" id="bloodLabel">血液中总量 (估算)</span>
+                </div>
+                <div class="result-value">
+                    <span class="num blood-num" id="bloodNumber">—</span>
+                    <span class="unit-g">g</span>
+                </div>
+                <div class="result-detail">
+                    <span id="bloodDetail">公式：血糖 × 0.18 × 体重 × 0.07</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 差异对比 -->
+        <div class="comparison-box" id="comparisonBox">
+            <span class="diff-label" id="diffLabel">🔍 差异 (ECF − 血液)</span>
+            <span class="diff-value" id="diffValue">—</span>
+            <span class="diff-note" id="diffNote">血液仅占 ECF 总量约 35%</span>
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer-note" id="footerNote">
+            <strong>生理学依据：</strong>
+            葡萄糖分布于细胞外液 (ECF)，约占体重的 20% (0.2 L/kg)。
+            血液容积约占体重的 7% (0.07 L/kg)，仅反映循环中的葡萄糖，忽略组织间液。
+            公式：<strong>总量 (g) = 血糖 (mmol/L) × 0.18 × 体重 (kg) × 容积系数</strong>
+        </div>
+    </div>
+
+    <script>
+        (function() {
+            'use strict';
+
+            // DOM refs
+            const glucoseInput = document.getElementById('glucoseInput');
+            const weightInput = document.getElementById('weightInput');
+
+            const ecfNumber = document.getElementById('ecfNumber');
+            const bloodNumber = document.getElementById('bloodNumber');
+            const diffValue = document.getElementById('diffValue');
+
+            // i18n 映射
+            const i18n = {
+                mainTitle: { zh: '血糖总量计算器', en: 'Blood Glucose Mass Calculator' },
+                mainSubtitle: { zh: '血液 vs 细胞外液 (ECF) 对比', en: 'Blood vs Extracellular Fluid (ECF) Comparison' },
+                formulaLabel: { zh: '公式', en: 'Formula' },
+                mathEcf: { zh: '总量 ECF = 血糖 × 0.18 × 体重 × 0.2', en: 'Mass ECF = Glucose × 0.18 × Weight × 0.2' },
+                formulaNoteEcf: { zh: '(ECF 容积 ~20% 体重)', en: '(ECF volume ~20% body weight)' },
+                formulaLabelBlood: { zh: '对比', en: 'Compare' },
+                mathBlood: { zh: '血液中 = 血糖 × 0.18 × 体重 × 0.07', en: 'Blood = Glucose × 0.18 × Weight × 0.07' },
+                formulaNoteBlood: { zh: '(血液容积 ~7% 体重)', en: '(Blood volume ~7% body weight)' },
+                compareNote: {
+                    zh: '<strong>📊 生理学差异：</strong>葡萄糖主要分布于细胞外液 (ECF)，而血液仅占其中一小部分。使用 <strong>ECF 容积 (20% 体重)</strong> 更准确反映全身葡萄糖总量；若仅按 <strong>血液容积 (7% 体重)</strong> 计算，会严重低估 (约低估 65%)。',
+                    en: '<strong>📊 Physiological difference:</strong> Glucose is mainly distributed in extracellular fluid (ECF), with blood being only a small fraction. Using <strong>ECF volume (20% body weight)</strong> more accurately reflects total body glucose; calculating with <strong>blood volume (7% body weight)</strong> significantly underestimates (by ~65%).'
+                },
+                glucoseLabel: { zh: '血糖浓度', en: 'Glucose Concentration' },
+                glucoseUnit: { zh: '(mmol/L)', en: '(mmol/L)' },
+                glucosePrefix: { zh: 'G', en: 'G' },
+                glucoseHint: { zh: '参考范围：3.9 – 11.1 mmol/L', en: 'Ref. range: 3.9 – 11.1 mmol/L' },
+                weightLabel: { zh: '体重', en: 'Body Weight' },
+                weightUnit: { zh: '(kg)', en: '(kg)' },
+                weightPrefix: { zh: 'W', en: 'W' },
+                weightHint: { zh: '成人参考：50 – 100 kg', en: 'Adult ref.: 50 – 100 kg' },
+                ecfBadge: { zh: 'ECF 分布', en: 'ECF Distributed' },
+                ecfLabel: { zh: '全身总量 (估算)', en: 'Total Body Mass (Est.)' },
+                ecfDetail: { zh: '公式：血糖 × 0.18 × 体重 × 0.2', en: 'Formula: Glucose × 0.18 × Weight × 0.2' },
+                bloodBadge: { zh: '血液中', en: 'In Blood' },
+                bloodLabel: { zh: '血液中总量 (估算)', en: 'Blood Mass (Est.)' },
+                bloodDetail: { zh: '公式：血糖 × 0.18 × 体重 × 0.07', en: 'Formula: Glucose × 0.18 × Weight × 0.07' },
+                diffLabel: { zh: '🔍 差异 (ECF − 血液)', en: '🔍 Difference (ECF − Blood)' },
+                diffNote: { zh: '血液仅占 ECF 总量约 35%', en: 'Blood is ~35% of ECF mass' },
+                footerNote: {
+                    zh: '<strong>生理学依据：</strong>葡萄糖分布于细胞外液 (ECF)，约占体重的 20% (0.2 L/kg)。血液容积约占体重的 7% (0.07 L/kg)，仅反映循环中的葡萄糖，忽略组织间液。公式：<strong>总量 (g) = 血糖 (mmol/L) × 0.18 × 体重 (kg) × 容积系数</strong>',
+                    en: '<strong>Physiological basis:</strong> Glucose distributes in extracellular fluid (ECF), ~20% of body weight (0.2 L/kg). Blood volume is ~7% of body weight (0.07 L/kg), reflecting only circulating glucose, ignoring interstitial fluid. Formula: <strong>Mass (g) = Glucose (mmol/L) × 0.18 × Weight (kg) × Volume Factor</strong>'
+                }
+            };
+
+            const langZh = document.getElementById('langZh');
+            const langEn = document.getElementById('langEn');
+            let currentLang = 'zh';
+
+            // 计算
+            function calculateMass(glucose, weight, factor) {
+                if (isNaN(glucose) || isNaN(weight) || glucose < 0 || weight <= 0) return null;
+                return glucose * 0.18 * weight * factor;
+            }
+
+            function updateResults() {
+                const g = parseFloat(glucoseInput.value);
+                const w = parseFloat(weightInput.value);
+
+                const ecf = calculateMass(g, w, 0.2);
+                const blood = calculateMass(g, w, 0.07);
+
+                // ECF
+                if (ecf !== null && isFinite(ecf)) {
+                    ecfNumber.textContent = ecf % 1 === 0 ? ecf.toString() : ecf.toFixed(1);
+                    ecfNumber.style.color = '#1a4fcf';
+                } else {
+                    ecfNumber.textContent = '—';
+                    ecfNumber.style.color = '#8a9bb8';
+                }
+
+                // Blood
+                if (blood !== null && isFinite(blood)) {
+                    bloodNumber.textContent = blood % 1 === 0 ? blood.toString() : blood.toFixed(1);
+                    bloodNumber.style.color = '#4a5a7a';
+                } else {
+                    bloodNumber.textContent = '—';
+                    bloodNumber.style.color = '#8a9bb8';
+                }
+
+                // Difference
+                if (ecf !== null && blood !== null && isFinite(ecf) && isFinite(blood)) {
+                    const diff = ecf - blood;
+                    const formatted = diff % 1 === 0 ? diff.toString() : diff.toFixed(1);
+                    diffValue.textContent = formatted + ' g';
+                    diffValue.style.color = '#0b1120';
+                } else {
+                    diffValue.textContent = '—';
+                    diffValue.style.color = '#8a9bb8';
+                }
+            }
+
+            // 语言切换
+            function setLanguage(lang) {
+                currentLang = lang;
+                langZh.classList.toggle('active', lang === 'zh');
+                langEn.classList.toggle('active', lang === 'en');
+
+                for (const [id, translations] of Object.entries(i18n)) {
+                    const el = document.getElementById(id);
+                    if (!el) continue;
+                    const text = translations[lang];
+                    if (text !== undefined) {
+                        if (id === 'compareNote' || id === 'footerNote') {
+                            el.innerHTML = text;
+                        } else {
+                            el.textContent = text;
+                        }
+                    }
+                }
+
+                // placeholder
+                if (lang === 'zh') {
+                    glucoseInput.placeholder = '例如 10';
+                    weightInput.placeholder = '例如 70';
+                } else {
+                    glucoseInput.placeholder = 'e.g. 10';
+                    weightInput.placeholder = 'e.g. 70';
+                }
+            }
+
+            // 事件
+            glucoseInput.addEventListener('input', updateResults);
+            weightInput.addEventListener('input', updateResults);
+
+            langZh.addEventListener('click', () => setLanguage('zh'));
+            langEn.addEventListener('click', () => setLanguage('en'));
+
+            // 初始化
+            setLanguage('zh');
+            glucoseInput.value = '';
+            weightInput.value = '';
+            updateResults();
+
+            // 防负值
+            [glucoseInput, weightInput].forEach(input => {
+                input.addEventListener('blur', function() {
+                    let val = parseFloat(this.value);
+                    if (!isNaN(val) && val < 0) {
+                        this.value = 0;
+                        updateResults();
+                    }
+                });
+            });
+
+        })();
+    </script>
+
+</body>
+</html>
