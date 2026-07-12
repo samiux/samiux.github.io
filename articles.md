@@ -198,6 +198,7 @@
 
 - [《致富心態》深度拆解 - Alina粵讀社](https://www.youtube.com/watch?v=RiuoUS3wBWg)        
 - [《孫子兵法·虛實篇》 - Alina粵讀社](https://www.youtube.com/watch?v=zMni6WoRjkM)       
+- [《Tiny Habits》- Alina粵讀社](https://www.youtube.com/watch?v=gWuvmVll4_k)        
 
 ## 网络空间安全
 
