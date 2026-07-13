@@ -184,11 +184,11 @@
 ## Free Documentaries
 
 - [The Cholesterol Code (2026) - Full Movie - Documentary - Premieres Jul 18, 2026](https://www.youtube.com/watch?v=57Z8bUb1P94)        
-- [Fat Fiction: The Hidden Dangers Of Low-Fat Diets: Full Movie Documentary - Free To Watch](https://www.youtube.com/watch?v=xAFJB2ZbnuA)
+- [Fat Fiction: The Hidden Dangers Of Low-Fat Diets: Full Movie Documentary - Free To Watch](https://www.youtube.com/watch?v=xyNHvogMFDI)
 - [FAT: A Documentary - Health & Wellness - Weight Loss - FULL DOCUMENTARY](https://www.youtube.com/watch?v=iVJM_0XEiBI)       
 - [FAT: A Documentary 2 (1080p) FULL MOVIE - Health & Wellness, Diet, Food](https://www.youtube.com/watch?v=AoPisYHbMcg)      
 - [Sugar: The Hidden Danger in Our Food - ENDEVR Documentary](https://www.youtube.com/watch?v=CYeKjoI4n_I)     
-- [How Big Pharma Makes Healthy People Sick - ENDEVR Documentary](https://www.youtube.com/watch?v=xJs9https://www.youtube.com/watch?v=xAFJB2ZbnuAlK8PIok)
+- [How Big Pharma Makes Healthy People Sick - ENDEVR Documentary](https://www.youtube.com/watch?v=xJs9httphttps://www.youtube.com/watch?v=xyNHvogMFDIs://www.youtube.com/watch?v=xAFJB2ZbnuAlK8PIok)
 - [Corrupt Food Industry - Hidden Work - Dangerous additives - Documentary](https://www.youtube.com/watch?v=F5TNiggsH1A)      
 - [Low Carb Diet: Fat or Fiction? Does it work?](https://www.youtube.com/watch?v=8GUIBNKnT1M)      
 - [China's Big Problem: The Rise of Obesity](https://www.youtube.com/watch?v=GRAKy_-q6-8)      
