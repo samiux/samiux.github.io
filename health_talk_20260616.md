@@ -298,7 +298,7 @@ Samiux
 ## 纪录片 (油管视频，英语)
 
 - [The Cholesterol Code (2026) 胆固醇密码 2026 (将于 2026 年 7 月 18 日在油管首播)](https://www.youtube.com/watch?v=57Z8bUb1P94)  现可在指定国家/地区的 Amazon 付费收看或购买      
-- [Fat Fiction: The Hidden Dangers Of Low-Fat Diets 细说脂肪：低脂饮食的危害](https://www.youtube.com/watch?v=TUADs-CK7vI)        
+- [Fat Fiction: The Hidden Dangers Of Low-Fat Diets 细说脂肪：低脂饮食的危害](https://www.youtube.com/watch?v=xAFJB2ZbnuA)        
 - [STATIN NATION: The Great Cholesterol Cover-Up 他汀王国：胆固醇真相的隐瞒](https://www.youtube.com/watch?v=iZctVYxiW2w)      
 
 ## 天然真食物是良药 (油管视频，英语)
