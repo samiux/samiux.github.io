@@ -293,6 +293,10 @@ Samiux
 - [2,000 Hours of Heart Health Research in 21 Minutes (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=rTFVZ_9evgU)       
 - [The Great Cholesterol Myth - Dr. David Jockers](https://drjockers.com/cholesterol-myth/)       
 - [Peer-Reviewed Results of First-Ever Randomized Controlled Trial of Ketogenic Diet in Schizophrenia-Spectrum and Bipolar I Disorder - Metabolic Mind](https://www.metabolicmind.org/trials/featured-post/peer-reviewed-results-of-first-ever-randomized-controlled-trial-of-ketogenic-diet-in-schizophrenia-spectrum-and-bipolar-i-disorder/)       
+- [The Real Reason You Can't Lose Weight (Hormones and Obesity - a Masterclass) - Dr. Jason Fung](https://www.youtube.com/watch?v=F8QuU8crjew)      
+- [This 85-Year-Old Changed My Mind About Aging (Here’s How) (YouTube) - Steak and Butter Gal](https://www.youtube.com/watch?v=zwmmz2L7cco)     
+- [How to Upgrade Your Mitochondria (Beginner → Advanced) (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=g4awOfnsUP8)       
+- [157: Why You're Always Hungry (Even After Eating) (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=sAZtAXFER2w)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
