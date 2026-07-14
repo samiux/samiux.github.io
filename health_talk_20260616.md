@@ -145,11 +145,12 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 ![Which Causes Obesity](/images/health/2026/causes_obesity.png "Which Causes Obesity")      
 ![Hormonal Control](/images/health/2026/hormonal_control.png "Hormonal Control")      
 ![Hormonal Control 2](/images/health/2026/hormonal_control_2.png "Hormonal Control 2")      
-![Obesity Causes All Diseases](/images/health/2026/obesity_causes_all_diseases.png "Obesity Causes All Diseases")      
 
 所以慢性疾病不是突然间地出现的，是经过了多年以上的身体系统运作上不平衡而导致的。慢性疾病又称为「无声杀手」，是因为他的出现是无感的、无痛的、慢慢的，好像温水煮蛙一样。不当的饮食习惯和不良的生活习惯就会令致身体出现这样的不平衡状态了。因个体、基因、病史、喜恶、环境的不同就会发展出不同的慢性疾病了。一旦当一种的慢性疾病出现了，也亦代表了其他的慢性疾病将会接踵而来的。
 
 慢性疾病是包括肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、肾病、慢性炎症、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症、肠漏等。
+
+![Obesity Causes All Diseases](/images/health/2026/obesity_causes_all_diseases.png "Obesity Causes All Diseases")      
 
 ## 中医及功能医学
 
