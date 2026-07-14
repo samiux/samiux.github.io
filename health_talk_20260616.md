@@ -110,6 +110,8 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 主食是指碳水化合物，包括各种不同的糖类 (包括水果)、淀粉质 (包括某些蔬菜类)、糕点甜品、麵包、含糖饮料等；而不健康的脂肪就包括植物油、种子油、反式脂肪，炸物等。建议低碳高脂、天然真食物的饮食习惯，拒绝超加工食物、代糖、不健康的油脂等。
 
+![USA 1977 Dietary Goals](/images/health/2026/USA_1977_dietary_goals.png "USA 1977 Dietary Goals")      
+
 ![The Obesity Epidemic](/images/health/2026/obesity_epidemic.png "The Obesity Epidemic")      
 
 若果患有任何一种或多种慢性疾病的话 (如肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症等) ，其改善或逆转的方法只有低碳高脂饮食和断食，药物或手术治疗只是治标不能治本的，改善了或控制了症状并不能代表已经治癒了和康復了。
@@ -143,7 +145,9 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 理论上，人体是一个精密的生化系统，主要是以激素为主导，各个的系统互相制衡而达至平衡，那身体就能保持顺畅地及健康地运作。因为某种原因身体某处一但出现不平衡，身体是不会立即被打跨的，身体会极力地用其方法去维持短暂的平衡，来维持正常的运作，这称之为代偿机制，例如进食后身体对血糖的管理。但当这个不平衡的情况长时间内并没有得到改善或修正的话，各种慢性疾病就会一个跟一个陆续地出现了。
 
 ![Which Causes Obesity](/images/health/2026/causes_obesity.png "Which Causes Obesity")      
+
 ![Hormonal Control](/images/health/2026/hormonal_control.png "Hormonal Control")      
+
 ![Hormonal Control 2](/images/health/2026/hormonal_control_2.png "Hormonal Control 2")      
 
 所以慢性疾病不是突然间地出现的，是经过了多年以上的身体系统运作上不平衡而导致的。慢性疾病又称为「无声杀手」，是因为他的出现是无感的、无痛的、慢慢的，好像温水煮蛙一样。不当的饮食习惯和不良的生活习惯就会令致身体出现这样的不平衡状态了。因个体、基因、病史、喜恶、环境的不同就会发展出不同的慢性疾病了。一旦当一种的慢性疾病出现了，也亦代表了其他的慢性疾病将会接踵而来的。
@@ -205,6 +209,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 当红血球寿命长了，那在其依附的葡萄糖就会多了，即被糖化的机会多了，其 HbA1c 的值就会比主流医学的标准要高，所以有些不了解的医生或人群就会误会为糖尿病前期或糖尿病。
 
 ![HbA1c 指数比较](/images/health/2026/HbA1c_high_health.jpg "HbA1c 指数比较")        
+
 ![HbA1c 反馈一](/images/health/2026/HbA1c_high_a.png "HbA1c 反馈一")        
 ![HbA1c 反馈二](/images/health/2026/HbA1c_high_b.png "HbA1c 反馈二")        
 ![HbA1c 反馈三](/images/health/2026/HbA1c_high_c.png "HbA1c 反馈三")        
