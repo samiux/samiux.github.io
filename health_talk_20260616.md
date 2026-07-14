@@ -23,6 +23,7 @@
 高碳低脂饮食、植物性脂肪及植物油、反式脂肪、超加工食品及人造肉类、超甜的水果、基因改造及精制的农作物、农药及家畜抗生素等都是近这几百年才出现和大力地被推广及建议的。
 
 ![BMI 1970s vs 2020s](/images/health/2026/bmi_1970s_2020s.jpg "BMI 1970s vs 2020s")      
+![The Obesity Epidemic](/images/health/2026/obesity_epidemic.png "The Obesity Epidemic")      
 
 ## 不要只盯着低密度脂蛋白 (LDL)
 
