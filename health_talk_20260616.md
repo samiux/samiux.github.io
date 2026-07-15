@@ -236,6 +236,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 ### 简易地执行低碳高脂的生酮饮食的方法是：
 
+超加工，拒绝；        
 糖类，可见的和可预知的就完全拒绝 (包括代糖)；        
 碳水，可以少的就尽量少；        
 纤维/植物，可以少的就尽量少；        
@@ -252,6 +253,8 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 另外，需要经常补充无糖/无甜味的电解质水或盐份，以防止出现酮流感这类的不良反应。     
 
 最后，应避免食用美国产的食品、肉类等，因为在欧盟的准则下，有很多的美国产的食品、肉类等都是不合规格的，有可能会影响健康的。     
+
+![Keto Cheat Sheet](/images/health/2026/keto_cheat_sheet.jpg "Keto Cheat Sheet")        
 
 ### 警告：
 
@@ -313,6 +316,8 @@ Samiux
 - [This 85-Year-Old Changed My Mind About Aging (Here’s How) (YouTube) - Steak and Butter Gal](https://www.youtube.com/watch?v=zwmmz2L7cco)     
 - [How to Upgrade Your Mitochondria (Beginner → Advanced) (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=g4awOfnsUP8)       
 - [157: Why You're Always Hungry (Even After Eating) (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=sAZtAXFER2w)      
+- [USA Food Corruption (Compilation) (YouTube) - DoctorsToTrust](https://www.youtube.com/watch?v=57ZqHdwablY)      
+- [Vegan Cardiologist Goes Keto (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=9pjQu8WNVsk)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
