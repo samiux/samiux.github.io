@@ -110,9 +110,9 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 主食是指碳水化合物，包括各种不同的糖类 (包括水果)、淀粉质 (包括某些蔬菜类)、糕点甜品、麵包、含糖饮料等；而不健康的脂肪就包括植物油、种子油、反式脂肪，炸物等。建议低碳高脂、天然真食物的饮食习惯，拒绝超加工食物、代糖、不健康的油脂等。
 
-![USA 1977 Dietary Goals](/images/health/2026/USA_1977_dietary_goals.png "USA 1977 Dietary Goals")      
+![1977 年美国的膳食目标](/images/health/2026/USA_1977_dietary_goals.png "1977 年美国的膳食目标")      
 
-![The Obesity Epidemic](/images/health/2026/obesity_epidemic.png "The Obesity Epidemic")      
+![肥胖大流行](/images/health/2026/obesity_epidemic.png "肥胖大流行")      
 
 若果患有任何一种或多种慢性疾病的话 (如肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症等) ，其改善或逆转的方法只有低碳高脂饮食和断食，药物或手术治疗只是治标不能治本的，改善了或控制了症状并不能代表已经治癒了和康復了。
 
@@ -136,7 +136,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 人体是一个非常奥妙而且精密及强大的生化系统，具有一定程度的自我修復能力，在特定的情况下 (如细胞自噬)，可以改善或者逆转各种不同的慢性疾病。
 
-![断食](/images/health/2026/IF.png "断食")      
+![断食详解](/images/health/2026/IF.png "断食详解")      
 
 ## 葡萄糖与胰岛素
 
@@ -148,17 +148,17 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 理论上，人体是一个精密的生化系统，主要是以激素为主导，各个的系统互相制衡而达至平衡，那身体就能保持顺畅地及健康地运作。因为某种原因身体某处一但出现不平衡，身体是不会立即被打跨的，身体会极力地用其方法去维持短暂的平衡，来维持正常的运作，这称之为代偿机制，例如进食后身体对血糖的管理。但当这个不平衡的情况长时间内并没有得到改善或修正的话，各种慢性疾病就会一个跟一个陆续地出现了。
 
-![Which Causes Obesity](/images/health/2026/causes_obesity.png "Which Causes Obesity")      
+![肥胖的原因](/images/health/2026/causes_obesity.png "肥胖的原因")      
 
-![Hormonal Control](/images/health/2026/hormonal_control.png "Hormonal Control")      
+![激素主导](/images/health/2026/hormonal_control.png "激素主导")      
 
-![Hormonal Control 2](/images/health/2026/hormonal_control_2.png "Hormonal Control 2")      
+![激素主导 2](/images/health/2026/hormonal_control_2.png "激素主导 2")      
 
 所以慢性疾病不是突然间地出现的，是经过了多年以上的身体系统运作上不平衡而导致的。慢性疾病又称为「无声杀手」，是因为他的出现是无感的、无痛的、慢慢的，好像温水煮蛙一样。不当的饮食习惯和不良的生活习惯就会令致身体出现这样的不平衡状态了。因个体、基因、病史、喜恶、环境的不同就会发展出不同的慢性疾病了。一旦当一种的慢性疾病出现了，也亦代表了其他的慢性疾病将会接踵而来的。
 
 慢性疾病是包括肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、肾病、慢性炎症、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症、肠漏等。
 
-![Obesity Causes All Diseases](/images/health/2026/obesity_causes_all_diseases.png "Obesity Causes All Diseases")      
+![肥胖是百病之源](/images/health/2026/obesity_causes_all_diseases.png "肥胖是百病之源")      
 
 ## 中医及功能医学
 
@@ -272,7 +272,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 最后，应避免食用美国产的食品、肉类等，因为在欧盟的准则下，有很多的美国产的食品、肉类等都是不合规格的，有可能会影响健康的。     
 
-![Keto Cheat Sheet](/images/health/2026/keto_cheat_sheet.jpg "Keto Cheat Sheet")        
+![生酮备忘单](/images/health/2026/keto_cheat_sheet.jpg "生酮备忘单")        
 
 ### 警告：
 
