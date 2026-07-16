@@ -206,6 +206,9 @@
 - [《鬼谷子》第二篇《反應》 - Alina粵讀社](https://www.youtube.com/watch?v=FmUYXD9IPeM)       
 - [《人類大歷史》 - Alina粵讀社](https://www.youtube.com/watch?v=KD4liTjMbqs)       
 - [【廣東話】點解人人都以為人類演化係一條直路？原來科學一直都唔係咁講！ - 真相研究所](https://www.youtube.com/watch?v=cyNMr7wMlZc)       
+- [放工狂碌短片以為係減壓？揭秘矽谷巨頭的陷阱，小心成為「免費人礦」！ - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=CJA7h6fBX_s)      
+- [《讓你的錢微笑》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=HmSIobIDjN0)      
+- [《長壽的習慣》 - Alina粵讀社](https://www.youtube.com/watch?v=7JtIj2Emu2w)      
 
 ## 网络空间安全
 
