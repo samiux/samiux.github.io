@@ -336,6 +336,7 @@ Samiux
 - [157: Why You're Always Hungry (Even After Eating) (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=sAZtAXFER2w)      
 - [USA Food Corruption (Compilation) (YouTube) - DoctorsToTrust](https://www.youtube.com/watch?v=57ZqHdwablY)      
 - [Vegan Cardiologist Goes Keto (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=9pjQu8WNVsk)       
+- [Upgrade Your Mitochondria. Upgrade Your Life. (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=g4awOfnsUP8)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
