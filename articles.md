@@ -204,6 +204,8 @@
 - [《孫子兵法·虛實篇》 - Alina粵讀社](https://www.youtube.com/watch?v=zMni6WoRjkM)       
 - [《Tiny Habits》- Alina粵讀社](https://www.youtube.com/watch?v=gWuvmVll4_k)        
 - [《鬼谷子》第二篇《反應》 - Alina粵讀社](https://www.youtube.com/watch?v=FmUYXD9IPeM)       
+- [《人類大歷史》 - Alina粵讀社](https://www.youtube.com/watch?v=KD4liTjMbqs)       
+- [【廣東話】點解人人都以為人類演化係一條直路？原來科學一直都唔係咁講！ - 真相研究所](https://www.youtube.com/watch?v=cyNMr7wMlZc)       
 
 ## 网络空间安全
 
