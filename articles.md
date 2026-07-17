@@ -209,6 +209,8 @@
 - [放工狂碌短片以為係減壓？揭秘矽谷巨頭的陷阱，小心成為「免費人礦」！ - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=CJA7h6fBX_s)      
 - [《讓你的錢微笑》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=HmSIobIDjN0)      
 - [《長壽的習慣》 - Alina粵讀社](https://www.youtube.com/watch?v=7JtIj2Emu2w)      
+- [表面風光，戶口清光：香港假中產的 3 大「精緻窮」陷阱，你中了幾多個？ - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=TroeyoZN1PI)      
+- [《高勝算決策》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=0D37bCJAyqU)     
 
 ## 网络空间安全
 
