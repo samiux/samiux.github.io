@@ -341,6 +341,7 @@ Samiux
 - [Vegan Cardiologist Goes Keto (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=9pjQu8WNVsk)       
 - [Upgrade Your Mitochondria. Upgrade Your Life. (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=g4awOfnsUP8)      
 - [《長壽的習慣》 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=7JtIj2Emu2w)      
+- [Type 2 diabetes (YouTube) - Sarah Hallberg - TEDxPurdueU](https://www.youtube.com/watch?v=da1vvigy5tQ)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
@@ -352,6 +353,7 @@ Samiux
 - [How Big Pharma Makes Healthy People Sick - ENDEVR Documentary](https://www.youtube.com/watch?v=xJs9lK8PIok)      
 - [Industry Scandal: The Loss Of Nutrients - Full Documentaries ](https://www.youtube.com/watch?v=Ax0SIbxgqDw)      
 - [The intestine - The body’s underappreciated control center and gut health - DW Documentary](https://www.youtube.com/watch?v=_Zbqo_hrwXc)      
+- [OBESITY NATION: How America is Eating itself to Death - ENDEVR Documentary](https://www.youtube.com/watch?v=rTZDxILhYCk)       
 
 ## 天然真食物是良药 (油管视频，英语)
 
