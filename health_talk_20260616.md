@@ -342,6 +342,7 @@ Samiux
 - [Upgrade Your Mitochondria. Upgrade Your Life. (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=g4awOfnsUP8)      
 - [《長壽的習慣》 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=7JtIj2Emu2w)      
 - [Type 2 diabetes (YouTube) - Sarah Hallberg - TEDxPurdueU](https://www.youtube.com/watch?v=da1vvigy5tQ)       
+- [BLUE ZONE Lies with Mary Ruddick (They Eat What??) 2026 (YouTube) - KenDBerryMD](https://www.youtube.com/watch?v=QhQVETLSd2g)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
@@ -357,7 +358,8 @@ Samiux
 
 ## 天然真食物是良药 (油管视频，英语)
 
-- [Doctor Gets MS, Goes From Wheelchair to Biking 18 Miles in One Year](https://www.youtube.com/watch?v=Mg1KEBtYJoE)      
+- [Doctor Gets MS, Goes From Wheelchair to Biking 18 Miles in One Year - Mark Hyman, MD](https://www.youtube.com/watch?v=Mg1KEBtYJoE)      
+- [Woman Eats Only MEAT for 13 Years : This Happens (Kelly Hogan Carnivore Diet) - KenDBerryMD](https://www.youtube.com/watch?v=CZ-qwRGNgjo)      
 
 ## 参考文献 (英语)
 
