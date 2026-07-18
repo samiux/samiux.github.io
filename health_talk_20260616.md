@@ -360,6 +360,7 @@ Samiux
 
 - [Doctor Gets MS, Goes From Wheelchair to Biking 18 Miles in One Year - Mark Hyman, MD](https://www.youtube.com/watch?v=Mg1KEBtYJoE)      
 - [Woman Eats Only MEAT for 13 Years : This Happens (Kelly Hogan Carnivore Diet) - KenDBerryMD](https://www.youtube.com/watch?v=CZ-qwRGNgjo)      
+- [Woman Doesn't Eat PLANTS for 13 Years and...? with Lisa Wiedeman, OD - KenDBerryMD](https://www.youtube.com/watch?v=MYp2rAFZpkA)      
 
 ## 参考文献 (英语)
 
