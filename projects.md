@@ -9,6 +9,7 @@
 ## Others
 
 - [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
+- [细说健康地长寿 -- 简易版 (PDF)](/pdf/health/细说健康地长寿——颠覆认知的健康新知.pdf)        
 - [MGRS Locator 军用座标定位](/mgrs_page.md)    
 - [MGRS GPS 軍事網格參考系統](/mgrsgps.md)    
 - [RCCC HKI Duty List](/rccchki.md)    
