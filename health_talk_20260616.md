@@ -204,7 +204,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 ![氧化的油酯与甘油三酯的关系](/images/health/2026/peroxide_oil.png "氧化的油酯与甘油三酯的关系")       
 
-迟了 40 多年后才被掘出的大型研究资料，它被埋藏在地下室的原因竟是研究人员对其研究结果失望，他的期望是证明植物油脂是优于动物油脂。其研究资料被整理之后发表了，并显示植物油脂会增加死亡率。[6][7]
+迟了 40 多年后才被掘出的大型研究资料，它被埋藏在地下室的原因竟是研究人员对其研究结果失望，他的期望是证明植物油脂是优于动物油脂。其研究资料被整理之后发表了，并显示植物油脂会增加死亡率。[6][7][12]
 
 ## 糖化血红蛋白 (HbA1c)
 
@@ -376,5 +376,6 @@ Samiux
 - [9] [The influence of shorter red blood cell lifespan on the rate of HbA1c target achieved in type 2 diabetes patients with a HbA1c detection value lower than 7%. Junmei Wang, Li Zhang, Yu bai, Xinli Wang, Weilin Wang, Jing Li, Saijun Zhou](https://pmc.ncbi.nlm.nih.gov/articles/PMC9870739/)       
 - [10] [Carbohydrate Ingestion on Exercise Metabolism and Physical Performance.  Timothy D Noakes, Philip Prins, Alex Buga, Dominic P D'Agostino, Jeff S Volek, Koutnik Andrew](https://www.researchgate.net/publication/399955614_Carbohydrate_Ingestion_on_Exercise_Metabolism_and_Physical_Performance)          
 - [11] [Non-genetic influences on lipoprotein(a) concentrations.  Byambaa Enkhmaaa, Lars Berglund](https://www.atherosclerosis-journal.com/article/S0021-9150(22)00183-6/fulltext)       
+- [12] [Use of dietary linoleic acid for secondary prevention of coronary heart disease and death: evaluation of recovered data from the Sydney Diet Heart Study and updated meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4688426/)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
