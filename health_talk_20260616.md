@@ -344,6 +344,7 @@ Samiux
 - [《長壽的習慣》 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=7JtIj2Emu2w)      
 - [Type 2 diabetes (YouTube) - Sarah Hallberg - TEDxPurdueU](https://www.youtube.com/watch?v=da1vvigy5tQ)       
 - [BLUE ZONE Lies with Mary Ruddick (They Eat What??) 2026 (YouTube) - KenDBerryMD](https://www.youtube.com/watch?v=QhQVETLSd2g)      
+- [Heart Surgeon: The Biggest Risk Factor for Heart Disease (It’s Not High LDL) (YouTube) - Dr. Philip Ovadia](https://www.youtube.com/watch?v=ATKu1Cxs2Pc)        
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
