@@ -312,10 +312,7 @@ Samiux
 
 ## 计算器
 
-- [LDL 颗粒模式计算器](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
-- [TyG 指数计算器](/html/tyg_calculator.html)        
-- [血糖总量计算器](/html/Blood_Glucose_Mass_Calculator.html)      
-- [脉压差计算器](/html/blood_pressure_calculator.html)     
+- [代谢 & 心血管计算器](/html/Metabolic_CV_Calculator.html)       
 
 ## 国内外专家解疑
 
