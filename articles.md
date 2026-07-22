@@ -212,6 +212,8 @@
 - [表面風光，戶口清光：香港假中產的 3 大「精緻窮」陷阱，你中了幾多個？ - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=TroeyoZN1PI)      
 - [《高勝算決策》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=0D37bCJAyqU)     
 - [《底層邏輯》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=Ht_QGTlTaag)        
+- [《脂肪的秘密生命》【粵語廣東話聽書講書】 - 悅讀逸致](https://www.youtube.com/watch?v=NR4KIQ7gO0o)      
+- [費曼學習法【粵語廣東話聽書】 - 粵讀時光](https://www.youtube.com/watch?v=MuighOjGceM)    
 
 ## 网络空间安全
 
