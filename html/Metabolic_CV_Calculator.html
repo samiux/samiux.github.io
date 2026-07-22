@@ -1,0 +1,2119 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>代谢与心血管计算器 · Metabolic & CV Calculators</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet" />
+
+    <style>
+        /* ===== RESET & BASE ===== */
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #f0f4fb;
+            min-height: 100vh;
+            padding: 24px;
+            color: #1a1f36;
+        }
+
+        .app-wrapper {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        /* ===== HEADER ===== */
+        .app-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-bottom: 28px;
+            padding: 0 4px;
+        }
+
+        .app-header .brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .app-header .brand h1 {
+            font-size: 26px;
+            font-weight: 700;
+            letter-spacing: -0.4px;
+            color: #0b1e33;
+        }
+
+        .app-header .brand .badge {
+            font-size: 12px;
+            font-weight: 600;
+            background: #dce5f5;
+            color: #1f3a7a;
+            padding: 2px 14px;
+            border-radius: 40px;
+            letter-spacing: 0.3px;
+        }
+
+        .app-header .lang-toggle {
+            display: flex;
+            background: #e8edf6;
+            border-radius: 100px;
+            padding: 4px;
+            border: 1px solid #d6dfeb;
+            flex-shrink: 0;
+        }
+
+        .app-header .lang-toggle button {
+            border: none;
+            background: transparent;
+            font-size: 13px;
+            font-weight: 600;
+            padding: 6px 20px;
+            border-radius: 100px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: #5e6f8d;
+            font-family: inherit;
+        }
+
+        .app-header .lang-toggle button.active {
+            background: #ffffff;
+            color: #0b1120;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+        }
+
+        .app-header .lang-toggle button:hover:not(.active) {
+            color: #1f3349;
+        }
+
+        /* ===== TABS ===== */
+        .tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 28px;
+            background: #ffffff;
+            padding: 6px 8px;
+            border-radius: 18px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+            border: 1px solid #e6ecf3;
+        }
+
+        .tabs .tab-btn {
+            padding: 12px 22px;
+            border: none;
+            background: transparent;
+            border-radius: 14px;
+            font-size: 15px;
+            font-weight: 600;
+            color: #5e6f8d;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            font-family: inherit;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex: 0 1 auto;
+        }
+
+        .tabs .tab-btn .tab-icon {
+            font-size: 18px;
+        }
+
+        .tabs .tab-btn:hover {
+            background: #f0f4fe;
+            color: #1f3349;
+        }
+
+        .tabs .tab-btn.active {
+            background: #5b7cfa;
+            color: #ffffff;
+            box-shadow: 0 4px 12px rgba(91, 124, 250, 0.25);
+        }
+
+        .tabs .tab-btn.active .tab-icon {
+            color: #ffffff;
+        }
+
+        @media (max-width: 600px) {
+            .tabs .tab-btn {
+                padding: 10px 14px;
+                font-size: 13px;
+                flex: 1 0 auto;
+                justify-content: center;
+            }
+            .app-header .brand h1 {
+                font-size: 20px;
+            }
+        }
+
+        /* ===== TAB PANELS ===== */
+        .tab-panel {
+            display: none;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .tab-panel.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* ===== CARD CONTAINER (reused inside panels) ===== */
+        .card {
+            background: #ffffff;
+            border-radius: 28px;
+            padding: 32px 36px 40px;
+            box-shadow: 0 8px 32px rgba(0, 20, 40, 0.07);
+            border: 1px solid #eef2f8;
+        }
+
+        @media (max-width: 640px) {
+            .card {
+                padding: 20px 16px 28px;
+                border-radius: 20px;
+            }
+        }
+
+        .card-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #0b1e33;
+            margin-bottom: 4px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card-title .sub-lang {
+            font-weight: 400;
+            color: #5e6f8d;
+            font-size: 17px;
+        }
+
+        .card-subhead {
+            font-size: 14px;
+            color: #5e6f8d;
+            margin-bottom: 22px;
+            padding: 12px 16px;
+            background: #f4f8fe;
+            border-radius: 12px;
+            border-left: 4px solid #5b7cfa;
+            line-height: 1.6;
+        }
+
+        /* ===== LDL SPECIFIC ===== */
+        .unit-toggle {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            background: #f2f6fc;
+            padding: 10px 20px;
+            border-radius: 40px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            border: 1px solid #e0e8f2;
+        }
+
+        .unit-toggle .label {
+            font-weight: 500;
+            color: #1f3349;
+            font-size: 15px;
+        }
+
+        .unit-toggle .options {
+            display: flex;
+            gap: 6px;
+            background: white;
+            border-radius: 30px;
+            padding: 4px;
+            border: 1px solid #dce1eb;
+        }
+
+        .unit-toggle .options label {
+            padding: 6px 20px;
+            border-radius: 30px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #5e6f8d;
+        }
+
+        .unit-toggle .options input[type="radio"] {
+            display: none;
+        }
+
+        .unit-toggle .options input[type="radio"]:checked+label {
+            background: #5b7cfa;
+            color: white;
+            box-shadow: 0 2px 8px rgba(91, 124, 250, 0.25);
+        }
+
+        .input-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px 24px;
+            margin-bottom: 28px;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .input-group label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #1f3349;
+        }
+        .input-group label .unit {
+            font-weight: 400;
+            color: #5e6f8d;
+            font-size: 13px;
+            margin-left: 4px;
+        }
+
+        .input-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .input-row input {
+            flex: 1;
+            padding: 10px 14px;
+            border: 1.5px solid #dce1eb;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #0b1e33;
+            background: #fafbfd;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            min-width: 0;
+            width: 100%;
+        }
+
+        .input-row input:focus {
+            outline: none;
+            border-color: #5b7cfa;
+            box-shadow: 0 0 0 4px rgba(91, 124, 250, 0.12);
+            background: white;
+        }
+
+        .input-row input::placeholder {
+            color: #b0bed5;
+            font-weight: 400;
+        }
+
+        .input-row .badge-unit {
+            font-size: 14px;
+            color: #4a5b78;
+            font-weight: 500;
+            white-space: nowrap;
+            min-width: 48px;
+        }
+
+        .ratio-display {
+            grid-column: 1 / -1;
+            background: #f2f6fe;
+            border-radius: 16px;
+            padding: 16px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+            border: 1.5px solid #e4ebf6;
+        }
+
+        .ratio-display .label {
+            font-size: 15px;
+            font-weight: 500;
+            color: #1f3349;
+        }
+
+        .ratio-display .value-box {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            flex-wrap: wrap;
+        }
+
+        .ratio-display .value-box .num {
+            font-size: 24px;
+            font-weight: 700;
+            color: #0b1e33;
+            min-width: 70px;
+            text-align: center;
+        }
+
+        .ratio-display .value-box .cutoff {
+            font-size: 14px;
+            color: #5e6f8d;
+            background: #e8eefa;
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+
+        .ratio-display .value-box .status {
+            font-size: 15px;
+            font-weight: 600;
+            padding: 4px 16px;
+            border-radius: 30px;
+        }
+
+        .status.pass {
+            background: #d3f0df;
+            color: #0b6e4b;
+        }
+
+        .status.fail {
+            background: #ffe6e6;
+            color: #b3403a;
+        }
+
+        /* LDL Flowchart */
+        .flowchart {
+            margin: 28px 0 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .flow-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .flow-node {
+            background: white;
+            border: 2px solid #dce1eb;
+            border-radius: 18px;
+            padding: 10px 16px;
+            min-width: 160px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 500;
+            color: #1f3349;
+            transition: all 0.25s;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+            line-height: 1.5;
+        }
+
+        .flow-node .main-text {
+            display: block;
+            font-weight: 600;
+        }
+        .flow-node .sub {
+            font-size: 11px;
+            font-weight: 400;
+            color: #7a8aa3;
+            display: block;
+            margin-top: 2px;
+        }
+
+        .flow-node.active {
+            border-color: #5b7cfa;
+            background: #f0f4fe;
+            box-shadow: 0 4px 14px rgba(91, 124, 250, 0.15);
+        }
+
+        .flow-node.active-yes {
+            border-color: #2a9d8f;
+            background: #e6f6f2;
+            box-shadow: 0 4px 14px rgba(42, 157, 143, 0.15);
+        }
+
+        .flow-node.active-no {
+            border-color: #e76f51;
+            background: #fdeee9;
+            box-shadow: 0 4px 14px rgba(231, 111, 81, 0.13);
+        }
+
+        .flow-node.result-ldl {
+            border-color: #2a9d8f;
+            background: #d3f0df;
+            font-weight: 600;
+            color: #0b6e4b;
+            box-shadow: 0 4px 20px rgba(42, 157, 143, 0.20);
+        }
+
+        .flow-node.result-sdl {
+            border-color: #e76f51;
+            background: #fdeee9;
+            font-weight: 600;
+            color: #a33d2e;
+            box-shadow: 0 4px 20px rgba(231, 111, 81, 0.18);
+        }
+
+        .flow-arrow {
+            font-size: 20px;
+            color: #b0bed5;
+            user-select: none;
+        }
+
+        .flow-branch {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .flow-branch .branch-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #7a8aa3;
+            letter-spacing: 0.4px;
+            text-transform: uppercase;
+            padding: 0 4px;
+        }
+        .flow-branch .branch-label .sub-lang {
+            font-weight: 400;
+            text-transform: none;
+            margin-left: 4px;
+        }
+
+        .result-box {
+            margin-top: 8px;
+            padding: 18px 24px;
+            border-radius: 20px;
+            background: #f8faff;
+            border: 2px solid #e4ebf6;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .result-box .result-label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #5e6f8d;
+            letter-spacing: 0.3px;
+        }
+
+        .result-box .result-value {
+            font-size: 34px;
+            font-weight: 700;
+            margin-top: 4px;
+            letter-spacing: -0.5px;
+        }
+
+        .result-box .result-value.ldl {
+            color: #0b6e4b;
+        }
+
+        .result-box .result-value.sdl {
+            color: #a33d2e;
+        }
+
+        .result-box .result-sub {
+            font-size: 15px;
+            color: #4a5b78;
+            margin-top: 6px;
+        }
+
+        .footnote {
+            margin-top: 20px;
+            font-size: 13px;
+            color: #8a9bb8;
+            text-align: center;
+            border-top: 1px solid #eef2f8;
+            padding-top: 18px;
+            letter-spacing: 0.2px;
+        }
+        .footnote strong {
+            color: #4a5b78;
+            font-weight: 600;
+        }
+
+        /* ===== TYG SPECIFIC ===== */
+        .tyg-result {
+            margin-top: 25px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 12px;
+            display: none;
+        }
+
+        .tyg-result .result-value {
+            font-size: 28px;
+            font-weight: 700;
+            text-align: center;
+            margin: 12px 0;
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .tyg-result .interpretation {
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+
+        .tyg-range-item {
+            margin-bottom: 12px;
+            padding: 14px 18px;
+            border-radius: 8px;
+            border-left: 5px solid;
+        }
+
+        .tyg-range-normal {
+            background: #e8f6f3;
+            border-left-color: #27ae60;
+        }
+        .tyg-range-mild {
+            background: #fff9e6;
+            border-left-color: #f39c12;
+        }
+        .tyg-range-significant {
+            background: #fdedec;
+            border-left-color: #e74c3c;
+        }
+
+        .tyg-range-title {
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        /* ===== BP SPECIFIC ===== */
+        .bp-result {
+            background: #f8f9fa;
+            padding: 24px 28px;
+            border-radius: 12px;
+            display: none;
+            animation: fadeIn 0.4s ease;
+            margin-top: 16px;
+        }
+
+        .bp-result .bp-value {
+            font-size: 2.2rem;
+            font-weight: 700;
+            margin: 8px 0;
+        }
+
+        .bp-interp {
+            padding: 14px 18px;
+            border-radius: 8px;
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-top: 10px;
+        }
+
+        .bp-interp.normal {
+            background: #d4edda;
+            color: #155724;
+            border-left: 5px solid #28a745;
+        }
+        .bp-interp.fatigue {
+            background: #fff3cd;
+            color: #856404;
+            border-left: 5px solid #ffc107;
+        }
+        .bp-interp.danger {
+            background: #f8d7da;
+            color: #721c24;
+            border-left: 5px solid #dc3545;
+        }
+
+        .bp-scale {
+            display: flex;
+            margin: 18px 0;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+        }
+
+        .bp-scale-item {
+            flex: 1;
+            padding: 12px 8px;
+            text-align: center;
+            color: white;
+            font-weight: 600;
+            font-size: 13px;
+        }
+
+        .bp-scale-low {
+            background: linear-gradient(135deg, #dc3545, #c82333);
+        }
+        .bp-scale-normal {
+            background: linear-gradient(135deg, #28a745, #218838);
+        }
+        .bp-scale-fatigue {
+            background: linear-gradient(135deg, #ffc107, #e0a800);
+            color: #333;
+        }
+        .bp-scale-high {
+            background: linear-gradient(135deg, #dc3545, #c82333);
+        }
+
+        /* ===== GLUCOSE SPECIFIC ===== */
+        .glucose-formula-banner {
+            background: #f8faff;
+            border: 1px solid #e9eef6;
+            border-radius: 16px;
+            padding: 16px 20px;
+            margin-bottom: 22px;
+        }
+
+        .glucose-formula-banner .formula-row {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px 16px;
+        }
+
+        .glucose-formula-banner .math {
+            font-family: 'Inter', monospace;
+            font-size: 17px;
+            font-weight: 600;
+            color: #0b1120;
+            background: #ffffff;
+            padding: 4px 16px;
+            border-radius: 40px;
+            border: 1px solid #e6ecf3;
+        }
+
+        .glucose-formula-banner .math .highlight {
+            color: #2a6df4;
+        }
+
+        .glucose-formula-banner .note {
+            font-size: 13px;
+            color: #5e6f8d;
+        }
+
+        .glucose-compare-note {
+            margin-top: 10px;
+            padding: 12px 16px;
+            background: #eef4ff;
+            border-radius: 12px;
+            font-size: 14px;
+            color: #1f3a7a;
+            border-left: 4px solid #2a6df4;
+            line-height: 1.6;
+        }
+
+        .glucose-compare-note strong {
+            color: #0b1120;
+        }
+
+        .glucose-results-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-top: 6px;
+            margin-bottom: 16px;
+        }
+
+        .glucose-result-card {
+            background: #f8fbff;
+            border-radius: 18px;
+            padding: 18px 20px;
+            border: 1px solid #e6edf8;
+        }
+
+        .glucose-result-card.ecf {
+            background: linear-gradient(145deg, #f0f5fe, #e8effa);
+            border-color: #c8d9f0;
+        }
+
+        .glucose-result-card .grc-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 6px;
+            flex-wrap: wrap;
+        }
+
+        .glucose-result-card .grc-header .badge {
+            font-size: 12px;
+            font-weight: 600;
+            padding: 2px 14px;
+            border-radius: 40px;
+            letter-spacing: 0.3px;
+        }
+
+        .glucose-result-card .grc-header .badge.ecf-badge {
+            background: #dce5f5;
+            color: #1f3a7a;
+        }
+
+        .glucose-result-card .grc-header .badge.blood-badge {
+            background: #e6ecf3;
+            color: #3d4f72;
+        }
+
+        .glucose-result-card .grc-value {
+            font-size: 30px;
+            font-weight: 700;
+            color: #0b1120;
+            display: flex;
+            align-items: baseline;
+            gap: 4px;
+        }
+
+        .glucose-result-card .grc-value .num {
+            color: #1a4fcf;
+        }
+        .glucose-result-card .grc-value .num.blood-num {
+            color: #4a5a7a;
+        }
+        .glucose-result-card .grc-value .unit-g {
+            font-size: 17px;
+            font-weight: 600;
+            color: #3d4f72;
+        }
+        .glucose-result-card .grc-value .placeholder {
+            font-weight: 400;
+            font-size: 18px;
+            color: #8a9bb8;
+        }
+
+        .glucose-result-card .grc-detail {
+            margin-top: 4px;
+            font-size: 13px;
+            color: #5e6f8d;
+            border-top: 1px dashed #dce5f0;
+            padding-top: 6px;
+        }
+
+        .glucose-compare-box {
+            background: #f2f6fe;
+            border-radius: 14px;
+            padding: 16px 20px;
+            border: 1px solid #e0e9f5;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px 20px;
+            margin-top: 10px;
+        }
+
+        .glucose-compare-box .diff-label {
+            font-weight: 600;
+            font-size: 14px;
+            color: #1f3a7a;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .glucose-compare-box .diff-value {
+            font-size: 20px;
+            font-weight: 700;
+            color: #0b1120;
+            background: #ffffff;
+            padding: 2px 18px;
+            border-radius: 40px;
+            border: 1px solid #d0dff0;
+        }
+
+        .glucose-compare-box .diff-note {
+            font-size: 13px;
+            color: #4a5a7a;
+            margin-left: auto;
+        }
+
+        /* ===== RESPONSIVE OVERRIDES ===== */
+        @media (max-width: 640px) {
+            .input-grid {
+                grid-template-columns: 1fr;
+                gap: 14px;
+            }
+
+            .ratio-display {
+                flex-direction: column;
+                align-items: stretch;
+                text-align: center;
+            }
+            .ratio-display .value-box {
+                justify-content: center;
+            }
+
+            .flow-node {
+                min-width: 120px;
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+
+            .flow-arrow {
+                font-size: 16px;
+            }
+
+            .glucose-results-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .glucose-compare-box .diff-note {
+                margin-left: 0;
+                width: 100%;
+            }
+
+            .bp-scale-item {
+                font-size: 11px;
+                padding: 10px 4px;
+            }
+
+            .card {
+                padding: 20px 14px 24px;
+            }
+
+            .tabs .tab-btn .tab-icon {
+                font-size: 16px;
+            }
+            .tabs .tab-btn {
+                font-size: 12px;
+                padding: 8px 12px;
+            }
+
+            .unit-toggle {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+            }
+
+            .tyg-result .result-value {
+                font-size: 24px;
+            }
+
+            .bp-result .bp-value {
+                font-size: 1.8rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .flow-row {
+                gap: 8px;
+            }
+            .flow-node {
+                min-width: 80px;
+                padding: 6px 8px;
+                font-size: 12px;
+                border-radius: 12px;
+            }
+            .flow-branch .branch-label {
+                font-size: 10px;
+            }
+            .flow-arrow {
+                font-size: 14px;
+            }
+            .app-header .brand h1 {
+                font-size: 18px;
+            }
+            .app-header .brand .badge {
+                font-size: 10px;
+                padding: 1px 10px;
+            }
+        }
+
+        /* ===== UTILITY ===== */
+        .mt-8 {
+            margin-top: 8px;
+        }
+        .mt-12 {
+            margin-top: 12px;
+        }
+        .mt-16 {
+            margin-top: 16px;
+        }
+        .mt-20 {
+            margin-top: 20px;
+        }
+        .mb-8 {
+            margin-bottom: 8px;
+        }
+        .mb-12 {
+            margin-bottom: 12px;
+        }
+        .w-full {
+            width: 100%;
+        }
+
+        input[type="number"]::-webkit-outer-spin-button,
+        input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="app-wrapper">
+        <!-- ===== HEADER ===== -->
+        <header class="app-header">
+            <div class="brand">
+                <h1 id="appTitle">🧬 代谢 &amp; 心血管计算器</h1>
+                <span class="badge" id="appBadge">v2.0</span>
+            </div>
+            <div class="lang-toggle" role="group">
+                <button class="active" data-lang="zh" id="langZh">中文</button>
+                <button data-lang="en" id="langEn">EN</button>
+            </div>
+        </header>
+
+        <!-- ===== TABS ===== -->
+        <nav class="tabs" id="tabNav" role="tablist">
+            <button class="tab-btn active" data-tab="tab-ldl" role="tab">
+                <span class="tab-icon">🧬</span> <span class="tab-label" data-key="tabLdl">LDL 颗粒</span>
+            </button>
+            <button class="tab-btn" data-tab="tab-tyg" role="tab">
+                <span class="tab-icon">🩸</span> <span class="tab-label" data-key="tabTyg">TyG 指数</span>
+            </button>
+            <button class="tab-btn" data-tab="tab-bp" role="tab">
+                <span class="tab-icon">❤️</span> <span class="tab-label" data-key="tabBp">脉压差</span>
+            </button>
+            <button class="tab-btn" data-tab="tab-glucose" role="tab">
+                <span class="tab-icon">🍬</span> <span class="tab-label" data-key="tabGlucose">血糖总量</span>
+            </button>
+        </nav>
+
+        <!-- ============================================================ -->
+        <!-- TAB 1: LDL PATTERN ANALYZER -->
+        <!-- ============================================================ -->
+        <div class="tab-panel active" id="tab-ldl" role="tabpanel">
+            <div class="card">
+                <div class="card-title">
+                    <span>🧬 LDL Particle Pattern</span>
+                    <span class="sub-lang" id="ldlTitleSub">LDL 颗粒模式</span>
+                </div>
+                <div class="card-subhead" id="ldlSubhead">
+                    <span><strong>ldLDL</strong> (large, buoyant) vs <strong>sdLDL</strong> (small, dense) &nbsp;·&nbsp; Based on the <strong>Triglyceride:HDL ratio</strong> with supportive cutoffs.</span>
+                    <br />
+                    <span class="sub-lang"><strong>ldLDL</strong>（大而蓬松） vs <strong>sdLDL</strong>（小而致密）&nbsp;·&nbsp;基于 <strong>甘油三酯:HDL 比值</strong> 及辅助切点。</span>
+                </div>
+
+                <!-- Unit Toggle -->
+                <div class="unit-toggle">
+                    <span class="label" id="ldlUnitLabel">📐 Units</span>
+                    <div class="options" id="ldlUnitOptions">
+                        <input type="radio" name="ldlUnit" id="ldlUnitMmol" value="mmol" checked />
+                        <label for="ldlUnitMmol">mmol/L</label>
+                        <input type="radio" name="ldlUnit" id="ldlUnitMg" value="mg" />
+                        <label for="ldlUnitMg">mg/dL</label>
+                    </div>
+                </div>
+
+                <!-- INPUTS -->
+                <div class="input-grid" id="ldlInputGrid">
+                    <div class="input-group">
+                        <label>
+                            <span id="ldlHdlLabel">HDL</span>
+                            <span class="unit" id="ldlHdlUnitLabel">(mmol/L)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="ldlHdlInput" step="0.01" min="0.1" placeholder="e.g. 1.4 例如 1.4" />
+                            <span class="badge-unit" id="ldlHdlBadge">mmol/L</span>
+                        </div>
+                        <div style="font-size:13px;color:#7a8aa3;margin-top:2px;" id="ldlHdlCutoffDisplay">Cutoff: ≥ 1.3 mmol/L (52 mg/dL) ｜ 切点: ≥ 1.3 mmol/L (52 mg/dL)</div>
+                    </div>
+
+                    <div class="input-group">
+                        <label>
+                            <span id="ldlTgLabel">Triglycerides</span>
+                            <span class="unit" id="ldlTgUnitLabel">(mmol/L)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="ldlTgInput" step="0.01" min="0.1" placeholder="e.g. 0.7 例如 0.7" />
+                            <span class="badge-unit" id="ldlTgBadge">mmol/L</span>
+                        </div>
+                        <div style="font-size:13px;color:#7a8aa3;margin-top:2px;" id="ldlTgCutoffDisplay">Cutoff: ≤ 0.8 mmol/L (70 mg/dL) ｜ 切点: ≤ 0.8 mmol/L (70 mg/dL)</div>
+                    </div>
+
+                    <div class="ratio-display">
+                        <span class="label" id="ldlRatioLabel">📊 Triglyceride : HDL ratio</span>
+                        <div class="value-box">
+                            <span class="num" id="ldlRatioValue">—</span>
+                            <span class="cutoff" id="ldlRatioCutoffDisplay">Cutoff ≤ 0.9 ｜ 切点 ≤ 0.9</span>
+                            <span class="status" id="ldlRatioStatus">—</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FLOWCHART -->
+                <div class="flowchart" id="ldlFlowchart">
+                    <div class="flow-row">
+                        <div class="flow-node" id="ldlNodeHdl">
+                            <span class="main-text" id="ldlHdlNodeText">HDL ≥ 1.3 mmol/L</span>
+                            <span class="sub" id="ldlHdlSub">52 mg/dL</span>
+                        </div>
+                        <span class="flow-arrow">→</span>
+                    </div>
+                    <div class="flow-branch" style="margin-top:-2px;margin-bottom:2px;">
+                        <span class="branch-label" id="ldlHdlYes">✓ Yes</span>
+                        <span style="color:#c5d0e0;padding:0 6px;">|</span>
+                        <span class="branch-label" id="ldlHdlNo">✗ No</span>
+                    </div>
+
+                    <div class="flow-row">
+                        <div class="flow-node" id="ldlNodeTg">
+                            <span class="main-text" id="ldlTgNodeText">Triglyceride ≤ 0.8 mmol/L</span>
+                            <span class="sub" id="ldlTgSub">70 mg/dL</span>
+                        </div>
+                        <span class="flow-arrow">→</span>
+                    </div>
+                    <div class="flow-branch" style="margin-top:-2px;margin-bottom:2px;">
+                        <span class="branch-label" id="ldlTgYes">✓ Yes</span>
+                        <span style="color:#c5d0e0;padding:0 6px;">|</span>
+                        <span class="branch-label" id="ldlTgNo">✗ No</span>
+                    </div>
+
+                    <div class="flow-row">
+                        <div class="flow-node" id="ldlNodeRatio">
+                            <span class="main-text" id="ldlRatioNodeText">TG:HDL ratio ≤ 0.9</span>
+                            <span class="sub" id="ldlRatioSub">mmol/L</span>
+                        </div>
+                        <span class="flow-arrow">→</span>
+                    </div>
+                    <div class="flow-branch" style="margin-top:-2px;margin-bottom:4px;">
+                        <span class="branch-label" id="ldlRatioYes">✓ Yes</span>
+                        <span style="color:#c5d0e0;padding:0 6px;">|</span>
+                        <span class="branch-label" id="ldlRatioNo">✗ No</span>
+                    </div>
+
+                    <div class="flow-row">
+                        <div class="flow-node" id="ldlNodeResult" style="min-width:200px;font-size:16px;padding:14px 24px;">
+                            <span class="main-text" id="ldlResultText">—</span>
+                            <span class="sub" id="ldlResultSub">awaiting values 等待输入</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Result Box -->
+                <div class="result-box" id="ldlResultBox">
+                    <div class="result-label" id="ldlResultLabel">Final Interpretation</div>
+                    <div class="result-value" id="ldlResultValue">—</div>
+                    <div class="result-sub" id="ldlResultSubText">
+                        <span>Enter HDL and triglyceride values to begin.</span>
+                    </div>
+                </div>
+
+                <div class="footnote" id="ldlFootnote">
+                    <span><strong>ldLDL</strong> = large, buoyant LDL (less atherogenic) &nbsp;·&nbsp; <strong>sdLDL</strong> = small, dense LDL (more atherogenic, consider further evaluation)</span>
+                    <br />
+                    <span class="sub-lang"><strong>ldLDL</strong> = 大而蓬松的 LDL（致动脉粥样硬化性较低）&nbsp;·&nbsp; <strong>sdLDL</strong> = 小而致密的 LDL（致动脉粥样硬化性较高，建议进一步评估）</span>
+                    <br /><br />
+                    <span>Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85.</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- TAB 2: TYG INDEX CALCULATOR (auto-calc) - bilingual desc -->
+        <!-- ============================================================ -->
+        <div class="tab-panel" id="tab-tyg" role="tabpanel">
+            <div class="card">
+                <div class="card-title">
+                    <span>🩸 TyG 指数计算器 · TyG Index Calculator</span>
+                </div>
+                <div class="card-subhead">
+                    <span>基于甘油三酯和空腹血糖评估胰岛素抵抗</span><br />
+                    <span>Assess insulin resistance via triglycerides and fasting glucose</span>
+                </div>
+
+                <div class="input-grid">
+                    <div class="input-group">
+                        <label>
+                            <span id="tygTgLabel">甘油三酯 (TG)</span>
+                            <span class="unit">(mmol/L)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="tygTgInput" step="0.01" min="0" placeholder="例如 1.7" />
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <label>
+                            <span id="tygGlucoseLabel">空腹血糖 (FPG)</span>
+                            <span class="unit">(mmol/L)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="tygGlucoseInput" step="0.01" min="0" placeholder="例如 5.6" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tyg-result" id="tygResult">
+                    <div style="text-align:center;font-weight:600;font-size:18px;color:#1f3349;" id="tygResultTitle">您的 TyG 指数 · Your TyG Index</div>
+                    <div class="result-value" id="tygResultValue" style="color:#2a6df4;">—</div>
+                    <div class="interpretation" id="tygInterpretation"></div>
+                </div>
+
+                <div class="mt-20" style="padding-top:20px;border-top:1px solid #eef2f8;">
+                    <h4 style="font-size:16px;font-weight:700;color:#1f3349;margin-bottom:12px;" id="tygAboutTitle">📖 关于 TyG 指数 · About TyG Index</h4>
+                    <p style="font-size:14px;color:#4a5b78;line-height:1.7;margin-bottom:12px;" id="tygAboutDesc">
+                        TyG指数（甘油三酯-葡萄糖指数）是一种评估胰岛素抵抗的简单可靠的指标。
+                        <span class="sub-lang">TyG指数（甘油三酯-葡萄糖指数）是一种评估胰岛素抵抗的简单可靠的指标。</span>
+                    </p>
+                    <div style="background:#2c3e50;color:white;padding:14px;border-radius:10px;text-align:center;font-family:'Courier New',monospace;font-size:18px;font-weight:600;margin-bottom:16px;">
+                        TyG = Ln [ TG(mg/dL) × FPG(mg/dL) / 2 ]
+                    </div>
+                    <p style="font-size:13px;color:#5e6f8d;margin-bottom:12px;" id="tygConvNote">
+                        <span>转换: 1 mmol/L TG = 88.57 mg/dL · 1 mmol/L 血糖 = 18.018 mg/dL</span>
+                        <span class="sub-lang">转换: 1 mmol/L TG = 88.57 mg/dL · 1 mmol/L 血糖 = 18.018 mg/dL</span>
+                    </p>
+
+                    <div style="margin-top:14px;" id="tygRangeContainer">
+                        <div class="tyg-range-item tyg-range-normal">
+                            <div class="tyg-range-title" id="tygRangeNormalTitle">✅ 正常范围：TyG &lt; 8.5</div>
+                            <div style="font-size:13px;color:#2c3e50;" id="tygRangeNormalDesc">胰岛素敏感性较好，代谢健康状态良好。</div>
+                        </div>
+                        <div class="tyg-range-item tyg-range-mild">
+                            <div class="tyg-range-title" id="tygRangeMildTitle">⚠️ 轻度胰岛素抵抗：TyG 8.5 – 9.0</div>
+                            <div style="font-size:13px;color:#2c3e50;" id="tygRangeMildDesc">提示可能存在轻度胰岛素抵抗，建议改善生活方式并定期监测。</div>
+                        </div>
+                        <div class="tyg-range-item tyg-range-significant">
+                            <div class="tyg-range-title" id="tygRangeSignifTitle">🚨 明显胰岛素抵抗：TyG &gt; 9.0</div>
+                            <div style="font-size:13px;color:#2c3e50;" id="tygRangeSignifDesc">提示可能存在明显胰岛素抵抗，建议咨询医生进行进一步评估。</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- TAB 3: BLOOD PRESSURE (PULSE PRESSURE) CALCULATOR (auto-calc) - bilingual desc -->
+        <!-- ============================================================ -->
+        <div class="tab-panel" id="tab-bp" role="tabpanel">
+            <div class="card">
+                <div class="card-title">
+                    <span>❤️ 脉压差计算器 · Pulse Pressure Calculator</span>
+                </div>
+                <div class="card-subhead">
+                    <span>计算您的脉压并了解其对健康的意义</span><br />
+                    <span>Calculate your pulse pressure and understand its health implications</span>
+                </div>
+
+                <div class="input-grid">
+                    <div class="input-group">
+                        <label>
+                            <span id="bpSysLabel">收缩压 (SBP)</span>
+                            <span class="unit">(mmHg)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="bpSystolic" step="1" min="50" max="250" placeholder="例如 120" />
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <label>
+                            <span id="bpDiaLabel">舒张压 (DBP)</span>
+                            <span class="unit">(mmHg)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="bpDiastolic" step="1" min="30" max="150" placeholder="例如 80" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bp-result" id="bpResult">
+                    <div style="text-align:center;font-weight:600;font-size:18px;color:#1f3349;" id="bpResultTitle">脉压 (差值) · Pulse Pressure</div>
+                    <div class="bp-value" id="bpPulseValue" style="color:#e74c3c;">0 mmHg</div>
+                    <div class="bp-interp" id="bpInterp">请输入您的血压读数以查看解读。</div>
+                </div>
+
+                <div class="bp-scale" style="margin-top:16px;">
+                    <div class="bp-scale-item bp-scale-low" id="bpScaleLow">&lt;20 mmHg<br>偏低</div>
+                    <div class="bp-scale-item bp-scale-normal" id="bpScaleNormal">20–40 mmHg<br>正常</div>
+                    <div class="bp-scale-item bp-scale-fatigue" id="bpScaleFatigue">40–60 mmHg<br>疲劳</div>
+                    <div class="bp-scale-item bp-scale-high" id="bpScaleHigh">&gt;60 mmHg<br>偏高</div>
+                </div>
+
+                <div style="margin-top:20px;padding-top:20px;border-top:1px solid #eef2f8;">
+                    <h4 style="font-size:16px;font-weight:700;color:#1f3349;margin-bottom:10px;" id="bpAboutTitle">📖 了解脉压 · Understanding Pulse Pressure</h4>
+                    <p style="font-size:14px;color:#4a5b78;line-height:1.7;" id="bpAboutDesc">
+                        脉压是收缩压（高压）和舒张压（低压）读数之间的差值。
+                        <span class="sub-lang">脉压是收缩压（高压）和舒张压（低压）读数之间的差值。</span>
+                    </p>
+                    <ul style="font-size:14px;color:#4a5b78;line-height:1.8;margin-top:8px;padding-left:20px;" id="bpAboutList">
+                        <li><strong style="color:#1f3349;">偏低:</strong> &lt;20 mmHg (可能表示心输出量减少)</li>
+                        <li><strong style="color:#1f3349;">正常:</strong> 20–40 mmHg (健康范围)</li>
+                        <li><strong style="color:#1f3349;">疲劳:</strong> 40–60 mmHg (可能表示疲劳或早期动脉硬化)</li>
+                        <li><strong style="color:#1f3349;">偏高:</strong> &gt;60 mmHg (可能表示明显的动脉硬化)</li>
+                    </ul>
+                    <p style="font-size:13px;color:#7a8aa3;margin-top:10px;" id="bpDisclaimer">⚠️ 此计算器仅提供教育信息。请咨询医疗专业人士以获取医疗建议。</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- TAB 4: BLOOD GLUCOSE MASS CALCULATOR - bilingual desc -->
+        <!-- ============================================================ -->
+        <div class="tab-panel" id="tab-glucose" role="tabpanel">
+            <div class="card">
+                <div class="card-title">
+                    <span>🍬 血糖总量计算器 · Blood Glucose Mass Calculator</span>
+                </div>
+                <div class="card-subhead">
+                    <span>血液 vs 细胞外液 (ECF) 对比</span><br />
+                    <span>Blood vs Extracellular Fluid (ECF) Comparison</span>
+                </div>
+
+                <!-- Formula Banner -->
+                <div class="glucose-formula-banner">
+                    <div class="formula-row">
+                        <span style="font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;color:#4a5a7a;" id="gluFormulaLabel">公式</span>
+                        <span class="math" id="gluMathEcf">总量 ECF = 血糖 × 0.18 × 体重 × 0.2</span>
+                        <span class="note" id="gluNoteEcf">(ECF 容积 ~20% 体重)</span>
+                    </div>
+                    <div class="formula-row" style="margin-top:6px;">
+                        <span style="font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;color:#4a5a7a;opacity:0.7;" id="gluCompareLabel">对比</span>
+                        <span class="math" id="gluMathBlood">血液中 = 血糖 × 0.18 × 体重 × 0.07</span>
+                        <span class="note" id="gluNoteBlood">(血液容积 ~7% 体重)</span>
+                    </div>
+                    <div class="glucose-compare-note" id="gluCompareNote">
+                        <strong>📊 生理学差异：</strong>
+                        葡萄糖主要分布于细胞外液 (ECF)，而血液仅占其中一小部分。
+                        使用 <strong>ECF 容积 (20% 体重)</strong> 更准确反映全身葡萄糖总量；
+                        若仅按 <strong>血液容积 (7% 体重)</strong> 计算，会严重低估 (约低估 65%)。
+                    </div>
+                </div>
+
+                <!-- Inputs -->
+                <div class="input-grid">
+                    <div class="input-group">
+                        <label>
+                            <span id="gluGlucoseLabel">血糖浓度</span>
+                            <span class="unit">(mmol/L)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="gluGlucoseInput" step="0.1" min="0" placeholder="例如 10" />
+                        </div>
+                        <span style="font-size:13px;color:#7a8aa3;margin-top:2px;" id="gluGlucoseHint">参考范围：3.9 – 11.1 mmol/L</span>
+                    </div>
+                    <div class="input-group">
+                        <label>
+                            <span id="gluWeightLabel">体重</span>
+                            <span class="unit">(kg)</span>
+                        </label>
+                        <div class="input-row">
+                            <input type="number" id="gluWeightInput" step="0.5" min="0" placeholder="例如 70" />
+                        </div>
+                        <span style="font-size:13px;color:#7a8aa3;margin-top:2px;" id="gluWeightHint">成人参考：50 – 100 kg</span>
+                    </div>
+                </div>
+
+                <!-- Results -->
+                <div class="glucose-results-grid">
+                    <div class="glucose-result-card ecf">
+                        <div class="grc-header">
+                            <span class="badge ecf-badge" id="gluEcfBadge">ECF 分布</span>
+                            <span style="font-size:14px;font-weight:500;color:#2a3a5c;" id="gluEcfLabel">全身总量 (估算)</span>
+                        </div>
+                        <div class="grc-value">
+                            <span class="num" id="gluEcfNumber">—</span>
+                            <span class="unit-g">g</span>
+                        </div>
+                        <div class="grc-detail" id="gluEcfDetail">公式：血糖 × 0.18 × 体重 × 0.2</div>
+                    </div>
+
+                    <div class="glucose-result-card">
+                        <div class="grc-header">
+                            <span class="badge blood-badge" id="gluBloodBadge">血液中</span>
+                            <span style="font-size:14px;font-weight:500;color:#2a3a5c;" id="gluBloodLabel">血液中总量 (估算)</span>
+                        </div>
+                        <div class="grc-value">
+                            <span class="num blood-num" id="gluBloodNumber">—</span>
+                            <span class="unit-g">g</span>
+                        </div>
+                        <div class="grc-detail" id="gluBloodDetail">公式：血糖 × 0.18 × 体重 × 0.07</div>
+                    </div>
+                </div>
+
+                <div class="glucose-compare-box">
+                    <span class="diff-label" id="gluDiffLabel">🔍 差异 (ECF − 血液)</span>
+                    <span class="diff-value" id="gluDiffValue">—</span>
+                    <span class="diff-note" id="gluDiffNote">血液仅占 ECF 总量约 35%</span>
+                </div>
+
+                <div style="margin-top:20px;padding-top:18px;border-top:1px solid #eef2f8;font-size:13px;color:#6f80a0;line-height:1.7;text-align:center;" id="gluFooterNote">
+                    <strong>生理学依据：</strong>
+                    葡萄糖分布于细胞外液 (ECF)，约占体重的 20% (0.2 L/kg)。
+                    血液容积约占体重的 7% (0.07 L/kg)，仅反映循环中的葡萄糖，忽略组织间液。
+                    公式：<strong>总量 (g) = 血糖 (mmol/L) × 0.18 × 体重 (kg) × 容积系数</strong>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== FOOTER ===== -->
+        <div style="text-align:center;margin-top:28px;font-size:13px;color:#8a9bb8;padding:12px 0 4px;border-top:1px solid #e6ecf3;">
+            <span id="footerMain">代谢与心血管计算器 · 仅供教育参考 · 请咨询医疗专业人士</span>
+            <br />
+            <span style="font-size:12px;" id="footerSub">Metabolic &amp; CV Calculators · For educational purposes only · Consult your healthcare provider</span>
+        </div>
+    </div>
+
+    <script>
+        (function() {
+            'use strict';
+
+            // ============================================================
+            // 1. LANGUAGE TRANSLATIONS
+            // ============================================================
+            const LANG = {
+                zh: {
+                    appTitle: '🧬 代谢 & 心血管计算器',
+                    appBadge: 'v2.0 · 中文',
+                    tabLdl: 'LDL 颗粒',
+                    tabTyg: 'TyG 指数',
+                    tabBp: '脉压差',
+                    tabGlucose: '血糖总量',
+                    // LDL
+                    ldlTitleSub: 'LDL 颗粒模式',
+                    ldlSubhead: '<span><strong>ldLDL</strong>（大而蓬松） vs <strong>sdLDL</strong>（小而致密）&nbsp;·&nbsp;基于 <strong>甘油三酯:HDL 比值</strong> 及辅助切点。</span><br /><span class="sub-lang"><strong>ldLDL</strong> (large, buoyant) vs <strong>sdLDL</strong> (small, dense) &nbsp;·&nbsp; Based on the <strong>Triglyceride:HDL ratio</strong> with supportive cutoffs.</span>',
+                    ldlUnitLabel: '📐 单位',
+                    ldlHdlLabel: '高密度脂蛋白 (HDL)',
+                    ldlTgLabel: '甘油三酯 (Triglycerides)',
+                    ldlRatioLabel: '📊 甘油三酯 : HDL 比值',
+                    ldlHdlCutoff: '切点: ≥ {hdl} {unit} ({otherHdl} {otherUnit})',
+                    ldlTgCutoff: '切点: ≤ {tg} {unit} ({otherTg} {otherUnit})',
+                    ldlRatioCutoff: '切点 ≤ {ratio}',
+                    ldlHdlNode: 'HDL ≥ {hdl} {unit}',
+                    ldlTgNode: '甘油三酯 ≤ {tg} {unit}',
+                    ldlRatioNode: 'TG:HDL 比值 ≤ {ratio}',
+                    ldlHdlSub: '{val} {unit}',
+                    ldlTgSub: '{val} {unit}',
+                    ldlRatioSub: '{unit} · 切点 {ratio}',
+                    ldlYes: '✓ 是',
+                    ldlNo: '✗ 否',
+                    ldlResultPlaceholder: '—',
+                    ldlResultSubPlaceholder: '等待输入',
+                    ldlResultLabel: '最终解读',
+                    ldlResultText_ldl: 'ldLDL',
+                    ldlResultSub_ldl: '模式 A ✓',
+                    ldlResultDesc_ldl: '大而蓬松的 LDL 颗粒 · 致动脉粥样硬化性较低',
+                    ldlResultText_sdl: 'sdLDL',
+                    ldlResultSub_sdl: '模式 B ⚠',
+                    ldlResultDesc_sdl: '小而致密的 LDL 颗粒 · 致动脉粥样硬化性较高 — 建议进一步评估',
+                    ldlFootnote: '<strong>ldLDL</strong> = 大而蓬松的 LDL（致动脉粥样硬化性较低）&nbsp;·&nbsp; <strong>sdLDL</strong> = 小而致密的 LDL（致动脉粥样硬化性较高，建议进一步评估）<br /><br />Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85.',
+                    // TyG (only labels and dynamic parts)
+                    tygTgLabel: '甘油三酯 (TG)',
+                    tygGlucoseLabel: '空腹血糖 (FPG)',
+                    tygResultTitle: '您的 TyG 指数',
+                    tygAboutTitle: '📖 关于 TyG 指数',
+                    tygAboutDesc: 'TyG指数（甘油三酯-葡萄糖指数）是一种评估胰岛素抵抗的简单可靠的指标。',
+                    tygConvNote: '转换: 1 mmol/L TG = 88.57 mg/dL · 1 mmol/L 血糖 = 18.018 mg/dL',
+                    tygRangeNormalTitle: '✅ 正常范围：TyG < 8.5',
+                    tygRangeNormalDesc: '胰岛素敏感性较好，代谢健康状态良好。',
+                    tygRangeMildTitle: '⚠️ 轻度胰岛素抵抗：TyG 8.5 – 9.0',
+                    tygRangeMildDesc: '提示可能存在轻度胰岛素抵抗，建议改善生活方式并定期监测。',
+                    tygRangeSignifTitle: '🚨 明显胰岛素抵抗：TyG > 9.0',
+                    tygRangeSignifDesc: '提示可能存在明显胰岛素抵抗，建议咨询医生进行进一步评估。',
+                    tygInterpNormal: '✅ 您的TyG指数在正常范围内，提示胰岛素敏感性较好。',
+                    tygInterpMild: '⚠️ 您的TyG指数提示可能存在轻度胰岛素抵抗，建议关注生活方式并定期复查。',
+                    tygInterpSignif: '🚨 您的TyG指数提示可能存在明显胰岛素抵抗，建议咨询医生进行进一步评估。',
+                    // BP
+                    bpSysLabel: '收缩压 (SBP)',
+                    bpDiaLabel: '舒张压 (DBP)',
+                    bpResultTitle: '脉压 (差值)',
+                    bpInterpPlaceholder: '请输入您的血压读数以查看解读。',
+                    bpInterpLow: '您的脉压偏低。这可能表示心输出量减少或其他心血管问题。',
+                    bpInterpNormal: '您的脉压在正常范围内。这通常是心血管健康的一个良好指标。',
+                    bpInterpFatigue: '您的脉压表示可能存在疲劳或早期动脉硬化。如果担心，请考虑改变生活方式并咨询医疗保健提供者。',
+                    bpInterpHigh: '您的脉压偏高。这可能表示明显的动脉硬化和心血管风险增加。',
+                    bpScaleLow: '<20 mmHg<br>偏低',
+                    bpScaleNormal: '20–40 mmHg<br>正常',
+                    bpScaleFatigue: '40–60 mmHg<br>疲劳',
+                    bpScaleHigh: '>60 mmHg<br>偏高',
+                    bpAboutTitle: '📖 了解脉压',
+                    bpAboutDesc: '脉压是收缩压（高压）和舒张压（低压）读数之间的差值。',
+                    bpAboutList: '<li><strong style="color:#1f3349;">偏低:</strong> &lt;20 mmHg (可能表示心输出量减少)</li><li><strong style="color:#1f3349;">正常:</strong> 20–40 mmHg (健康范围)</li><li><strong style="color:#1f3349;">疲劳:</strong> 40–60 mmHg (可能表示疲劳或早期动脉硬化)</li><li><strong style="color:#1f3349;">偏高:</strong> &gt;60 mmHg (可能表示明显的动脉硬化)</li>',
+                    bpDisclaimer: '⚠️ 此计算器仅提供教育信息。请咨询医疗专业人士以获取医疗建议。',
+                    // Glucose
+                    gluFormulaLabel: '公式',
+                    gluCompareLabel: '对比',
+                    gluMathEcf: '总量 ECF = 血糖 × 0.18 × 体重 × 0.2',
+                    gluNoteEcf: '(ECF 容积 ~20% 体重)',
+                    gluMathBlood: '血液中 = 血糖 × 0.18 × 体重 × 0.07',
+                    gluNoteBlood: '(血液容积 ~7% 体重)',
+                    gluCompareNote: '<strong>📊 生理学差异：</strong>葡萄糖主要分布于细胞外液 (ECF)，而血液仅占其中一小部分。使用 <strong>ECF 容积 (20% 体重)</strong> 更准确反映全身葡萄糖总量；若仅按 <strong>血液容积 (7% 体重)</strong> 计算，会严重低估 (约低估 65%)。',
+                    gluGlucoseLabel: '血糖浓度',
+                    gluGlucoseHint: '参考范围：3.9 – 11.1 mmol/L',
+                    gluWeightLabel: '体重',
+                    gluWeightHint: '成人参考：50 – 100 kg',
+                    gluEcfBadge: 'ECF 分布',
+                    gluEcfLabel: '全身总量 (估算)',
+                    gluEcfDetail: '公式：血糖 × 0.18 × 体重 × 0.2',
+                    gluBloodBadge: '血液中',
+                    gluBloodLabel: '血液中总量 (估算)',
+                    gluBloodDetail: '公式：血糖 × 0.18 × 体重 × 0.07',
+                    gluDiffLabel: '🔍 差异 (ECF − 血液)',
+                    gluDiffNote: '血液仅占 ECF 总量约 35%',
+                    gluFooterNote: '<strong>生理学依据：</strong>葡萄糖分布于细胞外液 (ECF)，约占体重的 20% (0.2 L/kg)。血液容积约占体重的 7% (0.07 L/kg)，仅反映循环中的葡萄糖，忽略组织间液。公式：<strong>总量 (g) = 血糖 (mmol/L) × 0.18 × 体重 (kg) × 容积系数</strong>',
+                    footerMain: '代谢与心血管计算器 · 仅供教育参考 · 请咨询医疗专业人士',
+                    footerSub: 'Metabolic & CV Calculators · For educational purposes only · Consult your healthcare provider',
+                },
+                en: {
+                    appTitle: '🧬 Metabolic & CV Calculator',
+                    appBadge: 'v2.0 · EN',
+                    tabLdl: 'LDL Pattern',
+                    tabTyg: 'TyG Index',
+                    tabBp: 'Pulse Pressure',
+                    tabGlucose: 'Glucose Mass',
+                    // LDL
+                    ldlTitleSub: 'LDL Particle Pattern',
+                    ldlSubhead: '<span><strong>ldLDL</strong> (large, buoyant) vs <strong>sdLDL</strong> (small, dense) &nbsp;·&nbsp; Based on the <strong>Triglyceride:HDL ratio</strong> with supportive cutoffs.</span><br /><span class="sub-lang"><strong>ldLDL</strong>（大而蓬松） vs <strong>sdLDL</strong>（小而致密）&nbsp;·&nbsp;基于 <strong>甘油三酯:HDL 比值</strong> 及辅助切点。</span>',
+                    ldlUnitLabel: '📐 Units',
+                    ldlHdlLabel: 'HDL',
+                    ldlTgLabel: 'Triglycerides',
+                    ldlRatioLabel: '📊 Triglyceride : HDL ratio',
+                    ldlHdlCutoff: 'Cutoff: ≥ {hdl} {unit} ({otherHdl} {otherUnit})',
+                    ldlTgCutoff: 'Cutoff: ≤ {tg} {unit} ({otherTg} {otherUnit})',
+                    ldlRatioCutoff: 'Cutoff ≤ {ratio}',
+                    ldlHdlNode: 'HDL ≥ {hdl} {unit}',
+                    ldlTgNode: 'Triglyceride ≤ {tg} {unit}',
+                    ldlRatioNode: 'TG:HDL ratio ≤ {ratio}',
+                    ldlHdlSub: '{val} {unit}',
+                    ldlTgSub: '{val} {unit}',
+                    ldlRatioSub: '{unit} · cutoff {ratio}',
+                    ldlYes: '✓ Yes',
+                    ldlNo: '✗ No',
+                    ldlResultPlaceholder: '—',
+                    ldlResultSubPlaceholder: 'awaiting values',
+                    ldlResultLabel: 'Final Interpretation',
+                    ldlResultText_ldl: 'ldLDL',
+                    ldlResultSub_ldl: 'Pattern A ✓',
+                    ldlResultDesc_ldl: 'Large, buoyant LDL particles · Less atherogenic',
+                    ldlResultText_sdl: 'sdLDL',
+                    ldlResultSub_sdl: 'Pattern B ⚠',
+                    ldlResultDesc_sdl: 'Small, dense LDL particles · More atherogenic — consider further evaluation',
+                    ldlFootnote: '<strong>ldLDL</strong> = large, buoyant LDL (less atherogenic) &nbsp;·&nbsp; <strong>sdLDL</strong> = small, dense LDL (more atherogenic, consider further evaluation)<br /><br />Boizel R, Benhamou PY, Lardy B, Laporte F, Foulon T, Halimi S. Ratio of triglycerides to HDL cholesterol is an indicator of LDL particle size in patients with type 2 diabetes and normal HDL cholesterol levels. Diabetes Care. 2000 Nov;23(11):1679-85.',
+                    // TyG
+                    tygTgLabel: 'Triglycerides (TG)',
+                    tygGlucoseLabel: 'Fasting Glucose (FPG)',
+                    tygResultTitle: 'Your TyG Index',
+                    tygAboutTitle: '📖 About TyG Index',
+                    tygAboutDesc: 'TyG (Triglyceride-Glucose) index is a simple and reliable marker for insulin resistance.',
+                    tygConvNote: 'Conversion: 1 mmol/L TG = 88.57 mg/dL · 1 mmol/L glucose = 18.018 mg/dL',
+                    tygRangeNormalTitle: '✅ Normal: TyG < 8.5',
+                    tygRangeNormalDesc: 'Good insulin sensitivity, favorable metabolic health.',
+                    tygRangeMildTitle: '⚠️ Mild insulin resistance: TyG 8.5 – 9.0',
+                    tygRangeMildDesc: 'Suggests possible mild insulin resistance. Consider lifestyle modifications and regular monitoring.',
+                    tygRangeSignifTitle: '🚨 Significant insulin resistance: TyG > 9.0',
+                    tygRangeSignifDesc: 'Suggests significant insulin resistance. Strongly recommend further evaluation by a healthcare provider.',
+                    tygInterpNormal: '✅ Your TyG index is within normal range, indicating good insulin sensitivity.',
+                    tygInterpMild: '⚠️ Your TyG index suggests mild insulin resistance. Consider lifestyle modifications and follow-up.',
+                    tygInterpSignif: '🚨 Your TyG index suggests significant insulin resistance. Please consult your healthcare provider for further evaluation.',
+                    // BP
+                    bpSysLabel: 'Systolic (SBP)',
+                    bpDiaLabel: 'Diastolic (DBP)',
+                    bpResultTitle: 'Pulse Pressure',
+                    bpInterpPlaceholder: 'Enter your blood pressure readings to see interpretation.',
+                    bpInterpLow: 'Your pulse pressure is low. This may indicate reduced cardiac output or other cardiovascular issues.',
+                    bpInterpNormal: 'Your pulse pressure is within normal range. This is generally a good indicator of cardiovascular health.',
+                    bpInterpFatigue: 'Your pulse pressure suggests possible fatigue or early arterial stiffness. Consider lifestyle changes and consult a provider if concerned.',
+                    bpInterpHigh: 'Your pulse pressure is high. This may indicate significant arterial stiffness and increased cardiovascular risk.',
+                    bpScaleLow: '<20 mmHg<br>Low',
+                    bpScaleNormal: '20–40 mmHg<br>Normal',
+                    bpScaleFatigue: '40–60 mmHg<br>Fatigue',
+                    bpScaleHigh: '>60 mmHg<br>High',
+                    bpAboutTitle: '📖 Understanding Pulse Pressure',
+                    bpAboutDesc: 'Pulse pressure is the difference between your systolic (high) and diastolic (low) blood pressure readings.',
+                    bpAboutList: '<li><strong style="color:#1f3349;">Low:</strong> &lt;20 mmHg (may indicate reduced cardiac output)</li><li><strong style="color:#1f3349;">Normal:</strong> 20–40 mmHg (healthy range)</li><li><strong style="color:#1f3349;">Fatigue:</strong> 40–60 mmHg (may indicate fatigue or early arterial stiffness)</li><li><strong style="color:#1f3349;">High:</strong> &gt;60 mmHg (may indicate significant arterial stiffness)</li>',
+                    bpDisclaimer: '⚠️ This calculator is for educational purposes only. Please consult a healthcare professional for medical advice.',
+                    // Glucose
+                    gluFormulaLabel: 'Formula',
+                    gluCompareLabel: 'Compare',
+                    gluMathEcf: 'Mass ECF = Glucose × 0.18 × Weight × 0.2',
+                    gluNoteEcf: '(ECF volume ~20% body weight)',
+                    gluMathBlood: 'Blood = Glucose × 0.18 × Weight × 0.07',
+                    gluNoteBlood: '(Blood volume ~7% body weight)',
+                    gluCompareNote: '<strong>📊 Physiological difference:</strong> Glucose is mainly distributed in extracellular fluid (ECF), with blood being only a small fraction. Using <strong>ECF volume (20% body weight)</strong> more accurately reflects total body glucose; calculating with <strong>blood volume (7% body weight)</strong> significantly underestimates (by ~65%).',
+                    gluGlucoseLabel: 'Glucose Concentration',
+                    gluGlucoseHint: 'Ref. range: 3.9 – 11.1 mmol/L',
+                    gluWeightLabel: 'Body Weight',
+                    gluWeightHint: 'Adult ref.: 50 – 100 kg',
+                    gluEcfBadge: 'ECF Distributed',
+                    gluEcfLabel: 'Total Body Mass (Est.)',
+                    gluEcfDetail: 'Formula: Glucose × 0.18 × Weight × 0.2',
+                    gluBloodBadge: 'In Blood',
+                    gluBloodLabel: 'Blood Mass (Est.)',
+                    gluBloodDetail: 'Formula: Glucose × 0.18 × Weight × 0.07',
+                    gluDiffLabel: '🔍 Difference (ECF − Blood)',
+                    gluDiffNote: 'Blood is ~35% of ECF mass',
+                    gluFooterNote: '<strong>Physiological basis:</strong> Glucose distributes in extracellular fluid (ECF), ~20% of body weight (0.2 L/kg). Blood volume is ~7% of body weight (0.07 L/kg), reflecting only circulating glucose, ignoring interstitial fluid. Formula: <strong>Mass (g) = Glucose (mmol/L) × 0.18 × Weight (kg) × Volume Factor</strong>',
+                    footerMain: 'Metabolic & CV Calculators · For educational purposes only · Consult your healthcare provider',
+                    footerSub: '代谢与心血管计算器 · 仅供教育参考 · 请咨询医疗专业人士',
+                }
+            };
+
+            let currentLang = 'zh';
+
+            // ============================================================
+            // 2. DOM REFS
+            // ============================================================
+            const langZh = document.getElementById('langZh');
+            const langEn = document.getElementById('langEn');
+
+            // ---- LDL ----
+            const ldlHdlInput = document.getElementById('ldlHdlInput');
+            const ldlTgInput = document.getElementById('ldlTgInput');
+            const ldlUnitMmol = document.getElementById('ldlUnitMmol');
+            const ldlUnitMg = document.getElementById('ldlUnitMg');
+            const ldlRatioValue = document.getElementById('ldlRatioValue');
+            const ldlRatioStatus = document.getElementById('ldlRatioStatus');
+            const ldlRatioCutoffDisplay = document.getElementById('ldlRatioCutoffDisplay');
+            const ldlHdlCutoffDisplay = document.getElementById('ldlHdlCutoffDisplay');
+            const ldlTgCutoffDisplay = document.getElementById('ldlTgCutoffDisplay');
+            const ldlHdlNodeText = document.getElementById('ldlHdlNodeText');
+            const ldlTgNodeText = document.getElementById('ldlTgNodeText');
+            const ldlRatioNodeText = document.getElementById('ldlRatioNodeText');
+            const ldlHdlSub = document.getElementById('ldlHdlSub');
+            const ldlTgSub = document.getElementById('ldlTgSub');
+            const ldlRatioSub = document.getElementById('ldlRatioSub');
+            const ldlHdlYes = document.getElementById('ldlHdlYes');
+            const ldlHdlNo = document.getElementById('ldlHdlNo');
+            const ldlTgYes = document.getElementById('ldlTgYes');
+            const ldlTgNo = document.getElementById('ldlTgNo');
+            const ldlRatioYes = document.getElementById('ldlRatioYes');
+            const ldlRatioNo = document.getElementById('ldlRatioNo');
+            const ldlNodeHdl = document.getElementById('ldlNodeHdl');
+            const ldlNodeTg = document.getElementById('ldlNodeTg');
+            const ldlNodeRatio = document.getElementById('ldlNodeRatio');
+            const ldlNodeResult = document.getElementById('ldlNodeResult');
+            const ldlResultText = document.getElementById('ldlResultText');
+            const ldlResultSub = document.getElementById('ldlResultSub');
+            const ldlResultValue = document.getElementById('ldlResultValue');
+            const ldlResultSubText = document.getElementById('ldlResultSubText');
+            const ldlResultBox = document.getElementById('ldlResultBox');
+
+            // ---- TyG ----
+            const tygTgInput = document.getElementById('tygTgInput');
+            const tygGlucoseInput = document.getElementById('tygGlucoseInput');
+            const tygResult = document.getElementById('tygResult');
+            const tygResultValue = document.getElementById('tygResultValue');
+            const tygInterpretation = document.getElementById('tygInterpretation');
+
+            // ---- BP ----
+            const bpSystolic = document.getElementById('bpSystolic');
+            const bpDiastolic = document.getElementById('bpDiastolic');
+            const bpResult = document.getElementById('bpResult');
+            const bpPulseValue = document.getElementById('bpPulseValue');
+            const bpInterp = document.getElementById('bpInterp');
+
+            // ---- Glucose ----
+            const gluGlucoseInput = document.getElementById('gluGlucoseInput');
+            const gluWeightInput = document.getElementById('gluWeightInput');
+            const gluEcfNumber = document.getElementById('gluEcfNumber');
+            const gluBloodNumber = document.getElementById('gluBloodNumber');
+            const gluDiffValue = document.getElementById('gluDiffValue');
+
+            // ============================================================
+            // 3. LDL CONSTANTS & HELPERS
+            // ============================================================
+            const HDL_FACTOR = 38.67;
+            const TG_FACTOR = 88.57;
+            const CUTOFFS = {
+                mmol: { hdl: 1.3, tg: 0.8, ratio: 0.9 },
+                mg: { hdl: 52, tg: 70, ratio: 2.0 }
+            };
+            let ldlUnit = 'mmol';
+
+            function getLdlUnit() { return ldlUnit; }
+
+            function convertLdlVal(value, fromUnit, toUnit, type) {
+                if (fromUnit === toUnit) return value;
+                if (fromUnit === 'mmol' && toUnit === 'mg') {
+                    return type === 'hdl' ? value * HDL_FACTOR : value * TG_FACTOR;
+                } else if (fromUnit === 'mg' && toUnit === 'mmol') {
+                    return type === 'hdl' ? value / HDL_FACTOR : value / TG_FACTOR;
+                }
+                return value;
+            }
+
+            // ============================================================
+            // 4. UPDATE FUNCTIONS
+            // ============================================================
+
+            // ---- LDL Update ----
+            function updateLdl() {
+                const unit = getLdlUnit();
+                const hdlVal = parseFloat(ldlHdlInput.value);
+                const tgVal = parseFloat(ldlTgInput.value);
+                const valid = !isNaN(hdlVal) && hdlVal > 0 && !isNaN(tgVal) && tgVal > 0;
+
+                const cutoffs = CUTOFFS[unit];
+                const hdlCutoff = cutoffs.hdl;
+                const tgCutoff = cutoffs.tg;
+                const ratioCutoff = cutoffs.ratio;
+                const unitLabel = unit === 'mmol' ? 'mmol/L' : 'mg/dL';
+                const otherUnit = unit === 'mmol' ? 'mg' : 'mmol';
+                const otherHdl = CUTOFFS[otherUnit].hdl;
+                const otherTg = CUTOFFS[otherUnit].tg;
+
+                // Update unit labels (static)
+                document.getElementById('ldlHdlUnitLabel').textContent = `(${unitLabel})`;
+                document.getElementById('ldlTgUnitLabel').textContent = `(${unitLabel})`;
+                document.getElementById('ldlHdlBadge').textContent = unitLabel;
+                document.getElementById('ldlTgBadge').textContent = unitLabel;
+
+                // Cutoff displays
+                const hdlCutoffStr = LANG[currentLang].ldlHdlCutoff
+                    .replace('{hdl}', hdlCutoff)
+                    .replace('{unit}', unitLabel)
+                    .replace('{otherHdl}', otherHdl)
+                    .replace('{otherUnit}', otherUnit === 'mmol' ? 'mmol/L' : 'mg/dL');
+                ldlHdlCutoffDisplay.textContent = hdlCutoffStr;
+
+                const tgCutoffStr = LANG[currentLang].ldlTgCutoff
+                    .replace('{tg}', tgCutoff)
+                    .replace('{unit}', unitLabel)
+                    .replace('{otherTg}', otherTg)
+                    .replace('{otherUnit}', otherUnit === 'mmol' ? 'mmol/L' : 'mg/dL');
+                ldlTgCutoffDisplay.textContent = tgCutoffStr;
+
+                const ratioCutoffStr = LANG[currentLang].ldlRatioCutoff.replace('{ratio}', ratioCutoff);
+                ldlRatioCutoffDisplay.textContent = ratioCutoffStr;
+
+                // Node texts
+                ldlHdlNodeText.textContent = LANG[currentLang].ldlHdlNode
+                    .replace('{hdl}', hdlCutoff)
+                    .replace('{unit}', unitLabel);
+                ldlTgNodeText.textContent = LANG[currentLang].ldlTgNode
+                    .replace('{tg}', tgCutoff)
+                    .replace('{unit}', unitLabel);
+                ldlRatioNodeText.textContent = LANG[currentLang].ldlRatioNode.replace('{ratio}', ratioCutoff);
+
+                const otherHdlVal = unit === 'mmol' ? (hdlCutoff * HDL_FACTOR).toFixed(0) : (hdlCutoff / HDL_FACTOR).toFixed(
+                2);
+                const otherTgVal = unit === 'mmol' ? (tgCutoff * TG_FACTOR).toFixed(0) : (tgCutoff / TG_FACTOR).toFixed(2);
+                ldlHdlSub.textContent = LANG[currentLang].ldlHdlSub
+                    .replace('{val}', unit === 'mmol' ? otherHdlVal : otherHdlVal)
+                    .replace('{unit}', unit === 'mmol' ? 'mg/dL' : 'mmol/L');
+                ldlTgSub.textContent = LANG[currentLang].ldlTgSub
+                    .replace('{val}', unit === 'mmol' ? otherTgVal : otherTgVal)
+                    .replace('{unit}', unit === 'mmol' ? 'mg/dL' : 'mmol/L');
+                ldlRatioSub.textContent = LANG[currentLang].ldlRatioSub
+                    .replace('{unit}', unit === 'mmol' ? 'mmol/L' : 'mg/dL')
+                    .replace('{ratio}', ratioCutoff);
+
+                // Yes/No labels
+                ldlHdlYes.innerHTML = LANG[currentLang].ldlYes;
+                ldlHdlNo.innerHTML = LANG[currentLang].ldlNo;
+                ldlTgYes.innerHTML = LANG[currentLang].ldlYes;
+                ldlTgNo.innerHTML = LANG[currentLang].ldlNo;
+                ldlRatioYes.innerHTML = LANG[currentLang].ldlYes;
+                ldlRatioNo.innerHTML = LANG[currentLang].ldlNo;
+
+                // Reset active states
+                [ldlNodeHdl, ldlNodeTg, ldlNodeRatio, ldlNodeResult].forEach(el => {
+                    el.classList.remove('active', 'active-yes', 'active-no', 'result-ldl', 'result-sdl');
+                });
+                [ldlHdlYes, ldlHdlNo, ldlTgYes, ldlTgNo, ldlRatioYes, ldlRatioNo].forEach(el => {
+                    el.style.color = '#7a8aa3';
+                    el.style.fontWeight = '500';
+                });
+                ldlRatioStatus.className = 'status';
+                ldlRatioStatus.textContent = '—';
+
+                if (!valid) {
+                    ldlNodeHdl.classList.add('active');
+                    ldlNodeTg.classList.add('active');
+                    ldlNodeRatio.classList.add('active');
+                    ldlNodeResult.classList.add('active');
+                    ldlResultText.textContent = LANG[currentLang].ldlResultPlaceholder;
+                    ldlResultSub.textContent = LANG[currentLang].ldlResultSubPlaceholder;
+                    ldlResultValue.textContent = '—';
+                    ldlResultValue.className = 'result-value';
+                    ldlResultSubText.innerHTML = LANG[currentLang].ldlResultSubPlaceholder;
+                    ldlRatioValue.textContent = '—';
+                    ldlRatioStatus.className = 'status';
+                    ldlRatioStatus.textContent = '—';
+                    return;
+                }
+
+                const ratio = tgVal / hdlVal;
+                const hdlPass = hdlVal >= hdlCutoff;
+                const tgPass = tgVal <= tgCutoff;
+                const ratioPass = ratio <= ratioCutoff;
+
+                ldlRatioValue.textContent = ratio.toFixed(3);
+                ldlRatioStatus.textContent = ratioPass ? '✓ Pass' : '✗ Fail';
+                ldlRatioStatus.className = 'status ' + (ratioPass ? 'pass' : 'fail');
+
+                // HDL
+                ldlNodeHdl.classList.add('active');
+                if (hdlPass) { ldlNodeHdl.classList.add('active-yes');
+                    ldlHdlYes.style.color = '#2a9d8f';
+                    ldlHdlYes.style.fontWeight = '700'; } else { ldlNodeHdl.classList.add('active-no');
+                    ldlHdlNo.style.color = '#e76f51';
+                    ldlHdlNo.style.fontWeight = '700'; }
+
+                // TG
+                ldlNodeTg.classList.add('active');
+                if (tgPass) { ldlNodeTg.classList.add('active-yes');
+                    ldlTgYes.style.color = '#2a9d8f';
+                    ldlTgYes.style.fontWeight = '700'; } else { ldlNodeTg.classList.add('active-no');
+                    ldlTgNo.style.color = '#e76f51';
+                    ldlTgNo.style.fontWeight = '700'; }
+
+                // Ratio
+                ldlNodeRatio.classList.add('active');
+                if (ratioPass) { ldlNodeRatio.classList.add('active-yes');
+                    ldlRatioYes.style.color = '#2a9d8f';
+                    ldlRatioYes.style.fontWeight = '700'; } else { ldlNodeRatio.classList.add('active-no');
+                    ldlRatioNo.style.color = '#e76f51';
+                    ldlRatioNo.style.fontWeight = '700'; }
+
+                const isLdl = hdlPass && tgPass && ratioPass;
+                ldlNodeResult.classList.remove('result-ldl', 'result-sdl');
+
+                if (isLdl) {
+                    ldlNodeResult.classList.add('result-ldl');
+                    ldlResultText.textContent = LANG[currentLang].ldlResultText_ldl;
+                    ldlResultSub.textContent = LANG[currentLang].ldlResultSub_ldl;
+                    ldlResultValue.textContent = 'ldLDL';
+                    ldlResultValue.className = 'result-value ldl';
+                    ldlResultSubText.innerHTML = LANG[currentLang].ldlResultDesc_ldl;
+                    ldlResultBox.style.borderColor = '#2a9d8f';
+                    ldlResultBox.style.background = '#f2fbf8';
+                } else {
+                    ldlNodeResult.classList.add('result-sdl');
+                    ldlResultText.textContent = LANG[currentLang].ldlResultText_sdl;
+                    ldlResultSub.textContent = LANG[currentLang].ldlResultSub_sdl;
+                    ldlResultValue.textContent = 'sdLDL';
+                    ldlResultValue.className = 'result-value sdl';
+                    ldlResultSubText.innerHTML = LANG[currentLang].ldlResultDesc_sdl;
+                    ldlResultBox.style.borderColor = '#e76f51';
+                    ldlResultBox.style.background = '#fdf5f2';
+                }
+            }
+
+            function onLdlUnitChange() {
+                const newUnit = ldlUnitMmol.checked ? 'mmol' : 'mg';
+                if (newUnit === ldlUnit) return;
+                const hdlVal = parseFloat(ldlHdlInput.value);
+                const tgVal = parseFloat(ldlTgInput.value);
+                const valid = !isNaN(hdlVal) && hdlVal > 0 && !isNaN(tgVal) && tgVal > 0;
+                let newHdl = hdlVal,
+                    newTg = tgVal;
+                if (valid) {
+                    newHdl = convertLdlVal(hdlVal, ldlUnit, newUnit, 'hdl');
+                    newTg = convertLdlVal(tgVal, ldlUnit, newUnit, 'tg');
+                }
+                ldlUnit = newUnit;
+                ldlHdlInput.value = isNaN(newHdl) ? '' : newHdl.toFixed(2);
+                ldlTgInput.value = isNaN(newTg) ? '' : newTg.toFixed(2);
+                updateLdl();
+            }
+
+            ldlUnitMmol.addEventListener('change', onLdlUnitChange);
+            ldlUnitMg.addEventListener('change', onLdlUnitChange);
+            ldlHdlInput.addEventListener('input', updateLdl);
+            ldlTgInput.addEventListener('input', updateLdl);
+
+            // ---- TyG Auto-Calc ----
+            function updateTyg() {
+                const tg = parseFloat(tygTgInput.value);
+                const glucose = parseFloat(tygGlucoseInput.value);
+
+                // Hide result if invalid
+                if (isNaN(tg) || isNaN(glucose) || tg <= 0 || glucose <= 0) {
+                    tygResult.style.display = 'none';
+                    return;
+                }
+
+                const tgMgdl = tg * 88.57;
+                const glucoseMgdl = glucose * 18.018;
+                const tygIndex = Math.log((tgMgdl * glucoseMgdl) / 2);
+
+                tygResultValue.textContent = tygIndex.toFixed(2);
+                let interp = '',
+                    color = '';
+                if (tygIndex < 8.5) {
+                    interp = LANG[currentLang].tygInterpNormal;
+                    color = '#27ae60';
+                } else if (tygIndex < 9.0) {
+                    interp = LANG[currentLang].tygInterpMild;
+                    color = '#f39c12';
+                } else {
+                    interp = LANG[currentLang].tygInterpSignif;
+                    color = '#e74c3c';
+                }
+                tygResultValue.style.color = color;
+                tygInterpretation.textContent = interp;
+                tygInterpretation.style.backgroundColor = color + '20';
+                tygInterpretation.style.borderLeft = `5px solid ${color}`;
+                tygInterpretation.style.padding = '15px';
+                tygInterpretation.style.borderRadius = '8px';
+                tygResult.style.display = 'block';
+            }
+
+            tygTgInput.addEventListener('input', updateTyg);
+            tygGlucoseInput.addEventListener('input', updateTyg);
+
+            // ---- BP Auto-Calc ----
+            function updateBp() {
+                const sys = parseInt(bpSystolic.value);
+                const dia = parseInt(bpDiastolic.value);
+
+                // Hide result if invalid
+                if (isNaN(sys) || isNaN(dia) || sys <= dia || sys < 50 || sys > 250 || dia < 30 || dia > 150) {
+                    bpResult.style.display = 'none';
+                    return;
+                }
+
+                const pulse = sys - dia;
+                bpPulseValue.textContent = pulse + ' mmHg';
+
+                let interp = '',
+                    cls = '';
+                if (pulse < 20) {
+                    interp = LANG[currentLang].bpInterpLow;
+                    cls = 'danger';
+                } else if (pulse >= 20 && pulse <= 40) {
+                    interp = LANG[currentLang].bpInterpNormal;
+                    cls = 'normal';
+                } else if (pulse > 40 && pulse <= 60) {
+                    interp = LANG[currentLang].bpInterpFatigue;
+                    cls = 'fatigue';
+                } else {
+                    interp = LANG[currentLang].bpInterpHigh;
+                    cls = 'danger';
+                }
+
+                bpInterp.textContent = interp;
+                bpInterp.className = 'bp-interp ' + cls;
+                bpResult.style.display = 'block';
+            }
+
+            bpSystolic.addEventListener('input', updateBp);
+            bpDiastolic.addEventListener('input', updateBp);
+
+            // ---- Glucose Update ----
+            function calculateGlucoseMass(glucose, weight, factor) {
+                if (isNaN(glucose) || isNaN(weight) || glucose < 0 || weight <= 0) return null;
+                return glucose * 0.18 * weight * factor;
+            }
+
+            function updateGlucose() {
+                const g = parseFloat(gluGlucoseInput.value);
+                const w = parseFloat(gluWeightInput.value);
+
+                const ecf = calculateGlucoseMass(g, w, 0.2);
+                const blood = calculateGlucoseMass(g, w, 0.07);
+
+                if (ecf !== null && isFinite(ecf)) {
+                    gluEcfNumber.textContent = ecf % 1 === 0 ? ecf.toString() : ecf.toFixed(1);
+                    gluEcfNumber.style.color = '#1a4fcf';
+                } else {
+                    gluEcfNumber.textContent = '—';
+                    gluEcfNumber.style.color = '#8a9bb8';
+                }
+
+                if (blood !== null && isFinite(blood)) {
+                    gluBloodNumber.textContent = blood % 1 === 0 ? blood.toString() : blood.toFixed(1);
+                    gluBloodNumber.style.color = '#4a5a7a';
+                } else {
+                    gluBloodNumber.textContent = '—';
+                    gluBloodNumber.style.color = '#8a9bb8';
+                }
+
+                if (ecf !== null && blood !== null && isFinite(ecf) && isFinite(blood)) {
+                    const diff = ecf - blood;
+                    const formatted = diff % 1 === 0 ? diff.toString() : diff.toFixed(1);
+                    gluDiffValue.textContent = formatted + ' g';
+                    gluDiffValue.style.color = '#0b1120';
+                } else {
+                    gluDiffValue.textContent = '—';
+                    gluDiffValue.style.color = '#8a9bb8';
+                }
+            }
+
+            gluGlucoseInput.addEventListener('input', updateGlucose);
+            gluWeightInput.addEventListener('input', updateGlucose);
+
+            // ============================================================
+            // 5. LANGUAGE SWITCH FUNCTION
+            // ============================================================
+            function setLanguage(lang) {
+                currentLang = lang;
+                langZh.classList.toggle('active', lang === 'zh');
+                langEn.classList.toggle('active', lang === 'en');
+
+                const dict = LANG[lang];
+
+                // Update static texts using IDs
+                document.getElementById('appTitle').textContent = dict.appTitle;
+                document.getElementById('appBadge').textContent = dict.appBadge;
+                document.querySelectorAll('.tab-label').forEach(el => {
+                    const key = el.dataset.key;
+                    if (key && dict[key]) el.textContent = dict[key];
+                });
+
+                // LDL (remains dynamic)
+                document.getElementById('ldlTitleSub').textContent = dict.ldlTitleSub;
+                document.getElementById('ldlSubhead').innerHTML = dict.ldlSubhead;
+                document.getElementById('ldlUnitLabel').textContent = dict.ldlUnitLabel;
+                document.getElementById('ldlHdlLabel').textContent = dict.ldlHdlLabel;
+                document.getElementById('ldlTgLabel').textContent = dict.ldlTgLabel;
+                document.getElementById('ldlRatioLabel').textContent = dict.ldlRatioLabel;
+                document.getElementById('ldlResultLabel').textContent = dict.ldlResultLabel;
+                document.getElementById('ldlFootnote').innerHTML = dict.ldlFootnote;
+
+                // TyG (only dynamic labels, not the fixed bilingual desc)
+                document.getElementById('tygTgLabel').textContent = dict.tygTgLabel;
+                document.getElementById('tygGlucoseLabel').textContent = dict.tygGlucoseLabel;
+                document.getElementById('tygResultTitle').textContent = dict.tygResultTitle;
+                document.getElementById('tygAboutTitle').textContent = dict.tygAboutTitle;
+                document.getElementById('tygAboutDesc').innerHTML = dict.tygAboutDesc;
+                document.getElementById('tygConvNote').innerHTML = dict.tygConvNote;
+                document.getElementById('tygRangeNormalTitle').textContent = dict.tygRangeNormalTitle;
+                document.getElementById('tygRangeNormalDesc').textContent = dict.tygRangeNormalDesc;
+                document.getElementById('tygRangeMildTitle').textContent = dict.tygRangeMildTitle;
+                document.getElementById('tygRangeMildDesc').textContent = dict.tygRangeMildDesc;
+                document.getElementById('tygRangeSignifTitle').textContent = dict.tygRangeSignifTitle;
+                document.getElementById('tygRangeSignifDesc').textContent = dict.tygRangeSignifDesc;
+
+                // BP
+                document.getElementById('bpSysLabel').textContent = dict.bpSysLabel;
+                document.getElementById('bpDiaLabel').textContent = dict.bpDiaLabel;
+                document.getElementById('bpResultTitle').textContent = dict.bpResultTitle;
+                document.getElementById('bpScaleLow').innerHTML = dict.bpScaleLow;
+                document.getElementById('bpScaleNormal').innerHTML = dict.bpScaleNormal;
+                document.getElementById('bpScaleFatigue').innerHTML = dict.bpScaleFatigue;
+                document.getElementById('bpScaleHigh').innerHTML = dict.bpScaleHigh;
+                document.getElementById('bpAboutTitle').textContent = dict.bpAboutTitle;
+                document.getElementById('bpAboutDesc').innerHTML = dict.bpAboutDesc;
+                document.getElementById('bpAboutList').innerHTML = dict.bpAboutList;
+                document.getElementById('bpDisclaimer').textContent = dict.bpDisclaimer;
+                if (bpResult.style.display === 'block') {
+                    updateBp();
+                } else {
+                    bpInterp.textContent = dict.bpInterpPlaceholder;
+                }
+
+                // Glucose
+                document.getElementById('gluFormulaLabel').textContent = dict.gluFormulaLabel;
+                document.getElementById('gluCompareLabel').textContent = dict.gluCompareLabel;
+                document.getElementById('gluMathEcf').textContent = dict.gluMathEcf;
+                document.getElementById('gluNoteEcf').textContent = dict.gluNoteEcf;
+                document.getElementById('gluMathBlood').textContent = dict.gluMathBlood;
+                document.getElementById('gluNoteBlood').textContent = dict.gluNoteBlood;
+                document.getElementById('gluCompareNote').innerHTML = dict.gluCompareNote;
+                document.getElementById('gluGlucoseLabel').textContent = dict.gluGlucoseLabel;
+                document.getElementById('gluGlucoseHint').textContent = dict.gluGlucoseHint;
+                document.getElementById('gluWeightLabel').textContent = dict.gluWeightLabel;
+                document.getElementById('gluWeightHint').textContent = dict.gluWeightHint;
+                document.getElementById('gluEcfBadge').textContent = dict.gluEcfBadge;
+                document.getElementById('gluEcfLabel').textContent = dict.gluEcfLabel;
+                document.getElementById('gluEcfDetail').textContent = dict.gluEcfDetail;
+                document.getElementById('gluBloodBadge').textContent = dict.gluBloodBadge;
+                document.getElementById('gluBloodLabel').textContent = dict.gluBloodLabel;
+                document.getElementById('gluBloodDetail').textContent = dict.gluBloodDetail;
+                document.getElementById('gluDiffLabel').textContent = dict.gluDiffLabel;
+                document.getElementById('gluDiffNote').textContent = dict.gluDiffNote;
+                document.getElementById('gluFooterNote').innerHTML = dict.gluFooterNote;
+
+                document.getElementById('footerMain').textContent = dict.footerMain;
+                document.getElementById('footerSub').textContent = dict.footerSub;
+
+                // Re-run updates to refresh dynamic content (cutoffs, node texts, results)
+                updateLdl();
+                if (tygResult.style.display === 'block') {
+                    updateTyg();
+                }
+                if (bpResult.style.display === 'block') {
+                    updateBp();
+                }
+                updateGlucose();
+
+                // Update placeholders for inputs
+                const placeholders = {
+                    ldlHdlInput: { zh: '例如 1.4', en: 'e.g. 1.4' },
+                    ldlTgInput: { zh: '例如 0.7', en: 'e.g. 0.7' },
+                    tygTgInput: { zh: '例如 1.7', en: 'e.g. 1.7' },
+                    tygGlucoseInput: { zh: '例如 5.6', en: 'e.g. 5.6' },
+                    bpSystolic: { zh: '例如 120', en: 'e.g. 120' },
+                    bpDiastolic: { zh: '例如 80', en: 'e.g. 80' },
+                    gluGlucoseInput: { zh: '例如 10', en: 'e.g. 10' },
+                    gluWeightInput: { zh: '例如 70', en: 'e.g. 70' },
+                };
+                for (const [id, ph] of Object.entries(placeholders)) {
+                    const el = document.getElementById(id);
+                    if (el) el.placeholder = ph[lang];
+                }
+            }
+
+            // ============================================================
+            // 6. EVENT LISTENERS FOR LANGUAGE
+            // ============================================================
+            langZh.addEventListener('click', () => setLanguage('zh'));
+            langEn.addEventListener('click', () => setLanguage('en'));
+
+            // ============================================================
+            // 7. TAB SWITCHING
+            // ============================================================
+            const tabBtns = document.querySelectorAll('.tab-btn');
+            const panels = {
+                ldl: document.getElementById('tab-ldl'),
+                tyg: document.getElementById('tab-tyg'),
+                bp: document.getElementById('tab-bp'),
+                glucose: document.getElementById('tab-glucose'),
+            };
+
+            tabBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const target = this.dataset.tab; // tab-ldl, etc.
+                    const key = target.replace('tab-', '');
+                    tabBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    Object.keys(panels).forEach(k => {
+                        panels[k].classList.toggle('active', k === key);
+                    });
+                    // Re-run updates for active tab
+                    if (key === 'ldl') updateLdl();
+                    if (key === 'tyg') updateTyg();
+                    if (key === 'bp') updateBp();
+                    if (key === 'glucose') updateGlucose();
+                });
+            });
+
+            // ============================================================
+            // 8. INIT
+            // ============================================================
+            setLanguage('zh');
+            // Ensure LDL tab active
+            document.querySelector('.tab-btn[data-tab="tab-ldl"]').classList.add('active');
+            document.getElementById('tab-ldl').classList.add('active');
+            updateLdl();
+            updateGlucose();
+            // Pre-run TyG and BP to show placeholder messages
+            updateTyg();
+            updateBp();
+
+        })();
+    </script>
+
+</body>
+</html>
