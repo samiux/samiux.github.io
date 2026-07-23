@@ -346,6 +346,8 @@ Samiux
 - [BLUE ZONE Lies with Mary Ruddick (They Eat What??) 2026 (YouTube) - KenDBerryMD](https://www.youtube.com/watch?v=QhQVETLSd2g)      
 - [Heart Surgeon: The Biggest Risk Factor for Heart Disease (It’s Not High LDL) (YouTube) - Dr. Philip Ovadia](https://www.youtube.com/watch?v=ATKu1Cxs2Pc)        
 - [跑了30年步~查出高血脂？健康三角的第一性原理，多数人搞反了顺序 (微信公众号) - 老曾&第一性原理](https://mp.weixin.qq.com/s/m_g1xTiNEg3nw7JTRdLDJA)      
+- [Dr. Anthony Chaffee - 'Plants are trying to kill you!' (youTube)](https://www.youtube.com/watch?v=j1cqNDDG4aA)       
+- [Are Plants Really Trying To Kill Us? (Yes!) (YouTube) - Top 5 Plant Toxins - Dr Suresh Khirwadkar](https://www.youtube.com/watch?v=5JUxYQ4b9Y4)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
