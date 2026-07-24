@@ -11,6 +11,7 @@
 乱云飞渡仍从容，草摇叶响知鹿过。
 
 - [细说健康地长寿 -- 简易版 (PDF)](/pdf/health/细说健康地长寿——颠覆认知的健康新知.pdf)        
+- [胆固醇与他汀类药物深度剖析 -- 简易版 (PDF)](/pdf/health/胆固醇与他汀类药物深度剖析.pdf)      
 
 ## 无奈
 
@@ -348,6 +349,7 @@ Samiux
 - [跑了30年步~查出高血脂？健康三角的第一性原理，多数人搞反了顺序 (微信公众号) - 老曾&第一性原理](https://mp.weixin.qq.com/s/m_g1xTiNEg3nw7JTRdLDJA)      
 - [Dr. Anthony Chaffee - 'Plants are trying to kill you!' (youTube)](https://www.youtube.com/watch?v=j1cqNDDG4aA)       
 - [Are Plants Really Trying To Kill Us? (Yes!) (YouTube) - Top 5 Plant Toxins - Dr Suresh Khirwadkar](https://www.youtube.com/watch?v=5JUxYQ4b9Y4)       
+- [What your doctor should tell you before taking GLP-1s (YouTube) - Dr. Paul Mason](https://www.youtube.com/watch?v=n3QSgnL2n5Q)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 
 ## 纪录片 (油管视频，英语)
