@@ -4,7 +4,7 @@
 
 ## 真正代谢健康的人的指标
 
-![Maxine Pye](/images/case_study/2026/maxine_pye.jpg "Maxine Pye")             
+<img src="/images/case_study/2026/maxine_pye.jpg" width="425"/>        
 
 本文章发自脸书的一位博主 Maxine Pye (Certified in integrative health, nutrition and functional medicine)，她拥有瘦体高反应者 (LMHRs) 的体质，就是 LDL 偏高/极高，甘油三酯极低，HDL 偏高/极高，体形偏瘦/标准。除些之外，她也没有任何的慢性疾病。
 
