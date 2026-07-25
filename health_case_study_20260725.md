@@ -71,10 +71,10 @@ What does your doctor actually check beyond LDL?
  
 ### 名词备注
  
-1. CAC scan：冠状动脉钙化扫描
-2. Triglyceride to HDL ratio：甘油三酯/高密度脂蛋白比值（代谢、胰岛素抵抗核心参考指标）
-3. hs CRP：超敏C反应蛋白（炎症指标）
-4. visceral fat：内脏脂肪
+1. CAC scan：冠状动脉钙化扫描       
+2. Triglyceride to HDL ratio：甘油三酯/高密度脂蛋白比值（代谢、胰岛素抵抗核心参考指标）       
+3. hs CRP：超敏C反应蛋白（炎症指标）       
+4. visceral fat：内脏脂肪       
 
 ### 资讯来源
 
