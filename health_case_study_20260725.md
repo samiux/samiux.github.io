@@ -6,7 +6,7 @@
 
 ![Maxine Pye](/images/case_study/2026/maxine_pye.jpg "Maxine Pye")             
 
-本文章发自脸书的一位博主，她拥有瘦体高反应者 (LMHRs) 的体质，就是 LDL 偏高/极高，甘油三酯极低，HDL 偏高/极高，体形偏瘦/标准。除些之外，她也没有任何的慢性疾病。
+本文章发自脸书的一位博主 Maxine Pye (Certified in integrative health, nutrition and functional medicine)，她拥有瘦体高反应者 (LMHRs) 的体质，就是 LDL 偏高/极高，甘油三酯极低，HDL 偏高/极高，体形偏瘦/标准。除些之外，她也没有任何的慢性疾病。
 
 这并不是一件黑天鹅事件，并非单一事件，各地皆有这些健康的人群。所以不必盲目地相信主流的医生/营养师的建议了，你有可能比他们更懂医学、更懂营养、更懂健康。
 
