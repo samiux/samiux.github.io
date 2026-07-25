@@ -6,7 +6,7 @@
 
 <img src="/images/case_study/2026/maxine_pye.jpg" width="425"/>        
 
-本文章发自脸书的一位博主 Maxine Pye (Certified in integrative health, nutrition and functional medicine)，她是一名综合健康营养功能医学专家，她拥有瘦体高反应者 (LMHRs) 的体质，就是 LDL 偏高/极高，甘油三酯极低，HDL 偏高/极高，体形偏瘦/标准。除此之外，她并没有任何的慢性疾病。但万万都没想到的是她曾经也是一名慢性疾病的患者，从患者身份脱变成为健康的代言人。
+本文章发自脸书的一位博主 Maxine Pye (Certified in integrative health, nutrition and functional medicine)，58 岁，她是一名综合健康营养功能医学专家，她拥有瘦体高反应者 (LMHRs) 的体质，就是 LDL 偏高/极高，甘油三酯极低，HDL 偏高/极高，体形偏瘦/标准。除此之外，她并没有任何的慢性疾病。但万万都没想到的是她曾经也是一名慢性疾病的患者，从患者身份脱变成为健康的代言人。
 
 这并不是一件黑天鹅事件，并非单一事件，各地皆有这些健康的人群。所以不必盲目地相信主流的医生/营养师的建议了，你有可能比他们更懂医学、更懂营养、更懂健康。
 
