@@ -17,4 +17,8 @@
 - [刚打响第一枪 (2026 第二季)](/summary-2_2026.md)      
 - [刚打响第一枪 2 (2026 第二季)](/summary-2a_2026.md)      
 
+## 健康个案
+
+- [健康个案 2026 (一) - 真正代谢健康的人的指标](/health_case_study_20260725.md)        
+
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
