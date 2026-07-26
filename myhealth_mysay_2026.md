@@ -19,6 +19,8 @@
 
 ## 健康个案
 
-- [健康个案 2026 (一) - 真正代谢健康的人的指标](/health_case_study_20260725.md)        
+- [健康个案 2026 (一) - 真正代谢健康的人的指标](/health_case_study_20260725.md)             
+- [健康个案 2026 (二) - 惊心动魄的一幕](/health_case_study_20260727.md)        
+
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
