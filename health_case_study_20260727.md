@@ -16,6 +16,8 @@ Joel 在其 Instagram 亦贴上他的依据，就是 Peter E Penson，Matteo Pir
 
 ![LDL 全因死亡率](/images/health/2026/LDL_mortality.png "LDL 全因死亡率")        
 
+有网友估算其病人的寿命相信还有一年。
+
 ### 原文
 
 Cardiologist declares victory in the war against LDL.
