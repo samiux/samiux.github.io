@@ -42,7 +42,10 @@ Ancient warriors used swords. Modern MDs use the prescription pad.
  
 LDL：低密度脂蛋白胆固醇，俗称“坏胆固醇”，是诱发血管粥样硬化、冠心病的核心危险因素
 
-- [资讯来源](https://www.facebook.com/share/p/1D6ketWrp7/)       
+### 资讯来源
+
+- [Dr. Jack Wolfson Facebook](https://www.facebook.com/share/p/1D6ketWrp7/)       
+- [Joel Kahn MD, FACC Instagram](https://www.instagram.com/drjkahn/p/DbMhbB3ltQ0/)        
 
 ### 参考文献
 
