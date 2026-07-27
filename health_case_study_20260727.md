@@ -20,6 +20,8 @@ Joel 在其 Instagram 亦贴上他的依据，就是 Peter E Penson，Matteo Pir
 
 根据资料显示 Dr. Joel Kahn 是一名素食者。
 
+虽然如此，我有一个新发现，就是被声称具有遗传的 Lp(a) 是可以很大幅度地降低的，并不如其研究所声称的只可以降低很少的幅度。但可惜的是这个减幅是否处方了最新的降 Lp(a) 药物就不得而知了。
+
 ### 原文
 
 Cardiologist declares victory in the war against LDL.
