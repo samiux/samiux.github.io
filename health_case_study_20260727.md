@@ -42,6 +42,10 @@ LDL：低密度脂蛋白胆固醇，俗称“坏胆固醇”，是诱发血管�
 
 - [资讯来源](https://www.facebook.com/share/p/1D6ketWrp7/)       
 
+### 
+
+- [1] [LDL-C: lower is better for longer—even at low risk Peter E Penson, Matteo Pirro, Maciej Banach](https://pmc.ncbi.nlm.nih.gov/articles/PMC7545575/)       
+
 Samiux       
 二零二六年七月廿七日，中国香港      
 
