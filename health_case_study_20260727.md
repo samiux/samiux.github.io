@@ -4,7 +4,7 @@
 
 ## 惊心动魄的一幕
 
-<img src="/images/case_study/2026/jack_wolfson.jpg" width="425"/>  <img src="/images/case_study/2026/jack_wolfson_001.png" />              
+<img src="/images/case_study/2026/jack_wolfson.jpg" width="425"/>  <img src="/images/case_study/2026/jack_wolfson_001.png" width="425"/>              
 
 Dr. Jack Wolfson 今天 (2026-07-27) 在其脸书中发贴，表示又有一位心脏科医生宣报他成功地击败了 LDL 的个案。
 
