@@ -18,6 +18,8 @@ Joel 在其 Instagram 亦贴上他的依据，就是 Peter E Penson，Matteo Pir
 
 有网友估算其病人的寿命相信还有一年。
 
+根据资料显示 Dr. Joel Kahn 是一名素食者。
+
 ### 原文
 
 Cardiologist declares victory in the war against LDL.
