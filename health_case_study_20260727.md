@@ -4,7 +4,7 @@
 
 ## 惊心动魄的一幕
 
-<img src="/images/case_study/2026/jack_wolfson.jpg" width="425"/>        
+<img src="/images/case_study/2026/jack_wolfson.jpg" width="425"/>  <img src="/images/case_study/2026/jack_wolfson_001.png" width="425"/>              
 
 Dr. Jack Wolfson 今天 (2026-07-27) 在其脸书中发贴，表示又有一位心脏科医生宣报他成功地击败了 LDL 的个案。
 
@@ -13,10 +13,6 @@ Dr. Jack Wolfson 今天 (2026-07-27) 在其脸书中发贴，表示又有一位�
 但根据一项研究中发现若果 LDL 低于 77 mg/dL (2 mmol/L) 其全因死亡率远高于 LDL 大于 155 mg/dL (4 mmol/L) 的。尤其是越低的 LDL 其全因死亡率就越高，什至比 387 mg/dL (10 mmol/L)  还要高很多 (相当于一倍)。
 
 ![LDL 全因死亡率](/images/health/2026/LDL_mortality.png "LDL 全因死亡率")        
-
-
-
-<img src="/images/case_study/2026/jack_wolfson_001.jpg" width="425"/>        
 
 ### 原文
 
