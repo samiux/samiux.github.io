@@ -10,9 +10,9 @@ Dr. Jack Wolfson 今天 (2026-07-27) 在其脸书中发贴，表示又有一位�
 
 这名医生 Joel 用药物将病人的 LDL 168 mg/dL (4.35 mmol/L) 降至 1 mg/dL (0.03 mmol/L)。
 
-但根据一项研究中发现若果 LDL 低于 77 mg/dL (2 mmol/L) 其全因死亡率远高于 LDL 大于 155 mg/dL (4 mmol/L) 的。尤其是越低的 LDL 其全因死亡率就越高，什至比 387 mg/dL (10 mmol/L)  还要高很多 (相当于一倍)。
+Joel 在其 Instagram 亦贴上他的依据，就是 Peter E Penson，Matteo Pirro 及 Maciej Banach 的研究结果。[1]
 
-Joel 在其 Instagram 亦贴上他的依据，就是 Dr. Michael Greger 和 Dr. Kristine Dennis 的研究结果。
+但根据另一项研究中发现若果 LDL 低于 77 mg/dL (2 mmol/L) 其全因死亡率远高于 LDL 大于 155 mg/dL (4 mmol/L) 的。尤其是越低的 LDL 其全因死亡率就越高，什至比 387 mg/dL (10 mmol/L)  还要高很多 (相当于一倍)。 
 
 ![LDL 全因死亡率](/images/health/2026/LDL_mortality.png "LDL 全因死亡率")        
 
