@@ -16,7 +16,7 @@ Dr. Jack Wolfson 今天 (2026-07-27) 在其脸书中发贴，表示又有一位�
 
 
 
-<img src="/images/case_study/2026/jack_wolfson.jpg" width="425"/>        
+<img src="/images/case_study/2026/jack_wolfson_001.jpg" width="425"/>        
 
 ### 原文
 
