@@ -62,7 +62,7 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 基本上，这样的解读是与主流医学有所不同的，前沿医学不会只盯着 LDL 这个数据来判断血脂的治疗方向和方法，而是看以上的血脂三项，再另加入 Lp(a)，hs-CRP，颈动脉超声波 (CIMT) 及空腹胰岛素和 HOMA-IR 来加强判断的全面性及准确性，以方便制定进一步干预的策略。
 
-最近这几年最颠覆主流医学的研究及能量理论假设，就是瘦体高反应者 (LMHRs)，这是代谢非常健康及瘦身段的低碳高脂/生酮饮食人群。他们的 LDL 偏高/极高、HDL 非常高、甘油三酯极低。[2][5] 颠覆主流医学是因为他们的大数据大多是基于不太健康的人群而得出的，那些数据多是来自低脂高碳饮食 (且多为具有胰岛素阻抗) 的人群。
+最近这几年最颠覆主流医学的研究及能量理论假设，就是瘦体高反应者 (LMHRs)，这是代谢非常健康及瘦身段的低碳高脂/生酮饮食人群。他们的 LDL 偏高/极高、HDL 非常高、甘油三酯极低。[2][5][17] 颠覆主流医学是因为他们的大数据大多是基于不太健康的人群而得出的，那些数据多是来自低脂高碳饮食 (且多为具有胰岛素阻抗) 的人群。
 
 ![瘦体高反应者 (LMHRs)](/images/health/2026/LMHRs.jpg "瘦体高反应者 (LMHRs)")       
 
@@ -405,5 +405,6 @@ Samiux
 - [14] [Do we actually need aging clocks? Dmitrii Kriukov, Evgeniy Efimov, Mikhail S. Gelfand, Alexey Moskalev & Ekaterina E. Khrameeva](https://pmc.ncbi.nlm.nih.gov/articles/PMC12820280/)        
 - [15] [Do we actually need aging clocks? Dmitrii Kriukov, Evgeniy Efimov, Mikhail S. Gelfand, Alexey Moskalev & Ekaterina E. Khrameeva](https://www.nature.com/articles/s41514-025-00312-2)       
 - [16] [科學家揭人類壽命極限！理想可達146至194歲　極限上限627歲 - 巴士的報](https://www.bastillepost.com/hongkong/article/16435932-%e7%a7%91%e5%ad%b8%e5%ae%b6%e6%8f%ad%e4%ba%ba%e9%a1%9e%e5%a3%bd%e5%91%bd%e6%a5%b5%e9%99%90%ef%bc%81%e7%90%86%e6%83%b3%e5%8f%af%e9%81%94146%e8%87%b3194%e6%ad%b2%e3%80%80%e6%a5%b5%e9%99%90%e4%b8%8a)       
+- [17] [Are you a Lean Mass Hyper-responder? ](https://cholesterolcode.com/are-you-a-lean-mass-hyper-responder/)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
