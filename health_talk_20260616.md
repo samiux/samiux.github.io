@@ -2,6 +2,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+__此页已经停止更新，并已转到[这里](/README.md)。__
+
 ### 声明：以下内容并不构成为任何的医疗及营养建议，你需要自行判断与取捨，这是你的权利。
 
 最终，不是我们说什么说服他人，而是因为他们因为理解而被说服。 -- 约翰‧麦斯威尔
