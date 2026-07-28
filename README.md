@@ -369,6 +369,7 @@ Samiux
 - [Are Plants Really Trying To Kill Us? (Yes!) (YouTube) - Top 5 Plant Toxins - Dr Suresh Khirwadkar](https://www.youtube.com/watch?v=5JUxYQ4b9Y4)       
 - [What your doctor should tell you before taking GLP-1s (YouTube) - Dr. Paul Mason](https://www.youtube.com/watch?v=n3QSgnL2n5Q)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
+- [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
 ## 纪录片 (油管视频，英语)
 
