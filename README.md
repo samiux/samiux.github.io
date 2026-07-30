@@ -372,6 +372,10 @@ Samiux
 - [Dr. Anthony Chaffee - 'Plants are trying to kill you!' (youTube)](https://www.youtube.com/watch?v=j1cqNDDG4aA)       
 - [Are Plants Really Trying To Kill Us? (Yes!) (YouTube) - Top 5 Plant Toxins - Dr Suresh Khirwadkar](https://www.youtube.com/watch?v=5JUxYQ4b9Y4)       
 - [What your doctor should tell you before taking GLP-1s (YouTube) - Dr. Paul Mason](https://www.youtube.com/watch?v=n3QSgnL2n5Q)      
+- [Dr. Stephen Phinney on Nutritional Ketosis and Ketogenic Diets (Part 1) (YouTube)](https://www.youtube.com/watch?v=1IEuhp8RFMU)      
+- [Dr. Stephen Phinney on the Safety and Benefits of a Ketogenic Diet (Part 2) (YouTube)](https://www.youtube.com/watch?v=CHJmqhMzKtE)      
+- [Dr. Stephen Phinney on Problem Solving a Ketogenic Diet (Part 3) (YouTube)](https://www.youtube.com/watch?v=k0NE8WEH44A)      
+- [Should You Still Avoid Fat? (YouTube) - Dr. Arne Astrup & Mike Haney](https://www.youtube.com/watch?v=ajqg7LdM0PM)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
