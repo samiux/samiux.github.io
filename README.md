@@ -391,6 +391,8 @@ Samiux
 - [Industry Scandal: The Loss Of Nutrients - Full Documentaries ](https://www.youtube.com/watch?v=Ax0SIbxgqDw)      
 - [The intestine - The body’s underappreciated control center and gut health - DW Documentary](https://www.youtube.com/watch?v=_Zbqo_hrwXc)      
 - [OBESITY NATION: How America is Eating itself to Death - ENDEVR Documentary](https://www.youtube.com/watch?v=rTZDxILhYCk)       
+- [The Earthing Movie: The Remarkable Science of Grounding (full documentary)](https://www.youtube.com/watch?v=44ddtR0XDVU)       
+- [Earthing Explained: The Science of Grounding for Better Sleep, Less Pain, and More Energy](https://www.youtube.com/watch?v=FpXHX5Srod0)      
 
 ## 天然真食物是良药 (油管视频，英语)
 
