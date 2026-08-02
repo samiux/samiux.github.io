@@ -419,5 +419,6 @@ Samiux
 - [15] [Do we actually need aging clocks? Dmitrii Kriukov, Evgeniy Efimov, Mikhail S. Gelfand, Alexey Moskalev & Ekaterina E. Khrameeva](https://www.nature.com/articles/s41514-025-00312-2)       
 - [16] [科學家揭人類壽命極限！理想可達146至194歲　極限上限627歲 - 巴士的報](https://www.bastillepost.com/hongkong/article/16435932-%e7%a7%91%e5%ad%b8%e5%ae%b6%e6%8f%ad%e4%ba%ba%e9%a1%9e%e5%a3%bd%e5%91%bd%e6%a5%b5%e9%99%90%ef%bc%81%e7%90%86%e6%83%b3%e5%8f%af%e9%81%94146%e8%87%b3194%e6%ad%b2%e3%80%80%e6%a5%b5%e9%99%90%e4%b8%8a)       
 - [17] [Are you a Lean Mass Hyper-responder? ](https://cholesterolcode.com/are-you-a-lean-mass-hyper-responder/)       
+- [18] [The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases  James L Oschman, Gaétan Chevalier,Richard Brown](https://pmc.ncbi.nlm.nih.gov/articles/PMC4378297/)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
