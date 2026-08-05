@@ -381,6 +381,7 @@ Samiux
 - [How to Hack a 7 Day Fast in 24 Hours (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=RJIdFfKgi2g)      
 - [《Super Agers》 深度解讀 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=UKVHuQihoX8)      
 - [Earthing Explained: The Science of Grounding for Better Sleep, Less Pain, and More Energy](https://www.youtube.com/watch?v=FpXHX5Srod0)      
+- [体检血糖正常≠代谢健康！血糖变化滞后 20 年，这个代谢指标很多人没查 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/Of7-_XHdu-rljJq-CE0FAg)           
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
