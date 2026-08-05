@@ -272,13 +272,11 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 纵使 Lp(a) 先天性偏高、甘油三酯值些微大于 0.8mmol/L、血管经已出现了轻微的粥样硬化现象，基本上如果你并没有慢性炎症和胰岛素抵抗这些坏环景的话，心血管疾病理论上是会离你很远的。
 
-__所以，保持身体没有慢性炎症及胰岛素抵抗是至关重要的任务。__
+__所以，保持身体没有慢性炎症及胰岛素抵抗是至关重要的任务。__ 当慢性炎症及胰岛素抵抗改善了，代谢系统便恢复正常，那其副产品就是体重/体脂率就顺其自然地出现了。
 
 更令人费解的是，当慢性疾病是因为不良饮食而引发的，为何会是利用药物来控制或改善呢？而不是改变现在的不良饮食习惯呢？！或多或少这亦证明了超加工食品的推广及药物的处方是基于商业行为。
 
 除了适量的日间户外运动外，经常做伸展亦非常重要的，尤其是在运动之后 (包括瑜珈、拉筋)。
-
-当慢性炎症及胰岛素抵抗改善了，代谢系统便恢复正常，那其副产品就是体重/体脂率就顺其自然地出现了。
 
 ## 饮食倡议
 
@@ -395,6 +393,8 @@ Samiux
 - [《Super Agers》 深度解讀 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=UKVHuQihoX8)      
 - [Earthing Explained: The Science of Grounding for Better Sleep, Less Pain, and More Energy](https://www.youtube.com/watch?v=FpXHX5Srod0)      
 - [体检血糖正常≠代谢健康！血糖变化滞后 20 年，这个代谢指标很多人没查 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/Of7-_XHdu-rljJq-CE0FAg)           
+- [Is coronary artery calcium actually an infection? (YouTube) - Dr Paul Mason Show pilot](https://www.youtube.com/watch?v=l4TGrYjEYjA)      
+- [A Cardiovascular Surgeon Had a Heart Attack Here's What His Own Tests Missed (YouTube) - Mark Hyman, MD and Jeremy London, MD](https://www.youtube.com/watch?v=o-yNcIrfamk)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
