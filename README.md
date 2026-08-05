@@ -380,6 +380,7 @@ Samiux
 - [Should You Still Avoid Fat? (YouTube) - Dr. Arne Astrup & Mike Haney](https://www.youtube.com/watch?v=ajqg7LdM0PM)      
 - [How to Hack a 7 Day Fast in 24 Hours (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=RJIdFfKgi2g)      
 - [《Super Agers》 深度解讀 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=UKVHuQihoX8)      
+- [Earthing Explained: The Science of Grounding for Better Sleep, Less Pain, and More Energy](https://www.youtube.com/watch?v=FpXHX5Srod0)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
@@ -394,7 +395,6 @@ Samiux
 - [The intestine - The body’s underappreciated control center and gut health - DW Documentary](https://www.youtube.com/watch?v=_Zbqo_hrwXc)      
 - [OBESITY NATION: How America is Eating itself to Death - ENDEVR Documentary](https://www.youtube.com/watch?v=rTZDxILhYCk)       
 - [The Earthing Movie: The Remarkable Science of Grounding (full documentary)](https://www.youtube.com/watch?v=44ddtR0XDVU)       
-- [Earthing Explained: The Science of Grounding for Better Sleep, Less Pain, and More Energy](https://www.youtube.com/watch?v=FpXHX5Srod0)      
 
 ## 天然真食物是良药 (油管视频，英语)
 
