@@ -350,6 +350,10 @@ Samiux
 
 - [代谢 & 心血管计算器](/html/Metabolic_CV_Calculator.html)       
 
+## 个案分享
+
+- [健康个案 2026 (一) - 真正代谢健康的人的指标](/health_case_study_20260725.md)       
+
 ## 国内外专家解疑
 
 - [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
