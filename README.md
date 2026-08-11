@@ -403,6 +403,7 @@ Samiux
 - [体检血糖正常≠代谢健康！血糖变化滞后 20 年，这个代谢指标很多人没查 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/Of7-_XHdu-rljJq-CE0FAg)           
 - [Is coronary artery calcium actually an infection? (YouTube) - Dr Paul Mason Show pilot](https://www.youtube.com/watch?v=l4TGrYjEYjA)      
 - [A Cardiovascular Surgeon Had a Heart Attack Here's What His Own Tests Missed (YouTube) - Mark Hyman, MD and Jeremy London, MD](https://www.youtube.com/watch?v=o-yNcIrfamk)      
+- [Q&A: Can Keto Cause Insulin Resistance? Bone Loss? Best Way To Reach Ketosis? (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=okc8KaiadKI)            
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
