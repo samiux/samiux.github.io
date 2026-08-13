@@ -362,7 +362,7 @@ Samiux
 
 ## 国内外专家解疑
 
-- [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Dr. Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
+- [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
 - [Dr. Paul Mason: Rethinking Cholesterol & Blood Tests (YouTube) - Ep 116](https://www.youtube.com/watch?v=-YgskaiXa_M)     
 - [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide (YouTube) - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)       
 - [低密度升高一定要吃他汀吗 (微信公众号) - 唐黎之医学博士](https://mp.weixin.qq.com/s/jG2ZRiNHPluBp-myAOsamQ)        
@@ -406,6 +406,7 @@ Samiux
 - [Is coronary artery calcium actually an infection? (YouTube) - Dr Paul Mason Show pilot](https://www.youtube.com/watch?v=l4TGrYjEYjA)      
 - [A Cardiovascular Surgeon Had a Heart Attack Here's What His Own Tests Missed (YouTube) - Mark Hyman, MD and Jeremy London, MD](https://www.youtube.com/watch?v=o-yNcIrfamk)      
 - [Q&A: Can Keto Cause Insulin Resistance? Bone Loss? Best Way To Reach Ketosis? (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=okc8KaiadKI)            
+- [159: Why Exercise Alone Won’t Help You Lose Weight (YouTube) - Ben Bikman](https://www.youtube.com/watch?v=mITsga1ObkQ)         
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
