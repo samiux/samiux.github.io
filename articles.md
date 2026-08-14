@@ -216,6 +216,7 @@
 - [《底層邏輯》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=Ht_QGTlTaag)        
 - [《脂肪的秘密生命》【粵語廣東話聽書講書】 - 悅讀逸致](https://www.youtube.com/watch?v=NR4KIQ7gO0o)      
 - [費曼學習法【粵語廣東話聽書】 - 粵讀時光](https://www.youtube.com/watch?v=MuighOjGceM)    
+- [莊子《大宗師》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=0nwDDtZPlLw)       
 
 ## 网络空间安全
 
