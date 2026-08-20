@@ -62,6 +62,8 @@ LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(
 
 但有研究发现，若果只看 ApoB 是代表不了什么的，要是与空腹胰岛素一起看时就会发现 ApoB 与空腹胰岛素同时低时，缺血性心脏病的机会相对比较低；相反，而 ApoB 与空腹胰岛素同时高时，缺血性心脏病的机会就会相对比较高。[19]
 
+<img src="/images/health/2026/high_apob_metabolic_dysfunction.jpg" width="425"/> <img src="/images/health/2026/IHD_ApoB_Insulin-a.webp" width="425"/> <img src="/images/health/2026/IHD_ApoB_Insulin-b.webp" width="425"/> 
+
 如果以上有任何一项不对标的话，那就表示 sdLDL 偏多了，再加上环境许可的话就会被氧化成为有害的 oxLDL，这个是会令心血管患上斑块的物质。那就是代表心血管疾病的风险增加了。
 
 相反，如果三项都达标的话，那就表示 ldLDL 佔有大部分，这是没有害的 LDL 颗粒比较多，心血管疾病的风险较低。
