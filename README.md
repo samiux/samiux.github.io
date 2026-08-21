@@ -88,11 +88,15 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 ### 脂蛋白a [Lp(a)]
 
-Lp(a) 具有遗传基因的特性，大致上其数值变化不会太大的，其值越高就代表了心血管疾病的风险越高。但好消息是可以经过适当的饮食来减低其对身体的破坏性及其效率。基本上，每个人一生中都应该检查至少一次这个数据。
+主流医学认为 Lp(a) 具有遗传基因的特性，大致上其数值变化不会太大的，其值越高就代表了心血管疾病的风险越高。基本上，每个人一生中都应该检查至少一次这个数据。
 
 有研究显示，若果 Lp(a) 高于 50mg/dL 的话，心血管疾病的风险就会增加。[4]
 
+但好消息是可以经过适当的饮食来减低其对身体的破坏性及其效率。
+
 有研究显示低碳、高饱和脂肪饮食会减少 15% 的 Lp(a)，但如以不饱和脂肪或碳水化合物代替饱和脂肪的话就会增加 8-20% 的 Lp(a)。[11]
+
+而近年代谢研究证实：炎症、肝脏状态、饮食、营养水平，都会调控基因表达，改变血液 Lp (a) 浓度。［20］
 
 ### 高敏 C 反应蛋白 (hs-CRP)
 
@@ -371,6 +375,7 @@ Samiux
 更新 二零二六年八月十六日，中国香港      
 更新 二零二六年八月十八日，中国香港      
 更新 二零二六年八月廿日，中国香港      
+更新 二零二六年八月廿二日，中国香港      
 
 ## 计算器
 
@@ -471,5 +476,6 @@ Samiux
 - [17] [Are you a Lean Mass Hyper-responder? ](https://cholesterolcode.com/are-you-a-lean-mass-hyper-responder/)       
 - [18] [The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases  James L Oschman, Gaétan Chevalier,Richard Brown](https://pmc.ncbi.nlm.nih.gov/articles/PMC4378297/)        
 - [19] [The Metabolic Milieu, Part 2: Does Context Matter for ApoB?](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-part-2-does)       
+- [20] [Lp(a)高就是命中注定？很多人都被这个认知困住了——打破固有认知，重新看待这个遗传相关的心血管风险指标](https://mp.weixin.qq.com/s/oNwaXaTc_wjU4xiLc70oLQ)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
