@@ -218,6 +218,7 @@
 - [費曼學習法【粵語廣東話聽書】 - 粵讀時光](https://www.youtube.com/watch?v=MuighOjGceM)    
 - [莊子《大宗師》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=0nwDDtZPlLw)       
 - [腰痛有救了！頸、胸、腰椎全方位保健操，網友親測：不用輪椅能走路！【中醫師 吳國斌 - 健康1+1 JoJo】（2026.8.01）- 健康1+1 ·直播](https://www.youtube.com/watch?v=PLqW_MdrqEE)      
+- [《高效能人士的七個習慣》 - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=NLZ3T-UQiRA)      
 
 ## 网络空间安全
 
