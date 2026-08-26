@@ -58,7 +58,7 @@
 
 LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL (Pattern B) 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL (Pattern A) 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。
 
-大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的。另外 VLDL，IDL，LDL，Lp(a)，ldLDL，sdLDL 都含有 ApoB 的，所以近期流行主张要看 ApoB 的都是数据不清晰的。为何会主张看 ApoB 呢？究其原因是有新药物嘛。
+大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的。另外 VLDL，IDL，LDL，Lp(a)，ldLDL，sdLDL 都含有 ApoB 的，所以近期流行主张要看 ApoB 的都是数据不清晰的。[21] 为何会主张看 ApoB 呢？究其原因是有新药物嘛。
 
 但有研究发现，若果只看 ApoB 是代表不了什么的，要是与空腹胰岛素一起看时就会发现当 ApoB 与空腹胰岛素同时低时，缺血性心脏病 (IHD) 的机会相对比较低；相反，当 ApoB 与空腹胰岛素同时高时，缺血性心脏病的机会就会相对比较高。[19]
 
@@ -483,5 +483,6 @@ Samiux
 - [18] [The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases  James L Oschman, Gaétan Chevalier,Richard Brown](https://pmc.ncbi.nlm.nih.gov/articles/PMC4378297/)        
 - [19] [The Metabolic Milieu, Part 2: Does Context Matter for ApoB?](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-part-2-does)       
 - [20] [Lp(a)高就是命中注定？很多人都被这个认知困住了——打破固有认知，重新看待这个遗传相关的心血管风险指标](https://mp.weixin.qq.com/s/oNwaXaTc_wjU4xiLc70oLQ)       
+- [21] [The Metabolic Milieu, Part 3: What’s In Your ApoB?](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-part-3-whats)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
