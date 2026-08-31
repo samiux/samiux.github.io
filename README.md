@@ -282,7 +282,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 ## 忠告
 
-除了适当的饮食外，还要有适量日间的户外运动、压力和情绪的管理、充足的睡眠与休息，身体就会越趋健康了。另外，保持适当的体脂率及肌肉量是非常重要的。不失能地、健康地长寿，寿终正寝并不是梦。
+除了适当的饮食外，还要有适量日间的户外运动、压力和情绪的管理、充足的睡眠与休息，身体就会越趋健康了。[22] 另外，保持适当的体脂率及肌肉量是非常重要的。不失能地、健康地长寿，寿终正寝并不是梦。
 
 已经有研究指出口腔卫生与心血管疾病及脑退化症有直接的关系。
 
@@ -487,5 +487,6 @@ Samiux
 - [19] [The Metabolic Milieu, Part 2: Does Context Matter for ApoB?](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-part-2-does)       
 - [20] [Lp(a)高就是命中注定？很多人都被这个认知困住了——打破固有认知，重新看待这个遗传相关的心血管风险指标](https://mp.weixin.qq.com/s/oNwaXaTc_wjU4xiLc70oLQ)       
 - [21] [The Metabolic Milieu, Part 3: What’s In Your ApoB?](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-part-3-whats)      
+- [22] [Reverse Heart Disease in 1 Year (Proven in RCT) (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=uG166N0pVy0)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
