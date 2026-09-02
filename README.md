@@ -443,6 +443,7 @@ Samiux
 - [159: Why Exercise Alone Won’t Help You Lose Weight (YouTube) - Ben Bikman](https://www.youtube.com/watch?v=mITsga1ObkQ)         
 - [《The Age-Proof Brain》 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=ApW8hhpd77o)       
 - [Do We Really Eat Too Much Protein? (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=AEhcy5hwrZI)      
+- [What's REALLY Destroying Your Arteries & The New Science of Reversing Plaque (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=-enhZI7jr4E)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
