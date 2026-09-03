@@ -446,6 +446,8 @@ Samiux
 - [《The Age-Proof Brain》 (YouTube) - Alina粵讀社](https://www.youtube.com/watch?v=ApW8hhpd77o)       
 - [Do We Really Eat Too Much Protein? (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=AEhcy5hwrZI)      
 - [What's REALLY Destroying Your Arteries & The New Science of Reversing Plaque (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=-enhZI7jr4E)      
+- [Low-Carb vs. Keto: Why the Difference Matters (YouTube) - Metabolic Mind](https://www.youtube.com/watch?v=X1zUYE4PfTE)       
+- [生酮饮食让肝脏脂肪减少67%，7大误区如何避免 - 瘦龙健康](http://www.chinalowcarb.com/misconceptions-about-the-keto-diet/)      
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
