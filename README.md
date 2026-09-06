@@ -390,6 +390,7 @@ Samiux
 ## 计算器
 
 - [代谢 & 心血管计算器](/html/Metabolic_CV_Calculator.html)       
+- [代谢评估 RW-apoB · LMHR/HMHR · hs-CRP](/html/Metabolism_Analysis.html)      
 
 ## 个案分享
 
