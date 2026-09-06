@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>代谢评估 · RW-apoB · LMHR · hs-CRP</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
+            background: #f0f4fc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 960px;
+            width: 100%;
+            background: #ffffff;
+            border-radius: 32px;
+            box-shadow: 0 20px 50px rgba(0, 20, 40, 0.12);
+            padding: 28px 30px 35px;
+        }
+        .tabs {
+            display: flex;
+            gap: 4px;
+            background: #eef3fa;
+            border-radius: 40px;
+            padding: 4px;
+            margin: 16px 0 20px;
+        }
+        .tab-btn {
+            flex: 1;
+            padding: 10px 0;
+            border: none;
+            background: transparent;
+            border-radius: 40px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            color: #3e5a7a;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        .tab-btn.active {
+            background: #ffffff;
+            color: #0b1a33;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+        }
+        .tab-content {
+            display: none;
+            animation: fade 0.25s ease;
+        }
+        .tab-content.active { display: block; }
+        @keyframes fade { from { opacity: 0.6; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+        h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: #0b1a33;
+        }
+        .subhead {
+            color: #3e5a7a;
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+            padding-left: 16px;
+            border-left: 4px solid #2b6c9e;
+            background: #f0f5fe;
+            border-radius: 0 12px 12px 0;
+            padding: 6px 16px;
+            line-height: 1.5;
+        }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px 22px;
+        }
+        .grid-3 {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 16px;
+        }
+        .field-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .field-group label {
+            font-weight: 500;
+            font-size: 0.9rem;
+            color: #1a2f4a;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .field-group label .unit-badge {
+            font-weight: 400;
+            font-size: 0.7rem;
+            background: #eef2f9;
+            padding: 0 12px;
+            border-radius: 30px;
+            color: #1f3b5c;
+        }
+        .field-group input {
+            padding: 10px 14px;
+            border: 1.5px solid #dce3ef;
+            border-radius: 14px;
+            font-size: 1rem;
+            background: #fafcff;
+            transition: 0.15s;
+            width: 100%;
+        }
+        .field-group input:focus {
+            border-color: #1f6390;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(28, 96, 150, 0.15);
+            background: white;
+        }
+        .field-group input::placeholder { color: #aabacf; font-size: 0.85rem; }
+        .unit-row {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            margin: 4px 0 2px;
+        }
+        .unit-opt {
+            background: #f0f4fc;
+            border: 1px solid #d6e0ef;
+            padding: 2px 14px;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #1f3f64;
+            cursor: pointer;
+            transition: 0.12s;
+        }
+        .unit-opt.active {
+            background: #1a2b4c;
+            border-color: #1a2b4c;
+            color: white;
+        }
+        .calc-btn {
+            background: #1a2b4c;
+            color: white;
+            border: none;
+            padding: 14px 0;
+            border-radius: 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            width: 100%;
+            margin: 16px 0 12px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        .calc-btn:hover { background: #0f1e38; transform: scale(0.99); }
+
+        .result-box {
+            background: #f8faff;
+            border-radius: 20px;
+            padding: 20px 24px;
+            margin: 10px 0 16px;
+            border: 1px solid #e5edf8;
+        }
+        .result-main {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+        }
+        .result-number {
+            font-size: 2.4rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+        .result-unit { font-size: 1rem; font-weight: 400; color: #2c4b70; margin-left: 4px; }
+        .risk-badge {
+            padding: 6px 22px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 1rem;
+            background: #e0e7f1;
+            color: #1d314a;
+        }
+        .risk-detail { margin-top: 14px; display: flex; flex-direction: column; gap: 6px; }
+        .risk-detail .row {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px dashed #e2eaf5;
+            padding: 4px 0;
+            font-size: 0.92rem;
+        }
+        .risk-detail .row .label { color: #3a5779; }
+        .risk-detail .row .value { font-weight: 500; }
+        .chd-tooltip {
+            border-bottom: 1px dashed #6a8aaa;
+            cursor: help;
+        }
+
+        .intervention-box {
+            background: #eef6fe;
+            border-radius: 18px;
+            padding: 16px 22px;
+            margin-top: 14px;
+            border-left: 5px solid #1f6390;
+        }
+        .intervention-box h4 { color: #0b2a47; margin-bottom: 6px; font-size: 1rem; }
+        .intervention-box ul { padding-left: 20px; color: #15304e; font-size: 0.9rem; line-height: 1.6; }
+        .intervention-box ul li { margin-bottom: 2px; }
+        .intervention-box .detection-list {
+            margin-top: 8px;
+            background: #ffffffcc;
+            border-radius: 12px;
+            padding: 10px 16px;
+            border: 1px solid #d3e2f5;
+        }
+        .intervention-box .detection-list strong { color: #0a4c6e; }
+
+        .lmhr-check {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin: 10px 0 6px;
+        }
+        .lmhr-check .criteria {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 12px;
+            background: #f4f8fe;
+            border-radius: 30px;
+            font-size: 0.9rem;
+        }
+        .lmhr-check .criteria .badge { font-weight: 600; }
+        .badge.pass { color: #0b7e3b; }
+        .badge.fail { color: #b13e3e; }
+        .badge.mixed { color: #b17d0e; }
+
+        .lmhr-dual-status {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 10px 0 8px;
+            padding: 8px 12px;
+            background: #f4f8fc;
+            border-radius: 30px;
+        }
+        .lmhr-dual-status span { font-weight: 500; font-size: 0.95rem; }
+
+        .ref-box {
+            margin-top: 24px;
+            padding-top: 16px;
+            border-top: 1px solid #e2eaf5;
+            font-size: 0.8rem;
+            color: #2d4b70;
+        }
+        .ref-box a { color: #1a5a87; text-decoration: none; word-break: break-all; }
+        .ref-box a:hover { text-decoration: underline; }
+        .footnote { font-size: 0.7rem; color: #6a80a0; margin-top: 10px; text-align: center; }
+
+        .phenotype-banner {
+            background: #eaf1fa;
+            border-radius: 40px;
+            padding: 10px 22px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px 20px;
+            margin: 6px 0 16px;
+            border: 1px solid #d3e2f5;
+        }
+        .phenotype-banner .label { font-weight: 500; color: #2c4b70; }
+        .phenotype-banner .value {
+            font-weight: 700;
+            padding: 4px 18px;
+            border-radius: 40px;
+            background: #ffffff;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+        }
+        .phenotype-banner .value.lmhr { background: #d4edda; color: #0b5e2e; }
+        .phenotype-banner .value.hmhr { background: #fff3cd; color: #7a5d00; }
+        .phenotype-banner .value.normal { background: #e9ecef; color: #3d5a78; }
+
+        .soto-box {
+            background: #e9f2fa;
+            border-radius: 20px;
+            padding: 12px 18px;
+            margin: 8px 0 12px;
+            font-size: 0.9rem;
+            border-left: 4px solid #1f6390;
+        }
+        .soto-box .prediction { font-weight: 700; font-size: 1.05rem; }
+        .soto-box .explanation {
+            margin-top: 6px;
+            color: #1f3b5c;
+            font-size: 0.85rem;
+            line-height: 1.5;
+            background: #ffffffcc;
+            padding: 8px 12px;
+            border-radius: 12px;
+        }
+        .soto-box .explanation strong { color: #0a4c6e; }
+
+        .hs-crp-row {
+            margin-top: 12px;
+            padding: 12px 16px;
+            background: #f4f8fc;
+            border-radius: 16px;
+            border-left: 5px solid #2b6c9e;
+        }
+        .hs-crp-row .title {
+            font-weight: 600;
+            color: #0b2a47;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .hs-crp-row .badge {
+            padding: 2px 14px;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 0.85rem;
+        }
+        .hs-crp-row .badge.low { background: #d4edda; color: #0b5e2e; }
+        .hs-crp-row .badge.moderate { background: #fff3cd; color: #7a5d00; }
+        .hs-crp-row .badge.high { background: #f8d7da; color: #9e2a2f; }
+        .hs-crp-row .reassessment {
+            margin-top: 6px;
+            font-size: 0.9rem;
+            color: #1a3a5e;
+            background: #ffffff;
+            padding: 8px 12px;
+            border-radius: 12px;
+            border: 1px solid #dce5f0;
+        }
+        .hs-crp-row .reassessment strong { color: #b13e3e; }
+
+        @media (max-width: 680px) {
+            .grid-3 { grid-template-columns: 1fr 1fr; }
+        }
+        @media (max-width: 580px) {
+            .container { padding: 16px; }
+            .grid-2, .grid-3 { grid-template-columns: 1fr; gap: 12px; }
+            .result-number { font-size: 2rem; }
+            h1 { font-size: 1.4rem; }
+            .lmhr-dual-status { flex-direction: column; gap: 4px; }
+            .hs-crp-row .title { flex-wrap: wrap; gap: 4px; }
+        }
+        .hidden { display: none !important; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>代谢评估 <span style="font-weight:400;font-size:1rem;color:#3a5f85;">RW-apoB · LMHR/HMHR · hs-CRP</span></h1>
+    <div class="subhead">整合脂质风险、BMI、炎症及Soto-Mota证据 —— 当hs-CRP存在时，炎症风险权重优先于脂质指标</div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+        <button class="tab-btn active" data-tab="tabRW">📊 RW-apoB 风险</button>
+        <button class="tab-btn" data-tab="tabLMHR">🧬 LMHR / HMHR 体质</button>
+    </div>
+
+    <!-- ==================== TAB 1 ==================== -->
+    <div class="tab-content active" id="tabRW">
+        <div class="subhead">RW-apoB = 11.65×TG(mmol/L) + 0.215×Lp(a)(nmol/L) + 0.736×ApoB(mg/dL)</div>
+        
+        <div class="phenotype-banner">
+            <span class="label">🧬 当前体质类型</span>
+            <span class="value normal" id="phenoValue">常规代谢表型</span>
+            <span style="font-size:0.8rem; color:#4d6f92;">基于血脂及BMI判定</span>
+        </div>
+
+        <div class="grid-2">
+            <div class="field-group">
+                <label>载脂蛋白B (ApoB) <span class="unit-badge" id="apoBUnitLabel">mg/dL</span></label>
+                <input type="number" step="any" id="apoBInput" placeholder="例如：90" value="" />
+                <div class="unit-row" id="apoBUnitGroup">
+                    <span class="unit-opt active" data-unit="mg/dL">mg/dL</span>
+                    <span class="unit-opt" data-unit="g/L">g/L</span>
+                </div>
+            </div>
+            <div class="field-group">
+                <label>脂蛋白(a) (Lp(a)) <span class="unit-badge" id="lpAUnitLabel">nmol/L</span></label>
+                <input type="number" step="any" id="lpAInput" placeholder="例如：40" value="" />
+                <div class="unit-row" id="lpAUnitGroup">
+                    <span class="unit-opt active" data-unit="nmol/L">nmol/L</span>
+                    <span class="unit-opt" data-unit="mg/dL">mg/dL</span>
+                </div>
+            </div>
+            <div class="field-group" style="grid-column: 1 / -1;">
+                <label>甘油三酯 (Triglycerides) <span class="unit-badge" id="tgUnitLabel">mmol/L</span></label>
+                <input type="number" step="any" id="tgInput" placeholder="例如：1.2" value="" />
+                <div class="unit-row" id="tgUnitGroup">
+                    <span class="unit-opt active" data-unit="mmol/L">mmol/L</span>
+                    <span class="unit-opt" data-unit="mg/dL">mg/dL</span>
+                </div>
+            </div>
+            <div class="field-group" style="grid-column: 1 / -1;">
+                <label>高敏C反应蛋白 (hs-CRP) <span class="unit-badge">mg/L</span></label>
+                <input type="number" step="any" id="hsCRPInput" placeholder="例如：0.8（选填，若有则主导重评估）" value="" />
+                <div style="font-size:0.7rem; color:#c0392b; margin-top:2px; font-weight:500;">若提供 hs-CRP，将启动「炎症主导的风险重评估」，权重高于 LDL/ApoB</div>
+            </div>
+        </div>
+        <button class="calc-btn" id="calcBtn">⟳ 计算 RW-apoB 及综合风险评估</button>
+
+        <div class="result-box">
+            <div class="result-main">
+                <div><span class="result-number" id="resultValue">—</span><span class="result-unit">mg/dL</span></div>
+                <span class="risk-badge" id="riskBadge">等待计算</span>
+            </div>
+            <div class="risk-detail">
+                <div class="row"><span class="label">风险等级（基于脂质）</span><span class="value" id="detailRankVal">—</span></div>
+                <div class="row"><span class="label">预估百分位</span><span class="value" id="detailPercentileVal">—</span></div>
+                <div class="row"><span class="label"><abbr class="chd-tooltip" title="Coronary Heart Disease (冠心病)">CHD</abbr> 事件率参考</span><span class="value" id="detailEventVal">—</span></div>
+            </div>
+            
+            <!-- hs-CRP 重评估区域（动态） -->
+            <div id="hsCRPReassessment" class="hs-crp-row hidden">
+                <div class="title">
+                    <span>🔥 hs-CRP 风险重评估（炎症主导）</span>
+                    <span class="badge" id="hsCRPBadge">—</span>
+                </div>
+                <div class="reassessment" id="hsCRPReassessmentText">
+                    基于 hs-CRP 水平重新校准综合风险...
+                </div>
+            </div>
+
+            <div id="lmhrLinkNote" style="margin-top:12px; font-size:0.9rem; background:#f0f5fa; padding:8px 14px; border-radius:40px; display:none;">
+                ⚡ <span id="lmhrLinkText">检测到 LMHR/HMHR 体质，分析已纳入特异性解读。</span>
+            </div>
+        </div>
+
+        <div class="intervention-box">
+            <h4>💡 改善方向</h4>
+            <ul id="intervList">
+                <li id="adviceDefault">输入数值后点击计算，系统将给出个体化建议。</li>
+            </ul>
+            <div id="lmhrSpecificBox" style="margin-top:16px; border-top:2px dashed #b8cce0; padding-top:14px; display:none;">
+                <h4 style="color:#0a4c6e;">🧬 体质特异性解读</h4>
+                <ul id="lmhrSpecificList" style="list-style:square; color:#0a3a4f;">
+                    <li>该个体符合特定代谢表型。</li>
+                    <li>高 LDL-C 与低 TG 组合提示代谢灵活性。</li>
+                    <li><strong>核心建议</strong>：建议结合 <strong>CAC 评分</strong> 和颈动脉超声作为客观依据。</li>
+                    <li>若 hs-CRP、HOMA-IR 正常，可优先生活方式干预。</li>
+                </ul>
+                <div class="detection-list">
+                    <strong>📋 推荐进一步检测</strong>
+                    <ul id="detectionItems" style="margin-top:6px; list-style:circle; padding-left:18px;">
+                        <li id="detect1">基础：CAC评分、颈动脉超声、hs-CRP、HOMA-IR</li>
+                        <li id="detect2">进阶：OGTT、Lp(a)、sdLDL-C（必要时）</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="ref-box">
+            <strong>📄 研究出处</strong><br />
+            Rehman MB, et al. <em>Risk-weighted apoB...</em> <strong>European Heart Journal</strong>, 2026. 
+            <a href="https://doi.org/10.1093/eurheartj/ehaf1124" target="_blank">DOI: 10.1093/eurheartj/ehaf1124</a> 
+            | <a href="https://pubmed.ncbi.nlm.nih.gov/41568673/" target="_blank">PMID: 41568673</a>
+            <span style="margin-left:12px;">LMHR/HMHR 标准参考 Norwitz NG, et al. (2024) PMID: 39009968</span><br />
+            <span style="background:#f4f8fc; padding:2px 10px; border-radius:20px;">JUPITER 试验 & Ridker PM, et al. 证实 hs-CRP 作为心血管风险独立预测因子，权重优于 LDL-C。</span>
+        </div>
+    </div>
+
+    <!-- ==================== TAB 2 ==================== -->
+    <div class="tab-content" id="tabLMHR">
+        <div class="subhead">双表型识别：LMHR (BMI<25) 与 HMHR (BMI≥25) —— 严格+宽松标准</div>
+        
+        <div class="grid-3" style="margin-bottom:8px;">
+            <div class="field-group">
+                <label>身高 <span class="unit-badge" id="heightUnitLabel">cm</span></label>
+                <input type="number" step="any" id="heightInput" placeholder="例如：175" value="" />
+                <div class="unit-row" id="heightUnitGroup">
+                    <span class="unit-opt active" data-unit="cm">cm</span>
+                    <span class="unit-opt" data-unit="m">m</span>
+                </div>
+            </div>
+            <div class="field-group">
+                <label>体重 <span class="unit-badge" id="weightUnitLabel">kg</span></label>
+                <input type="number" step="any" id="weightInput" placeholder="例如：70" value="" />
+                <div class="unit-row" id="weightUnitGroup">
+                    <span class="unit-opt active" data-unit="kg">kg</span>
+                    <span class="unit-opt" data-unit="lbs">lbs</span>
+                </div>
+            </div>
+            <div class="field-group" style="justify-content:center;">
+                <label style="color:#1f3b5c;">📊 BMI</label>
+                <div style="background:#eaf1fa; border-radius:40px; padding:8px 0; text-align:center; font-weight:700; font-size:1.4rem;" id="bmiDisplay">—</div>
+                <div style="font-size:0.75rem; color:#4d6f92; text-align:center;" id="bmiCategory">请填入身高体重</div>
+            </div>
+        </div>
+
+        <div class="grid-2">
+            <div class="field-group">
+                <label>LDL-C <span class="unit-badge" id="ldlUnitLabel">mg/dL</span></label>
+                <input type="number" step="any" id="ldlInput" placeholder="例如：210" value="" />
+                <div class="unit-row" id="ldlUnitGroup">
+                    <span class="unit-opt active" data-unit="mg/dL">mg/dL</span>
+                    <span class="unit-opt" data-unit="mmol/L">mmol/L</span>
+                </div>
+                <div style="font-size:0.7rem; color:#4f6f92; margin-top:2px;">宽松: ≥180mg/dL | 典型: ≥200mg/dL</div>
+            </div>
+            <div class="field-group">
+                <label>HDL-C <span class="unit-badge" id="hdlUnitLabel">mg/dL</span></label>
+                <input type="number" step="any" id="hdlInput" placeholder="例如：85" value="" />
+                <div class="unit-row" id="hdlUnitGroup">
+                    <span class="unit-opt active" data-unit="mg/dL">mg/dL</span>
+                    <span class="unit-opt" data-unit="mmol/L">mmol/L</span>
+                </div>
+                <div style="font-size:0.7rem; color:#4f6f92; margin-top:2px;">LMHR: ≥80mg/dL(典型)/≥70mg/dL(宽松) | HMHR: 40~80mg/dL(典型)/40~70mg/dL(宽松)</div>
+            </div>
+            <div class="field-group" style="grid-column: 1 / -1;">
+                <label>甘油三酯 (TG) <span class="unit-badge" id="tg2UnitLabel">mg/dL</span></label>
+                <input type="number" step="any" id="tg2Input" placeholder="例如：60" value="" />
+                <div class="unit-row" id="tg2UnitGroup">
+                    <span class="unit-opt active" data-unit="mg/dL">mg/dL</span>
+                    <span class="unit-opt" data-unit="mmol/L">mmol/L</span>
+                </div>
+                <div style="font-size:0.7rem; color:#4f6f92; margin-top:2px;">宽松: ≤80mg/dL | 典型: ≤70mg/dL</div>
+            </div>
+        </div>
+        <button class="calc-btn" id="lmhrCalcBtn">🔬 评估 LMHR / HMHR 体质（含BMI）</button>
+
+        <div class="result-box" id="lmhrResultBox">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap;">
+                <span style="font-weight:600; font-size:1.1rem;">体质状态</span>
+                <span class="risk-badge" id="lmhrStatusBadge" style="background:#e0e7f1; color:#1d314a;">未评估</span>
+            </div>
+            <div class="lmhr-dual-status">
+                <span>🔷 <strong>LMHR</strong>：<span id="lmhrStrictLabel">—</span> (严格) / <span id="lmhrLooseLabel">—</span> (宽松)</span>
+                <span>🔶 <strong>HMHR</strong>：<span id="hmhrStrictLabel">—</span> (严格) / <span id="hmhrLooseLabel">—</span> (宽松)</span>
+            </div>
+            <div class="soto-box">
+                <div>
+                    <span style="font-weight:500;">📉 基于BMI的LDL变化预测 (Soto-Mota) :</span>
+                    <span class="prediction" id="sotoPrediction">—</span>
+                </div>
+                <div class="explanation">
+                    <strong>📖 意义：</strong> BMI 每增加 1 单位，LDL 变化幅度减少约 2.5 mg/dL (0.065 mmol/L)。<br />
+                    <strong>BMI &lt; 25</strong>：LDL升高反映 LMHR 能量转运，非病理。<br />
+                    <strong>BMI ≥ 25</strong>：若 LDL 仍高，需排查胰岛素抵抗。
+                </div>
+            </div>
+            <div class="lmhr-check">
+                <div class="criteria"><span>LDL-C ≥ 200mg/dL (典型) / ≥180mg/dL (宽松)</span><span class="badge" id="chkLDL">—</span></div>
+                <div class="criteria"><span>HDL-C 范围 (LMHR高 / HMHR中)</span><span class="badge" id="chkHDL">—</span></div>
+                <div class="criteria"><span>TG ≤ 70mg/dL (典型) / ≤80mg/dL (宽松)</span><span class="badge" id="chkTG">—</span></div>
+                <div class="criteria"><span>BMI 条件 (LMHR<25 / HMHR≥25)</span><span class="badge" id="chkBMI">—</span></div>
+            </div>
+            <div style="margin-top:12px; background:#eef6fe; border-radius:16px; padding:12px 16px;">
+                <p id="lmhrAdviceText" style="font-size:0.95rem; color:#113950;">请输入身高、体重及血脂数值，点击评估。</p>
+            </div>
+        </div>
+        <div style="font-size:0.85rem; color:#3f6185; background:#f4f8fc; padding:8px 16px; border-radius:16px;">
+            💡 体质状态自动同步至主页，TG 值自动同步。
+        </div>
+        <div class="ref-box" style="margin-top:16px;">
+            <strong>📄 参考依据</strong><br />
+            LMHR: Norwitz NG, et al. (2024) <a href="https://pubmed.ncbi.nlm.nih.gov/39009968/" target="_blank">PMID: 39009968</a>
+            <span style="margin-left:12px;">| HMHR 扩展定义基于 Soto-Mota et al. (2024) 的BMI-LDL关联。</span>
+        </div>
+    </div>
+
+    <div class="footnote">⚠️ 本工具仅供科研与教育参考，不替代专业医疗建议。当hs-CRP存在时，重评估模型基于炎症假说（JUPITER试验），优先于传统脂质指标。</div>
+</div>
+
+<script>
+    (function() {
+        "use strict";
+
+        // --- DOM refs ---
+        const apoBInput = document.getElementById('apoBInput');
+        const lpAInput = document.getElementById('lpAInput');
+        const tgInput = document.getElementById('tgInput');
+        const hsCRPInput = document.getElementById('hsCRPInput');
+        const ldlInput = document.getElementById('ldlInput');
+        const hdlInput = document.getElementById('hdlInput');
+        const tg2Input = document.getElementById('tg2Input');
+        const heightInput = document.getElementById('heightInput');
+        const weightInput = document.getElementById('weightInput');
+
+        const apoBUnitGroup = document.getElementById('apoBUnitGroup');
+        const lpAUnitGroup = document.getElementById('lpAUnitGroup');
+        const tgUnitGroup = document.getElementById('tgUnitGroup');
+        const ldlUnitGroup = document.getElementById('ldlUnitGroup');
+        const hdlUnitGroup = document.getElementById('hdlUnitGroup');
+        const tg2UnitGroup = document.getElementById('tg2UnitGroup');
+        const heightUnitGroup = document.getElementById('heightUnitGroup');
+        const weightUnitGroup = document.getElementById('weightUnitGroup');
+
+        const resultValue = document.getElementById('resultValue');
+        const riskBadge = document.getElementById('riskBadge');
+        const detailRankVal = document.getElementById('detailRankVal');
+        const detailPercentileVal = document.getElementById('detailPercentileVal');
+        const detailEventVal = document.getElementById('detailEventVal');
+        const intervList = document.getElementById('intervList');
+        const lmhrSpecificBox = document.getElementById('lmhrSpecificBox');
+        const lmhrLinkNote = document.getElementById('lmhrLinkNote');
+        const lmhrLinkText = document.getElementById('lmhrLinkText');
+        const phenoValue = document.getElementById('phenoValue');
+        
+        const hsCRPReassessment = document.getElementById('hsCRPReassessment');
+        const hsCRPBadge = document.getElementById('hsCRPBadge');
+        const hsCRPReassessmentText = document.getElementById('hsCRPReassessmentText');
+
+        const lmhrStatusBadge = document.getElementById('lmhrStatusBadge');
+        const lmhrStrictLabel = document.getElementById('lmhrStrictLabel');
+        const lmhrLooseLabel = document.getElementById('lmhrLooseLabel');
+        const hmhrStrictLabel = document.getElementById('hmhrStrictLabel');
+        const hmhrLooseLabel = document.getElementById('hmhrLooseLabel');
+        const chkLDL = document.getElementById('chkLDL');
+        const chkHDL = document.getElementById('chkHDL');
+        const chkTG = document.getElementById('chkTG');
+        const chkBMI = document.getElementById('chkBMI');
+        const lmhrAdviceText = document.getElementById('lmhrAdviceText');
+        const bmiDisplay = document.getElementById('bmiDisplay');
+        const bmiCategory = document.getElementById('bmiCategory');
+        const sotoPrediction = document.getElementById('sotoPrediction');
+        const detect1 = document.getElementById('detect1');
+        const detect2 = document.getElementById('detect2');
+
+        // --- State ---
+        let apoBUnit = 'mg/dL', lpAUnit = 'nmol/L', tgUnit = 'mmol/L';
+        let ldlUnit = 'mg/dL', hdlUnit = 'mg/dL', tg2Unit = 'mg/dL';
+        let heightUnit = 'cm', weightUnit = 'kg';
+        let phenotype = 'none';
+        let currentBMI = null;
+        let currentHsCRP = null;
+
+        // --- 语言包 ---
+        const T = {
+            riskLow: '低风险', riskModerate: '中等风险', riskHigh: '高风险', riskVeryHigh: '极高风险',
+            adviceDefault: '输入数值后点击计算，系统将给出个体化建议。',
+            // 基础建议（不含hs-CRP特定管理）
+            adviceLow: '✅ RW-apoB 较低，脂质风险低。\n• 饮食：优先天然全食物，避免精制碳水与植物油脂，仅用动物脂肪。\n• 运动：每周≥150分钟有氧+2次力量训练。\n• 体重：维持 BMI 18.5–24.9。\n• 监测：每年复查血脂、血糖、血压；>40岁每3-5年行CAC。',
+            adviceModerate: '⚠️ RW-apoB 中等，需主动干预。\n• 饮食：严控添加糖与精制谷物，油脂仅用动物脂肪，避开植物种子油。\n• 运动：每周≥150分钟有氧，可加入HIIT。\n• 体重：若超重减重5–10%。\n• 监测：每6个月复查血脂、ApoB。',
+            adviceHigh: '🔴 RW-apoB 显著升高。\n• 药物：考虑他汀（阿托伐他汀10–20mg），可加依折麦布。\n• 饮食：严格剔除含糖饮料、精制主食，脂肪仅用动物脂肪。\n• 运动：每周≥300分钟有氧。\n• 监测：每3个月复查血脂、肝肾功能；立即行CAC。',
+            adviceVeryHigh: '🚨 RW-apoB 极高。\n• 药物：他汀+依折麦布，若LDL-C>70加PCSK9抑制剂。\n• 评估Lp(a)，可考虑RNA靶向药。\n• 生活方式：严格低碳水生酮，脂肪仅用动物脂肪。\n• 监测：每1-2个月复查；冠脉CTA。',
+            
+            // LMHR/HMHR 状态
+            lmhrPosStrict: 'LMHR ✅ (典型)', lmhrPosLoose: 'LMHR ✅ (宽松)',
+            hmhrPosStrict: 'HMHR ✅ (典型)', hmhrPosLoose: 'HMHR ✅ (宽松)',
+            negative: '❌ 未达标',
+            phenoLMHR: 'LMHR (瘦体重高反应者)', phenoHMHR: 'HMHR (高体重高反应者)', phenoNormal: '常规代谢表型',
+            statusTypicalLMHR: '典型 LMHR ✅', statusLooseLMHR: '宽松 LMHR 🔶',
+            statusTypicalHMHR: '典型 HMHR ✅', statusLooseHMHR: '宽松 HMHR 🔶',
+            statusNormal: '常规表型', notEvaluated: '未评估',
+            pass: '✅ 达标', fail: '❌ 未达标', waiting: '等待计算',
+            lmhrLinkText: '检测到 LMHR/HMHR 体质，分析已纳入特异性解读。',
+            detectBase: '基础：CAC评分、颈动脉超声、hs-CRP、HOMA-IR',
+            detectAdv: '进阶：OGTT、Lp(a)、sdLDL-C、冠脉CTA（若CAC>0）',
+            detectLMHR: 'LMHR：若CAC=0每3-5年复查；若>0缩短至1-2年。',
+            
+            // hs-CRP 重评估专用文案
+            hsCRPReevalTitle: '🔥 hs-CRP 风险重评估（炎症主导）',
+            hsCRP_Low: '低风险（<1.0 mg/L）',
+            hsCRP_Moderate: '中等风险（1.0–3.0 mg/L）',
+            hsCRP_High: '高风险（>3.0 mg/L）',
+            reeval_low: '✅ 综合风险显著下调：hs-CRP 极低（<1.0），提示全身炎症水平理想。即使 LDL 或 ApoB 偏高，大概率属于良性代谢适应（如 LMHR）。强烈建议优先参考 CAC 评分，若无钙化，可暂缓降脂药物。',
+            reeval_moderate: '⚠️ 综合风险中等：hs-CRP 处于 1.0–3.0，提示轻中度炎症。风险需结合脂质与炎症叠加效应。建议排查慢性感染、牙周病、自身免疫问题，并优化睡眠、减轻压力，增加动物性 omega-3（如深海鱼）。若 LDL 同时升高，启动他汀的紧迫性增加。',
+            reeval_high: '🚨 综合风险极高：hs-CRP > 3.0，炎症成为主要驱动因素，其权重超越 LDL 和 ApoB。需立即就医排查炎症源，考虑抗炎治疗（如低剂量秋水仙碱），并强化他汀或 PCSK9 抑制剂。必须行冠脉 CTA 评估软斑块。'
+        };
+
+        // --- Unit Conversions ---
+        function convertApoB(v, f) { return f === 'g/L' ? v * 100 : v; }
+        function convertLpA(v, f) { return f === 'mg/dL' ? v * 10 : v; }
+        function convertTG(v, f) { return f === 'mg/dL' ? v * 0.01129 : v; }
+        function convertLDL(v, f) { return f === 'mmol/L' ? v * 38.67 : v; }
+        function convertHDL(v, f) { return f === 'mmol/L' ? v * 38.67 : v; }
+        function convertTG2(v, f) { return f === 'mmol/L' ? v * 38.67 : v; }
+
+        // --- BMI ---
+        function computeBMI(hv, hu, wv, wu) {
+            let h = hu === 'cm' ? hv / 100 : hv;
+            let w = wu === 'lbs' ? wv * 0.453592 : wv;
+            if (h <= 0 || w <= 0) return null;
+            return w / (h * h);
+        }
+        function getBMICat(b) {
+            if (b === null) return '—';
+            if (b < 18.5) return '体重过轻'; if (b < 25) return '正常体重';
+            if (b < 30) return '超重'; if (b < 35) return '肥胖 I'; return '肥胖 II';
+        }
+        function getSotoPred(b) {
+            if (b === null) return '—';
+            let d = -2.5 * (b - 22);
+            let s = d > 0 ? '+' : '';
+            return `${s}${d.toFixed(1)} mg/dL (${s}${(d/38.67).toFixed(3)} mmol/L)`;
+        }
+
+        // --- Phenotype ---
+        function evalPhenotypes(ldl, hdl, tg, bmi) {
+            const s1 = (bmi !== null && bmi < 25) && ldl >= 200 && hdl >= 80 && tg <= 70;
+            const s2 = (bmi !== null && bmi < 25) && ldl >= 180 && hdl >= 70 && tg <= 80;
+            const s3 = (bmi !== null && bmi >= 25) && ldl >= 200 && tg <= 70 && hdl >= 40 && hdl < 80;
+            const s4 = (bmi !== null && bmi >= 25) && ldl >= 180 && tg <= 80 && hdl >= 40 && hdl < 70;
+            return { lmhrStrict: s1, lmhrLoose: s2, hmhrStrict: s3, hmhrLoose: s4 };
+        }
+        function getPhenotype(r) {
+            if (r.lmhrStrict) return 'lmhr_typical';
+            if (r.lmhrLoose) return 'lmhr_loose';
+            if (r.hmhrStrict) return 'hmhr_typical';
+            if (r.hmhrLoose) return 'hmhr_loose';
+            return 'none';
+        }
+
+        // --- 核心计算 ---
+        function computeRW(apoB, lpA, tg) { return 11.65 * tg + 0.215 * lpA + 0.736 * apoB; }
+        function getRiskCat(v) {
+            if (v < 80) return { level: 'low', label: T.riskLow, p: '≤ 30%', e: '< 2.5%' };
+            if (v < 120) return { level: 'moderate', label: T.riskModerate, p: '30–65%', e: '~ 3.5%' };
+            if (v < 180) return { level: 'high', label: T.riskHigh, p: '65–90%', e: '4.5–5.4%' };
+            return { level: 'veryHigh', label: T.riskVeryHigh, p: '> 90%', e: '> 5.4%' };
+        }
+        function getAdvice(level, hsCRPLevel) {
+            let base = T.adviceDefault;
+            if (level === 'low') base = T.adviceLow;
+            else if (level === 'moderate') base = T.adviceModerate;
+            else if (level === 'high') base = T.adviceHigh;
+            else if (level === 'veryHigh') base = T.adviceVeryHigh;
+            
+            if (hsCRPLevel) {
+                let extra = '\n\n🔬 hs-CRP 专项建议：';
+                if (hsCRPLevel === 'low') extra += '\n✅ 炎症水平极低，符合健康代谢特征。继续维持当前饮食与运动习惯。';
+                else if (hsCRPLevel === 'moderate') extra += '\n⚠️ 存在轻度炎症。建议排查牙周病、肠道菌群失衡，增加户外日照以调节免疫，必要时补充高剂量维生素D。';
+                else extra += '\n🚨 显著炎症状态。强烈建议就医排查感染或自身免疫病，考虑秋水仙碱抗炎治疗，并监测肝肾功能。';
+                return base + extra;
+            }
+            return base;
+        }
+
+        // --- 更新 BMI ---
+        function updateBMI() {
+            let h = parseFloat(heightInput.value), w = parseFloat(weightInput.value);
+            if (isNaN(h) || isNaN(w) || h <= 0 || w <= 0) {
+                bmiDisplay.innerText = '—'; bmiCategory.innerText = '请填入身高体重';
+                currentBMI = null; sotoPrediction.innerText = '—'; return;
+            }
+            let b = computeBMI(h, heightUnit, w, weightUnit);
+            if (b === null) { bmiDisplay.innerText = '—'; bmiCategory.innerText = '无效'; currentBMI = null; return; }
+            currentBMI = b;
+            bmiDisplay.innerText = b.toFixed(1);
+            bmiCategory.innerText = getBMICat(b);
+            sotoPrediction.innerText = getSotoPred(b);
+            if (ldlInput.value && hdlInput.value && tg2Input.value) updateLMHRUI();
+        }
+
+        // --- Sync TG ---
+        function syncTG() {
+            let v = parseFloat(tg2Input.value);
+            if (isNaN(v) || tg2Input.value === '') return;
+            let home = v;
+            if (tg2Unit === 'mg/dL' && tgUnit === 'mmol/L') home = v * 0.01129;
+            else if (tg2Unit === 'mmol/L' && tgUnit === 'mg/dL') home = v * 88.57;
+            if (isFinite(home)) { tgInput.value = parseFloat(home.toFixed(3)); performRW(); }
+        }
+
+        // --- Update LMHR UI ---
+        function updateLMHRUI() {
+            let ldl = parseFloat(ldlInput.value), hdl = parseFloat(hdlInput.value), tg = parseFloat(tg2Input.value);
+            let bmi = currentBMI;
+            const invalid = isNaN(ldl) || isNaN(hdl) || isNaN(tg) || bmi === null;
+            if (invalid) {
+                lmhrStatusBadge.innerText = T.notEvaluated; lmhrStatusBadge.style.background = '#e0e7f1';
+                lmhrStrictLabel.innerText = lmhrLooseLabel.innerText = hmhrStrictLabel.innerText = hmhrLooseLabel.innerText = '—';
+                ['chkLDL','chkHDL','chkTG','chkBMI'].forEach(id => { let el = document.getElementById(id); el.innerText = '—'; el.className = 'badge'; });
+                lmhrAdviceText.innerText = '请输入身高、体重及血脂数值，点击评估。';
+                phenotype = 'none'; updatePhenotype(); return;
+            }
+            const ldl_m = convertLDL(ldl, ldlUnit), hdl_m = convertHDL(hdl, hdlUnit), tg_m = convertTG2(tg, tg2Unit);
+            const r = evalPhenotypes(ldl_m, hdl_m, tg_m, bmi);
+            const setLabel = (el, pass, pos) => { el.innerText = pass ? pos : T.negative; el.style.color = pass ? '#0b7e3b' : '#b13e3e'; };
+            setLabel(lmhrStrictLabel, r.lmhrStrict, T.lmhrPosStrict);
+            setLabel(lmhrLooseLabel, r.lmhrLoose, T.lmhrPosLoose);
+            setLabel(hmhrStrictLabel, r.hmhrStrict, T.hmhrPosStrict);
+            setLabel(hmhrLooseLabel, r.hmhrLoose, T.hmhrPosLoose);
+            
+            const setBadge = (el, pass) => { el.innerText = pass ? T.pass : T.fail; el.className = 'badge ' + (pass ? 'pass' : 'fail'); };
+            setBadge(chkLDL, ldl_m >= 180);
+            setBadge(chkHDL, (hdl_m >= 70) || (hdl_m >= 40 && hdl_m < 70));
+            setBadge(chkTG, tg_m <= 80);
+            setBadge(chkBMI, (bmi < 25) || (bmi >= 25));
+
+            phenotype = getPhenotype(r);
+            let status = '', adv = '', bg = '', color = '';
+            if (phenotype === 'lmhr_typical') { status = T.statusTypicalLMHR; adv = T.lmhrAdviceTypical || '典型LMHR，优先CAC。'; bg = '#d4edda'; color = '#0b5e2e'; }
+            else if (phenotype === 'lmhr_loose') { status = T.statusLooseLMHR; adv = '宽松LMHR，建议CAC基线。'; bg = '#fff3cd'; color = '#7a5d00'; }
+            else if (phenotype === 'hmhr_typical') { status = T.statusTypicalHMHR; adv = '典型HMHR，排查胰岛素抵抗。'; bg = '#d4edda'; color = '#0b5e2e'; }
+            else if (phenotype === 'hmhr_loose') { status = T.statusLooseHMHR; adv = '宽松HMHR，监测HOMA-IR。'; bg = '#fff3cd'; color = '#7a5d00'; }
+            else { status = T.statusNormal; adv = '常规表型，按标准指南。'; bg = '#f8f0e5'; color = '#7a5d00'; }
+            lmhrStatusBadge.innerText = status; lmhrStatusBadge.style.background = bg; lmhrStatusBadge.style.color = color;
+            lmhrAdviceText.innerText = adv;
+            syncTG();
+            updatePhenotype();
+            updateRWAnalysis();
+        }
+
+        function updatePhenotype() {
+            let text = '', cls = 'normal';
+            if (phenotype === 'lmhr_typical' || phenotype === 'lmhr_loose') { text = T.phenoLMHR; cls = 'lmhr'; }
+            else if (phenotype === 'hmhr_typical' || phenotype === 'hmhr_loose') { text = T.phenoHMHR; cls = 'hmhr'; }
+            else { text = T.phenoNormal; cls = 'normal'; }
+            phenoValue.innerText = text; phenoValue.className = 'value ' + cls;
+        }
+
+        // --- 主计算 (含hs-CRP重评估) ---
+        function performRW() {
+            let apoB = parseFloat(apoBInput.value), lpA = parseFloat(lpAInput.value), tg = parseFloat(tgInput.value);
+            let hs = parseFloat(hsCRPInput.value);
+            if (isNaN(hs) || hsCRPInput.value === '') currentHsCRP = null;
+            else currentHsCRP = hs;
+
+            if (isNaN(apoB) || isNaN(lpA) || isNaN(tg) || apoBInput.value === '' || lpAInput.value === '' || tgInput.value === '') {
+                resultValue.innerText = '—'; riskBadge.innerText = T.waiting; riskBadge.style.background = '#e0e7f1';
+                detailRankVal.innerText = detailPercentileVal.innerText = detailEventVal.innerText = '—';
+                intervList.innerHTML = '<li>' + T.adviceDefault + '</li>';
+                lmhrSpecificBox.style.display = 'none'; lmhrLinkNote.style.display = 'none';
+                hsCRPReassessment.classList.add('hidden'); return;
+            }
+
+            const apoB_m = convertApoB(apoB, apoBUnit), lpA_m = convertLpA(lpA, lpAUnit), tg_m = convertTG(tg, tgUnit);
+            const rw = computeRW(apoB_m, lpA_m, tg_m);
+            const rounded = Math.round(rw * 10) / 10;
+            resultValue.innerText = rounded;
+
+            const risk = getRiskCat(rw);
+            const style = { low: {bg:'#d4edda',color:'#0b5e2e'}, moderate: {bg:'#fff3cd',color:'#7a5d00'}, high: {bg:'#f8d7da',color:'#9e2a2f'}, veryHigh: {bg:'#c0392b',color:'#fff'} }[risk.level] || {bg:'#e0e7f1',color:'#1d314a'};
+            riskBadge.innerText = risk.label; riskBadge.style.background = style.bg; riskBadge.style.color = style.color;
+            detailRankVal.innerText = risk.label; detailPercentileVal.innerText = risk.p; detailEventVal.innerText = risk.e;
+
+            // --- hs-CRP 重评估逻辑 (权重高于脂质) ---
+            let hsLevel = null;
+            let finalRiskLabel = risk.label;
+            let reevalText = '';
+
+            if (currentHsCRP !== null && !isNaN(currentHsCRP) && currentHsCRP >= 0) {
+                hsCRPReassessment.classList.remove('hidden');
+                let badgeText = '', badgeClass = '';
+                if (currentHsCRP < 1.0) {
+                    hsLevel = 'low';
+                    badgeText = T.hsCRP_Low;
+                    badgeClass = 'low';
+                    // 下调风险：即使脂质风险高，炎症低也建议降级
+                    if (risk.level === 'high' || risk.level === 'veryHigh') {
+                        finalRiskLabel = '中等风险（炎症修正）';
+                        reevalText = T.reeval_low + ' 建议：以 CAC 评分为准，暂缓激进降脂。';
+                    } else {
+                        reevalText = T.reeval_low + ' 当前脂质风险维持不变，但炎症极低是保护因素。';
+                    }
+                } else if (currentHsCRP <= 3.0) {
+                    hsLevel = 'moderate';
+                    badgeText = T.hsCRP_Moderate;
+                    badgeClass = 'moderate';
+                    // 上调风险：炎症中等，若脂质风险低则升为中等，若高则保持高
+                    if (risk.level === 'low') {
+                        finalRiskLabel = '中等风险（炎症修正）';
+                        reevalText = T.reeval_moderate + ' 建议排查潜在炎症源。';
+                    } else {
+                        reevalText = T.reeval_moderate + ' 脂质与炎症叠加，需积极干预。';
+                    }
+                } else {
+                    hsLevel = 'high';
+                    badgeText = T.hsCRP_High;
+                    badgeClass = 'high';
+                    // 炎症主导：无论脂质如何，风险直接拉满
+                    finalRiskLabel = '极高风险（炎症主导）';
+                    reevalText = T.reeval_high + ' 立即就医，抗炎治疗优先于单纯降脂。';
+                }
+                hsCRPBadge.innerText = badgeText;
+                hsCRPBadge.className = 'badge ' + badgeClass;
+                hsCRPReassessmentText.innerHTML = `<strong>🔥 重评估结论：</strong> ${finalRiskLabel}。<br>📖 ${reevalText}`;
+            } else {
+                hsCRPReassessment.classList.add('hidden');
+            }
+
+            // 生成建议（使用原始风险等级 + hs-CRP 修正建议）
+            const advice = getAdvice(risk.level, hsLevel);
+            const lines = advice.split('\n').filter(s => s.trim() !== '');
+            intervList.innerHTML = lines.map(l => '<li>' + l.trim() + '</li>').join('');
+
+            updateRWAnalysis();
+        }
+
+        function updateRWAnalysis() {
+            const isPhenotype = phenotype !== 'none';
+            if (isPhenotype) {
+                lmhrSpecificBox.style.display = 'block'; lmhrLinkNote.style.display = 'block'; lmhrLinkText.innerText = T.lmhrLinkText;
+                const list = lmhrSpecificBox.querySelector('#lmhrSpecificList');
+                if (list) {
+                    let items = [];
+                    if (phenotype === 'lmhr_typical' || phenotype === 'lmhr_loose') {
+                        items = ['符合 <strong>LMHR</strong> 表型 (BMI<25, 高LDL+高HDL+低TG)。','此表型高LDL-C主要反映“能量转运活跃”，与动脉粥样硬化无直接关联。','<strong>核心建议</strong>：RW-apoB风险很可能被高估。请以 <strong>CAC评分</strong> 和颈动脉超声作为决策核心。','若hs-CRP、HOMA-IR正常，可暂缓降脂药物，优先优化饮食结构（增加优质碳水）。'];
+                    } else if (phenotype === 'hmhr_typical' || phenotype === 'hmhr_loose') {
+                        items = ['符合 <strong>HMHR</strong> 表型 (BMI≥25, 高LDL+低TG+HDL适中)。','常见于超重/肥胖但代谢健康个体，高LDL可能部分反映能量转运。','<strong>核心建议</strong>：除CAC外，必须监测 <strong>腰围、血压、空腹血糖</strong>。','若CAC=0且无代谢综合征，可通过减重（每降1个BMI单位，LDL约降2.5 mg/dL）和生活方式干预。'];
+                    } else { items = ['检测到代谢表型特征，建议结合临床评估。']; }
+                    list.innerHTML = items.map(item => '<li>' + item + '</li>').join('');
+                }
+                detect1.innerText = T.detectBase; detect2.innerText = T.detectAdv;
+                if (phenotype === 'lmhr_typical' || phenotype === 'lmhr_loose') {
+                    const detList = document.getElementById('detectionItems');
+                    if (detList && !document.getElementById('detect3')) { let li = document.createElement('li'); li.id = 'detect3'; li.innerText = T.detectLMHR; detList.appendChild(li); }
+                } else { const d3 = document.getElementById('detect3'); if (d3) d3.remove(); }
+            } else {
+                lmhrSpecificBox.style.display = 'none'; lmhrLinkNote.style.display = 'none';
+            }
+        }
+
+        // --- UI Helpers ---
+        function setupUnitToggle(group, setter) {
+            const opts = group.querySelectorAll('.unit-opt');
+            opts.forEach(opt => {
+                opt.addEventListener('click', function() {
+                    opts.forEach(o => o.classList.remove('active')); this.classList.add('active');
+                    setter(this.dataset.unit);
+                    if (group === heightUnitGroup || group === weightUnitGroup) updateBMI();
+                    if (group === ldlUnitGroup || group === hdlUnitGroup || group === tg2UnitGroup) {
+                        if (ldlInput.value && hdlInput.value && tg2Input.value) updateLMHRUI();
+                    }
+                });
+            });
+        }
+
+        function switchTab(id) {
+            document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            document.querySelector(`.tab-btn[data-tab="${id}"]`).classList.add('active');
+        }
+
+        // --- Init ---
+        function init() {
+            setupUnitToggle(apoBUnitGroup, (u) => { apoBUnit = u; });
+            setupUnitToggle(lpAUnitGroup, (u) => { lpAUnit = u; });
+            setupUnitToggle(tgUnitGroup, (u) => { tgUnit = u; });
+            setupUnitToggle(ldlUnitGroup, (u) => { ldlUnit = u; });
+            setupUnitToggle(hdlUnitGroup, (u) => { hdlUnit = u; });
+            setupUnitToggle(tg2UnitGroup, (u) => { tg2Unit = u; });
+            setupUnitToggle(heightUnitGroup, (u) => { heightUnit = u; updateBMI(); });
+            setupUnitToggle(weightUnitGroup, (u) => { weightUnit = u; updateBMI(); });
+
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.addEventListener('click', function() { switchTab(this.dataset.tab); }));
+            document.getElementById('calcBtn').addEventListener('click', performRW);
+            document.getElementById('lmhrCalcBtn').addEventListener('click', updateLMHRUI);
+
+            [apoBInput, lpAInput, tgInput, hsCRPInput].forEach(inp => {
+                inp.addEventListener('input', function() {
+                    clearTimeout(window._rwTimer);
+                    window._rwTimer = setTimeout(() => { if (apoBInput.value && lpAInput.value && tgInput.value) performRW(); else performRW(); }, 400);
+                });
+                inp.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); performRW(); } });
+            });
+            [ldlInput, hdlInput, tg2Input].forEach(inp => {
+                inp.addEventListener('input', function() {
+                    clearTimeout(window._lmhrTimer);
+                    window._lmhrTimer = setTimeout(() => { if (ldlInput.value && hdlInput.value && tg2Input.value) updateLMHRUI(); else updateLMHRUI(); }, 400);
+                });
+                inp.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); updateLMHRUI(); } });
+            });
+            [heightInput, weightInput].forEach(inp => {
+                inp.addEventListener('input', function() {
+                    clearTimeout(window._bmiTimer);
+                    window._bmiTimer = setTimeout(() => updateBMI(), 300);
+                });
+                inp.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); updateBMI(); } });
+            });
+
+            phenotype = 'none'; updatePhenotype(); performRW(); updateLMHRUI();
+            document.getElementById('apoBUnitLabel').innerText = apoBUnit;
+            document.getElementById('lpAUnitLabel').innerText = lpAUnit;
+            document.getElementById('tgUnitLabel').innerText = tgUnit;
+            document.getElementById('ldlUnitLabel').innerText = ldlUnit;
+            document.getElementById('hdlUnitLabel').innerText = hdlUnit;
+            document.getElementById('tg2UnitLabel').innerText = tg2Unit;
+            document.getElementById('heightUnitLabel').innerText = heightUnit;
+            document.getElementById('weightUnitLabel').innerText = weightUnit;
+        }
+
+        if (document.readyState === 'complete' || document.readyState === 'interactive') init();
+        else document.addEventListener('DOMContentLoaded', init);
+    })();
+</script>
+</body>
+</html>
