@@ -497,5 +497,7 @@ Samiux
 - [20] [Lp(a)高就是命中注定？很多人都被这个认知困住了——打破固有认知，重新看待这个遗传相关的心血管风险指标](https://mp.weixin.qq.com/s/oNwaXaTc_wjU4xiLc70oLQ)       
 - [21] [The Metabolic Milieu, Part 3: What’s In Your ApoB?](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-part-3-whats)      
 - [22] [Reverse Heart Disease in 1 Year (Proven in RCT) (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=uG166N0pVy0)       
+- [23] [Lp(a) Isn't a Disease — It's Your Body's Street Sweeper (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=fQuSs_iggq4)      
+- [24] [Is LOW Lp(a) Dangerous? What They Don't Tell You (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=7cRuUgdG6u8)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
