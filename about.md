@@ -43,6 +43,7 @@ Active projects but NOT related to CyberSecurity :
 - [血糖酮指数(GKI)计算器](/html/gki_calculator.html)
 - [生酮饮食营养计算器](/html/keto_fasting_calculator.html)    
 - [代谢 & 心血管计算器](/html/Metabolic_CV_Calculator.html)       
+- [代谢评估 RW-apoB · LMHR/HMHR · hs-CRP](/html/Metabolism_Analysis.html)      
 - [LDL Particle Pattern (LDL 颗粒模式)](/html/LDL_Pattern_Analyzer_ENG_ZH.html)      
 - [血脂指数计算器](/html/blood_lipids_calculator.html)    
 - [血脂指标计算器](/html/blood_lipids_ratio.html)      
