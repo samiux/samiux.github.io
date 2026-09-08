@@ -147,5 +147,8 @@ When learn more, you will find out that you are a noob only. (学无止境)  -- 
 ```
 你永远赚不到认知以外的钱 -- 罗伯特·清崎
 ```
+```
+训练时，我当自己从未赢过；比赛时，我当自己从未输过 -- 谷爱凌
+```
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
