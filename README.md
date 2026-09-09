@@ -411,6 +411,7 @@ Samiux
 
 ## 国内外专家解疑
 
+- [Decoding Atherosclerosis: The clotting theory and seed oil toxicity (YouTube) - Dr Paul Mason - FOM23](https://www.youtube.com/watch?v=XFFT4C1OcPY)        
 - [137: LDL Isn’t the Problem? The Real Drivers of Heart Disease (YouTube) - Ben Bikman](https://www.youtube.com/watch?v=E5UJd-lS90c)     
 - [Dr. Paul Mason: Rethinking Cholesterol & Blood Tests (YouTube) - Ep 116](https://www.youtube.com/watch?v=-YgskaiXa_M)     
 - [Understand Your CHOLESTEROL PANEL & Metabolic Health Tests - The ULTIMATE Guide (YouTube) - Dr. Robert Lustig](https://www.youtube.com/watch?v=C3rsNCFNAw8)       
