@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>炎症与心血管风险复合指数计算器</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", "PingFang SC", sans-serif;
+    background: #f5f7fa; color: #1e293b; line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    background: linear-gradient(135deg, #1e40af, #3b82f6);
+    color: white; padding: 22px 28px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  header h1 { font-size: 21px; font-weight: 600; }
+  header p { font-size: 12.5px; opacity: 0.88; margin-top: 5px; }
+  header .disclaimer {
+    margin-top: 10px; padding: 8px 12px;
+    background: rgba(255,255,255,0.12); border-radius: 6px;
+    font-size: 11.5px; line-height: 1.5;
+  }
+  .layout {
+    display: flex; max-width: 1440px; margin: 0 auto;
+    gap: 18px; padding: 18px;
+  }
+  .tab-nav {
+    width: 230px; flex-shrink: 0;
+    background: white; border-radius: 10px; padding: 12px;
+    height: fit-content; position: sticky; top: 18px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+    max-height: calc(100vh - 36px); overflow-y: auto;
+  }
+  .tab-group { margin-bottom: 12px; }
+  .tab-group-title {
+    font-size: 10.5px; text-transform: uppercase; color: #94a3b8;
+    font-weight: 700; padding: 6px 10px; letter-spacing: 0.8px;
+  }
+  .tab-btn {
+    display: block; width: 100%; text-align: left;
+    padding: 8px 11px; border: none; background: none;
+    border-radius: 6px; cursor: pointer; font-size: 13px;
+    color: #475569; transition: all 0.13s; margin-bottom: 1px;
+    font-family: inherit;
+  }
+  .tab-btn:hover { background: #f1f5f9; }
+  .tab-btn.active {
+    background: #3b82f6; color: white; font-weight: 500;
+    box-shadow: 0 2px 6px rgba(59,130,246,0.35);
+  }
+  .tab-btn.active .tab-full { color: rgba(255,255,255,0.85); }
+  .tab-abbr { font-weight: 600; display: block; }
+  .tab-full {
+    font-size: 10.5px; color: #94a3b8; display: block;
+    margin-top: 1px; line-height: 1.3;
+  }
+  .panels { flex: 1; min-width: 0; }
+  .panel {
+    display: none; background: white; border-radius: 10px;
+    padding: 28px 32px; box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+  }
+  .panel.active { display: block; animation: fadeIn 0.2s ease; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  .panel h2 { font-size: 19px; margin-bottom: 4px; color: #0f172a; }
+  .panel .subtitle { color: #64748b; font-size: 12.5px; margin-bottom: 22px; }
+  .inputs { display: grid; gap: 14px; margin-bottom: 22px; }
+  .input-row {
+    display: grid; grid-template-columns: 300px 1fr;
+    gap: 14px; align-items: center;
+  }
+  .input-row label {
+    font-size: 13px; color: #334155; font-weight: 500;
+    line-height: 1.35;
+  }
+  .input-row label .zh { display: block; color: #1e293b; }
+  .input-row label .en {
+    display: block; font-size: 11px; color: #94a3b8;
+    font-weight: 400; margin-top: 2px; letter-spacing: 0.1px;
+    font-style: italic;
+  }
+  .input-group { display: flex; gap: 8px; }
+  .input-group input {
+    flex: 1; padding: 9px 12px;
+    border: 1px solid #cbd5e1; border-radius: 6px;
+    font-size: 14px; font-variant-numeric: tabular-nums;
+    font-family: inherit; background: #fff;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    min-width: 0;
+  }
+  .input-group input:focus {
+    outline: none; border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59,130,246,0.12);
+  }
+  .input-group input::placeholder { color: #cbd5e1; }
+  .input-group select {
+    padding: 9px 8px; border: 1px solid #cbd5e1;
+    border-radius: 6px; font-size: 12.5px;
+    background: #f8fafc; font-family: inherit;
+    color: #475569; cursor: pointer; flex-shrink: 0;
+  }
+  .input-group select:focus { outline: none; border-color: #3b82f6; }
+  .result {
+    border-radius: 10px; padding: 20px 24px;
+    margin-bottom: 22px;
+    display: flex; align-items: baseline; gap: 12px;
+    flex-wrap: wrap; transition: background 0.25s;
+    background: #f8fafc; border: 1px solid #f1f5f9;
+  }
+  .result.green  { background: #f0fdf4; border-color: #bbf7d0; }
+  .result.yellow { background: #fefce8; border-color: #fde68a; }
+  .result.orange { background: #fff7ed; border-color: #fed7aa; }
+  .result.red    { background: #fef2f2; border-color: #fecaca; }
+  .result-value {
+    font-size: 34px; font-weight: 700;
+    font-variant-numeric: tabular-nums; line-height: 1;
+    transition: color 0.25s;
+  }
+  .result.green  .result-value { color: #16a34a; }
+  .result.yellow .result-value { color: #ca8a04; }
+  .result.orange .result-value { color: #ea580c; }
+  .result.red    .result-value { color: #dc2626; }
+  .result:not(.green):not(.yellow):not(.orange):not(.red) .result-value { color: #94a3b8; }
+  .result-unit { font-size: 13px; color: #64748b; }
+  .result-badge {
+    padding: 5px 14px; border-radius: 20px;
+    font-size: 12px; font-weight: 600; margin-left: auto;
+    background: #e2e8f0; color: #64748b;
+    transition: all 0.25s; white-space: nowrap;
+  }
+  .result.green  .result-badge { background: #16a34a; color: white; }
+  .result.yellow .result-badge { background: #ca8a04; color: white; }
+  .result.orange .result-badge { background: #ea580c; color: white; }
+  .result.red    .result-badge { background: #dc2626; color: white; }
+  .formula-box {
+    background: #1e293b; color: #e2e8f0;
+    padding: 16px 20px; border-radius: 8px;
+    margin-bottom: 24px; overflow-x: auto;
+  }
+  .formula-box .label {
+    color: #64748b; font-size: 10.5px;
+    text-transform: uppercase; display: block;
+    margin-bottom: 8px; letter-spacing: 0.8px;
+  }
+  .formula-box pre {
+    font-family: "SF Mono", "Consolas", "Monaco", monospace;
+    font-size: 13.5px; line-height: 1.8; white-space: pre-wrap;
+  }
+  .section { margin-bottom: 24px; }
+  .section h3 {
+    font-size: 14px; color: #334155;
+    margin-bottom: 12px; padding-bottom: 7px;
+    border-bottom: 1px solid #e2e8f0;
+    font-weight: 600;
+  }
+  .section p {
+    font-size: 13.5px; color: #475569;
+    margin-bottom: 10px; line-height: 1.7;
+  }
+  .section p:last-child { margin-bottom: 0; }
+  .section strong { color: #1e293b; }
+  .section ul {
+    padding-left: 18px; font-size: 12.5px;
+    color: #64748b; line-height: 1.7;
+  }
+  .section ul li { margin-bottom: 5px; }
+  table.thresholds {
+    width: 100%; border-collapse: collapse;
+    font-size: 12.5px; margin-bottom: 4px;
+  }
+  table.thresholds th {
+    text-align: left; padding: 9px 12px;
+    background: #f1f5f9; color: #475569;
+    font-weight: 600; font-size: 11.5px;
+    text-transform: uppercase; letter-spacing: 0.4px;
+  }
+  table.thresholds th:first-child { border-radius: 6px 0 0 0; width: 30px; }
+  table.thresholds th:last-child { border-radius: 0 6px 0 0; }
+  table.thresholds td {
+    padding: 9px 12px; border-bottom: 1px solid #f1f5f9;
+    color: #475569; vertical-align: top;
+  }
+  table.thresholds tr:last-child td { border-bottom: none; }
+  table.thresholds td.dot { width: 30px; padding-right: 0; }
+  .dot-indicator {
+    display: inline-block; width: 10px; height: 10px;
+    border-radius: 50%; vertical-align: middle;
+  }
+  .dot-indicator.green  { background: #22c55e; }
+  .dot-indicator.yellow { background: #eab308; }
+  .dot-indicator.orange { background: #f97316; }
+  .dot-indicator.red    { background: #ef4444; }
+  @media (max-width: 960px) {
+    .layout { flex-direction: column; padding: 12px; gap: 12px; }
+    .tab-nav {
+      width: 100%; position: static; max-height: none;
+      display: flex; flex-wrap: wrap; gap: 4px; padding: 10px;
+    }
+    .tab-group { margin: 0; display: contents; }
+    .tab-group-title { display: none; }
+    .tab-btn {
+      width: auto; padding: 7px 12px;
+      border: 1px solid #e2e8f0; font-size: 12.5px;
+    }
+    .tab-full { display: none; }
+    .panel { padding: 20px 18px; }
+    .input-row { grid-template-columns: 1fr; gap: 6px; }
+    .result-value { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>炎症与心血管风险复合指数计算器</h1>
+  <p>17 项基于常规检验的复合指数 · 实时计算 · 多单位换算 · 颜色分级</p>
+  <div class="disclaimer">
+    ⚠️ 本工具仅用于科研与教育目的。所有阈值均为研究特定，不可跨情境套用。任何异常值均需结合临床情境由专业医师解读。
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="tab-nav" id="tabNav"></nav>
+  <main class="panels" id="panels"></main>
+</div>
+
+<script>
+/* ============================================================
+   单位系统
+   ============================================================ */
+var UNIT_TYPES = {
+  cell: { units: [
+    { value: '10^9/L',   label: '×10⁹/L',   factor: 1 },
+    { value: '10^3/uL',  label: '×10³/µL',  factor: 1 },
+    { value: 'cells/uL', label: 'cells/µL', factor: 0.001 }
+  ]},
+  tg: { units: [
+    { value: 'mmol/L', label: 'mmol/L', factor: 1 },
+    { value: 'mg/dL',  label: 'mg/dL',  factor: 1 / 88.57 }
+  ]},
+  glu: { units: [
+    { value: 'mmol/L', label: 'mmol/L', factor: 1 },
+    { value: 'mg/dL',  label: 'mg/dL',  factor: 1 / 18 }
+  ]},
+  chol: { units: [
+    { value: 'mmol/L', label: 'mmol/L', factor: 1 },
+    { value: 'mg/dL',  label: 'mg/dL',  factor: 1 / 38.67 }
+  ]},
+  crp: { units: [
+    { value: 'mg/L',  label: 'mg/L',  factor: 1 },
+    { value: 'mg/dL', label: 'mg/dL', factor: 10 }
+  ]},
+  albumin: { units: [
+    { value: 'g/L',  label: 'g/L',  factor: 1 },
+    { value: 'g/dL', label: 'g/dL', factor: 10 }
+  ]},
+  protein: { units: [
+    { value: 'g/L',  label: 'g/L',  factor: 1 },
+    { value: 'g/dL', label: 'g/dL', factor: 10 }
+  ]},
+  waist: { units: [
+    { value: 'cm',   label: 'cm',   factor: 1 },
+    { value: 'inch', label: 'inch', factor: 2.54 }
+  ]},
+  bmi: { units: [
+    { value: 'kg/m2', label: 'kg/m²', factor: 1 }
+  ]}
+};
+
+function getUnitFactor(unitType, unitValue) {
+  var ut = UNIT_TYPES[unitType];
+  if (!ut) return 1;
+  for (var i = 0; i < ut.units.length; i++) {
+    if (ut.units[i].value === unitValue) return ut.units[i].factor;
+  }
+  return 1;
+}
+
+function toCanonical(value, unitType, fromUnit) {
+  return value * getUnitFactor(unitType, fromUnit);
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+/* ============================================================
+   输入字段标签工具：生成中英文双行标签
+   ============================================================ */
+function lbl(zh, en) {
+  return '<span class="zh">' + zh + '</span><span class="en">' + en + '</span>';
+}
+
+/* ============================================================
+   指数定义（含英文全写）
+   ============================================================ */
+var INDICES = [
+  /* ---------- 血常规类 ---------- */
+  {
+    id: 'sii', title: 'SII', subtitle: '系统性免疫炎症指数', category: '血常规类',
+    inputs: [
+      { key: 'plt', label: lbl('血小板计数 (PLT)', 'Platelet Count'),                    unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'anc', label: lbl('中性粒细胞绝对计数 (ANC)', 'Absolute Neutrophil Count'),  unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'alc', label: lbl('淋巴细胞绝对计数 (ALC)', 'Absolute Lymphocyte Count'),    unitType: 'cell', defaultUnit: '10^9/L' }
+    ],
+    formula: 'SII = PLT × ANC ÷ ALC',
+    resultUnit: '×10⁹/L',
+    calc: function(v) { if (v.alc <= 0) return NaN; return v.plt * v.anc / v.alc; },
+    risk: function(val) {
+      if (val < 190.5)  return { level: 'green',  label: '偏低 / 低风险' };
+      if (val <= 775.63) return { level: 'green',  label: '正常范围' };
+      if (val <= 3096.6) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '< 190.5',         meaning: '偏低 / 低风险',                  level: 'green'  },
+      { range: '190.5 – 775.63',  meaning: '正常范围',                       level: 'green'  },
+      { range: '775.63 – 3096.6', meaning: '中等风险（冠脉易损斑块截断值）', level: 'yellow' },
+      { range: '> 3096.6',        meaning: '高风险（ARDS 死亡预测截断值）',  level: 'orange' }
+    ],
+    interpretation: '<p>SII 整合血小板（血栓形成）、中性粒细胞（急性炎症）和淋巴细胞（免疫调节）三个维度。数值升高提示促炎-促血栓状态占优，免疫监视功能相对抑制。</p><p><strong>临床应用：</strong>冠心病严重程度评估、冠脉易损斑块预测、肿瘤预后、术后并发症风险。</p><p><strong>关键提醒：</strong>SII 阈值高度依赖研究终点，不可跨情境套用。</p>',
+    sources: [
+      'Hu B, et al. Clin Cancer Res. 2014.（首次提出）',
+      'Yang YL, et al. Eur J Clin Invest. 2020.（冠心病验证）',
+      'Rotterdam Study（健康成人参考区间）'
+    ]
+  },
+  {
+    id: 'siri', title: 'SIRI', subtitle: '系统性炎症反应指数', category: '血常规类',
+    inputs: [
+      { key: 'anc', label: lbl('中性粒细胞绝对计数 (ANC)', 'Absolute Neutrophil Count'), unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'amc', label: lbl('单核细胞绝对计数 (AMC)', 'Absolute Monocyte Count'),     unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'alc', label: lbl('淋巴细胞绝对计数 (ALC)', 'Absolute Lymphocyte Count'),   unitType: 'cell', defaultUnit: '10^9/L' }
+    ],
+    formula: 'SIRI = ANC × AMC ÷ ALC',
+    resultUnit: '×10⁹/L',
+    calc: function(v) { if (v.alc <= 0) return NaN; return v.anc * v.amc / v.alc; },
+    risk: function(val) {
+      if (val < 0.575) return { level: 'green',  label: '低风险' };
+      if (val < 1.54)  return { level: 'yellow', label: '中等风险' };
+      if (val < 2.45)  return { level: 'orange', label: '高风险' };
+      return { level: 'red', label: '极高风险' };
+    },
+    thresholds: [
+      { range: '< 0.575',      meaning: '低风险 / 代谢指标正常',          level: 'green'  },
+      { range: '0.575 – 1.54', meaning: '中等风险',                       level: 'yellow' },
+      { range: '1.54 – 2.45',  meaning: '高风险（血液透析 / 子痫前期）',   level: 'orange' },
+      { range: '> 2.45',       meaning: '极高风险（重度子痫前期截断值）',   level: 'red'    }
+    ],
+    interpretation: '<p>SIRI 比 NLR 多纳入单核细胞，反映单核-巨噬细胞系统的激活程度。在慢性低度炎症中，单核细胞的持续募集和活化是动脉粥样硬化斑块进展的关键环节。</p><p><strong>临床应用：</strong>血液透析患者风险分层、子痫前期预测、代谢异常筛查。</p>',
+    sources: [
+      'Gao et al. Hypertens Pregnancy. 2026.',
+      'NHANES cohort studies on SIRI and metabolic outcomes.'
+    ]
+  },
+  {
+    id: 'aisi', title: 'AISI', subtitle: '聚集炎症评分指数', category: '血常规类',
+    inputs: [
+      { key: 'anc', label: lbl('中性粒细胞绝对计数 (ANC)', 'Absolute Neutrophil Count'), unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'plt', label: lbl('血小板计数 (PLT)', 'Platelet Count'),                    unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'amc', label: lbl('单核细胞绝对计数 (AMC)', 'Absolute Monocyte Count'),     unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'alc', label: lbl('淋巴细胞绝对计数 (ALC)', 'Absolute Lymphocyte Count'),   unitType: 'cell', defaultUnit: '10^9/L' }
+    ],
+    formula: 'AISI = ANC × PLT × AMC ÷ ALC',
+    resultUnit: '×10⁹/L',
+    calc: function(v) { if (v.alc <= 0) return NaN; return v.anc * v.plt * v.amc / v.alc; },
+    risk: function(val) {
+      if (val < 100) return { level: 'green',  label: '低风险' };
+      if (val < 300) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '< 100',     meaning: '低风险（近似）',   level: 'green'  },
+      { range: '100 – 300', meaning: '中等风险（近似）', level: 'yellow' },
+      { range: '> 300',     meaning: '高风险（近似）',   level: 'orange' }
+    ],
+    interpretation: '<p>AISI 是目前纳入细胞类型最多的复合炎症指数之一，整合中性粒细胞、单核细胞、血小板和淋巴细胞四个维度。</p><p><strong>注意：</strong>AISI 绝对值因计算单位而异，不同研究截断值差异极大。上述阈值仅供参考。</p>',
+    sources: [
+      'BMC Gastroenterology. 2025. NHANES 2017–2020 analysis.',
+      'Multiple studies on AISI and cardiovascular outcomes.'
+    ]
+  },
+  {
+    id: 'dnlr', title: 'dNLR', subtitle: '衍生中性粒细胞/淋巴细胞比值', category: '血常规类',
+    inputs: [
+      { key: 'wbc', label: lbl('白细胞总数 (WBC)', 'White Blood Cell Count'),            unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'anc', label: lbl('中性粒细胞绝对计数 (ANC)', 'Absolute Neutrophil Count'), unitType: 'cell', defaultUnit: '10^9/L' }
+    ],
+    formula: 'dNLR = ANC ÷ (WBC − ANC)',
+    resultUnit: '（无量纲）',
+    calc: function(v) { if (v.wbc - v.anc <= 0) return NaN; return v.anc / (v.wbc - v.anc); },
+    risk: function(val) {
+      if (val < 3) return { level: 'green',  label: '低风险' };
+      if (val < 4) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '< 3',   meaning: '低风险（近似）',   level: 'green'  },
+      { range: '3 – 4', meaning: '中等风险（近似）', level: 'yellow' },
+      { range: '> 4',   meaning: '高风险（近似）',   level: 'orange' }
+    ],
+    interpretation: '<p>当淋巴细胞绝对计数不可得时（部分实验室仅报告白细胞总数和分类百分比），dNLR 可作为 NLR 的替代。分母（WBC − ANC）近似等于淋巴细胞 + 单核细胞 + 嗜酸 + 嗜碱之和。</p><p><strong>AUC：</strong>约 0.638，略优于 NLR（0.612）。</p>',
+    sources: [
+      'Proctor MJ, et al. Br J Cancer. 2012.',
+      'Multiple validation studies in cancer and cardiovascular disease.'
+    ]
+  },
+  {
+    id: 'plr', title: 'PLR', subtitle: '血小板/淋巴细胞比值', category: '血常规类',
+    inputs: [
+      { key: 'plt', label: lbl('血小板计数 (PLT)', 'Platelet Count'),                  unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'alc', label: lbl('淋巴细胞绝对计数 (ALC)', 'Absolute Lymphocyte Count'), unitType: 'cell', defaultUnit: '10^9/L' }
+    ],
+    formula: 'PLR = PLT ÷ ALC',
+    resultUnit: '（无量纲）',
+    calc: function(v) { if (v.alc <= 0) return NaN; return v.plt / v.alc; },
+    risk: function(val) {
+      if (val < 71.2)    return { level: 'green',  label: '偏低' };
+      if (val <= 246.87) return { level: 'green',  label: '正常范围' };
+      if (val <= 300)    return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '< 71.2',        meaning: '偏低（中国北方参考下限）', level: 'green'  },
+      { range: '71.2 – 246.87', meaning: '正常范围（中国北方成人）', level: 'green'  },
+      { range: '246.87 – 300',  meaning: '中等风险',                level: 'yellow' },
+      { range: '> 300',         meaning: '高风险',                  level: 'orange' }
+    ],
+    interpretation: '<p>PLR 升高反映血小板激活与淋巴细胞减少的联合效应，在血栓-炎症交互中具有独特价值。</p><p><strong>参考区间（中国）：</strong>北方成人 71.20–246.87；广东潮汕男性 36.63–149.13，女性 43.36–172.68。</p><p><strong>肿瘤预后截断值：</strong>144.0（一项研究）；&gt;152.57（另一研究）。</p>',
+    sources: [
+      '中国北方成人 PLR 参考区间研究.',
+      '广东潮汕地区健康人群 PLR 参考区间研究.',
+      'Multiple cancer prognosis studies on PLR.'
+    ]
+  },
+  {
+    id: 'lmr', title: 'LMR', subtitle: '淋巴细胞/单核细胞比值', category: '血常规类',
+    inputs: [
+      { key: 'alc', label: lbl('淋巴细胞绝对计数 (ALC)', 'Absolute Lymphocyte Count'), unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'amc', label: lbl('单核细胞绝对计数 (AMC)', 'Absolute Monocyte Count'),   unitType: 'cell', defaultUnit: '10^9/L' }
+    ],
+    formula: 'LMR = ALC ÷ AMC',
+    resultUnit: '（无量纲）',
+    calc: function(v) { if (v.amc <= 0) return NaN; return v.alc / v.amc; },
+    risk: function(val) {
+      if (val >= 5.07) return { level: 'green',  label: '低风险 / 预后良好' };
+      if (val >= 3.17) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险 / 预后不良' };
+    },
+    thresholds: [
+      { range: '≥ 5.07',      meaning: '低风险 / 预后良好', level: 'green'  },
+      { range: '3.17 – 5.07', meaning: '中等风险',          level: 'yellow' },
+      { range: '< 3.17',      meaning: '高风险 / 预后不良', level: 'orange' }
+    ],
+    interpretation: '<p><strong>方向性警告：</strong>LMR 与 NLR、PLR 不同——<strong>LMR 降低</strong>提示预后不良，而非升高。</p><p><strong>参考区间（中国）：</strong>&gt;80 岁女性 5.05（4.00–6.45）；南京 60 岁以上男性 2.95–10.42，女性 3.54–11.64。</p>',
+    sources: [
+      '中国健康成人 LMR 参考区间研究（南京、上海等）.',
+      'Multiple cancer prognosis studies on LMR.'
+    ]
+  },
+
+  /* ---------- 脂质代谢类 ---------- */
+  {
+    id: 'aip', title: 'AIP', subtitle: '血浆致动脉粥样硬化指数', category: '脂质代谢类',
+    inputs: [
+      { key: 'tg',  label: lbl('甘油三酯 (TG)', 'Triglycerides'),                                   unitType: 'tg',   defaultUnit: 'mmol/L' },
+      { key: 'hdl', label: lbl('高密度脂蛋白胆固醇 (HDL-C)', 'High-Density Lipoprotein Cholesterol'), unitType: 'chol', defaultUnit: 'mmol/L' }
+    ],
+    formula: 'AIP = log₁₀(TG ÷ HDL-C)',
+    resultUnit: '（无量纲）',
+    calc: function(v) {
+      if (v.hdl <= 0 || v.tg <= 0) return NaN;
+      return Math.log(v.tg / v.hdl) / Math.LN10;
+    },
+    risk: function(val) {
+      if (val < 0.11)  return { level: 'green',  label: '低风险' };
+      if (val <= 0.21) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '< 0.11',      meaning: '低风险',   level: 'green'  },
+      { range: '0.11 – 0.21', meaning: '中等风险', level: 'yellow' },
+      { range: '> 0.21',      meaning: '高风险',   level: 'orange' }
+    ],
+    interpretation: '<p>AIP 与脂蛋白颗粒大小直接相关——AIP 升高意味着小而密 LDL（sdLDL）增多，这类颗粒更易穿透血管内皮、更易被氧化修饰。</p><p><strong>单位提醒：</strong>上述阈值基于 TG 和 HDL-C 均以 <strong>mmol/L</strong> 为单位。本工具内部统一使用 mmol/L。</p><p><strong>探索性最佳切点：</strong>0.31（区分空腹血糖异常）。</p>',
+    sources: [
+      'Dobiášová M, Frohlich J. Clin Biochem. 2001.（首次提出）',
+      'Multiple Chinese cohort studies validating AIP thresholds.'
+    ]
+  },
+  {
+    id: 'tyg', title: 'TyG', subtitle: '甘油三酯-葡萄糖指数', category: '脂质代谢类',
+    inputs: [
+      { key: 'tg',  label: lbl('空腹甘油三酯 (TG)', 'Triglycerides (Fasting)'),                  unitType: 'tg',  defaultUnit: 'mmol/L' },
+      { key: 'fpg', label: lbl('空腹血糖 (FPG)', 'Fasting Plasma Glucose'),                       unitType: 'glu', defaultUnit: 'mmol/L' }
+    ],
+    formula: 'TyG = ln[TG(mg/dL) × FPG(mg/dL) ÷ 2]',
+    resultUnit: '（无量纲）',
+    calc: function(v) {
+      if (v.tg <= 0 || v.fpg <= 0) return NaN;
+      return Math.log((v.tg * 88.57) * (v.fpg * 18) / 2);
+    },
+    risk: function(val) {
+      if (val < 8.35) return { level: 'green',  label: '低风险' };
+      if (val < 9.0)  return { level: 'yellow', label: '中等风险' };
+      if (val < 9.75) return { level: 'orange', label: '高风险' };
+      return { level: 'red', label: '极高风险' };
+    },
+    thresholds: [
+      { range: '< 8.35',      meaning: '低风险（中国人群三分位下限）',           level: 'green'  },
+      { range: '8.35 – 8.86', meaning: '中等风险（中间三分位）',                 level: 'yellow' },
+      { range: '8.86 – 9.0',  meaning: '偏高（接近拐点）',                      level: 'yellow' },
+      { range: '9.0 – 9.75',  meaning: '高风险（拐点以上）',                     level: 'orange' },
+      { range: '> 9.75',      meaning: '极高风险（全因死亡 / CV 死亡截断值）',   level: 'red'    }
+    ],
+    interpretation: '<p>TyG 是胰岛素抵抗的替代标志物。生物学基础：胰岛素抵抗状态下，脂肪组织释放游离脂肪酸增加 → 肝脏 TG 合成增加，同时肌肉葡萄糖摄取减少 → 空腹血糖升高。</p><p><strong>单位要求：</strong>公式内部已将 mmol/L 自动转换为 mg/dL。用户输入 mmol/L 或 mg/dL 均可。</p><p><strong>关键阈值：</strong>中国一般人群全因死亡最佳截断值 &lt; 9.75；心血管死亡 9.85；拐点约 9.0。糖尿病患者风险阈值更低（约 8.51）。</p>',
+    sources: [
+      'Simental-Mendía LE, et al. Metab Syndr Relat Disord. 2008.',
+      'Chinese cohort studies on TyG and mortality (multiple, 2020–2024).'
+    ]
+  },
+  {
+    id: 'vai', title: 'VAI', subtitle: '内脏肥胖指数', category: '脂质代谢类',
+    genderDependent: true,
+    inputs: [
+      { key: 'wc',  label: lbl('腰围 (WC)', 'Waist Circumference'),                                    unitType: 'waist', defaultUnit: 'cm' },
+      { key: 'bmi', label: lbl('身体质量指数 (BMI)', 'Body Mass Index'),                                unitType: 'bmi',   defaultUnit: 'kg/m2' },
+      { key: 'tg',  label: lbl('甘油三酯 (TG)', 'Triglycerides'),                                       unitType: 'tg',    defaultUnit: 'mmol/L' },
+      { key: 'hdl', label: lbl('高密度脂蛋白胆固醇 (HDL-C)', 'High-Density Lipoprotein Cholesterol'),   unitType: 'chol',  defaultUnit: 'mmol/L' }
+    ],
+    formula: '男性：VAI = [WC ÷ (39.68 + 1.88×BMI)] × (TG ÷ 1.03) × (1.31 ÷ HDL)\n女性：VAI = [WC ÷ (36.58 + 1.89×BMI)] × (TG ÷ 0.81) × (1.52 ÷ HDL)',
+    resultUnit: '（无量纲）',
+    calc: function(v, ctx) {
+      if (v.hdl <= 0) return NaN;
+      var male = ctx.gender === 'male';
+      var den  = male ? (39.68 + 1.88 * v.bmi) : (36.58 + 1.89 * v.bmi);
+      var tgD  = male ? 1.03 : 0.81;
+      var hdlF = male ? 1.31 : 1.52;
+      return (v.wc / den) * (v.tg / tgD) * (hdlF / v.hdl);
+    },
+    risk: function(val, ctx) {
+      var male = ctx.gender === 'male';
+      var highCut = male ? 1.83 : 1.58;
+      if (val < 1.5)     return { level: 'green',  label: '正常' };
+      if (val < highCut) return { level: 'yellow', label: '偏高' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '≈ 1.0',                        meaning: '正常（脂肪分布正常、TG 和 HDL 正常）', level: 'green'  },
+      { range: '1.0 – 1.83（男）/ 1.58（女）', meaning: '偏高',                              level: 'yellow' },
+      { range: '> 1.83（男）/ 1.58（女）',     meaning: '高风险（代谢肥胖表型识别）',         level: 'orange' }
+    ],
+    interpretation: '<p>VAI 的核心创新在于用 WC 和 BMI 的组合来估计内脏脂肪功能，而非直接测量。内脏脂肪的脂解活性远高于皮下脂肪，其释放的游离脂肪酸直接进入门静脉，驱动肝脏胰岛素抵抗和 TG 合成。</p><p><strong>单位要求：</strong>WC 为 cm，BMI 为 kg/m²，TG 和 HDL-C 为 <strong>mmol/L</strong>。</p><p><strong>性别差异：</strong>公式系数因性别而异，请务必选择正确的性别。</p>',
+    sources: [
+      'Amato MC, et al. Visceral Adiposity Index: a reliable indicator of visceral fat function. Diabetes Care. 2010.',
+      'Chinese validation studies on VAI in metabolic syndrome and NAFLD.'
+    ]
+  },
+  {
+    id: 'lap', title: 'LAP', subtitle: '脂质蓄积产物', category: '脂质代谢类',
+    genderDependent: true,
+    inputs: [
+      { key: 'wc', label: lbl('腰围 (WC)', 'Waist Circumference'), unitType: 'waist', defaultUnit: 'cm' },
+      { key: 'tg', label: lbl('甘油三酯 (TG)', 'Triglycerides'),   unitType: 'tg',    defaultUnit: 'mmol/L' }
+    ],
+    formula: '男性：LAP = (WC − 65) × TG\n女性：LAP = (WC − 58) × TG',
+    resultUnit: '（无量纲）',
+    calc: function(v, ctx) {
+      var off = ctx.gender === 'male' ? 65 : 58;
+      var diff = v.wc - off;
+      if (diff < 0) diff = 0;
+      return diff * v.tg;
+    },
+    risk: function(val) {
+      if (val < 20)   return { level: 'green',  label: '低风险' };
+      if (val < 42.7) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '< 20',      meaning: '低风险（近似）',                       level: 'green'  },
+      { range: '20 – 42.7', meaning: '中等风险',                            level: 'yellow' },
+      { range: '> 42.7',    meaning: '高风险（儿童肥胖 NAFLD 预测截断值）',  level: 'orange' }
+    ],
+    interpretation: '<p>LAP = 腰围超额部分 × 甘油三酯浓度，本质上是"中心性肥胖"与"高 TG 血症"的乘积。它反映的是肝脏脂质蓄积的驱动力。</p><p><strong>单位：</strong>WC 为 cm，TG 为 <strong>mmol/L</strong>。65 和 58 分别为男性和女性的最小腰围常数。</p><p><strong>注意：</strong>若 TG 使用 mg/dL，LAP 数值将放大 88.57 倍，阈值不可直接套用。</p>',
+    sources: [
+      'Kahn HS, et al. The "lipid accumulation product" performs better than the body mass index. BMC Cardiovasc Disord. 2005.',
+      'Chinese studies on LAP and NAFLD / metabolic syndrome.'
+    ]
+  },
+
+  /* ---------- 综合类 ---------- */
+  {
+    id: 'cti', title: 'CTI', subtitle: 'C反应蛋白-甘油三酯-葡萄糖指数', category: '综合类',
+    inputs: [
+      { key: 'crp', label: lbl('C 反应蛋白 (CRP)', 'C-Reactive Protein'),       unitType: 'crp', defaultUnit: 'mg/L' },
+      { key: 'tg',  label: lbl('空腹甘油三酯 (TG)', 'Triglycerides (Fasting)'), unitType: 'tg',  defaultUnit: 'mmol/L' },
+      { key: 'fpg', label: lbl('空腹血糖 (FPG)', 'Fasting Plasma Glucose'),     unitType: 'glu', defaultUnit: 'mmol/L' }
+    ],
+    formula: 'CTI = 0.412 × ln(CRP[mg/L]) + ln[TG(mg/dL) × FPG(mg/dL) ÷ 2]',
+    resultUnit: '（无量纲）',
+    calc: function(v) {
+      if (v.crp <= 0 || v.tg <= 0 || v.fpg <= 0) return NaN;
+      return 0.412 * Math.log(v.crp) + Math.log((v.tg * 88.57) * (v.fpg * 18) / 2);
+    },
+    risk: function(val) {
+      if (val < 3.42) return { level: 'green',  label: '低风险' };
+      if (val < 4.78) return { level: 'yellow', label: '中等风险' };
+      if (val < 9.46) return { level: 'orange', label: '高风险' };
+      return { level: 'red', label: '极高风险' };
+    },
+    thresholds: [
+      { range: '< 3.42',      meaning: '低风险（近似）',                level: 'green'  },
+      { range: '3.42 – 4.78', meaning: '中等风险',                      level: 'yellow' },
+      { range: '4.78 – 9.46', meaning: '高风险（接近心梗 MACE）',         level: 'orange' },
+      { range: '> 9.46',      meaning: '极高风险（急性心梗 MACE 截断值）', level: 'red'    }
+    ],
+    interpretation: '<p>CTI 同时捕捉系统性炎症（CRP）和代谢应激（TyG），是"炎症-代谢交互"最直接的操作化定义。</p><p><strong>关键证据：</strong>代谢综合征患者中，CTI 每增加 1 单位，心血管死亡风险增加 <strong>32%</strong>（HR=1.32, 95% CI: 1.07–1.62）。最高四分位组相较最低组 HR=1.60。</p><p><strong>单位：</strong>CRP 为 mg/L，TG 和 FPG 为 mmol/L（内部自动转 mg/dL）。</p>',
+    sources: [
+      'Multiple NHANES studies on CTI and cardiovascular mortality.',
+      'Chinese cohort studies on CTI in metabolic syndrome.'
+    ]
+  },
+  {
+    id: 'rcii', title: 'RCII', subtitle: '残余胆固醇炎症指数', category: '综合类',
+    inputs: [
+      { key: 'tc',    label: lbl('总胆固醇 (TC)', 'Total Cholesterol'),                                       unitType: 'chol', defaultUnit: 'mmol/L' },
+      { key: 'hdl',   label: lbl('高密度脂蛋白胆固醇 (HDL-C)', 'High-Density Lipoprotein Cholesterol'),         unitType: 'chol', defaultUnit: 'mmol/L' },
+      { key: 'ldl',   label: lbl('低密度脂蛋白胆固醇 (LDL-C)', 'Low-Density Lipoprotein Cholesterol'),          unitType: 'chol', defaultUnit: 'mmol/L' },
+      { key: 'hscrp', label: lbl('高敏 C 反应蛋白 (hs-CRP)', 'High-Sensitivity C-Reactive Protein'),            unitType: 'crp',  defaultUnit: 'mg/L' }
+    ],
+    formula: 'RCII = RC(mg/dL) × hs-CRP(mg/L) ÷ 10\n其中 RC = TC − (HDL-C + LDL-C)',
+    resultUnit: '（无量纲）',
+    calc: function(v) {
+      if (v.hscrp <= 0) return NaN;
+      var rcMmol = v.tc - v.hdl - v.ldl;
+      var rcMgdl = rcMmol * 38.67;
+      return rcMgdl * v.hscrp / 10;
+    },
+    risk: function(val) {
+      if (val < 1.488) return { level: 'green',  label: '低风险' };
+      if (val < 8.84)  return { level: 'yellow', label: '中等风险' };
+      if (val < 36.14) return { level: 'orange', label: '高风险' };
+      return { level: 'red', label: '极高风险' };
+    },
+    thresholds: [
+      { range: '< 1.488',      meaning: '低风险（CVD 最佳二分截断值以下）', level: 'green'  },
+      { range: '1.488 – 8.84', meaning: '中等风险',                        level: 'yellow' },
+      { range: '8.84 – 36.14', meaning: '高风险（卒中功能结局截断值）',      level: 'orange' },
+      { range: '> 36.14',      meaning: '极高风险（新发卒中预测截断值）',     level: 'red'    }
+    ],
+    interpretation: '<p>残余胆固醇（RC）是富含甘油三酯脂蛋白（TRL）中的胆固醇，即使在 LDL-C 达标后，RC 升高仍与残余风险显著相关。RCII 将 RC 与 hs-CRP 结合，量化"残余胆固醇 + 残余炎症"的联合风险。</p><p><strong>单位：</strong>TC/HDL/LDL 为 mmol/L（内部自动转 mg/dL），hs-CRP 为 mg/L。</p><p><strong>注意：</strong>当 TC − HDL − LDL 为负值时，提示血脂数据可能有误或 LDL 直接测定与计算值不一致。</p>',
+    sources: [
+      'Multiple studies on RCII and cardiovascular outcomes.',
+      'Chinese cohort studies on residual cholesterol and stroke risk.'
+    ]
+  },
+
+  /* ---------- 营养-炎症类 ---------- */
+  {
+    id: 'car', title: 'CAR', subtitle: 'C反应蛋白/白蛋白比值', category: '营养-炎症类',
+    inputs: [
+      { key: 'crp',     label: lbl('C 反应蛋白 (CRP)', 'C-Reactive Protein'), unitType: 'crp',     defaultUnit: 'mg/L' },
+      { key: 'albumin', label: lbl('白蛋白 (ALB)', 'Albumin'),                 unitType: 'albumin', defaultUnit: 'g/L' }
+    ],
+    formula: 'CAR = CRP(mg/L) ÷ 白蛋白(g/L)',
+    resultUnit: '（无量纲）',
+    calc: function(v) { if (v.albumin <= 0) return NaN; return v.crp / v.albumin; },
+    risk: function(val) {
+      if (val < 0.1)  return { level: 'green',  label: '低风险' };
+      if (val < 0.5)  return { level: 'yellow', label: '中等风险' };
+      if (val < 7.38) return { level: 'orange', label: '高风险' };
+      return { level: 'red', label: '极高风险' };
+    },
+    thresholds: [
+      { range: '< 0.1',      meaning: '低风险（健康人典型范围）',           level: 'green'  },
+      { range: '0.1 – 0.5',  meaning: '中等风险',                          level: 'yellow' },
+      { range: '0.5 – 7.38', meaning: '高风险',                            level: 'orange' },
+      { range: '> 7.38',     meaning: '极高风险（全因死亡最佳截断值，AUC 0.78）', level: 'red' }
+    ],
+    interpretation: '<p>CAR 的生物学逻辑是"一升一降"——炎症驱动 CRP 升高，同时炎症消耗和营养不良导致白蛋白下降。两者的比值放大了单一指标的信号。</p><p><strong>单位提醒：</strong>CRP 为 mg/L，白蛋白为 g/L。部分研究使用 mg/dL 与 g/dL 体系，数值差异为 10 倍，不可直接比较。</p><p><strong>临床应用：</strong>急性胰腺炎严重程度、脓毒症预后、肿瘤患者死亡风险分层。</p>',
+    sources: [
+      'Multiple studies on CRP/albumin ratio and mortality.',
+      'Acute pancreatitis severity studies (Youden cutoff 18.39).'
+    ]
+  },
+  {
+    id: 'pni', title: 'PNI', subtitle: '预后营养指数', category: '营养-炎症类',
+    inputs: [
+      { key: 'albumin', label: lbl('白蛋白 (ALB)', 'Albumin'),                          unitType: 'albumin', defaultUnit: 'g/L' },
+      { key: 'alc',     label: lbl('淋巴细胞绝对计数 (ALC)', 'Absolute Lymphocyte Count'), unitType: 'cell',    defaultUnit: '10^9/L' }
+    ],
+    formula: 'PNI = 白蛋白(g/L) + 5 × 淋巴细胞计数(×10⁹/L)',
+    resultUnit: '（无量纲）',
+    calc: function(v) { return v.albumin + 5 * v.alc; },
+    risk: function(val) {
+      if (val > 50) return { level: 'green',  label: '营养免疫良好' };
+      if (val >= 40) return { level: 'yellow', label: '中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '> 50',     meaning: '营养免疫状态良好', level: 'green'  },
+      { range: '40 – 50',  meaning: '中等风险',         level: 'yellow' },
+      { range: '< 40',     meaning: '高风险',           level: 'orange' }
+    ],
+    interpretation: '<p>PNI 是"营养 + 免疫"的双维度指标。白蛋白反映内脏蛋白储备，淋巴细胞计数反映细胞免疫能力。两者同时降低提示"营养不良-免疫抑制"的恶性循环。</p><p><strong>单位：</strong>白蛋白为 g/L，淋巴细胞为 ×10⁹/L。</p><p><strong>阈值：</strong>PNI ≥ 46.5 与死亡风险降低相关；高血压人群拐点为 51.55；ACS 患者 PCI 术后最佳截断值 46.905。PNI 越低预后越差。</p>',
+    sources: [
+      'Onodera T, et al. Prognostic nutritional index in gastrointestinal surgery. Jpn J Surg. 1984.',
+      'Multiple Chinese studies on PNI and cardiovascular / cancer outcomes.'
+    ]
+  },
+  {
+    id: 'gps', title: 'GPS', subtitle: '格拉斯哥预后评分', category: '营养-炎症类',
+    inputs: [
+      { key: 'crp',     label: lbl('C 反应蛋白 (CRP)', 'C-Reactive Protein'), unitType: 'crp',     defaultUnit: 'mg/L' },
+      { key: 'albumin', label: lbl('白蛋白 (ALB)', 'Albumin'),                 unitType: 'albumin', defaultUnit: 'g/L' }
+    ],
+    formula: 'CRP > 10 mg/L 且 白蛋白 < 35 g/L → 2 分\n仅一项异常 → 1 分\n两项均正常 → 0 分',
+    resultUnit: '分',
+    calc: function(v) {
+      var crpHigh = v.crp > 10;
+      var albLow  = v.albumin < 35;
+      if (crpHigh && albLow) return 2;
+      if (crpHigh || albLow) return 1;
+      return 0;
+    },
+    risk: function(val) {
+      if (val === 0) return { level: 'green',  label: '评分 0 · 低风险' };
+      if (val === 1) return { level: 'yellow', label: '评分 1 · 中等风险' };
+      return { level: 'orange', label: '评分 2 · 高风险' };
+    },
+    thresholds: [
+      { range: '0 分', meaning: 'CRP ≤ 10 mg/L 且 白蛋白 ≥ 35 g/L', level: 'green'  },
+      { range: '1 分', meaning: 'CRP > 10 或 白蛋白 < 35（仅一项异常）', level: 'yellow' },
+      { range: '2 分', meaning: 'CRP > 10 且 白蛋白 < 35（两项均异常）', level: 'orange' }
+    ],
+    interpretation: '<p>GPS 将 CAR 的连续变量简化为临床可操作的评分系统。评分 2 代表"系统性炎症 + 营养不良"同时存在，是预后最差的表型。</p><p><strong>单位：</strong>CRP 为 mg/L，白蛋白为 g/L。这是 GPS 的原始定义单位。</p><p><strong>临床应用：</strong>多种癌症（胃癌、结直肠癌、肺癌）的独立预后因子。</p>',
+    sources: [
+      'Forrest LM, et al. Evaluation of cumulative prognostic scores based on the systemic inflammatory response. Br J Cancer. 2003.',
+      'McMillan DC, et al. Glasgow Prognostic Score validation studies.'
+    ]
+  },
+  {
+    id: 'agr', title: 'AGR', subtitle: '白蛋白/球蛋白比值', category: '营养-炎症类',
+    inputs: [
+      { key: 'albumin', label: lbl('白蛋白 (ALB)', 'Albumin'),       unitType: 'albumin', defaultUnit: 'g/L' },
+      { key: 'tp',      label: lbl('总蛋白 (TP)', 'Total Protein'),  unitType: 'protein', defaultUnit: 'g/L' }
+    ],
+    formula: 'AGR = 白蛋白 ÷ (总蛋白 − 白蛋白)',
+    resultUnit: '（无量纲）',
+    calc: function(v) {
+      var glob = v.tp - v.albumin;
+      if (glob <= 0) return NaN;
+      return v.albumin / glob;
+    },
+    risk: function(val) {
+      if (val >= 1.32) return { level: 'green',  label: '正常范围' };
+      if (val >= 1.0)  return { level: 'yellow', label: '偏低 / 中等风险' };
+      return { level: 'orange', label: '高风险' };
+    },
+    thresholds: [
+      { range: '≥ 1.32',      meaning: '正常范围（日本共用基准范围 1.32–2.23）', level: 'green'  },
+      { range: '1.0 – 1.32',  meaning: '偏低 / 中等风险',                       level: 'yellow' },
+      { range: '< 1.0',       meaning: '高风险（球蛋白相对升高或白蛋白降低）',    level: 'orange' }
+    ],
+    interpretation: '<p>AGR 降低提示球蛋白相对升高（慢性炎症、免疫球蛋白增多）或白蛋白降低（营养不良、肝脏合成功能下降）。AGR &lt; 1 通常提示慢性炎症或肝病进展。</p><p><strong>参考区间：</strong>台湾奇美医院 0.9–2.2；高雄荣总 1–2.8；日本共用基准范围 1.32–2.23。</p><p><strong>阈值：</strong>肝癌射频消融最佳截点 1.27；慢阻肺急性加重 1.295。</p>',
+    sources: [
+      'Japanese Society of Clinical Chemistry reference ranges.',
+      'Multiple Chinese studies on AGR in liver cancer and COPD.'
+    ]
+  },
+  {
+    id: 'nhr', title: 'NHR', subtitle: '中性粒细胞/HDL-C比值', category: '营养-炎症类',
+    inputs: [
+      { key: 'anc', label: lbl('中性粒细胞绝对计数 (ANC)', 'Absolute Neutrophil Count'),                 unitType: 'cell', defaultUnit: '10^9/L' },
+      { key: 'hdl', label: lbl('高密度脂蛋白胆固醇 (HDL-C)', 'High-Density Lipoprotein Cholesterol'),     unitType: 'chol', defaultUnit: 'mmol/L' }
+    ],
+    formula: 'NHR = ANC(×10⁹/L) ÷ HDL-C(mmol/L)',
+    resultUnit: '（无量纲）',
+    calc: function(v) { if (v.hdl <= 0) return NaN; return v.anc / v.hdl; },
+    risk: function(val) {
+      if (val < 2.31) return { level: 'green',  label: '低风险' };
+      if (val < 3.25) return { level: 'yellow', label: '中等风险' };
+      if (val < 5.79) return { level: 'orange', label: '高风险' };
+      return { level: 'red', label: '极高风险' };
+    },
+    thresholds: [
+      { range: '< 2.31',      meaning: '低风险（女性代谢综合征截断值以下）',   level: 'green'  },
+      { range: '2.31 – 3.25', meaning: '中等风险（女性 MetS / 糖尿病前期）',   level: 'yellow' },
+      { range: '3.25 – 5.79', meaning: '高风险（糖尿病发病 / 高血压诊断）',    level: 'orange' },
+      { range: '> 5.79',      meaning: '极高风险（T2DM 冠脉重度狭窄截断值）',  level: 'red'    }
+    ],
+    interpretation: '<p>NHR 是"炎症-脂质轴"的复合读数。中性粒细胞升高反映炎症激活，HDL-C 降低反映抗炎 / 逆转运能力受损。两者的比值放大了一升一降的联合效应。</p><p><strong>单位警告：</strong>推荐使用 <strong>×10⁹/L ÷ mmol/L</strong> 体系（中国实验室常用）。若使用美国体系（×10³/µL ÷ mg/dL），数值将小约 20 倍，阈值不可混用。</p><p><strong>其他中国人群阈值：</strong>2 型糖尿病冠脉重度狭窄 5.79；CKM 早期非线性阈值 &gt; 7.05。</p>',
+    sources: [
+      'Multiple Chinese studies on NHR in metabolic syndrome, diabetes, and CAD.',
+      'CKM syndrome studies (NHANES and Chinese national surveys).'
+    ]
+  }
+];
+
+var CATEGORY_ORDER = ['血常规类', '脂质代谢类', '综合类', '营养-炎症类'];
+
+/* ============================================================
+   渲染
+   ============================================================ */
+function renderNav() {
+  var html = '';
+  CATEGORY_ORDER.forEach(function(cat) {
+    var items = INDICES.filter(function(i) { return i.category === cat; });
+    if (!items.length) return;
+    html += '<div class="tab-group"><div class="tab-group-title">' + cat + '</div>';
+    items.forEach(function(i) {
+      html += '<button type="button" class="tab-btn" data-tab="' + i.id + '">' +
+              '<span class="tab-abbr">' + i.title + '</span>' +
+              '<span class="tab-full">' + i.subtitle + '</span>' +
+              '</button>';
+    });
+    html += '</div>';
+  });
+  document.getElementById('tabNav').innerHTML = html;
+}
+
+function renderPanel(idx) {
+  var html = '<div class="panel" id="panel-' + idx.id + '">';
+  html += '<h2>' + idx.title + ' — ' + idx.subtitle + '</h2>';
+
+  if (idx.genderDependent) {
+    html += '<div class="input-row" style="margin-bottom:12px">' +
+            '<label>' + lbl('性别', 'Sex') + '</label>' +
+            '<div class="input-group">' +
+            '<select id="' + idx.id + '-gender" style="flex:1;max-width:200px">' +
+            '<option value="male">男性 / Male</option>' +
+            '<option value="female">女性 / Female</option>' +
+            '</select></div></div>';
+  }
+
+  html += '<div class="inputs">';
+  idx.inputs.forEach(function(inp) {
+    var ut = UNIT_TYPES[inp.unitType];
+    var unitOpts = ut.units.map(function(u) {
+      return '<option value="' + u.value + '"' + (u.value === inp.defaultUnit ? ' selected' : '') + '>' + u.label + '</option>';
+    }).join('');
+    html += '<div class="input-row">' +
+            '<label>' + inp.label + '</label>' +
+            '<div class="input-group">' +
+            '<input type="number" step="any" id="' + idx.id + '-' + inp.key + '" placeholder="输入数值">' +
+            '<select id="' + idx.id + '-' + inp.key + '-unit">' + unitOpts + '</select>' +
+            '</div></div>';
+  });
+  html += '</div>';
+
+  html += '<div class="result" id="' + idx.id + '-result">' +
+          '<span class="result-value" id="' + idx.id + '-value">--</span>' +
+          '<span class="result-unit">' + idx.resultUnit + '</span>' +
+          '<span class="result-badge" id="' + idx.id + '-badge">等待输入</span>' +
+          '</div>';
+
+  html += '<div class="formula-box"><span class="label">公式 / Formula</span><pre>' + escapeHtml(idx.formula) + '</pre></div>';
+
+  html += '<div class="section"><h3>阈值参考</h3><table class="thresholds">' +
+          '<thead><tr><th></th><th>范围</th><th>意义</th></tr></thead><tbody>';
+  idx.thresholds.forEach(function(t) {
+    html += '<tr><td class="dot"><span class="dot-indicator ' + t.level + '"></span></td>' +
+            '<td>' + escapeHtml(t.range) + '</td><td>' + t.meaning + '</td></tr>';
+  });
+  html += '</tbody></table></div>';
+
+  html += '<div class="section"><h3>用途与解读</h3>' + idx.interpretation + '</div>';
+  html += '<div class="section"><h3>资料来源</h3><ul>' +
+          idx.sources.map(function(s) { return '<li>' + s + '</li>'; }).join('') +
+          '</ul></div>';
+
+  html += '</div>';
+  return html;
+}
+
+function renderPanels() {
+  var html = '';
+  INDICES.forEach(function(idx) { html += renderPanel(idx); });
+  document.getElementById('panels').innerHTML = html;
+}
+
+/* ============================================================
+   计算
+   ============================================================ */
+function computeIndex(idx) {
+  var values = {};
+  for (var i = 0; i < idx.inputs.length; i++) {
+    var inp = idx.inputs[i];
+    var inputEl = document.getElementById(idx.id + '-' + inp.key);
+    var unitEl  = document.getElementById(idx.id + '-' + inp.key + '-unit');
+    if (!inputEl || !unitEl) return null;
+    var raw = parseFloat(inputEl.value);
+    if (isNaN(raw)) return null;
+    values[inp.key] = toCanonical(raw, inp.unitType, unitEl.value);
+  }
+  var ctx = {};
+  if (idx.genderDependent) {
+    var g = document.getElementById(idx.id + '-gender');
+    ctx.gender = g ? g.value : 'male';
+  }
+  var val = idx.calc(values, ctx);
+  if (!isFinite(val)) return null;
+  return { value: val, ctx: ctx };
+}
+
+function formatValue(val, idx) {
+  if (idx.id === 'gps') return String(Math.round(val));
+  var abs = Math.abs(val);
+  if (abs >= 10000) return val.toExponential(2);
+  if (abs >= 1000)  return val.toFixed(0);
+  if (abs >= 100)   return val.toFixed(1);
+  if (abs >= 10)    return val.toFixed(2);
+  if (abs >= 1)     return val.toFixed(3);
+  return val.toFixed(4);
+}
+
+function updatePanel(idx) {
+  var valueEl  = document.getElementById(idx.id + '-value');
+  var badgeEl  = document.getElementById(idx.id + '-badge');
+  var resultEl = document.getElementById(idx.id + '-result');
+  if (!valueEl || !badgeEl || !resultEl) return;
+
+  resultEl.className = 'result';
+
+  var computed = computeIndex(idx);
+  if (!computed) {
+    valueEl.textContent = '--';
+    badgeEl.textContent = '等待输入';
+    return;
+  }
+
+  valueEl.textContent = formatValue(computed.value, idx);
+  var r = idx.risk(computed.value, computed.ctx);
+  resultEl.classList.add(r.level);
+  badgeEl.textContent = r.label;
+}
+
+function updateAll() {
+  for (var i = 0; i < INDICES.length; i++) {
+    updatePanel(INDICES[i]);
+  }
+}
+
+/* ============================================================
+   事件绑定
+   ============================================================ */
+function attachListeners() {
+  INDICES.forEach(function(idx) {
+    idx.inputs.forEach(function(inp) {
+      var inputEl = document.getElementById(idx.id + '-' + inp.key);
+      var unitEl  = document.getElementById(idx.id + '-' + inp.key + '-unit');
+
+      if (inputEl) {
+        inputEl.addEventListener('input', updateAll);
+        inputEl.addEventListener('change', updateAll);
+      }
+
+      if (unitEl && inputEl) {
+        unitEl.dataset.prevUnit = unitEl.value;
+        unitEl.addEventListener('change', function() {
+          var oldUnit = this.dataset.prevUnit;
+          var newUnit = this.value;
+          if (oldUnit !== newUnit) {
+            var raw = parseFloat(inputEl.value);
+            if (!isNaN(raw)) {
+              var oldF = getUnitFactor(inp.unitType, oldUnit);
+              var newF = getUnitFactor(inp.unitType, newUnit);
+              if (newF !== 0) {
+                var converted = raw * oldF / newF;
+                inputEl.value = parseFloat(converted.toPrecision(8));
+              }
+            }
+            this.dataset.prevUnit = newUnit;
+          }
+          updateAll();
+        });
+      }
+    });
+
+    if (idx.genderDependent) {
+      var gEl = document.getElementById(idx.id + '-gender');
+      if (gEl) gEl.addEventListener('change', updateAll);
+    }
+  });
+}
+
+/* ============================================================
+   Tab 切换
+   ============================================================ */
+function switchTab(id) {
+  var btns = document.querySelectorAll('.tab-btn');
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].classList.toggle('active', btns[i].getAttribute('data-tab') === id);
+  }
+  var panels = document.querySelectorAll('.panel');
+  for (var j = 0; j < panels.length; j++) {
+    panels[j].classList.toggle('active', panels[j].id === 'panel-' + id);
+  }
+  updateAll();
+}
+
+/* ============================================================
+   初始化
+   ============================================================ */
+function init() {
+  renderNav();
+  renderPanels();
+  attachListeners();
+
+  document.getElementById('tabNav').addEventListener('click', function(e) {
+    var target = e.target;
+    while (target && target !== this) {
+      if (target.classList && target.classList.contains('tab-btn')) {
+        switchTab(target.getAttribute('data-tab'));
+        return;
+      }
+      target = target.parentNode;
+    }
+  });
+
+  switchTab(INDICES[0].id);
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
+</script>
+</body>
+</html>
