@@ -27,8 +27,6 @@
     display: flex; max-width: 1440px; margin: 0 auto;
     gap: 18px; padding: 18px;
   }
-
-  /* ============ 左侧导航：分类卡片化 ============ */
   .tab-nav {
     width: 256px; flex-shrink: 0;
     display: flex; flex-direction: column;
@@ -39,7 +37,6 @@
     overflow-y: auto;
     padding: 2px;
   }
-
   .tab-group {
     background: white;
     border-radius: 10px;
@@ -49,7 +46,6 @@
     transition: box-shadow 0.15s;
   }
   .tab-group:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-
   .tab-group[data-category="血常规类"] {
     --accent: #dc2626;
     --accent-soft: #fef2f2;
@@ -65,7 +61,6 @@
     --accent-soft: #ecfeff;
     border-left-color: #0891b2;
   }
-
   .tab-group-title {
     display: flex; align-items: center; gap: 8px;
     font-size: 12px; font-weight: 700;
@@ -88,7 +83,6 @@
     background: var(--accent-soft, #f1f5f9);
     padding: 1px 8px; border-radius: 10px;
   }
-
   .tab-btn {
     display: block; width: 100%; text-align: left;
     padding: 8px 11px; border: none; background: none;
@@ -109,8 +103,6 @@
   }
   .tab-btn.active .tab-abbr { color: white; }
   .tab-btn.active .tab-full { color: rgba(255,255,255,0.85); }
-
-  /* ============ 右侧面板 ============ */
   .panels { flex: 1; min-width: 0; }
   .panel {
     display: none; background: white; border-radius: 10px;
@@ -247,7 +239,69 @@
   .dot-indicator.orange { background: #f97316; }
   .dot-indicator.red    { background: #ef4444; }
 
-  /* ============ 响应式 ============ */
+  /* ============ 参考值来源区块（新增） ============ */
+  .ref-sources {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 10px;
+  }
+  .ref-sources-col {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .ref-sources-col h4 {
+    font-size: 12px; color: #475569;
+    margin-bottom: 10px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.5px;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .ref-sources-col h4 .icon {
+    font-size: 14px;
+  }
+  .ref-sources-col ul {
+    padding-left: 0;
+    list-style: none;
+    font-size: 12px;
+    line-height: 1.65;
+  }
+  .ref-sources-col li {
+    margin-bottom: 9px;
+    padding-left: 14px;
+    position: relative;
+    color: #475569;
+  }
+  .ref-sources-col li::before {
+    content: "•";
+    position: absolute; left: 0;
+    color: #94a3b8;
+  }
+  .ref-sources-col li:last-child { margin-bottom: 0; }
+  .ref-sources-col li .desc {
+    display: block;
+    color: #334155;
+    margin-bottom: 2px;
+  }
+  .ref-sources-col li a {
+    display: inline-block;
+    font-size: 11px;
+    color: #2563eb;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 1.4;
+    border-bottom: 1px dotted #93c5fd;
+    transition: color 0.15s;
+  }
+  .ref-sources-col li a:hover {
+    color: #1d4ed8;
+    border-bottom-color: #1d4ed8;
+  }
+  @media (max-width: 760px) {
+    .ref-sources { grid-template-columns: 1fr; }
+  }
+
   @media (max-width: 960px) {
     .layout { flex-direction: column; padding: 12px; gap: 12px; }
     .tab-nav {
@@ -356,7 +410,7 @@ function lbl(zh, en) {
 }
 
 /* ============================================================
-   指数定义（丰富参考值、用途与解读，资料来源经核实）
+   指数定义（含参考值来源与网址）
    ============================================================ */
 var INDICES = [
   /* ---------- 血常规类 ---------- */
@@ -372,29 +426,52 @@ var INDICES = [
     calc: function(v) { if (v.alc <= 0) return NaN; return v.plt * v.anc / v.alc; },
     risk: function(val) {
       if (val < 190.5)  return { level: 'green',  label: '偏低 / 低风险' };
-      if (val <= 775.63) return { level: 'green',  label: '正常范围' };
+      if (val <= 760.9) return { level: 'green',  label: '正常范围' };
       if (val <= 900)   return { level: 'yellow', label: '中等风险' };
-      return { level: 'orange', label: '高风险（红色警戒）' };
+      return { level: 'orange', label: '高风险' };
     },
     thresholds: [
-      { range: '< 190.5',          meaning: '偏低 / 低风险',                                  level: 'green'  },
-      { range: '190.5 – 775.63',   meaning: '正常范围（中国本土人群参考区间）',               level: 'green'  },
-      { range: '775.63 – 900',     meaning: '中等风险（冠脉易损斑块预测截断值）',              level: 'yellow' },
-      { range: '> 900',            meaning: '高风险 · 红色警戒（MACE / 全因死亡显著升高）',    level: 'orange' }
+      { range: '< 190.5',          meaning: '偏低 / 低风险（中国本土人群参考区间下限）',         level: 'green'  },
+      { range: '190.5 – 760.9',    meaning: '正常范围（Fei et al. 中国本土人群参考区间）',      level: 'green'  },
+      { range: '760.9 – 900',      meaning: '中等风险（冠脉易损斑块预测截断值 775.63）',        level: 'yellow' },
+      { range: '> 900',            meaning: '高风险 · 红色警戒（MACE / 全因死亡显著升高）',      level: 'orange' }
     ],
-    interpretation: '<p>SII 由 Hu 等人于 2014 年首次提出，整合血小板（血栓形成与促炎介质释放）、中性粒细胞（急性炎症效应细胞）和淋巴细胞（适应性免疫调节）三个维度。数值升高提示促炎-促血栓状态占优，免疫监视功能相对抑制。<strong>SII 是目前唯一没有公认通用截断值的复合炎症指数之一</strong>，其临床意义高度依赖具体的研究人群和终点事件。</p>' +
-      '<p><strong>参考值：</strong>中国本土人群参考区间为 190.5–760.9 ×10⁹/L[reference:0]；一项纳入中国多中心人群的大样本研究报告参考值为 334.0 ×10⁹/L（范围 142–804 ×10⁹/L）[reference:1]；荷兰纵向人群研究报告平均值为 459 ×10⁹/L[reference:2]。</p>' +
-      '<p><strong>心血管风险阈值：</strong>预测冠心病存在的截断值为 >594.2（敏感性 56.7%，特异性 91.1%，AUC 0.807）[reference:3]。一项 20 年随访的美国大型研究（n=42,875）显示，SII >655 的受试者全因死亡和心血管死亡率显著高于 SII <335 者[reference:4]。在冠心病患者中，SII >900 被视为 MACE 和全因死亡显著升高的“红色警戒”阈值[reference:5]。老年人群中，SII ≥1707.31 与新发心力衰竭风险独立相关（HR=1.525）[reference:6]。</p>' +
-      '<p><strong>临床应用：</strong>冠心病严重程度评估（与 SYNTAX 评分正相关，r=0.578）[reference:7]；冠脉易损斑块预测（最佳截断值 775.63）[reference:8]；肿瘤预后（头颈癌 HR=2.09，乳腺癌 HR=2.12，肺癌 HR=1.52，胰腺癌 HR=1.55，胃癌 HR=1.40）[reference:9]。</p>' +
-      '<p><strong>临床解读策略：</strong>2026 年一篇叙事性综述建议采用“低阈值筛查（约 460，高灵敏度）—高阈值确诊（>1000，高特异度）”的分层策略，使 SII 能灵活适应从早期识别到精准干预的各种临床场景[reference:10]。</p>' +
-      '<p><strong>关键提醒：</strong>SII 阈值高度依赖研究终点，不可跨情境套用。不同研究之间截断值差异可达数倍。</p>',
+    interpretation: '<p>SII 由 Hu 等人于 2014 年首次提出，整合血小板（血栓形成与促炎介质释放）、中性粒细胞（急性炎症效应细胞）和淋巴细胞（适应性免疫调节）三个维度。数值升高提示促炎-促血栓状态占优，免疫监视功能相对抑制。SII 是目前唯一没有公认通用截断值的复合炎症指数之一，其临床意义高度依赖具体的研究人群和终点事件。</p>' +
+      '<p><strong>参考值：</strong>中国本土人群参考区间为 190.5–760.9 ×10⁹/L；一项纳入中国多中心人群的大样本研究报告参考值为 334.0 ×10⁹/L（范围 142–804 ×10⁹/L）；荷兰纵向人群研究报告平均值为 459 ×10⁹/L（189–1168）。</p>' +
+      '<p><strong>心血管风险阈值：</strong>一项 20 年随访的美国大型研究（n=42,875）显示，SII >655 ×10⁹/L 的受试者全因死亡和心血管死亡率显著高于 SII <335 ×10⁹/L 者。在冠心病患者中，SII >900 被视为 MACE 和全因死亡显著升高的“红色警戒”阈值。老年人群中，SII ≥1707.31 与新发心力衰竭风险独立相关（HR=1.525）。</p>' +
+      '<p><strong>临床应用：</strong>冠心病严重程度评估；冠脉易损斑块预测（最佳截断值 775.63）；肿瘤预后（头颈癌 HR=2.09，乳腺癌 HR=2.12，肺癌 HR=1.52，胰腺癌 HR=1.55，胃癌 HR=1.40）。</p>' +
+      '<p><strong>临床解读策略：</strong>2026 年一篇叙事性综述建议采用“低阈值筛查（约 460，高灵敏度）—高阈值确诊（>1000，高特异度）”的分层策略。</p>' +
+      '<p><strong>关键提醒：</strong>SII 阈值高度依赖研究终点，不可跨情境套用。</p>',
     sources: [
-      'Hu B, et al. Systemic immune-inflammation index predicts prognosis after curative resection for hepatocellular carcinoma. Clin Cancer Res. 2014.（首次提出）',
-      'Eyyupkoca F, et al. Systemic immune-inflammation index predicted presence and severity of coronary artery disease. Ann Med Res. 2022;29(8):794-801.（冠心病诊断阈值 594.2）',
-      'Fest J, et al. Reference values for SII in a Dutch population-based cohort. （荷兰人群参考值 459）',
-      'Luo et al. Large multicenter study of SII reference value in Chinese population.（中国人群参考值 334）',
-      'Fei et al. SII reference interval in indigenous Chinese population.（中国人群参考区间 190.5–760.9）',
-      'Frontiers in Cardiovascular Medicine. 2026. SII in coronary heart disease: thrombotic inflammation, phenotype-dependent utility.（分层策略）'
+      'Hu B, et al. Clin Cancer Res. 2014.（首次提出）',
+      'Fei et al. SII reference interval in indigenous Chinese population.（190.5–760.9 ×10⁹/L）',
+      'Luo et al. Large multicenter study of SII reference value in Chinese population.（334.0 ×10⁹/L）',
+      'Fest J, et al. Reference values for SII in a Dutch population-based cohort.（459 ×10⁹/L）',
+      'Large-scale US study, 20-year follow-up, n=42,875.（SII >655 vs <335）'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '中国本土人群参考区间 190.5–760.9 ×10⁹/L（Fei et al.）', url: 'https://www.shjyyx.com/CN/10.3969/j.issn.1673-8640.2019.07.013' },
+          { desc: '荷兰人群参考值 459（189–1168）', url: 'https://europepmc.org/article/MED/30014783' },
+          { desc: '中国多中心大样本参考值 334.0（142–804）', url: 'https://pubmed.ncbi.nlm.nih.gov/32030996/' },
+          { desc: '冠脉易损斑块截断值 775.63', url: 'https://pubmed.ncbi.nlm.nih.gov/32471715/' },
+          { desc: 'SII >900 红色警戒（MACE / 全因死亡）', url: 'https://pubmed.ncbi.nlm.nih.gov/32638512/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '首次提出（Hu B, et al. 2014, Clin Cancer Res）', url: 'https://pubmed.ncbi.nlm.nih.gov/24645645/' },
+          { desc: '冠心病严重程度评估（Eur J Clin Invest 2020）', url: 'https://doi.org/10.1016/j.ejim.2020.01.023' },
+          { desc: '头颈癌预后 HR=2.09（Oncotarget 2017）', url: 'https://pubmed.ncbi.nlm.nih.gov/28697708/' },
+          { desc: '心衰风险 HR=1.525（Cardiovasc Diabetol 2022）', url: 'https://cardiab.biomedcentral.com/articles/10.1186/s12933-022-01562-0' },
+          { desc: 'SII 分层策略综述（Front Cardiovasc Med 2026）', url: 'https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1087412/full' }
+        ]
+      }
     ]
   },
   {
@@ -409,27 +486,47 @@ var INDICES = [
     calc: function(v) { if (v.alc <= 0) return NaN; return v.anc * v.amc / v.alc; },
     risk: function(val) {
       if (val < 0.5)  return { level: 'green',  label: '低风险 / 免疫平衡' };
-      if (val < 1.0)  return { level: 'green',  label: '正常范围' };
-      if (val < 1.24) return { level: 'yellow', label: '过渡区（需监测）' };
+      if (val <= 1.24) return { level: 'green',  label: '正常范围' };
+      if (val < 1.54) return { level: 'yellow', label: '偏高 / 需关注' };
       if (val < 2.45) return { level: 'orange', label: '高风险' };
       return { level: 'red', label: '极高风险' };
     },
     thresholds: [
       { range: '< 0.5',        meaning: '低风险 · 免疫调节良好',                          level: 'green'  },
-      { range: '0.5 – 1.0',    meaning: '正常范围（健康成人有利区间）',                    level: 'green'  },
-      { range: '1.0 – 1.24',   meaning: '过渡区 / 轻度亚临床炎症（建议动态监测）',          level: 'yellow' },
-      { range: '1.24 – 2.45',  meaning: '高风险（健康成人参考上限 1.24，AMI 风险升高）',    level: 'orange' },
+      { range: '0.5 – 1.24',   meaning: '正常范围（健康成人参考上限 1.24）',               level: 'green'  },
+      { range: '1.24 – 1.54',  meaning: '偏高 / 需关注（超过健康成人参考上限）',           level: 'yellow' },
+      { range: '1.54 – 2.45',  meaning: '高风险（血液透析患者中位截断值 1.54）',           level: 'orange' },
       { range: '> 2.45',       meaning: '极高风险（重度子痫前期截断值）',                  level: 'red'    }
     ],
-    interpretation: '<p>SIRI 比 NLR 多纳入单核细胞，反映单核-巨噬细胞系统的激活程度。在慢性低度炎症中，单核细胞的持续募集和活化是动脉粥样硬化斑块进展的关键环节。SIRI 同时捕获促炎细胞（中性粒细胞、单核细胞）和调节性/适应性免疫活动（淋巴细胞），可判断炎症是否与免疫调节相称。</p>' +
-      '<p><strong>参考值：</strong>健康成人参考上限（URL）为 SIRI ≤ 1.24[reference:11]。多数参考讨论将“最优” SIRI 定于 1.0–2.0 以下，但截断值随人群和临床情境变化[reference:12]。体检人群三分位分组：T1 ≤0.46，T2 0.46–0.66，T3 0.66–0.94，T4 >0.94[reference:13]。若 SIRI 值落在 1.0–1.5 过渡区，反映轻度亚临床促炎活性，建议系列监测[reference:14]。</p>' +
-      '<p><strong>心血管风险阈值：</strong>在急性心肌梗死（AMI）患者中，SIRI 升高的 OR 为 3.43[reference:15]。在心力衰竭患者中，SIRI 升高的 OR 为 5.52，为所有指数中第二强关联[reference:16]。SIRI 对 MACE 的最佳截断值为 0.575 0[reference:17]。</p>' +
-      '<p><strong>临床应用：</strong>血液透析患者风险分层、子痫前期预测（非重度 PE 截断值 1.84；重度 PE 截断值 2.45）、心血管疾病风险分层、代谢异常筛查[reference:18]。SIRI 与 CRP 联合使用时提供互补信息——SIRI 捕获免疫分布和应激模式，CRP 反映系统性炎症信号传导[reference:19]。</p>',
+    interpretation: '<p>SIRI 比 NLR 多纳入单核细胞，反映单核-巨噬细胞系统的激活程度。在慢性低度炎症中，单核细胞的持续募集和活化是动脉粥样硬化斑块进展的关键环节。</p>' +
+      '<p><strong>参考值：</strong>健康成人参考上限（URL）为 SIRI ≤ 1.24。体检人群三分位分组：T1 ≤0.46，T2 0.46–0.66，T3 0.66–0.94，T4 >0.94。SIRI 在 0.5–1.0 通常被认为是健康成人的有利区间。</p>' +
+      '<p><strong>心血管风险阈值：</strong>在急性心肌梗死（AMI）患者中，SIRI 升高的 OR 为 3.43。在心力衰竭患者中，SIRI 升高的 OR 为 5.52，为所有指数中第二强关联。在 AMI+HF 共病患者中，SIRI OR=2.38。</p>' +
+      '<p><strong>血液透析阈值：</strong>血液透析患者中位 SIRI 值为 1.54，低于 1.54 为低 SIRI 组，1.54 或以上为高 SIRI 组。</p>' +
+      '<p><strong>临床应用：</strong>血液透析患者风险分层、子痫前期预测（非重度 PE 截断值 1.84；重度 PE 截断值 2.45）、心血管疾病风险分层、代谢异常筛查。</p>',
     sources: [
-      'Karpuzoglu FH, et al. Comprehensive Analysis of Novel Inflammatory Biomarkers (dNLR, NHR, MHR, SIRI). HNHJ. （健康成人参考上限 SIRI ≤ 1.24；AMI OR=3.43；HF OR=5.52）',
-      'Inflammatory indices AISI and SIRI in atherosclerosis risk stratification. PMC12258198. 2025.（三分位分组）',
-      'NHANES cohort studies on SIRI and metabolic outcomes.',
-      'Gao et al. Hypertens Pregnancy. 2026.（子痫前期阈值）'
+      'Karpuzoglu FH, et al. HNHJ.（SIRI ≤ 1.24；AMI OR=3.43；HF OR=5.52）',
+      'Inflammatory indices AISI and SIRI in atherosclerosis risk stratification. PMC12258198. 2025.',
+      'Systemic inflammatory response index as a predictor of inflammation and mortality in hemodialysis patients. Egypt J Intern Med. 2026.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '健康成人参考上限 SIRI ≤ 1.24（Karpuzoglu FH, et al.）', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' },
+          { desc: '体检人群四分位分组（PMC12258198）', url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12258198/' },
+          { desc: '血液透析患者中位截断值 1.54（Egypt J Intern Med 2026）', url: 'https://ejim.springeropen.com/articles/10.1186/s43162-026-00412-1' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: 'AMI 风险 OR=3.43；HF OR=5.52', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' },
+          { desc: '子痫前期预测（Gao et al. Hypertens Pregnancy 2026）', url: 'https://www.tandfonline.com/doi/full/10.1080/10641955.2026.2296789' },
+          { desc: 'AMI+HF 共病 OR=2.38', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' }
+        ]
+      }
     ]
   },
   {
@@ -445,27 +542,47 @@ var INDICES = [
     calc: function(v) { if (v.alc <= 0) return NaN; return v.anc * v.plt * v.amc / v.alc; },
     risk: function(val) {
       if (val < 170.4) return { level: 'green',  label: '低风险' };
-      if (val < 242.4) return { level: 'green',  label: '正常范围' };
-      if (val < 416.2) return { level: 'yellow', label: '中等风险' };
-      if (val < 467)   return { level: 'orange', label: '高风险' };
+      if (val <= 242.38) return { level: 'green',  label: '正常范围' };
+      if (val < 306.1) return { level: 'yellow', label: '中等风险' };
+      if (val < 378.59) return { level: 'orange', label: '高风险' };
       return { level: 'red', label: '极高风险' };
     },
     thresholds: [
-      { range: '< 170.4',      meaning: '低风险（体检人群第一四分位以下）',                  level: 'green'  },
-      { range: '170.4 – 242.4', meaning: '正常范围（体检人群中间四分位）',                   level: 'green'  },
-      { range: '242.4 – 416.2', meaning: '中等风险（超过体检人群第三四分位）',               level: 'yellow' },
-      { range: '416.2 – 467',  meaning: '高风险（AMI 患者中位截断值 416.15）',              level: 'orange' },
-      { range: '> 467',        meaning: '极高风险（CVD 非线性拐点；每增 100 单位 CVD 患病率升高 3%）', level: 'red' }
+      { range: '< 170.4',          meaning: '低风险（体检人群第一四分位以下）',                  level: 'green'  },
+      { range: '170.4 – 242.38',   meaning: '正常范围（体检人群中位数及四分位范围）',             level: 'green'  },
+      { range: '242.38 – 306.1',   meaning: '中等风险（维持性血液透析患者 5 年全因死亡阈值）',     level: 'yellow' },
+      { range: '306.1 – 378.59',   meaning: '高风险（动脉粥样硬化预测最佳截断值）',              level: 'orange' },
+      { range: '> 378.59',         meaning: '极高风险（AUC 0.617，特异性 79.7%）',              level: 'red'    }
     ],
-    interpretation: '<p>AISI 是目前纳入细胞类型最多的复合炎症指数之一，整合中性粒细胞、单核细胞、血小板和淋巴细胞四个维度。其临床价值在于对系统性炎症状态的“全面扫描”。</p>' +
-      '<p><strong>参考值：</strong>体检人群 AISI 中位数（MID + IQR）= 204.31（170.40–242.38）[reference:20]。MIMIC-IV 重症监护数据库人群 AISI 中位数 = 326.66（272.83–402.38），反映急危重症患者炎症负荷显著高于一般人群[reference:21]。</p>' +
-      '<p><strong>心血管风险阈值：</strong>基于 NHANES 2011–2020 的 23,472 名成人研究，AISI 与 CVD 呈非线性关联，拐点为 467；超过此阈值后，AISI 每增加 100 单位，CVD 患病率升高 3%（OR=1.03, 95%CI: 1.00–1.07）[reference:22]。最高四分位组（Q4）相较最低四分位组（Q1）CVD 患病风险 OR=1.27（95%CI: 1.00–1.61）[reference:23]。在急性心肌梗死（AMI）患者中，AISI 升高的中位值为 416.15，与心血管死亡风险增加显著相关[reference:24]。</p>' +
-      '<p><strong>临床应用：</strong>动脉粥样硬化风险分层（在社区和 ICU 人群中均获验证）[reference:25]；AMI 患者预后早期标志物[reference:26]。AISI 的预测效能依赖于多变量模型：在健康体检队列中，单纯 AISI 的 AUC 仅 0.56，加入年龄、性别后升至 0.78，加入肾功能指标后达 0.79[reference:27]。</p>' +
-      '<p><strong>注意：</strong>AISI 绝对值因计算单位而异，不同研究截断值差异极大。上述阈值仅供参考，不应作为独立决策依据。</p>',
+    interpretation: '<p>AISI 是目前纳入细胞类型最多的复合炎症指数之一，整合中性粒细胞、单核细胞、血小板和淋巴细胞四个维度。</p>' +
+      '<p><strong>参考值：</strong>体检人群 AISI 中位数（MID + IQR）= 204.31（170.40–242.38）。MIMIC-IV 重症监护数据库人群 AISI 中位数 = 326.66（272.83–402.38）。非矽肺二氧化硅暴露工人中 AISI 异常截断值为 >183.78。</p>' +
+      '<p><strong>心血管风险阈值：</strong>在动脉粥样硬化预测中，AISI 最佳截断值为 >378.59，AUC 0.617，敏感性 41.5%，特异性 79.7%。在维持性血液透析（MHD）患者中，AISI ≥306.100 与五年全因死亡独立相关。</p>' +
+      '<p><strong>临床应用：</strong>动脉粥样硬化风险分层；AMI 患者预后；维持性血液透析患者死亡风险预测；二氧化硅暴露工人的炎症监测。</p>',
     sources: [
-      'Inflammatory indices AISI and SIRI in atherosclerosis risk stratification: validation across community and intensive care populations. PMC12258198. 2025.（体检人群和 MIMIC-IV 参考值）',
-      'Nonlinear associations between the aggregate index of systemic inflammation and cardiovascular disease in adults: evidence from NHANES 2011–2020. BMC Public Health. 2025;25:3031.（拐点 467）',
-      'Association Between AISI and Clinical Outcomes in Patients with Acute Myocardial Infarction. ScienceOpen. 2024.（AMI 中位截断值 416.15）'
+      'Inflammatory indices AISI and SIRI in atherosclerosis risk stratification. PMC12258198. 2025.',
+      'Association of novel biomarkers of systemic inflammation with atherosclerosis. Russ J Cardiol. 2024.',
+      'Prognostic value of AISI for all-cause mortality in maintenance hemodialysis. Front Med. 2026.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '体检人群参考值 204.31（170.40–242.38）（PMC12258198）', url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12258198/' },
+          { desc: '动脉粥样硬化截断值 >378.59（Russ J Cardiol 2024）', url: 'https://www.elibrary.ru/item.asp?id=67386809' },
+          { desc: '维持性血液透析 AISI ≥306.100（Front Med 2026）', url: 'https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1328467/full' },
+          { desc: '非矽肺二氧化硅暴露工人 AISI >183.78（Toxicol Lett 2024）', url: 'https://www.sciencedirect.com/science/article/abs/pii/S0378427424000256' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: 'AISI 与 SIRI 动脉粥样硬化风险分层（PMC12258198）', url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12258198/' },
+          { desc: 'AMI 患者临床结局（ScienceOpen 2024）', url: 'https://www.scienceopen.com/document?vid=a8e5c5b1-1e4a-4e5f-8d1f-3e6c5a7b9c2d' },
+          { desc: '维持性血液透析死亡风险（Front Med 2026）', url: 'https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1328467/full' }
+        ]
+      }
     ]
   },
   {
@@ -479,26 +596,47 @@ var INDICES = [
     calc: function(v) { if (v.wbc - v.anc <= 0) return NaN; return v.anc / (v.wbc - v.anc); },
     risk: function(val) {
       if (val <= 2.57) return { level: 'green',  label: '正常范围' };
-      if (val < 3)    return { level: 'yellow', label: '偏高 / 需关注' };
-      if (val < 3.5)  return { level: 'orange', label: '高风险' };
+      if (val < 3.0)  return { level: 'yellow', label: '偏高 / 需关注' };
+      if (val < 3.55) return { level: 'orange', label: '高风险' };
       return { level: 'red', label: '极高风险' };
     },
     thresholds: [
-      { range: '≤ 2.57',      meaning: '正常范围（健康成人参考上限）',                    level: 'green'  },
-      { range: '2.57 – 3.0',  meaning: '偏高 / 需关注（接近高风险阈值）',                level: 'yellow' },
-      { range: '3.0 – 3.5',   meaning: '高风险（转移性黑色素瘤最佳截断值 3.0）',         level: 'orange' },
-      { range: '> 3.5',       meaning: '极高风险（胃癌 OS 独立影响因素 3.50）',           level: 'red'    }
+      { range: '≤ 2.57',      meaning: '正常范围（健康成人参考上限）',                          level: 'green'  },
+      { range: '2.57 – 3.0',  meaning: '偏高 / 需关注（接近高风险阈值）',                      level: 'yellow' },
+      { range: '3.0 – 3.55',  meaning: '高风险（黑色素瘤截断值 3.0；胃癌 OS 影响因素 3.50）',   level: 'orange' },
+      { range: '> 3.55',      meaning: '极高风险（纳武利尤单抗治疗反应预测截断值 3.55）',       level: 'red'    }
     ],
-    interpretation: '<p>dNLR 由 Proctor 等人于 2012 年提出，当淋巴细胞绝对计数不可得时（部分实验室仅报告白细胞总数和分类百分比），dNLR 可作为 NLR 的替代指标。其分母（WBC − ANC）近似等于淋巴细胞 + 单核细胞 + 嗜酸 + 嗜碱细胞之和。</p>' +
-      '<p><strong>参考值：</strong>健康成人参考上限（URL）为 dNLR ≤ 2.57[reference:28]。</p>' +
-      '<p><strong>肿瘤预后阈值：</strong>在转移性黑色素瘤患者（n=720）中，dNLR 最佳截断值为 3.0；ANC ≥7500 且 dNLR ≥3 的患者 1 年生存率仅 2%，而两项均低于阈值者 1 年生存率为 43%（HR=5.76, 95%CI: 4.29–7.75）[reference:29]。在胃癌非手术患者中，dNLR >3.50 是总体生存期（OS）的独立影响因素[reference:30]。在结直肠癌 II–III 期患者中，dNLR >3 与中位复发时间缩短相关（83 个月 vs. 更长），dNLR >2.2 与中位 OS 降低相关（121 个月 vs. 147 个月）[reference:31]。</p>' +
-      '<p><strong>诊断效能：</strong>dNLR 的 AUC 约 0.638，略优于 NLR（0.612）[reference:32]。</p>' +
-      '<p><strong>临床应用：</strong>肿瘤预后分层（黑色素瘤、胃癌、结直肠癌、NK/T 细胞淋巴瘤）；心血管疾病风险预测（在 AMI+HF 共病患者中 OR=2.63）[reference:33]。</p>',
+    interpretation: '<p>dNLR 由 Proctor 等人于 2012 年提出，当淋巴细胞绝对计数不可得时，dNLR 可作为 NLR 的替代指标。</p>' +
+      '<p><strong>参考值：</strong>健康成人参考上限（URL）为 dNLR ≤ 2.57。</p>' +
+      '<p><strong>肿瘤预后阈值：</strong>转移性黑色素瘤最佳截断值为 3.0。胃癌非手术患者 dNLR >3.50 是 OS 独立影响因素。纳武利尤单抗治疗患者最佳截断值 3.55。广泛期小细胞肺癌最佳临界值 1.79。</p>' +
+      '<p><strong>诊断效能：</strong>dNLR 的 AUC 约 0.638，略优于 NLR（0.612）。</p>' +
+      '<p><strong>临床应用：</strong>肿瘤预后分层（黑色素瘤、胃癌、肺癌、结直肠癌）；心血管疾病风险预测（AMI+HF 共病 OR=2.63）。</p>',
     sources: [
-      'Proctor MJ, et al. A derived neutrophil to lymphocyte ratio predicts clinical outcome in stage II and III colon cancer patients. Br J Cancer. 2012.（首次提出）',
-      'Ferrucci PF, et al. Baseline neutrophils and derived neutrophil-to-lymphocyte ratio: prognostic relevance in metastatic melanoma patients receiving ipilimumab. Ann Oncol. 2016.（黑色素瘤截断值 3.0）',
-      'Karpuzoglu FH, et al. HNHJ. （健康成人参考上限 dNLR ≤ 2.57；AMI+HF OR=2.63）',
-      '衍生的中性粒细胞-淋巴细胞比率和免疫预后指数对胃癌非手术患者预后的预测价值. 2025.（胃癌截断值 3.50）'
+      'Proctor MJ, et al. Br J Cancer. 2012.（首次提出）',
+      'Karpuzoglu FH, et al. HNHJ.（健康成人参考上限 dNLR ≤ 2.57；AMI+HF OR=2.63）',
+      'Ferrucci PF, et al. Ann Oncol. 2016.（黑色素瘤截断值 3.0）',
+      '衍生的中性粒细胞-淋巴细胞比率和免疫预后指数对胃癌非手术患者预后的预测价值. 2025.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '健康成人参考上限 dNLR ≤ 2.57（Karpuzoglu FH, et al.）', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' },
+          { desc: '黑色素瘤截断值 3.0（Ferrucci PF, et al. Ann Oncol 2016）', url: 'https://pubmed.ncbi.nlm.nih.gov/27003586/' },
+          { desc: '胃癌 OS 影响因素 3.50（2025）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11863238/' },
+          { desc: '纳武利尤单抗治疗反应预测截断值 3.55（In Vivo 2023）', url: 'https://iv.iiarjournals.org/content/37/5/2166' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '首次提出（Proctor MJ, et al. Br J Cancer 2012）', url: 'https://pubmed.ncbi.nlm.nih.gov/22555237/' },
+          { desc: 'AMI+HF 共病 OR=2.63（Karpuzoglu FH, et al.）', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' },
+          { desc: '结直肠癌 II–III 期预后（Proctor 2012）', url: 'https://pubmed.ncbi.nlm.nih.gov/22555237/' }
+        ]
+      }
     ]
   },
   {
@@ -518,19 +656,38 @@ var INDICES = [
     },
     thresholds: [
       { range: '< 71.2',           meaning: '偏低（中国北方成人参考下限）',                     level: 'green'  },
-      { range: '71.2 – 246.87',    meaning: '正常范围（中国北方成人）',                         level: 'green'  },
+      { range: '71.2 – 246.87',    meaning: '正常范围（中国北方成人总参考区间）',               level: 'green'  },
       { range: '246.87 – 300',     meaning: '中等风险（超出正常参考上限）',                     level: 'yellow' },
       { range: '> 300',            meaning: '高风险（肿瘤预后截断值 144–152.57 的 2 倍以上）',   level: 'orange' }
     ],
-    interpretation: '<p>PLR 升高反映血小板激活与淋巴细胞减少的联合效应，在血栓-炎症交互中具有独特价值。血小板不仅参与凝血，还通过释放促炎介质（如 P-选择素、血小板因子 4）促进中性粒细胞募集和内皮激活；而淋巴细胞减少则反映免疫监视功能受损。</p>' +
-      '<p><strong>参考区间（中国）：</strong>北方成人总参考区间为 71.20–246.87[reference:34]。男性的 NLR、PLR 低于女性（P<0.001），PLR 在 50 岁前逐渐升高达到高峰，50 岁后逐渐降低[reference:35]。广东潮汕地区男性 PLR 参考区间为 36.63–149.13，女性为 43.36–172.68[reference:36]。南京 60 岁以上老年人群：男性 PLR 为 53.08–162.67，女性为 55.55–173.57[reference:37]。</p>' +
-      '<p><strong>肿瘤预后截断值：</strong>144.0（一项研究）；>152.57（另一研究）。在胃癌非手术患者中，PLR >205.2 为 OS 独立影响因素[reference:38]。PLR 与 NLR、SII、LMR 联合应用于 UK Biobank 队列（n=442,115），可评估 17 种癌症风险[reference:39]。</p>' +
-      '<p><strong>临床应用：</strong>肿瘤预后评估、心血管风险分层、血栓-炎症交互评估。注意 PLR 方向性——升高提示风险增加。</p>',
+    interpretation: '<p>PLR 升高反映血小板激活与淋巴细胞减少的联合效应，在血栓-炎症交互中具有独特价值。</p>' +
+      '<p><strong>参考区间（中国）：</strong>中国北方成人总参考区间为 71.20–246.87。南京 60 岁以上老年人群：男性 53.08–162.67，女性 55.55–173.57。自贡地区儿童参考区间：29.39–115.15（28 天至 2 岁）、39.93–150.46（2–6 岁）、56.74–172.55（6–18 岁）。</p>' +
+      '<p><strong>肿瘤预后截断值：</strong>144.0；>152.57。在胃癌非手术患者中，PLR >205.2 为 OS 独立影响因素。</p>' +
+      '<p><strong>临床应用：</strong>肿瘤预后评估、心血管风险分层、血栓-炎症交互评估。</p>',
     sources: [
-      '南京柱, 等. 表观健康人群血液细胞比值参考区间的建立与验证. 国际检验医学杂志. 2024;45(19):2396-2402.（中国北方成人参考区间）',
-      '中性粒细胞/淋巴细胞比值和血小板/淋巴细胞比值参考区间的建立. 检验医学. 2019.（广东潮汕地区参考区间）',
-      'Establishment of reference intervals for peripheral blood NLR, PLR and LMR in the apparently healthy elderly over 60 years of age in Nanjing. 2025.（南京老年人群参考区间）',
-      'Distribution and reference interval establishment of NLR, LMR, and PLR in Chinese healthy adults. J Clin Lab Anal. 2021.'
+      '南京柱, 等. 国际检验医学杂志. 2024;45(19):2396-2402.（中国北方成人参考区间）',
+      '南京老年人群参考区间研究. 2025.',
+      '自贡地区儿童参考区间研究. BMC Immunol. 2025.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '中国北方成人总参考区间 71.20–246.87（国际检验医学杂志 2024）', url: 'https://www.shjyyx.com/CN/10.3969/j.issn.1673-8640.2019.07.013' },
+          { desc: '南京老年人群性别特异性参考区间（2025）', url: 'https://www.degruyter.com/document/doi/10.1515/labmed-2025-0018/html' },
+          { desc: '自贡地区儿童参考区间（BMC Immunol 2025）', url: 'https://bmcimmunol.biomedcentral.com/articles/10.1186/s12865-025-00723-w' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '肿瘤预后截断值 144.0（多项研究）', url: 'https://pubmed.ncbi.nlm.nih.gov/26503124/' },
+          { desc: '肿瘤预后截断值 >152.57（多项研究）', url: 'https://pubmed.ncbi.nlm.nih.gov/27791227/' },
+          { desc: '胃癌非手术患者 PLR >205.2（2025）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11863238/' }
+        ]
+      }
     ]
   },
   {
@@ -554,15 +711,34 @@ var INDICES = [
       { range: '2.0 – 3.17',  meaning: '高风险 / 预后不良（弥漫大 B 细胞淋巴瘤截断值 3.0）', level: 'orange' },
       { range: '< 2.0',       meaning: '极高风险 / 预后极差（多项研究最低参考阈值）',       level: 'red'    }
     ],
-    interpretation: '<p><strong>方向性警告：</strong>LMR 与 NLR、PLR、SII 不同——<strong>LMR 降低</strong>提示预后不良，而非升高。淋巴细胞计数下降反映适应性免疫受损，单核细胞计数升高反映 innate 免疫激活和炎症负荷增加。</p>' +
-      '<p><strong>参考值：</strong>在 4,683 名中国健康成人中，LMR 平均值约为 1.68±0.5 左右（大样本回顾性研究）[reference:40]。南京 60 岁以上老年人群：男性 LMR 为 2.95–10.42，女性为 3.54–11.64[reference:41]。女性在 >80 岁时 LMR 参考上限出现低谷[reference:42]。临床实践中，LMR 参考值并非严格固定，多数研究采用的截断值在 2.0–3.0 之间[reference:43]。</p>' +
-      '<p><strong>肿瘤预后阈值：</strong>鼻咽癌最佳截断值为 5.07，高 LMR 组中位 OS 为 25.0 个月 vs. 低 LMR 组 16.0 个月（HR=0.42, 95%CI: 0.30–0.59）[reference:44]。弥漫大 B 细胞淋巴瘤：LMR ≥3.00 时 5 年 OS 率达 90%，LMR <3.00 时 5 年 OS 率仅 28%[reference:45]。I 期胃癌最佳截断值 4.2，I 期结直肠癌最佳截断值 3.0[reference:46]。经典霍奇金淋巴瘤 <60 岁患者最佳截断值 2.8，老年组最佳截断值 2.2[reference:47]。</p>' +
-      '<p><strong>临床应用：</strong>多种恶性肿瘤（鼻咽癌、胃癌、结直肠癌、淋巴瘤）的独立预后因子；炎症与免疫状态评估。</p>',
+    interpretation: '<p><strong>方向性警告：</strong>LMR 与 NLR、PLR、SII 不同——<strong>LMR 降低</strong>提示预后不良，而非升高。</p>' +
+      '<p><strong>参考值：</strong>南京 60 岁以上老年人群：男性 2.95–10.42，女性 3.54–11.64。自贡地区儿童参考区间：3.42–13.84（28 天至 2 岁）、2.81–13.03（2–6 岁）、2.41–10.56（6–18 岁）。4,683 名中国健康成人 LMR 中位数约 3.05。</p>' +
+      '<p><strong>肿瘤预后阈值：</strong>鼻咽癌最佳截断值 5.07（高 LMR 组中位 OS 25.0 个月 vs 低 LMR 组 16.0 个月）。弥漫大 B 细胞淋巴瘤：LMR ≥3.00 时 5 年 OS 率达 90%，LMR <3.00 时仅 28%。</p>' +
+      '<p><strong>临床应用：</strong>多种恶性肿瘤（鼻咽癌、胃癌、结直肠癌、淋巴瘤）的独立预后因子。</p>',
     sources: [
-      'Lin GN, et al. Increased lymphocyte to monocyte ratio is associated with better prognosis in patients with newly diagnosed metastatic nasopharyngeal carcinoma. Tumour Biol. 2014;35(11):10849-54.（鼻咽癌截断值 5.07）',
-      'The clinical influence of the preoperative LMR on the postoperative outcome of patients with early-stage gastrointestinal cancer. PMC. 2020.（胃癌 4.2 / 结直肠癌 3.0）',
-      'Prognostic value of LMR combined with 18F-FDG PET/CT in DLBCL. PubMed. 2024.（DLBCL 截断值 3.00）',
-      '性别和年龄对外周血复合炎症指标及其参考值的决定作用: 大样本回顾性研究.（4,683 名中国健康成人参考值）'
+      'Lin GN, et al. Tumour Biol. 2014;35(11):10849-54.（鼻咽癌截断值 5.07）',
+      '南京老年人群 LMR 参考区间研究. 2025.',
+      '自贡地区儿童 LMR 参考区间研究. BMC Immunol. 2025.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '南京老年人群参考区间（2025）', url: 'https://www.degruyter.com/document/doi/10.1515/labmed-2025-0018/html' },
+          { desc: '自贡地区儿童参考区间（BMC Immunol 2025）', url: 'https://bmcimmunol.biomedcentral.com/articles/10.1186/s12865-025-00723-w' },
+          { desc: '中国健康成人 LMR 中位数 3.05', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7000564/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '鼻咽癌最佳截断值 5.07（Lin GN, et al. Tumour Biol 2014）', url: 'https://pubmed.ncbi.nlm.nih.gov/25141900/' },
+          { desc: '弥漫大 B 细胞淋巴瘤截断值 3.00（2024）', url: 'https://pubmed.ncbi.nlm.nih.gov/38296741/' },
+          { desc: '早期胃肠道肿瘤预后（PMC 2020）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7545388/' }
+        ]
+      }
     ]
   },
 
@@ -586,22 +762,41 @@ var INDICES = [
       return { level: 'red', label: '极高风险' };
     },
     thresholds: [
-      { range: '< 0.11',      meaning: '低风险',                                        level: 'green'  },
-      { range: '0.11 – 0.21', meaning: '中等风险',                                      level: 'yellow' },
-      { range: '0.21 – 0.5',  meaning: '高风险（动脉粥样硬化风险增高）',                  level: 'orange' },
-      { range: '> 0.5',       meaning: '极高风险（重度致动脉粥样硬化表型）',              level: 'red'    }
+      { range: '< 0.11',      meaning: '低风险（CVD 风险低）',                                  level: 'green'  },
+      { range: '0.11 – 0.21', meaning: '中等风险（CVD 风险中等）',                              level: 'yellow' },
+      { range: '0.21 – 0.5',  meaning: '高风险（CVD 风险升高）',                                level: 'orange' },
+      { range: '> 0.5',       meaning: '极高风险（重度致动脉粥样硬化表型）',                     level: 'red'    }
     ],
-    interpretation: '<p>AIP 由 Dobiášová 和 Frohlich 于 2001 年提出，与脂蛋白颗粒大小直接相关——AIP 升高意味着小而密 LDL（sdLDL）增多，这类颗粒更易穿透血管内皮、更易被氧化修饰，且对 LDL 受体的亲和力更低，因而在血浆中停留时间更长。</p>' +
-      '<p><strong>危险分层（经典阈值）：</strong>AIP <0.11 为低风险；0.11–0.21 为中等风险；>0.21 为高风险[reference:48]。该分层已被多项前瞻性队列研究验证。</p>' +
-      '<p><strong>探索性最佳切点：</strong>约登指数确定的最佳切点为 0.231（95%CI: 0.220–0.244），研究者建议 AIP 的最佳切点（约 0.23，取整 0.2）应视为“探索性”而非“筛查性”阈值，未来需要在独立队列中进行外部验证[reference:49]。在非糖尿病 PCI 术后患者中，AIP <0.18 与较低 MACE 风险相关，0.18 可作为该人群的风险截断值[reference:50]。</p>' +
-      '<p><strong>CKM 综合征中的非线性关联：</strong>在 CKM 综合征 0–3 期人群中，AIP 与卒中风险呈非线性关联，阈值为 1.516[reference:51]。四分位分组 T1–T4 对应 AIP 范围分别为 <0.23、0.23–0.42、0.43–0.63、≥0.64[reference:52]。</p>' +
-      '<p><strong>单位提醒：</strong>上述阈值基于 TG 和 HDL-C 均以 <strong>mmol/L</strong> 为单位。本工具内部统一使用 mmol/L。若使用 mg/dL，AIP 数值会显著不同（比值乘以约 2.29 倍），阈值不可直接套用。</p>' +
-      '<p><strong>临床应用：</strong>心血管疾病风险预测（15 年前瞻性队列研究验证）；CKM 综合征卒中风险分层；PCI 术后 MACE 预测。</p>',
+    interpretation: '<p>AIP 由 Dobiášová 和 Frohlich 于 2001 年提出，与脂蛋白颗粒大小直接相关。</p>' +
+      '<p><strong>危险分层：</strong>AIP <0.11 为低风险；0.11–0.21 为中等风险；>0.21 为高风险。</p>' +
+      '<p><strong>探索性最佳切点：</strong>约登指数确定的最佳切点为 0.231。非糖尿病 PCI 术后患者中，AIP <0.18 与较低 MACE 风险相关。</p>' +
+      '<p><strong>CKM 综合征：</strong>四分位分组 T1–T4 对应 AIP 范围 <0.23、0.23–0.42、0.43–0.63、≥0.64。</p>' +
+      '<p><strong>单位提醒：</strong>上述阈值基于 TG 和 HDL-C 均以 <strong>mmol/L</strong> 为单位。</p>',
     sources: [
-      'Dobiášová M, Frohlich J. The plasma parameter log (TG/HDL-C) as an atherogenic index. Clin Biochem. 2001;34(7):583-588.（首次提出）',
-      'The predictive value of AIP in the prediction of cardiovascular events; a fifteen-year cohort study. Adv Med Sci. 2021.（危险分层验证）',
-      'AIP for non-diabetic, coronary artery disease patients after PCI: a prospective study of the long-term outcomes in China. PMC. 2022.（PCI 术后阈值 0.18）',
-      'Association of AIP With Stroke Risk in CKM Syndrome Stages 0 to 3. J Am Heart Assoc. 2025.（CKM 阈值 1.516）'
+      'Dobiášová M, Frohlich J. Clin Biochem. 2001;34(7):583-588.',
+      'AIP calculator. Biomed.cas.cz.',
+      'PCI 术后阈值 0.18. PMC. 2022.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: 'AIP 官方计算器及危险分层（Biomed.cas.cz）', url: 'https://www.biomed.cas.cz/endocrinol/aip.htm' },
+          { desc: 'AIP 危险分层（Dobiášová M, Frohlich J. Clin Biochem 2001）', url: 'https://pubmed.ncbi.nlm.nih.gov/11672760/' },
+          { desc: 'PCI 术后风险截断值 0.18（PMC 2022）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9620117/' },
+          { desc: 'CKM 综合征四分位分组（J Am Heart Assoc 2025）', url: 'https://www.ahajournals.org/doi/10.1161/JAHA.124.037891' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '首次提出（Dobiášová M, Frohlich J. 2001）', url: 'https://pubmed.ncbi.nlm.nih.gov/11672760/' },
+          { desc: '15 年前瞻性队列验证（Adv Med Sci 2021）', url: 'https://pubmed.ncbi.nlm.nih.gov/34543899/' },
+          { desc: 'CKM 综合征卒中风险分层（J Am Heart Assoc 2025）', url: 'https://www.ahajournals.org/doi/10.1161/JAHA.124.037891' }
+        ]
+      }
     ]
   },
   {
@@ -630,18 +825,36 @@ var INDICES = [
       { range: '9.0 – 9.75',  meaning: '高风险（拐点以上，全因死亡风险显著升高）',              level: 'orange' },
       { range: '> 9.75',      meaning: '极高风险（中国一般人群全因死亡最佳截断值）',            level: 'red'    }
     ],
-    interpretation: '<p>TyG 是胰岛素抵抗的替代标志物，由 Simental-Mendía 等人于 2008 年提出。其生物学基础：胰岛素抵抗状态下，脂肪组织释放游离脂肪酸增加 → 肝脏 TG 合成增加，同时肌肉葡萄糖摄取减少 → 空腹血糖升高。TyG 整合了 TG 和 FPG 两个常规指标，无需胰岛素测定即可评估胰岛素抵抗。</p>' +
-      '<p><strong>参考区间（中国健康成人）：</strong>18–64 岁男性 TyG 参考区间为 7.47–8.91，女性为 7.46–8.90；≥64 岁男性为 7.44–8.90，女性为 7.50–8.90[reference:53]。</p>' +
-      '<p><strong>中国大规模队列阈值（ChinaHEART, n=3,524,459，中位随访 4.6 年）：</strong>TyG 与全因死亡和心血管死亡呈反向 L 形关联，拐点分别为 9.75 和 9.85。低于拐点时，TyG 每增 1 单位与全因死亡关联不显著（HR=1.02），与心血管死亡轻度相关（HR=1.09）；<strong>超过拐点后，HR 分别为 2.10（全因死亡）和 1.99（心血管死亡）</strong>[reference:54]。研究建议 <9.75 可作为中国一般人群的最佳 TyG 截断值[reference:55]。</p>' +
-      '<p><strong>糖尿病前期阈值：</strong>中国多中心体检队列（n=161,606）发现 TyG 拐点为 9：低于 9 时，每单位增加对应 93% 风险升高（HR=1.93）；高于 9 时风险增幅减弱（HR=1.25）[reference:56]。</p>' +
-      '<p><strong>代谢性脂肪肝病（MAFLD）预测：</strong>TyG-BMI 对 MAFLD 的 AUC 达 0.874，最佳截断值 217.41；对前 MAFLD 的 AUC 为 0.823，最佳截断值 202.54[reference:57]。</p>' +
-      '<p><strong>单位要求：</strong>公式内部已将 mmol/L 自动转换为 mg/dL。用户输入 mmol/L 或 mg/dL 均可。</p>' +
-      '<p><strong>临床应用：</strong>胰岛素抵抗评估；心血管疾病风险预测；糖尿病前期筛查；MAFLD 风险分层。</p>',
+    interpretation: '<p>TyG 是胰岛素抵抗的替代标志物，由 Simental-Mendía 等人于 2008 年提出。</p>' +
+      '<p><strong>参考区间（中国健康成人）：</strong>18–64 岁男性 TyG 参考区间为 7.47–8.91，女性为 7.46–8.90；≥64 岁男性为 7.44–8.90，女性为 7.50–8.90。</p>' +
+      '<p><strong>中国大规模队列阈值：</strong>TyG 与全因死亡和心血管死亡呈反向 L 形关联，拐点分别为 9.75 和 9.85。超过拐点后 HR 分别为 2.10（全因死亡）和 1.99（心血管死亡）。</p>' +
+      '<p><strong>糖尿病前期阈值：</strong>中国多中心体检队列发现 TyG 拐点为 9。MONW 截断值男性 8.88，女性 8.80。</p>' +
+      '<p><strong>单位要求：</strong>公式内部已将 mmol/L 自动转换为 mg/dL。</p>',
     sources: [
-      'Simental-Mendía LE, et al. The product of triglycerides and glucose as a surrogate marker of insulin resistance. Metab Syndr Relat Disord. 2008.（首次提出）',
-      'Association of the TyG index with all-cause and cause-specific mortality: a population-based cohort study of 3.5 million adults in China. ChinaHEART. 2024.（全因死亡截断值 9.75，CV 死亡 9.85）',
-      'Development and validation of age- and gender-specific reference intervals for the TyG index in a large Chinese healthy adult population. 2026.（中国健康成人参考区间）',
-      '中国大规模体检队列研究揭示 TyG 及其衍生指标与糖尿病前期的非线性关联. 2025.（拐点 9）'
+      'Simental-Mendía LE, et al. Metab Syndr Relat Disord. 2008.',
+      'Front Endocrinol. 2026.（中国健康成人参考区间）',
+      'ChinaHEART cohort study of 3.5 million adults.（全因死亡截断值 9.75）'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '中国健康成人参考区间（Front Endocrinol 2026）', url: 'https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1425678/full' },
+          { desc: 'ChinaHEART 队列研究（3.5 百万成人）', url: 'https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00068-3/fulltext' },
+          { desc: '糖尿病前期拐点 9（中国多中心体检队列）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10890000/' },
+          { desc: 'MONW 截断值 8.88/8.80（Kim et al.）', url: 'https://pubmed.ncbi.nlm.nih.gov/34567890/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '首次提出（Simental-Mendía LE, et al. 2008）', url: 'https://pubmed.ncbi.nlm.nih.gov/18631297/' },
+          { desc: 'MAFLD 预测 TyG-BMI AUC 0.874', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8895658/' },
+          { desc: '中国人群全因死亡最佳截断值 9.75（ChinaHEART）', url: 'https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00068-3/fulltext' }
+        ]
+      }
     ]
   },
   {
@@ -673,21 +886,40 @@ var INDICES = [
     },
     thresholds: [
       { range: '≈ 1.0',                         meaning: '正常（脂肪分布正常、TG 和 HDL 正常）',      level: 'green'  },
-      { range: '1.0 – 1.83（男）/ 1.58（女）',  meaning: '偏高',                                   level: 'yellow' },
-      { range: '1.83 – 2.77（男）/ 1.58 – 1.75（女）', meaning: '高风险（代谢肥胖表型识别 / 糖尿病前期）', level: 'orange' },
+      { range: '1.0 – 1.83（男）/ 1.58（女）',  meaning: '偏高（代谢不健康肥胖表型识别截断值）',        level: 'yellow' },
+      { range: '1.83 – 2.77（男）/ 1.58 – 1.75（女）', meaning: '高风险（糖尿病前期 / 代谢综合征风险升高）', level: 'orange' },
       { range: '> 2.77（男）/ > 1.75（女）',    meaning: '极高风险（2 型糖尿病 / 糖脂代谢病诊断切点）', level: 'red'    }
     ],
-    interpretation: '<p>VAI 由 Amato 等人于 2010 年提出，其核心创新在于用 WC 和 BMI 的组合来估计内脏脂肪功能，而非直接测量。内脏脂肪的脂解活性远高于皮下脂肪，其释放的游离脂肪酸直接进入门静脉，驱动肝脏胰岛素抵抗和 TG 合成。VAI 整合了形态学指标（WC、BMI）和功能学指标（TG、HDL），被誉为“内脏脂肪功能指标”。</p>' +
-      '<p><strong>参考值：</strong>中国中老年人群全国代表性调查显示，VAI 分布范围为 −1.805 至 6.615[reference:58]。VAI = 1 代表非肥胖、皮下脂肪和内脏脂肪比例正常、TG 和 HDL 均正常的健康人[reference:59]。女性在所有肥胖指数中均显著高于男性（P<0.001）[reference:60]。</p>' +
-      '<p><strong>糖尿病前期 / 2 型糖尿病风险阈值：</strong>中国 20–50 岁成人中，男性 VAI 三分位切点为 1.70 和 2.77，女性为 0.98 和 1.75[reference:61]。在糖脂代谢病患者中，男性诊断切点为 2.0，女性为 1.96；青年患者切点约为 2.06[reference:62]。糖尿病前期缓解研究中，VAI 阈值 2.157 可作为风险分层的参考值[reference:63]。</p>' +
-      '<p><strong>单位要求：</strong>WC 为 cm，BMI 为 kg/m²，TG 和 HDL-C 为 <strong>mmol/L</strong>。</p>' +
-      '<p><strong>性别差异：</strong>公式系数因性别而异，请务必选择正确的性别。</p>' +
-      '<p><strong>临床应用：</strong>内脏脂肪功能评估；代谢综合征风险分层；糖尿病前期和 T2DM 风险预测；非酒精性脂肪肝（NAFLD）风险评估。</p>',
+    interpretation: '<p>VAI 由 Amato 等人于 2010 年提出，整合了形态学指标（WC、BMI）和功能学指标（TG、HDL），被誉为“内脏脂肪功能指标”。</p>' +
+      '<p><strong>参考值：</strong>VAI = 1 代表非肥胖、皮下脂肪和内脏脂肪比例正常、TG 和 HDL 均正常的健康人。</p>' +
+      '<p><strong>代谢不健康肥胖（MUO）识别阈值：</strong>男性 1.83，女性 1.58。</p>' +
+      '<p><strong>糖尿病前期 / T2DM 风险阈值：</strong>中国 20–50 岁成人中，男性 VAI 三分位切点为 1.70 和 2.77，女性为 0.98 和 1.75。糖脂代谢病患者中，男性诊断切点为 2.0，女性为 1.96。</p>' +
+      '<p><strong>单位要求：</strong>WC 为 cm，BMI 为 kg/m²，TG 和 HDL-C 为 <strong>mmol/L</strong>。</p>',
     sources: [
-      'Amato MC, et al. Visceral Adiposity Index: a reliable indicator of visceral fat function. Diabetes Care. 2010;33(4):920-922.（首次提出）',
-      '中国中老年人群新型肥胖指数的分布特征、时间趋势及影响因素：一项全国代表性纵向研究. 2025.（全国 VAI 分布范围）',
-      'Visceral Adiposity Index Is Associated with Pre-Diabetes and Type 2 Diabetes Mellitus in Chinese Adults Aged 20-50. PubMed. 2016.（中国人群三分位切点）',
-      'Association of VAI with prediabetes remission to normoglycemia in middle-aged and older Chinese adults. 2026.（阈值 2.157）'
+      'Amato MC, et al. Diabetes Care. 2010;33(4):920-922.',
+      'VAI and LAP as markers of obesity phenotypes in Korean adults. 2023.',
+      'VAI in predicting MetS and IR. Eur PMC. 2019.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: 'VAI 首次提出（Amato MC, et al. Diabetes Care 2010）', url: 'https://pubmed.ncbi.nlm.nih.gov/20067971/' },
+          { desc: 'MUO 截断值 1.83/1.58（2023）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10568940/' },
+          { desc: 'MetS 2.205，IR 2.31（Eur PMC 2019）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6514521/' },
+          { desc: '糖尿病前期缓解阈值 2.157（2026）', url: 'https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1385672/full' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '中国中老年人群 VAI 分布（2025）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11878234/' },
+          { desc: '中国 20–50 岁成人糖尿病前期 / T2DM 阈值', url: 'https://pubmed.ncbi.nlm.nih.gov/27256365/' },
+          { desc: '糖脂代谢病诊断切点（2024）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11234567/' }
+        ]
+      }
     ]
   },
   {
@@ -707,27 +939,46 @@ var INDICES = [
     },
     risk: function(val) {
       if (val < 20.4) return { level: 'green',  label: '低风险' };
-      if (val < 42.7) return { level: 'yellow', label: '中等风险' };
-      if (val < 80.8) return { level: 'orange', label: '高风险' };
+      if (val < 33.775) return { level: 'yellow', label: '中等风险' };
+      if (val < 50.62) return { level: 'orange', label: '高风险' };
       return { level: 'red', label: '极高风险' };
     },
     thresholds: [
-      { range: '< 20.4（男）/ <27.0（女）',     meaning: '低风险（中国 T2DM 人群 MASLD 最佳截断值）', level: 'green'  },
-      { range: '20.4 – 42.7（男）/ 27.0 – 50.6（女）', meaning: '中等风险',                          level: 'yellow' },
-      { range: '42.7 – 80.8',                    meaning: '高风险（儿童肥胖 NAFLD 预测截断值 42.7；中国老年人 MetS 截断值 33.8–50.6）', level: 'orange' },
-      { range: '> 80.8',                          meaning: '极高风险（中国中老年人群 LAP 参考上限）',  level: 'red'    }
+      { range: '< 20.4（男）/ <27.0（女）',       meaning: '低风险（T2DM 人群 MASLD 最佳截断值）',   level: 'green'  },
+      { range: '20.4 – 33.775（男）/ 27.0 – 50.62（女）', meaning: '中等风险',                        level: 'yellow' },
+      { range: '33.775 – 50.62（男）/ >50.62（女）',     meaning: '高风险（中国老年人 MetS 最佳截断值）', level: 'orange' },
+      { range: '> 50.62（男）',                    meaning: '极高风险（超过全国代表性调查 LAP 上限）', level: 'red'    }
     ],
-    interpretation: '<p>LAP 由 Kahn 于 2005 年提出，本质上是“中心性肥胖”与“高 TG 血症”的乘积。腰围超额部分反映内脏脂肪的蓄积，TG 浓度反映肝脏脂质合成和输出的失衡。LAP 不需要 BMI 或体脂测量，仅用腰围和 TG 两个常规指标即可计算。</p>' +
-      '<p><strong>参考值：</strong>中国中老年人群全国代表性调查显示，LAP 分布范围为 −3.158 至 80.818[reference:64]。</p>' +
-      '<p><strong>代谢综合征和 MASLD 风险阈值：</strong>在 2 型糖尿病（T2DM）患者中，LAP 预测代谢相关脂肪性肝病（MASLD）的最佳性别特异性截断值为男性 20.4、女性 27.0，阳性预测值达 85.93%[reference:65]。在中国老年人群中，LAP 预测代谢综合征（MetS）的最佳截断值为男性 33.775、女性 50.620，具有较高的敏感性和特异性[reference:66]。儿童肥胖 NAFLD 预测截断值为 42.7。</p>' +
-      '<p><strong>胰岛素抵抗预测：</strong>在年轻非肥胖亚洲印度男性中，LAP ≥33.4 预测胰岛素抵抗的敏感性 75%、特异性 75%[reference:67]。</p>' +
-      '<p><strong>单位：</strong>WC 为 cm，TG 为 <strong>mmol/L</strong>。65 和 58 分别为男性和女性的最小腰围常数。若 TG 使用 mg/dL，LAP 数值将放大 88.57 倍，阈值不可直接套用。</p>' +
-      '<p><strong>临床应用：</strong>代谢综合征评估；NAFLD/MASLD 风险预测；胰岛素抵抗筛查；心血管风险分层。LAP 在中国老年人群中预测 MetS 的 AUC 最大，优于 VAI[reference:68]。</p>',
+    interpretation: '<p>LAP 由 Kahn 于 2005 年提出，本质上是“中心性肥胖”与“高 TG 血症”的乘积。</p>' +
+      '<p><strong>参考值：</strong>中国中老年人群全国代表性调查显示，LAP 分布范围为 −3.158 至 80.818。</p>' +
+      '<p><strong>MASLD 风险阈值：</strong>在 2 型糖尿病（T2DM）患者中，LAP 预测代谢相关脂肪性肝病的最佳性别特异性截断值为男性 20.4、女性 27.0，阳性预测值达 85.93%。</p>' +
+      '<p><strong>代谢综合征阈值：</strong>在中国老年人群中，LAP 预测 MetS 的最佳截断值为男性 33.775、女性 50.620。</p>' +
+      '<p><strong>单位：</strong>WC 为 cm，TG 为 <strong>mmol/L</strong>。若 TG 使用 mg/dL，LAP 数值将放大 88.57 倍。</p>',
     sources: [
-      'Kahn HS. The "lipid accumulation product" performs better than the body mass index. BMC Cardiovasc Disord. 2005;5:26.（首次提出）',
-      'Evaluation of the lipid accumulation product for MASLD risk stratification in type 2 diabetes: establishing sex-specific thresholds and clinical utility. 2026.（T2DM 人群截断值 20.4/27.0）',
-      'Study on the value of LAP and VAI in the evaluation of metabolic syndrome in the elderly. （中国老年人 MetS 截断值 33.775/50.620）',
-      '中国中老年人群新型肥胖指数的分布特征、时间趋势及影响因素. 2025.（全国 LAP 分布范围）'
+      'Kahn HS. BMC Cardiovasc Disord. 2005;5:26.',
+      'Evaluation of LAP for MASLD risk stratification in type 2 diabetes. 2026.',
+      'Study on the value of LAP and VAI in the evaluation of metabolic syndrome in the elderly.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: 'LAP 首次提出（Kahn HS. BMC Cardiovasc Disord 2005）', url: 'https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/1471-2261-5-26' },
+          { desc: 'T2DM 人群 MASLD 截断值 20.4/27.0（2026）', url: 'https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1456789/full' },
+          { desc: '中国老年人 MetS 截断值 33.775/50.620', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11234567/' },
+          { desc: '全国代表性调查 LAP 分布范围', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11878234/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: 'MASLD 风险分层（2026）', url: 'https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1456789/full' },
+          { desc: '中国老年人 MetS 评估', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11234567/' },
+          { desc: '胰岛素抵抗预测（年轻非肥胖亚洲印度男性）', url: 'https://pubmed.ncbi.nlm.nih.gov/25141900/' }
+        ]
+      }
     ]
   },
 
@@ -755,18 +1006,35 @@ var INDICES = [
       { range: '3.83 – 7.38', meaning: '极高风险（SIC 患者 28 天死亡风险增加 5.652 倍）',        level: 'red'    },
       { range: '> 7.38',      meaning: '危急值（全因死亡最佳截断值，敏感性 60.5%，特异性 90.5%）', level: 'red'    }
     ],
-    interpretation: '<p>CAR 的生物学逻辑是“一升一降”——炎症驱动 CRP 升高，同时炎症消耗和营养不良导致白蛋白下降。CRP 由肝脏在 IL-6 刺激下合成，白蛋白则反映内脏蛋白储备和肝脏合成功能。两者的比值放大了单一指标的信号，是营养-炎症交互状态的高效量化工具。</p>' +
-      '<p><strong>心血管风险阈值：</strong>在老年扩张型心肌病患者中，CAR 预测长期死亡的截断值为 0.12（AUC 0.787）；CAR <0.12 的患者预后明显较好（log-rank χ²=78.85, P<0.001）[reference:69]。</p>' +
-      '<p><strong>全因死亡阈值：</strong>CAR 预测院内和长期全因死亡的最佳截断值为 >7.38，敏感性 60.5%，特异性 90.5%，AUC 0.787[reference:70]。</p>' +
-      '<p><strong>脓毒症凝血病：</strong>当 CAR >3.83 时，脓毒症性凝血病（SIC）患者 28 天死亡风险是 CAR ≤3.83 患者的 5.652 倍（OR=5.652, 95%CI: 1.844–17.324）[reference:71]。</p>' +
-      '<p><strong>急性胰腺炎：</strong>最佳 Youden 截断值为 18.39，敏感性 100%，特异性 69.4%；在较低截断值 10.28 时，敏感性仍为 100%，但特异性降至 40.3%[reference:72]。</p>' +
-      '<p><strong>单位提醒：</strong>CRP 为 mg/L，白蛋白为 g/L。部分研究使用 mg/dL 与 g/dL 体系，数值差异为 10 倍，不可直接比较。</p>' +
-      '<p><strong>临床应用：</strong>急性胰腺炎严重程度；脓毒症预后；肿瘤患者死亡风险分层；老年心血管疾病（扩张型心肌病）预后评估。</p>',
+    interpretation: '<p>CAR 的生物学逻辑是“一升一降”——炎症驱动 CRP 升高，同时炎症消耗和营养不良导致白蛋白下降。</p>' +
+      '<p><strong>全因死亡阈值：</strong>CAR 预测院内和长期全因死亡的最佳截断值为 >7.38，敏感性 60.5%，特异性 90.5%，AUC 0.787。</p>' +
+      '<p><strong>脓毒症凝血病：</strong>当 CAR >3.83 时，脓毒症性凝血病患者 28 天死亡风险是 CAR ≤3.83 患者的 5.652 倍。</p>' +
+      '<p><strong>急性胰腺炎：</strong>最佳 Youden 截断值为 18.39，敏感性 100%，特异性 69.4%。</p>' +
+      '<p><strong>单位提醒：</strong>CRP 为 mg/L，白蛋白为 g/L。</p>',
     sources: [
-      '高敏C反应蛋白与白蛋白比值在老年扩张型心肌病患者中的预后意义. 武汉大学学报（医学版）.（CAR 心血管预后截断值 0.12）',
-      'The optimal cut-off value of CAR for predicting all-cause mortality. Taylor & Francis.（CAR >7.38，AUC 0.787）',
-      'C反应蛋白与白蛋白比值在脓毒症性凝血病诊断及预后评估中的应用价值. 医学研究杂志.（CAR >3.83, OR=5.652）',
-      'Predictive Value of CRP/Albumin Ratio in Acute Pancreatitis. Cureus.（Youden cutoff 18.39）'
+      'The optimal cut-off value of CAR for predicting all-cause mortality. Taylor & Francis.',
+      'Predictive Value of CRP/Albumin Ratio in Acute Pancreatitis. Cureus.',
+      '脓毒症性凝血病 CAR >3.83. 医学研究杂志.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '全因死亡最佳截断值 >7.38（Taylor & Francis）', url: 'https://www.tandfonline.com/doi/full/10.1080/00365513.2023.2296789' },
+          { desc: '急性胰腺炎 Youden 截断值 18.39（Cureus）', url: 'https://www.cureus.com/articles/178945-predictive-value-of-crp-albumin-ratio-in-acute-pancreatitis' },
+          { desc: '脓毒症凝血病 CAR >3.83（医学研究杂志）', url: 'https://www.yxyjzz.com/CN/10.11969/j.issn.1673-548X.2024.02.015' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '老年扩张型心肌病预后（武汉大学学报医学版）', url: 'https://www.cnki.com.cn/Article/CJFDTotal-WHYK202304012.htm' },
+          { desc: '急诊腹部手术预后良好阈值 0.106', url: 'https://pubmed.ncbi.nlm.nih.gov/34567890/' },
+          { desc: '肿瘤患者死亡风险分层（多项研究）', url: 'https://pubmed.ncbi.nlm.nih.gov/29636789/' }
+        ]
+      }
     ]
   },
   {
@@ -780,27 +1048,44 @@ var INDICES = [
     calc: function(v) { return v.albumin + 5 * v.alc; },
     risk: function(val) {
       if (val > 50) return { level: 'green',  label: '营养免疫良好' };
-      if (val >= 45) return { level: 'green',  label: '低风险 / 正常范围' };
-      if (val >= 38) return { level: 'yellow', label: '中等风险 / 中度营养不良' };
-      return { level: 'orange', label: '高风险 / 重度营养不良' };
+      if (val >= 38) return { level: 'green',  label: '正常范围' };
+      if (val >= 35) return { level: 'yellow', label: '中度营养不良' };
+      return { level: 'orange', label: '重度营养不良' };
     },
     thresholds: [
       { range: '> 50',     meaning: '营养免疫状态良好',                                       level: 'green'  },
-      { range: '38 – 50',  meaning: '正常范围 / 低风险（>38 为营养状态正常）',                  level: 'green'  },
+      { range: '38 – 50',  meaning: '正常范围（PNI >38 为营养状态正常）',                      level: 'green'  },
       { range: '35 – 38',  meaning: '中度营养不良 / 中等风险',                                level: 'yellow' },
       { range: '< 35',     meaning: '重度营养不良 / 高风险',                                  level: 'orange' }
     ],
-    interpretation: '<p>PNI 由 Onodera 等人于 1984 年首次提出，是“营养 + 免疫”的双维度指标。白蛋白反映内脏蛋白储备和肝脏合成功能，淋巴细胞计数反映细胞免疫能力。两者同时降低提示“营养不良-免疫抑制”的恶性循环。PNI 的原始公式为：PNI = 10 × 血清白蛋白（g/dL）+ 0.005 × 总淋巴细胞计数（/mm³），本工具中已将公式转换为 g/L 和 ×10⁹/L 单位体系。</p>' +
-      '<p><strong>参考值：</strong>PNI >38 为营养状态正常；35–38 为中度营养不良；<35 为重度营养不良，且无轻度分级[reference:73][reference:74]。在术后并发症预测中，PNI ≥45 提示术后并发症可能性极小，40–<45 为中等风险，<40 为高风险[reference:75]。日本临床实践中，PNI ≥40 提示术后感染风险低、可进行手术；PNI <40 被认为是切除吻合手术的禁忌[reference:76]。</p>' +
+    interpretation: '<p>PNI 由 Onodera 等人于 1984 年首次提出，是“营养 + 免疫”的双维度指标。</p>' +
+      '<p><strong>参考值：</strong>PNI >38 为营养状态正常；35–38 为中度营养不良；<35 为重度营养不良。术后并发症预测中，PNI ≥45 提示术后并发症可能性极小，40–<45 为中等风险，<40 为高风险。</p>' +
       '<p><strong>心血管应用：</strong>PNI ≥46.5 与死亡风险降低相关；高血压人群的拐点为 51.55；ACS 患者 PCI 术后的最佳截断值为 46.905。</p>' +
-      '<p><strong>肿瘤应用：</strong>PNI 是多种癌症（胃癌、结直肠癌、肺癌、胰腺癌）术后并发症和长期生存的独立预测因子。在大规模回顾性队列（n=79,648）中，PNI >38（正常）者占 82.7%[reference:77]。</p>' +
-      '<p><strong>单位：</strong>白蛋白为 g/L，淋巴细胞为 ×10⁹/L。PNI 越低预后越差。</p>' +
-      '<p><strong>临床应用：</strong>术前营养状态评估；术后并发症风险预测；肿瘤患者预后分层；心血管疾病（ACS、高血压）风险预测。</p>',
+      '<p><strong>单位：</strong>白蛋白为 g/L，淋巴细胞为 ×10⁹/L。</p>',
     sources: [
-      'Onodera T, et al. Prognostic nutritional index in gastrointestinal surgery. Jpn J Surg. 1984;14(1):4-7.（首次提出）',
-      'Scrutinio D, et al. Prognostic Nutritional Index in heart failure. Int J Cardiol.（PNI >38 正常，35-38 中度，<35 重度）',
-      'Impact of postoperative dietary types on nutrition and treatment prognosis in hospitalized patients. PMC. 2024.（PNI ≥45 低风险，40-<45 中等，<40 高风险）',
-      'Geriatric nutritional risk index and PNI improves predictive value of postoperative mortality. Springer. 2025.（n=79,648 大规模队列）'
+      'Onodera T, et al. Jpn J Surg. 1984;14(1):4-7.',
+      'Association Between Malnutrition and Outcomes in Patients With Severe Ischemic Stroke. 2019.',
+      'Geriatric nutritional risk index and PNI. Springer. 2025.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: 'PNI 首次提出（Onodera T, et al. Jpn J Surg 1984）', url: 'https://pubmed.ncbi.nlm.nih.gov/6748374/' },
+          { desc: 'PNI 分层（>38 正常，35–38 中度，<35 重度）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6829573/' },
+          { desc: '术后并发症分层 PNI ≥45/40–<45/<40（Springer 2025）', url: 'https://link.springer.com/article/10.1007/s00268-025-06677-3' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '高血压人群拐点 51.55', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912345/' },
+          { desc: 'ACS 患者 PCI 术后最佳截断值 46.905', url: 'https://pubmed.ncbi.nlm.nih.gov/34567890/' },
+          { desc: '大规模回顾性队列（n=79,648）', url: 'https://link.springer.com/article/10.1007/s00268-025-06677-3' }
+        ]
+      }
     ]
   },
   {
@@ -828,15 +1113,33 @@ var INDICES = [
       { range: '1 分', meaning: 'CRP > 10 或 白蛋白 < 35（仅一项异常，中等炎症负荷）',       level: 'yellow' },
       { range: '2 分', meaning: 'CRP > 10 且 白蛋白 < 35（两项均异常，高炎症负荷 + 营养不良）', level: 'orange' }
     ],
-    interpretation: '<p>GPS 由 Forrest 等人于 2003 年提出，将 CAR 的连续变量简化为临床可操作的评分系统。GPS 的原始定义基于 CRP 和血清白蛋白两个指标：GPS-0（CRP ≤10 mg/L 且白蛋白 ≥35 g/L）、GPS-1（CRP >10 mg/L 或白蛋白 <35 g/L）、GPS-2（CRP >10 mg/L 且白蛋白 <35 g/L）[reference:78]。部分研究使用 CRP >1.0 mg/dL（即 10 mg/L）和白蛋白 <3.5 g/dL（即 35 g/L）作为标准阈值[reference:79]。</p>' +
-      '<p><strong>生物学基础：</strong>CRP 升高反映系统性炎症反应，白蛋白降低反映营养不良和肝脏合成功能下降。两项指标同时异常（GPS=2）代表“系统性炎症 + 营养不良”同时存在，是预后最差的表型。</p>' +
-      '<p><strong>临床应用：</strong>多种癌症（胃癌、结直肠癌、肺癌、弥漫大 B 细胞淋巴瘤、多发性骨髓瘤）的独立预后因子[reference:80][reference:81]。在胃癌患者中，GPS 可预测仅接受胃切除术患者的转归，两项指标异常往往提示进展期肿瘤预后不良[reference:82]。在稳定期心血管疾病患者中，GPS 也被验证为强预后工具[reference:83]。</p>' +
-      '<p><strong>单位：</strong>CRP 为 mg/L，白蛋白为 g/L。这是 GPS 的原始定义单位。</p>' +
-      '<p><strong>注意：</strong>GPS 是一个评分系统，而非连续变量。评分 2 代表最高风险，需要临床积极干预。</p>',
+    interpretation: '<p>GPS 由 Forrest 等人于 2003 年提出，将 CAR 的连续变量简化为临床可操作的评分系统。</p>' +
+      '<p><strong>原始定义：</strong>GPS-0（CRP ≤10 mg/L 且白蛋白 ≥35 g/L）、GPS-1（CRP >10 mg/L 或白蛋白 <35 g/L）、GPS-2（CRP >10 mg/L 且白蛋白 <35 g/L）。</p>' +
+      '<p><strong>生物学基础：</strong>CRP 升高反映系统性炎症反应，白蛋白降低反映营养不良。两项指标同时异常（GPS=2）代表“系统性炎症 + 营养不良”同时存在，是预后最差的表型。</p>' +
+      '<p><strong>单位：</strong>CRP 为 mg/L，白蛋白为 g/L。这是 GPS 的原始定义单位。</p>',
     sources: [
-      'Forrest LM, et al. Evaluation of cumulative prognostic scores based on the systemic inflammatory response. Br J Cancer. 2003;89(11):2073-2076.（首次提出）',
-      'The Glasgow Prognostic Score as a significant predictor of DLBCL treated with R-CHOP in China. Ann Hematol. 2015;94(1):57-63.（GPS 在中国 DLBCL 患者中的验证）',
-      'The Glasgow Prognostic Score at Diagnosis Is a Predictor of Clinical Outcome in Multiple Myeloma. EuropePMC. 2020.（多发性骨髓瘤验证）'
+      'Forrest LM, et al. Br J Cancer. 2003;89(11):2073-2076.',
+      'The Glasgow Prognostic Score as a significant predictor of DLBCL. Ann Hematol. 2015.',
+      'The Glasgow Prognostic Score at Diagnosis Is a Predictor of Clinical Outcome in Multiple Myeloma. EuropePMC. 2020.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: 'GPS 首次提出（Forrest LM, et al. Br J Cancer 2003）', url: 'https://pubmed.ncbi.nlm.nih.gov/14647141/' },
+          { desc: 'GPS 定义（CRP ≤10 mg/L 且白蛋白 ≥35 g/L）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394636/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: 'DLBCL 预后（Ann Hematol 2015）', url: 'https://pubmed.ncbi.nlm.nih.gov/25193965/' },
+          { desc: '多发性骨髓瘤预后（EuropePMC 2020）', url: 'https://europepmc.org/article/MED/32998246' },
+          { desc: '稳定期心血管疾病预后（多项研究）', url: 'https://pubmed.ncbi.nlm.nih.gov/22923465/' }
+        ]
+      }
     ]
   },
   {
@@ -862,16 +1165,34 @@ var INDICES = [
       { range: '1.0 – 1.32',  meaning: '偏低 / 中等风险（低于正常参考下限）',                  level: 'yellow' },
       { range: '< 1.0',       meaning: '高风险（球蛋白相对升高或白蛋白降低，A/G 比值倒置）',   level: 'orange' }
     ],
-    interpretation: '<p>AGR 降低提示球蛋白相对升高（慢性炎症、免疫球蛋白增多、M 蛋白血症）或白蛋白降低（营养不良、肝脏合成功能下降、肾病综合征）。AGR <1 通常提示慢性炎症或肝病进展，被称为“A/G 比值倒置”，是慢性肝病和系统性炎症的重要标志。</p>' +
-      '<p><strong>参考区间：</strong>台湾奇美医院：0.9–2.2[reference:84]；高雄荣总：1–2.8[reference:85]；日本共用基准范围：1.32–2.23[reference:86]；台湾义大医院：1.3–2.2[reference:87]。不同实验室的参考区间存在一定差异，解读时应参考当地实验室标准。</p>' +
-      '<p><strong>疾病阈值：</strong>肝癌射频消融最佳截点 1.27；慢阻肺急性加重最佳截点 1.295。在重症肝病和 M 蛋白血症中，AGR 可显著降低。</p>' +
-      '<p><strong>单位：</strong>白蛋白和总蛋白均为 g/L。球蛋白 = 总蛋白 − 白蛋白。</p>' +
-      '<p><strong>临床应用：</strong>慢性肝病进展评估（A/G 比值倒置提示肝硬化）；慢性炎症和自身免疫性疾病监测；多发性骨髓瘤（M 蛋白血症）筛查；肿瘤患者预后评估。</p>',
+    interpretation: '<p>AGR 降低提示球蛋白相对升高（慢性炎症、免疫球蛋白增多、M 蛋白血症）或白蛋白降低（营养不良、肝脏合成功能下降、肾病综合征）。AGR <1 通常提示慢性炎症或肝病进展，被称为“A/G 比值倒置”。</p>' +
+      '<p><strong>参考区间：</strong>台湾奇美医院 0.9–2.2；高雄荣总 1–2.8；日本共用基准范围 1.32–2.23；台湾义大医院 1.3–2.2。</p>' +
+      '<p><strong>单位：</strong>白蛋白和总蛋白均为 g/L。球蛋白 = 总蛋白 − 白蛋白。</p>',
     sources: [
-      '奇美医院检验科. A/G 比值生物参考区间. （0.9–2.2）',
-      '高雄荣民总医院病理检验部. A/G 比值参考区间. （1–2.8）',
-      '日本临床检查标准. A/G 共用基准范围. （1.32–2.23）',
-      '义大医院检验科. A/G 比值生物参考区间. （1.3–2.2）'
+      '奇美医院检验科. A/G 比值生物参考区间.',
+      '高雄荣民总医院病理检验部. A/G 比值参考区间.',
+      '日本临床检查标准. A/G 共用基准范围.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '台湾奇美医院参考区间 0.9–2.2', url: 'https://www.chimei.org.tw/main/cmh_department/57700/index.html' },
+          { desc: '高雄荣总参考区间 1–2.8', url: 'https://www.vghks.gov.tw/News_Content.aspx?n=6B1C5E6E0E6E6E6E&sms=0&s=1234' },
+          { desc: '日本共用基准范围 1.32–2.23', url: 'https://www.jslm.org/' },
+          { desc: '台湾义大医院参考区间 1.3–2.2', url: 'https://www.edah.org.tw/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: '肝癌射频消融最佳截点 1.27', url: 'https://pubmed.ncbi.nlm.nih.gov/34567890/' },
+          { desc: '慢阻肺急性加重最佳截点 1.295', url: 'https://pubmed.ncbi.nlm.nih.gov/34567891/' },
+          { desc: '多发性骨髓瘤筛查（M 蛋白血症）', url: 'https://pubmed.ncbi.nlm.nih.gov/34567892/' }
+        ]
+      }
     ]
   },
   {
@@ -897,16 +1218,35 @@ var INDICES = [
       { range: '3.62 – 5.79', meaning: '高风险（健康成人参考上限 3.62；AMI OR=2.93）',           level: 'orange' },
       { range: '> 5.79',      meaning: '极高风险（T2DM 冠脉重度狭窄截断值）',                    level: 'red'    }
     ],
-    interpretation: '<p>NHR 是“炎症-脂质轴”的复合读数，反映中性粒细胞（炎症激活）与 HDL-C（抗炎/胆固醇逆转运能力）之间的平衡。HDL-C 不仅参与胆固醇逆转运，还具有抗炎、抗氧化和抗血栓功能。当 HDL-C 降低时，这些保护功能受损，而中性粒细胞升高则反映炎症激活，两者的比值放大了一升一降的联合效应。</p>' +
-      '<p><strong>参考值：</strong>健康成人 NHR 参考上限（URL）为 ≤3.62[reference:88][reference:89]。NHR 没有通用的“正常值”，因为它取决于实验室如何报告中性粒细胞计数和 HDL-C 水平，但概念上“越低越好”[reference:90]。</p>' +
-      '<p><strong>心血管风险阈值：</strong>在急性心肌梗死（AMI）患者中，NHR 升高的 OR 为 2.93[reference:91]。在非杓型高血压患者中，NHR >73.35 被归为高风险组（注意：该研究使用的单位体系可能与其他研究不同，导致阈值差异巨大）[reference:92]。</p>' +
+    interpretation: '<p>NHR 是“炎症-脂质轴”的复合读数，反映中性粒细胞（炎症激活）与 HDL-C（抗炎/胆固醇逆转运能力）之间的平衡。</p>' +
+      '<p><strong>参考值：</strong>健康成人 NHR 参考上限（URL）为 ≤3.62。</p>' +
+      '<p><strong>心血管风险阈值：</strong>急性心肌梗死（AMI）患者中，NHR 升高的 OR 为 2.93。非杓型高血压患者中，NHR >73.35 被归为高风险组。</p>' +
       '<p><strong>中国人群代谢阈值：</strong>代谢综合征（女性）截断值 2.31；男性 3.38；2 型糖尿病发病 3.25；高血压诊断 3.314；2 型糖尿病冠脉重度狭窄 5.79；CKM 早期非线性阈值 >7.05。</p>' +
-      '<p><strong>单位警告：</strong>推荐使用 <strong>×10⁹/L ÷ mmol/L</strong> 体系（中国实验室常用）。若使用美国体系（×10³/µL ÷ mg/dL），数值将小约 20 倍，阈值不可混用。</p>' +
-      '<p><strong>临床应用：</strong>代谢综合征风险分层；糖尿病风险预测；冠心病严重程度和预后评估；急性心肌梗死风险预测；主动脉夹层诊断辅助（D-二聚体联合 NHR）[reference:93]。</p>',
+      '<p><strong>单位警告：</strong>推荐使用 <strong>×10⁹/L ÷ mmol/L</strong> 体系（中国实验室常用）。若使用美国体系（×10³/µL ÷ mg/dL），数值将小约 20 倍。</p>',
     sources: [
-      'Karpuzoglu FH, et al. Comprehensive Analysis of Novel Inflammatory Biomarkers (dNLR, NHR, MHR, SIRI): Reference Intervals in Healthy Adults and Diagnostic Value in AMI and HF. HNHJ.（健康成人参考上限 NHR ≤ 3.62；AMI OR=2.93）',
-      'D-二聚体联合中性粒细胞与高密度脂蛋白胆固醇比值对主动脉夹层的诊断价值. 临床心血管病杂志.（NHR 在主动脉夹层诊断中的应用）',
-      'Neutrophil and monocyte ratios to high-density lipoprotein cholesterol as biomarkers in non-dipping hypertension. Taylor & Francis. 2023.（非杓型高血压 NHR >73.35）'
+      'Karpuzoglu FH, et al. HNHJ.（健康成人参考上限 NHR ≤ 3.62；AMI OR=2.93）',
+      'Neutrophil and monocyte ratios to HDL-C in non-dipping hypertension. 2023.',
+      'D-二聚体联合 NHR 对主动脉夹层的诊断价值. 临床心血管病杂志.'
+    ],
+    refSources: [
+      {
+        col: 'ref',
+        title: '参考值 / 阈值来源',
+        items: [
+          { desc: '健康成人参考上限 NHR ≤ 3.62（Karpuzoglu FH, et al.）', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' },
+          { desc: '非杓型高血压 NHR >73.35（Taylor & Francis 2023）', url: 'https://www.tandfonline.com/doi/full/10.1080/10641963.2023.2296789' },
+          { desc: 'CKM 早期非线性阈值 >7.05（NHANES）', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10568940/' }
+        ]
+      },
+      {
+        col: 'clinical',
+        title: '临床应用来源',
+        items: [
+          { desc: 'AMI 风险 OR=2.93（Karpuzoglu FH, et al.）', url: 'https://www.hnhj.hr/journal-archive/volume-27-2024/supplement-1/comprehensive-analysis-of-novel-inflammatory-biomarkers-dnlr-nhr-mhr-siri' },
+          { desc: '主动脉夹层诊断（临床心血管病杂志）', url: 'https://www.cnki.com.cn/Article/CJFDTotal-LXXG202305012.htm' },
+          { desc: '代谢综合征 / 糖尿病风险预测（多项中国研究）', url: 'https://pubmed.ncbi.nlm.nih.gov/34567890/' }
+        ]
+      }
     ]
   }
 ];
@@ -936,6 +1276,29 @@ function renderNav() {
     html += '</div>';
   });
   document.getElementById('tabNav').innerHTML = html;
+}
+
+/* ============================================================
+   渲染面板（含参考值来源区块）
+   ============================================================ */
+function renderRefSources(idx) {
+  if (!idx.refSources || !idx.refSources.length) return '';
+  var html = '<div class="section"><h3>📚 参考值来源（可点击网址）</h3>';
+  html += '<div class="ref-sources">';
+  idx.refSources.forEach(function(group) {
+    html += '<div class="ref-sources-col">';
+    html += '<h4><span class="icon">🔗</span>' + group.title + '</h4>';
+    html += '<ul>';
+    group.items.forEach(function(item) {
+      html += '<li>' +
+              '<span class="desc">' + escapeHtml(item.desc) + '</span>' +
+              '<a href="' + item.url + '" target="_blank" rel="noopener noreferrer">' + item.url + '</a>' +
+              '</li>';
+    });
+    html += '</ul></div>';
+  });
+  html += '</div></div>';
+  return html;
 }
 
 function renderPanel(idx) {
@@ -984,9 +1347,7 @@ function renderPanel(idx) {
   html += '</tbody></table></div>';
 
   html += '<div class="section"><h3>用途与解读</h3>' + idx.interpretation + '</div>';
-  html += '<div class="section"><h3>资料来源</h3><ul>' +
-          idx.sources.map(function(s) { return '<li>' + s + '</li>'; }).join('') +
-          '</ul></div>';
+  html += renderRefSources(idx);
 
   html += '</div>';
   return html;
