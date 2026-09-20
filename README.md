@@ -435,7 +435,7 @@ Samiux
 
 - [代谢 & 心血管计算器](/html/Metabolic_CV_Calculator.html)       
 - [代谢评估 RW-apoB · LMHR/HMHR · hs-CRP](/html/Metabolism_Analysis.html)      
-- [炎症与心血管风险复合指数计算器](/html/Inflammatory_CVD_calculator.html)       
+- [炎症与心血管风险复合指数计算器](/html/Inflammatory_CVD_calculator.html) (CTI 及 RCII 的参考价值不大，可以忽略)      
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
 
