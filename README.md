@@ -412,6 +412,10 @@ __关注肠道健康、口腔卫生、胰岛素抵抗、慢性炎症、营养摄
 
 睡眠不足或熬夜确实会令身体状况出现很大的变化，至少会反映在你的体重/脂肪率上，这些数据会在你睡眠不足或熬夜后出现，体重/脂肪率会大幅升高；但当只要你在补足睡眠后，你的体重/脂肪率就回復先前的状况了，这样你的体重/脂肪率就像过山车一样。就此，我相信体重/脂肪率在短期内大幅变化有可能与睡眠不足或睡眠质素有关联。
 
+### 
+
+若果患有脂肪肝的你，当脂肪肝有所或大幅改善后，肝功能指数均已下降到正常范围或更低时 (ALT，AST，GGT 等)，其他的指数都是正常的，但唯独是白细胞及血小板出现了轻微的偏低。这有可能是慢性炎症大幅减少令白细胞和血小板的免疫作用进入休止期，理论上是代谢系统及身体均正常及健康的。[25]
+
 Samiux         
 二零二六年六月十六日，中国香港         
 更新 二零二六年六月廿一日，中国香港      
@@ -439,6 +443,7 @@ Samiux
 更新 二零二六年九月十二日，中国香港      
 更新 二零二六年九月十三日，中国香港      
 更新 二零二六年九月廿二日，中国香港      
+更新 二零二六年九月廿五日，中国香港      
 
 ## 计算器
 
@@ -556,5 +561,6 @@ Samiux
 - [22] [Reverse Heart Disease in 1 Year (Proven in RCT) (YouTube) - Nick Norwitz MD PhD](https://www.youtube.com/watch?v=uG166N0pVy0)       
 - [23] [Lp(a) Isn't a Disease — It's Your Body's Street Sweeper (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=fQuSs_iggq4)      
 - [24] [Is LOW Lp(a) Dangerous? What They Don't Tell You (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=7cRuUgdG6u8)      
+- [25] [Effects of an Eight Week Very Low-Calorie Ketogenic Diet (VLCKD) on White Blood Cell and Platelet Counts in Relation to Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in Subjects with Overweight and Obesity](https://pmc.ncbi.nlm.nih.gov/articles/PMC10610501/)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
