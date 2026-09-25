@@ -562,5 +562,6 @@ Samiux
 - [23] [Lp(a) Isn't a Disease — It's Your Body's Street Sweeper (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=fQuSs_iggq4)      
 - [24] [Is LOW Lp(a) Dangerous? What They Don't Tell You (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=7cRuUgdG6u8)      
 - [25] [Effects of an Eight Week Very Low-Calorie Ketogenic Diet (VLCKD) on White Blood Cell and Platelet Counts in Relation to Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in Subjects with Overweight and Obesity](https://pmc.ncbi.nlm.nih.gov/articles/PMC10610501/)        
+- [26] [Can a Ketogenic/Carnivore Diet Fix Chronic Thiamine Deficiency? Clinical Signs & Cases (YouTube) - Elliot Overton](https://www.youtube.com/watch?v=hGo-ZX5E-5M)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
