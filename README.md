@@ -518,6 +518,7 @@ Samiux
 - [生酮饮食让肝脏脂肪减少67%，7大误区如何避免 - 瘦龙健康](http://www.chinalowcarb.com/misconceptions-about-the-keto-diet/)      
 - [Statins INcREASE Artery Plaque (Studies Prove It) (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=uhOwdGCLXro)      
 - [The Statin “Stable Plaque” Myth – Hard Plaque Is NOT “Good Plaque” (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=S4OfD4AOLeg)      
+- [深度 - 非酒精性脂肪肝到纤维化要多久？- 草根的日常 (微信公众号)](https://mp.weixin.qq.com/s/Eq7nhrsZSAqAr8wUrMperQ)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
