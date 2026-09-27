@@ -519,6 +519,9 @@ Samiux
 - [Statins INcREASE Artery Plaque (Studies Prove It) (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=uhOwdGCLXro)      
 - [The Statin “Stable Plaque” Myth – Hard Plaque Is NOT “Good Plaque” (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=S4OfD4AOLeg)      
 - [深度 - 非酒精性脂肪肝到纤维化要多久？- 草根的日常 (微信公众号)](https://mp.weixin.qq.com/s/Eq7nhrsZSAqAr8wUrMperQ)       
+- [Dr. Jeremy London’s HEART ATTACK—What REALLY Caused It? (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=C5AKf7NDhKU)       
+- [A Cardiovascular Surgeon Had a Heart Attack Here's What His Own Tests Missed (YouTube) - Mark Hyman MD](https://www.youtube.com/watch?v=o-yNcIrfamk)       
+- [Heart Surgeon: NEW Science To Stop Plaque & Unclog Your Arteries (YouTube) - The Primal Podcast](https://www.youtube.com/watch?v=uFWFNDFTRn0)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
