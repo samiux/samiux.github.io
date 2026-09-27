@@ -463,6 +463,13 @@ Samiux
 - [健康个案 2026 (一) - 真正代谢健康的人的指标](/health_case_study_20260725.md)       
 - [健康个案 2026 (二) - 惊心动魄的一幕](/health_case_study_20260727.md)        
 
+## Guides
+
+- [Guide to Alanine Aminotransferase (ALT)](https://www.levels.com/blog/guide_to_alt)          
+- [Guide to Aspartate Aminotransferase (AST)](https://www.levels.com/blog/guide_to_ast)       
+- [Guide to Gamma-Glutamyl Transferase (GGT)](https://www.levels.com/blog/guide_to_ggt)       
+- [Guide to Platelet Count](https://www.levels.com/blog/guide_to_platelet_count)      
+
 ## 国内外专家解疑
 
 - [Decoding Atherosclerosis: The clotting theory and seed oil toxicity (YouTube) - Dr Paul Mason - FOM23](https://www.youtube.com/watch?v=XFFT4C1OcPY)        
