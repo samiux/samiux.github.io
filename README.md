@@ -344,7 +344,7 @@ __关注肠道健康、口腔卫生、胰岛素抵抗、慢性炎症、营养摄
 
 ### 生酮饮食者和纯肉饮食者的维生素补充
 
-生酮饮食者强烈建议补充/增加摄取维生素 B 族及维生素 C。而纯肉饮食者亦强烈建议补充/增加摄取维生素 B1、叶酸及维生素 C。[26] 另外镁亦在生酮饮食群中相对缺乏是比较常见的。
+生酮饮食者强烈建议补充/增加摄取维生素 B 族及维生素 C。而纯肉饮食者亦强烈建议补充/增加摄取维生素 B1、叶酸及维生素 C。[26]  另外镁亦在生酮饮食群中相对缺乏是比较常见的。
 
 ## 饮食倡议
 
@@ -578,5 +578,6 @@ Samiux
 - [24] [Is LOW Lp(a) Dangerous? What They Don't Tell You (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=7cRuUgdG6u8)      
 - [25] [Effects of an Eight Week Very Low-Calorie Ketogenic Diet (VLCKD) on White Blood Cell and Platelet Counts in Relation to Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in Subjects with Overweight and Obesity](https://pmc.ncbi.nlm.nih.gov/articles/PMC10610501/)        
 - [26] [Can a Ketogenic/Carnivore Diet Fix Chronic Thiamine Deficiency? Clinical Signs & Cases (YouTube) - Elliot Overton](https://www.youtube.com/watch?v=hGo-ZX5E-5M)        
+- [27] [Myths and Facts Regarding Low-Carbohydrate Diets PMCID: PMC11944661  PMID: 40292478](https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
