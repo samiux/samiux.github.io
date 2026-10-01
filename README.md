@@ -3,6 +3,8 @@
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
 
+# __要是没有了 77 年前先烈的牺牲和贡献，那有今天的安定和繁荣。__      
+
 ### 声明：以下内容并不构成为任何的医疗及营养建议，你需要自行判断与取捨，这是你的权利。
 
 ### 所有图片及视频均取自网络资源，版权属于原作者所有。      
