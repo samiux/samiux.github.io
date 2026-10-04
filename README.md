@@ -236,7 +236,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 奶类含有乳糖，同样也是糖类。另外，你有所不知的是，其实牛奶对一些人群是会引致慢性炎症的。奇怪的是，在地球上只有婴童期后的人类仍会饮用奶类 (工业合成的奶及其他动物的奶)。
 
-基本上，所有植物都有不同程度的毒性，目的是保护着它们自己免于被伤害或被动物食用。植物中的植固醇是会破坏红血球/血管壁的，其结构虽然与胆固醇几乎完全一样，身体是分不清它们是谁的。但其代谢途径是完全不一样的，它会影响身体对胆固醇的利用，进而影响身体健康。另外，几乎所有植物都有草酸，它对人类的身体是有害的。纤维会在肠道引起气体，亦会引致腹胀，人类是不能消化及代谢它的。我们可以思考一下为何母乳中是没有纤维的？对大部份的人来说，其身体是不需要纤维的。
+基本上，所有植物都有不同程度的毒性，目的是保护着它们自己免于被伤害或被动物食用。植物中的植固醇是会破坏红血球/血管壁的，其结构虽然与胆固醇几乎完全一样，身体是分不清它们是谁的。但其代谢途径是完全不一样的，它会影响身体对胆固醇的利用，进而影响身体健康。[28] 另外，除了除草剂和其他的农药外，几乎所有植物都有草酸和凝集素，它对人类的身体是有害的。纤维会在肠道引起气体，亦会引致腹胀，人类是不能消化及代谢它的。我们可以思考一下为何母乳中是没有纤维的？对大部份的人来说，其身体是不需要纤维的。
 
 ![纤维与肠道健康](/images/health/2026/dietary_fibre.png "纤维与肠道健康")       
 
@@ -452,6 +452,7 @@ Samiux
 更新 二零二六年九月十三日，中国香港      
 更新 二零二六年九月廿二日，中国香港      
 更新 二零二六年九月廿五日，中国香港      
+更新 二零二六年十月四日，中国香港      
 
 ## 计算器
 
@@ -583,5 +584,6 @@ Samiux
 - [25] [Effects of an Eight Week Very Low-Calorie Ketogenic Diet (VLCKD) on White Blood Cell and Platelet Counts in Relation to Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) in Subjects with Overweight and Obesity](https://pmc.ncbi.nlm.nih.gov/articles/PMC10610501/)        
 - [26] [Can a Ketogenic/Carnivore Diet Fix Chronic Thiamine Deficiency? Clinical Signs & Cases (YouTube) - Elliot Overton](https://www.youtube.com/watch?v=hGo-ZX5E-5M)        
 - [27] [Myths and Facts Regarding Low-Carbohydrate Diets PMCID: PMC11944661  PMID: 40292478](https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/)       
+- [28] [Olive Oil Is NOT Healthy for Everyone?! Your Genes Decide (YouTube) - Dr. Anthony Jay](https://m.youtube.com/watch?v=Trse5utcTm8)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
