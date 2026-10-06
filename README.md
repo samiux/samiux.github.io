@@ -110,7 +110,7 @@ HDL 的偏低和 TG 的偏高是显示了饮食方面出了问题，主要问题
 
 ### 高敏 C 反应蛋白 (hs-CRP)
 
-hs-CRP 值越高就代表了身体有越强的慢性炎症，代谢疾病的风险越高 (包括心血管疾病)。慢性炎症是各种不同类型代谢疾病的最好的培养环境。经过适当的低碳饮食可以极大的降低其数值，改善了慢性的炎症，从而改善其他的慢性疾病。
+hs-CRP 值越高就代表了身体有越强的慢性炎症，代谢疾病的风险越高 (包括心血管疾病)。慢性炎症是各种不同类型代谢疾病的最好的培养环境。经过适当的低碳饮食可以极大的降低其数值，改善了慢性的炎症，从而改善其他的慢性疾病。[29]
 
 ### 颈动脉血管壁厚度超声波 (CIMT)
 
@@ -585,5 +585,6 @@ Samiux
 - [26] [Can a Ketogenic/Carnivore Diet Fix Chronic Thiamine Deficiency? Clinical Signs & Cases (YouTube) - Elliot Overton](https://www.youtube.com/watch?v=hGo-ZX5E-5M)        
 - [27] [Myths and Facts Regarding Low-Carbohydrate Diets PMCID: PMC11944661  PMID: 40292478](https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/)       
 - [28] [Olive Oil Is NOT Healthy for Everyone?! Your Genes Decide (YouTube) - Dr. Anthony Jay](https://m.youtube.com/watch?v=Trse5utcTm8)        
+- [29] [hs-CRP 超敏C反应蛋白](https://mp.weixin.qq.com/s/L7rcj1TQBclrXyTjLuo9Rw)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
