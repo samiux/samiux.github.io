@@ -120,7 +120,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 ### 空腹胰岛素及胰岛素抵抗指数 (HOMA-IR)
 
-空腹胰岛素和 HOMA-IR 的检测是判断是否有胰岛素抵抗的最有效的方法，尤其是那些血糖及 HbA1c 均为正常的人群更有效地筛查出患有早期的糖尿病的可能性。胰岛素抵抗的形成主要是因为糖类、碳水化合物等摄取过量而引起的。
+空腹胰岛素和 HOMA-IR 的检测是判断是否有胰岛素抵抗的最有效的方法，尤其是那些血糖及 HbA1c 均为正常的人群更有效地筛查出患有早期的糖尿病的可能性。胰岛素抵抗的形成主要是因为糖类、碳水化合物等摄取过量而引起的。[30]
 
 ![HOMA-IR 的思维图](/images/health/2026/HOMA-IR_MindMap.webp "HOMA-IR 的思维图")       
 
@@ -587,5 +587,6 @@ Samiux
 - [27] [Myths and Facts Regarding Low-Carbohydrate Diets PMCID: PMC11944661  PMID: 40292478](https://pmc.ncbi.nlm.nih.gov/articles/PMC11944661/)       
 - [28] [Olive Oil Is NOT Healthy for Everyone?! Your Genes Decide (YouTube) - Dr. Anthony Jay](https://m.youtube.com/watch?v=Trse5utcTm8)        
 - [29] [hs-CRP 超敏C反应蛋白](https://mp.weixin.qq.com/s/L7rcj1TQBclrXyTjLuo9Rw)        
+- [30] [Dr. Ted Naiman - Insulin Resistance (YouTube) - Low Carb Down Under](https://www.youtube.com/watch?v=Jd8QFD5Ht18)        
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
