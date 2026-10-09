@@ -478,8 +478,7 @@ Samiux
 ## 细说肥胖
 
 - [《一日兩餐》唔使計卡路里、唔使戒口！只改「進食次數」竟然會變燃脂體質？ (YouTube) - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=Ft94k71uc5w)           
-- [How to Burn Fat with Intermittent Fasting? (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=Fyl34pWsi4Q)           
-- [星期日檔案 - 半數港人過重或肥胖　肥胖成都市慢性病 (YouTube) - 無綫新聞 TVB News](https://www.youtube.com/watch?v=wD_njweqVvw)            
+- [How to Burn Fat with Intermittent Fasting? (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=Fyl34pWsi4Q)              
 
 ## 国内外专家解疑
 
