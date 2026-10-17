@@ -547,6 +547,7 @@ Samiux
 - [Simon Hill Just EXPOSED the CCTA Scan Problem (1,015% Difference!) (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=LRtLBkTmLTY)          
 - [Fat Loss Is the Most Boring Thing Keto Does - Dr. David Harper (YouTube)](https://www.youtube.com/watch?v=A5f80x48LaQ)        
 - [How to Reverse Osteoarthritis: Dr. Paul Mason's Guide to Joint Health (YouTube) - CarnivoreTribe](https://www.youtube.com/watch?v=fP29NsZExGs)       
+- [曾嶔元 精準醫療權威醫師【早安健康 × 樂活人物】 (YouTube)](https://www.youtube.com/watch?v=6tVXgxAH8U8)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol (YouTube)](https://www.youtube.com/@FeldmanProtocol)      
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
