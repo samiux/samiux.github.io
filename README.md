@@ -546,7 +546,9 @@ Samiux
 - [Heart Surgeon: NEW Science To Stop Plaque & Unclog Your Arteries (YouTube) - The Primal Podcast](https://www.youtube.com/watch?v=uFWFNDFTRn0)       
 - [Simon Hill Just EXPOSED the CCTA Scan Problem (1,015% Difference!) (YouTube) - Dr. Anthony Jay](https://www.youtube.com/watch?v=LRtLBkTmLTY)          
 - [Fat Loss Is the Most Boring Thing Keto Does - Dr. David Harper (YouTube)](https://www.youtube.com/watch?v=A5f80x48LaQ)        
+- [How to Reverse Osteoarthritis: Dr. Paul Mason's Guide to Joint Health (YouTube) - CarnivoreTribe](https://www.youtube.com/watch?v=fP29NsZExGs)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
+- [The Feldman Protocol (YouTube)](https://www.youtube.com/@FeldmanProtocol)      
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
 
 ## 纪录片 (油管视频，英语)
