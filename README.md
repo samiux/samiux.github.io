@@ -481,6 +481,7 @@ Samiux
 
 ## 细说肥胖
 
+- [Decoding Insulin Resistance (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=_O7iapU1c-E)      
 - [《一日兩餐》唔使計卡路里、唔使戒口！只改「進食次數」竟然會變燃脂體質？ (YouTube) - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=Ft94k71uc5w)           
 - [How to Burn Fat with Intermittent Fasting? (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=Fyl34pWsi4Q)              
 - [Is Insulin the Culprit Behind Weight Gain? How Intermittent Fasting Burns Fat and Why You Should (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=ieKciZhON_Q)      
