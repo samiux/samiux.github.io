@@ -481,6 +481,7 @@ Samiux
 
 ## 细说肥胖
 
+- [Insulin Expert - Dr Unwin : Rice, Bread & Potatoes Spike Blood Sugar Without You Knowing (YouTube) - The Primal Podcast](https://www.youtube.com/watch?v=gggzpmGC61U)       
 - [Decoding Insulin Resistance (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=_O7iapU1c-E)      
 - [《一日兩餐》唔使計卡路里、唔使戒口！只改「進食次數」竟然會變燃脂體質？ (YouTube) - 暢銷書精讀班 (廣東話讀書會)](https://www.youtube.com/watch?v=Ft94k71uc5w)           
 - [How to Burn Fat with Intermittent Fasting? (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=Fyl34pWsi4Q)              
@@ -550,6 +551,7 @@ Samiux
 - [How to Reverse Osteoarthritis: Dr. Paul Mason's Guide to Joint Health (YouTube) - CarnivoreTribe](https://www.youtube.com/watch?v=fP29NsZExGs)       
 - [曾嶔元 精準醫療權威醫師【早安健康 × 樂活人物】 (YouTube)](https://www.youtube.com/watch?v=6tVXgxAH8U8)       
 - [Decoding Insulin Resistance (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=_O7iapU1c-E)         
+- [Insulin Expert - Dr Unwin : Rice, Bread & Potatoes Spike Blood Sugar Without You Knowing (YouTube) - The Primal Podcast](https://www.youtube.com/watch?v=gggzpmGC61U)       
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol (YouTube)](https://www.youtube.com/@FeldmanProtocol)      
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
