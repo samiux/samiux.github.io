@@ -1,0 +1,1960 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>间歇性断食追踪器</title>
+<style>
+  :root{
+    --accent:#0d9488; --accent2:#6366f1; --danger:#e11d48;
+    --bg:#f1f5f9; --card:#ffffff; --border:#e2e8f0; --muted:#64748b;
+    --ink:#0f172a;
+  }
+  *{box-sizing:border-box}
+  [hidden]{display:none !important}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,"Segoe UI","Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .topbar{
+    display:flex;align-items:center;gap:12px;flex-wrap:wrap;
+    padding:10px 16px;background:#0f172a;color:#fff;
+    position:sticky;top:0;z-index:50;
+  }
+  .brand{font-weight:700;font-size:17px;letter-spacing:.5px}
+  .spacer{flex:1}
+  .userbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .userbar select,.userbar input{
+    padding:7px 10px;border-radius:9px;border:1px solid #334155;
+    background:#1e293b;color:#fff;font-size:13px;outline:none;
+  }
+  .userbar input{width:130px}
+  .userbar button{
+    padding:7px 12px;border-radius:9px;border:none;cursor:pointer;
+    background:var(--accent);color:#fff;font-size:13px;font-weight:600;
+  }
+  .db-indicator{
+    font-size:12px;padding:5px 10px;border-radius:9px;
+    background:#1e293b;color:#cbd5e1;display:inline-flex;align-items:center;gap:6px;
+    cursor:pointer;border:1px solid #334155;
+  }
+  .db-indicator.linked{background:#064e3b;color:#6ee7b7;border-color:#065f46}
+  .db-indicator .dot{width:8px;height:8px;border-radius:50%;background:#94a3b8}
+  .db-indicator.linked .dot{background:#34d399}
+  .db-indicator.dirty .dot{background:#fbbf24}
+  .tabs{
+    display:flex;gap:6px;padding:10px 16px;overflow-x:auto;
+    background:#0f172a;position:sticky;top:53px;z-index:49;
+  }
+  .tab{
+    padding:8px 16px;border-radius:10px;border:none;cursor:pointer;
+    background:#1e293b;color:#cbd5e1;font-size:14px;white-space:nowrap;
+    transition:.15s;
+  }
+  .tab.active{background:var(--accent);color:#fff;font-weight:600}
+  main{max-width:1080px;margin:0 auto;padding:16px 16px 60px}
+  .card{
+    background:var(--card);border-radius:16px;padding:16px 18px;
+    box-shadow:0 1px 3px rgba(15,23,42,.07);margin-bottom:16px;
+  }
+  .card h2{margin:0 0 12px;font-size:18px}
+  .card h3{margin:0 0 10px;font-size:15px;color:#334155}
+  .muted{color:var(--muted);font-size:13px}
+  .empty{text-align:center;padding:38px 16px;color:var(--muted)}
+  .field{margin-bottom:12px}
+  .field label{display:block;font-size:13px;color:#475569;margin-bottom:5px;font-weight:600}
+  input[type=text],input[type=number],input[type=search],input[type=date],input[type=time],
+  input[type=datetime-local],select,textarea{
+    width:100%;padding:9px 11px;border-radius:10px;border:1px solid var(--border);
+    background:#fff;font-size:14px;font-family:inherit;color:var(--ink);outline:none;
+  }
+  input:focus,select:focus,textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(13,148,136,.12)}
+  textarea{resize:vertical}
+  .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .form-grid .full{grid-column:1/-1}
+  @media(max-width:640px){.form-grid{grid-template-columns:1fr}}
+  .btn-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}
+  .btn{
+    padding:9px 15px;border-radius:10px;border:1px solid var(--border);background:#fff;
+    cursor:pointer;font-size:14px;font-family:inherit;color:var(--ink);
+    transition:.15s;display:inline-flex;align-items:center;gap:6px;
+  }
+  .btn:hover{background:#f8fafc}
+  .btn:disabled{opacity:.5;cursor:not-allowed}
+  .btn.primary{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:600}
+  .btn.primary:hover{background:#0f766e}
+  .btn.danger{color:var(--danger);border-color:#fecdd3}
+  .btn.danger:hover{background:#fff1f2}
+  .btn.small{padding:6px 12px;font-size:13px}
+  .plan-chips{display:flex;flex-wrap:wrap;gap:7px}
+  .chip{
+    padding:7px 14px;border-radius:999px;border:1px solid var(--border);background:#fff;
+    cursor:pointer;font-size:13px;font-family:inherit;color:#334155;transition:.15s;
+  }
+  .chip:hover{border-color:var(--accent)}
+  .chip.active{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:600}
+  .hint{font-size:13px;color:var(--muted);margin:8px 0 12px}
+  .hint b{color:var(--accent)}
+  .timer-card{text-align:center}
+  .timer-head{display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:8px}
+  .badge{
+    display:inline-block;padding:4px 12px;border-radius:999px;
+    background:#ccfbf1;color:#0f766e;font-size:13px;font-weight:700;
+  }
+  .pill{padding:4px 12px;border-radius:999px;font-size:12px;font-weight:700}
+  .pill.ongoing{background:#dbeafe;color:#1d4ed8}
+  .pill.completed{background:#dcfce7;color:#15803d}
+  .pill.early{background:#fee2e2;color:#b91c1c}
+  .big-clock{
+    font-size:clamp(38px,10vw,64px);font-weight:800;letter-spacing:2px;
+    font-variant-numeric:tabular-nums;color:var(--ink);margin:6px 0 10px;
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  }
+  .progress{height:14px;border-radius:999px;background:#e2e8f0;overflow:hidden;margin:0 auto 6px;max-width:640px}
+  .progress-bar{height:100%;width:0;border-radius:999px;background:linear-gradient(90deg,#14b8a6,#0ea5e9);transition:width .6s ease}
+  .progress-bar.over{background:linear-gradient(90deg,#22c55e,#84cc16)}
+  .timer-meta{
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+    gap:10px;margin:16px 0;text-align:left;
+  }
+  .timer-meta div{background:#f8fafc;border-radius:12px;padding:10px 12px}
+  .timer-meta span{display:block;font-size:12px;color:var(--muted);margin-bottom:3px}
+  .timer-meta b{font-size:14px;font-variant-numeric:tabular-nums}
+  .timer-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+  .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .toolbar input[type=search]{flex:1;min-width:180px}
+  .toolbar select{width:auto;min-width:120px}
+  .rec-card{
+    background:#fff;border-radius:14px;padding:14px 16px;margin-bottom:12px;
+    box-shadow:0 1px 3px rgba(15,23,42,.07);border-left:4px solid var(--accent);
+  }
+  .rec-top{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
+  .rec-dur{font-weight:800;color:var(--accent);margin-left:auto;font-variant-numeric:tabular-nums}
+  .rec-time{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .rec-text{margin-top:8px;font-size:14px;line-height:1.55;white-space:pre-wrap;word-break:break-word}
+  .rec-imgs{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+  .rec-imgs img{width:74px;height:74px;object-fit:cover;border-radius:10px;cursor:pointer;border:1px solid var(--border)}
+  .rec-actions{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+  .rec-actions button{
+    padding:6px 12px;border-radius:8px;border:1px solid var(--border);background:#fff;
+    cursor:pointer;font-size:13px;font-family:inherit;
+  }
+  .rec-actions button:hover{background:#f8fafc}
+  .rec-actions .del{color:var(--danger);border-color:#fecdd3}
+  /* 子记录列表 */
+  .entries{display:flex;flex-direction:column;gap:10px;margin-top:10px}
+  .entry{
+    background:#f8fafc;border-radius:12px;padding:10px 12px;border:1px solid var(--border);
+    font-size:13.5px;
+  }
+  .entry-head{
+    display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:6px;
+    color:#334155;font-weight:600;
+  }
+  .entry-head .tag{
+    background:#e0f2fe;color:#0369a1;border-radius:8px;padding:2px 8px;font-size:11.5px;font-weight:700;
+  }
+  .entry-metrics{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+  .entry-metrics span{background:#fff;border:1px solid var(--border);border-radius:8px;padding:3px 8px;font-size:12px}
+  .entry-text{margin-top:6px;white-space:pre-wrap;word-break:break-word;color:#1e293b}
+  .entry-imgs{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+  .entry-imgs img{width:56px;height:56px;object-fit:cover;border-radius:8px;border:1px solid var(--border);cursor:pointer}
+  /* 日历 */
+  .cal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+  .cal-head h2{margin:0}
+  .cal-nav{display:flex;gap:8px;align-items:center}
+  .cal-nav button{
+    width:36px;height:36px;border-radius:10px;border:1px solid var(--border);
+    background:#fff;cursor:pointer;font-size:16px;
+  }
+  .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+  .cal-dow{text-align:center;font-size:12px;color:var(--muted);font-weight:700;padding:4px 0}
+  .cal-cell{
+    min-height:64px;border-radius:10px;background:#f8fafc;padding:6px;
+    display:flex;flex-direction:column;gap:3px;cursor:pointer;
+    border:1px solid transparent;transition:.15s;
+  }
+  .cal-cell:hover{background:#eef2f7}
+  .cal-cell.other{background:transparent;cursor:default;color:#cbd5e1}
+  .cal-cell.today{border-color:var(--accent)}
+  .cal-cell.sel{background:#ccfbf1;border-color:var(--accent)}
+  .cal-cell.has{background:#e0f2fe}
+  .cal-day{font-size:13px;font-weight:700}
+  .cal-badge{font-size:10.5px;color:#0369a1;background:#bae6fd;border-radius:6px;padding:2px 4px;align-self:flex-start}
+  /* 统计 */
+  .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:16px}
+  .stat{
+    background:#fff;border-radius:14px;padding:14px;box-shadow:0 1px 3px rgba(15,23,42,.07);
+    text-align:center;
+  }
+  .stat .v{font-size:22px;font-weight:800;color:var(--accent);font-variant-numeric:tabular-nums}
+  .stat .l{font-size:12px;color:var(--muted);margin-top:4px}
+  canvas.chart{width:100%;height:220px;display:block}
+  /* Modal */
+  .modal-root{
+    position:fixed;inset:0;background:rgba(15,23,42,.5);z-index:200;
+    display:flex;align-items:center;justify-content:center;padding:16px;
+  }
+  .modal{
+    background:#fff;border-radius:18px;width:100%;max-width:780px;max-height:92vh;
+    display:flex;flex-direction:column;overflow:hidden;
+  }
+  .modal-head{display:flex;align-items:center;justify-content:space-between;padding:14px 18px;border-bottom:1px solid var(--border)}
+  .modal-head h3{margin:0;font-size:17px}
+  .modal-head button{border:none;background:none;font-size:20px;cursor:pointer;color:var(--muted);padding:0 4px}
+  .modal-body{padding:16px 18px;overflow-y:auto;flex:1}
+  .modal-foot{display:flex;gap:8px;justify-content:flex-end;padding:12px 18px;border-top:1px solid var(--border);background:#f8fafc}
+  .image-list{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
+  .image-item{position:relative;width:96px}
+  .image-item img{width:96px;height:96px;object-fit:cover;border-radius:10px;border:1px solid var(--border);display:block}
+  .image-item select{font-size:11px;padding:3px 4px;margin-top:4px;border-radius:6px}
+  .image-item .rm{
+    position:absolute;top:-6px;right:-6px;width:22px;height:22px;border-radius:50%;
+    background:var(--danger);color:#fff;border:none;cursor:pointer;font-size:13px;line-height:1;
+  }
+  .lightbox{
+    position:fixed;inset:0;background:rgba(0,0,0,.85);z-index:300;
+    display:flex;align-items:center;justify-content:center;padding:20px;cursor:zoom-out;
+  }
+  .lightbox img{max-width:100%;max-height:100%;border-radius:10px}
+  textarea#jsonView{font-family:ui-monospace,Menlo,monospace;font-size:12px;line-height:1.5;background:#0f172a;color:#a5f3fc}
+  .day-detail{margin-top:16px}
+  .status-box{
+    display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+    padding:10px 14px;border-radius:12px;background:#f8fafc;
+    border:1px solid var(--border);font-size:13.5px;margin-top:12px;
+  }
+  .status-box.ok{background:#ecfdf5;border-color:#a7f3d0}
+  .status-box.warn{background:#fffbeb;border-color:#fde68a}
+  /* 24 小时制组合输入 */
+  .dt24{ display:flex;gap:6px;align-items:center; }
+  .dt24 input[type=date]{flex:0 0 auto;width:150px}
+  .dt24 input[type=time]{flex:0 0 auto;width:110px}
+  .dt24 .sep{color:var(--muted);font-size:13px}
+  /* Entry 编辑器 */
+  .entry-editor{
+    background:#f8fafc;border:1px solid var(--border);border-radius:14px;
+    padding:14px;margin-bottom:12px;
+  }
+  .entry-editor h4{
+    margin:0 0 10px;font-size:14px;color:#334155;display:flex;align-items:center;gap:8px;
+  }
+  .entry-editor h4 .tag{
+    background:#ccfbf1;color:#0f766e;border-radius:8px;padding:2px 8px;font-size:11.5px;font-weight:700;
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">⏱ 间歇性断食追踪器</div>
+  <div class="db-indicator" id="dbIndicator" data-action="open-db-tab" title="点击前往数据管理">
+    <span class="dot"></span><span id="dbIndicatorText">未连接硬盘</span>
+  </div>
+  <div class="spacer"></div>
+  <div class="userbar">
+    <select id="userSelect" title="选择使用者"></select>
+    <input id="nickInput" placeholder="输入 nickname" maxlength="24">
+    <button data-action="switch-user">切换 / 建立</button>
+  </div>
+</header>
+
+<nav class="tabs">
+  <button class="tab active" data-tab="timer">⏳ 断食</button>
+  <button class="tab" data-tab="records">📋 记录</button>
+  <button class="tab" data-tab="calendar">📅 日历</button>
+  <button class="tab" data-tab="stats">📊 统计</button>
+  <button class="tab" data-tab="data">💾 数据</button>
+</nav>
+
+<main>
+  <section id="tab-timer" class="pane"></section>
+  <section id="tab-records" class="pane" hidden></section>
+  <section id="tab-calendar" class="pane" hidden></section>
+  <section id="tab-stats" class="pane" hidden></section>
+  <section id="tab-data" class="pane" hidden></section>
+</main>
+
+<div id="modalRoot" class="modal-root" hidden>
+  <div class="modal">
+    <div class="modal-head">
+      <h3 id="modalTitle">记录</h3>
+      <button data-action="close-modal">✕</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+    <div class="modal-foot">
+      <button class="btn danger" data-action="delete-current" id="modalDelete" hidden>删除</button>
+      <button class="btn" data-action="close-modal">取消</button>
+      <button class="btn primary" data-action="save-record">保存</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* =========================================================
+   常量
+   ========================================================= */
+const LS_KEY = 'if_tracker_v1';
+const DB_FILENAME = 'fasting-data.json';
+
+const PLANS = [
+  {key:'12:12', label:'12:12', hours:12},
+  {key:'16:8',  label:'16:8',  hours:16},
+  {key:'20:4',  label:'20:4',  hours:20},
+  {key:'22:2',  label:'22:2',  hours:22},
+  {key:'23:1',  label:'23:1',  hours:23},
+  {key:'24h',   label:'24 小时', hours:24},
+  {key:'36h',   label:'36 小时', hours:36},
+  {key:'48h',   label:'48 小时', hours:48},
+  {key:'52h',   label:'52 小时', hours:52},
+  {key:'58h',   label:'58 小时', hours:58},
+  {key:'72h',   label:'72 小时', hours:72},
+  {key:'custom',label:'自定义', hours:null}
+];
+const PLAN_MAP = Object.fromEntries(PLANS.map(p => [p.key, p]));
+const IMG_CATS = ['丙酮','血糖','运动','其他'];
+
+/* =========================================================
+   工具
+   ========================================================= */
+const $  = (s, r=document) => r.querySelector(s);
+const $$ = (s, r=document) => Array.from(r.querySelectorAll(s));
+const pad = n => String(n).padStart(2,'0');
+const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2,8);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+function fmtDateTime(ts){
+  if(ts == null) return '—';
+  const d = new Date(ts);
+  return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+function fmtTime(ts){ const d = new Date(ts); return `${pad(d.getHours())}:${pad(d.getMinutes())}`; }
+function fmtDate(ts){ const d = new Date(ts); return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`; }
+function fmtMD(ts){ const d = new Date(ts); return `${pad(d.getMonth()+1)}/${pad(d.getDate())}`; }
+
+function toDateValue(ts){ const d = new Date(ts); return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`; }
+function toTimeValue(ts){ const d = new Date(ts); return `${pad(d.getHours())}:${pad(d.getMinutes())}`; }
+function combineDateTime(dateStr, timeStr){
+  if(!dateStr || !timeStr) return null;
+  const t = new Date(`${dateStr}T${timeStr}`).getTime();
+  return isNaN(t) ? null : t;
+}
+function fromLocalInput(v){
+  if(!v) return null;
+  const t = new Date(v).getTime();
+  return isNaN(t) ? null : t;
+}
+function fmtDuration(ms){
+  if(ms == null || isNaN(ms)) return '—';
+  const neg = ms < 0; ms = Math.abs(ms);
+  const h = Math.floor(ms/3600000), m = Math.floor(ms%3600000/60000), s = Math.floor(ms%60000/1000);
+  const str = h > 0 ? `${h} 小时 ${pad(m)} 分` : `${m} 分 ${pad(s)} 秒`;
+  return (neg?'-':'') + str;
+}
+function fmtDurShort(ms){
+  const h = ms/3600000;
+  if(h < 1) return Math.round(ms/60000) + ' 分';
+  return (Math.round(h*10)/10) + ' 小时';
+}
+function weekStart(ts){
+  const d = new Date(ts); d.setHours(0,0,0,0);
+  const dow = (d.getDay()+6)%7;
+  d.setDate(d.getDate()-dow);
+  return d.getTime();
+}
+
+/* =========================================================
+   状态
+   ========================================================= */
+function defaultData(){ return { version:1, currentUser:null, users:{} }; }
+
+/* =========================================================
+   本地硬盘 JSON 数据库
+   ========================================================= */
+const db = {
+  fileHandle: null,
+  dirHandle: null,
+  supported: typeof window.showDirectoryPicker === 'function',
+  dirty: false
+};
+
+async function chooseDatabaseFolder(){
+  if(!db.supported){
+    alert('你的浏览器不支持直接写入本地文件夹。\n\n建议：\n• 使用 Chrome / Edge\n• 或改用「导出 / 导入 JSON」手动管理数据');
+    return false;
+  }
+  try{
+    db.dirHandle = await window.showDirectoryPicker({ mode:'readwrite' });
+    db.fileHandle = await db.dirHandle.getFileHandle(DB_FILENAME, { create:true });
+
+    const file = await db.fileHandle.getFile();
+    if(file.size > 0){
+      const text = await file.text();
+      if(text.trim()){
+        try{
+          const parsed = JSON.parse(text);
+          if(parsed && typeof parsed.users === 'object'){
+            const useExisting = confirm(
+              `文件夹中已存在 ${DB_FILENAME}（${Math.round(file.size/1024)} KB）。\n\n` +
+              `按「确定」= 载入硬盘上的数据（覆盖目前画面内容）\n` +
+              `按「取消」= 保留目前数据并写回硬盘（覆盖硬盘文件）`
+            );
+            if(useExisting){
+              state.data = parsed;
+              if(!state.data.users) state.data.users = {};
+              migrateData();
+              $('#tab-records').dataset.built = '';
+            }
+          }
+        }catch(err){
+          if(!confirm('硬盘上的 JSON 格式无法解析。要改用目前数据覆盖它吗？')) return false;
+        }
+      }
+    }
+
+    await writeDatabase();
+    renderAll();
+    alert(`✅ 已连接本地数据库：\n${db.dirHandle.name}/${DB_FILENAME}\n\n之后所有变更都会自动写回此文件。`);
+    return true;
+  }catch(err){
+    if(err.name === 'AbortError') return false;
+    console.error(err);
+    alert('选择文件夹失败：' + err.message);
+    return false;
+  }
+}
+
+async function writeDatabase(){
+  if(!db.fileHandle){
+    db.dirty = true;
+    updateDbIndicator();
+    return false;
+  }
+  try{
+    const writable = await db.fileHandle.createWritable();
+    await writable.write(JSON.stringify(state.data, null, 2));
+    await writable.close();
+    db.dirty = false;
+    updateDbIndicator();
+    return true;
+  }catch(err){
+    console.error('写入失败', err);
+    db.dirty = true;
+    updateDbIndicator();
+    alert('写入本地文件失败：' + err.message + '\n请重新「连接文件夹」以取得权限。');
+    return false;
+  }
+}
+
+async function reloadFromDisk(){
+  if(!db.fileHandle){ alert('尚未连接本地数据库，请先选择文件夹。'); return; }
+  try{
+    const file = await db.fileHandle.getFile();
+    if(!file.size){ alert('文件是空的，没有可载入的数据。'); return; }
+    const parsed = JSON.parse(await file.text());
+    if(!parsed || typeof parsed.users !== 'object'){ alert('文件格式不正确（缺少 users）。'); return; }
+    if(!confirm('确定用硬盘上的 JSON 覆盖目前内存中的数据吗？')) return;
+    state.data = parsed;
+    if(!state.data.users) state.data.users = {};
+    migrateData();
+    $('#tab-records').dataset.built = '';
+    renderAll();
+    alert('✅ 已从硬盘重新载入。');
+  }catch(err){
+    alert('读取失败：' + err.message);
+  }
+}
+
+function unlinkDatabase(){
+  if(!db.fileHandle) return;
+  if(!confirm('解除连接后，数据不会再自动写入本地文件（只留在浏览器中）。\n之后可重新连接。确定吗？')) return;
+  db.fileHandle = null;
+  db.dirHandle = null;
+  db.dirty = true;
+  updateDbIndicator();
+  renderAll();
+}
+
+function updateDbIndicator(){
+  const el = $('#dbIndicator');
+  const txt = $('#dbIndicatorText');
+  if(!el || !txt) return;
+  el.classList.toggle('linked', !!db.fileHandle);
+  el.classList.toggle('dirty', !!db.fileHandle && db.dirty);
+  if(db.fileHandle){
+    txt.textContent = `硬盘：${db.dirHandle?.name || ''}/${DB_FILENAME}` + (db.dirty ? '（未写入）' : '');
+  }else if(db.supported){
+    txt.textContent = '未连接硬盘';
+  }else{
+    txt.textContent = '浏览器不支持硬盘写入';
+  }
+}
+
+/* 旧数据迁移 */
+function migrateData(){
+  if(!state.data || !state.data.users) return;
+  let changed = false;
+  for(const u of Object.values(state.data.users)){
+    (u.records || []).forEach(r => {
+      if(r.ketone != null && r.acetone == null){ r.acetone = r.ketone; changed = true; }
+      if('ketone' in r){ delete r.ketone; changed = true; }
+
+      if(!Array.isArray(r.entries)){
+        const hasData = (r.acetone != null && r.acetone !== '') ||
+                        (r.glucose != null && r.glucose !== '') ||
+                        (r.exercise && r.exercise.trim()) ||
+                        (r.feeling && r.feeling.trim()) ||
+                        (r.note && r.note.trim()) ||
+                        (Array.isArray(r.images) && r.images.length);
+        r.entries = hasData ? [{
+          id: uid(),
+          timestamp: r.startAt,
+          dateTime: r.recordDateTime || fmtDateTime(r.startAt),
+          acetone: r.acetone ?? null,
+          glucose: r.glucose ?? null,
+          exercise: r.exercise || '',
+          feeling: r.feeling || '',
+          note: r.note || '',
+          images: Array.isArray(r.images) ? r.images : []
+        }] : [];
+        changed = true;
+      } else {
+        r.entries.forEach(e => {
+          if(!e.id){ e.id = uid(); changed = true; }
+          if(e.timestamp == null && e.dateTime){
+            const t = new Date(e.dateTime.replace(' ', 'T')).getTime();
+            if(!isNaN(t)){ e.timestamp = t; changed = true; }
+          }
+          if(!e.dateTime && e.timestamp){ e.dateTime = fmtDateTime(e.timestamp); changed = true; }
+        });
+      }
+      ['acetone','glucose','exercise','feeling','note'].forEach(k => {
+        if(k in r){ delete r[k]; changed = true; }
+      });
+      if('images' in r && Array.isArray(r.entries)){ delete r.images; changed = true; }
+      if(!r.recordDateTime){ r.recordDateTime = fmtDateTime(r.createdAt || r.startAt); changed = true; }
+      if(!r.recordDate){ r.recordDate = fmtDate(r.createdAt || r.startAt); changed = true; }
+    });
+  }
+  if(changed) console.log('数据已迁移到 entries 多记录结构');
+}
+
+/* =========================================================
+   数据存取
+   ========================================================= */
+function loadData(){
+  try{
+    const raw = localStorage.getItem(LS_KEY);
+    if(raw){
+      const d = JSON.parse(raw);
+      if(d && typeof d === 'object' && d.users) return d;
+    }
+  }catch(e){ console.warn('localStorage 读取失败', e); }
+  return defaultData();
+}
+
+function saveData(){
+  try{
+    localStorage.setItem(LS_KEY, JSON.stringify(state.data));
+  }catch(e){
+    console.warn('localStorage 写入失败', e);
+  }
+  if(db.fileHandle){
+    writeDatabase();
+  }else{
+    db.dirty = true;
+    updateDbIndicator();
+  }
+  return true;
+}
+
+function currentUser(){
+  const n = state.data.currentUser;
+  return n ? (state.data.users[n] || null) : null;
+}
+
+function recordStatus(r, now = Date.now()){
+  if(!r.actualEndAt) return 'ongoing';
+  return (r.actualEndAt - r.startAt) >= (r.targetEndAt - r.startAt) ? 'completed' : 'early';
+}
+function statusText(s){
+  return { ongoing:'进行中', completed:'已达标', early:'提前结束' }[s] || s;
+}
+function recordDuration(r, now = Date.now()){
+  return (r.actualEndAt ?? now) - r.startAt;
+}
+
+function collectMeasurements(user){
+  const out = [];
+  (user.records || []).forEach(r => {
+    (r.entries || []).forEach(e => {
+      out.push({ rec: r, entry: e, ts: e.timestamp ?? r.startAt });
+    });
+  });
+  return out;
+}
+
+/* =========================================================
+   全局状态
+   ========================================================= */
+const state = {
+  data: loadData(),
+  tab: 'timer',
+  calMonth: new Date(new Date().getFullYear(), new Date().getMonth(), 1),
+  selectedDate: null,
+  editingId: null,
+  formEntries: [],
+  formPlan: '16:8',
+  timerFormPlan: '16:8',
+  recordFilter: { q:'', status:'all', sort:'desc' }
+};
+migrateData();
+
+/* =========================================================
+   渲染：使用者列
+   ========================================================= */
+function renderUserBar(){
+  const sel = $('#userSelect');
+  const names = Object.keys(state.data.users);
+  sel.innerHTML = names.length
+    ? names.map(u => `<option value="${esc(u)}" ${u===state.data.currentUser?'selected':''}>${esc(u)}</option>`).join('')
+    : '<option value="">（尚无使用者）</option>';
+}
+
+/* =========================================================
+   渲染：断食 / 计时器
+   ========================================================= */
+function renderTimer(){
+  const pane = $('#tab-timer');
+  const user = currentUser();
+  if(!user){
+    pane.innerHTML = `<div class="card empty">
+      <h2>👋 欢迎使用断食追踪器</h2>
+      <p class="muted">请在右上角输入 <b>nickname</b>，然后按「切换 / 建立」开始使用。<br>
+      建议先到「💾 数据」页连接一个本地文件夹，之后数据就会自动存成 <b>${DB_FILENAME}</b>。</p>
+    </div>`;
+    return;
+  }
+  const ongoing = user.records.find(r => !r.actualEndAt);
+  if(ongoing){
+    pane.innerHTML = timerActiveHTML(ongoing);
+    updateTimerLive();
+  }else{
+    pane.innerHTML = timerFormHTML();
+    bindTimerForm();
+    updateTargetPreview();
+  }
+}
+
+function timerFormHTML(){
+  const chips = PLANS.map(p =>
+    `<button type="button" class="chip ${state.timerFormPlan===p.key?'active':''}"
+      data-action="pick-timer-plan" data-plan="${p.key}">${p.label}</button>`).join('');
+  const now = Date.now();
+  const defHours = state.timerFormPlan === 'custom'
+      ? 16
+      : (PLAN_MAP[state.timerFormPlan]?.hours ?? 16);
+  return `<div class="card">
+    <h2>开始新的断食</h2>
+    <div class="field">
+      <label>选择方案</label>
+      <div class="plan-chips">${chips}</div>
+    </div>
+    <div class="form-grid">
+      <div class="field">
+        <label>断食小时数（选「自定义」时请自行输入）</label>
+        <input type="number" id="tfHours" min="0.5" step="0.5" value="${defHours}">
+      </div>
+      <div class="field">
+        <label>开始时间（24 小时制）</label>
+        <div class="dt24">
+          <input type="date" id="tfStartDate" value="${toDateValue(now)}">
+          <span class="sep">·</span>
+          <input type="time" id="tfStartTime" value="${toTimeValue(now)}">
+        </div>
+      </div>
+    </div>
+    <div class="hint" id="tfPreview"></div>
+    <div class="btn-row">
+      <button class="btn primary" data-action="start-fast">▶ 开始断食</button>
+    </div>
+  </div>`;
+}
+
+function bindTimerForm(){
+  const h = $('#tfHours');
+  const sd = $('#tfStartDate'), st = $('#tfStartTime');
+  [h, sd, st].forEach(el => el && el.addEventListener('input', updateTargetPreview));
+}
+
+function updateTargetPreview(){
+  const sd = $('#tfStartDate'), st = $('#tfStartTime');
+  const h = $('#tfHours'), p = $('#tfPreview');
+  if(!sd || !st || !h || !p) return;
+  const startMs = combineDateTime(sd.value, st.value);
+  const hours = parseFloat(h.value);
+  if(startMs == null || !hours || hours <= 0){ p.textContent = ''; return; }
+  const endMs = startMs + hours*3600000;
+  p.innerHTML = `目标结束时间：<b>${fmtDateTime(endMs)}</b>（断食 ${hours} 小时）`;
+}
+
+function timerActiveHTML(r){
+  const st = recordStatus(r);
+  const entries = (r.entries || []).slice().sort((a,b) => (a.timestamp||0) - (b.timestamp||0));
+  const entriesHTML = entries.length
+    ? `<div class="entries" style="text-align:left;margin-top:14px">${entries.map(e => entryViewHTML(e)).join('')}</div>`
+    : '<p class="muted" style="margin-top:14px">尚无测量 / 感受子记录。点击下方「📝 记录 / 上传图片」添加。</p>';
+
+  return `<div class="card timer-card">
+    <div class="timer-head">
+      <span class="badge">${esc(r.plan)}</span>
+      <span class="pill ${st}" id="timerStatus">${statusText(st)}</span>
+    </div>
+    <div class="big-clock" id="timerClock">00:00:00</div>
+    <div class="progress"><div class="progress-bar" id="timerProgress"></div></div>
+    <div class="hint" id="timerPct" style="margin-top:6px">—</div>
+    <div class="timer-meta">
+      <div><span>开始时间</span><b>${fmtDateTime(r.startAt)}</b></div>
+      <div><span>目标结束</span><b id="timerTargetEnd">${fmtDateTime(r.targetEndAt)}</b></div>
+      <div><span>已进行</span><b id="timerElapsed">—</b></div>
+      <div><span>剩余</span><b id="timerRemain">—</b></div>
+    </div>
+    ${entriesHTML}
+    <div class="timer-actions" style="margin-top:14px">
+      <button class="btn primary" data-action="end-fast">⏹ 结束断食</button>
+      <button class="btn" data-action="extend-fast" data-hours="1">＋1 小时</button>
+      <button class="btn" data-action="extend-fast" data-hours="2">＋2 小时</button>
+      <button class="btn" data-action="extend-fast" data-hours="4">＋4 小时</button>
+      <button class="btn" data-action="extend-custom">自定义延长…</button>
+      <button class="btn" data-action="edit-record" data-id="${r.id}">📝 记录 / 上传图片</button>
+    </div>
+  </div>`;
+}
+
+function updateTimerLive(){
+  const user = currentUser();
+  if(!user) return;
+  const r = user.records.find(x => !x.actualEndAt);
+  if(!r) return;
+  const clock = $('#timerClock');
+  if(!clock) return;
+
+  const now = Date.now();
+  const elapsed = now - r.startAt;
+  const target = Math.max(1, r.targetEndAt - r.startAt);
+
+  const h = Math.floor(elapsed/3600000), m = Math.floor(elapsed%3600000/60000), s = Math.floor(elapsed%60000/1000);
+  clock.textContent = `${pad(h)}:${pad(m)}:${pad(s)}`;
+
+  const pct = elapsed / target * 100;
+  const bar = $('#timerProgress');
+  bar.style.width = Math.min(100, pct) + '%';
+  bar.classList.toggle('over', pct >= 100);
+  $('#timerPct').textContent = `完成度 ${pct.toFixed(1)}%` + (pct >= 100 ? ' 🎉 已达成目标！' : '');
+
+  $('#timerElapsed').textContent = fmtDuration(elapsed);
+  const rem = r.targetEndAt - now;
+  $('#timerRemain').textContent = rem > 0 ? fmtDuration(rem) : `已超过目标 ${fmtDuration(-rem)}`;
+  $('#timerTargetEnd').textContent = fmtDateTime(r.targetEndAt);
+
+  const stEl = $('#timerStatus');
+  if(stEl){
+    const st = recordStatus(r, now);
+    stEl.className = 'pill ' + st;
+    stEl.textContent = statusText(st);
+  }
+}
+
+/* =========================================================
+   渲染：记录列表
+   ========================================================= */
+function renderRecords(){
+  const pane = $('#tab-records');
+  const user = currentUser();
+  if(!user){
+    pane.innerHTML = '<div class="card empty">请先选择或建立使用者。</div>';
+    pane.dataset.built = '';
+    return;
+  }
+  if(pane.dataset.built !== '1'){
+    pane.innerHTML = `
+      <div class="card">
+        <div class="toolbar">
+          <input type="search" id="recSearch" placeholder="🔍 搜索感受、备注、运动、方案、日期…" value="${esc(state.recordFilter.q)}">
+          <select id="recStatus">
+            <option value="all">全部状态</option>
+            <option value="ongoing">进行中</option>
+            <option value="completed">已达标</option>
+            <option value="early">提前结束</option>
+          </select>
+          <select id="recSort">
+            <option value="desc">最新优先</option>
+            <option value="asc">最旧优先</option>
+          </select>
+          <button class="btn primary" data-action="new-record">＋ 新增记录</button>
+        </div>
+      </div>
+      <div id="recordsList"></div>`;
+    pane.dataset.built = '1';
+    $('#recSearch').addEventListener('input', e => { state.recordFilter.q = e.target.value; renderRecordList(); });
+    $('#recStatus').addEventListener('change', e => { state.recordFilter.status = e.target.value; renderRecordList(); });
+    $('#recSort').addEventListener('change', e => { state.recordFilter.sort = e.target.value; renderRecordList(); });
+    $('#recStatus').value = state.recordFilter.status;
+    $('#recSort').value = state.recordFilter.sort;
+  }
+  renderRecordList();
+}
+
+function renderRecordList(){
+  const el = $('#recordsList');
+  if(!el) return;
+  const user = currentUser();
+  if(!user){ el.innerHTML = ''; return; }
+
+  const f = state.recordFilter;
+  const now = Date.now();
+  let list = user.records.slice();
+
+  const q = f.q.trim().toLowerCase();
+  if(q){
+    list = list.filter(r => {
+      const entryHay = (r.entries || []).map(e =>
+        [e.acetone, e.glucose, e.exercise, e.feeling, e.note, e.dateTime].join(' ')
+      ).join(' ');
+      const hay = [r.plan, fmtDate(r.startAt), fmtDateTime(r.startAt), entryHay].join(' ').toLowerCase();
+      return hay.includes(q);
+    });
+  }
+  if(f.status !== 'all') list = list.filter(r => recordStatus(r, now) === f.status);
+  list.sort((a,b) => f.sort === 'desc' ? b.startAt - a.startAt : a.startAt - b.startAt);
+
+  if(!list.length){
+    el.innerHTML = '<div class="card empty">没有符合条件的记录。</div>';
+    return;
+  }
+  el.innerHTML = list.map(r => recordCardHTML(r, now)).join('');
+}
+
+function recordCardHTML(r, now){
+  const st = recordStatus(r, now);
+  const dur = recordDuration(r, now);
+  const target = r.targetEndAt - r.startAt;
+  const entries = (r.entries || []).slice().sort((a,b) => (a.timestamp||0) - (b.timestamp||0));
+
+  const entriesHTML = entries.length ? `<div class="entries">
+    ${entries.map(e => entryViewHTML(e)).join('')}
+  </div>` : '<p class="muted" style="margin-top:8px">尚无测量 / 感受子记录。</p>';
+
+  return `<div class="rec-card">
+    <div class="rec-top">
+      <span class="badge">${esc(r.plan)}</span>
+      <span class="pill ${st}">${statusText(st)}</span>
+      <span class="rec-dur">${fmtDuration(dur)}</span>
+    </div>
+    <div class="rec-time">
+      ${fmtDateTime(r.startAt)} → ${r.actualEndAt ? fmtDateTime(r.actualEndAt) : '进行中…'}
+      ｜目标 ${fmtDurShort(target)}
+    </div>
+    ${r.recordDateTime ? `<div class="rec-time">记录于 ${esc(r.recordDateTime)}</div>` : ''}
+    ${entriesHTML}
+    <div class="rec-actions">
+      <button data-action="edit-record" data-id="${r.id}">✏️ 编辑记录（含子记录）</button>
+      <button class="del" data-action="delete-record" data-id="${r.id}">🗑 删除</button>
+    </div>
+  </div>`;
+}
+
+function entryViewHTML(e){
+  const metrics = [];
+  if(e.acetone != null && e.acetone !== '') metrics.push(`丙酮 <b>${esc(e.acetone)}</b> ppm`);
+  if(e.glucose != null && e.glucose !== '') metrics.push(`血糖 <b>${esc(e.glucose)}</b> mmol/L`);
+  if(e.exercise) metrics.push(`运动 <b>${esc(e.exercise)}</b>`);
+
+  const imgs = (e.images || []).map(im =>
+    `<img src="${im.dataUrl}" alt="${esc(im.category)}" data-action="view-image" data-src="${im.dataUrl}" title="${esc(im.category)}">`
+  ).join('');
+
+  return `<div class="entry">
+    <div class="entry-head">
+      <span class="tag">${e.dateTime || fmtDateTime(e.timestamp)}</span>
+    </div>
+    ${metrics.length ? `<div class="entry-metrics">${metrics.map(m => `<span>${m}</span>`).join('')}</div>` : ''}
+    ${e.feeling ? `<div class="entry-text">💭 ${esc(e.feeling)}</div>` : ''}
+    ${e.note ? `<div class="entry-text muted">📝 ${esc(e.note)}</div>` : ''}
+    ${imgs ? `<div class="entry-imgs">${imgs}</div>` : ''}
+  </div>`;
+}
+
+/* =========================================================
+   渲染：日历
+   ========================================================= */
+function renderCalendar(){
+  const pane = $('#tab-calendar');
+  const user = currentUser();
+  if(!user){ pane.innerHTML = '<div class="card empty">请先选择或建立使用者。</div>'; return; }
+
+  const y = state.calMonth.getFullYear();
+  const m = state.calMonth.getMonth();
+  const first = new Date(y, m, 1);
+  const startDow = (first.getDay() + 6) % 7;
+  const dim = new Date(y, m+1, 0).getDate();
+  const prevDim = new Date(y, m, 0).getDate();
+
+  const byDay = {};
+  user.records.forEach(r => {
+    const k = fmtDate(r.startAt);
+    (byDay[k] = byDay[k] || []).push(r);
+  });
+
+  const cells = [];
+  for(let i = startDow-1; i >= 0; i--) cells.push({ d: prevDim-i, other:true });
+  for(let d = 1; d <= dim; d++) cells.push({ d, other:false, key:`${y}-${pad(m+1)}-${pad(d)}` });
+  let nm = 1;
+  while(cells.length % 7 !== 0) cells.push({ d: nm++, other:true });
+
+  const todayKey = fmtDate(Date.now());
+  const dows = ['一','二','三','四','五','六','日'].map(x => `<div class="cal-dow">${x}</div>`).join('');
+
+  const cellsHTML = cells.map(c => {
+    if(c.other) return `<div class="cal-cell other"><span class="cal-day">${c.d}</span></div>`;
+    const recs = byDay[c.key] || [];
+    const totalH = recs.reduce((a,r) => a + recordDuration(r)/3600000, 0);
+    const cls = [
+      'cal-cell',
+      c.key === todayKey ? 'today' : '',
+      c.key === state.selectedDate ? 'sel' : '',
+      recs.length ? 'has' : ''
+    ].join(' ');
+    return `<div class="${cls}" data-action="pick-day" data-key="${c.key}">
+      <span class="cal-day">${c.d}</span>
+      ${recs.length ? `<span class="cal-badge">${recs.length} 次 · ${totalH.toFixed(1)}h</span>` : ''}
+    </div>`;
+  }).join('');
+
+  let detail = '<p class="muted">点击日期查看当天记录。</p>';
+  if(state.selectedDate){
+    const recs = (byDay[state.selectedDate] || []).slice().sort((a,b) => a.startAt - b.startAt);
+    if(recs.length){
+      detail = recs.map(r => {
+        const st = recordStatus(r);
+        const entries = (r.entries || []).slice().sort((a,b) => (a.timestamp||0) - (b.timestamp||0));
+        return `<div class="rec-card" style="border-left-color:#0ea5e9">
+          <div class="rec-top">
+            <span class="badge">${esc(r.plan)}</span>
+            <span class="pill ${st}">${statusText(st)}</span>
+            <span class="rec-dur">${fmtDuration(recordDuration(r))}</span>
+          </div>
+          <div class="rec-time">
+            ${fmtTime(r.startAt)} → ${r.actualEndAt ? fmtTime(r.actualEndAt) : '进行中'}
+            ｜${fmtDateTime(r.startAt)} ~ ${r.actualEndAt ? fmtDateTime(r.actualEndAt) : '—'}
+          </div>
+          ${entries.length ? `<div class="entries">${entries.map(e => entryViewHTML(e)).join('')}</div>` : ''}
+          <div class="rec-actions">
+            <button data-action="edit-record" data-id="${r.id}">✏️ 编辑</button>
+          </div>
+        </div>`;
+      }).join('');
+    }else{
+      detail = `<p class="muted">${state.selectedDate} 没有断食记录。</p>`;
+    }
+  }
+
+  pane.innerHTML = `<div class="card">
+    <div class="cal-head">
+      <h2>${y} 年 ${m+1} 月</h2>
+      <div class="cal-nav">
+        <button data-action="cal-prev">‹</button>
+        <button data-action="cal-today">今天</button>
+        <button data-action="cal-next">›</button>
+      </div>
+    </div>
+    <div class="cal-grid">${dows}${cellsHTML}</div>
+  </div>
+  <div class="card day-detail">
+    <h3>${state.selectedDate ? state.selectedDate + ' 的记录（24 小时制）' : '日期详情（24 小时制）'}</h3>
+    ${detail}
+  </div>`;
+}
+
+/* =========================================================
+   渲染：统计
+   ========================================================= */
+function renderStats(){
+  const pane = $('#tab-stats');
+  const user = currentUser();
+  if(!user){ pane.innerHTML = '<div class="card empty">请先选择或建立使用者。</div>'; return; }
+
+  const recs = user.records.slice().sort((a,b) => a.startAt - b.startAt);
+  const done = recs.filter(r => r.actualEndAt);
+  const totalMs = done.reduce((a,r) => a + (r.actualEndAt - r.startAt), 0);
+  const avg = done.length ? totalMs/done.length : 0;
+  const longest = done.reduce((a,r) => Math.max(a, r.actualEndAt - r.startAt), 0);
+  const achieved = done.filter(r => (r.actualEndAt - r.startAt) >= (r.targetEndAt - r.startAt)).length;
+  const rate = done.length ? Math.round(achieved/done.length*100) : 0;
+
+  const stat = (l,v) => `<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`;
+
+  const allEntries = collectMeasurements(user);
+
+  pane.innerHTML = `
+    <div class="stat-grid">
+      ${stat('总断食次数', recs.length)}
+      ${stat('已完成', done.length)}
+      ${stat('总断食时数', (totalMs/3600000).toFixed(1) + ' h')}
+      ${stat('平均时长', fmtDurShort(avg))}
+      ${stat('最长一次', fmtDurShort(longest))}
+      ${stat('达标率', rate + '%')}
+      ${stat('测量子记录总数', allEntries.length)}
+    </div>
+    <div class="card"><h3>断食时长趋势（最近 20 次）</h3><canvas id="chartTrend" class="chart"></canvas></div>
+    <div class="card"><h3>每周断食次数（最近 12 周）</h3><canvas id="chartWeek" class="chart"></canvas></div>
+    <div class="card"><h3>丙酮趋势（ppm，所有测量）</h3><canvas id="chartAcetone" class="chart"></canvas></div>
+    <div class="card"><h3>血糖趋势（mmol/L，所有测量）</h3><canvas id="chartGlucose" class="chart"></canvas></div>
+    <div class="card"><h3>方案分布</h3><canvas id="chartPlan" class="chart"></canvas></div>
+  `;
+
+  const recent = done.slice(-20);
+  if(recent.length){
+    drawLineChart($('#chartTrend'),
+      recent.map(r => fmtMD(r.startAt)),
+      [
+        { name:'实际 (h)', color:'#0d9488', data: recent.map(r => +((r.actualEndAt - r.startAt)/3600000).toFixed(2)) },
+        { name:'目标 (h)', color:'#cbd5e1', data: recent.map(r => +((r.targetEndAt - r.startAt)/3600000).toFixed(2)) }
+      ]);
+  }else drawEmpty($('#chartTrend'));
+
+  const curWeek = weekStart(Date.now());
+  const weeks = [], weekLabels = [], weekVals = [];
+  for(let i = 11; i >= 0; i--){
+    const ws = curWeek - i*7*86400000;
+    weeks.push(ws);
+    weekLabels.push(fmtMD(ws));
+  }
+  weeks.forEach(ws => {
+    const we = ws + 7*86400000;
+    weekVals.push(recs.filter(r => r.startAt >= ws && r.startAt < we).length);
+  });
+  drawBarChart($('#chartWeek'), weekLabels, weekVals, '#6366f1');
+
+  const acetonePts = allEntries.filter(x => x.entry.acetone != null && x.entry.acetone !== '' && !isNaN(parseFloat(x.entry.acetone)));
+  if(acetonePts.length){
+    drawLineChart($('#chartAcetone'),
+      acetonePts.map(x => fmtMD(x.ts)),
+      [{ name:'丙酮 ppm', color:'#f59e0b', data: acetonePts.map(x => parseFloat(x.entry.acetone)) }]);
+  }else drawEmpty($('#chartAcetone'));
+
+  const gluPts = allEntries.filter(x => x.entry.glucose != null && x.entry.glucose !== '' && !isNaN(parseFloat(x.entry.glucose)));
+  if(gluPts.length){
+    drawLineChart($('#chartGlucose'),
+      gluPts.map(x => fmtMD(x.ts)),
+      [{ name:'血糖 mmol/L', color:'#ef4444', data: gluPts.map(x => parseFloat(x.entry.glucose)) }]);
+  }else drawEmpty($('#chartGlucose'));
+
+  const planCount = {};
+  recs.forEach(r => { planCount[r.plan] = (planCount[r.plan] || 0) + 1; });
+  const planKeys = Object.keys(planCount);
+  if(planKeys.length){
+    drawBarChart($('#chartPlan'), planKeys, planKeys.map(k => planCount[k]), '#0ea5e9');
+  }else drawEmpty($('#chartPlan'));
+}
+
+/* =========================================================
+   Canvas 图表
+   ========================================================= */
+function setupCanvas(canvas){
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  const w = rect.width || 600, h = rect.height || 220;
+  canvas.width = Math.round(w*dpr);
+  canvas.height = Math.round(h*dpr);
+  const ctx = canvas.getContext('2d');
+  ctx.setTransform(dpr,0,0,dpr,0,0);
+  ctx.clearRect(0,0,w,h);
+  return { ctx, w, h };
+}
+function drawEmpty(canvas){
+  if(!canvas) return;
+  const { ctx, w, h } = setupCanvas(canvas);
+  ctx.fillStyle = '#94a3b8';
+  ctx.font = '13px system-ui';
+  ctx.textAlign = 'center';
+  ctx.fillText('暂无数据', w/2, h/2);
+  ctx.textAlign = 'start';
+}
+function drawAxes(ctx, pad, cw, ch, maxY, steps = 4){
+  ctx.strokeStyle = '#e2e8f0';
+  ctx.lineWidth = 1;
+  ctx.font = '11px system-ui';
+  ctx.fillStyle = '#94a3b8';
+  for(let i = 0; i <= steps; i++){
+    const y = pad.t + ch - (i/steps)*ch;
+    ctx.beginPath(); ctx.moveTo(pad.l, y); ctx.lineTo(pad.l+cw, y); ctx.stroke();
+    const val = maxY*i/steps;
+    ctx.fillText(String(Math.round(val*10)/10), 4, y+4);
+  }
+}
+function drawLineChart(canvas, labels, series){
+  if(!canvas) return;
+  const { ctx, w, h } = setupCanvas(canvas);
+  const pad = { l:44, r:16, t:26, b:34 };
+  const cw = w - pad.l - pad.r, ch = h - pad.t - pad.b;
+
+  let maxY = 0;
+  series.forEach(s => s.data.forEach(v => { if(v != null && v > maxY) maxY = v; }));
+  if(maxY <= 0) maxY = 1;
+  maxY *= 1.15;
+
+  const n = labels.length;
+  const xAt = i => n <= 1 ? pad.l + cw/2 : pad.l + i*(cw/(n-1));
+  const yAt = v => pad.t + ch - (v/maxY)*ch;
+
+  drawAxes(ctx, pad, cw, ch, maxY);
+
+  ctx.fillStyle = '#94a3b8';
+  ctx.font = '10px system-ui';
+  const step = Math.max(1, Math.ceil(n/7));
+  labels.forEach((lb, i) => {
+    if(i % step === 0 || i === n-1) ctx.fillText(lb, xAt(i)-13, h-12);
+  });
+
+  series.forEach(s => {
+    ctx.strokeStyle = s.color;
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    let started = false;
+    s.data.forEach((v, i) => {
+      if(v == null) return;
+      const x = xAt(i), y = yAt(v);
+      if(!started){ ctx.moveTo(x,y); started = true; } else ctx.lineTo(x,y);
+    });
+    ctx.stroke();
+    s.data.forEach((v, i) => {
+      if(v == null) return;
+      ctx.beginPath();
+      ctx.arc(xAt(i), yAt(v), 3, 0, Math.PI*2);
+      ctx.fillStyle = s.color;
+      ctx.fill();
+    });
+  });
+
+  let lx = pad.l;
+  ctx.font = '11px system-ui';
+  series.forEach(s => {
+    ctx.fillStyle = s.color;
+    ctx.fillRect(lx, 6, 10, 10);
+    ctx.fillStyle = '#64748b';
+    ctx.fillText(s.name, lx+14, 15);
+    lx += ctx.measureText(s.name).width + 32;
+  });
+}
+function drawBarChart(canvas, labels, values, color = '#0d9488'){
+  if(!canvas) return;
+  const { ctx, w, h } = setupCanvas(canvas);
+  const pad = { l:44, r:16, t:26, b:34 };
+  const cw = w - pad.l - pad.r, ch = h - pad.t - pad.b;
+  const maxY = Math.max(1, ...values) * 1.25;
+
+  drawAxes(ctx, pad, cw, ch, maxY);
+
+  const n = labels.length;
+  const slot = cw / n;
+  const bw = Math.min(46, slot*0.6);
+
+  values.forEach((v, i) => {
+    const x = pad.l + slot*i + (slot-bw)/2;
+    const bh = (v/maxY)*ch;
+    const y = pad.t + ch - bh;
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    if(ctx.roundRect) { ctx.roundRect(x, y, bw, Math.max(bh,1), 5); ctx.fill(); }
+    else ctx.fillRect(x, y, bw, Math.max(bh,1));
+
+    ctx.fillStyle = '#64748b';
+    ctx.font = '11px system-ui';
+    ctx.textAlign = 'center';
+    if(v > 0) ctx.fillText(String(v), x + bw/2, y - 4);
+    ctx.fillStyle = '#94a3b8';
+    ctx.font = '10px system-ui';
+    ctx.fillText(labels[i], x + bw/2, h - 12);
+    ctx.textAlign = 'start';
+  });
+}
+
+/* =========================================================
+   渲染：数据
+   ========================================================= */
+function renderData(){
+  const pane = $('#tab-data');
+  const linked = !!db.fileHandle;
+  const supported = db.supported;
+  let lsSizeKB = 0;
+  try{ lsSizeKB = Math.round((localStorage.getItem(LS_KEY) || '').length / 1024); }catch(e){}
+
+  pane.innerHTML = `
+    <div class="card">
+      <h2>💾 本地硬盘 JSON 数据库</h2>
+      <p class="muted">
+        数据文件名固定为 <b>${DB_FILENAME}</b>，会存放在你选择的本地文件夹中。<br>
+        ${supported
+          ? '连接文件夹后，每次新增 / 修改 / 删除都会自动写回硬盘 JSON 文件。'
+          : '⚠ 你的浏览器不支持 File System Access API。建议使用 Chrome / Edge，或改用下方「导出 / 导入 JSON」。'}
+      </p>
+      <div class="btn-row">
+        <button class="btn primary" data-action="link-db">📂 连接 / 选择文件夹</button>
+        <button class="btn" data-action="reload-db" ${linked?'':'disabled'}>🔄 从硬盘重新载入</button>
+        <button class="btn" data-action="unlink-db" ${linked?'':'disabled'}>🔓 解除连接</button>
+        <button class="btn" data-action="force-write" ${linked?'':'disabled'}>💽 立即写入硬盘</button>
+      </div>
+      <div class="status-box ${linked?'ok':'warn'}">
+        <span>${linked ? '✅' : '⚠️'}</span>
+        <span>${linked
+          ? `已连接：<b>${esc(db.dirHandle?.name || '')}/${DB_FILENAME}</b>${db.dirty ? ' <span style="color:#b45309">（有未写入变更）</span>' : ''}`
+          : '尚未连接 — 数据目前只存在浏览器 localStorage（刷新页面仍会保留，但不会存成硬盘文件）'}
+        </span>
+      </div>
+      <p class="hint" style="margin-top:10px">localStorage 备援大小：约 ${lsSizeKB} KB</p>
+    </div>
+
+    <div class="card">
+      <h2>备份 / 导入</h2>
+      <p class="muted">若无法使用本地文件夹功能（Firefox / Safari / 手机），可手动导出或导入 JSON 文件。</p>
+      <div class="btn-row">
+        <button class="btn primary" data-action="export-json">⬇ 导出 JSON</button>
+        <label class="btn">⬆ 导入 JSON<input type="file" id="importFile" accept="application/json,.json" hidden></label>
+        <button class="btn danger" data-action="clear-user">🗑 清除目前使用者数据</button>
+        <button class="btn danger" data-action="clear-all">🗑 清除全部数据</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>当前 JSON</h2>
+      <textarea id="jsonView" rows="20" readonly></textarea>
+    </div>`;
+  $('#jsonView').value = JSON.stringify(state.data, null, 2);
+  $('#importFile').addEventListener('change', handleImport);
+}
+
+/* =========================================================
+   操作
+   ========================================================= */
+function switchUser(){
+  const nick = $('#nickInput').value.trim();
+  if(!nick){ alert('请先输入 nickname'); return; }
+  if(!state.data.users[nick]){
+    state.data.users[nick] = { nickname:nick, createdAt:Date.now(), records: [] };
+  }
+  state.data.currentUser = nick;
+  state.selectedDate = null;
+  $('#tab-records').dataset.built = '';
+  saveData();
+  renderAll();
+  $('#nickInput').value = '';
+}
+
+function startFast(){
+  const user = currentUser();
+  if(!user) return;
+  if(user.records.some(r => !r.actualEndAt)){
+    alert('你已经有一个进行中的断食，请先结束它。');
+    return;
+  }
+  const startMs = combineDateTime($('#tfStartDate')?.value, $('#tfStartTime')?.value);
+  const hours = parseFloat($('#tfHours').value);
+  if(startMs == null){ alert('请填写开始日期与时间'); return; }
+  if(!hours || hours <= 0){ alert('请填写正确的断食小时数'); return; }
+
+  const planKey = PLANS.find(p => p.hours === hours)?.key || 'custom';
+  const now = Date.now();
+  const rec = {
+    id: uid(),
+    plan: planKey,
+    targetHours: hours,
+    startAt: startMs,
+    targetEndAt: startMs + hours*3600000,
+    actualEndAt: null,
+    recordDate: fmtDate(now),
+    recordDateTime: fmtDateTime(now),
+    entries: [],
+    createdAt: now, updatedAt: now
+  };
+  user.records.push(rec);
+  saveData();
+  renderAll();
+}
+
+function endFast(){
+  const user = currentUser();
+  if(!user) return;
+  const r = user.records.find(x => !x.actualEndAt);
+  if(!r) return;
+  const elapsed = Date.now() - r.startAt;
+  const target = r.targetEndAt - r.startAt;
+  const msg = elapsed >= target
+    ? `已达成目标！\n实际断食：${fmtDuration(elapsed)}\n确定结束这次断食吗？`
+    : `目前进行 ${fmtDuration(elapsed)}，尚未达到目标 ${fmtDuration(target)}。\n确定要「提前结束」吗？`;
+  if(!confirm(msg)) return;
+  r.actualEndAt = Date.now();
+  r.updatedAt = Date.now();
+  saveData();
+  renderAll();
+}
+
+function extendFast(hours){
+  const user = currentUser();
+  const r = user && user.records.find(x => !x.actualEndAt);
+  if(!r) return;
+  r.targetEndAt += hours * 3600000;
+  r.targetHours = (r.targetEndAt - r.startAt) / 3600000;
+  r.updatedAt = Date.now();
+  saveData();
+  renderAll();
+}
+
+function extendCustom(){
+  const v = prompt('请输入要延长的小时数（可为小数，例如 1.5）');
+  if(v == null) return;
+  const h = parseFloat(v);
+  if(!h || h <= 0){ alert('请输入正确的数字'); return; }
+  extendFast(h);
+}
+
+/* ---------- 记录 Modal ---------- */
+function openRecordModal(id){
+  const user = currentUser();
+  if(!user){ alert('请先选择或建立使用者'); return; }
+
+  let r = null;
+  if(id){
+    r = user.records.find(x => x.id === id) || null;
+    if(!r) return;
+  }
+
+  state.editingId = r ? r.id : null;
+
+  const now = Date.now();
+  const startAt = r ? r.startAt : now;
+  const hours = r ? +(((r.targetEndAt - r.startAt)/3600000).toFixed(2)) : 16;
+  const endAt = r ? r.actualEndAt : null;
+
+  state.formEntries = r
+    ? JSON.parse(JSON.stringify(r.entries || []))
+    : [];
+  if(!state.formEntries.length) state.formEntries = [newEntry(now)];
+  state.formEntries.forEach(e => normalizeEntry(e));
+
+  state.formPlan = r ? r.plan : (PLANS.find(p => p.hours === hours)?.key || '16:8');
+
+  $('#modalTitle').textContent = r ? '编辑记录' : '新增记录';
+  $('#modalDelete').hidden = !r;
+  $('#modalBody').innerHTML = recordFormHTML(r, startAt, hours, endAt);
+  renderEntryEditors();
+  bindModalForm();
+  $('#modalRoot').hidden = false;
+}
+
+function normalizeEntry(e){
+  if(!e.id) e.id = uid();
+  if(!e.timestamp){
+    e.timestamp = Date.now();
+    e.dateTime = fmtDateTime(e.timestamp);
+  }
+  if(!e.dateTime) e.dateTime = fmtDateTime(e.timestamp);
+  if(!Array.isArray(e.images)) e.images = [];
+  if(e.acetone === undefined) e.acetone = null;
+  if(e.glucose === undefined) e.glucose = null;
+  if(e.exercise === undefined) e.exercise = '';
+  if(e.feeling === undefined) e.feeling = '';
+  if(e.note === undefined) e.note = '';
+  return e;
+}
+
+function newEntry(ts = Date.now()){
+  return normalizeEntry({
+    id: uid(),
+    timestamp: ts,
+    dateTime: fmtDateTime(ts),
+    acetone: null, glucose: null,
+    exercise: '', feeling: '', note: '',
+    images: []
+  });
+}
+
+function recordFormHTML(r, startAt, hours, endAt){
+  const chips = PLANS.map(p =>
+    `<button type="button" class="chip ${state.formPlan===p.key?'active':''}"
+      data-action="pick-form-plan" data-plan="${p.key}">${p.label}</button>`).join('');
+
+  return `
+    <div class="field">
+      <label>断食方案</label>
+      <div class="plan-chips">${chips}</div>
+      <div class="hint" style="margin:6px 0 0">点击方案会自动带入小时数，也可以自行修改。</div>
+    </div>
+    <div class="form-grid">
+      <div class="field">
+        <label>断食小时数</label>
+        <input type="number" id="fHours" min="0.5" step="0.5" value="${hours}">
+      </div>
+      <div class="field">
+        <label>开始时间（24 小时制）</label>
+        <div class="dt24">
+          <input type="date" id="fStartDate" value="${toDateValue(startAt)}">
+          <span class="sep">·</span>
+          <input type="time" id="fStartTime" value="${toTimeValue(startAt)}">
+        </div>
+      </div>
+      <div class="field">
+        <label>结束时间（留空 = 进行中，24 小时制）</label>
+        <div class="dt24">
+          <input type="date" id="fEndDate" value="${endAt ? toDateValue(endAt) : ''}">
+          <span class="sep">·</span>
+          <input type="time" id="fEndTime" value="${endAt ? toTimeValue(endAt) : ''}">
+        </div>
+      </div>
+      <div class="field full">
+        <label>记录日期时间（24 小时制，默认当前日期时间，可修改）</label>
+        <div class="dt24">
+          <input type="date" id="fRecDate" value="${toDateValue(fromLocalInput(r && r.recordDateTime ? r.recordDateTime.replace(' ','T') : '') ?? Date.now())}">
+          <span class="sep">·</span>
+          <input type="time" id="fRecTime" value="${toTimeValue(fromLocalInput(r && r.recordDateTime ? r.recordDateTime.replace(' ','T') : '') ?? Date.now())}">
+        </div>
+      </div>
+    </div>
+    <div class="hint" id="fPreview"></div>
+
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-top:6px;margin-bottom:8px">
+      <label style="font-size:14px;font-weight:700;color:#334155">测量 / 感受子记录（可添加多条）</label>
+      <button type="button" class="btn small primary" data-action="add-entry">＋ 添加子记录</button>
+    </div>
+    <div id="entryEditors"></div>
+  `;
+}
+
+function renderEntryEditors(){
+  const box = $('#entryEditors');
+  if(!box) return;
+  if(!state.formEntries.length){
+    box.innerHTML = '<p class="muted">尚无子记录，点右上角「＋ 添加子记录」。</p>';
+    return;
+  }
+  box.innerHTML = state.formEntries.map((e, i) => entryEditorHTML(e, i)).join('');
+  bindEntryEditorEvents();
+}
+
+function entryEditorHTML(e, idx){
+  const images = (e.images || []).map(im => `
+    <div class="image-item">
+      <img src="${im.dataUrl}" alt="">
+      <button type="button" class="rm" data-action="remove-entry-image" data-eid="${e.id}" data-iid="${im.id}" title="移除">×</button>
+      <select data-entry-imgcat="${e.id}|${im.id}">
+        ${IMG_CATS.map(c => `<option value="${c}" ${im.category===c?'selected':''}>${c}</option>`).join('')}
+      </select>
+    </div>`).join('');
+
+  return `<div class="entry-editor" data-eid="${e.id}">
+    <h4>
+      <span class="tag">子记录 #${idx+1}</span>
+      <span style="flex:1"></span>
+      <button type="button" class="btn small danger" data-action="remove-entry" data-eid="${e.id}">移除</button>
+    </h4>
+    <div class="form-grid">
+      <div class="field">
+        <label>测量时间（24 小时制）</label>
+        <div class="dt24">
+          <input type="date" data-entry-date="${e.id}" value="${toDateValue(e.timestamp)}">
+          <span class="sep">·</span>
+          <input type="time" data-entry-time="${e.id}" value="${toTimeValue(e.timestamp)}">
+        </div>
+      </div>
+      <div class="field">
+        <label>丙酮（ppm）</label>
+        <input type="number" step="0.1" min="0" data-entry-acetone="${e.id}" value="${e.acetone != null ? esc(e.acetone) : ''}" placeholder="例如 12.5">
+      </div>
+      <div class="field">
+        <label>血糖（mmol/L）</label>
+        <input type="number" step="0.1" min="0" data-entry-glucose="${e.id}" value="${e.glucose != null ? esc(e.glucose) : ''}" placeholder="例如 5.2">
+      </div>
+      <div class="field">
+        <label>运动</label>
+        <input type="text" data-entry-exercise="${e.id}" value="${esc(e.exercise || '')}" placeholder="例：快走 30 分钟 / 重训 45 分钟">
+      </div>
+      <div class="field full">
+        <label>身体感受</label>
+        <textarea rows="2" data-entry-feeling="${e.id}" placeholder="例：精神不错、有点饿、轻微头晕…">${esc(e.feeling || '')}</textarea>
+      </div>
+      <div class="field full">
+        <label>其他备注</label>
+        <textarea rows="2" data-entry-note="${e.id}" placeholder="例：喝了黑咖啡、补充电解质…">${esc(e.note || '')}</textarea>
+      </div>
+      <div class="field full">
+        <label>图片上传（丙酮 / 血糖 / 运动 / 其他）</label>
+        <input type="file" accept="image/*" multiple data-entry-images="${e.id}">
+        <div class="image-list">${images || '<span class="muted">尚无图片</span>'}</div>
+      </div>
+    </div>
+  </div>`;
+}
+
+function bindEntryEditorEvents(){
+  $$('[data-entry-date]').forEach(el => {
+    el.addEventListener('input', () => syncEntryDate(el.dataset.entryDate));
+  });
+  $$('[data-entry-time]').forEach(el => {
+    el.addEventListener('input', () => syncEntryDate(el.dataset.entryTime));
+  });
+  $$('[data-entry-acetone]').forEach(el => {
+    el.addEventListener('input', () => {
+      const e = findEntry(el.dataset.entryAcetone);
+      if(e) e.acetone = el.value.trim() === '' ? null : parseFloat(el.value);
+    });
+  });
+  $$('[data-entry-glucose]').forEach(el => {
+    el.addEventListener('input', () => {
+      const e = findEntry(el.dataset.entryGlucose);
+      if(e) e.glucose = el.value.trim() === '' ? null : parseFloat(el.value);
+    });
+  });
+  $$('[data-entry-exercise]').forEach(el => {
+    el.addEventListener('input', () => {
+      const e = findEntry(el.dataset.entryExercise);
+      if(e) e.exercise = el.value;
+    });
+  });
+  $$('[data-entry-feeling]').forEach(el => {
+    el.addEventListener('input', () => {
+      const e = findEntry(el.dataset.entryFeeling);
+      if(e) e.feeling = el.value;
+    });
+  });
+  $$('[data-entry-note]').forEach(el => {
+    el.addEventListener('input', () => {
+      const e = findEntry(el.dataset.entryNote);
+      if(e) e.note = el.value;
+    });
+  });
+  $$('[data-entry-images]').forEach(el => {
+    el.addEventListener('change', async ev => {
+      const e = findEntry(el.dataset.entryImages);
+      if(!e) return;
+      const files = Array.from(ev.target.files || []);
+      if(!files.length) return;
+      for(const f of files){
+        try{
+          const dataUrl = await compressImage(f, 1000, 0.7);
+          e.images.push({ id: uid(), name: f.name, category:'其他', dataUrl, addedAt: Date.now() });
+        }catch(err){ console.warn('图片处理失败', err); }
+      }
+      ev.target.value = '';
+      renderEntryEditors();
+    });
+  });
+  $$('[data-entry-imgcat]').forEach(sel => {
+    sel.addEventListener('change', () => {
+      const [eid, iid] = sel.dataset.entryImgcat.split('|');
+      const e = findEntry(eid);
+      if(!e) return;
+      const im = e.images.find(x => x.id === iid);
+      if(im) im.category = sel.value;
+    });
+  });
+}
+
+function syncEntryDate(eid){
+  const e = findEntry(eid);
+  if(!e) return;
+  const d = $(`[data-entry-date="${eid}"]`)?.value;
+  const t = $(`[data-entry-time="${eid}"]`)?.value;
+  const ts = combineDateTime(d, t);
+  if(ts != null){
+    e.timestamp = ts;
+    e.dateTime = fmtDateTime(ts);
+  }
+}
+
+function findEntry(eid){
+  return state.formEntries.find(x => x.id === eid) || null;
+}
+
+function bindModalForm(){
+  const upd = () => {
+    const sd = $('#fStartDate'), st = $('#fStartTime');
+    const h = $('#fHours'), p = $('#fPreview');
+    if(!p || !sd || !st) return;
+    const startMs = combineDateTime(sd.value, st.value);
+    const hours = parseFloat(h.value);
+    if(startMs == null || !hours || hours <= 0){ p.textContent = ''; return; }
+    p.innerHTML = `目标结束时间：<b>${fmtDateTime(startMs + hours*3600000)}</b>`;
+  };
+  ['fHours','fStartDate','fStartTime'].forEach(id => {
+    const el = $('#'+id);
+    if(el) el.addEventListener('input', upd);
+  });
+  upd();
+}
+
+function addEntry(){
+  state.formEntries.push(newEntry(Date.now()));
+  renderEntryEditors();
+}
+
+function removeEntry(eid){
+  state.formEntries = state.formEntries.filter(x => x.id !== eid);
+  renderEntryEditors();
+}
+
+function removeEntryImage(eid, iid){
+  const e = findEntry(eid);
+  if(!e) return;
+  e.images = e.images.filter(x => x.id !== iid);
+  renderEntryEditors();
+}
+
+function closeModal(){
+  $('#modalRoot').hidden = true;
+  state.editingId = null;
+  state.formEntries = [];
+}
+
+function saveRecord(){
+  const user = currentUser();
+  if(!user) return;
+
+  const recDate = $('#fRecDate')?.value;
+  const recTime = $('#fRecTime')?.value;
+  const recDateTimeTs = combineDateTime(recDate, recTime);
+  if(recDateTimeTs == null){ alert('请填写记录日期与时间'); return; }
+
+  const startAt = combineDateTime($('#fStartDate')?.value, $('#fStartTime')?.value);
+  if(startAt == null){ alert('请填写开始日期与时间'); return; }
+
+  const endDate = $('#fEndDate')?.value;
+  const endTime = $('#fEndTime')?.value;
+  const actualEndAt = (endDate && endTime) ? combineDateTime(endDate, endTime) : null;
+  if(actualEndAt != null && actualEndAt < startAt){ alert('结束时间不能早于开始时间'); return; }
+
+  const hours = parseFloat($('#fHours').value);
+  if(!hours || hours <= 0){ alert('请填写正确的断食小时数'); return; }
+
+  state.formEntries.forEach(e => {
+    const d = $(`[data-entry-date="${e.id}"]`)?.value;
+    const t = $(`[data-entry-time="${e.id}"]`)?.value;
+    if(d && t){
+      const ts = combineDateTime(d, t);
+      if(ts != null){ e.timestamp = ts; e.dateTime = fmtDateTime(ts); }
+    }
+    normalizeEntry(e);
+  });
+
+  const data = {
+    plan: PLANS.find(p => p.hours === hours)?.key || 'custom',
+    targetHours: hours,
+    startAt,
+    targetEndAt: startAt + hours*3600000,
+    actualEndAt,
+    recordDate: fmtDate(recDateTimeTs),
+    recordDateTime: fmtDateTime(recDateTimeTs),
+    entries: state.formEntries.slice(),
+    updatedAt: Date.now()
+  };
+
+  if(state.editingId){
+    const r = user.records.find(x => x.id === state.editingId);
+    if(r) Object.assign(r, data);
+  }else{
+    user.records.push(Object.assign({ id: uid(), createdAt: Date.now() }, data));
+  }
+  saveData();
+  closeModal();
+  renderAll();
+}
+
+function deleteRecord(id){
+  const user = currentUser();
+  if(!user) return;
+  const r = user.records.find(x => x.id === id);
+  if(!r) return;
+  if(!confirm(`确定要删除这笔记录（${fmtDateTime(r.startAt)}）吗？此操作无法复原。`)) return;
+  user.records = user.records.filter(x => x.id !== id);
+  saveData();
+  renderAll();
+}
+
+/* ---------- 图片压缩 ---------- */
+function compressImage(file, maxDim = 1000, quality = 0.7){
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const img = new Image();
+      img.onload = () => {
+        let w = img.width, h = img.height;
+        const scale = Math.min(1, maxDim / Math.max(w, h));
+        w = Math.round(w*scale); h = Math.round(h*scale);
+        const c = document.createElement('canvas');
+        c.width = w; c.height = h;
+        const ctx = c.getContext('2d');
+        ctx.drawImage(img, 0, 0, w, h);
+        resolve(c.toDataURL('image/jpeg', quality));
+      };
+      img.onerror = reject;
+      img.src = reader.result;
+    };
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+function openLightbox(src){
+  const box = document.createElement('div');
+  box.className = 'lightbox';
+  box.innerHTML = `<img src="${src}" alt="">`;
+  box.addEventListener('click', () => box.remove());
+  document.body.appendChild(box);
+}
+
+/* ---------- 数据导出 / 导入 ---------- */
+function exportJSON(){
+  const blob = new Blob([JSON.stringify(state.data, null, 2)], { type:'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const d = new Date();
+  a.href = url;
+  a.download = `fasting-data-${d.getFullYear()}${pad(d.getMonth()+1)}${pad(d.getDate())}-${pad(d.getHours())}${pad(d.getMinutes())}.json`;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
+}
+
+function handleImport(e){
+  const file = e.target.files && e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try{
+      const obj = JSON.parse(reader.result);
+      if(!obj || typeof obj !== 'object' || typeof obj.users !== 'object'){
+        alert('JSON 格式不正确：缺少 users 字段。');
+        return;
+      }
+      const mode = confirm('按「确定」= 合并导入（保留现有数据）\n按「取消」= 覆盖全部数据');
+      if(mode){
+        for(const [nick, u] of Object.entries(obj.users)){
+          if(!state.data.users[nick]){
+            state.data.users[nick] = u;
+          }else{
+            const existing = new Set(state.data.users[nick].records.map(r => r.id));
+            (u.records || []).forEach(r => {
+              if(!existing.has(r.id)) state.data.users[nick].records.push(r);
+            });
+          }
+        }
+      }else{
+        state.data = obj;
+        if(!state.data.users) state.data.users = {};
+      }
+      migrateData();
+      $('#tab-records').dataset.built = '';
+      saveData();
+      renderAll();
+      alert('✅ 导入完成！');
+    }catch(err){
+      alert('导入失败：' + err.message);
+    }
+  };
+  reader.readAsText(file);
+  e.target.value = '';
+}
+
+function clearUser(){
+  const user = currentUser();
+  if(!user){ alert('目前没有选择使用者'); return; }
+  if(!confirm(`确定清除使用者「${user.nickname}」的所有记录吗？`)) return;
+  delete state.data.users[user.nickname];
+  state.data.currentUser = Object.keys(state.data.users)[0] || null;
+  $('#tab-records').dataset.built = '';
+  saveData();
+  renderAll();
+}
+
+function clearAll(){
+  if(!confirm('⚠ 确定清除「全部」使用者与记录吗？此操作无法复原！')) return;
+  if(!confirm('再次确认：所有数据都会被删除。')) return;
+  state.data = defaultData();
+  $('#tab-records').dataset.built = '';
+  saveData();
+  renderAll();
+}
+
+/* =========================================================
+   事件委派（统一处理所有 data-action）
+   ========================================================= */
+document.addEventListener('click', async e => {
+  const el = e.target.closest('[data-action]');
+  if(!el) return;
+  const a = el.dataset.action;
+
+  switch(a){
+    case 'switch-user':      switchUser(); break;
+
+    case 'open-db-tab': {
+      state.tab = 'data';
+      $$('.tab').forEach(b => b.classList.toggle('active', b.dataset.tab === 'data'));
+      $$('.pane').forEach(p => p.hidden = p.id !== 'tab-data');
+      renderAll();
+      break;
+    }
+
+    case 'pick-timer-plan': {
+      state.timerFormPlan = el.dataset.plan;
+      $$('#tab-timer .chip').forEach(c =>
+        c.classList.toggle('active', c.dataset.plan === state.timerFormPlan));
+      const h = $('#tfHours');
+      if(h && state.timerFormPlan !== 'custom') h.value = PLAN_MAP[state.timerFormPlan].hours;
+      updateTargetPreview();
+      break;
+    }
+    case 'start-fast':       startFast(); break;
+    case 'end-fast':         endFast(); break;
+    case 'extend-fast':      extendFast(Number(el.dataset.hours)); break;
+    case 'extend-custom':    extendCustom(); break;
+
+    case 'new-record':       openRecordModal(null); break;
+    case 'edit-record':      openRecordModal(el.dataset.id); break;
+    case 'delete-record':    deleteRecord(el.dataset.id); break;
+    case 'delete-current':   if(state.editingId) deleteRecord(state.editingId); break;
+
+    case 'close-modal':      closeModal(); break;
+    case 'save-record':      saveRecord(); break;
+
+    case 'pick-form-plan': {
+      state.formPlan = el.dataset.plan;
+      $$('#modalBody .chip').forEach(c =>
+        c.classList.toggle('active', c.dataset.plan === state.formPlan));
+      const h = $('#fHours');
+      if(h && state.formPlan !== 'custom') h.value = PLAN_MAP[state.formPlan].hours;
+      const ev = new Event('input');
+      if(h) h.dispatchEvent(ev);
+      break;
+    }
+    case 'add-entry':        addEntry(); break;
+    case 'remove-entry':     removeEntry(el.dataset.eid); break;
+    case 'remove-entry-image': removeEntryImage(el.dataset.eid, el.dataset.iid); break;
+    case 'view-image':       openLightbox(el.dataset.src); break;
+
+    case 'cal-prev': {
+      const d = new Date(state.calMonth);
+      d.setMonth(d.getMonth() - 1);
+      state.calMonth = new Date(d.getFullYear(), d.getMonth(), 1);
+      renderCalendar();
+      break;
+    }
+    case 'cal-next': {
+      const d = new Date(state.calMonth);
+      d.setMonth(d.getMonth() + 1);
+      state.calMonth = new Date(d.getFullYear(), d.getMonth(), 1);
+      renderCalendar();
+      break;
+    }
+    case 'cal-today': {
+      const n = new Date();
+      state.calMonth = new Date(n.getFullYear(), n.getMonth(), 1);
+      state.selectedDate = fmtDate(Date.now());
+      renderCalendar();
+      break;
+    }
+    case 'pick-day':
+      state.selectedDate = el.dataset.key;
+      renderCalendar();
+      break;
+
+    case 'link-db':          await chooseDatabaseFolder(); break;
+    case 'reload-db':        await reloadFromDisk(); break;
+    case 'unlink-db':        unlinkDatabase(); break;
+    case 'force-write':      await writeDatabase(); renderAll(); break;
+
+    case 'export-json':      exportJSON(); break;
+    case 'clear-user':       clearUser(); break;
+    case 'clear-all':        clearAll(); break;
+  }
+});
+
+/* Tab 切换 */
+$$('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    state.tab = btn.dataset.tab;
+    $$('.tab').forEach(b => b.classList.toggle('active', b === btn));
+    $$('.pane').forEach(p => p.hidden = p.id !== 'tab-' + state.tab);
+    renderAll();
+  });
+});
+
+/* 使用者下拉切换 */
+document.addEventListener('change', e => {
+  if(e.target.id === 'userSelect'){
+    const v = e.target.value;
+    if(v && state.data.users[v]){
+      state.data.currentUser = v;
+      state.selectedDate = null;
+      $('#tab-records').dataset.built = '';
+      saveData();
+      renderAll();
+    }
+  }
+});
+
+/* Enter 建立使用者 / Esc 关闭 modal */
+document.addEventListener('keydown', e => {
+  if(e.key === 'Enter' && e.target.id === 'nickInput'){ switchUser(); }
+  if(e.key === 'Escape' && !$('#modalRoot').hidden){ closeModal(); }
+});
+
+/* 点击背景关闭 modal */
+$('#modalRoot').addEventListener('click', e => {
+  if(e.target.id === 'modalRoot') closeModal();
+});
+
+/* =========================================================
+   主渲染
+   ========================================================= */
+function renderAll(){
+  renderUserBar();
+  updateDbIndicator();
+  switch(state.tab){
+    case 'timer':    renderTimer();    break;
+    case 'records':  renderRecords();  break;
+    case 'calendar': renderCalendar(); break;
+    case 'stats':    renderStats();    break;
+    case 'data':     renderData();     break;
+  }
+}
+
+/* 每秒更新计时器 */
+setInterval(() => {
+  if(state.tab === 'timer' && !$('#tab-timer').hidden){
+    updateTimerLive();
+  }
+}, 1000);
+
+/* 窗口大小改变重绘图表 */
+let resizeTimer = null;
+window.addEventListener('resize', () => {
+  if(state.tab !== 'stats') return;
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(renderStats, 200);
+});
+
+/* =========================================================
+   启动
+   ========================================================= */
+(function init(){
+  const names = Object.keys(state.data.users);
+  if(!state.data.currentUser && names.length) state.data.currentUser = names[0];
+  renderAll();
+  if(!state.data.currentUser){
+    setTimeout(() => { $('#nickInput')?.focus(); }, 300);
+  }
+})();
+</script>
+</body>
+</html>
