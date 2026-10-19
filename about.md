@@ -58,6 +58,8 @@ Active projects but NOT related to CyberSecurity :
 - [健康追踪器](/html/health_tracker.html)    
 - [血糖总量计算器](/html/Blood_Glucose_Mass_Calculator.html)    
 - [Health Tracker](/html/health_tracking_system.html)    
+- [间歇性断食追踪器](/html/fasting.html)      
+
 
 Some of his projects about CyberSecurity are now inactive, they are :
 
