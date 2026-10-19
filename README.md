@@ -466,6 +466,10 @@ Samiux
 - [亚洲人体脂率计算器](/html/body_fat_calculator.html)    
 - [BRI身体圆度指数计算器](/html/bri_calculator.html)     
 
+## 间歇性断食追踪器
+
+- [间歇性断食追踪器](/html/fasting.html)                  
+
 ## 个案分享
 
 - [慢性炎症对肝脏健康的影响 (研究报告)](/liver_health.md)      
