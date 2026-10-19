@@ -17,7 +17,7 @@
 
 ### 间歇性断食追踪器
 
-- [间歇性断食追踪器](/html/fasting.html)      
+- [间歇性断食追踪器](/html/fasting.html)            
 
 #### 健康计算器
 
