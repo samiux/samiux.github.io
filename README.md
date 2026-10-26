@@ -120,11 +120,14 @@ hs-CRP 值越高就代表了身体有越强的慢性炎症，代谢疾病的风�
 
 另外亦有一个穷人方法，就是利用血液常规检查 (Complete Blood Count, CBC) 来估算。其公式为 ：
 
-NLR = 嗜中性白血球 (Neutrophils) / 淋巴性白血球 (Lymphocytes)      
+NLR (Neutrophil to Lymphocyte Ratio) = 嗜中性白血球 (Neutrophils) / 淋巴性白血球 (Lymphocytes)      
 
 其临床正常值为 < 1.5，最佳值为 ≤ 1      
 
-若果 NLR 偏高或与 (1) 过度训练；(2) 心血管疾病；(3) 有些癌症；(4) 感染或炎症有关。
+若果 NLR 偏高或与 (1) 过度训练；(2) 心血管疾病；(3) 有些癌症；(4) 感染或炎症有关。[31][32]      
+
+- 嗜中性白血球 (Neutrophils) : 越低越好
+- 淋巴性白血球 (Lymphocytes) : 越高越好
 
 ### 颈动脉血管壁厚度超声波 (CIMT)
 
@@ -473,6 +476,7 @@ Samiux
 更新 二零二六年九月廿二日，中国香港      
 更新 二零二六年九月廿五日，中国香港      
 更新 二零二六年十月四日，中国香港      
+更新 二零二六年十月廿七日，中国香港      
 
 ## 计算器
 
@@ -626,5 +630,7 @@ Samiux
 - [28] [Olive Oil Is NOT Healthy for Everyone?! Your Genes Decide (YouTube) - Dr. Anthony Jay](https://m.youtube.com/watch?v=Trse5utcTm8)        
 - [29] [hs-CRP 超敏C反应蛋白](https://mp.weixin.qq.com/s/L7rcj1TQBclrXyTjLuo9Rw)        
 - [30] [Dr. Ted Naiman - Insulin Resistance (YouTube) - Low Carb Down Under](https://www.youtube.com/watch?v=Jd8QFD5Ht18)        
+- [31] [The Metabolic Milieu: The Inflammation That May Be Hiding in a Routine Blood Test](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-the-inflammation)       
+- [32] [How to work out your neutrophil to lymphocyte ratio (NLR)](https://www.medichecks.com/blogs/longevity/how-to-work-out-your-neutrophil-to-lymphocyte-ratio-nlr)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
