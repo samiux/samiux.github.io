@@ -54,7 +54,9 @@
 
 ### Dr. David Unwin - 'Type 2 Diabetes: Real-world Success, N=1 and Hope!' (YouTube)
 
-<video src="https://www.youtube.com/watch?v=H4BOHWcj6h8" width="320" height="240" controls></video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=H4BOHWcj6h8" target="_blank">
+ <img src="https://img.youtube.com/vi/H4BOHWcj6h8/0.jpg" alt="Dr. David Unwin - Type 2 Diabetes: Real-world Success, N=1 and Hope!" width="240" height="180" border="10" />
+</a>
 [![Dr. David Unwin - Type 2 Diabetes: Real-world Success, N=1 and Hope!](https://img.youtube.com/vi/H4BOHWcj6h8/0.jpg)](https://www.youtube.com/watch?v=H4BOHWcj6h8)      
 
 ## 无奈
