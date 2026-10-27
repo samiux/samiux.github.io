@@ -34,6 +34,8 @@
 - [细说健康地长寿 -- 简易版 (PDF)](/pdf/health/细说健康地长寿——颠覆认知的健康新知.pdf)        
 - [胆固醇与他汀类药物深度剖析 -- 简易版 (PDF)](/pdf/health/胆固醇与他汀类药物深度剖析.pdf)      
 
+[![Dr. David Unwin - Type 2 Diabetes: Real-world Success, N=1 and Hope!](https://img.youtube.com/vi/H4BOHWcj6h8/0.jpg)](https://www.youtube.com/watch?v=H4BOHWcj6h8)      
+
 ## 无奈
 
 近代的成就是科技进步，医疗进步，食物来源充足，生活条件改善，人口的死亡率下降。但是大部份的人群都是失能地、百病缠身地长寿，社会和个人的医疗负担越来越重。
