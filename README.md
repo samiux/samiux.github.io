@@ -68,7 +68,9 @@
 
 LDL 包含了很多大小不一的颗粒，当中我们比较重视的除了 Lp(a)，ApoA1，ApoB 外，还有 sdLDL 和 ldLDL。sdLDL (Pattern B) 是身体代谢操作不当后的产物，是会对血管健康带来了风险的；而 ldLDL (Pattern A) 是身体代谢正常的产物，对身体健康没有害处的。那就是 ldLDL 越多越好，而 sdLDL 就是越少越好。
 
-大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的。另外 VLDL，IDL，LDL，Lp(a)，ldLDL，sdLDL 都含有 ApoB 的，所以近期流行主张要看 ApoB 的都是数据不清晰的。[21] 为何会主张看 ApoB 呢？究其原因是有新药物嘛。
+大致上，ApoA1 与 ApoB 是对标 ldLDL 与 sdLDL 的。另外 VLDL，IDL，LDL，Lp(a)，ldLDL，sdLDL 都含有 ApoB 的，所以近期流行主张要看 ApoB 的都是数据不清晰的。[21] 为何会主张看 ApoB 呢？究其原因是有新药物嘛。[33]      
+
+<img src="/images/health/2026/same_apob_different_roads.jpg" width="425"/>       
 
 但有研究发现，若果只看 ApoB 是代表不了什么的，要是与空腹胰岛素一起看时就会发现当 ApoB 与空腹胰岛素同时低时，缺血性心脏病 (IHD) 的机会相对比较低；相反，当 ApoB 与空腹胰岛素同时高时，缺血性心脏病的机会就会相对比较高。[19]
 
@@ -630,7 +632,8 @@ Samiux
 - [28] [Olive Oil Is NOT Healthy for Everyone?! Your Genes Decide (YouTube) - Dr. Anthony Jay](https://m.youtube.com/watch?v=Trse5utcTm8)        
 - [29] [hs-CRP 超敏C反应蛋白](https://mp.weixin.qq.com/s/L7rcj1TQBclrXyTjLuo9Rw)        
 - [30] [Dr. Ted Naiman - Insulin Resistance (YouTube) - Low Carb Down Under](https://www.youtube.com/watch?v=Jd8QFD5Ht18)        
-- [31] [The Metabolic Milieu: The Inflammation That May Be Hiding in a Routine Blood Test](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-the-inflammation)       
+- [31] [The Metabolic Milieu: The Inflammation That May Be Hiding in a Routine Blood Test - The Feldman Protocol](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-the-inflammation)       
 - [32] [How to work out your neutrophil to lymphocyte ratio (NLR)](https://www.medichecks.com/blogs/longevity/how-to-work-out-your-neutrophil-to-lymphocyte-ratio-nlr)       
+- [33] [The Metabolic Milieu: Is HDL-C Just ApoB in Disguise? - The Feldman Protocol](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-is-hdl-c-just)       
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
