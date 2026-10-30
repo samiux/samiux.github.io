@@ -317,7 +317,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 尽管如此，我比较偏向低碳高脂饮食、生酮饮食、纯肉饮食、断食，因为其原理比较接近我们的祖先智人的饮食和生活习惯，而且亦越来越多的研究证明这点。
 
-以我认为，如果你已经是中央肥胖、肥胖，患有各种慢性疾病 (包括情绪病) 等，从间歇性断食 (例如 1212，168，204，213，222，231 等) 开始会比较理想和适合。至于高脂就要视乎你的身体状况，不能一概而论的，尤其是所谓「饮油」这个行为。我主张首先要激活身体机制开始去代谢脂肪，那就需要配合低碳这个步骤了。在初期低碳后，进食一些健康的脂肪确实可以激活脂肪代谢系统，当然初期的效率必定是并不理想的。断食是可以修復身体这个论述是已经被实践了无数次了，并非只停留在诺贝尔奖这个阶段，很多人已经利用断食这个饮食习惯逆转了他们的慢性疾病了。
+以我认为，如果你已经是中央肥胖、肥胖，患有各种慢性疾病 (包括情绪病) 等，从间歇性断食 (例如 1212，168，204，213，222，231 等) 开始会比较理想和适合。至于高脂就要视乎你的身体状况，不能一概而论的，尤其是所谓「饮油」这个行为。我主张首先要激活身体机制开始去代谢脂肪，那就需要配合低碳这个步骤了。在初期低碳后，进食一些健康的脂肪确实可以激活脂肪代谢系统，当然初期的效率必定是并不理想的。[34] 断食是可以修復身体这个论述是已经被实践了无数次了，并非只停留在诺贝尔奖这个阶段，很多人已经利用断食这个饮食习惯逆转了他们的慢性疾病了。
 
 <img src="/images/health/2026/LMHRs_dr_advise.jpg" width="425"/>         
 
@@ -657,5 +657,6 @@ Samiux
 - [31] [The Metabolic Milieu: The Inflammation That May Be Hiding in a Routine Blood Test - The Feldman Protocol](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-the-inflammation)       
 - [32] [How to work out your neutrophil to lymphocyte ratio (NLR)](https://www.medichecks.com/blogs/longevity/how-to-work-out-your-neutrophil-to-lymphocyte-ratio-nlr)       
 - [33] [The Metabolic Milieu: Is HDL-C Just ApoB in Disguise? - The Feldman Protocol](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-is-hdl-c-just)       
+- [34] [生酮饮食到底要吃多少脂肪？(微信公众号) -- 唐黎之博士](https://mp.weixin.qq.com/s/5DGC7pX1EuioOcmDjzodjg)          
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
