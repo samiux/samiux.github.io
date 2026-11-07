@@ -339,6 +339,8 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 有专家认为在理论上，当在细胞自噬的过程中，如果摄取了脂肪是不会打断或终止细胞自噬的，因为脂肪基本上不会刺激胰岛素的分泌。
 
+亦有专家认为空腹运动、喝无糖黑咖啡、18 小时断食、热暴露等，亦可唤醒/进入细胞自噬的状态。[35]    
+
 低碳饮食、间歇性断食 (或同时两者) 是有效改善胰岛素低抗，增加胰岛素的敏感度，进而缓解或逆转各种的慢性疾病。
 
 ## 盲区
@@ -658,5 +660,6 @@ Samiux
 - [32] [How to work out your neutrophil to lymphocyte ratio (NLR)](https://www.medichecks.com/blogs/longevity/how-to-work-out-your-neutrophil-to-lymphocyte-ratio-nlr)       
 - [33] [The Metabolic Milieu: Is HDL-C Just ApoB in Disguise? - The Feldman Protocol](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-is-hdl-c-just)       
 - [34] [生酮饮食到底要吃多少脂肪？(微信公众号) -- 唐黎之博士](https://mp.weixin.qq.com/s/5DGC7pX1EuioOcmDjzodjg)          
+- [35] [不靠长时间断食，也能激活细胞自噬：一位断食研究者的完整方案](https://mp.weixin.qq.com/s/M1OlWXQupT1R7r4ym45mJw)            
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
