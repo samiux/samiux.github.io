@@ -8,7 +8,7 @@
 
 ## Linux
 
-- [USB/IP Bridge](https://github.com/samiux/usbip_bridge/README.md)      
+- [USB/IP Bridge](https://github.com/samiux/usbip_bridge)      
 
 ## Others
 
