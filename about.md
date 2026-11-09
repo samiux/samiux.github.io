@@ -30,6 +30,10 @@ Active projects for CyberSecurity :
 
 - [Most Secure and Clean Internet Connection](/secure_clean_internet.md)    
 
+Active projects for Linux :
+
+- [USB/IP Bridge](https://github.com/samiux/usbip_bridge)      
+
 Active projects but NOT related to CyberSecurity :
 
 - [治未病 我健康 我担当 2026](/myhealth_mysay_2026.md)       
