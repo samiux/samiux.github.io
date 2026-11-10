@@ -203,7 +203,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 在 1975 年的一项研究中显示维持/增加肌肉量是与氮 (Nitrogen)、磷酸盐 (Phosphate)、钾 (Potassium) 及蛋白质有直接的关系。另要维持/增加骨质密度是与氮、磷酸盐、钠有直接的关系。至于脂肪就只有与葡萄糖有直接的关系了。再者，骨头并不是死物，骨质是不停地代谢、拆毁及组装，骨质疏松与以上提及的物质有关外还与蛋白质有直接的关系呢。
 
-最近 (2026 年 1 月) 发表了一项颠覆主流医学、营养学、运动科学的研究，其显示人类的身体并非为利用碳水化合物而设计的，却证明主要是以利用脂肪而设计的。[10]  因为燃料 (碳水化合物) 用错了，所以引致机器 (人体) 问题多多 (慢性疾病)，什至坏掉 (提早死亡) 了。
+最近 (2026 年 1 月) 发表了一项颠覆主流医学、营养学、运动科学的研究，其显示人类的身体并非为利用碳水化合物而设计的，却证明主要是以利用脂肪而设计的。[10] [36]  因为燃料 (碳水化合物) 用错了，所以引致机器 (人体) 问题多多 (慢性疾病)，什至坏掉 (提早死亡) 了。
 
 ### 糖不耐受
 
@@ -503,6 +503,7 @@ Samiux
 更新 二零二六年九月廿五日，中国香港      
 更新 二零二六年十月四日，中国香港      
 更新 二零二六年十月廿七日，中国香港      
+更新 二零二六年十一月十日，中国香港      
 
 ## 计算器
 
@@ -515,6 +516,10 @@ Samiux
 ## 间歇性断食追踪器
 
 - [间歇性断食追踪器](/html/fasting.html)                  
+
+## 断食与运动
+
+- [Alex McDonald - Five Marathons. Five Days. Completely Fasted. The Data (YouTube)](https://www.youtube.com/watch?v=Te089uYNc8o)      
 
 ## 个案分享
 
@@ -661,5 +666,6 @@ Samiux
 - [33] [The Metabolic Milieu: Is HDL-C Just ApoB in Disguise? - The Feldman Protocol](https://feldmanprotocol.substack.com/p/the-metabolic-milieu-is-hdl-c-just)       
 - [34] [生酮饮食到底要吃多少脂肪？(微信公众号) -- 唐黎之博士](https://mp.weixin.qq.com/s/5DGC7pX1EuioOcmDjzodjg)          
 - [35] [不靠长时间断食，也能激活细胞自噬：一位断食研究者的完整方案](https://mp.weixin.qq.com/s/M1OlWXQupT1R7r4ym45mJw)            
+- [36] [Alex McDonald - Five Marathons. Five Days. Completely Fasted. The Data (YouTube)](https://www.youtube.com/watch?v=Te089uYNc8o)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
