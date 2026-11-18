@@ -239,6 +239,8 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 慢性疾病是包括肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、肾病、慢性炎症、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症、肠漏等。有专家认为前列腺增生与胰岛素抵抗或有相关。
 
+代谢专家 Dr. Ben Bikman 在其视频中讲述中老年男性的前列腺增生是与胰岛素抵抗有直接关系，亦与睾酮素水平下降同时女性激素增加有关。[37]
+
 ![肥胖是百病之源](/images/health/2026/obesity_causes_all_diseases.png "肥胖是百病之源")      
 
 ## 中医及功能医学
@@ -667,5 +669,6 @@ Samiux
 - [34] [生酮饮食到底要吃多少脂肪？(微信公众号) -- 唐黎之博士](https://mp.weixin.qq.com/s/5DGC7pX1EuioOcmDjzodjg)          
 - [35] [不靠长时间断食，也能激活细胞自噬：一位断食研究者的完整方案](https://mp.weixin.qq.com/s/M1OlWXQupT1R7r4ym45mJw)            
 - [36] [Alex McDonald - Five Marathons. Five Days. Completely Fasted. The Data (YouTube)](https://www.youtube.com/watch?v=Te089uYNc8o)      
+- [37] [170: Nighttime Bathroom Trips? The Insulin Connection (YouTube)  -- Dr. Ben Bikman](https://m.youtube.com/watch?v=vUYxrQou8os)          
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
