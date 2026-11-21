@@ -108,6 +108,7 @@ sudo systemctl restart pihole-FTL
 - [Pi-Hole Offficial Site](https://pi-hole.net/)     
 - [Unbound - a validating, recursive, caching DNS resolver](https://nlnetlabs.nl/projects/unbound/about/)       
 - [Pi-Hole Ad Tester](https://fuzzthepiguy.tech/adtest/)    
+- [Pi + Pi-hole + Unbound (optional) Worksheet](https://www.dad-the-engineer.com/blog/rpi-pi-hole-unbound-optional-worksheet)      
 
 Samiux       
 OSCE   OSCP   OSWP    
