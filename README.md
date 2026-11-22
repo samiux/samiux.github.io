@@ -195,7 +195,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 ![肥胖大流行](/images/health/2026/obesity_epidemic.png "肥胖大流行")      
 
-若果患有任何一种或多种慢性疾病的话 (如肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症等) ，其改善或逆转的方法只有低碳高脂饮食和断食，药物或手术治疗只是治标不能治本的，改善了或控制了症状并不能代表已经治癒了和康復了。
+若果患有任何一种或多种慢性疾病的话 (如肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症等) ，其改善或逆转的方法只有低碳高脂饮食和断食，药物或手术治疗只是治标不能治本的，改善了或控制了症状并不能代表已经治癒了和康復了。[38]      
 
 有研究和临床上的数据显示，适当的低碳高脂饮食可以控制血管的软性斑块的增加，更有数据显示有个别个案有软性斑块减退的情况出现。
 
@@ -241,7 +241,7 @@ CIMT 检查，若果发现颈动脉有钙化的话，这样的斑块是比较稳
 
 所以慢性疾病不是突然间地出现的，是经过了多年以上的身体系统运作上不平衡而导致的。慢性疾病又称为「无声杀手」，是因为他的出现是无感的、无痛的、慢慢的，好像温水煮蛙一样。不当的饮食习惯和不良的生活习惯就会令致身体出现这样的不平衡状态了。因个体、基因、病史、喜恶、环境的不同就会发展出不同的慢性疾病了。一旦当一种的慢性疾病出现了，也亦代表了其他的慢性疾病将会接踵而来的。
 
-慢性疾病是包括肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、肾病、慢性炎症、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症、肠漏等。有专家认为前列腺增生与胰岛素抵抗或有相关。
+慢性疾病是包括肥胖、脂肪肝、胰岛素抵抗、糖尿病、高血压、高尿酸、肾病、慢性炎症、大部分的精神疾病、大部分的过敏症、自身免疫系统疾病、阿兹海默症、柏金遜症、某些癌症、骨质疏松症、肠漏等。有专家认为前列腺增生与胰岛素抵抗或有相关。[38]    
 
 代谢专家 Dr. Ben Bikman 在其视频中讲述中老年男性的前列腺增生是与胰岛素抵抗有直接关系，亦与睾酮素水平下降同时女性激素增加有关。[37]
 
@@ -613,6 +613,7 @@ Samiux
 - [曾嶔元 精準醫療權威醫師【早安健康 × 樂活人物】 (YouTube)](https://www.youtube.com/watch?v=6tVXgxAH8U8)       
 - [Decoding Insulin Resistance (YouTube) - Medical Inspire 醫・思維](https://www.youtube.com/watch?v=_O7iapU1c-E)         
 - [Insulin Expert - Dr Unwin : Rice, Bread & Potatoes Spike Blood Sugar Without You Knowing (YouTube) - The Primal Podcast](https://www.youtube.com/watch?v=gggzpmGC61U)       
+- [Dr. Donald Layman on Optimizing Protein to stimulate Muscle Growth (YouTube)](https://www.youtube.com/watch?v=7TORafJEOwQ)     
 - [Cholesterol Code - Reverse Engineering the Mystery](https://cholesterolcode.com)       
 - [The Feldman Protocol (YouTube)](https://www.youtube.com/@FeldmanProtocol)      
 - [The Feldman Protocol Newsletter](https://feldmanprotocol.substack.com/)        
@@ -674,5 +675,6 @@ Samiux
 - [35] [不靠长时间断食，也能激活细胞自噬：一位断食研究者的完整方案](https://mp.weixin.qq.com/s/M1OlWXQupT1R7r4ym45mJw)            
 - [36] [Alex McDonald - Five Marathons. Five Days. Completely Fasted. The Data (YouTube)](https://www.youtube.com/watch?v=Te089uYNc8o)      
 - [37] [170: Nighttime Bathroom Trips? The Insulin Connection (YouTube)  -- Dr. Ben Bikman](https://m.youtube.com/watch?v=vUYxrQou8os)          
+- [38] [Dr. Glen Davies - Cancer is a Metabolic Disease (YouTube) - Low Carb Down Under](https://www.youtube.com/watch?v=wGuJVKP80uM)     
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
