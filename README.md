@@ -463,7 +463,9 @@ __关注肠道健康、口腔卫生、胰岛素抵抗、慢性炎症、营养摄
 
 ![Optimal Blood Biomarker Ranges](/images/health/2026/optimal_blood_biomarker_ranges.png "Optimal Blood Biomarker Ranges")        
 
-另外，GGT 偏高则显示脂肪酸被氧化的程度相对地偏高。
+另外，GGT 偏高则显示脂肪酸被氧化的程度相对地偏高。[40]
+
+![Ketosis vs Chronic Diseases of Ageing](/images/health/2026/ketosis_vs_chronic_diseases.png "Ketosis vs Chronic Diseases of Ageing")        
 
 ## 我的发现
 
@@ -514,6 +516,7 @@ Samiux
 更新 二零二六年十月四日，中国香港      
 更新 二零二六年十月廿七日，中国香港      
 更新 二零二六年十一月十日，中国香港      
+更新 二零二六年十一月廿四日，中国香港      
 
 ## 计算器
 
@@ -681,5 +684,6 @@ Samiux
 - [37] [170: Nighttime Bathroom Trips? The Insulin Connection (YouTube)  -- Dr. Ben Bikman](https://m.youtube.com/watch?v=vUYxrQou8os)          
 - [38] [Dr. Glen Davies - Cancer is a Metabolic Disease (YouTube) - Low Carb Down Under](https://www.youtube.com/watch?v=wGuJVKP80uM)     
 - [39] [The ‘Healthy’ Diet Says 270g of Carbs a Day. So We Tested It (YouTube) - Dr Isabella Cooper](https://www.youtube.com/watch?v=huUB-6pXyEo)      
+- [40] [Dr Isabella Cooper - Keto Endocrine Metabolic Oncology (KEMO) Therapy for Cancer (YouTube)](https://www.youtube.com/watch?v=TSVUnS8zrZA)      
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
