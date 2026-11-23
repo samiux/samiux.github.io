@@ -463,6 +463,8 @@ __关注肠道健康、口腔卫生、胰岛素抵抗、慢性炎症、营养摄
 
 ![Optimal Blood Biomarker Ranges](/images/health/2026/optimal_blood_biomarker_ranges.png "Optimal Blood Biomarker Ranges")        
 
+另外，GGT 偏高则显示脂肪酸被氧化的程度相对地偏高。
+
 ## 我的发现
 
 ### 血液的高粘滞或与慢性炎症/胰岛素抵抗/甘油三酯有关
