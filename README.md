@@ -685,5 +685,6 @@ Samiux
 - [38] [Dr. Glen Davies - Cancer is a Metabolic Disease (YouTube) - Low Carb Down Under](https://www.youtube.com/watch?v=wGuJVKP80uM)     
 - [39] [The ‘Healthy’ Diet Says 270g of Carbs a Day. So We Tested It (YouTube) - Dr Isabella Cooper](https://www.youtube.com/watch?v=huUB-6pXyEo)      
 - [40] [Dr Isabella Cooper - Keto Endocrine Metabolic Oncology (KEMO) Therapy for Cancer (YouTube)](https://www.youtube.com/watch?v=TSVUnS8zrZA)      
+- [41] [NADIR ALI - SAD STATINS …our body MUST HAVE LDL: For sex hormones; heart; energy (YouTube)](https://www.youtube.com/watch?v=OIDulIc40IM)     
 
 |[Home](/README.md)|[Projects](/projects.md)|[Articles](/articles.md)|[Apophthegm](/apophthegm.md)|[About](/about.md)|
